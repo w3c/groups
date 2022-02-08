@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Nudge the system</title>
+
+  <script>
+  function nudge() {
+    fetch('../nudge', {
+      method: 'POST',
+      mode: 'same-origin',
+      cache: 'no-cache',
+      credentials: 'omit',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      redirect: 'error',
+      referrer: 'no-referrer',
+      body: JSON.stringify({nudge: true })
+    })
+  }
+</script>
+</head>
+<body>
+  <h1>Nudge</h1>
+  <button onclick="nudge();">Nudge the service</button>
+
+</body>
+</html>
