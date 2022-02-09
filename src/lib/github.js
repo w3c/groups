@@ -31,68 +31,108 @@ const octokit = new Octokit({
   }
 });
 
-// encoding is https://nodejs.org/dist/latest/docs/api/buffer.html#buffer_buffers_and_character_encodings
-// decoder is "json" or "text"
-function decode(content, encoding, decoder = "text") {
-  if (encoding) {
-    content = Buffer.from(content, encoding).toString();
-  }
-  switch (decoder) {
-  case "json":
-    try {
-      return JSON.parse(content);
-    } catch (e) {
-      return undefined;
+const repoQuery = `
+  query ($org: String!, $cursor: String) {
+    organization(login: $org) {
+      repositories(first: 10, after: $cursor) {
+        nodes {
+          name
+          homepageUrl
+          description
+          isArchived
+          isPrivate
+          w3cjson: object(expression: "HEAD:w3c.json") {
+            ... on Blob {
+              text
+            }
+          }
+        }
+        pageInfo {
+          endCursor
+          hasNextPage
+        }
+      }
     }
-  default:
-    return content;
   }
-}
+`;
 
-function transformContent(ghObject, encoding) {
-  try {
-    if (ghObject.type && ghObject.type === 'file') {
-      return decode(ghObject.content, ghObject.encoding, encoding);
-    }
-  } catch (e) {
-    //otherwise ignore
-    console.log(e);
-  }
-  return (encoding == "json") ? {} : "";
-}
-
-octokit.getContent = async (repo, path, encoding) => {
-  try {
-    const response = await octokit.request(`GET /repos/${repo}/contents/${path}`);
-    return transformContent(response.data, encoding);
-  } catch (e) {
-    if (e.status === 304) {
-      monitor.error(`compounded requests aren't allowed to return 304`);
-    }
-    //otherwise ignore
-  }
-  return (encoding == "json") ? {} : "";
-}
-
-octokit.getW3C = async (repo) => {
-  function getNumber(identifier) {
-    if (typeof identifier === "string" && identifier.match(/^[0-9]+$/)) {
-      identifier = Number.parseInt(identifier);
+// Sanitize w3c.json files
+function sanitizeW3CJSON(text) {
+  function toNumber(identifier) {
+    if (typeof identifier === "string") {
+      if (identifier.match(/^[0-9]+$/)) {
+        identifier = Number.parseInt(identifier);
+      } else if (identifier.match(new RegExp("^[-\w]+/[-\w]+$"))) {
+        monitor.error(`found a w3c.json using ${identifier}`);
+      }
     }
     return identifier;
   }
+  let w3c = {};
   try {
-    const w3c = await octokit.getContent(repo, "w3c.json", "json");
-    let groups = [];
-    if (Array.isArray(w3c.group)) {
-      w3c.group = w3c.group.map(getNumber);
-    } else if (w3c.group !== undefined) {
-      w3c.group = [getNumber(w3c.group)];
-    }
-    return w3c;
+    w3c = JSON.parse(text);
   } catch (e) {
-    return undefined;
+    w3c["repo-type"] = "invalid/json"
+  }; // ignore
+  if (w3c && Array.isArray(w3c.group)) {
+    w3c.group = w3c.group.map(toNumber);
+  } else if (w3c && w3c.group) {
+    w3c.group = [toNumber(w3c.group)];
+  }
+  return w3c;
+}
+
+async function *listRepos(org) {
+
+  for (let cursor = null; ;) {
+    const res = await octokit.graphql(repoQuery, {org, cursor});
+    for (const repo of res.organization.repositories.nodes) {
+      repo.owner = { "login" : org };
+      if (repo.w3cjson && repo.w3cjson.text) {
+        repo.w3c = sanitizeW3CJSON(repo.w3cjson.text);
+        delete repo.w3cjson;
+      } else {
+        repo.w3c = { "repo-type": "invalid/notfound" };
+      }
+      yield repo;
+    }
+    if (res.organization.repositories.pageInfo.hasNextPage) {
+      cursor = res.organization.repositories.pageInfo.endCursor;
+    } else {
+      break;
+    }
   }
 }
+octokit.listRepos = listRepos; // export
+
+async function createContent(path, message, content, branch) {
+  const file = await octokit.request("GET /repos/:repo/contents/:path", {
+    repo: this.full_name,
+    path: path
+  });
+
+  let sha;
+  if (file.status === 200) {
+    if (file.data.type !== "file") {
+      throw new Error(`${path} isn't a file to be updated. it's ${file.data.type}.`);
+    }
+    // we're about to update the file
+    sha = file.data.sha;
+  } else if (file.status === 404) {
+    // we're about to create the file
+  } else {
+    throw file;
+  }
+  content = Buffer.from(content, "utf-8").toString('base64');
+  return octokit.request("PUT /repos/:repo/contents/:path", {
+    repo: this.full_name,
+    path: path,
+    message: message,
+    content: content,
+    sha: sha,
+    branch: branch
+  });
+}
+octokit.createContent = createContent;
 
 export default octokit;
