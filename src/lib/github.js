@@ -106,10 +106,7 @@ async function *listRepos(org) {
 octokit.listRepos = listRepos; // export
 
 async function createContent(path, message, content, branch) {
-  const file = await octokit.request("GET /repos/:repo/contents/:path", {
-    repo: this.full_name,
-    path: path
-  });
+  const file = await octokit.request(`GET /repos/w3c/groups/contents/${path}`).catch(err=>err);
 
   let sha;
   if (file.status === 200) {
@@ -124,9 +121,7 @@ async function createContent(path, message, content, branch) {
     throw file;
   }
   content = Buffer.from(content, "utf-8").toString('base64');
-  return octokit.request("PUT /repos/:repo/contents/:path", {
-    repo: this.full_name,
-    path: path,
+  return octokit.request(`PUT /repos/w3c/groups/contents/${path}`, {
     message: message,
     content: content,
     sha: sha,

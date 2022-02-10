@@ -1,0 +1,8 @@
+{
+  "ghToken": "github-key",
+  "w3capikey": "w3capi-key",
+  "port": 8055,
+  "debug": false,
+  "destination": "clone-of-w3c/groups/main",
+  "refreshCycle": 3
+}

@@ -28,10 +28,9 @@ config.ghToken = config.ghToken || "missing-GitHub-token";
 config.w3capikey = config.w3capikey || "missing-W3C-API-key";
 
 // app specifics
-config.allowOrigins = config.allowOrigins || [];
 config.refreshCycle = config.refreshCycle || 24;
 
-config.dest_directory = path.resolve(config.basedir, config.dest_directory || "");
+config.destination = config.destination || path.resolve(config.basedir, "..");
 
 // dump the configuration into the server log (but not in the server monitor!)
 console.log("".padStart(80, '-'));

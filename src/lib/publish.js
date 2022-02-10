@@ -1,6 +1,8 @@
 import fs from "fs/promises";
 import path from 'path';
+import * as monitor from "./monitor.js";
 import config from "./config.js";
+import github from "./github.js";
 
 // export
 const publish = {}
@@ -21,11 +23,16 @@ async function mkdir(param_path) {
 async function saveData(fs_path, data) {
   async function _writeData(filepath, data) {
     if (config.debug) console.log("save " + filepath);
+    await github.createContent(fs_path, "Update from upstream", data, "main").then(data => {
+      if (data.status !== 200) {
+        throw data;
+      }
+    });
     await mkdir(path.dirname(filepath));
     return fs.writeFile(filepath, data);
   }
 
-  const filepath = path.resolve(config.dest_directory, fs_path);
+  const filepath = path.resolve(config.destination, fs_path);
 
   data = JSON.stringify(data);
 
@@ -33,7 +40,6 @@ async function saveData(fs_path, data) {
   let current = await fs.readFile(filepath).then(JSON.parse).catch(e=>undefined);
 
   if (current) {
-
     if (JSON.stringify(current) === data) {
       return {"status": "done", "details": "no need to save it"};
     } else {
@@ -48,7 +54,7 @@ publish.saveData = saveData;
 // used for debugging purpose
 async function getData(fs_path) {
 
-  const filepath = path.resolve(config.dest_directory, fs_path);
+  const filepath = path.resolve(config.destination, fs_path);
 
   // first read the file
   return fs.readFile(filepath).then(JSON.parse).catch(e=>undefined);
