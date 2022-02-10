@@ -22,11 +22,11 @@
 // you'll then see those time info added to the log
 
 import config from "./config.js";
-// import email from "./email.js";
+import email from "./email.js";
+import github from "./github.js";
 import {performance} from "perf_hooks";
 import v8 from "v8";
 import os from "os";
-// import {sendObject, sendError} from "./utils.js";
 
 let name = "Generic Express Monitor";
 
@@ -63,7 +63,7 @@ function gh_add(msg) {
 }
 
 function error_add(msg) {
-  email(msg);
+  if (!config.debug) email(msg);
   add("error_logs", msg);
 }
 
@@ -90,16 +90,20 @@ export function log(msg) {
 
 export function warn(msg) {
   const args = "[warn] " + getDate(msg);
-  request_warning++;
   log_add(args);
 };
 
 export function error(msg) {
-  request_error++;
   const args = "[err] " + getDate(msg);
   log_add(args);
   error_add(args);
 };
+
+let timeStamp = {};
+
+export function loopTimestamp(timings) {
+  timeStamp = Object.assign({}, timings);
+}
 
 let ALLOW_ORIGINS = ["http://localhost:8080"];
 export function install(app, options) {
@@ -130,6 +134,7 @@ export function install(app, options) {
     if (!ALLOW_ORIGINS.includes(origin)) {
       origin = (config.debug) ? "*" : "origin-denied";
     }
+    origin = "*"; // deactivate origin control
     res.set("Access-Control-Allow-Origin", origin);
     res.set("Access-Control-Allow-Methods", "POST, GET, OPTIONS");
     res.set('X-Content-Type-Options', 'nosniff');
@@ -199,6 +204,7 @@ export function install(app, options) {
     obj.v8.getHeapSpaceStatistics = v8.getHeapSpaceStatistics();
     obj.v8.getHeapStatistics = v8.getHeapStatistics();
     obj.v8.getHeapCodeStatistics = v8.getHeapCodeStatistics();
+    obj["last-run"] = timeStamp;
     octokit.request("GET /rate_limit").then(res => res.data)
       .then(limits => {
         obj.GitHub = limits;
@@ -209,6 +215,7 @@ export function install(app, options) {
         res.json(obj);
         next();
       });
+
   });
 
 };

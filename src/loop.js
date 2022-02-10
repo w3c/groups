@@ -1,6 +1,6 @@
 import github from "./lib/github.js";
 import w3c from "./lib/w3c.js";
-import publish from "./lib/publish.js";
+import * as publish from "./lib/publish.js";
 import * as monitor from "./lib/monitor.js";
 import config from "./lib/config.js";
 import fetch from 'node-fetch';
@@ -9,15 +9,12 @@ export function nudge() {
   cycle.catch(monitor.error);
 }
 
-let __settings;
-export async function settings() {
-  return __settings
-    || (__settings = await fetch("https://w3c.github.io/groups/settings.json").then(res => res.json()));
-}
+// set in init()
+let settings = {};
 
 async function cycle() {
   monitor.log("Starting a cycle");
-  const timestamp = { "start" : new Date().toISOString()};
+  const start = new Date().toISOString();
   const groups = await w3cgroups();
   monitor.log(`loaded ${groups.length} groups`)
   const allrepos = await repositories();
@@ -36,21 +33,13 @@ async function cycle() {
     const category = group.identifier.split('/')[0];
     if (!subgroups[category]) subgroups[category] = [];
     subgroups[category].push(group);
-    publish.saveData(`${group.identifier}/group.json`, group);
-    if (repos.length > 0) {
-      publish.saveData(`${group.identifier}/repositories.json`, repos);
-    }
-    if (others.length > 0) {
-      //others = others.map(o => Object.assign({"attachedGroup"}, o))
-      publish.saveData(`${group.identifier}/others.json`, others);
-    }
+    await publish.saveGroupRepositories(group, repos, others);
   }
   for (const entry of Object.entries(subgroups)) {
-    publish.saveData(`${entry[0]}/groups.json`, entry[1]);
+    await publish.saveData(`${entry[0]}/groups.json`, entry[1]);
   }
-  timestamp.end = new Date().toISOString();
-  timestamp.refreshCycle = config.refreshCycle;
-  publish.saveData('last-run.json', timestamp);
+  const end = new Date().toISOString();
+  monitor.loopTimestamp({start, end});
   monitor.log("Cycle completed");
 }
 
@@ -77,15 +66,14 @@ async function repositories() {
     repos = await publish.getData("repositories.json");
   }
   if (!repos) {
-    const w3c = await settings();
     repos = [];
-    for (const [ org, default_id ] of Object.entries(w3c.owners)) {
+    for (const [ org, default_ids ] of Object.entries(settings.owners)) {
       for await (const repo of github.listRepos(org)) {
         if (!repo.isPrivate) {
           delete repo.isPrivate; // we don't need this property
-          if (!repo.w3c && !repo.w3c.group && default_id.length) {
+          if ((!repo.w3c || !repo.w3c.group) && default_ids.length) {
             if (!repo.w3c) repo.w3c = {};
-            repo.w3c.group = default_id;
+            repo.w3c.group = default_ids;
           }
           if (config.debug) monitor.log(`found ${org}/${repo.name}`)
           repos.push(repo);
@@ -99,16 +87,21 @@ async function repositories() {
 
 export
 function init() {
+  let doCycle = true;
   if (config.debug) {
     // abort
     monitor.warn(`refresh cycle not starting (debug mode)`);
-    return;
+    doCycle = false;
   }
   function loop() {
-    cycle().catch(err => {
-      monitor.error(`refresh loop crashed\n ${JSON.stringify(err)}`);
-    });
-    setTimeout(loop, 1000 * 60 * 60 * config.refreshCycle);
+    fetch("https://w3c.github.io/groups/settings.json").then(res => res.json())
+     .then(_settings => {
+       settings = _settings; // save
+     }).then(cycle).then(() => {
+       setTimeout(loop, 1000 * 60 * 60 * settings.refreshCycle);
+     }).catch(err => {
+       monitor.error(`refresh loop crashed\n ${JSON.stringify(err)}`);
+     });
   }
   loop();
 }

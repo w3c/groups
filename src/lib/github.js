@@ -68,11 +68,10 @@ function sanitizeW3CJSON(text) {
     }
     return identifier;
   }
-  let w3c = {};
+  let w3c;
   try {
     w3c = JSON.parse(text);
   } catch (e) {
-    w3c["repo-type"] = "invalid/json"
   }; // ignore
   if (w3c && Array.isArray(w3c.group)) {
     w3c.group = w3c.group.map(toNumber);
@@ -91,8 +90,6 @@ async function *listRepos(org) {
       if (repo.w3cjson && repo.w3cjson.text) {
         repo.w3c = sanitizeW3CJSON(repo.w3cjson.text);
         delete repo.w3cjson;
-      } else {
-        repo.w3c = { "repo-type": "invalid/notfound" };
       }
       yield repo;
     }

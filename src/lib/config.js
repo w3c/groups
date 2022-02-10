@@ -20,7 +20,7 @@ config.basedir = process.env["NODE_BASEDIR"] || config.basedir || path.resolve(p
 
 // DEBUG mode
 
-config.debug = (config.env === "development") || config.debug || false;
+config.debug = config.debug && (config.env === "development");
 
 // auth tokens and keys
 
