@@ -1,0 +1,61 @@
+{
+  "$id": "https://example.com/repositories.json",
+  "$schema": "http://json-schema.org/schema#",
+  "description": "A representation of GitHub Repositories",
+  "type": "array",
+  "items": { "$ref": "#/$defs/repository" },
+  "uniqueItems": true,
+  "$defs": {
+    "repository": {
+      "type": "object",
+      "required": [ "name", "owner", "isArchived", "w3cjson" ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The name of the repository."
+        },
+        "homepageUrl": {
+          "type": "string",
+          "description": "The homepage URL of the repository."
+        },
+        "description": {
+          "type": "string",
+          "description": "The description of the repository."
+        },
+        "isArchived": {
+          "type": "boolean",
+          "description": "True if the repository has been archived, false otherwise."
+        },
+        "owner": {
+          "type": "object",
+          "required": [ "login" ],
+          "login": {
+            "type": "string",
+            "description": "The login name of the owner."
+          },
+            "description": "Repository owner."
+        },
+        "w3cjson": {
+          "type": "object",
+          "required": [ "group" ],
+          "group": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+              "type": "number"
+            },
+            "description": "List of group IDs, matching the W3C DB."
+          },
+          "repo-type": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+              "type": "string"
+            },
+            "description": "List of repository types."
+          }
+        }
+      }
+    }
+  }
+}

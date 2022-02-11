@@ -1,0 +1,39 @@
+{
+  "$id": "https://example.com/settings.json",
+  "$schema": "http://json-schema.org/schema#",
+  "description": "A representation of the settings for the GitHub crawler",
+  "type": "object",
+  "required": [
+    "refreshCycle",
+    "owners"
+  ],
+  "properties": {
+    "refreshCycle": {
+      "type": "integer",
+      "description": "The number of hours to wait before the next refresh"
+    },
+    "owners": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "required": [
+          "login",
+          "group"
+        ],
+        "login": {
+          "type": "string",
+          "description": "A GitHub owner."
+        },
+        "group": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "integer"
+          },
+          "description": "List of group IDs, matching the W3C DB."
+        }
+      }
+    }
+  }
+}

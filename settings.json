@@ -1,0 +1,25 @@
+{
+  "refreshCycle": 3,
+  "owners": [
+  { "login":  "w3c",
+    "group": [] },
+  { "login":  "webaudio",
+    "group": [] },
+  { "login":  "webmachinelearning",
+    "group": [] },
+  { "login":  "WICG",
+    "group": [ 80485 ] },
+  { "login":  "webassembly",
+    "group": [ 78073 ] },
+  { "login":  "immersive-web",
+    "group": [ 87846 ] },
+  { "login":  "w3ctag",
+    "group": [ 34270 ] },
+  { "login":  "w3cping",
+    "group": [ 52497 ] },
+  { "login":  "privacycg",
+    "group": [ 120428 ] },
+  { "login":  "gpuweb",
+    "group": [ 9687 ] }
+  ]
+}

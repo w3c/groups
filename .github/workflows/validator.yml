@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source Git branch
+        uses: actions/checkout@v2
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+
+      - run: npm install
+
+      - name: Validate Settings JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./settings-schema.json
+          INPUT_JSONS: ./settings.json
+
+      - name: Validate Repositories JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./repositories-schema.json
+          INPUT_JSONS: ./repositories.json
+
+      - name: Validate JSON files part 2
+        run: node validator.js
+        env:
+          W3CAPIKEY: ${{secrets.W3CAPIKEY}}
