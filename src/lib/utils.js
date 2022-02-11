@@ -11,6 +11,11 @@ const { JSDOM } = jsdom;
  */
 export
 async function getRepoPage(group, repos, others) {
+
+  // remove archived repositories
+  repos  = repos.filter(r => !r.isArchived);
+  others = others.filter(r => !r.isArchived);
+
   // For each group, we fetch its tools page and tweak the HTML as needed
   // this enables some robustness with the tools page changed
   const dom = await JSDOM.fromURL(`https://www.w3.org/groups/${group.identifier}/tools`);
