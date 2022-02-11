@@ -48,7 +48,18 @@ async function getRepoPage(group, repos, others) {
     dl.appendChild(dt);
     dl.appendChild(dd);
   }
-
+  const p = doc.createElement("p");
+  p.append("For repositories configuration, see the ")
+  const a = doc.createElement("a");
+  a.href = "https://w3c.github.io/w3c.json.html";
+  a.textContent = "w3c.json documentation";
+  p.append(a);
+  p.append(" (the numeric ID of this group is ");
+  const code = doc.createElement("code");
+  code.textContent = group.id;
+  p.append(code);
+  p.append(".");
+  dl.after(p);
   // @@ we do nothing with ${others} for now
 
   // we're done: serialize and return the String

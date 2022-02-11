@@ -100,7 +100,8 @@ function init() {
      }).then(cycle).then(() => {
        setTimeout(loop, 1000 * 60 * 60 * settings.refreshCycle);
      }).catch(err => {
-       monitor.error(`refresh loop crashed\n ${JSON.stringify(err)}`);
+       console.log(err);
+       monitor.error(`refresh loop crashed - ${err}`);
      });
   }
   loop();
