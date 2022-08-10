@@ -1,1 +1,33 @@
-{"id":85190,"name":"The Tourism Structured Web Data Community Group","is_closed":false,"description":"The mission of this group is to discuss and prepare proposals, examples, and best practice guidance for the sharing, via the web, structured data descriptions of resources associated with the tourism industry.\r\n\r\nInitial focus will be on extending Schema.org schemas for the improved representation of tourism related information markup and sharing. The group will seek consensus around, and support for, proposal(s) to be made to the Schema.org community. ","shortname":"tourismdata","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/tourismdata"},"homepage":{"href":"https://www.w3.org/community/tourismdata/"},"users":{"href":"https://api.w3.org/groups/cg/tourismdata/users"},"services":{"href":"https://api.w3.org/groups/cg/tourismdata/services"},"chairs":{"href":"https://api.w3.org/groups/cg/tourismdata/chairs"},"join":{"href":"https://www.w3.org/community/tourismdata/join"},"participations":{"href":"https://api.w3.org/groups/cg/tourismdata/participations"}},"identifier":"cg/tourismdata"}
+{
+ "id": 85190,
+ "name": "The Tourism Structured Web Data Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to discuss and prepare proposals, examples, and best practice guidance for the sharing, via the web, structured data descriptions of resources associated with the tourism industry.\r\n\r\nInitial focus will be on extending Schema.org schemas for the improved representation of tourism related information markup and sharing. The group will seek consensus around, and support for, proposal(s) to be made to the Schema.org community. ",
+ "shortname": "tourismdata",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/tourismdata"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/tourismdata/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/tourismdata/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/tourismdata/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/tourismdata/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/tourismdata/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/tourismdata/participations"
+  }
+ },
+ "identifier": "cg/tourismdata"
+}
