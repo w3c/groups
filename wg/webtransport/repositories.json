@@ -1,1 +1,22 @@
-[{"name":"webtransport","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/webtransport/","description":"WebTransport is a web API for flexible data transport ","isArchived":false,"w3cjson":{"group":["wg/webtransport"],"contacts":["ylafon"],"repo-type":["rec-track"]}}]
+[
+ {
+  "name": "webtransport",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/webtransport/",
+  "description": "WebTransport is a web API for flexible data transport ",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webtransport"
+   ],
+   "contacts": [
+    "ylafon"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
