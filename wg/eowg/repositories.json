@@ -1,1 +1,975 @@
-[{"name":"wai-InvolveUsersAll","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-InvolveUsersAll","description":"Involving Users in Web Projects for Better, Easier Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-InvolveUsersAll","repo-type":["article"],"policy":"open"}},{"name":"wai-InvolveUsersEval","owner":{"login":"w3c"},"homepageUrl":"https://wai-involveuserseval.netlify.com","description":"Involving Users in Evaluating Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-InvolveUsersEval","repo-type":["article"],"policy":"open"}},{"name":"wai-accessibility-principles","owner":{"login":"w3c"},"homepageUrl":"https://wai-accessibility-principles.netlify.com","description":"Accessibility Principles","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-accessibility-principles","repo-type":["article"],"policy":"open"}},{"name":"wai-bad-demo","owner":{"login":"w3c"},"description":"Updates to WAI Before and After Demo","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wai-bcase","owner":{"login":"w3c"},"homepageUrl":"https://wai-bcase.netlify.com/business-case/","description":"The Business Case for Digital Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-bcase","repo-type":["article"],"policy":"open"}},{"name":"wai-combined-expertise","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","nitedog"],"repo-type":["article"]}},{"name":"wai-components","owner":{"login":"w3c"},"homepageUrl":"https://wai-components.netlify.com/fundamentals/components/","description":"Essential Components of Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","nitedog"],"repo-type":["article"]}},{"name":"wai-components-gallery","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/blog/wai-components-gallery/","description":"Accessible UI Components List","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","yatil"],"repo-type":["article"]}},{"name":"wai-contacting-orgs","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-contacting-orgs/","description":"Contacting Organizations about Inaccessible Websites","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-conformance-eval-overview","repo-type":["article"],"policy":"open"}},{"name":"wai-curricula","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/WAI/curricula/","description":"Curricula on Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil"],"repo-type":["article"]}},{"name":"wai-develop-training","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-develop-training/teach-advocate/accessibility-training/","description":"Developing Web Accessibility Presentations and Training","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-develop-training","repo-type":["article"],"policy":"open"}},{"name":"wai-dynamic-planning","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wai-easy-checks","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/WAI/test-evaluate/preliminary/","description":"Easy Checks - A First Review of Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-easy-checks","repo-type":["article"],"policy":"open"}},{"name":"wai-eo-online-learning","owner":{"login":"w3c"},"description":"Accessible Online Learning - WAI EOWG Resources","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"repo-type":["article"]}},{"name":"wai-eval-report-templates","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-eval-report-templates/test-evaluate/report-template/","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-selecting-eval-tools","repo-type":["article"],"policy":"open"}},{"name":"wai-eval-tools","owner":{"login":"w3c"},"homepageUrl":"http://w3c.github.io/wai-eval-tools/","description":"WAI Accessibility Evaluation Tools","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wai-first-aid","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-first-aid/plan/interim-repairs/","description":"Web Accessibility First Aid: Approaches for Interim Repairs","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["yatil"],"shortName":"wai-first-aid","repo-type":["article"],"policy":"open"}},{"name":"wai-get-involved","owner":{"login":"w3c"},"isArchived":true,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-get-involved"}},{"name":"wai-inclusion","owner":{"login":"w3c"},"homepageUrl":"http://w3c.github.io/wai-inclusion/fundamentals/accessibility-usability-inclusion/","description":"Document exploring the relationship between accessibility, usability, and inclusion","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-inclusion","repo-type":["article"],"policy":"open"}},{"name":"wai-intro-accessibility","owner":{"login":"w3c"},"homepageUrl":"https://wai-intro-accessibility.netlify.com/fundamentals/accessibility-intro/","description":"Introduction to Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-intro-accessibility","repo-type":["article"],"policy":"open"}},{"name":"wai-media-guide","owner":{"login":"w3c"},"homepageUrl":"https://wai-media-guide.netlify.com/","description":"Making Video and Audio Media Accessible. Preview:","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"repo-type":["article"]}},{"name":"wai-media-intro","owner":{"login":"w3c"},"description":"Accessible Media Introduction","isArchived":true,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","yatil"],"repo-type":["article"]}},{"name":"wai-mobile-intro","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-mobile-intro/mobile","description":"Mobile Accessibility Developers Intro","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","yatil"],"repo-type":["article"]}},{"name":"wai-org-policies","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-org-policies/planning/org-policies/","description":"Developing Organizational Policies on Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["yatil","slhenry"],"shortName":"wai-org-policies","repo-type":["article"],"policy":"open"}},{"name":"wai-people-use-web","owner":{"login":"w3c"},"homepageUrl":"https://wai-people-use-web.netlify.com/","description":"How People With Disabilities use the Web","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-people-use-web","repo-type":["article"],"policy":"open"}},{"name":"wai-perspective-videos","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-perspective-videos/perspective-videos/","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","nitedog"],"repo-type":["article"]}},{"name":"wai-planning-and-implementation","owner":{"login":"w3c"},"homepageUrl":"","description":"WAI Planning and Implementation materials review","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog"],"repo-type":["article"]}},{"name":"wai-planning-and-managing","owner":{"login":"w3c"},"description":"New layout version of w3c/wai-dynamic-planning","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"repo-type":["article"]}},{"name":"wai-policies-prototype","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-policies-prototype/","description":"Prototype for the new WAI Policies Page","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wai-policieslist","owner":{"login":"w3c"},"description":"Updating Policies Relating to Web Accessibility http://www.w3.org/WAI/Policy/","isArchived":true,"w3cjson":{"group":["wg/eowg"],"contacts":["yatil"],"repo-type":["article"]}},{"name":"wai-presentations2all","owner":{"login":"w3c"},"homepageUrl":"https://wai-presentations2all.netlify.com/","description":"How to Make Presentations Accessible to All","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-presentations2all","repo-type":["article"],"policy":"open"}},{"name":"wai-quick-start","owner":{"login":"w3c"},"homepageUrl":"https://wai-quick-start.netlify.com","description":"Accessibility quick start tips","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","yatil"],"shortName":"wai-quick-start","repo-type":["article"],"policy":"open"}},{"name":"wai-roles-responsibilities","owner":{"login":"w3c"},"description":"Web Accessibility Roles & Responsibilities","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"repo-type":["article"]}},{"name":"wai-selecting-authoring-tools","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","nitedog"],"repo-type":["article"]}},{"name":"wai-selecting-eval-tools","owner":{"login":"w3c"},"homepageUrl":"https://wai-selecting-eval-tools.netlify.com/test-evaluate/tools/selecting/","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-selecting-eval-tools","repo-type":["article"],"policy":"open"}},{"name":"wai-shared-experiences","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-shared-experiences","repo-type":["article"],"policy":"open"}},{"name":"wai-showcase-examples","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-showcase-examples/Overview.html","description":"Accessibility Showcase Videos","isArchived":true,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wai-statements","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/wai-statements/planning/statements/","description":"Accessibility Statements","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","nitedog"],"repo-type":["article"]}},{"name":"wai-std-harmonization","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-std-harmonization","repo-type":["article"],"policy":"open"}},{"name":"wai-tips-procuring","owner":{"login":"w3c"},"description":"Procuring Tips for Web Accessibility","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"repo-type":["article"]}},{"name":"wai-tutorial-images","owner":{"login":"w3c"},"homepageUrl":"https://wai-tutorial-images.netlify.com/tutorials/images/","description":"Images Tutorial","isArchived":true,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","yatil"],"shortName":"wai-tutorial-images","repo-type":["article"],"policy":"open"}},{"name":"wai-tutorials","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/WAI/tutorials/","description":"W3C WAI’s Web Accessibility Tutorials","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry","yatil"],"shortName":"wai-tutorials","repo-type":["article"],"policy":"open"}},{"name":"wai-wcag-em-report-tool","owner":{"login":"w3c"},"homepageUrl":"https://w3.org/WAI/eval/report-tool","description":"2021 redesign of the WCAG-EM Report Tool","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","hidde","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wai-wcag-mob-overlap","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["slhenry"],"shortName":"wai-wcag-mob-overlap","repo-type":["article"],"policy":"open"}},{"name":"wai-wcag-quickref","owner":{"login":"w3c"},"homepageUrl":"https://wai-wcag-quickref.netlify.com","description":"How to Meet WCAG (Quick Reference)","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}},{"name":"wcag-em-report-tool","owner":{"login":"w3c"},"homepageUrl":"http://www.w3.org/WAI/eval/report-tool/","description":"Interactive Guide to Assist Managing Web Accessibility Evaluations","isArchived":false,"w3cjson":{"group":["wg/eowg"],"contacts":["nitedog","yatil","slhenry"],"policy":"open","repo-type":["article"]}}]
+[
+ {
+  "name": "wai-InvolveUsersAll",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-InvolveUsersAll",
+  "description": "Involving Users in Web Projects for Better, Easier Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-InvolveUsersAll",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-InvolveUsersEval",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-involveuserseval.netlify.com",
+  "description": "Involving Users in Evaluating Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-InvolveUsersEval",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-accessibility-principles",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-accessibility-principles.netlify.com",
+  "description": "Accessibility Principles",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-accessibility-principles",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-bad-demo",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Updates to WAI Before and After Demo",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-bcase",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-bcase.netlify.com/business-case/",
+  "description": "The Business Case for Digital Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-bcase",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-combined-expertise",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "nitedog"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-components",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-components.netlify.com/fundamentals/components/",
+  "description": "Essential Components of Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "nitedog"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-components-gallery",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/blog/wai-components-gallery/",
+  "description": "Accessible UI Components List",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "yatil"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-contacting-orgs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-contacting-orgs/",
+  "description": "Contacting Organizations about Inaccessible Websites",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-conformance-eval-overview",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-curricula",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/WAI/curricula/",
+  "description": "Curricula on Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-develop-training",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-develop-training/teach-advocate/accessibility-training/",
+  "description": "Developing Web Accessibility Presentations and Training",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-develop-training",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-dynamic-planning",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-easy-checks",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/WAI/test-evaluate/preliminary/",
+  "description": "Easy Checks - A First Review of Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-easy-checks",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-eo-online-learning",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Accessible Online Learning - WAI EOWG Resources",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-eval-report-templates",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-eval-report-templates/test-evaluate/report-template/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-selecting-eval-tools",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-eval-tools",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/wai-eval-tools/",
+  "description": "WAI Accessibility Evaluation Tools",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-first-aid",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-first-aid/plan/interim-repairs/",
+  "description": "Web Accessibility First Aid: Approaches for Interim Repairs",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "yatil"
+   ],
+   "shortName": "wai-first-aid",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-get-involved",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-get-involved"
+  }
+ },
+ {
+  "name": "wai-inclusion",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/wai-inclusion/fundamentals/accessibility-usability-inclusion/",
+  "description": "Document exploring the relationship between accessibility, usability, and inclusion",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-inclusion",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-intro-accessibility",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-intro-accessibility.netlify.com/fundamentals/accessibility-intro/",
+  "description": "Introduction to Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-intro-accessibility",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-media-guide",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-media-guide.netlify.com/",
+  "description": "Making Video and Audio Media Accessible. Preview:",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-media-intro",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Accessible Media Introduction",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "yatil"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-mobile-intro",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-mobile-intro/mobile",
+  "description": "Mobile Accessibility Developers Intro",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "yatil"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-org-policies",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-org-policies/planning/org-policies/",
+  "description": "Developing Organizational Policies on Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "yatil",
+    "slhenry"
+   ],
+   "shortName": "wai-org-policies",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-people-use-web",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-people-use-web.netlify.com/",
+  "description": "How People With Disabilities use the Web",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-people-use-web",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-perspective-videos",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-perspective-videos/perspective-videos/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "nitedog"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-planning-and-implementation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "WAI Planning and Implementation materials review",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-planning-and-managing",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "New layout version of w3c/wai-dynamic-planning",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-policies-prototype",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-policies-prototype/",
+  "description": "Prototype for the new WAI Policies Page",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-policieslist",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Updating Policies Relating to Web Accessibility http://www.w3.org/WAI/Policy/",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "yatil"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-presentations2all",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-presentations2all.netlify.com/",
+  "description": "How to Make Presentations Accessible to All",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-presentations2all",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-quick-start",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-quick-start.netlify.com",
+  "description": "Accessibility quick start tips",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "yatil"
+   ],
+   "shortName": "wai-quick-start",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-roles-responsibilities",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Web Accessibility Roles & Responsibilities",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-selecting-authoring-tools",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "nitedog"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-selecting-eval-tools",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-selecting-eval-tools.netlify.com/test-evaluate/tools/selecting/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-selecting-eval-tools",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-shared-experiences",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-shared-experiences",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-showcase-examples",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-showcase-examples/Overview.html",
+  "description": "Accessibility Showcase Videos",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-statements",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wai-statements/planning/statements/",
+  "description": "Accessibility Statements",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "nitedog"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-std-harmonization",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-std-harmonization",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-tips-procuring",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Procuring Tips for Web Accessibility",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-tutorial-images",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-tutorial-images.netlify.com/tutorials/images/",
+  "description": "Images Tutorial",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "yatil"
+   ],
+   "shortName": "wai-tutorial-images",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-tutorials",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/WAI/tutorials/",
+  "description": "W3C WAI’s Web Accessibility Tutorials",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry",
+    "yatil"
+   ],
+   "shortName": "wai-tutorials",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-wcag-em-report-tool",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3.org/WAI/eval/report-tool",
+  "description": "2021 redesign of the WCAG-EM Report Tool",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "hidde",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wai-wcag-mob-overlap",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "slhenry"
+   ],
+   "shortName": "wai-wcag-mob-overlap",
+   "repo-type": [
+    "article"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wai-wcag-quickref",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wai-wcag-quickref.netlify.com",
+  "description": "How to Meet WCAG (Quick Reference)",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "wcag-em-report-tool",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://www.w3.org/WAI/eval/report-tool/",
+  "description": "Interactive Guide to Assist Managing Web Accessibility Evaluations",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ]
+  }
+ }
+]
