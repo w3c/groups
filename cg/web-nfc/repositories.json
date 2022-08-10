@@ -1,1 +1,23 @@
-[{"name":"web-nfc","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/web-nfc/","description":"Web NFC","isArchived":false,"w3cjson":{"group":["cg/web-nfc"],"contacts":["anssiko","ashimura"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "web-nfc",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-nfc/",
+  "description": "Web NFC",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-nfc"
+   ],
+   "contacts": [
+    "anssiko",
+    "ashimura"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
