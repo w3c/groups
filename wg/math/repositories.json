@@ -1,1 +1,83 @@
-[{"name":"mathml","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/mathml/","description":"MathML4 editors draft","isArchived":false,"w3cjson":{"group":["wg/math"],"contacts":["bert-github"],"repo-type":["rec-track"]}},{"name":"mathml-core","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/mathml-core","description":"MathML Core draft","isArchived":false,"w3cjson":{"group":["wg/math"],"contacts":["bert-github"],"repo-type":["rec-track"]}},{"name":"mathml-docs","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/Math/","description":"Notes and other documents by the Math WG. See also https://github.com/w3c/mathml-core (repo for the MathML Core spec) and https://github.com/w3c/mathml (repo for the MathML 4 spec).","isArchived":false,"w3cjson":{"group":["wg/math"],"contacts":["bert-github"],"policy":"open","repo-type":["note"]}},{"name":"xml-entities","owner":{"login":"w3c"},"description":"Source for http://www.w3.org/2003/entities/2007xml/","isArchived":false,"w3cjson":{"group":["wg/math"],"contacts":["bert-github"],"policy":"open","repo-type":["rec-track"]}}]
+[
+ {
+  "name": "mathml",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/mathml/",
+  "description": "MathML4 editors draft",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/math"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "mathml-core",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/mathml-core",
+  "description": "MathML Core draft",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/math"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "mathml-docs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/Math/",
+  "description": "Notes and other documents by the Math WG. See also https://github.com/w3c/mathml-core (repo for the MathML Core spec) and https://github.com/w3c/mathml (repo for the MathML 4 spec).",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/math"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "xml-entities",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Source for http://www.w3.org/2003/entities/2007xml/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/math"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
