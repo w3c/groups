@@ -1,1 +1,33 @@
-{"id":57667,"name":"Schema Bib Extend Community Group","is_closed":false,"description":"The mission of this group is to discuss and prepare proposal(s) for extending Schema.org schemas for the improved representation of bibliographic information markup and sharing. The group will seek consensus around, and support for, proposal(s) to the W3C WebSchemas Group. This Community Group will not, itself, produce technical specifications.","shortname":"schemabibex","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/schemabibex"},"homepage":{"href":"https://www.w3.org/community/schemabibex/"},"users":{"href":"https://api.w3.org/groups/cg/schemabibex/users"},"services":{"href":"https://api.w3.org/groups/cg/schemabibex/services"},"chairs":{"href":"https://api.w3.org/groups/cg/schemabibex/chairs"},"join":{"href":"https://www.w3.org/community/schemabibex/join"},"participations":{"href":"https://api.w3.org/groups/cg/schemabibex/participations"}},"identifier":"cg/schemabibex"}
+{
+ "id": 57667,
+ "name": "Schema Bib Extend Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to discuss and prepare proposal(s) for extending Schema.org schemas for the improved representation of bibliographic information markup and sharing. The group will seek consensus around, and support for, proposal(s) to the W3C WebSchemas Group. This Community Group will not, itself, produce technical specifications.",
+ "shortname": "schemabibex",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/schemabibex"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/schemabibex/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/schemabibex/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/schemabibex/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/schemabibex/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/schemabibex/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/schemabibex/participations"
+  }
+ },
+ "identifier": "cg/schemabibex"
+}
