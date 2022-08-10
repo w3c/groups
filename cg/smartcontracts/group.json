@@ -1,1 +1,33 @@
-{"id":107547,"name":"Smart Contracts Community Group","is_closed":false,"description":"Open protocol to define the structure, terminology, and network messages required of smart contracts.","shortname":"smartcontracts","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/smartcontracts"},"homepage":{"href":"https://www.w3.org/community/smartcontracts/"},"users":{"href":"https://api.w3.org/groups/cg/smartcontracts/users"},"services":{"href":"https://api.w3.org/groups/cg/smartcontracts/services"},"chairs":{"href":"https://api.w3.org/groups/cg/smartcontracts/chairs"},"join":{"href":"https://www.w3.org/community/smartcontracts/join"},"participations":{"href":"https://api.w3.org/groups/cg/smartcontracts/participations"}},"identifier":"cg/smartcontracts"}
+{
+ "id": 107547,
+ "name": "Smart Contracts Community Group",
+ "is_closed": false,
+ "description": "Open protocol to define the structure, terminology, and network messages required of smart contracts.",
+ "shortname": "smartcontracts",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/smartcontracts"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/smartcontracts/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/smartcontracts/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/smartcontracts/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/smartcontracts/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/smartcontracts/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/smartcontracts/participations"
+  }
+ },
+ "identifier": "cg/smartcontracts"
+}
