@@ -1,1 +1,33 @@
-{"id":103073,"name":"Credible Web Community Group","is_closed":false,"description":"<p>The mission of the W3C Credible Web Community Group is to help shift the Web toward more trustworthy content without increasing censorship or social division. We want users to be able to tell when content is reliable, accurate, and shared in good faith, and to help them steer away from deceptive content. At the same time, we affirm the need for users to find the content they want and to interact freely in the communities they choose. To balance any conflict between these goals, we are committed to providing technologies which keep end-users in control of their Web experience.</p>\r\n\r\n<p>The group's primary strategy involves data sharing on the Web, in the style of schema.org, using existing W3C data standards like JSON-LD.  We believe significant progress toward our goals can be reached by properly specifying \"credibility indicators\", a vocabulary/schema for data about content and the surrounding ecosystem, which can help a person and/or machine decide whether a content item should be trusted.</p>\r\n\r\n<p>Please see the <a rel=\"nofollow\" href=\"wiki/\">group wiki</a> for more details.</p>","shortname":"credibility","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/credibility"},"homepage":{"href":"https://www.w3.org/community/credibility/"},"users":{"href":"https://api.w3.org/groups/cg/credibility/users"},"services":{"href":"https://api.w3.org/groups/cg/credibility/services"},"chairs":{"href":"https://api.w3.org/groups/cg/credibility/chairs"},"join":{"href":"https://www.w3.org/community/credibility/join"},"participations":{"href":"https://api.w3.org/groups/cg/credibility/participations"}},"identifier":"cg/credibility"}
+{
+ "id": 103073,
+ "name": "Credible Web Community Group",
+ "is_closed": false,
+ "description": "<p>The mission of the W3C Credible Web Community Group is to help shift the Web toward more trustworthy content without increasing censorship or social division. We want users to be able to tell when content is reliable, accurate, and shared in good faith, and to help them steer away from deceptive content. At the same time, we affirm the need for users to find the content they want and to interact freely in the communities they choose. To balance any conflict between these goals, we are committed to providing technologies which keep end-users in control of their Web experience.</p>\r\n\r\n<p>The group's primary strategy involves data sharing on the Web, in the style of schema.org, using existing W3C data standards like JSON-LD.  We believe significant progress toward our goals can be reached by properly specifying \"credibility indicators\", a vocabulary/schema for data about content and the surrounding ecosystem, which can help a person and/or machine decide whether a content item should be trusted.</p>\r\n\r\n<p>Please see the <a rel=\"nofollow\" href=\"wiki/\">group wiki</a> for more details.</p>",
+ "shortname": "credibility",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/credibility"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/credibility/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/credibility/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/credibility/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/credibility/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/credibility/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/credibility/participations"
+  }
+ },
+ "identifier": "cg/credibility"
+}
