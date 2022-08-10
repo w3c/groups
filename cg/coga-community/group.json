@@ -1,1 +1,33 @@
-{"id":132913,"name":"Cognitive Accessibility Community Group","is_closed":false,"description":"<p>Mission</p>\r\n<p>The mission of the COGA Community Group is to work with and support the <a rel=\"nofollow\" href=\"http://www.w3.org/WAI/GL/task-forces/coga/wiki/Main_Page\">Cognitive and Learning Disabilities Accessibility (COGA) Task Force</a>  to improve web accessibility for people with cognitive and learning disabilities.</p>\r\n<p>This group supports the COGA Task Force by supplying user needs and feedback.</p>\r\n<p>Scope<br />The COGA Community Group’s work will include:<br />- Sharing challenges when using the web and other digital displays<br />- Suggesting user needs<br />- Helping with research<br />- Suggesting ways to improve accessibility for the community<br />- Reviewing COGA’s drafts<br />- Outreach and collecting feedback from the community<br />- Helping with policy and the business cases for COGA guidance<br />- Having open meetings to discuss these points<br />Open meetings may be live video conferences or in other discussion formats</p>\r\n<p>Participation</p>\r\n<p>You do not need to be an expert in all topics related to cognitive accessibility to join the community group. The COGA Community Group will work in smaller groups for specific subjects, giving you the opportunity to participate on the topics you choose.</p>\r\n<p>The COGA Community Group will also work together on some topics, brainstorming and building a community dedicated to improved access for all.</p>\r\n<p>Anyone can join this group as long as they follow the<a rel=\"nofollow\" href=\"http://www.w3.org/community/about/\"> community guidelines</a>.</p>\r\n<p>However, the community group will specifically benefit from including:<br />- people with learning and cognitive disabilities,<br />people with mental health challenges,<br />- caregivers, therapists and people who work with people with learning, cognitive challenges and in mental health,<br />- researchers,<br />developers, quality assurance professionals, and user interface experts,<br />industry, looking to share and support ideas, and<br />policy makers.</p>\r\n<p>Additional details of participation<br />- Joining the COGA Community Group does not involve joining the COGA Task Force.<br />- If you would prefer to join this group anonymously, please send an email to ran@w3.org.<br />- The community group will not publish specifications, but may make suggestions to the COGA taskforce.<br />- For more information about community groups, please visit <a rel=\"nofollow\" href=\"http://www.w3.org/community/about/faq/\">Community and Business Groups Frequently Asked Questions</a>.<br />- Short link to this document: bit.ly/coga-community</p>\r\n","shortname":"coga-community","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/coga-community"},"homepage":{"href":"https://www.w3.org/community/coga-community/"},"users":{"href":"https://api.w3.org/groups/cg/coga-community/users"},"services":{"href":"https://api.w3.org/groups/cg/coga-community/services"},"chairs":{"href":"https://api.w3.org/groups/cg/coga-community/chairs"},"join":{"href":"https://www.w3.org/community/coga-community/join"},"participations":{"href":"https://api.w3.org/groups/cg/coga-community/participations"}},"identifier":"cg/coga-community"}
+{
+ "id": 132913,
+ "name": "Cognitive Accessibility Community Group",
+ "is_closed": false,
+ "description": "<p>Mission</p>\r\n<p>The mission of the COGA Community Group is to work with and support the <a rel=\"nofollow\" href=\"http://www.w3.org/WAI/GL/task-forces/coga/wiki/Main_Page\">Cognitive and Learning Disabilities Accessibility (COGA) Task Force</a>  to improve web accessibility for people with cognitive and learning disabilities.</p>\r\n<p>This group supports the COGA Task Force by supplying user needs and feedback.</p>\r\n<p>Scope<br />The COGA Community Group’s work will include:<br />- Sharing challenges when using the web and other digital displays<br />- Suggesting user needs<br />- Helping with research<br />- Suggesting ways to improve accessibility for the community<br />- Reviewing COGA’s drafts<br />- Outreach and collecting feedback from the community<br />- Helping with policy and the business cases for COGA guidance<br />- Having open meetings to discuss these points<br />Open meetings may be live video conferences or in other discussion formats</p>\r\n<p>Participation</p>\r\n<p>You do not need to be an expert in all topics related to cognitive accessibility to join the community group. The COGA Community Group will work in smaller groups for specific subjects, giving you the opportunity to participate on the topics you choose.</p>\r\n<p>The COGA Community Group will also work together on some topics, brainstorming and building a community dedicated to improved access for all.</p>\r\n<p>Anyone can join this group as long as they follow the<a rel=\"nofollow\" href=\"http://www.w3.org/community/about/\"> community guidelines</a>.</p>\r\n<p>However, the community group will specifically benefit from including:<br />- people with learning and cognitive disabilities,<br />people with mental health challenges,<br />- caregivers, therapists and people who work with people with learning, cognitive challenges and in mental health,<br />- researchers,<br />developers, quality assurance professionals, and user interface experts,<br />industry, looking to share and support ideas, and<br />policy makers.</p>\r\n<p>Additional details of participation<br />- Joining the COGA Community Group does not involve joining the COGA Task Force.<br />- If you would prefer to join this group anonymously, please send an email to ran@w3.org.<br />- The community group will not publish specifications, but may make suggestions to the COGA taskforce.<br />- For more information about community groups, please visit <a rel=\"nofollow\" href=\"http://www.w3.org/community/about/faq/\">Community and Business Groups Frequently Asked Questions</a>.<br />- Short link to this document: bit.ly/coga-community</p>\r\n",
+ "shortname": "coga-community",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/coga-community"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/coga-community/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/coga-community/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/coga-community/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/coga-community/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/coga-community/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/coga-community/participations"
+  }
+ },
+ "identifier": "cg/coga-community"
+}
