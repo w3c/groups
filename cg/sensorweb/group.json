@@ -1,1 +1,33 @@
-{"id":52409,"name":"Web of Sensors Community Group","is_closed":false,"description":"This group explores how the Web platform could interact with sensors around us. For instance, how do we hook up an Arduino and interact with it through the Web platform? \r\n\r\nThe scope is to explore we can safely expose sensor data to the Web platform in way that protects user's privacy and meets the needs of developers. ","shortname":"sensorweb","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/sensorweb"},"homepage":{"href":"https://www.w3.org/community/sensorweb/"},"users":{"href":"https://api.w3.org/groups/cg/sensorweb/users"},"services":{"href":"https://api.w3.org/groups/cg/sensorweb/services"},"chairs":{"href":"https://api.w3.org/groups/cg/sensorweb/chairs"},"join":{"href":"https://www.w3.org/community/sensorweb/join"},"participations":{"href":"https://api.w3.org/groups/cg/sensorweb/participations"}},"identifier":"cg/sensorweb"}
+{
+ "id": 52409,
+ "name": "Web of Sensors Community Group",
+ "is_closed": false,
+ "description": "This group explores how the Web platform could interact with sensors around us. For instance, how do we hook up an Arduino and interact with it through the Web platform? \r\n\r\nThe scope is to explore we can safely expose sensor data to the Web platform in way that protects user's privacy and meets the needs of developers. ",
+ "shortname": "sensorweb",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sensorweb"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/sensorweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sensorweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sensorweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sensorweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sensorweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sensorweb/participations"
+  }
+ },
+ "identifier": "cg/sensorweb"
+}
