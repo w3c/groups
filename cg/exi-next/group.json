@@ -1,1 +1,33 @@
-{"id":108609,"name":"Efficient Extensible Interchange Community Group","is_closed":false,"description":"To complete EXI WG's EXI4JSON (EXI for JSON) work on efficient data encoding for JSON. We will also investigate compression, performance and power-reduction techniques using a variety of data representations.","shortname":"exi-next","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/exi-next"},"homepage":{"href":"https://www.w3.org/community/exi-next/"},"users":{"href":"https://api.w3.org/groups/cg/exi-next/users"},"services":{"href":"https://api.w3.org/groups/cg/exi-next/services"},"chairs":{"href":"https://api.w3.org/groups/cg/exi-next/chairs"},"join":{"href":"https://www.w3.org/community/exi-next/join"},"participations":{"href":"https://api.w3.org/groups/cg/exi-next/participations"}},"identifier":"cg/exi-next"}
+{
+ "id": 108609,
+ "name": "Efficient Extensible Interchange Community Group",
+ "is_closed": false,
+ "description": "To complete EXI WG's EXI4JSON (EXI for JSON) work on efficient data encoding for JSON. We will also investigate compression, performance and power-reduction techniques using a variety of data representations.",
+ "shortname": "exi-next",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/exi-next"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/exi-next/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/exi-next/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/exi-next/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/exi-next/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/exi-next/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/exi-next/participations"
+  }
+ },
+ "identifier": "cg/exi-next"
+}
