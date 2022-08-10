@@ -1,1 +1,33 @@
-{"id":104819,"name":"Distributed Compute Protocol Community Group","is_closed":false,"description":"This working group is for the discussion and design of the specification of a protocol for standardized distributed ECMAScript and WebGL applications.\r\n\r\nDistributed Compute Protocol (DCP) will become the standard for distributed computing by seamlessly integrating with the internet protocol suite. DCP will be introduced on top of HTTPs/TCP/IP to transmit JSON package files for execution, transforming computational power into a public utility. The Compute Resource Allocation algorithm (CRAa) matches demand for suppliers by efficiently comparing a variety of requirements. DCP is a foundational building block for web 3.0 and is an enabler of technology including, but not limited to, allowing other distributed applications and blockchains to move to the world wide web.\r\n","shortname":"distributed-compute","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/distributed-compute"},"homepage":{"href":"https://www.w3.org/community/distributed-compute/"},"users":{"href":"https://api.w3.org/groups/cg/distributed-compute/users"},"services":{"href":"https://api.w3.org/groups/cg/distributed-compute/services"},"chairs":{"href":"https://api.w3.org/groups/cg/distributed-compute/chairs"},"join":{"href":"https://www.w3.org/community/distributed-compute/join"},"participations":{"href":"https://api.w3.org/groups/cg/distributed-compute/participations"}},"identifier":"cg/distributed-compute"}
+{
+ "id": 104819,
+ "name": "Distributed Compute Protocol Community Group",
+ "is_closed": false,
+ "description": "This working group is for the discussion and design of the specification of a protocol for standardized distributed ECMAScript and WebGL applications.\r\n\r\nDistributed Compute Protocol (DCP) will become the standard for distributed computing by seamlessly integrating with the internet protocol suite. DCP will be introduced on top of HTTPs/TCP/IP to transmit JSON package files for execution, transforming computational power into a public utility. The Compute Resource Allocation algorithm (CRAa) matches demand for suppliers by efficiently comparing a variety of requirements. DCP is a foundational building block for web 3.0 and is an enabler of technology including, but not limited to, allowing other distributed applications and blockchains to move to the world wide web.\r\n",
+ "shortname": "distributed-compute",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/distributed-compute"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/distributed-compute/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/distributed-compute/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/distributed-compute/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/distributed-compute/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/distributed-compute/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/distributed-compute/participations"
+  }
+ },
+ "identifier": "cg/distributed-compute"
+}
