@@ -1,1 +1,33 @@
-{"id":98025,"name":"XPath Next Community Group","is_closed":false,"description":"Create a place for gathering requirement from existing user of XPath, potential user of XPath and research in this area","shortname":"xpath-next","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/xpath-next"},"homepage":{"href":"https://www.w3.org/community/xpath-next/"},"users":{"href":"https://api.w3.org/groups/cg/xpath-next/users"},"services":{"href":"https://api.w3.org/groups/cg/xpath-next/services"},"chairs":{"href":"https://api.w3.org/groups/cg/xpath-next/chairs"},"join":{"href":"https://www.w3.org/community/xpath-next/join"},"participations":{"href":"https://api.w3.org/groups/cg/xpath-next/participations"}},"identifier":"cg/xpath-next"}
+{
+ "id": 98025,
+ "name": "XPath Next Community Group",
+ "is_closed": false,
+ "description": "Create a place for gathering requirement from existing user of XPath, potential user of XPath and research in this area",
+ "shortname": "xpath-next",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xpath-next"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/xpath-next/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/xpath-next/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/xpath-next/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/xpath-next/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/xpath-next/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/xpath-next/participations"
+  }
+ },
+ "identifier": "cg/xpath-next"
+}
