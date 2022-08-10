@@ -1,1 +1,22 @@
-[{"name":"sparql-12","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/sparql-12/","description":"SPARQL 1.2 Community Group","isArchived":false,"w3cjson":{"group":["cg/sparql-12"],"contacts":["ianbjacobs"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "sparql-12",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/sparql-12/",
+  "description": "SPARQL 1.2 Community Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/sparql-12"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
