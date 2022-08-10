@@ -1,1 +1,33 @@
-{"id":66944,"name":"Stereoscopic 3D Web Community Group","is_closed":false,"description":"The Stereoscopic 3D Web Community Group is focused on determining the requirements, available options, and use cases for the addition of stereoscopic depth into the W3C technology stack. The group also evaluates areas where S3D can be interesting to apply focusing on perception and interaction in different scenarios. The main objective is to evaluate the necessary requirements for a successful implementation of a declarative approach to stereoscopic 3D depth as part of HTML documents. ","shortname":"stereoweb","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/stereoweb"},"homepage":{"href":"https://www.w3.org/community/stereoweb/"},"users":{"href":"https://api.w3.org/groups/cg/stereoweb/users"},"services":{"href":"https://api.w3.org/groups/cg/stereoweb/services"},"chairs":{"href":"https://api.w3.org/groups/cg/stereoweb/chairs"},"join":{"href":"https://www.w3.org/community/stereoweb/join"},"participations":{"href":"https://api.w3.org/groups/cg/stereoweb/participations"}},"identifier":"cg/stereoweb"}
+{
+ "id": 66944,
+ "name": "Stereoscopic 3D Web Community Group",
+ "is_closed": false,
+ "description": "The Stereoscopic 3D Web Community Group is focused on determining the requirements, available options, and use cases for the addition of stereoscopic depth into the W3C technology stack. The group also evaluates areas where S3D can be interesting to apply focusing on perception and interaction in different scenarios. The main objective is to evaluate the necessary requirements for a successful implementation of a declarative approach to stereoscopic 3D depth as part of HTML documents. ",
+ "shortname": "stereoweb",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/stereoweb"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/stereoweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/stereoweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/stereoweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/stereoweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/stereoweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/stereoweb/participations"
+  }
+ },
+ "identifier": "cg/stereoweb"
+}
