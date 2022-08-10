@@ -1,1 +1,33 @@
-{"id":91636,"name":"Open Educational Resources Schema Community Group","is_closed":false,"description":"Our mission is to develop a universal RDF vocabulary to enhance open educational resources throughout the internet.","shortname":"oerschema","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/oerschema"},"homepage":{"href":"https://www.w3.org/community/oerschema/"},"users":{"href":"https://api.w3.org/groups/cg/oerschema/users"},"services":{"href":"https://api.w3.org/groups/cg/oerschema/services"},"chairs":{"href":"https://api.w3.org/groups/cg/oerschema/chairs"},"join":{"href":"https://www.w3.org/community/oerschema/join"},"participations":{"href":"https://api.w3.org/groups/cg/oerschema/participations"}},"identifier":"cg/oerschema"}
+{
+ "id": 91636,
+ "name": "Open Educational Resources Schema Community Group",
+ "is_closed": false,
+ "description": "Our mission is to develop a universal RDF vocabulary to enhance open educational resources throughout the internet.",
+ "shortname": "oerschema",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/oerschema"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/oerschema/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/oerschema/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/oerschema/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/oerschema/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/oerschema/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/oerschema/participations"
+  }
+ },
+ "identifier": "cg/oerschema"
+}
