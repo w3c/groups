@@ -1,1 +1,24 @@
-[{"name":"pointerevents","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/pointerevents/","description":"Pointer Events","isArchived":false,"w3cjson":{"group":["wg/pointer-events"],"contacts":["plehegar"],"shortName":"pointerevents","policy":"open","repo-type":["rec-track"]}}]
+[
+ {
+  "name": "pointerevents",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/pointerevents/",
+  "description": "Pointer Events",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/pointer-events"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "shortName": "pointerevents",
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
