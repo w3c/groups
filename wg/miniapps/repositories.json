@@ -1,1 +1,166 @@
-[{"name":"miniapp","owner":{"login":"w3c"},"homepageUrl":"","description":"MiniApp Standardization","isArchived":false,"w3cjson":{"group":["wg/miniapps","ig/chinese-web"],"contacts":["xfq"],"repo-type":["homepage"]}},{"name":"miniapp-addressing","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/miniapp-addressing/","description":"MiniApp Addressing","isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"shortName":"miniapp-addressing","repo-type":["note"]}},{"name":"miniapp-lifecycle","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/miniapp-lifecycle/","description":"MiniApp Lifecycle","isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"shortName":"miniapp-lifecycle","repo-type":["rec-track"]}},{"name":"miniapp-manifest","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/miniapp-manifest/","description":"MiniApp Manifest","isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"shortName":"miniapp-lifecycle","repo-type":["rec-track"]}},{"name":"miniapp-packaging","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/miniapp-packaging/","description":"MiniApp Packaging","isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"shortName":"miniapp-packaging","repo-type":["rec-track"]}},{"name":"miniapp-tests","owner":{"login":"w3c"},"homepageUrl":"","description":"Test suites for MiniApp specs","isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"repo-type":["tests"]}},{"name":"miniapp-white-paper","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/miniapp-white-paper/","description":"MiniApp Standardization White Paper","isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"shortName":"mini-app-white-paper","repo-type":["note"]}},{"name":"miniapp-widget","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/miniapps"],"contacts":["xfq"],"repo-type":["note"]}}]
+[
+ {
+  "name": "miniapp",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "MiniApp Standardization",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps",
+    "ig/chinese-web"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-addressing",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/miniapp-addressing/",
+  "description": "MiniApp Addressing",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "miniapp-addressing",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-lifecycle",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/miniapp-lifecycle/",
+  "description": "MiniApp Lifecycle",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "miniapp-lifecycle",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-manifest",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/miniapp-manifest/",
+  "description": "MiniApp Manifest",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "miniapp-lifecycle",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-packaging",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/miniapp-packaging/",
+  "description": "MiniApp Packaging",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "miniapp-packaging",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Test suites for MiniApp specs",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-white-paper",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/miniapp-white-paper/",
+  "description": "MiniApp Standardization White Paper",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "mini-app-white-paper",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "miniapp-widget",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/miniapps"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ }
+]
