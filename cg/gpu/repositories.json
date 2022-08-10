@@ -1,1 +1,49 @@
-[{"name":"cts","owner":{"login":"gpuweb"},"homepageUrl":"https://gpuweb.github.io/cts/","description":"WebGPU Conformance Test Suite","isArchived":false,"w3cjson":{"group":["cg/gpu","wg/gpu"],"contacts":["tidoust","Kangz","grorg"],"repo-type":["tests"]}},{"name":"gpuweb","owner":{"login":"gpuweb"},"homepageUrl":"http://webgpu.io","description":"Where the GPU for the Web work happens!","isArchived":false,"w3cjson":{"group":["cg/gpu","wg/gpu"],"contacts":["tidoust","Kangz","grorg"],"repo-type":["cg-report","rec-track"]}}]
+[
+ {
+  "name": "cts",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "https://gpuweb.github.io/cts/",
+  "description": "WebGPU Conformance Test Suite",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu",
+    "wg/gpu"
+   ],
+   "contacts": [
+    "tidoust",
+    "Kangz",
+    "grorg"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "gpuweb",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "http://webgpu.io",
+  "description": "Where the GPU for the Web work happens!",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu",
+    "wg/gpu"
+   ],
+   "contacts": [
+    "tidoust",
+    "Kangz",
+    "grorg"
+   ],
+   "repo-type": [
+    "cg-report",
+    "rec-track"
+   ]
+  }
+ }
+]
