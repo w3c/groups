@@ -1,1 +1,33 @@
-{"id":91978,"name":"SPARQL Maintenance (EXISTS) Community Group","is_closed":false,"description":"The \"SPARQL Maintenance (EXISTS)\" Community Group is a forum to discuss and address problems with the \"EXISTS\" feature in SPARQL 1.1.\r\n\r\nThe <a rel=\"nofollow\" href=\"https://www.w3.org/TR/sparql11-overview/\">SPARQL 1.1 suite of specifications</a> and the <a rel=\"nofollow\" href=\"https://www.w3.org/2009/sparql/docs/tests/\">SPARQL 1.1 test suite</a> are frozen. A process exists to record errata and that will be one input to any working group chartered to revise SPARQL.\r\n\r\nIn the meantime, SPARQL is being used in real-work systems in industry and public-sector. The user community expects a high degree of conformance across implementations.\r\n\r\nThe EXISTS feature has been found to be problematic. This feature is used by the <a rel=\"nofollow\" href=\"https://www.w3.org/2014/data-shapes/\">RDF Data Shapes Working Group</a>.\r\n\r\nThis community group will create CG Notes and accompanying test suites to describe one or more improvements with an emphasis on maintaining compatibility.\r\n\r\nThis group is not producing specifications.\r\n\r\nAny tests produced by the will submitted to the <a rel=\"nofollow\" href=\"https://www.w3.org/community/rdf-tests/\">RDF Test Suite Curation CG</a> for long-term stewardship.\r\n","shortname":"sparql-exists","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/sparql-exists"},"homepage":{"href":"https://www.w3.org/community/sparql-exists/"},"users":{"href":"https://api.w3.org/groups/cg/sparql-exists/users"},"services":{"href":"https://api.w3.org/groups/cg/sparql-exists/services"},"chairs":{"href":"https://api.w3.org/groups/cg/sparql-exists/chairs"},"join":{"href":"https://www.w3.org/community/sparql-exists/join"},"participations":{"href":"https://api.w3.org/groups/cg/sparql-exists/participations"}},"identifier":"cg/sparql-exists"}
+{
+ "id": 91978,
+ "name": "SPARQL Maintenance (EXISTS) Community Group",
+ "is_closed": false,
+ "description": "The \"SPARQL Maintenance (EXISTS)\" Community Group is a forum to discuss and address problems with the \"EXISTS\" feature in SPARQL 1.1.\r\n\r\nThe <a rel=\"nofollow\" href=\"https://www.w3.org/TR/sparql11-overview/\">SPARQL 1.1 suite of specifications</a> and the <a rel=\"nofollow\" href=\"https://www.w3.org/2009/sparql/docs/tests/\">SPARQL 1.1 test suite</a> are frozen. A process exists to record errata and that will be one input to any working group chartered to revise SPARQL.\r\n\r\nIn the meantime, SPARQL is being used in real-work systems in industry and public-sector. The user community expects a high degree of conformance across implementations.\r\n\r\nThe EXISTS feature has been found to be problematic. This feature is used by the <a rel=\"nofollow\" href=\"https://www.w3.org/2014/data-shapes/\">RDF Data Shapes Working Group</a>.\r\n\r\nThis community group will create CG Notes and accompanying test suites to describe one or more improvements with an emphasis on maintaining compatibility.\r\n\r\nThis group is not producing specifications.\r\n\r\nAny tests produced by the will submitted to the <a rel=\"nofollow\" href=\"https://www.w3.org/community/rdf-tests/\">RDF Test Suite Curation CG</a> for long-term stewardship.\r\n",
+ "shortname": "sparql-exists",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sparql-exists"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/sparql-exists/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sparql-exists/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sparql-exists/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sparql-exists/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sparql-exists/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sparql-exists/participations"
+  }
+ },
+ "identifier": "cg/sparql-exists"
+}
