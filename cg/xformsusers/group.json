@@ -1,1 +1,33 @@
-{"id":53549,"name":"XForms Users Community Group","is_closed":false,"description":"A group for XForms users to discuss the use of XForms and propose changes and additions to the markup.","shortname":"xformsusers","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/xformsusers"},"homepage":{"href":"https://www.w3.org/community/xformsusers/"},"users":{"href":"https://api.w3.org/groups/cg/xformsusers/users"},"services":{"href":"https://api.w3.org/groups/cg/xformsusers/services"},"chairs":{"href":"https://api.w3.org/groups/cg/xformsusers/chairs"},"join":{"href":"https://www.w3.org/community/xformsusers/join"},"participations":{"href":"https://api.w3.org/groups/cg/xformsusers/participations"}},"identifier":"cg/xformsusers"}
+{
+ "id": 53549,
+ "name": "XForms Users Community Group",
+ "is_closed": false,
+ "description": "A group for XForms users to discuss the use of XForms and propose changes and additions to the markup.",
+ "shortname": "xformsusers",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xformsusers"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/xformsusers/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/xformsusers/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/xformsusers/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/xformsusers/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/xformsusers/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/xformsusers/participations"
+  }
+ },
+ "identifier": "cg/xformsusers"
+}
