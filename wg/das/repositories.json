@@ -1,1 +1,447 @@
-[{"name":"accelerometer","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/accelerometer/","description":"Accelerometer","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"accelerometer","repo-type":["rec-track"],"policy":"open"}},{"name":"ambient-light","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/ambient-light/","description":"Ambient Light API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"ambient-light","repo-type":["rec-track"],"policy":"open"}},{"name":"battery","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/battery/","description":"Battery Status API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"battery-status","repo-type":["rec-track"],"policy":"open"}},{"name":"dap-charter","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/dap-charter/DASCharter-2021.html","description":"Devices and Sensors Working Group charter","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"repo-type":["process"]}},{"name":"device-posture","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/device-posture/","description":"Device Posture API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"device-posture","repo-type":["rec-track"],"policy":"open"}},{"name":"deviceorientation","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/deviceorientation/","description":"W3C Device Orientation spec","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"orientation-event","repo-type":["rec-track"],"policy":"open"}},{"name":"devicesensors-wg","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/das/","description":"Devices and Sensors Working Group website","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"repo-type":["homepage"]}},{"name":"geolocation-api","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/geolocation-api/","description":"W3C Geolocation API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"policy":"open","repo-type":["rec-track"]}},{"name":"geolocation-sensor","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/geolocation-sensor/","description":"Geolocation Sensor","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"policy":"open","repo-type":["rec-track"]}},{"name":"gyroscope","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/gyroscope/","description":"Gyroscope","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"gyroscope","repo-type":["rec-track"],"policy":"open"}},{"name":"html-media-capture","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/html-media-capture/","description":"HTML Media Capture","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["dontcallmedom"],"repo-type":["rec-track"]}},{"name":"magnetometer","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/magnetometer/","description":"Magnetometer","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"magnetometer","repo-type":["rec-track"],"policy":"open"}},{"name":"motion-sensors","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/motion-sensors/","description":"Motion Sensors Explainer","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"repo-type":["note"]}},{"name":"orientation-sensor","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/orientation-sensor/","description":"Orientation Sensor","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"orientation-sensor","repo-type":["rec-track"],"policy":"open"}},{"name":"proximity","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/proximity/","description":"Proximity","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"proximity","repo-type":["rec-track"],"policy":"open"}},{"name":"screen-fold","owner":{"login":"w3c"},"description":"New repository: https://github.com/w3c/device-posture","isArchived":true,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"policy":"open","repo-type":["others"]}},{"name":"screen-wake-lock","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/screen-wake-lock/","description":"Screen Wake Lock API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"screen-wake-lock","repo-type":["rec-track"],"policy":"open"}},{"name":"sensors","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/sensors/","description":"Generic Sensor API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"generic-sensor","repo-type":["rec-track"],"policy":"open"}},{"name":"system-wake-lock","owner":{"login":"w3c"},"description":"System Wake Lock API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"shortName":"system-wake-lock","repo-type":["rec-track"],"policy":"open"}},{"name":"vibration","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/vibration/","description":"Vibration API","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"repo-type":["rec-track"]}},{"name":"wake-lock","owner":{"login":"w3c"},"description":"New repository: https://github.com/w3c/screen-wake-lock","isArchived":false,"w3cjson":{"group":["wg/das"],"contacts":["xfq"],"policy":"open","repo-type":["others"]}}]
+[
+ {
+  "name": "accelerometer",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/accelerometer/",
+  "description": "Accelerometer",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "accelerometer",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "ambient-light",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ambient-light/",
+  "description": "Ambient Light API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "ambient-light",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "battery",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/battery/",
+  "description": "Battery Status API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "battery-status",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dap-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dap-charter/DASCharter-2021.html",
+  "description": "Devices and Sensors Working Group charter",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "device-posture",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/device-posture/",
+  "description": "Device Posture API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "device-posture",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "deviceorientation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/deviceorientation/",
+  "description": "W3C Device Orientation spec",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "orientation-event",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "devicesensors-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/das/",
+  "description": "Devices and Sensors Working Group website",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "geolocation-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/geolocation-api/",
+  "description": "W3C Geolocation API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "geolocation-sensor",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/geolocation-sensor/",
+  "description": "Geolocation Sensor",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "gyroscope",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/gyroscope/",
+  "description": "Gyroscope",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "gyroscope",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "html-media-capture",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/html-media-capture/",
+  "description": "HTML Media Capture",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "magnetometer",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/magnetometer/",
+  "description": "Magnetometer",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "magnetometer",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "motion-sensors",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/motion-sensors/",
+  "description": "Motion Sensors Explainer",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "orientation-sensor",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/orientation-sensor/",
+  "description": "Orientation Sensor",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "orientation-sensor",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "proximity",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/proximity/",
+  "description": "Proximity",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "proximity",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "screen-fold",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "New repository: https://github.com/w3c/device-posture",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "screen-wake-lock",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/screen-wake-lock/",
+  "description": "Screen Wake Lock API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "screen-wake-lock",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "sensors",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/sensors/",
+  "description": "Generic Sensor API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "generic-sensor",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "system-wake-lock",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "System Wake Lock API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "shortName": "system-wake-lock",
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "vibration",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vibration/",
+  "description": "Vibration API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "wake-lock",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "New repository: https://github.com/w3c/screen-wake-lock",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "others"
+   ]
+  }
+ }
+]
