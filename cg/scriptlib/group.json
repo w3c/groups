@@ -1,1 +1,33 @@
-{"id":50500,"name":"Script Library Community Group","is_closed":false,"description":"A forum for improved communication between script library authors and users, and W3C working groups working on relevant specifications.","shortname":"scriptlib","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/scriptlib"},"homepage":{"href":"https://www.w3.org/community/scriptlib/"},"users":{"href":"https://api.w3.org/groups/cg/scriptlib/users"},"services":{"href":"https://api.w3.org/groups/cg/scriptlib/services"},"chairs":{"href":"https://api.w3.org/groups/cg/scriptlib/chairs"},"join":{"href":"https://www.w3.org/community/scriptlib/join"},"participations":{"href":"https://api.w3.org/groups/cg/scriptlib/participations"}},"identifier":"cg/scriptlib"}
+{
+ "id": 50500,
+ "name": "Script Library Community Group",
+ "is_closed": false,
+ "description": "A forum for improved communication between script library authors and users, and W3C working groups working on relevant specifications.",
+ "shortname": "scriptlib",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/scriptlib"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/scriptlib/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/scriptlib/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/scriptlib/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/scriptlib/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/scriptlib/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/scriptlib/participations"
+  }
+ },
+ "identifier": "cg/scriptlib"
+}
