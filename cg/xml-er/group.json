@@ -1,1 +1,33 @@
-{"id":52408,"name":"XML Error Recovery Community Group","is_closed":false,"description":"This group's purpose is the discussion of applying error recovery parsing methods inspired from HTML to XML.","shortname":"xml-er","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/xml-er"},"homepage":{"href":"https://www.w3.org/community/xml-er/"},"users":{"href":"https://api.w3.org/groups/cg/xml-er/users"},"services":{"href":"https://api.w3.org/groups/cg/xml-er/services"},"chairs":{"href":"https://api.w3.org/groups/cg/xml-er/chairs"},"join":{"href":"https://www.w3.org/community/xml-er/join"},"participations":{"href":"https://api.w3.org/groups/cg/xml-er/participations"}},"identifier":"cg/xml-er"}
+{
+ "id": 52408,
+ "name": "XML Error Recovery Community Group",
+ "is_closed": false,
+ "description": "This group's purpose is the discussion of applying error recovery parsing methods inspired from HTML to XML.",
+ "shortname": "xml-er",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xml-er"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/xml-er/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/xml-er/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/xml-er/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/xml-er/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/xml-er/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/xml-er/participations"
+  }
+ },
+ "identifier": "cg/xml-er"
+}
