@@ -1,1 +1,33 @@
-{"id":61424,"name":"VoiceXML Community Group","is_closed":false,"description":"The mission of this group is to bring together voice application developers interested in VoiceXML. This group will not produce specifications, but will discuss use cases that may be recommended to the VoiceXML Working Group. Of particular interest will be use of VoiceXML for mobile applications. ","shortname":"vxmlcg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/vxmlcg"},"homepage":{"href":"https://www.w3.org/community/vxmlcg/"},"users":{"href":"https://api.w3.org/groups/cg/vxmlcg/users"},"services":{"href":"https://api.w3.org/groups/cg/vxmlcg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/vxmlcg/chairs"},"join":{"href":"https://www.w3.org/community/vxmlcg/join"},"participations":{"href":"https://api.w3.org/groups/cg/vxmlcg/participations"}},"identifier":"cg/vxmlcg"}
+{
+ "id": 61424,
+ "name": "VoiceXML Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to bring together voice application developers interested in VoiceXML. This group will not produce specifications, but will discuss use cases that may be recommended to the VoiceXML Working Group. Of particular interest will be use of VoiceXML for mobile applications. ",
+ "shortname": "vxmlcg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/vxmlcg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/vxmlcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/vxmlcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/vxmlcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/vxmlcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/vxmlcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/vxmlcg/participations"
+  }
+ },
+ "identifier": "cg/vxmlcg"
+}
