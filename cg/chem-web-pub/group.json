@@ -1,1 +1,33 @@
-{"id":114998,"name":"Chemistry for the Web and Publishing Community Group","is_closed":false,"description":"the \"Chemistry for the Web and Publishing\" Community  Group will focus on moving beyond simply providing images of Chemistry  content on the web and in published materials to a semantically rich  form that will work for everybody, including persons with disabilities.","shortname":"chem-web-pub","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/chem-web-pub"},"homepage":{"href":"https://www.w3.org/community/chem-web-pub/"},"users":{"href":"https://api.w3.org/groups/cg/chem-web-pub/users"},"services":{"href":"https://api.w3.org/groups/cg/chem-web-pub/services"},"chairs":{"href":"https://api.w3.org/groups/cg/chem-web-pub/chairs"},"join":{"href":"https://www.w3.org/community/chem-web-pub/join"},"participations":{"href":"https://api.w3.org/groups/cg/chem-web-pub/participations"}},"identifier":"cg/chem-web-pub"}
+{
+ "id": 114998,
+ "name": "Chemistry for the Web and Publishing Community Group",
+ "is_closed": false,
+ "description": "the \"Chemistry for the Web and Publishing\" Community  Group will focus on moving beyond simply providing images of Chemistry  content on the web and in published materials to a semantically rich  form that will work for everybody, including persons with disabilities.",
+ "shortname": "chem-web-pub",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/chem-web-pub"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/chem-web-pub/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/chem-web-pub/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/chem-web-pub/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/chem-web-pub/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/chem-web-pub/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/chem-web-pub/participations"
+  }
+ },
+ "identifier": "cg/chem-web-pub"
+}
