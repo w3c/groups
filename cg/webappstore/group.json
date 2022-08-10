@@ -1,1 +1,33 @@
-{"id":54070,"name":"Web Application Store Community Group","is_closed":false,"description":"Since the launch of Apple's App Store in 2008, developers found a market delivery channel that greatly reduced time-to-market and time-to-payment and provided a direct channel to consumers. The result: users started buying more and more smartphones, accessing app stores and downloading billions upon billions of apps.\r\n\r\nAt same reason, web developers are also expressing interest in an app store model for the Web that would enable them to get paid for their efforts without having to abandon Web development in exchange for proprietary silos.\r\n\r\nThe purpose for this Web Application Store community group is to discuss about the web application store, related technologies, and various issues for Open Web Application Store.  \r\n\r\nThis Web Application Store CG's activities include:\r\n* Tracking specifications and implementations related to Web Application Store. \r\n* Refining use cases to communicate specific needs of Web Application Store.\r\n* Discussing technological issues related to Web Apps &amp; Web Application Store \r\n* Suggesting refinements or fixes to existing specifications to better meet the needs of the Web Application Development community \r\n* Evangelizing specifications to browser vendors. \r\n* Documenting how to best use open web standards for Web Application Store \r\n* Evangelizing open web standards and best practices for Web Application Store\r\n\r\nAnyone can join the Web Application Store Community Group.\r\n","shortname":"webappstore","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webappstore"},"homepage":{"href":"https://www.w3.org/community/webappstore/"},"users":{"href":"https://api.w3.org/groups/cg/webappstore/users"},"services":{"href":"https://api.w3.org/groups/cg/webappstore/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webappstore/chairs"},"join":{"href":"https://www.w3.org/community/webappstore/join"},"participations":{"href":"https://api.w3.org/groups/cg/webappstore/participations"}},"identifier":"cg/webappstore"}
+{
+ "id": 54070,
+ "name": "Web Application Store Community Group",
+ "is_closed": false,
+ "description": "Since the launch of Apple's App Store in 2008, developers found a market delivery channel that greatly reduced time-to-market and time-to-payment and provided a direct channel to consumers. The result: users started buying more and more smartphones, accessing app stores and downloading billions upon billions of apps.\r\n\r\nAt same reason, web developers are also expressing interest in an app store model for the Web that would enable them to get paid for their efforts without having to abandon Web development in exchange for proprietary silos.\r\n\r\nThe purpose for this Web Application Store community group is to discuss about the web application store, related technologies, and various issues for Open Web Application Store.  \r\n\r\nThis Web Application Store CG's activities include:\r\n* Tracking specifications and implementations related to Web Application Store. \r\n* Refining use cases to communicate specific needs of Web Application Store.\r\n* Discussing technological issues related to Web Apps &amp; Web Application Store \r\n* Suggesting refinements or fixes to existing specifications to better meet the needs of the Web Application Development community \r\n* Evangelizing specifications to browser vendors. \r\n* Documenting how to best use open web standards for Web Application Store \r\n* Evangelizing open web standards and best practices for Web Application Store\r\n\r\nAnyone can join the Web Application Store Community Group.\r\n",
+ "shortname": "webappstore",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webappstore"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webappstore/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webappstore/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webappstore/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webappstore/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webappstore/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webappstore/participations"
+  }
+ },
+ "identifier": "cg/webappstore"
+}
