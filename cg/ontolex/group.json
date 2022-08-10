@@ -1,1 +1,33 @@
-{"id":48038,"name":"Ontology-Lexica Community Group","is_closed":false,"description":"The mission of the Ontology-Lexicon community group is to: (1) Develop models for the representation of lexica (and machine readable dictionaries) relative to ontologies. These lexicon models are intended to represent lexical entries containing information about how ontology elements (classes, properties, individuals etc.) are realized in multiple languages. In addition, the lexical entries contain appropriate linguistic (syntactic, morphological, semantic and pragmatic) information that constrains the usage of the entry. (2) Demonstrate the added value of representing lexica on the Semantic Web, in particularly focusing on how the use of linked data principles can allow for the re-use of existing linguistic information from resource such as WordNet. (3) Provide best practices for the use of linguistic data categories in combination with lexica. (4) Demonstrate that the creation of such lexica in combination with the semantics contained in ontologies can improve the performance of NLP tools. (5) Bring together people working on standards for representing linguistic information (syntactic, morphological, semantic and pragmatic) building on existing initiatives, and identifying collaboration tracks for the future. (6) Cater for interoperability among existing models to represent and structure linguistic information. (7) Demonstrate the added value of applications relying on the use of the combination of lexica and ontologies. ","shortname":"ontolex","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/ontolex"},"homepage":{"href":"https://www.w3.org/community/ontolex/"},"users":{"href":"https://api.w3.org/groups/cg/ontolex/users"},"services":{"href":"https://api.w3.org/groups/cg/ontolex/services"},"chairs":{"href":"https://api.w3.org/groups/cg/ontolex/chairs"},"join":{"href":"https://www.w3.org/community/ontolex/join"},"participations":{"href":"https://api.w3.org/groups/cg/ontolex/participations"}},"identifier":"cg/ontolex"}
+{
+ "id": 48038,
+ "name": "Ontology-Lexica Community Group",
+ "is_closed": false,
+ "description": "The mission of the Ontology-Lexicon community group is to: (1) Develop models for the representation of lexica (and machine readable dictionaries) relative to ontologies. These lexicon models are intended to represent lexical entries containing information about how ontology elements (classes, properties, individuals etc.) are realized in multiple languages. In addition, the lexical entries contain appropriate linguistic (syntactic, morphological, semantic and pragmatic) information that constrains the usage of the entry. (2) Demonstrate the added value of representing lexica on the Semantic Web, in particularly focusing on how the use of linked data principles can allow for the re-use of existing linguistic information from resource such as WordNet. (3) Provide best practices for the use of linguistic data categories in combination with lexica. (4) Demonstrate that the creation of such lexica in combination with the semantics contained in ontologies can improve the performance of NLP tools. (5) Bring together people working on standards for representing linguistic information (syntactic, morphological, semantic and pragmatic) building on existing initiatives, and identifying collaboration tracks for the future. (6) Cater for interoperability among existing models to represent and structure linguistic information. (7) Demonstrate the added value of applications relying on the use of the combination of lexica and ontologies. ",
+ "shortname": "ontolex",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ontolex"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/ontolex/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ontolex/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ontolex/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ontolex/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ontolex/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ontolex/participations"
+  }
+ },
+ "identifier": "cg/ontolex"
+}
