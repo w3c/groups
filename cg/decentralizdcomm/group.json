@@ -1,1 +1,33 @@
-{"id":98447,"name":"Decentralized Communications Community Group","is_closed":false,"description":"The mission of this group is to specify and build a reference implementation of Decentralized Communications. Decentralized Communications enables natively inter-operable communication services that are able to trustfully use peer to peer connections without having to use central authorities or services. Decentralized Comms are inherently inter-operable without using standard protocols by using the Protocol on-the-fly concept, where the most appropriate protocol stack to be used, is selected and instantiated at run-time.","shortname":"decentralizdcomm","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/decentralizdcomm"},"homepage":{"href":"https://www.w3.org/community/decentralizdcomm/"},"users":{"href":"https://api.w3.org/groups/cg/decentralizdcomm/users"},"services":{"href":"https://api.w3.org/groups/cg/decentralizdcomm/services"},"chairs":{"href":"https://api.w3.org/groups/cg/decentralizdcomm/chairs"},"join":{"href":"https://www.w3.org/community/decentralizdcomm/join"},"participations":{"href":"https://api.w3.org/groups/cg/decentralizdcomm/participations"}},"identifier":"cg/decentralizdcomm"}
+{
+ "id": 98447,
+ "name": "Decentralized Communications Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to specify and build a reference implementation of Decentralized Communications. Decentralized Communications enables natively inter-operable communication services that are able to trustfully use peer to peer connections without having to use central authorities or services. Decentralized Comms are inherently inter-operable without using standard protocols by using the Protocol on-the-fly concept, where the most appropriate protocol stack to be used, is selected and instantiated at run-time.",
+ "shortname": "decentralizdcomm",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decentralizdcomm"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/decentralizdcomm/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/decentralizdcomm/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/decentralizdcomm/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/decentralizdcomm/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/decentralizdcomm/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/decentralizdcomm/participations"
+  }
+ },
+ "identifier": "cg/decentralizdcomm"
+}
