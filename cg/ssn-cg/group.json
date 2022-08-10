@@ -1,1 +1,33 @@
-{"id":52722,"name":"Semantic Sensor Networks Community Group","is_closed":false,"description":"To continue the work of the Semantic Sensor Networks Incubator Group (the SSN-XG) in defining and using ontologies and mappings for querying, managing and understanding sensors, sensor networks and observations.  This community group will also serve as a community and access point for ontologies (such as the group's SSN ontology) and technologies developed for semantic sensor networks.","shortname":"ssn-cg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/ssn-cg"},"homepage":{"href":"https://www.w3.org/community/ssn-cg/"},"users":{"href":"https://api.w3.org/groups/cg/ssn-cg/users"},"services":{"href":"https://api.w3.org/groups/cg/ssn-cg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/ssn-cg/chairs"},"join":{"href":"https://www.w3.org/community/ssn-cg/join"},"participations":{"href":"https://api.w3.org/groups/cg/ssn-cg/participations"}},"identifier":"cg/ssn-cg"}
+{
+ "id": 52722,
+ "name": "Semantic Sensor Networks Community Group",
+ "is_closed": false,
+ "description": "To continue the work of the Semantic Sensor Networks Incubator Group (the SSN-XG) in defining and using ontologies and mappings for querying, managing and understanding sensors, sensor networks and observations.  This community group will also serve as a community and access point for ontologies (such as the group's SSN ontology) and technologies developed for semantic sensor networks.",
+ "shortname": "ssn-cg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ssn-cg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/ssn-cg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ssn-cg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ssn-cg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ssn-cg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ssn-cg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ssn-cg/participations"
+  }
+ },
+ "identifier": "cg/ssn-cg"
+}
