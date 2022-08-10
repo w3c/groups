@@ -1,1 +1,33 @@
-{"id":48594,"name":"Read Write Web Community Group","is_closed":false,"description":"The activity of this group is to apply Web standards to trusted read and write operations.\r\n","shortname":"rww","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/rww"},"homepage":{"href":"https://www.w3.org/community/rww/"},"users":{"href":"https://api.w3.org/groups/cg/rww/users"},"services":{"href":"https://api.w3.org/groups/cg/rww/services"},"chairs":{"href":"https://api.w3.org/groups/cg/rww/chairs"},"join":{"href":"https://www.w3.org/community/rww/join"},"participations":{"href":"https://api.w3.org/groups/cg/rww/participations"}},"identifier":"cg/rww"}
+{
+ "id": 48594,
+ "name": "Read Write Web Community Group",
+ "is_closed": false,
+ "description": "The activity of this group is to apply Web standards to trusted read and write operations.\r\n",
+ "shortname": "rww",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rww"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/rww/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/rww/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/rww/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/rww/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/rww/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/rww/participations"
+  }
+ },
+ "identifier": "cg/rww"
+}
