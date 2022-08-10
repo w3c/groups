@@ -1,1 +1,33 @@
-{"id":84855,"name":"Scholarly HTML Community Group","is_closed":false,"description":"The mission of this group is to build a common, open format for the exchange of scholarly information.","shortname":"scholarlyhtml","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/scholarlyhtml"},"homepage":{"href":"https://www.w3.org/community/scholarlyhtml/"},"users":{"href":"https://api.w3.org/groups/cg/scholarlyhtml/users"},"services":{"href":"https://api.w3.org/groups/cg/scholarlyhtml/services"},"chairs":{"href":"https://api.w3.org/groups/cg/scholarlyhtml/chairs"},"join":{"href":"https://www.w3.org/community/scholarlyhtml/join"},"participations":{"href":"https://api.w3.org/groups/cg/scholarlyhtml/participations"}},"identifier":"cg/scholarlyhtml"}
+{
+ "id": 84855,
+ "name": "Scholarly HTML Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to build a common, open format for the exchange of scholarly information.",
+ "shortname": "scholarlyhtml",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/scholarlyhtml"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/scholarlyhtml/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/scholarlyhtml/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/scholarlyhtml/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/scholarlyhtml/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/scholarlyhtml/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/scholarlyhtml/participations"
+  }
+ },
+ "identifier": "cg/scholarlyhtml"
+}
