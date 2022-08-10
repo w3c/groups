@@ -1,1 +1,33 @@
-{"id":92127,"name":"Blockchain Digital Assets Community Group","is_closed":false,"description":"The group's mission is to discuss and eventually create and propose Web Specifications for creating and using Digital Assets on a Blockchain. The groups primary activities will be to start discussions with regards to use cases of digital assets on blockchains and identify the issues that we have now. Eventually, the group will publish technical thought papers on Digital Assets on Blockchains and eventually produce deliverables like sample codes, use cases, proof of concepts, etc. in order for this community group to become a W3C Working Group to propose technical specifications related to creating and using Digital Assets on Blockchains.\r\n\r\nThe ideal members that should join this group are those who has skills in Web standards and have interests in Blockchain technologies especially in the creation and using of digital assets on Blockchains.","shortname":"digital-asset","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/digital-asset"},"homepage":{"href":"https://www.w3.org/community/digital-asset/"},"users":{"href":"https://api.w3.org/groups/cg/digital-asset/users"},"services":{"href":"https://api.w3.org/groups/cg/digital-asset/services"},"chairs":{"href":"https://api.w3.org/groups/cg/digital-asset/chairs"},"join":{"href":"https://www.w3.org/community/digital-asset/join"},"participations":{"href":"https://api.w3.org/groups/cg/digital-asset/participations"}},"identifier":"cg/digital-asset"}
+{
+ "id": 92127,
+ "name": "Blockchain Digital Assets Community Group",
+ "is_closed": false,
+ "description": "The group's mission is to discuss and eventually create and propose Web Specifications for creating and using Digital Assets on a Blockchain. The groups primary activities will be to start discussions with regards to use cases of digital assets on blockchains and identify the issues that we have now. Eventually, the group will publish technical thought papers on Digital Assets on Blockchains and eventually produce deliverables like sample codes, use cases, proof of concepts, etc. in order for this community group to become a W3C Working Group to propose technical specifications related to creating and using Digital Assets on Blockchains.\r\n\r\nThe ideal members that should join this group are those who has skills in Web standards and have interests in Blockchain technologies especially in the creation and using of digital assets on Blockchains.",
+ "shortname": "digital-asset",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/digital-asset"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/digital-asset/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/digital-asset/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/digital-asset/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/digital-asset/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/digital-asset/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/digital-asset/participations"
+  }
+ },
+ "identifier": "cg/digital-asset"
+}
