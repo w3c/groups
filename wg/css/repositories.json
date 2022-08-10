@@ -1,1 +1,130 @@
-[{"name":"css-a11y","owner":{"login":"w3c"},"description":"Main repository for the CSS Accessibility Task Force","isArchived":false,"w3cjson":{"group":["wg/apa","wg/aria","wg/css"],"contacts":["michael-n-cooper"],"repo-type":["others"],"policy":"restricted"}},{"name":"css-houdini-drafts","owner":{"login":"w3c"},"homepageUrl":"https://drafts.css-houdini.org/","description":"Mirror of https://hg.css-houdini.org/drafts","isArchived":false,"w3cjson":{"group":["wg/css"],"contacts":["svgeesus"],"repo-type":["rec-track"],"policy":"open"}},{"name":"csswg-apiclient","owner":{"login":"w3c"},"homepageUrl":"https://hg.csswg.org/dev/apiclient/","description":"Read-only git mirror","isArchived":false,"w3cjson":{"group":["wg/css"],"contacts":["svgeesus","xfq"],"policy":"open","repo-type":["tool"]}},{"name":"csswg-drafts","owner":{"login":"w3c"},"homepageUrl":"https://drafts.csswg.org/","description":"CSS Working Group Editor Drafts","isArchived":false,"w3cjson":{"group":["wg/css"],"contacts":["svgeesus"],"repo-type":["rec-track"],"policy":"open"}},{"name":"csswg-www","owner":{"login":"w3c"},"description":"Prototype web site for the CSS Working Group","isArchived":false,"w3cjson":{"group":["wg/css"],"contacts":["svgeesus","xfq"],"policy":"open","repo-type":["homepage"]}},{"name":"fxtf-drafts","owner":{"login":"w3c"},"homepageUrl":"https://drafts.fxtf.org/","description":"Mirror of https://hg.fxtf.org/drafts","isArchived":false,"w3cjson":{"group":["wg/css"],"contacts":["svgeesus"],"repo-type":["rec-track"],"policy":"open"}}]
+[
+ {
+  "name": "css-a11y",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Main repository for the CSS Accessibility Task Force",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa",
+    "wg/aria",
+    "wg/css"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "css-houdini-drafts",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://drafts.css-houdini.org/",
+  "description": "Mirror of https://hg.css-houdini.org/drafts",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "csswg-apiclient",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://hg.csswg.org/dev/apiclient/",
+  "description": "Read-only git mirror",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus",
+    "xfq"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "csswg-drafts",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://drafts.csswg.org/",
+  "description": "CSS Working Group Editor Drafts",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "csswg-www",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Prototype web site for the CSS Working Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus",
+    "xfq"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "fxtf-drafts",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://drafts.fxtf.org/",
+  "description": "Mirror of https://hg.fxtf.org/drafts",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ }
+]
