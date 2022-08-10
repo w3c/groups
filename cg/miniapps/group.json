@@ -1,1 +1,33 @@
-{"id":117923,"name":"MiniApps Ecosystem Community Group","is_closed":false,"description":"A community group to incubate work on MiniApps and serve as a base for analysis and proposals of specific work items","shortname":"miniapps","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/miniapps"},"homepage":{"href":"https://www.w3.org/community/miniapps/"},"users":{"href":"https://api.w3.org/groups/cg/miniapps/users"},"services":{"href":"https://api.w3.org/groups/cg/miniapps/services"},"chairs":{"href":"https://api.w3.org/groups/cg/miniapps/chairs"},"join":{"href":"https://www.w3.org/community/miniapps/join"},"participations":{"href":"https://api.w3.org/groups/cg/miniapps/participations"}},"identifier":"cg/miniapps"}
+{
+ "id": 117923,
+ "name": "MiniApps Ecosystem Community Group",
+ "is_closed": false,
+ "description": "A community group to incubate work on MiniApps and serve as a base for analysis and proposals of specific work items",
+ "shortname": "miniapps",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/miniapps"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/miniapps/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/miniapps/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/miniapps/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/miniapps/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/miniapps/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/miniapps/participations"
+  }
+ },
+ "identifier": "cg/miniapps"
+}
