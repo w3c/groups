@@ -1,1 +1,33 @@
-{"id":75857,"name":"HTML Tidy Advocacy Community Group","is_closed":false,"description":"The HTML Tidy Advocacy Community Group (\"HTACG\") is dedicated to the continued support, development, and evolution of the HTML Tidy command line application and library.\r\n\r\nThe Community in cooperation with the W3C aims to become the canonical release group for HTML Tidy, which has been without a stable, public release since 2008. The Community aspires to achieve the agreement and support of the original and current developers to this end.\r\n\r\nThe Community will continue to develop HTML Tidy to adapt it to modern standards; to implement testing systems; and to implement robust build systems. The Community will also promote the continued relevance of HTML Tidy in modern software systems.\r\n\r\nThis group will not publish Specifications.","shortname":"htacg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/htacg"},"homepage":{"href":"https://www.w3.org/community/htacg/"},"users":{"href":"https://api.w3.org/groups/cg/htacg/users"},"services":{"href":"https://api.w3.org/groups/cg/htacg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/htacg/chairs"},"join":{"href":"https://www.w3.org/community/htacg/join"},"participations":{"href":"https://api.w3.org/groups/cg/htacg/participations"}},"identifier":"cg/htacg"}
+{
+ "id": 75857,
+ "name": "HTML Tidy Advocacy Community Group",
+ "is_closed": false,
+ "description": "The HTML Tidy Advocacy Community Group (\"HTACG\") is dedicated to the continued support, development, and evolution of the HTML Tidy command line application and library.\r\n\r\nThe Community in cooperation with the W3C aims to become the canonical release group for HTML Tidy, which has been without a stable, public release since 2008. The Community aspires to achieve the agreement and support of the original and current developers to this end.\r\n\r\nThe Community will continue to develop HTML Tidy to adapt it to modern standards; to implement testing systems; and to implement robust build systems. The Community will also promote the continued relevance of HTML Tidy in modern software systems.\r\n\r\nThis group will not publish Specifications.",
+ "shortname": "htacg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/htacg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/htacg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/htacg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/htacg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/htacg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/htacg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/htacg/participations"
+  }
+ },
+ "identifier": "cg/htacg"
+}
