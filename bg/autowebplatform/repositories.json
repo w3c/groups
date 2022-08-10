@@ -1,1 +1,21 @@
-[{"name":"automotive-bg","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["bg/autowebplatform"],"contacts":["tguild"],"policy":"open","repo-type":["cg-report"]}}]
+[
+ {
+  "name": "automotive-bg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "bg/autowebplatform"
+   ],
+   "contacts": [
+    "tguild"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
