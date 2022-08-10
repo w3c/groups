@@ -1,1 +1,83 @@
-[{"name":"dx-connegp","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/dx-connegp/connegp/","description":"Content Negotiation by Profile","isArchived":false,"w3cjson":{"group":["wg/dx"],"contacts":["plehegar"],"policy":"open","repo-type":["rec-track"]}},{"name":"dx-prof","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/dx-prof/prof/","description":"The Profiles Vocabulary","isArchived":false,"w3cjson":{"group":["wg/dx"],"contacts":["plehegar"],"policy":"open","repo-type":["note"]}},{"name":"dxwg","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/dxwg/dcat/","description":"Data Catalog Vocabulary (DCAT)","isArchived":false,"w3cjson":{"group":["wg/dx"],"contacts":["plehegar"],"policy":"open","repo-type":["rec-track"]}},{"name":"prof-voc-reg","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/dx"],"contacts":["plehegar"],"repo-type":["registry"]}}]
+[
+ {
+  "name": "dx-connegp",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dx-connegp/connegp/",
+  "description": "Content Negotiation by Profile",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "dx-prof",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dx-prof/prof/",
+  "description": "The Profiles Vocabulary",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "dxwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dxwg/dcat/",
+  "description": "Data Catalog Vocabulary (DCAT)",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "prof-voc-reg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "registry"
+   ]
+  }
+ }
+]
