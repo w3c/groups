@@ -1,1 +1,114 @@
-[{"name":"fingerprinting-guidance","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/fingerprinting-guidance/","description":"What is browser fingerprinting and how should specification authors address it.","isArchived":false,"w3cjson":{"group":["ig/privacy"],"contacts":["samuelweiler","wseltzer","sandandsnow","tjwhalen","npdoty"],"repo-type":["note"]}},{"name":"ping","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/Privacy/IG/","description":"Privacy Interest Group webpages (only) - working docs are in https://github.com/w3cping ","isArchived":false,"w3cjson":{"group":["ig/privacy"],"contacts":["samuelweiler","wseltzer","sandandsnow","tjwhalen"],"repo-type":["homepage"]}},{"name":"ping-security-questionnaire","owner":{"login":"w3c"},"homepageUrl":"https://w3ctag.github.io/security-questionnaire/","description":"A security/privacy review questionnaire for W3C specs","isArchived":false,"w3cjson":{"group":["ig/privacy"],"contacts":["samuelweiler","wseltzer","sandandsnow","tjwhalen"],"repo-type":["note"]}},{"name":"privacy-considerations","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["ig/privacy"],"contacts":["samuelweiler","wseltzer","sandandsnow","tjwhalen"],"repo-type":["note"]}},{"name":"tracking-issues","owner":{"login":"w3cping"},"homepageUrl":"https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues","description":"Repo to track PING initiated issues on other standards documents.","isArchived":false,"w3cjson":{"group":["ig/privacy"],"contacts":["samuelweiler"],"policy":"open","repo-type":["tool"]}}]
+[
+ {
+  "name": "fingerprinting-guidance",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/fingerprinting-guidance/",
+  "description": "What is browser fingerprinting and how should specification authors address it.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "samuelweiler",
+    "wseltzer",
+    "sandandsnow",
+    "tjwhalen",
+    "npdoty"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "ping",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/Privacy/IG/",
+  "description": "Privacy Interest Group webpages (only) - working docs are in https://github.com/w3cping ",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "samuelweiler",
+    "wseltzer",
+    "sandandsnow",
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "ping-security-questionnaire",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "description": "A security/privacy review questionnaire for W3C specs",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "samuelweiler",
+    "wseltzer",
+    "sandandsnow",
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "privacy-considerations",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "samuelweiler",
+    "wseltzer",
+    "sandandsnow",
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "tracking-issues",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues",
+  "description": "Repo to track PING initiated issues on other standards documents.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "samuelweiler"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
+ }
+]
