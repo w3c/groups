@@ -1,1 +1,33 @@
-{"id":77432,"name":"Cryptoledgers Community Group","is_closed":false,"description":"This group aims at creating an international and interdisciplinary network of researchers - academic and non-academic - interested in exploring the economic, legal, technical and societal challenges raised and faced by cryptoledger-based applications, such as Bitcoin or Ethereum.\r\nThe purpose of this group is to enable peer support and collaboration for researchers across institutions and disciplines to achieve a better understanding of the opportunities and risks posed by cryptocurrencies and other cryptoledger-based applications. \r\nThis group includes those doing theoretical analysis, investigating tools and applications that might hinder or support the adoption of alternative cryptocurrencies, or collaborating on the development of new tools to further promote their deployment worldwide.\r\n\r\nThis group will not publish specifications.","shortname":"cryptoledgers","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/cryptoledgers"},"homepage":{"href":"https://www.w3.org/community/cryptoledgers/"},"users":{"href":"https://api.w3.org/groups/cg/cryptoledgers/users"},"services":{"href":"https://api.w3.org/groups/cg/cryptoledgers/services"},"chairs":{"href":"https://api.w3.org/groups/cg/cryptoledgers/chairs"},"join":{"href":"https://www.w3.org/community/cryptoledgers/join"},"participations":{"href":"https://api.w3.org/groups/cg/cryptoledgers/participations"}},"identifier":"cg/cryptoledgers"}
+{
+ "id": 77432,
+ "name": "Cryptoledgers Community Group",
+ "is_closed": false,
+ "description": "This group aims at creating an international and interdisciplinary network of researchers - academic and non-academic - interested in exploring the economic, legal, technical and societal challenges raised and faced by cryptoledger-based applications, such as Bitcoin or Ethereum.\r\nThe purpose of this group is to enable peer support and collaboration for researchers across institutions and disciplines to achieve a better understanding of the opportunities and risks posed by cryptocurrencies and other cryptoledger-based applications. \r\nThis group includes those doing theoretical analysis, investigating tools and applications that might hinder or support the adoption of alternative cryptocurrencies, or collaborating on the development of new tools to further promote their deployment worldwide.\r\n\r\nThis group will not publish specifications.",
+ "shortname": "cryptoledgers",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cryptoledgers"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/cryptoledgers/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cryptoledgers/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cryptoledgers/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cryptoledgers/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cryptoledgers/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cryptoledgers/participations"
+  }
+ },
+ "identifier": "cg/cryptoledgers"
+}
