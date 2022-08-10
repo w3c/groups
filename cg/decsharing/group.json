@@ -1,1 +1,33 @@
-{"id":77570,"name":"Decentralized Sharing Community Group","is_closed":false,"description":"The goal is to work on interoperable sharing between decentralized platforms. The idea is not to design the perfect protocol but find a consensus that would lead to an interoperable data exchange with sync capabilities, access control, discovery, etc.","shortname":"decsharing","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/decsharing"},"homepage":{"href":"https://www.w3.org/community/decsharing/"},"users":{"href":"https://api.w3.org/groups/cg/decsharing/users"},"services":{"href":"https://api.w3.org/groups/cg/decsharing/services"},"chairs":{"href":"https://api.w3.org/groups/cg/decsharing/chairs"},"join":{"href":"https://www.w3.org/community/decsharing/join"},"participations":{"href":"https://api.w3.org/groups/cg/decsharing/participations"}},"identifier":"cg/decsharing"}
+{
+ "id": 77570,
+ "name": "Decentralized Sharing Community Group",
+ "is_closed": false,
+ "description": "The goal is to work on interoperable sharing between decentralized platforms. The idea is not to design the perfect protocol but find a consensus that would lead to an interoperable data exchange with sync capabilities, access control, discovery, etc.",
+ "shortname": "decsharing",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decsharing"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/decsharing/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/decsharing/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/decsharing/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/decsharing/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/decsharing/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/decsharing/participations"
+  }
+ },
+ "identifier": "cg/decsharing"
+}
