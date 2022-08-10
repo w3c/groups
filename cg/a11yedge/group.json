@@ -1,1 +1,33 @@
-{"id":138124,"name":"Accessibility at the Edge Community Group","is_closed":false,"description":"The mission of the Accessibility at the Edge Community Group is to examine improvements to internet accessibility via \"edge computing\", a relatively new paradigm that focuses on performing tasks at the edge of the network. Unlike cloud computing, edge computing emphasizes activities that occur closer to the user; these could include accessibility oriented user-agent extensions, applications on content delivery networks, JavaScript-enabled capabilities, AI or ML. The group is a forum for discussing both currently available products, potentially new applications not yet commercially available, as well as objective measures of the quality of any one of these. Our tasks can include inventorying both opportunities and challenges, drafting and incubating Internet specifications for further assessment, standardization, prototyping and testing of reference implementations. A11Y-EDGE CG meetings work and operate under the <a href=\"https://www.w3.org/Consortium/cepc/\">W3C Code of Ethics and Professional Conduct</a>.","shortname":"a11yedge","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/a11yedge"},"homepage":{"href":"https://www.w3.org/community/a11yedge/"},"users":{"href":"https://api.w3.org/groups/cg/a11yedge/users"},"services":{"href":"https://api.w3.org/groups/cg/a11yedge/services"},"chairs":{"href":"https://api.w3.org/groups/cg/a11yedge/chairs"},"join":{"href":"https://www.w3.org/community/a11yedge/join"},"participations":{"href":"https://api.w3.org/groups/cg/a11yedge/participations"}},"identifier":"cg/a11yedge"}
+{
+ "id": 138124,
+ "name": "Accessibility at the Edge Community Group",
+ "is_closed": false,
+ "description": "The mission of the Accessibility at the Edge Community Group is to examine improvements to internet accessibility via \"edge computing\", a relatively new paradigm that focuses on performing tasks at the edge of the network. Unlike cloud computing, edge computing emphasizes activities that occur closer to the user; these could include accessibility oriented user-agent extensions, applications on content delivery networks, JavaScript-enabled capabilities, AI or ML. The group is a forum for discussing both currently available products, potentially new applications not yet commercially available, as well as objective measures of the quality of any one of these. Our tasks can include inventorying both opportunities and challenges, drafting and incubating Internet specifications for further assessment, standardization, prototyping and testing of reference implementations. A11Y-EDGE CG meetings work and operate under the <a href=\"https://www.w3.org/Consortium/cepc/\">W3C Code of Ethics and Professional Conduct</a>.",
+ "shortname": "a11yedge",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/a11yedge"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/a11yedge/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/a11yedge/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/a11yedge/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/a11yedge/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/a11yedge/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/a11yedge/participations"
+  }
+ },
+ "identifier": "cg/a11yedge"
+}
