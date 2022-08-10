@@ -1,1 +1,23 @@
-[{"name":"web-thing-protocol","owner":{"login":"w3c"},"description":"Repository for the Web Thing Protocol Community Group","isArchived":false,"w3cjson":{"group":["cg/web-thing-protocol"],"contacts":["benfrancis","ashimura"],"shortName":"web-thing-protocol","repo-type":["cg-report"]}}]
+[
+ {
+  "name": "web-thing-protocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Web Thing Protocol Community Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-thing-protocol"
+   ],
+   "contacts": [
+    "benfrancis",
+    "ashimura"
+   ],
+   "shortName": "web-thing-protocol",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
