@@ -1,1 +1,33 @@
-{"id":55590,"name":"Web History Community Group","is_closed":false,"description":"This group gathers people interested in the history of the World Wide Web: how it was invented, what was out there that made it possible, and what happened in its early years. Our main goal is to collect and preserve valuable information (software, documents, testimonials) before it is lost. \r\n\r\nThis group will not produce specifications.","shortname":"webhistory","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webhistory"},"homepage":{"href":"https://www.w3.org/community/webhistory/"},"users":{"href":"https://api.w3.org/groups/cg/webhistory/users"},"services":{"href":"https://api.w3.org/groups/cg/webhistory/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webhistory/chairs"},"join":{"href":"https://www.w3.org/community/webhistory/join"},"participations":{"href":"https://api.w3.org/groups/cg/webhistory/participations"}},"identifier":"cg/webhistory"}
+{
+ "id": 55590,
+ "name": "Web History Community Group",
+ "is_closed": false,
+ "description": "This group gathers people interested in the history of the World Wide Web: how it was invented, what was out there that made it possible, and what happened in its early years. Our main goal is to collect and preserve valuable information (software, documents, testimonials) before it is lost. \r\n\r\nThis group will not produce specifications.",
+ "shortname": "webhistory",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webhistory"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webhistory/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webhistory/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webhistory/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webhistory/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webhistory/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webhistory/participations"
+  }
+ },
+ "identifier": "cg/webhistory"
+}
