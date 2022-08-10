@@ -1,1 +1,23 @@
-[{"name":"p2p-webtransport","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/p2p-webtransport/","description":"Interface to create and manage QUIC streams","isArchived":false,"w3cjson":{"group":["cg/ortc"],"contacts":["dontcallmedom","caribouW3"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "p2p-webtransport",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/p2p-webtransport/",
+  "description": "Interface to create and manage QUIC streams",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/ortc"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "caribouW3"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
