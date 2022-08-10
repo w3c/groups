@@ -1,1 +1,33 @@
-{"id":48774,"name":"Native Web Apps Community Group","is_closed":false,"description":"A community driven take on the concepts driving the Widgets and Device APIs. Collectively understood these technologies form the basis for installable web apps. Living in a secured context these applications give the web access to traditionally native capabilities. ","shortname":"native-web-apps","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/native-web-apps"},"homepage":{"href":"https://www.w3.org/community/native-web-apps/"},"users":{"href":"https://api.w3.org/groups/cg/native-web-apps/users"},"services":{"href":"https://api.w3.org/groups/cg/native-web-apps/services"},"chairs":{"href":"https://api.w3.org/groups/cg/native-web-apps/chairs"},"join":{"href":"https://www.w3.org/community/native-web-apps/join"},"participations":{"href":"https://api.w3.org/groups/cg/native-web-apps/participations"}},"identifier":"cg/native-web-apps"}
+{
+ "id": 48774,
+ "name": "Native Web Apps Community Group",
+ "is_closed": false,
+ "description": "A community driven take on the concepts driving the Widgets and Device APIs. Collectively understood these technologies form the basis for installable web apps. Living in a secured context these applications give the web access to traditionally native capabilities. ",
+ "shortname": "native-web-apps",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/native-web-apps"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/native-web-apps/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/native-web-apps/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/native-web-apps/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/native-web-apps/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/native-web-apps/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/native-web-apps/participations"
+  }
+ },
+ "identifier": "cg/native-web-apps"
+}
