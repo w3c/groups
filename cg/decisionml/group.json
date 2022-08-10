@@ -1,1 +1,33 @@
-{"id":52113,"name":"Decisions and Decision-Making Community Group","is_closed":false,"description":"The group will discuss and tentatively specify a format for representing decisions, i.e. decision information, so they can be used across diverse systems. Because of the great variety of applications and decision technologies, this format should focus on the generic, core components of decisions and decision-making information. Decisions are a source of information in themselves, i.e. each decision that is made is in itself a piece of information the may need to be stored, tracked, shared, combined and compared to other decisions. The same holds for information about the decision process. In particular, this group will discuss and study how Semantic Web technologies can facilitate the representation and sharing of decision information. Ultimately, the aim of the group is to study and develop technologies and methods to support better, rapid, and agile decision making.","shortname":"decisionml","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/decisionml"},"homepage":{"href":"https://www.w3.org/community/decisionml/"},"users":{"href":"https://api.w3.org/groups/cg/decisionml/users"},"services":{"href":"https://api.w3.org/groups/cg/decisionml/services"},"chairs":{"href":"https://api.w3.org/groups/cg/decisionml/chairs"},"join":{"href":"https://www.w3.org/community/decisionml/join"},"participations":{"href":"https://api.w3.org/groups/cg/decisionml/participations"}},"identifier":"cg/decisionml"}
+{
+ "id": 52113,
+ "name": "Decisions and Decision-Making Community Group",
+ "is_closed": false,
+ "description": "The group will discuss and tentatively specify a format for representing decisions, i.e. decision information, so they can be used across diverse systems. Because of the great variety of applications and decision technologies, this format should focus on the generic, core components of decisions and decision-making information. Decisions are a source of information in themselves, i.e. each decision that is made is in itself a piece of information the may need to be stored, tracked, shared, combined and compared to other decisions. The same holds for information about the decision process. In particular, this group will discuss and study how Semantic Web technologies can facilitate the representation and sharing of decision information. Ultimately, the aim of the group is to study and develop technologies and methods to support better, rapid, and agile decision making.",
+ "shortname": "decisionml",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decisionml"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/decisionml/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/decisionml/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/decisionml/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/decisionml/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/decisionml/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/decisionml/participations"
+  }
+ },
+ "identifier": "cg/decisionml"
+}
