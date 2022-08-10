@@ -1,1 +1,33 @@
-{"id":80485,"name":"Web Platform Incubator Community Group","is_closed":false,"description":"The Web Platform Incubator Community Group (WICG) provides a lightweight venue for proposing and discussing new web platform features. Please see the <a rel=\"nofollow\" href=\"http://wicg.github.io/admin/charter.html\">charter</a> for more information.","shortname":"wicg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/wicg"},"homepage":{"href":"https://www.w3.org/community/wicg/"},"users":{"href":"https://api.w3.org/groups/cg/wicg/users"},"services":{"href":"https://api.w3.org/groups/cg/wicg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/wicg/chairs"},"join":{"href":"https://www.w3.org/community/wicg/join"},"participations":{"href":"https://api.w3.org/groups/cg/wicg/participations"}},"identifier":"cg/wicg"}
+{
+ "id": 80485,
+ "name": "Web Platform Incubator Community Group",
+ "is_closed": false,
+ "description": "The Web Platform Incubator Community Group (WICG) provides a lightweight venue for proposing and discussing new web platform features. Please see the <a rel=\"nofollow\" href=\"http://wicg.github.io/admin/charter.html\">charter</a> for more information.",
+ "shortname": "wicg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wicg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/wicg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/wicg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/wicg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/wicg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/wicg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/wicg/participations"
+  }
+ },
+ "identifier": "cg/wicg"
+}
