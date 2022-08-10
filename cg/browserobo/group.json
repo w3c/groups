@@ -1,1 +1,33 @@
-{"id":74380,"name":"Browsers and Robotics Community Group","is_closed":false,"description":"<p>This community group will discuss the applications of web browsers as the computer for controlling robots (robotics, in other words). And it will be also intended to feedback knowledge obtained from this discussion to standardization activity about Web of Things.</p>\r\n<p>What kinds of values are contained in using a Web browser not only in drawing graphical user interface but also in controlling and manipulating robots, and what kinds of difficulties and problems are there in that case? To search their answers may become the driving force of this activity.</p>\r\n<p>As an example, there may be the following questions in the discussion:</p>\r\n<ul>\r\n<li>Is a case applying a Web browser as a simple controller of the robots which does not have UI such as screens or the pointing devices still meaningful? For example, connectivity with web services and interlocking operation between robots (Swarm Robotics via web) may be one of its values.</li>\r\n<li>Is it possible to relate a graphical user interface of HTML to interactive and physical user interface of the robots? Is it meaningful? As an example, a relation between a physical push button and 'input' type=\"button\" element in the HTML may deserve considering.</li>\r\n<li>Are cases using relatively low-level interface used in many robots such as PWM of the motor, digital or analog signal interfaces, I2C, SPI, UART and GPIOs by the application on the web browsers meaningful?</li>\r\n<li>Is real-time computing at the same level as RTOS feasible on the web browser-based general-purpose computing environments?</li>\r\n</ul>\r\n<p>An initial related activity is the Mozilla Factory Open Hardware Project.</p>\r\n\r\n<p>Furthermore, this group may publish specifications based on those knowledge such as webGPIO, webI2C API and so on.</p>","shortname":"browserobo","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/browserobo"},"homepage":{"href":"https://www.w3.org/community/browserobo/"},"users":{"href":"https://api.w3.org/groups/cg/browserobo/users"},"services":{"href":"https://api.w3.org/groups/cg/browserobo/services"},"chairs":{"href":"https://api.w3.org/groups/cg/browserobo/chairs"},"join":{"href":"https://www.w3.org/community/browserobo/join"},"participations":{"href":"https://api.w3.org/groups/cg/browserobo/participations"}},"identifier":"cg/browserobo"}
+{
+ "id": 74380,
+ "name": "Browsers and Robotics Community Group",
+ "is_closed": false,
+ "description": "<p>This community group will discuss the applications of web browsers as the computer for controlling robots (robotics, in other words). And it will be also intended to feedback knowledge obtained from this discussion to standardization activity about Web of Things.</p>\r\n<p>What kinds of values are contained in using a Web browser not only in drawing graphical user interface but also in controlling and manipulating robots, and what kinds of difficulties and problems are there in that case? To search their answers may become the driving force of this activity.</p>\r\n<p>As an example, there may be the following questions in the discussion:</p>\r\n<ul>\r\n<li>Is a case applying a Web browser as a simple controller of the robots which does not have UI such as screens or the pointing devices still meaningful? For example, connectivity with web services and interlocking operation between robots (Swarm Robotics via web) may be one of its values.</li>\r\n<li>Is it possible to relate a graphical user interface of HTML to interactive and physical user interface of the robots? Is it meaningful? As an example, a relation between a physical push button and 'input' type=\"button\" element in the HTML may deserve considering.</li>\r\n<li>Are cases using relatively low-level interface used in many robots such as PWM of the motor, digital or analog signal interfaces, I2C, SPI, UART and GPIOs by the application on the web browsers meaningful?</li>\r\n<li>Is real-time computing at the same level as RTOS feasible on the web browser-based general-purpose computing environments?</li>\r\n</ul>\r\n<p>An initial related activity is the Mozilla Factory Open Hardware Project.</p>\r\n\r\n<p>Furthermore, this group may publish specifications based on those knowledge such as webGPIO, webI2C API and so on.</p>",
+ "shortname": "browserobo",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/browserobo"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/browserobo/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/browserobo/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/browserobo/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/browserobo/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/browserobo/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/browserobo/participations"
+  }
+ },
+ "identifier": "cg/browserobo"
+}
