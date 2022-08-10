@@ -1,1 +1,33 @@
-{"id":134937,"name":"Interoperability Remedies Community Group","is_closed":false,"description":"<p>The mission of this group is to help legal regulators understand and apply Internet and Web architectural principles -- like privacy, security, internationalisation, and accessibility -- when requiring 'big tech' companies to implement technical specifications.</p>\r\n\r\n<p>See the <a rel=\"nofollow\" href=\"https://interop-remedies-cg.github.io/\">CG GitHub page</a> for more information, including a full charter.</p>\r\n\r\n<p>This group does not publish Specifications.</p>","shortname":"interop-remedies","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/interop-remedies"},"homepage":{"href":"https://www.w3.org/community/interop-remedies/"},"users":{"href":"https://api.w3.org/groups/cg/interop-remedies/users"},"services":{"href":"https://api.w3.org/groups/cg/interop-remedies/services"},"chairs":{"href":"https://api.w3.org/groups/cg/interop-remedies/chairs"},"join":{"href":"https://www.w3.org/community/interop-remedies/join"},"participations":{"href":"https://api.w3.org/groups/cg/interop-remedies/participations"}},"identifier":"cg/interop-remedies"}
+{
+ "id": 134937,
+ "name": "Interoperability Remedies Community Group",
+ "is_closed": false,
+ "description": "<p>The mission of this group is to help legal regulators understand and apply Internet and Web architectural principles -- like privacy, security, internationalisation, and accessibility -- when requiring 'big tech' companies to implement technical specifications.</p>\r\n\r\n<p>See the <a rel=\"nofollow\" href=\"https://interop-remedies-cg.github.io/\">CG GitHub page</a> for more information, including a full charter.</p>\r\n\r\n<p>This group does not publish Specifications.</p>",
+ "shortname": "interop-remedies",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/interop-remedies"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/interop-remedies/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/interop-remedies/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/interop-remedies/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/interop-remedies/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/interop-remedies/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/interop-remedies/participations"
+  }
+ },
+ "identifier": "cg/interop-remedies"
+}
