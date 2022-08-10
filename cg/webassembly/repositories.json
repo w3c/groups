@@ -1,1 +1,754 @@
-[{"name":"JS-BigInt-integration","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/JS-BigInt-integration/js-api/index.html","description":"JavaScript BigInt to WebAssembly i64 integration","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"annotations","owner":{"login":"WebAssembly"},"homepageUrl":"https://WebAssembly.github.io/annotations/","description":"Proposal for Custom Annotation Syntax in the Text Format","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"branch-hinting","owner":{"login":"WebAssembly"},"homepageUrl":"","description":"Proposal to add branch hinting functionality to WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"bulk-memory-operations","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/bulk-memory-operations/","description":"Bulk memory operations","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"call-tags","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"conditional-sections","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"constant-time","owner":{"login":"WebAssembly"},"homepageUrl":"","description":"Constant-time WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"content-security-policy","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"esm-integration","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration","description":"ECMAScript module integration","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"exception-handling","owner":{"login":"WebAssembly"},"homepageUrl":"","description":"Proposal to add exception handling to WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"extended-const","owner":{"login":"WebAssembly"},"description":"Proposal for extended constant expressions","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"extended-name-section","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"feature-detection","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/feature-detection/","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"flexible-vectors","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/flexible-vectors/","description":"Vector operations for WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"function-references","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/function-references/","description":"Proposal for Typed Function References","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"gc","owner":{"login":"WebAssembly"},"description":"Branch of the spec repo scoped to discussion of GC integration in WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"gc-js-customization","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"instrument-tracing","owner":{"login":"WebAssembly"},"description":"Proposal to add instrumentation and tracing instructions to WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"js-promise-integration","owner":{"login":"WebAssembly"},"description":"JavaScript Promise Integration","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"js-types","owner":{"login":"WebAssembly"},"description":"Proposal for adding type reflection to the JS API","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"memory-control","owner":{"login":"WebAssembly"},"homepageUrl":"","description":"A proposal to introduce finer grained control of WebAssembly memory.","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"memory64","owner":{"login":"WebAssembly"},"description":"Memory with 64-bit indexes","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"module-linking","owner":{"login":"WebAssembly"},"homepageUrl":"","description":"Proposal for allowing modules to define, import and export modules and instances","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"multi-memory","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/multi-memory/","description":"Multiple per-module memories for Wasm","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"multi-value","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/multi-value/","description":"Proposal to add multi-values to WebAssembly","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"nontrapping-float-to-int-conversions","owner":{"login":"WebAssembly"},"description":"Proposal to add non-trapping float-to-int conversions to WebAssembly","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"profiles","owner":{"login":"WebAssembly"},"description":"Profiles proposal","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"proposal-type-imports","owner":{"login":"WebAssembly"},"description":"Proposal for Type Imports & Exports","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"reference-types","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/reference-types/","description":"Proposal for adding basic reference types (anyref)","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"relaxed-dead-code-validation","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"relaxed-simd","owner":{"login":"WebAssembly"},"description":"Relax the strict determinism requirements of SIMD operations.","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"sign-extension-ops","owner":{"login":"WebAssembly"},"description":"Sign-extension opcodes","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"simd","owner":{"login":"WebAssembly"},"description":"Branch of the spec repo scoped to discussion of SIMD in WebAssembly ","isArchived":true,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"spec","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/spec/","description":"WebAssembly specification, reference interpreter, and test suite.","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"stack-switching","owner":{"login":"WebAssembly"},"homepageUrl":"","description":"A repository for the stack switching proposal.","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"stringref","owner":{"login":"WebAssembly"},"isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"tail-call","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/tail-call/","description":"Proposal to add tail calls to WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"threads","owner":{"login":"WebAssembly"},"homepageUrl":"https://webassembly.github.io/threads/","description":"Threads and Atomics in WebAssembly","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}},{"name":"wat-numeric-values","owner":{"login":"WebAssembly"},"description":"Proposal to add numeric values to data segment definitions in the text format","isArchived":false,"w3cjson":{"group":["cg/webassembly"],"contacts":["ericprud"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "JS-BigInt-integration",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/JS-BigInt-integration/js-api/index.html",
+  "description": "JavaScript BigInt to WebAssembly i64 integration",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "annotations",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://WebAssembly.github.io/annotations/",
+  "description": "Proposal for Custom Annotation Syntax in the Text Format",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "branch-hinting",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "Proposal to add branch hinting functionality to WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "bulk-memory-operations",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/bulk-memory-operations/",
+  "description": "Bulk memory operations",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "call-tags",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "conditional-sections",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "constant-time",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "Constant-time WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "content-security-policy",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "esm-integration",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration",
+  "description": "ECMAScript module integration",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "exception-handling",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "Proposal to add exception handling to WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "extended-const",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal for extended constant expressions",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "extended-name-section",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "feature-detection",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/feature-detection/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "flexible-vectors",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/flexible-vectors/",
+  "description": "Vector operations for WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "function-references",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/function-references/",
+  "description": "Proposal for Typed Function References",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "gc",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "gc-js-customization",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "instrument-tracing",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal to add instrumentation and tracing instructions to WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "js-promise-integration",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "JavaScript Promise Integration",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "js-types",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal for adding type reflection to the JS API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "memory-control",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "A proposal to introduce finer grained control of WebAssembly memory.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "memory64",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Memory with 64-bit indexes",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "module-linking",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "Proposal for allowing modules to define, import and export modules and instances",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "multi-memory",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/multi-memory/",
+  "description": "Multiple per-module memories for Wasm",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "multi-value",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/multi-value/",
+  "description": "Proposal to add multi-values to WebAssembly",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "nontrapping-float-to-int-conversions",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal to add non-trapping float-to-int conversions to WebAssembly",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "profiles",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Profiles proposal",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "proposal-type-imports",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal for Type Imports & Exports",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "reference-types",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/reference-types/",
+  "description": "Proposal for adding basic reference types (anyref)",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "relaxed-dead-code-validation",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "relaxed-simd",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Relax the strict determinism requirements of SIMD operations.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "sign-extension-ops",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Sign-extension opcodes",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "simd",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Branch of the spec repo scoped to discussion of SIMD in WebAssembly ",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "spec",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/spec/",
+  "description": "WebAssembly specification, reference interpreter, and test suite.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "stack-switching",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "A repository for the stack switching proposal.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "stringref",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "tail-call",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/tail-call/",
+  "description": "Proposal to add tail calls to WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "threads",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/threads/",
+  "description": "Threads and Atomics in WebAssembly",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "wat-numeric-values",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal to add numeric values to data segment definitions in the text format",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
