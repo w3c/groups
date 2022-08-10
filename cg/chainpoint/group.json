@@ -1,1 +1,33 @@
-{"id":93667,"name":"Chainpoint Community Group","is_closed":false,"description":"<p>The mission of this group is to establish a standard for creating a universally verifiable proof of any data, file, or series of events, by anchoring data to the blockchain and other sources. This allows anyone to prove the data existed at a point in time and has not been modified.</p>\r\n\r\n<p>The group will publish and formalize the <a rel=\"nofollow\" href=\"http://www.chainpoint.org/\">Chainpoint specification</a> as a stable reference, maintain a test suite, and take feedback and use cases for the future evolution for the specification.</p>\r\n\r\n<p>The Chainpoint Community Group will coordinate with the <a rel=\"nofollow\" href=\"https://www.w3.org/community/blockchain/\">Blockchain Community Group</a> for general standardization of blockchain-related technology, and will operate according to the <a rel=\"nofollow\" href=\"http://www.chainpoint.org/w3c_chainpoint_charter.html\">Chainpoint CG charter</a>. You can read more about Chainpoint, its history, and goals, on our <a rel=\"nofollow\" href=\"https://medium.com/@WayneVaughan/chainpoint-a-standard-blockchain-proof-protocol-79def1c37189#.ayikplbdw\">recent blog post announcing Chainpoint 2.0</a>.</p>\r\n\r\n<p>This group invites participants who are actively developing and deploying proof-of-existence, timestamping, and data integrity solutions, who are skilled in blockchain technologies, and who can work on use cases for Chainpoint and related technologies.</p>","shortname":"chainpoint","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/chainpoint"},"homepage":{"href":"https://www.w3.org/community/chainpoint/"},"users":{"href":"https://api.w3.org/groups/cg/chainpoint/users"},"services":{"href":"https://api.w3.org/groups/cg/chainpoint/services"},"chairs":{"href":"https://api.w3.org/groups/cg/chainpoint/chairs"},"join":{"href":"https://www.w3.org/community/chainpoint/join"},"participations":{"href":"https://api.w3.org/groups/cg/chainpoint/participations"}},"identifier":"cg/chainpoint"}
+{
+ "id": 93667,
+ "name": "Chainpoint Community Group",
+ "is_closed": false,
+ "description": "<p>The mission of this group is to establish a standard for creating a universally verifiable proof of any data, file, or series of events, by anchoring data to the blockchain and other sources. This allows anyone to prove the data existed at a point in time and has not been modified.</p>\r\n\r\n<p>The group will publish and formalize the <a rel=\"nofollow\" href=\"http://www.chainpoint.org/\">Chainpoint specification</a> as a stable reference, maintain a test suite, and take feedback and use cases for the future evolution for the specification.</p>\r\n\r\n<p>The Chainpoint Community Group will coordinate with the <a rel=\"nofollow\" href=\"https://www.w3.org/community/blockchain/\">Blockchain Community Group</a> for general standardization of blockchain-related technology, and will operate according to the <a rel=\"nofollow\" href=\"http://www.chainpoint.org/w3c_chainpoint_charter.html\">Chainpoint CG charter</a>. You can read more about Chainpoint, its history, and goals, on our <a rel=\"nofollow\" href=\"https://medium.com/@WayneVaughan/chainpoint-a-standard-blockchain-proof-protocol-79def1c37189#.ayikplbdw\">recent blog post announcing Chainpoint 2.0</a>.</p>\r\n\r\n<p>This group invites participants who are actively developing and deploying proof-of-existence, timestamping, and data integrity solutions, who are skilled in blockchain technologies, and who can work on use cases for Chainpoint and related technologies.</p>",
+ "shortname": "chainpoint",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/chainpoint"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/chainpoint/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/chainpoint/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/chainpoint/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/chainpoint/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/chainpoint/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/chainpoint/participations"
+  }
+ },
+ "identifier": "cg/chainpoint"
+}
