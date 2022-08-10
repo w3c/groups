@@ -10237,7 +10237,18 @@
   },
   "description": "A server to refresh group repositories in github.com/w3c/groups/repositories.json",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    102
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "gsheets",
@@ -14454,7 +14465,19 @@
   "homepageUrl": "https://w3c.github.io/permissions-registry/",
   "description": "Registry of known powerful features in the web platform.",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "contacts": [
+    "samuelweiler",
+    "wseltzer",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "registry"
+   ]
+  }
  },
  {
   "name": "permissions-ws-2018",
