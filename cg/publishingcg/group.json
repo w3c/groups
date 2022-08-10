@@ -1,1 +1,33 @@
-{"id":110591,"name":"Publishing Community Group","is_closed":false,"description":"Incubation zone for Publishing@W3C. Bring your experiments here.","shortname":"publishingcg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/publishingcg"},"homepage":{"href":"https://www.w3.org/community/publishingcg/"},"users":{"href":"https://api.w3.org/groups/cg/publishingcg/users"},"services":{"href":"https://api.w3.org/groups/cg/publishingcg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/publishingcg/chairs"},"join":{"href":"https://www.w3.org/community/publishingcg/join"},"participations":{"href":"https://api.w3.org/groups/cg/publishingcg/participations"}},"identifier":"cg/publishingcg"}
+{
+ "id": 110591,
+ "name": "Publishing Community Group",
+ "is_closed": false,
+ "description": "Incubation zone for Publishing@W3C. Bring your experiments here.",
+ "shortname": "publishingcg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/publishingcg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/publishingcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/publishingcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/publishingcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/publishingcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/publishingcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/publishingcg/participations"
+  }
+ },
+ "identifier": "cg/publishingcg"
+}
