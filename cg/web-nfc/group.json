@@ -1,1 +1,33 @@
-{"id":76978,"name":"Web NFC Community Group","is_closed":false,"description":"<p>The Web NFC Community Group will create a Near Field Communication API that is browser-friendly\r\nand adheres to the Web's security model. We believe that means the API will not expose full,\r\nlow level NFC functionality, but rather a higher level subset that is safe for Web pages,\r\nprotects user privacy, and does not annoy users with unnecessary or complex permission requests.\r\nSee the <a rel=\"nofollow\" href=\"https://w3c.github.io/web-nfc/charter/\">Web NFC Community Group Charter</a>\r\nand the <a rel=\"nofollow\" href=\"https://w3c.github.io/web-nfc/\">Web NFC specification</a> for more information.</p>","shortname":"web-nfc","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/web-nfc"},"homepage":{"href":"https://www.w3.org/community/web-nfc/"},"users":{"href":"https://api.w3.org/groups/cg/web-nfc/users"},"services":{"href":"https://api.w3.org/groups/cg/web-nfc/services"},"chairs":{"href":"https://api.w3.org/groups/cg/web-nfc/chairs"},"join":{"href":"https://www.w3.org/community/web-nfc/join"},"participations":{"href":"https://api.w3.org/groups/cg/web-nfc/participations"}},"identifier":"cg/web-nfc"}
+{
+ "id": 76978,
+ "name": "Web NFC Community Group",
+ "is_closed": false,
+ "description": "<p>The Web NFC Community Group will create a Near Field Communication API that is browser-friendly\r\nand adheres to the Web's security model. We believe that means the API will not expose full,\r\nlow level NFC functionality, but rather a higher level subset that is safe for Web pages,\r\nprotects user privacy, and does not annoy users with unnecessary or complex permission requests.\r\nSee the <a rel=\"nofollow\" href=\"https://w3c.github.io/web-nfc/charter/\">Web NFC Community Group Charter</a>\r\nand the <a rel=\"nofollow\" href=\"https://w3c.github.io/web-nfc/\">Web NFC specification</a> for more information.</p>",
+ "shortname": "web-nfc",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-nfc"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/web-nfc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-nfc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-nfc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-nfc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-nfc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-nfc/participations"
+  }
+ },
+ "identifier": "cg/web-nfc"
+}
