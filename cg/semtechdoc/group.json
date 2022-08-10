@@ -1,1 +1,33 @@
-{"id":84086,"name":"Technical Documentation in the Semantic Web Community Group","is_closed":false,"description":"The complexity of machines and software has grown dramatically in the past years. The technical documentation became a fundamental source for service technicians and professionals in their daily work. Fast and focused access methods are necessary to handle massive volumes of technical documents. Semantic technologies have proven their ability to improve accessibility of information (see Linked Open Data). However, existing corpora of technical documents are usually not semantically prepared. This group shall focus on applying semantic technologies to technical documentation. All peers (individuals or projects) can state their needs (input) and offers (output).","shortname":"semtechdoc","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/semtechdoc"},"homepage":{"href":"https://www.w3.org/community/semtechdoc/"},"users":{"href":"https://api.w3.org/groups/cg/semtechdoc/users"},"services":{"href":"https://api.w3.org/groups/cg/semtechdoc/services"},"chairs":{"href":"https://api.w3.org/groups/cg/semtechdoc/chairs"},"join":{"href":"https://www.w3.org/community/semtechdoc/join"},"participations":{"href":"https://api.w3.org/groups/cg/semtechdoc/participations"}},"identifier":"cg/semtechdoc"}
+{
+ "id": 84086,
+ "name": "Technical Documentation in the Semantic Web Community Group",
+ "is_closed": false,
+ "description": "The complexity of machines and software has grown dramatically in the past years. The technical documentation became a fundamental source for service technicians and professionals in their daily work. Fast and focused access methods are necessary to handle massive volumes of technical documents. Semantic technologies have proven their ability to improve accessibility of information (see Linked Open Data). However, existing corpora of technical documents are usually not semantically prepared. This group shall focus on applying semantic technologies to technical documentation. All peers (individuals or projects) can state their needs (input) and offers (output).",
+ "shortname": "semtechdoc",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semtechdoc"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/semtechdoc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/semtechdoc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/semtechdoc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/semtechdoc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/semtechdoc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/semtechdoc/participations"
+  }
+ },
+ "identifier": "cg/semtechdoc"
+}
