@@ -1,1 +1,33 @@
-{"id":53791,"name":"W3C Developer Relations Community Group","is_closed":false,"description":"Developers and designers form an important audience for W3C standards, but the standards process itself is not an ideal way to engage with them. W3C has made strides in terms of developer relations in recent years, through W3Conf, Web Education XG and CG, easy access to W3C through community groups, more documentation, and online training. More can be done to reach more people and better reflect their interests in W3C.\r\n\r\nInitial ideas:\r\n\r\n* Create a developer relations activity or domain, to coordinate and explore different ways to directly engage with developers and designers, to gain early feedback on our specifications.\r\n* Make W3C a home for more useful documentation, demos, etc.\r\n* Support developer advocacy, in which ideas, use cases, and requirements for features or specification fixes are collected in detail from developers and designers, and presented to the appropriate W3C Groups.\r\n* Liaise with Members' developer relations departments on projects of mutual benefit.\r\n\r\nThis group will not publish Specifications.","shortname":"devrel","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/devrel"},"homepage":{"href":"https://www.w3.org/community/devrel/"},"users":{"href":"https://api.w3.org/groups/cg/devrel/users"},"services":{"href":"https://api.w3.org/groups/cg/devrel/services"},"chairs":{"href":"https://api.w3.org/groups/cg/devrel/chairs"},"join":{"href":"https://www.w3.org/community/devrel/join"},"participations":{"href":"https://api.w3.org/groups/cg/devrel/participations"}},"identifier":"cg/devrel"}
+{
+ "id": 53791,
+ "name": "W3C Developer Relations Community Group",
+ "is_closed": false,
+ "description": "Developers and designers form an important audience for W3C standards, but the standards process itself is not an ideal way to engage with them. W3C has made strides in terms of developer relations in recent years, through W3Conf, Web Education XG and CG, easy access to W3C through community groups, more documentation, and online training. More can be done to reach more people and better reflect their interests in W3C.\r\n\r\nInitial ideas:\r\n\r\n* Create a developer relations activity or domain, to coordinate and explore different ways to directly engage with developers and designers, to gain early feedback on our specifications.\r\n* Make W3C a home for more useful documentation, demos, etc.\r\n* Support developer advocacy, in which ideas, use cases, and requirements for features or specification fixes are collected in detail from developers and designers, and presented to the appropriate W3C Groups.\r\n* Liaise with Members' developer relations departments on projects of mutual benefit.\r\n\r\nThis group will not publish Specifications.",
+ "shortname": "devrel",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/devrel"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/devrel/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/devrel/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/devrel/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/devrel/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/devrel/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/devrel/participations"
+  }
+ },
+ "identifier": "cg/devrel"
+}
