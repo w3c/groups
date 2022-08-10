@@ -1,1 +1,33 @@
-{"id":51311,"name":"Smart Phone Application Developer Community Group","is_closed":false,"description":"This Group will help developers create Internet based Smart Phone applications. Participants will collaborate and  code to make the web equally and easily accessible through Smart Phones. This group will document the new research papers created by group members regarding Internet based Phone applications.","shortname":"spade","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/spade"},"homepage":{"href":"https://www.w3.org/community/spade/"},"users":{"href":"https://api.w3.org/groups/cg/spade/users"},"services":{"href":"https://api.w3.org/groups/cg/spade/services"},"chairs":{"href":"https://api.w3.org/groups/cg/spade/chairs"},"join":{"href":"https://www.w3.org/community/spade/join"},"participations":{"href":"https://api.w3.org/groups/cg/spade/participations"}},"identifier":"cg/spade"}
+{
+ "id": 51311,
+ "name": "Smart Phone Application Developer Community Group",
+ "is_closed": false,
+ "description": "This Group will help developers create Internet based Smart Phone applications. Participants will collaborate and  code to make the web equally and easily accessible through Smart Phones. This group will document the new research papers created by group members regarding Internet based Phone applications.",
+ "shortname": "spade",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/spade"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/spade/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/spade/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/spade/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/spade/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/spade/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/spade/participations"
+  }
+ },
+ "identifier": "cg/spade"
+}
