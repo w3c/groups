@@ -1,1 +1,33 @@
-{"id":103139,"name":"Educational and Occupational Credentials in schema.org Community Group","is_closed":false,"description":"The aim of this community group is to show how educational and occupational credentials may be described with schema.org, and to propose any additional terms for schema.org that may be necessary. Educational and Occupational Credentials are defined as diplomas, academic degrees, certifications, qualifications, badges, etc., that a person can obtain through learning, education and/or training. They are typically awarded on successful completion of an assessment of relevant capabilities. See also the Connecting Credentials <a rel=\"nofollow\" href=\"http://connectingcredentials.org/common-language-work-group-glossary/\">glossary of credentialing terms</a>.\r\n\r\nRelated work includes: the <a rel=\"nofollow\" href=\"https://credreg.net/ctdl/handbook\">Credential Transparency Description Language</a> (CTDL) developed for the Credential Engine;  IMS Global's <a rel=\"nofollow\" href=\"https://www.badgealliance.org/\">Badge Alliance</a>;  and, the W3C <a rel=\"nofollow\" href=\"https://www.w3.org/2017/vc/WG/\">Verifiable Claims Working Group</a>. The work of this group will complement these, with a focus on integration with schema.org and on describing a credential that is being offered rather than the claim to posses one.","shortname":"eocred-schema","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/eocred-schema"},"homepage":{"href":"https://www.w3.org/community/eocred-schema/"},"users":{"href":"https://api.w3.org/groups/cg/eocred-schema/users"},"services":{"href":"https://api.w3.org/groups/cg/eocred-schema/services"},"chairs":{"href":"https://api.w3.org/groups/cg/eocred-schema/chairs"},"join":{"href":"https://www.w3.org/community/eocred-schema/join"},"participations":{"href":"https://api.w3.org/groups/cg/eocred-schema/participations"}},"identifier":"cg/eocred-schema"}
+{
+ "id": 103139,
+ "name": "Educational and Occupational Credentials in schema.org Community Group",
+ "is_closed": false,
+ "description": "The aim of this community group is to show how educational and occupational credentials may be described with schema.org, and to propose any additional terms for schema.org that may be necessary. Educational and Occupational Credentials are defined as diplomas, academic degrees, certifications, qualifications, badges, etc., that a person can obtain through learning, education and/or training. They are typically awarded on successful completion of an assessment of relevant capabilities. See also the Connecting Credentials <a rel=\"nofollow\" href=\"http://connectingcredentials.org/common-language-work-group-glossary/\">glossary of credentialing terms</a>.\r\n\r\nRelated work includes: the <a rel=\"nofollow\" href=\"https://credreg.net/ctdl/handbook\">Credential Transparency Description Language</a> (CTDL) developed for the Credential Engine;  IMS Global's <a rel=\"nofollow\" href=\"https://www.badgealliance.org/\">Badge Alliance</a>;  and, the W3C <a rel=\"nofollow\" href=\"https://www.w3.org/2017/vc/WG/\">Verifiable Claims Working Group</a>. The work of this group will complement these, with a focus on integration with schema.org and on describing a credential that is being offered rather than the claim to posses one.",
+ "shortname": "eocred-schema",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/eocred-schema"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/eocred-schema/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/eocred-schema/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/eocred-schema/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/eocred-schema/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/eocred-schema/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/eocred-schema/participations"
+  }
+ },
+ "identifier": "cg/eocred-schema"
+}
