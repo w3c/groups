@@ -1,1 +1,33 @@
-{"id":92074,"name":"experimental protocols Community Group","is_closed":false,"description":"The mission for this group is to propose a unified, consensual  structure for representing experimental protocols in the biomedical domain. This group will start by publishing use cases, discussions on published use cases, evaluations of existing reporting structures, ontologies, minimal amounts of informations, etc applicable to the problem of representing and reporting experimental protocols. This group will address semantic and syntactic issues. ","shortname":"exp-protocols","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/exp-protocols"},"homepage":{"href":"https://www.w3.org/community/exp-protocols/"},"users":{"href":"https://api.w3.org/groups/cg/exp-protocols/users"},"services":{"href":"https://api.w3.org/groups/cg/exp-protocols/services"},"chairs":{"href":"https://api.w3.org/groups/cg/exp-protocols/chairs"},"join":{"href":"https://www.w3.org/community/exp-protocols/join"},"participations":{"href":"https://api.w3.org/groups/cg/exp-protocols/participations"}},"identifier":"cg/exp-protocols"}
+{
+ "id": 92074,
+ "name": "experimental protocols Community Group",
+ "is_closed": false,
+ "description": "The mission for this group is to propose a unified, consensual  structure for representing experimental protocols in the biomedical domain. This group will start by publishing use cases, discussions on published use cases, evaluations of existing reporting structures, ontologies, minimal amounts of informations, etc applicable to the problem of representing and reporting experimental protocols. This group will address semantic and syntactic issues. ",
+ "shortname": "exp-protocols",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/exp-protocols"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/exp-protocols/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/exp-protocols/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/exp-protocols/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/exp-protocols/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/exp-protocols/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/exp-protocols/participations"
+  }
+ },
+ "identifier": "cg/exp-protocols"
+}
