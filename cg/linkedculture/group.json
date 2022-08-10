@@ -1,1 +1,33 @@
-{"id":78975,"name":"Exposing and Linking Cultural Heritage data Community Group","is_closed":false,"description":"The wealth of data about cultural heritage collections held within archives world-wide is of great interest for humanities research and education activities. Yet this data is too often hard to find, created in isolated silos and poorly documented. Large projects such as RES (https://bbcarchdev.github.io/res/) , HuNI (https://huni.net.au), Europeana (http://www.europeana.eu) and CLARIAH (http://www.clariah.nl/) express a clear need for making that data easier to find, link and consume. The mission of this community group is to discuss which standards are needed to facilitate this process. The aim is to produce recommendations for cultural heritage data exposure using the work of RES, HuNI, Europeana and CLARIAH as a starting point.","shortname":"linkedculture","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/linkedculture"},"homepage":{"href":"https://www.w3.org/community/linkedculture/"},"users":{"href":"https://api.w3.org/groups/cg/linkedculture/users"},"services":{"href":"https://api.w3.org/groups/cg/linkedculture/services"},"chairs":{"href":"https://api.w3.org/groups/cg/linkedculture/chairs"},"join":{"href":"https://www.w3.org/community/linkedculture/join"},"participations":{"href":"https://api.w3.org/groups/cg/linkedculture/participations"}},"identifier":"cg/linkedculture"}
+{
+ "id": 78975,
+ "name": "Exposing and Linking Cultural Heritage data Community Group",
+ "is_closed": false,
+ "description": "The wealth of data about cultural heritage collections held within archives world-wide is of great interest for humanities research and education activities. Yet this data is too often hard to find, created in isolated silos and poorly documented. Large projects such as RES (https://bbcarchdev.github.io/res/) , HuNI (https://huni.net.au), Europeana (http://www.europeana.eu) and CLARIAH (http://www.clariah.nl/) express a clear need for making that data easier to find, link and consume. The mission of this community group is to discuss which standards are needed to facilitate this process. The aim is to produce recommendations for cultural heritage data exposure using the work of RES, HuNI, Europeana and CLARIAH as a starting point.",
+ "shortname": "linkedculture",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/linkedculture"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/linkedculture/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/linkedculture/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/linkedculture/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/linkedculture/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/linkedculture/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/linkedculture/participations"
+  }
+ },
+ "identifier": "cg/linkedculture"
+}
