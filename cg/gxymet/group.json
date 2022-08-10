@@ -1,1 +1,33 @@
-{"id":135981,"name":"Galaxy Metaverse Community Group","is_closed":false,"description":"Galaxy Metaverse is a virtual space that will include a real estate, communication such as a use of virtual cell phone, fashion, and entertainment which includes games and money in the metaverse.\r\n","shortname":"gxymet","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/gxymet"},"homepage":{"href":"https://www.w3.org/community/gxymet/"},"users":{"href":"https://api.w3.org/groups/cg/gxymet/users"},"services":{"href":"https://api.w3.org/groups/cg/gxymet/services"},"chairs":{"href":"https://api.w3.org/groups/cg/gxymet/chairs"},"join":{"href":"https://www.w3.org/community/gxymet/join"},"participations":{"href":"https://api.w3.org/groups/cg/gxymet/participations"}},"identifier":"cg/gxymet"}
+{
+ "id": 135981,
+ "name": "Galaxy Metaverse Community Group",
+ "is_closed": false,
+ "description": "Galaxy Metaverse is a virtual space that will include a real estate, communication such as a use of virtual cell phone, fashion, and entertainment which includes games and money in the metaverse.\r\n",
+ "shortname": "gxymet",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/gxymet"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/gxymet/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/gxymet/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/gxymet/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/gxymet/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/gxymet/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/gxymet/participations"
+  }
+ },
+ "identifier": "cg/gxymet"
+}
