@@ -1,1 +1,33 @@
-{"id":95701,"name":"Shape Expressions Community Group","is_closed":false,"description":"This group serves to promote and expand ShEx – Shape Expressions. ShEx is a grammar for RDF graphs which can be used for description, validation, parsing and transformation.\r\n\r\nThe Shape Expressions (ShEx) language describes RDF nodes and graph structures. A node constraint describes an RDF node (IRI, blank node or literal) and a shape describes the triples touching nodes in RDF graphs. These descriptions identify predicates and their associated cardinalities and datatypes. ShEx shapes can be used to communicate data structures associated with some process or interface, generate or validate data, or drive user interfaces.\r\n\r\nSpec at https://shexspec.github.io/spec/","shortname":"shex","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/shex"},"homepage":{"href":"https://www.w3.org/community/shex/"},"users":{"href":"https://api.w3.org/groups/cg/shex/users"},"services":{"href":"https://api.w3.org/groups/cg/shex/services"},"chairs":{"href":"https://api.w3.org/groups/cg/shex/chairs"},"join":{"href":"https://www.w3.org/community/shex/join"},"participations":{"href":"https://api.w3.org/groups/cg/shex/participations"}},"identifier":"cg/shex"}
+{
+ "id": 95701,
+ "name": "Shape Expressions Community Group",
+ "is_closed": false,
+ "description": "This group serves to promote and expand ShEx – Shape Expressions. ShEx is a grammar for RDF graphs which can be used for description, validation, parsing and transformation.\r\n\r\nThe Shape Expressions (ShEx) language describes RDF nodes and graph structures. A node constraint describes an RDF node (IRI, blank node or literal) and a shape describes the triples touching nodes in RDF graphs. These descriptions identify predicates and their associated cardinalities and datatypes. ShEx shapes can be used to communicate data structures associated with some process or interface, generate or validate data, or drive user interfaces.\r\n\r\nSpec at https://shexspec.github.io/spec/",
+ "shortname": "shex",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/shex"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/shex/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/shex/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/shex/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/shex/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/shex/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/shex/participations"
+  }
+ },
+ "identifier": "cg/shex"
+}
