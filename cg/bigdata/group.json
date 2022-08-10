@@ -1,1 +1,33 @@
-{"id":54399,"name":"Big Data Community Group","is_closed":false,"description":"This group will explore emerging BIG DATA pipelines and discuss the potential for developing standard architectures, Application Programming Interfaces (APIs), and languages that will improve interoperability, enable security, and lower the overall cost of BIG DATA solutions.  \r\n\r\nThe BIG DATA community group will also develop tools and methods that will enable: a) trust in BIG DATA solutions; b) standard techniques for operating on BIG DATA, and c) increased education and awareness of accuracy and uncertainties associated with applying emerging techniques to BIG DATA.   ","shortname":"bigdata","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bigdata"},"homepage":{"href":"https://www.w3.org/community/bigdata/"},"users":{"href":"https://api.w3.org/groups/cg/bigdata/users"},"services":{"href":"https://api.w3.org/groups/cg/bigdata/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bigdata/chairs"},"join":{"href":"https://www.w3.org/community/bigdata/join"},"participations":{"href":"https://api.w3.org/groups/cg/bigdata/participations"}},"identifier":"cg/bigdata"}
+{
+ "id": 54399,
+ "name": "Big Data Community Group",
+ "is_closed": false,
+ "description": "This group will explore emerging BIG DATA pipelines and discuss the potential for developing standard architectures, Application Programming Interfaces (APIs), and languages that will improve interoperability, enable security, and lower the overall cost of BIG DATA solutions.  \r\n\r\nThe BIG DATA community group will also develop tools and methods that will enable: a) trust in BIG DATA solutions; b) standard techniques for operating on BIG DATA, and c) increased education and awareness of accuracy and uncertainties associated with applying emerging techniques to BIG DATA.   ",
+ "shortname": "bigdata",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bigdata"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bigdata/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bigdata/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bigdata/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bigdata/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bigdata/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bigdata/participations"
+  }
+ },
+ "identifier": "cg/bigdata"
+}
