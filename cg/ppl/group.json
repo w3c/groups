@@ -1,1 +1,33 @@
-{"id":53305,"name":"Print and Page Layout Community Group","is_closed":false,"description":"The Print & Page Layout Community Group is open to all aspects of page layout theory and practice. We can and will cover everything from the Crystal Goblet through to specifications and on to the nitty-gritty of writing stylesheets. You will find XSL-FO and CSS discussed here, but you will also find other stylesheet languages, and all are equally welcome.","shortname":"ppl","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/ppl"},"homepage":{"href":"https://www.w3.org/community/ppl/"},"users":{"href":"https://api.w3.org/groups/cg/ppl/users"},"services":{"href":"https://api.w3.org/groups/cg/ppl/services"},"chairs":{"href":"https://api.w3.org/groups/cg/ppl/chairs"},"join":{"href":"https://www.w3.org/community/ppl/join"},"participations":{"href":"https://api.w3.org/groups/cg/ppl/participations"}},"identifier":"cg/ppl"}
+{
+ "id": 53305,
+ "name": "Print and Page Layout Community Group",
+ "is_closed": false,
+ "description": "The Print & Page Layout Community Group is open to all aspects of page layout theory and practice. We can and will cover everything from the Crystal Goblet through to specifications and on to the nitty-gritty of writing stylesheets. You will find XSL-FO and CSS discussed here, but you will also find other stylesheet languages, and all are equally welcome.",
+ "shortname": "ppl",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ppl"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/ppl/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ppl/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ppl/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ppl/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ppl/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ppl/participations"
+  }
+ },
+ "identifier": "cg/ppl"
+}
