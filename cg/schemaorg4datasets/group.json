@@ -1,1 +1,33 @@
-{"id":95453,"name":"Schema.org for datasets Community Group","is_closed":false,"description":"Focussed on improving interoperability between schema.org's DCAT-based approach to dataset description and related approaches e.g. CSVW, VoID, Data Cube, R2RML, SpatialWeb, DCAT-AP and others including liaison to any new W3C work.","shortname":"schemaorg4datasets","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/schemaorg4datasets"},"homepage":{"href":"https://www.w3.org/community/schemaorg4datasets/"},"users":{"href":"https://api.w3.org/groups/cg/schemaorg4datasets/users"},"services":{"href":"https://api.w3.org/groups/cg/schemaorg4datasets/services"},"chairs":{"href":"https://api.w3.org/groups/cg/schemaorg4datasets/chairs"},"join":{"href":"https://www.w3.org/community/schemaorg4datasets/join"},"participations":{"href":"https://api.w3.org/groups/cg/schemaorg4datasets/participations"}},"identifier":"cg/schemaorg4datasets"}
+{
+ "id": 95453,
+ "name": "Schema.org for datasets Community Group",
+ "is_closed": false,
+ "description": "Focussed on improving interoperability between schema.org's DCAT-based approach to dataset description and related approaches e.g. CSVW, VoID, Data Cube, R2RML, SpatialWeb, DCAT-AP and others including liaison to any new W3C work.",
+ "shortname": "schemaorg4datasets",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/schemaorg4datasets"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/schemaorg4datasets/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/schemaorg4datasets/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/schemaorg4datasets/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/schemaorg4datasets/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/schemaorg4datasets/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/schemaorg4datasets/participations"
+  }
+ },
+ "identifier": "cg/schemaorg4datasets"
+}
