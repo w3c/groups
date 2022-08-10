@@ -1,1 +1,33 @@
-{"id":53711,"name":"Multilingual Web Sites Community Group","is_closed":false,"description":"The objective is to produce specifications to facilitate the use and creation of multilingual web sites.","shortname":"mws","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/mws"},"homepage":{"href":"https://www.w3.org/community/mws/"},"users":{"href":"https://api.w3.org/groups/cg/mws/users"},"services":{"href":"https://api.w3.org/groups/cg/mws/services"},"chairs":{"href":"https://api.w3.org/groups/cg/mws/chairs"},"join":{"href":"https://www.w3.org/community/mws/join"},"participations":{"href":"https://api.w3.org/groups/cg/mws/participations"}},"identifier":"cg/mws"}
+{
+ "id": 53711,
+ "name": "Multilingual Web Sites Community Group",
+ "is_closed": false,
+ "description": "The objective is to produce specifications to facilitate the use and creation of multilingual web sites.",
+ "shortname": "mws",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mws"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/mws/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mws/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mws/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mws/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mws/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mws/participations"
+  }
+ },
+ "identifier": "cg/mws"
+}
