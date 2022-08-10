@@ -1,1 +1,33 @@
-{"id":61397,"name":"Interactive APIs Community Group","is_closed":false,"description":"The goal of the Interactive API Community Group is to develop an HTML annotation approach - similar in spirit and style to micro-formats - to equip a piece of UI (e.g., parts of a web page, such as a table or a sub-area) with a programmable interface (API). That is, the goal is to equip pieces of UI with dynamic and programmable behavior, so as to foster reuse on the Web and enable a set of web-based integration scenarios that are currently more the result of hacking and less of principled software development: programmatically operating UIs, extracting data, extracting application logic, and cloning pieces of UIs. \r\n\r\nThe intuition is to design a new type of interpreted API, the so-called interactive API (iAPI), that enables (i) programmatic access to UIs and (ii) interactive, live programming. The purpose of iAPIs is not merely to provide access to static content inside a web page, but rather to bridge between the Surface Web (the UIs) and the Deep Web (common web APIs and web services).\r\n\r\nThe concrete results this Group aims to produce are therefore:\r\n\r\n-\tAn HTML annotation format for the specification of iAPIs;\r\n-\tAn set of programming abstractions and code libraries for iAPI programming; and\r\n-\tA set of supporting browser extensions for iAPI parsing and instantiation.\r\n\r\nThe final vision is twofold: first, to found a programming paradigm based on the reuse of UIs, i.e., UI-oriented computing; second, to enable interactive, live reuse to non-programmers directly inside the web browser.","shortname":"interative-apis","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/interative-apis"},"homepage":{"href":"https://www.w3.org/community/interative-apis/"},"users":{"href":"https://api.w3.org/groups/cg/interative-apis/users"},"services":{"href":"https://api.w3.org/groups/cg/interative-apis/services"},"chairs":{"href":"https://api.w3.org/groups/cg/interative-apis/chairs"},"join":{"href":"https://www.w3.org/community/interative-apis/join"},"participations":{"href":"https://api.w3.org/groups/cg/interative-apis/participations"}},"identifier":"cg/interative-apis"}
+{
+ "id": 61397,
+ "name": "Interactive APIs Community Group",
+ "is_closed": false,
+ "description": "The goal of the Interactive API Community Group is to develop an HTML annotation approach - similar in spirit and style to micro-formats - to equip a piece of UI (e.g., parts of a web page, such as a table or a sub-area) with a programmable interface (API). That is, the goal is to equip pieces of UI with dynamic and programmable behavior, so as to foster reuse on the Web and enable a set of web-based integration scenarios that are currently more the result of hacking and less of principled software development: programmatically operating UIs, extracting data, extracting application logic, and cloning pieces of UIs. \r\n\r\nThe intuition is to design a new type of interpreted API, the so-called interactive API (iAPI), that enables (i) programmatic access to UIs and (ii) interactive, live programming. The purpose of iAPIs is not merely to provide access to static content inside a web page, but rather to bridge between the Surface Web (the UIs) and the Deep Web (common web APIs and web services).\r\n\r\nThe concrete results this Group aims to produce are therefore:\r\n\r\n-\tAn HTML annotation format for the specification of iAPIs;\r\n-\tAn set of programming abstractions and code libraries for iAPI programming; and\r\n-\tA set of supporting browser extensions for iAPI parsing and instantiation.\r\n\r\nThe final vision is twofold: first, to found a programming paradigm based on the reuse of UIs, i.e., UI-oriented computing; second, to enable interactive, live reuse to non-programmers directly inside the web browser.",
+ "shortname": "interative-apis",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/interative-apis"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/interative-apis/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/interative-apis/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/interative-apis/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/interative-apis/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/interative-apis/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/interative-apis/participations"
+  }
+ },
+ "identifier": "cg/interative-apis"
+}
