@@ -1,1 +1,33 @@
-{"id":135726,"name":"Trustworthy AI Community Group","is_closed":false,"description":"The purpose of this community group is to establish and explore the necessary standards, requirements, metrics, and methodologies related to understanding, building, and ensuring trustworthy AI systems.","shortname":"tai","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/tai"},"homepage":{"href":"https://www.w3.org/community/tai/"},"users":{"href":"https://api.w3.org/groups/cg/tai/users"},"services":{"href":"https://api.w3.org/groups/cg/tai/services"},"chairs":{"href":"https://api.w3.org/groups/cg/tai/chairs"},"join":{"href":"https://www.w3.org/community/tai/join"},"participations":{"href":"https://api.w3.org/groups/cg/tai/participations"}},"identifier":"cg/tai"}
+{
+ "id": 135726,
+ "name": "Trustworthy AI Community Group",
+ "is_closed": false,
+ "description": "The purpose of this community group is to establish and explore the necessary standards, requirements, metrics, and methodologies related to understanding, building, and ensuring trustworthy AI systems.",
+ "shortname": "tai",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/tai"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/tai/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/tai/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/tai/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/tai/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/tai/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/tai/participations"
+  }
+ },
+ "identifier": "cg/tai"
+}
