@@ -1,1 +1,33 @@
-{"id":56976,"name":"Locations and Addresses Community Group","is_closed":false,"description":"There have been several recent efforts to standardize vocabularies for describing locations, using existing geometry specifications. GeoSPARQL, NeoGeo and the EU ISA Programme's Location Core Vocabulary join schema.org's vocabulary and more. Is there a set of use cases that an usefully be served by greater collaboration in this space? What problems remain? Where are the awkward edges that need to be knocked into shape?\r\n\r\nThe mission of the Location and Addresses Community Group is to review the existing efforts in this space (notably GeoSPARQL, NeoGeo, the EU's INSPIRE Directive and schema.org) and assess whether any use cases would be served by harmonization and/or new standardization work.\r\n\r\nThis group may produce specifications or use cases and requirements documents, which may be proposed for adoption by the Government Linked Data (GLD) Working Group consistent with its charter (http://www.w3.org/2011/gld/charter).","shortname":"locadd","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/locadd"},"homepage":{"href":"https://www.w3.org/community/locadd/"},"users":{"href":"https://api.w3.org/groups/cg/locadd/users"},"services":{"href":"https://api.w3.org/groups/cg/locadd/services"},"chairs":{"href":"https://api.w3.org/groups/cg/locadd/chairs"},"join":{"href":"https://www.w3.org/community/locadd/join"},"participations":{"href":"https://api.w3.org/groups/cg/locadd/participations"}},"identifier":"cg/locadd"}
+{
+ "id": 56976,
+ "name": "Locations and Addresses Community Group",
+ "is_closed": false,
+ "description": "There have been several recent efforts to standardize vocabularies for describing locations, using existing geometry specifications. GeoSPARQL, NeoGeo and the EU ISA Programme's Location Core Vocabulary join schema.org's vocabulary and more. Is there a set of use cases that an usefully be served by greater collaboration in this space? What problems remain? Where are the awkward edges that need to be knocked into shape?\r\n\r\nThe mission of the Location and Addresses Community Group is to review the existing efforts in this space (notably GeoSPARQL, NeoGeo, the EU's INSPIRE Directive and schema.org) and assess whether any use cases would be served by harmonization and/or new standardization work.\r\n\r\nThis group may produce specifications or use cases and requirements documents, which may be proposed for adoption by the Government Linked Data (GLD) Working Group consistent with its charter (http://www.w3.org/2011/gld/charter).",
+ "shortname": "locadd",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/locadd"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/locadd/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/locadd/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/locadd/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/locadd/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/locadd/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/locadd/participations"
+  }
+ },
+ "identifier": "cg/locadd"
+}
