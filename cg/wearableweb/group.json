@@ -1,1 +1,33 @@
-{"id":77929,"name":"Wearable Web Community Group","is_closed":false,"description":"User devices are getting smaller, and more of them are now wearable: smart glasses, smart watches, and smart clothing are all working their way into our lives and onto our bodies. These devices are online, web-accessible, and increasingly interconnected. \r\n\r\nThe desirable mission of this group is to investigate the technical standardization issues for web technology on wearable devices and IoWT(Internet of Wearable Things) environment. ","shortname":"wearableweb","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/wearableweb"},"homepage":{"href":"https://www.w3.org/community/wearableweb/"},"users":{"href":"https://api.w3.org/groups/cg/wearableweb/users"},"services":{"href":"https://api.w3.org/groups/cg/wearableweb/services"},"chairs":{"href":"https://api.w3.org/groups/cg/wearableweb/chairs"},"join":{"href":"https://www.w3.org/community/wearableweb/join"},"participations":{"href":"https://api.w3.org/groups/cg/wearableweb/participations"}},"identifier":"cg/wearableweb"}
+{
+ "id": 77929,
+ "name": "Wearable Web Community Group",
+ "is_closed": false,
+ "description": "User devices are getting smaller, and more of them are now wearable: smart glasses, smart watches, and smart clothing are all working their way into our lives and onto our bodies. These devices are online, web-accessible, and increasingly interconnected. \r\n\r\nThe desirable mission of this group is to investigate the technical standardization issues for web technology on wearable devices and IoWT(Internet of Wearable Things) environment. ",
+ "shortname": "wearableweb",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wearableweb"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/wearableweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/wearableweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/wearableweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/wearableweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/wearableweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/wearableweb/participations"
+  }
+ },
+ "identifier": "cg/wearableweb"
+}
