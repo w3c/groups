@@ -1,1 +1,33 @@
-{"id":112986,"name":"SVG Community Group","is_closed":false,"description":"<p>The mission of this group is to gather and incubate new features and requirements for SVG — making it easier for software developers and content creators in the SVG community to engage with the SVG standardization process.</p>\r\n<p>This group will complement the SVG working group, and covers the same scope of technologies. Draft proposals for new SVG features, developed in the community group, may transition to recommendation-track specifications in the working group.</p>\r\n<p>This group may publish specifications.</p>\r\n<p>See the <a rel=\"nofollow\" href=\"https://svg-cg.github.io/charter/\">SVG CG charter</a> for more information.</p>\r\n\r\n","shortname":"svgcg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/svgcg"},"homepage":{"href":"https://www.w3.org/community/svgcg/"},"users":{"href":"https://api.w3.org/groups/cg/svgcg/users"},"services":{"href":"https://api.w3.org/groups/cg/svgcg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/svgcg/chairs"},"join":{"href":"https://www.w3.org/community/svgcg/join"},"participations":{"href":"https://api.w3.org/groups/cg/svgcg/participations"}},"identifier":"cg/svgcg"}
+{
+ "id": 112986,
+ "name": "SVG Community Group",
+ "is_closed": false,
+ "description": "<p>The mission of this group is to gather and incubate new features and requirements for SVG — making it easier for software developers and content creators in the SVG community to engage with the SVG standardization process.</p>\r\n<p>This group will complement the SVG working group, and covers the same scope of technologies. Draft proposals for new SVG features, developed in the community group, may transition to recommendation-track specifications in the working group.</p>\r\n<p>This group may publish specifications.</p>\r\n<p>See the <a rel=\"nofollow\" href=\"https://svg-cg.github.io/charter/\">SVG CG charter</a> for more information.</p>\r\n\r\n",
+ "shortname": "svgcg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/svgcg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/svgcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/svgcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/svgcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/svgcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/svgcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/svgcg/participations"
+  }
+ },
+ "identifier": "cg/svgcg"
+}
