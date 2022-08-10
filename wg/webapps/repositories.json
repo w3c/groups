@@ -1,1 +1,400 @@
-[{"name":"FileAPI","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/FileAPI/","description":"File API","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"FileAPI","repo-type":["rec-track"]}},{"name":"IndexedDB","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/IndexedDB/","description":"Indexed Database API","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"policy":"open","repo-type":["rec-track"]}},{"name":"IntersectionObserver","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/TR/intersection-observer/","description":"Intersection Observer","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"IntersectionObserver","repo-type":["rec-track"]}},{"name":"contentEditable","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/contentEditable/","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["ylafon","siusin"],"policy":"restricted"}},{"name":"gamepad","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/gamepad/","description":"Gamepad","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"gamepad","repo-type":["rec-track"]}},{"name":"html-aria","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/html-aria/","description":"ARIA in HTML","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"html-aria","repo-type":["rec-track"]}},{"name":"image-resource","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/image-resource/","description":"An ImageResource definition for web APIs","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"image-resource","repo-type":["rec-track"]}},{"name":"manifest","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/TR/appmanifest/","description":"Manifest for web apps","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"manifest","repo-type":["rec-track"]}},{"name":"manifest-app-info","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/manifest-app-info/","description":"Web App Manifest - Application Information","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"manifest-app-info","repo-type":["note"]}},{"name":"pointerlock","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/pointerlock/","description":"Pointer Lock","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"pointerlock-2","repo-type":["rec-track"]}},{"name":"push-api","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/push-api/","description":"Push API","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"push-api","repo-type":["rec-track"]}},{"name":"screen-orientation","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/screen-orientation/","description":"The screen orientation specification","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"screen-orientation","repo-type":["rec-track"]}},{"name":"uievents","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/uievents/","description":"UI Events","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"uievents","repo-type":["rec-track"]}},{"name":"uievents-code","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/uievents-code/","description":"UI Events KeyboardEvent code Values","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"uievents-code","repo-type":["rec-track"]}},{"name":"uievents-key","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/uievents-key/","description":"UI Events KeyboardEvents key Values","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"uievents-key","repo-type":["rec-track"]}},{"name":"using-aria","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/using-aria/","description":"Using ARIA","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"shortName":"using-aria","policy":"open","repo-type":["note"]}},{"name":"web-locks","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/web-locks/","description":"Cross-tab resource coordination API","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["marcoscaceres"],"repo-type":["rec-track"]}},{"name":"web-share","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/web-share/","description":"Web API proposal for sharing data from a web page","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["marcoscaceres","ylafon","siusin"],"shortName":"web-share","repo-type":["rec-track"]}},{"name":"webappswg","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/groups/wg/webapps","description":"Web Applications Working Group","isArchived":false,"w3cjson":{"group":["wg/webapps"],"contacts":["siusin"],"policy":"open","repo-type":["homepage"]}}]
+[
+ {
+  "name": "FileAPI",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/FileAPI/",
+  "description": "File API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "FileAPI",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "IndexedDB",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/IndexedDB/",
+  "description": "Indexed Database API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "IntersectionObserver",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/intersection-observer/",
+  "description": "Intersection Observer",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "IntersectionObserver",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "contentEditable",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/contentEditable/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "ylafon",
+    "siusin"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "gamepad",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/gamepad/",
+  "description": "Gamepad",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "gamepad",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "html-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/html-aria/",
+  "description": "ARIA in HTML",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "html-aria",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "image-resource",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/image-resource/",
+  "description": "An ImageResource definition for web APIs",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "image-resource",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "manifest",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/appmanifest/",
+  "description": "Manifest for web apps",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "manifest",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "manifest-app-info",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/manifest-app-info/",
+  "description": "Web App Manifest - Application Information",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "manifest-app-info",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "pointerlock",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/pointerlock/",
+  "description": "Pointer Lock",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "pointerlock-2",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "push-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/push-api/",
+  "description": "Push API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "push-api",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "screen-orientation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/screen-orientation/",
+  "description": "The screen orientation specification",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "screen-orientation",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "uievents",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/uievents/",
+  "description": "UI Events",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "uievents",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "uievents-code",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/uievents-code/",
+  "description": "UI Events KeyboardEvent code Values",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "uievents-code",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "uievents-key",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/uievents-key/",
+  "description": "UI Events KeyboardEvents key Values",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "uievents-key",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "using-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/using-aria/",
+  "description": "Using ARIA",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "using-aria",
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "web-locks",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-locks/",
+  "description": "Cross-tab resource coordination API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "web-share",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-share/",
+  "description": "Web API proposal for sharing data from a web page",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "marcoscaceres",
+    "ylafon",
+    "siusin"
+   ],
+   "shortName": "web-share",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "webappswg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/groups/wg/webapps",
+  "description": "Web Applications Working Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ }
+]
