@@ -1,1 +1,33 @@
-{"id":85246,"name":"Schema Course extension Community Group","is_closed":false,"description":"This mission of this group, initiated by LRMI, is to develop an extension for schema.org concerning the discovery of any type of educational course (online/offline, long/short, scheduled/on-demand). Educational course is  defined as \"some sequence of events and/or creative works which aims to build the knowledge, competence or ability of learners\". (Out of scope: information about students and their progression etc; information needed internally for course management rather than discovery).","shortname":"schema-course-extend","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/schema-course-extend"},"homepage":{"href":"https://www.w3.org/community/schema-course-extend/"},"users":{"href":"https://api.w3.org/groups/cg/schema-course-extend/users"},"services":{"href":"https://api.w3.org/groups/cg/schema-course-extend/services"},"chairs":{"href":"https://api.w3.org/groups/cg/schema-course-extend/chairs"},"join":{"href":"https://www.w3.org/community/schema-course-extend/join"},"participations":{"href":"https://api.w3.org/groups/cg/schema-course-extend/participations"}},"identifier":"cg/schema-course-extend"}
+{
+ "id": 85246,
+ "name": "Schema Course extension Community Group",
+ "is_closed": false,
+ "description": "This mission of this group, initiated by LRMI, is to develop an extension for schema.org concerning the discovery of any type of educational course (online/offline, long/short, scheduled/on-demand). Educational course is  defined as \"some sequence of events and/or creative works which aims to build the knowledge, competence or ability of learners\". (Out of scope: information about students and their progression etc; information needed internally for course management rather than discovery).",
+ "shortname": "schema-course-extend",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/schema-course-extend"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/schema-course-extend/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/schema-course-extend/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/schema-course-extend/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/schema-course-extend/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/schema-course-extend/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/schema-course-extend/participations"
+  }
+ },
+ "identifier": "cg/schema-course-extend"
+}
