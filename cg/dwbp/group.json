@@ -1,1 +1,33 @@
-{"id":96813,"name":"Data on the Web Best Practices Community Group","is_closed":false,"description":"This group will continue the work started by the Data on the Web Best Practices Working Group in investigating topics such as data versioning, subsetting, data access and metadata. It will promote discussions about Data on the Web challenges and best practices, evaluating its benefits and any drawbacks. In so doing, the CG will collect new evidence of the DWBP implementation around the world and  offer additional material that will help the adoption of the DWBP. Needs for further standardization will be identified.","shortname":"dwbp","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/dwbp"},"homepage":{"href":"https://www.w3.org/community/dwbp/"},"users":{"href":"https://api.w3.org/groups/cg/dwbp/users"},"services":{"href":"https://api.w3.org/groups/cg/dwbp/services"},"chairs":{"href":"https://api.w3.org/groups/cg/dwbp/chairs"},"join":{"href":"https://www.w3.org/community/dwbp/join"},"participations":{"href":"https://api.w3.org/groups/cg/dwbp/participations"}},"identifier":"cg/dwbp"}
+{
+ "id": 96813,
+ "name": "Data on the Web Best Practices Community Group",
+ "is_closed": false,
+ "description": "This group will continue the work started by the Data on the Web Best Practices Working Group in investigating topics such as data versioning, subsetting, data access and metadata. It will promote discussions about Data on the Web challenges and best practices, evaluating its benefits and any drawbacks. In so doing, the CG will collect new evidence of the DWBP implementation around the world and  offer additional material that will help the adoption of the DWBP. Needs for further standardization will be identified.",
+ "shortname": "dwbp",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dwbp"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/dwbp/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/dwbp/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/dwbp/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/dwbp/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/dwbp/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/dwbp/participations"
+  }
+ },
+ "identifier": "cg/dwbp"
+}
