@@ -1,1 +1,24 @@
-[{"name":"tlreq","owner":{"login":"w3c"},"description":"Tibetan Layout Requirements document","isArchived":false,"w3cjson":{"group":["tf/i18n-tlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}}]
+[
+ {
+  "name": "tlreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Tibetan Layout Requirements document",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-tlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ }
+]
