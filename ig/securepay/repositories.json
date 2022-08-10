@@ -1,1 +1,21 @@
-[{"name":"wpsig","owner":{"login":"w3c"},"description":"Web Payment Security Interest Group","isArchived":false,"w3cjson":{"group":["ig/securepay"],"contacts":["ianbjacobs"],"repo-type":["article"]}}]
+[
+ {
+  "name": "wpsig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Web Payment Security Interest Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/securepay"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ }
+]
