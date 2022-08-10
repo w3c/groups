@@ -1,1 +1,33 @@
-{"id":81249,"name":"Music Notation Community Group","is_closed":false,"description":"<p>The Music Notation Community Group develops and maintains format and language specifications for notated music used by web, desktop, and mobile applications. The group aims to serve a broad range of users engaging in music-related activities involving notation, and will document these use cases.\r\n</p>\r\n<p>\r\nThe Community Group documents, maintains and updates the MusicXML and SMuFL (Standard Music Font Layout) specifications. The goals are to evolve the specifications to handle a broader set of use cases and technologies, including use of music notation on the web, while maximizing the existing investment in implementations of the existing MusicXML and SMuFL specifications.\r\n</p>\r\n<p>\r\nThe group is developing a new specification to embody this broader set of use cases and technologies, under the working title of MNX. The group is proposing the development of an additional new specification to provide a standard, machine-readable source of musical instrument data.\r\n</p>","shortname":"music-notation","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/music-notation"},"homepage":{"href":"https://www.w3.org/community/music-notation/"},"users":{"href":"https://api.w3.org/groups/cg/music-notation/users"},"services":{"href":"https://api.w3.org/groups/cg/music-notation/services"},"chairs":{"href":"https://api.w3.org/groups/cg/music-notation/chairs"},"join":{"href":"https://www.w3.org/community/music-notation/join"},"participations":{"href":"https://api.w3.org/groups/cg/music-notation/participations"}},"identifier":"cg/music-notation"}
+{
+ "id": 81249,
+ "name": "Music Notation Community Group",
+ "is_closed": false,
+ "description": "<p>The Music Notation Community Group develops and maintains format and language specifications for notated music used by web, desktop, and mobile applications. The group aims to serve a broad range of users engaging in music-related activities involving notation, and will document these use cases.\r\n</p>\r\n<p>\r\nThe Community Group documents, maintains and updates the MusicXML and SMuFL (Standard Music Font Layout) specifications. The goals are to evolve the specifications to handle a broader set of use cases and technologies, including use of music notation on the web, while maximizing the existing investment in implementations of the existing MusicXML and SMuFL specifications.\r\n</p>\r\n<p>\r\nThe group is developing a new specification to embody this broader set of use cases and technologies, under the working title of MNX. The group is proposing the development of an additional new specification to provide a standard, machine-readable source of musical instrument data.\r\n</p>",
+ "shortname": "music-notation",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/music-notation"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/music-notation/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/music-notation/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/music-notation/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/music-notation/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/music-notation/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/music-notation/participations"
+  }
+ },
+ "identifier": "cg/music-notation"
+}
