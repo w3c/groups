@@ -1,1 +1,33 @@
-{"id":130919,"name":"Metaverse Interoperability Community Group","is_closed":false,"description":"Our mission is to bridge virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more.","shortname":"metaverse-interop","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/metaverse-interop"},"homepage":{"href":"https://www.w3.org/community/metaverse-interop/"},"users":{"href":"https://api.w3.org/groups/cg/metaverse-interop/users"},"services":{"href":"https://api.w3.org/groups/cg/metaverse-interop/services"},"chairs":{"href":"https://api.w3.org/groups/cg/metaverse-interop/chairs"},"join":{"href":"https://www.w3.org/community/metaverse-interop/join"},"participations":{"href":"https://api.w3.org/groups/cg/metaverse-interop/participations"}},"identifier":"cg/metaverse-interop"}
+{
+ "id": 130919,
+ "name": "Metaverse Interoperability Community Group",
+ "is_closed": false,
+ "description": "Our mission is to bridge virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more.",
+ "shortname": "metaverse-interop",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/metaverse-interop"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/metaverse-interop/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/metaverse-interop/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/metaverse-interop/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/metaverse-interop/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/metaverse-interop/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/metaverse-interop/participations"
+  }
+ },
+ "identifier": "cg/metaverse-interop"
+}
