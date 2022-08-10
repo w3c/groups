@@ -1,1 +1,33 @@
-{"id":65880,"name":"Age Labels Data Model Community Group","is_closed":false,"description":"The objective of the community group is to propose a technology-neutral data model for electronic content labels, i.e. age labels or content descriptors. The data model will include agreed categories and fields that may contain content-specific information. The proposal is planned to include a documentation, code snippet examples and probable queries to support implementing the data model in existing age classification contexts. \r\n\r\nThe data model proposal and the documentation  are planned to serve as guidelines for either existing players to implement the data model in their existing schemes (and thus providing users additional information in an interoperable way) or for new players that plan to label online content and thus reduce the risk of sunk costs.","shortname":"agelabels","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/agelabels"},"homepage":{"href":"https://www.w3.org/community/agelabels/"},"users":{"href":"https://api.w3.org/groups/cg/agelabels/users"},"services":{"href":"https://api.w3.org/groups/cg/agelabels/services"},"chairs":{"href":"https://api.w3.org/groups/cg/agelabels/chairs"},"join":{"href":"https://www.w3.org/community/agelabels/join"},"participations":{"href":"https://api.w3.org/groups/cg/agelabels/participations"}},"identifier":"cg/agelabels"}
+{
+ "id": 65880,
+ "name": "Age Labels Data Model Community Group",
+ "is_closed": false,
+ "description": "The objective of the community group is to propose a technology-neutral data model for electronic content labels, i.e. age labels or content descriptors. The data model will include agreed categories and fields that may contain content-specific information. The proposal is planned to include a documentation, code snippet examples and probable queries to support implementing the data model in existing age classification contexts. \r\n\r\nThe data model proposal and the documentation  are planned to serve as guidelines for either existing players to implement the data model in their existing schemes (and thus providing users additional information in an interoperable way) or for new players that plan to label online content and thus reduce the risk of sunk costs.",
+ "shortname": "agelabels",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agelabels"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/agelabels/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/agelabels/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/agelabels/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/agelabels/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/agelabels/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/agelabels/participations"
+  }
+ },
+ "identifier": "cg/agelabels"
+}
