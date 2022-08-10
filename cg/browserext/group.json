@@ -1,1 +1,33 @@
-{"id":78237,"name":"Browser Extension Community Group","is_closed":false,"description":"Problem:  There is no cross browser standard for building browser extensions, which requires developers to create extensions for each browser individually.\r\n\r\nProposal/Mission: The Browser Extension group will attempt to standardize extension package structure, API, portability etc., across browsers.\r\n","shortname":"browserext","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/browserext"},"homepage":{"href":"https://www.w3.org/community/browserext/"},"users":{"href":"https://api.w3.org/groups/cg/browserext/users"},"services":{"href":"https://api.w3.org/groups/cg/browserext/services"},"chairs":{"href":"https://api.w3.org/groups/cg/browserext/chairs"},"join":{"href":"https://www.w3.org/community/browserext/join"},"participations":{"href":"https://api.w3.org/groups/cg/browserext/participations"}},"identifier":"cg/browserext"}
+{
+ "id": 78237,
+ "name": "Browser Extension Community Group",
+ "is_closed": false,
+ "description": "Problem:  There is no cross browser standard for building browser extensions, which requires developers to create extensions for each browser individually.\r\n\r\nProposal/Mission: The Browser Extension group will attempt to standardize extension package structure, API, portability etc., across browsers.\r\n",
+ "shortname": "browserext",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/browserext"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/browserext/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/browserext/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/browserext/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/browserext/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/browserext/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/browserext/participations"
+  }
+ },
+ "identifier": "cg/browserext"
+}
