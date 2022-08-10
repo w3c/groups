@@ -1,1 +1,33 @@
-{"id":57019,"name":"Law and Technology Community Group","is_closed":false,"description":"The mission of the Law and Technology Community Group is to serve as a place for legal professionals and those interested in the law to share information on how current laws affect the implementation of new web technologies as well as how those new technologies can affect the law.","shortname":"law","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/law"},"homepage":{"href":"https://www.w3.org/community/law/"},"users":{"href":"https://api.w3.org/groups/cg/law/users"},"services":{"href":"https://api.w3.org/groups/cg/law/services"},"chairs":{"href":"https://api.w3.org/groups/cg/law/chairs"},"join":{"href":"https://www.w3.org/community/law/join"},"participations":{"href":"https://api.w3.org/groups/cg/law/participations"}},"identifier":"cg/law"}
+{
+ "id": 57019,
+ "name": "Law and Technology Community Group",
+ "is_closed": false,
+ "description": "The mission of the Law and Technology Community Group is to serve as a place for legal professionals and those interested in the law to share information on how current laws affect the implementation of new web technologies as well as how those new technologies can affect the law.",
+ "shortname": "law",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/law"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/law/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/law/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/law/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/law/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/law/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/law/participations"
+  }
+ },
+ "identifier": "cg/law"
+}
