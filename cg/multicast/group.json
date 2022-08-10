@@ -1,1 +1,33 @@
-{"id":131839,"name":"Multicast Community Group","is_closed":false,"description":"The mission of the Multicast web community group is to enable multicast IP transport for web traffic to efficiently solve scalability problems in networking and web operations.  Please see the <a rel=\"nofollow\" href=\"https://w3c.github.io/multicast-cg/multicast-cg-charter.html\">charter</a> for details.","shortname":"multicast","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/multicast"},"homepage":{"href":"https://www.w3.org/community/multicast/"},"users":{"href":"https://api.w3.org/groups/cg/multicast/users"},"services":{"href":"https://api.w3.org/groups/cg/multicast/services"},"chairs":{"href":"https://api.w3.org/groups/cg/multicast/chairs"},"join":{"href":"https://www.w3.org/community/multicast/join"},"participations":{"href":"https://api.w3.org/groups/cg/multicast/participations"}},"identifier":"cg/multicast"}
+{
+ "id": 131839,
+ "name": "Multicast Community Group",
+ "is_closed": false,
+ "description": "The mission of the Multicast web community group is to enable multicast IP transport for web traffic to efficiently solve scalability problems in networking and web operations.  Please see the <a rel=\"nofollow\" href=\"https://w3c.github.io/multicast-cg/multicast-cg-charter.html\">charter</a> for details.",
+ "shortname": "multicast",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/multicast"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/multicast/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/multicast/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/multicast/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/multicast/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/multicast/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/multicast/participations"
+  }
+ },
+ "identifier": "cg/multicast"
+}
