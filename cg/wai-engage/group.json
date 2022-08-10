@@ -1,1 +1,33 @@
-{"id":54291,"name":"WAI-Engage: Web Accessibility Community Group","is_closed":false,"description":"WAI-Engage is an open forum for responsive development of material supporting web accessibility, including support for Web Accessibility Initiative (WAI) resources.\r\n\r\nDevelopers, designers, project leaders, administrators, scholars, producers and consumers with disabilities, and anyone interested in accessibility -- please join us and share your perspectives to help build resources that will be useful to the broader community.\r\n\r\nWe welcome everyone to this Community. There is no time commitment or experience expected. This is a place to suggest, share, and develop ideas. \r\n\r\nThis group will not publish specifications.","shortname":"wai-engage","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/wai-engage"},"homepage":{"href":"https://www.w3.org/community/wai-engage/"},"users":{"href":"https://api.w3.org/groups/cg/wai-engage/users"},"services":{"href":"https://api.w3.org/groups/cg/wai-engage/services"},"chairs":{"href":"https://api.w3.org/groups/cg/wai-engage/chairs"},"join":{"href":"https://www.w3.org/community/wai-engage/join"},"participations":{"href":"https://api.w3.org/groups/cg/wai-engage/participations"}},"identifier":"cg/wai-engage"}
+{
+ "id": 54291,
+ "name": "WAI-Engage: Web Accessibility Community Group",
+ "is_closed": false,
+ "description": "WAI-Engage is an open forum for responsive development of material supporting web accessibility, including support for Web Accessibility Initiative (WAI) resources.\r\n\r\nDevelopers, designers, project leaders, administrators, scholars, producers and consumers with disabilities, and anyone interested in accessibility -- please join us and share your perspectives to help build resources that will be useful to the broader community.\r\n\r\nWe welcome everyone to this Community. There is no time commitment or experience expected. This is a place to suggest, share, and develop ideas. \r\n\r\nThis group will not publish specifications.",
+ "shortname": "wai-engage",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wai-engage"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/wai-engage/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/wai-engage/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/wai-engage/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/wai-engage/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/wai-engage/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/wai-engage/participations"
+  }
+ },
+ "identifier": "cg/wai-engage"
+}
