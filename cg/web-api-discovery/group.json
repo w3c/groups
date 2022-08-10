@@ -1,1 +1,33 @@
-{"id":95726,"name":"WebAPI Discovery Community Group","is_closed":false,"description":"A group to develop a mechanism for the automatic discovery of WebAPIs, by\r\nextending the schema.org vocabulary.\r\n\r\nIncreasingly, large online platforms and services provide one or more Web\r\nAPIs for third-party developers. Moreover, many companies build WebAPIs as\r\ntheir primary product (Email API, SMS API, etc.). This has resulted in an\r\nexplosion of the number of WebAPIs in recent years. Developers spend a\r\nsignificant amount of time searching for suitable WebAPIs to meet their\r\nneeds.\r\n\r\nOur intention is to work closely with Schema.org to define a\r\nWebAPI-specific extension and promote usage of this extension among API\r\nowners. In the long run, our aim is to contribute this extension into the\r\ncore Schema.org vocabulary.\r\n\r\nTo achieve these goals we are seeking feedback and collaboration from API\r\nowners, DX specialists, API description language experts and maintainers of\r\nvarious API catalogs.\r\n","shortname":"web-api-discovery","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/web-api-discovery"},"homepage":{"href":"https://www.w3.org/community/web-api-discovery/"},"users":{"href":"https://api.w3.org/groups/cg/web-api-discovery/users"},"services":{"href":"https://api.w3.org/groups/cg/web-api-discovery/services"},"chairs":{"href":"https://api.w3.org/groups/cg/web-api-discovery/chairs"},"join":{"href":"https://www.w3.org/community/web-api-discovery/join"},"participations":{"href":"https://api.w3.org/groups/cg/web-api-discovery/participations"}},"identifier":"cg/web-api-discovery"}
+{
+ "id": 95726,
+ "name": "WebAPI Discovery Community Group",
+ "is_closed": false,
+ "description": "A group to develop a mechanism for the automatic discovery of WebAPIs, by\r\nextending the schema.org vocabulary.\r\n\r\nIncreasingly, large online platforms and services provide one or more Web\r\nAPIs for third-party developers. Moreover, many companies build WebAPIs as\r\ntheir primary product (Email API, SMS API, etc.). This has resulted in an\r\nexplosion of the number of WebAPIs in recent years. Developers spend a\r\nsignificant amount of time searching for suitable WebAPIs to meet their\r\nneeds.\r\n\r\nOur intention is to work closely with Schema.org to define a\r\nWebAPI-specific extension and promote usage of this extension among API\r\nowners. In the long run, our aim is to contribute this extension into the\r\ncore Schema.org vocabulary.\r\n\r\nTo achieve these goals we are seeking feedback and collaboration from API\r\nowners, DX specialists, API description language experts and maintainers of\r\nvarious API catalogs.\r\n",
+ "shortname": "web-api-discovery",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-api-discovery"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/web-api-discovery/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-api-discovery/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-api-discovery/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-api-discovery/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-api-discovery/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-api-discovery/participations"
+  }
+ },
+ "identifier": "cg/web-api-discovery"
+}
