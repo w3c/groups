@@ -1,1 +1,21 @@
-[{"name":"kiss","owner":{"login":"w3c"},"description":"Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group","isArchived":false,"w3cjson":{"group":["cg/kiss"],"contacts":["dontcallmedom"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "kiss",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/kiss"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
