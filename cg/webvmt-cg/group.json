@@ -1,1 +1,33 @@
-{"id":111466,"name":"Web Video Map Tracks (WebVMT) Community Group","is_closed":false,"description":"<p>This group aims to encourage uptake of Web Video Map Tracks (WebVMT) to help establish an online ecosystem of users and developers by providing a forum in which to:</p>\r\n\r\n<ul>\r\n <li>identify &amp; refine use cases;</li>\r\n <li> ensure that the design is fit for purpose;</li>\r\n <li> resolve implementation issues;</li>\r\n  <li> develop supporting documentation &amp; tools;</li>\r\n  <li>  progress towards standardisation.</li>\r\n</ul>\r\n \r\n<p>Participation is welcomed by anyone providing constructive input regarding these topics within the scope of 'synchronising geolocation with video for the web', and by those with relevant expertise in particular.</p>\r\n\r\n<p>See also:</p>\r\n<ul>\r\n <li><a rel=\"nofollow\" href=\"http://www.webvmt.org\">www.webvmt.org</a></li>\r\n <li><a rel=\"nofollow\" href=\"http://w3c.github.io/sdw/proposals/geotagging/webvmt/\">Editor's Draft</a></li>\r\n</ul>\r\n ","shortname":"webvmt-cg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webvmt-cg"},"homepage":{"href":"https://www.w3.org/community/webvmt-cg/"},"users":{"href":"https://api.w3.org/groups/cg/webvmt-cg/users"},"services":{"href":"https://api.w3.org/groups/cg/webvmt-cg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webvmt-cg/chairs"},"join":{"href":"https://www.w3.org/community/webvmt-cg/join"},"participations":{"href":"https://api.w3.org/groups/cg/webvmt-cg/participations"}},"identifier":"cg/webvmt-cg"}
+{
+ "id": 111466,
+ "name": "Web Video Map Tracks (WebVMT) Community Group",
+ "is_closed": false,
+ "description": "<p>This group aims to encourage uptake of Web Video Map Tracks (WebVMT) to help establish an online ecosystem of users and developers by providing a forum in which to:</p>\r\n\r\n<ul>\r\n <li>identify &amp; refine use cases;</li>\r\n <li> ensure that the design is fit for purpose;</li>\r\n <li> resolve implementation issues;</li>\r\n  <li> develop supporting documentation &amp; tools;</li>\r\n  <li>  progress towards standardisation.</li>\r\n</ul>\r\n \r\n<p>Participation is welcomed by anyone providing constructive input regarding these topics within the scope of 'synchronising geolocation with video for the web', and by those with relevant expertise in particular.</p>\r\n\r\n<p>See also:</p>\r\n<ul>\r\n <li><a rel=\"nofollow\" href=\"http://www.webvmt.org\">www.webvmt.org</a></li>\r\n <li><a rel=\"nofollow\" href=\"http://w3c.github.io/sdw/proposals/geotagging/webvmt/\">Editor's Draft</a></li>\r\n</ul>\r\n ",
+ "shortname": "webvmt-cg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webvmt-cg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webvmt-cg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webvmt-cg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webvmt-cg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webvmt-cg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webvmt-cg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webvmt-cg/participations"
+  }
+ },
+ "identifier": "cg/webvmt-cg"
+}
