@@ -1,1 +1,33 @@
-{"id":128834,"name":"Text and Data Mining Reservation Protocol Community Group","is_closed":false,"description":"The goal of this Group is to facilitate Text and Data Mining (TDM) Reservation Protocol in Europe and elsewhere, by specifying a simple and practical machine-readable solution, capable of expressing the reservation of TDM rights - following the rules set by the new European DSM Directive / Art.4 - and the availability of machine-readable licenses for TDM actors. ","shortname":"tdmrep","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/tdmrep"},"homepage":{"href":"https://www.w3.org/community/tdmrep/"},"users":{"href":"https://api.w3.org/groups/cg/tdmrep/users"},"services":{"href":"https://api.w3.org/groups/cg/tdmrep/services"},"chairs":{"href":"https://api.w3.org/groups/cg/tdmrep/chairs"},"join":{"href":"https://www.w3.org/community/tdmrep/join"},"participations":{"href":"https://api.w3.org/groups/cg/tdmrep/participations"}},"identifier":"cg/tdmrep"}
+{
+ "id": 128834,
+ "name": "Text and Data Mining Reservation Protocol Community Group",
+ "is_closed": false,
+ "description": "The goal of this Group is to facilitate Text and Data Mining (TDM) Reservation Protocol in Europe and elsewhere, by specifying a simple and practical machine-readable solution, capable of expressing the reservation of TDM rights - following the rules set by the new European DSM Directive / Art.4 - and the availability of machine-readable licenses for TDM actors. ",
+ "shortname": "tdmrep",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/tdmrep"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/tdmrep/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/tdmrep/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/tdmrep/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/tdmrep/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/tdmrep/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/tdmrep/participations"
+  }
+ },
+ "identifier": "cg/tdmrep"
+}
