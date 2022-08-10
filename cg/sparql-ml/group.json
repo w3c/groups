@@ -1,1 +1,33 @@
-{"id":130727,"name":"SPARQL-ML Community Group","is_closed":false,"description":"The technological advancement in computational power and the significant increase in data generation allowed the successful implementation and application of many machine learning methods that were not possible before. On the one hand side, those methods need a lot of data to succeed. On the other hand side, the Semantic Web community has successfully published a large amount of machine-readable data on the Web. RDF data is often accessible over not machine-learning-ready protocols. The purpose of this community is to discuss how to leverage machine learning methods in RDF data through the SPARQL query language and protocol.","shortname":"sparql-ml","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/sparql-ml"},"homepage":{"href":"https://www.w3.org/community/sparql-ml/"},"users":{"href":"https://api.w3.org/groups/cg/sparql-ml/users"},"services":{"href":"https://api.w3.org/groups/cg/sparql-ml/services"},"chairs":{"href":"https://api.w3.org/groups/cg/sparql-ml/chairs"},"join":{"href":"https://www.w3.org/community/sparql-ml/join"},"participations":{"href":"https://api.w3.org/groups/cg/sparql-ml/participations"}},"identifier":"cg/sparql-ml"}
+{
+ "id": 130727,
+ "name": "SPARQL-ML Community Group",
+ "is_closed": false,
+ "description": "The technological advancement in computational power and the significant increase in data generation allowed the successful implementation and application of many machine learning methods that were not possible before. On the one hand side, those methods need a lot of data to succeed. On the other hand side, the Semantic Web community has successfully published a large amount of machine-readable data on the Web. RDF data is often accessible over not machine-learning-ready protocols. The purpose of this community is to discuss how to leverage machine learning methods in RDF data through the SPARQL query language and protocol.",
+ "shortname": "sparql-ml",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sparql-ml"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/sparql-ml/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sparql-ml/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sparql-ml/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sparql-ml/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sparql-ml/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sparql-ml/participations"
+  }
+ },
+ "identifier": "cg/sparql-ml"
+}
