@@ -1,1 +1,33 @@
-{"id":115901,"name":"Digital Identity Community Group","is_closed":false,"description":"The mission of the W3C Digital Identity Community Group is to  identify and resolve real world identity issues, to explore and build a more secure trusted digital identity ecosystem on internet for people, organizations and things fully controlling, protecting and expressing their identity. Our work focuses on the ecosystem's scalability, interoperability, mobility, security and privacy. We intend to integrate interoperable identity solutions, systems and networks in our ecosystem.","shortname":"dic","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/dic"},"homepage":{"href":"https://www.w3.org/community/dic/"},"users":{"href":"https://api.w3.org/groups/cg/dic/users"},"services":{"href":"https://api.w3.org/groups/cg/dic/services"},"chairs":{"href":"https://api.w3.org/groups/cg/dic/chairs"},"join":{"href":"https://www.w3.org/community/dic/join"},"participations":{"href":"https://api.w3.org/groups/cg/dic/participations"}},"identifier":"cg/dic"}
+{
+ "id": 115901,
+ "name": "Digital Identity Community Group",
+ "is_closed": false,
+ "description": "The mission of the W3C Digital Identity Community Group is to  identify and resolve real world identity issues, to explore and build a more secure trusted digital identity ecosystem on internet for people, organizations and things fully controlling, protecting and expressing their identity. Our work focuses on the ecosystem's scalability, interoperability, mobility, security and privacy. We intend to integrate interoperable identity solutions, systems and networks in our ecosystem.",
+ "shortname": "dic",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dic"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/dic/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/dic/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/dic/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/dic/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/dic/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/dic/participations"
+  }
+ },
+ "identifier": "cg/dic"
+}
