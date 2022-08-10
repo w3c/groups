@@ -1,1 +1,33 @@
-{"id":110151,"name":"Solid Community Group","is_closed":false,"description":"<p>The aims of the <a rel=\"nofollow\" href=\"https://solidproject.org/\">Solid project</a> are in line with those of the Web itself: empowerment towards an equitable, informed and interconnected society. Solid adds to existing Web standards to realise a space where individuals can maintain their autonomy, control their data and privacy, and choose applications and services to fulfil their needs.</p>\r\n\r\n<p>The mission of the Solid Community Group is to describe how Solid servers and clients can be interoperable by using Web communication protocols, global identifiers, authentication and authorization mechanisms, data formats and shapes, and query interfaces.</p>\r\n\r\n<p>To contribute towards a net positive social benefit, we use the <a rel=\"nofollow\" href=\"https://www.w3.org/2001/tag/doc/ethical-web-principles/\">Ethical Web Principles</a> to orient ourselves. The consensus on the technical designs are informed by common use cases, implementation experience, and use.</p>\r\n\r\n<p><a rel=\"nofollow\" href=\"https://solidproject.org/TR/\">Solid Technical Reports</a> lists Work Items, information on how to Participate, and the Solid of Code of Conduct (in addition to the <a rel=\"nofollow\" href=\"https://www.w3.org/Consortium/cepc/\">Positive Work Environment at W3C: Code of Ethics and Professional Conduct</a>.)</p>","shortname":"solid","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/solid"},"homepage":{"href":"https://www.w3.org/community/solid/"},"users":{"href":"https://api.w3.org/groups/cg/solid/users"},"services":{"href":"https://api.w3.org/groups/cg/solid/services"},"chairs":{"href":"https://api.w3.org/groups/cg/solid/chairs"},"join":{"href":"https://www.w3.org/community/solid/join"},"participations":{"href":"https://api.w3.org/groups/cg/solid/participations"}},"identifier":"cg/solid"}
+{
+ "id": 110151,
+ "name": "Solid Community Group",
+ "is_closed": false,
+ "description": "<p>The aims of the <a rel=\"nofollow\" href=\"https://solidproject.org/\">Solid project</a> are in line with those of the Web itself: empowerment towards an equitable, informed and interconnected society. Solid adds to existing Web standards to realise a space where individuals can maintain their autonomy, control their data and privacy, and choose applications and services to fulfil their needs.</p>\r\n\r\n<p>The mission of the Solid Community Group is to describe how Solid servers and clients can be interoperable by using Web communication protocols, global identifiers, authentication and authorization mechanisms, data formats and shapes, and query interfaces.</p>\r\n\r\n<p>To contribute towards a net positive social benefit, we use the <a rel=\"nofollow\" href=\"https://www.w3.org/2001/tag/doc/ethical-web-principles/\">Ethical Web Principles</a> to orient ourselves. The consensus on the technical designs are informed by common use cases, implementation experience, and use.</p>\r\n\r\n<p><a rel=\"nofollow\" href=\"https://solidproject.org/TR/\">Solid Technical Reports</a> lists Work Items, information on how to Participate, and the Solid of Code of Conduct (in addition to the <a rel=\"nofollow\" href=\"https://www.w3.org/Consortium/cepc/\">Positive Work Environment at W3C: Code of Ethics and Professional Conduct</a>.)</p>",
+ "shortname": "solid",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/solid"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/solid/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/solid/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/solid/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/solid/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/solid/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/solid/participations"
+  }
+ },
+ "identifier": "cg/solid"
+}
