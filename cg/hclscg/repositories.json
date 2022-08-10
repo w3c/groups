@@ -1,1 +1,102 @@
-[{"name":"hcls","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["cg/hclscg"],"contacts":["eric"],"repo-type":["cg-report"],"policy":"open"}},{"name":"hcls-ccda-rdf","owner":{"login":"w3c"},"description":"XSLT to tranform C-CDA into O-RIM RDF","isArchived":false,"w3cjson":{"group":["cg/hclscg"],"contacts":["eric"],"repo-type":["cg-report"],"policy":"open"}},{"name":"hcls-drug-drug-interaction","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/wiki/HCLSIG/DDI","description":"W3C HCLS Drug-Drug Interaction","isArchived":false,"w3cjson":{"group":["cg/hclscg"],"contacts":["eric"],"repo-type":["cg-report"],"policy":"open"}},{"name":"hcls-fhir-rdf","owner":{"login":"w3c"},"description":"Sketching out an RDF representation for FHIR","isArchived":false,"w3cjson":{"group":["cg/hclscg"],"contacts":["eric"],"repo-type":["cg-report"],"policy":"open"}},{"name":"hcls-natural-product-drug-interaction-fair","owner":{"login":"w3c"},"description":"How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)","isArchived":false,"w3cjson":{"group":["cg/hclscg"],"contacts":["eric"],"repo-type":["cg-report"],"policy":"open"}}]
+[
+ {
+  "name": "hcls",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-ccda-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "XSLT to tranform C-CDA into O-RIM RDF",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-drug-drug-interaction",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
+  "description": "W3C HCLS Drug-Drug Interaction",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-fhir-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Sketching out an RDF representation for FHIR",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-natural-product-drug-interaction-fair",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ }
+]
