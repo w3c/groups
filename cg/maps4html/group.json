@@ -1,1 +1,33 @@
-{"id":70543,"name":"Maps For HTML Community Group","is_closed":false,"description":"<p>The Maps in HTML Community Group seeks to establish at least one hypermedia type which can be considered to be consumed by a (new) \"map\" element for HTML. Follow-on from Bar Camp at #lgd14. The objective will be to define a hypermedia type which can be linked to from a hypothetical (but prototyped in Web Components) \"map\" or (geo-map for Web Components) element which will provide simple mashup capabilities and user interface.</p>\r\n\r\n<p>This group will publish specifications.</p>","shortname":"maps4html","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/maps4html"},"homepage":{"href":"https://www.w3.org/community/maps4html/"},"users":{"href":"https://api.w3.org/groups/cg/maps4html/users"},"services":{"href":"https://api.w3.org/groups/cg/maps4html/services"},"chairs":{"href":"https://api.w3.org/groups/cg/maps4html/chairs"},"join":{"href":"https://www.w3.org/community/maps4html/join"},"participations":{"href":"https://api.w3.org/groups/cg/maps4html/participations"}},"identifier":"cg/maps4html"}
+{
+ "id": 70543,
+ "name": "Maps For HTML Community Group",
+ "is_closed": false,
+ "description": "<p>The Maps in HTML Community Group seeks to establish at least one hypermedia type which can be considered to be consumed by a (new) \"map\" element for HTML. Follow-on from Bar Camp at #lgd14. The objective will be to define a hypermedia type which can be linked to from a hypothetical (but prototyped in Web Components) \"map\" or (geo-map for Web Components) element which will provide simple mashup capabilities and user interface.</p>\r\n\r\n<p>This group will publish specifications.</p>",
+ "shortname": "maps4html",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/maps4html"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/maps4html/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/maps4html/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/maps4html/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/maps4html/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/maps4html/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/maps4html/participations"
+  }
+ },
+ "identifier": "cg/maps4html"
+}
