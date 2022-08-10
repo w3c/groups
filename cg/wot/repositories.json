@@ -1,1 +1,22 @@
-[{"name":"wot-cg","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/community/wot/","description":"Web of Things Community Group","isArchived":false,"w3cjson":{"group":["cg/wot"],"contacts":["ijacobs"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "wot-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/wot/",
+  "description": "Web of Things Community Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wot"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
