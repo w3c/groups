@@ -1,1 +1,33 @@
-{"id":54381,"name":"African Developers Taking on the Web Community Group","is_closed":false,"description":"The mission of this group is to create and support a Pan-African community of competent, internationally certified IT professionals focused on developing the IT Web and mobile based tools for African Agriculture, Business, Education, Health Care, Government and general Social needs.","shortname":"coders4africa","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/coders4africa"},"homepage":{"href":"https://www.w3.org/community/coders4africa/"},"users":{"href":"https://api.w3.org/groups/cg/coders4africa/users"},"services":{"href":"https://api.w3.org/groups/cg/coders4africa/services"},"chairs":{"href":"https://api.w3.org/groups/cg/coders4africa/chairs"},"join":{"href":"https://www.w3.org/community/coders4africa/join"},"participations":{"href":"https://api.w3.org/groups/cg/coders4africa/participations"}},"identifier":"cg/coders4africa"}
+{
+ "id": 54381,
+ "name": "African Developers Taking on the Web Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to create and support a Pan-African community of competent, internationally certified IT professionals focused on developing the IT Web and mobile based tools for African Agriculture, Business, Education, Health Care, Government and general Social needs.",
+ "shortname": "coders4africa",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/coders4africa"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/coders4africa/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/coders4africa/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/coders4africa/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/coders4africa/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/coders4africa/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/coders4africa/participations"
+  }
+ },
+ "identifier": "cg/coders4africa"
+}
