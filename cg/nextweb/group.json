@@ -1,1 +1,33 @@
-{"id":59110,"name":"Extensible Web Community Group","is_closed":false,"description":"The Extensible Web Community Group is an incubator for web technologies enabling authors to extends the native web technologies via scripting (ie: shims & polyfills).","shortname":"nextweb","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/nextweb"},"homepage":{"href":"https://www.w3.org/community/nextweb/"},"users":{"href":"https://api.w3.org/groups/cg/nextweb/users"},"services":{"href":"https://api.w3.org/groups/cg/nextweb/services"},"chairs":{"href":"https://api.w3.org/groups/cg/nextweb/chairs"},"join":{"href":"https://www.w3.org/community/nextweb/join"},"participations":{"href":"https://api.w3.org/groups/cg/nextweb/participations"}},"identifier":"cg/nextweb"}
+{
+ "id": 59110,
+ "name": "Extensible Web Community Group",
+ "is_closed": false,
+ "description": "The Extensible Web Community Group is an incubator for web technologies enabling authors to extends the native web technologies via scripting (ie: shims & polyfills).",
+ "shortname": "nextweb",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/nextweb"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/nextweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/nextweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/nextweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/nextweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/nextweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/nextweb/participations"
+  }
+ },
+ "identifier": "cg/nextweb"
+}
