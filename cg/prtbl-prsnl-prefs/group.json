@@ -1,1 +1,33 @@
-{"id":131891,"name":"Portable Personal Data Preferences Community Group","is_closed":false,"description":"A problem with terms of service agreements is that they often require an all-or-none acceptance or rejection.  In addition, they may be in a form that is not accessible to persons with disabilities making it difficult to make an informed decision. The mission of this community group is to find ways that help users understand what they are being asked to commit to, and to provide a finer grain of control in terms of what they are willing to share.  The overall goal is to put control of personal data into an individual’s hands.\r\n\r\nThe group's primary activity is to discuss and report on how to make terms of service agreements comprehensible to users and to provide a means by which users can express their preferences regarding their personal data.  The reports may include descriptions of use cases, user interface wire frames, plain language proposals, and supports that educate users about personal data and data sharing.  The group will define a way for users to express preferences regarding the collection, use, and disclosure of their personal information.  These preferences will be \"portable\" in the sense that they are encoded once and can be used on a variety of platforms including websites, desktops, and mobile devices, among others.\r\n\r\nPeople interested in educating users regarding personal data and data sharing, inclusive user interface design, and the use of plain language in policies and service agreements are welcome.\r\n\r\nThis group may publish specifications.\r\n\r\nCharter (WIP):\r\nhttps://inclusive-design.github.io/cg-portable-personal-data-preferences/CGCharter.html","shortname":"prtbl-prsnl-prefs","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/prtbl-prsnl-prefs"},"homepage":{"href":"https://www.w3.org/community/prtbl-prsnl-prefs/"},"users":{"href":"https://api.w3.org/groups/cg/prtbl-prsnl-prefs/users"},"services":{"href":"https://api.w3.org/groups/cg/prtbl-prsnl-prefs/services"},"chairs":{"href":"https://api.w3.org/groups/cg/prtbl-prsnl-prefs/chairs"},"join":{"href":"https://www.w3.org/community/prtbl-prsnl-prefs/join"},"participations":{"href":"https://api.w3.org/groups/cg/prtbl-prsnl-prefs/participations"}},"identifier":"cg/prtbl-prsnl-prefs"}
+{
+ "id": 131891,
+ "name": "Portable Personal Data Preferences Community Group",
+ "is_closed": false,
+ "description": "A problem with terms of service agreements is that they often require an all-or-none acceptance or rejection.  In addition, they may be in a form that is not accessible to persons with disabilities making it difficult to make an informed decision. The mission of this community group is to find ways that help users understand what they are being asked to commit to, and to provide a finer grain of control in terms of what they are willing to share.  The overall goal is to put control of personal data into an individual’s hands.\r\n\r\nThe group's primary activity is to discuss and report on how to make terms of service agreements comprehensible to users and to provide a means by which users can express their preferences regarding their personal data.  The reports may include descriptions of use cases, user interface wire frames, plain language proposals, and supports that educate users about personal data and data sharing.  The group will define a way for users to express preferences regarding the collection, use, and disclosure of their personal information.  These preferences will be \"portable\" in the sense that they are encoded once and can be used on a variety of platforms including websites, desktops, and mobile devices, among others.\r\n\r\nPeople interested in educating users regarding personal data and data sharing, inclusive user interface design, and the use of plain language in policies and service agreements are welcome.\r\n\r\nThis group may publish specifications.\r\n\r\nCharter (WIP):\r\nhttps://inclusive-design.github.io/cg-portable-personal-data-preferences/CGCharter.html",
+ "shortname": "prtbl-prsnl-prefs",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/prtbl-prsnl-prefs"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/prtbl-prsnl-prefs/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/prtbl-prsnl-prefs/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/prtbl-prsnl-prefs/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/prtbl-prsnl-prefs/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/prtbl-prsnl-prefs/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/prtbl-prsnl-prefs/participations"
+  }
+ },
+ "identifier": "cg/prtbl-prsnl-prefs"
+}
