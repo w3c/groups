@@ -1,1 +1,33 @@
-{"id":70223,"name":"Collaborative Software Community Group","is_closed":false,"description":"The mission of the Collaborative Software Community Group is to provide a forum for experts in collaborative software and groupware for technical discussions, gathering use cases and requirements to align the existing formats, software, platforms, systems and technologies (e.g. wiki technology) with those used by the Open Web Platform. The goal is to ensure that the requirements of collaborative technology and groupware can be answered, when in scope, by the Recommendations published by W3C.  \r\n\r\nThis group is chartered to publish documents when doing so can enhance collaborative technology and groupware.  The goal is to cooperate with relevant groups and to publish documents to ensure that the requirements of the collaborative software and groupware community are met.","shortname":"collaboration","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/collaboration"},"homepage":{"href":"https://www.w3.org/community/collaboration/"},"users":{"href":"https://api.w3.org/groups/cg/collaboration/users"},"services":{"href":"https://api.w3.org/groups/cg/collaboration/services"},"chairs":{"href":"https://api.w3.org/groups/cg/collaboration/chairs"},"join":{"href":"https://www.w3.org/community/collaboration/join"},"participations":{"href":"https://api.w3.org/groups/cg/collaboration/participations"}},"identifier":"cg/collaboration"}
+{
+ "id": 70223,
+ "name": "Collaborative Software Community Group",
+ "is_closed": false,
+ "description": "The mission of the Collaborative Software Community Group is to provide a forum for experts in collaborative software and groupware for technical discussions, gathering use cases and requirements to align the existing formats, software, platforms, systems and technologies (e.g. wiki technology) with those used by the Open Web Platform. The goal is to ensure that the requirements of collaborative technology and groupware can be answered, when in scope, by the Recommendations published by W3C.  \r\n\r\nThis group is chartered to publish documents when doing so can enhance collaborative technology and groupware.  The goal is to cooperate with relevant groups and to publish documents to ensure that the requirements of the collaborative software and groupware community are met.",
+ "shortname": "collaboration",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/collaboration"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/collaboration/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/collaboration/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/collaboration/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/collaboration/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/collaboration/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/collaboration/participations"
+  }
+ },
+ "identifier": "cg/collaboration"
+}
