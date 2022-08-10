@@ -1,1 +1,33 @@
-{"id":64927,"name":"Accessible SVG Community Group","is_closed":false,"description":"Scalable Vector Graphics offers both opportunities and challenges for accessibility. This group will explore the different conditions and circumstances for SVG use, propose clear use cases and requirements and specification text, and make tests so we can have consistent behavior in various user agents (including different screen readers).","shortname":"svga11y","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/svga11y"},"homepage":{"href":"https://www.w3.org/community/svga11y/"},"users":{"href":"https://api.w3.org/groups/cg/svga11y/users"},"services":{"href":"https://api.w3.org/groups/cg/svga11y/services"},"chairs":{"href":"https://api.w3.org/groups/cg/svga11y/chairs"},"join":{"href":"https://www.w3.org/community/svga11y/join"},"participations":{"href":"https://api.w3.org/groups/cg/svga11y/participations"}},"identifier":"cg/svga11y"}
+{
+ "id": 64927,
+ "name": "Accessible SVG Community Group",
+ "is_closed": false,
+ "description": "Scalable Vector Graphics offers both opportunities and challenges for accessibility. This group will explore the different conditions and circumstances for SVG use, propose clear use cases and requirements and specification text, and make tests so we can have consistent behavior in various user agents (including different screen readers).",
+ "shortname": "svga11y",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/svga11y"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/svga11y/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/svga11y/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/svga11y/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/svga11y/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/svga11y/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/svga11y/participations"
+  }
+ },
+ "identifier": "cg/svga11y"
+}
