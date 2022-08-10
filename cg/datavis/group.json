@@ -1,1 +1,33 @@
-{"id":75457,"name":"Data Visualization Community Group","is_closed":false,"description":"The mission of this group is to provide a unified data model for data visualization, data visualization API, core model of data visualization methods and category, and domain specific data visualization methods (e.g. scientific data visualization), and further, data interactive analysis method.","shortname":"datavis","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/datavis"},"homepage":{"href":"https://www.w3.org/community/datavis/"},"users":{"href":"https://api.w3.org/groups/cg/datavis/users"},"services":{"href":"https://api.w3.org/groups/cg/datavis/services"},"chairs":{"href":"https://api.w3.org/groups/cg/datavis/chairs"},"join":{"href":"https://www.w3.org/community/datavis/join"},"participations":{"href":"https://api.w3.org/groups/cg/datavis/participations"}},"identifier":"cg/datavis"}
+{
+ "id": 75457,
+ "name": "Data Visualization Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to provide a unified data model for data visualization, data visualization API, core model of data visualization methods and category, and domain specific data visualization methods (e.g. scientific data visualization), and further, data interactive analysis method.",
+ "shortname": "datavis",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/datavis"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/datavis/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/datavis/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/datavis/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/datavis/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/datavis/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/datavis/participations"
+  }
+ },
+ "identifier": "cg/datavis"
+}
