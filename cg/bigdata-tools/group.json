@@ -1,1 +1,33 @@
-{"id":102898,"name":"Vocabularies for big data analysis Community Group","is_closed":false,"description":"This group discusses semantic ontologies for the Big Data space.  It is supported initially by the H2020 Big Data Europe project.  \r\nThe mission of this group is to cooperate, discuss and agree on semantic vocabularies to support applications in the domain of big data processing.  It is a conscious choice to initiate one forum to discuss and agree on various new vocabularies and/or their amendments.  With this one group we hope to reach a broader public.  The different ontologies have a common aim: describe tools such that they can be reused in semantic empowered applications for big data processing.  At launch this will include ontologies for the Docker ecosystem and for Har-files.  The former is used for setting up stacks in the Big Data Europe project, the latter for analysing HTTP requests. ","shortname":"bigdata-tools","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bigdata-tools"},"homepage":{"href":"https://www.w3.org/community/bigdata-tools/"},"users":{"href":"https://api.w3.org/groups/cg/bigdata-tools/users"},"services":{"href":"https://api.w3.org/groups/cg/bigdata-tools/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bigdata-tools/chairs"},"join":{"href":"https://www.w3.org/community/bigdata-tools/join"},"participations":{"href":"https://api.w3.org/groups/cg/bigdata-tools/participations"}},"identifier":"cg/bigdata-tools"}
+{
+ "id": 102898,
+ "name": "Vocabularies for big data analysis Community Group",
+ "is_closed": false,
+ "description": "This group discusses semantic ontologies for the Big Data space.  It is supported initially by the H2020 Big Data Europe project.  \r\nThe mission of this group is to cooperate, discuss and agree on semantic vocabularies to support applications in the domain of big data processing.  It is a conscious choice to initiate one forum to discuss and agree on various new vocabularies and/or their amendments.  With this one group we hope to reach a broader public.  The different ontologies have a common aim: describe tools such that they can be reused in semantic empowered applications for big data processing.  At launch this will include ontologies for the Docker ecosystem and for Har-files.  The former is used for setting up stacks in the Big Data Europe project, the latter for analysing HTTP requests. ",
+ "shortname": "bigdata-tools",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bigdata-tools"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bigdata-tools/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bigdata-tools/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bigdata-tools/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bigdata-tools/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bigdata-tools/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bigdata-tools/participations"
+  }
+ },
+ "identifier": "cg/bigdata-tools"
+}
