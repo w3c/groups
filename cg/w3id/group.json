@@ -1,1 +1,33 @@
-{"id":53540,"name":"User Identity on the Web Community Group","is_closed":false,"description":"Currently, more and more services are created on the web and require information about you, me, all of us. Therefore, users have to give away a lot of information about themselves to many different services. The point is that the users lose control of their identity on the web, by filling a lot of forms (e.g., through subscriptions).\r\n\r\nPrivacy on the Internet is extremely important and must remain. Personal information is used by services we, sometimes, don't even know about, and it is a real problem.\r\n\r\nThe aim of this group would be to think about new ways to identify individuals over the internet using trusted web based identities embedded directly into the core protocols of the web. At the same time it is important to maintain equilibrium between total privacy and providing information when needed, which means, when the user wants to.","shortname":"w3id","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/w3id"},"homepage":{"href":"https://www.w3.org/community/w3id/"},"users":{"href":"https://api.w3.org/groups/cg/w3id/users"},"services":{"href":"https://api.w3.org/groups/cg/w3id/services"},"chairs":{"href":"https://api.w3.org/groups/cg/w3id/chairs"},"join":{"href":"https://www.w3.org/community/w3id/join"},"participations":{"href":"https://api.w3.org/groups/cg/w3id/participations"}},"identifier":"cg/w3id"}
+{
+ "id": 53540,
+ "name": "User Identity on the Web Community Group",
+ "is_closed": false,
+ "description": "Currently, more and more services are created on the web and require information about you, me, all of us. Therefore, users have to give away a lot of information about themselves to many different services. The point is that the users lose control of their identity on the web, by filling a lot of forms (e.g., through subscriptions).\r\n\r\nPrivacy on the Internet is extremely important and must remain. Personal information is used by services we, sometimes, don't even know about, and it is a real problem.\r\n\r\nThe aim of this group would be to think about new ways to identify individuals over the internet using trusted web based identities embedded directly into the core protocols of the web. At the same time it is important to maintain equilibrium between total privacy and providing information when needed, which means, when the user wants to.",
+ "shortname": "w3id",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/w3id"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/w3id/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/w3id/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/w3id/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/w3id/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/w3id/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/w3id/participations"
+  }
+ },
+ "identifier": "cg/w3id"
+}
