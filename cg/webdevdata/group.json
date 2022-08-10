@@ -1,1 +1,33 @@
-{"id":59183,"name":"Web Dev Data Community Group","is_closed":false,"description":"This group intends to analyse web development data from around the world and publish monthly reports. By leveraging open source tools, we hope to create an open source project to do this.\r\n\r\nThis group does not plan to publish specifications that require patent commitments.","shortname":"webdevdata","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webdevdata"},"homepage":{"href":"https://www.w3.org/community/webdevdata/"},"users":{"href":"https://api.w3.org/groups/cg/webdevdata/users"},"services":{"href":"https://api.w3.org/groups/cg/webdevdata/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webdevdata/chairs"},"join":{"href":"https://www.w3.org/community/webdevdata/join"},"participations":{"href":"https://api.w3.org/groups/cg/webdevdata/participations"}},"identifier":"cg/webdevdata"}
+{
+ "id": 59183,
+ "name": "Web Dev Data Community Group",
+ "is_closed": false,
+ "description": "This group intends to analyse web development data from around the world and publish monthly reports. By leveraging open source tools, we hope to create an open source project to do this.\r\n\r\nThis group does not plan to publish specifications that require patent commitments.",
+ "shortname": "webdevdata",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webdevdata"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webdevdata/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webdevdata/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webdevdata/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webdevdata/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webdevdata/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webdevdata/participations"
+  }
+ },
+ "identifier": "cg/webdevdata"
+}
