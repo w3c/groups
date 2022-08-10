@@ -1,1 +1,33 @@
-{"id":67359,"name":"Media Resource In-band Tracks Community Group","is_closed":false,"description":"This group will develop a specification defining how user agents should expose in-band tracks as HTML5 media element video, audio and text tracks so that Web applications can access the in-band track information, through the media element, in a interoperable manner across user agent implementations.\r\n\r\nMedia formats of interest are MPEG-2 transport stream, WebM and MPEG-4 file format. Other media formats containing in-band tracks may be considered.\r\n","shortname":"inbandtracks","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/inbandtracks"},"homepage":{"href":"https://www.w3.org/community/inbandtracks/"},"users":{"href":"https://api.w3.org/groups/cg/inbandtracks/users"},"services":{"href":"https://api.w3.org/groups/cg/inbandtracks/services"},"chairs":{"href":"https://api.w3.org/groups/cg/inbandtracks/chairs"},"join":{"href":"https://www.w3.org/community/inbandtracks/join"},"participations":{"href":"https://api.w3.org/groups/cg/inbandtracks/participations"}},"identifier":"cg/inbandtracks"}
+{
+ "id": 67359,
+ "name": "Media Resource In-band Tracks Community Group",
+ "is_closed": false,
+ "description": "This group will develop a specification defining how user agents should expose in-band tracks as HTML5 media element video, audio and text tracks so that Web applications can access the in-band track information, through the media element, in a interoperable manner across user agent implementations.\r\n\r\nMedia formats of interest are MPEG-2 transport stream, WebM and MPEG-4 file format. Other media formats containing in-band tracks may be considered.\r\n",
+ "shortname": "inbandtracks",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/inbandtracks"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/inbandtracks/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/inbandtracks/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/inbandtracks/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/inbandtracks/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/inbandtracks/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/inbandtracks/participations"
+  }
+ },
+ "identifier": "cg/inbandtracks"
+}
