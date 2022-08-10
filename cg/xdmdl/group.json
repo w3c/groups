@@ -1,1 +1,33 @@
-{"id":76940,"name":"Extensible Data Model Declaration Language for Education Community Group","is_closed":false,"description":"XDMDL is proposed as a high level schema language that will allow people to define, share, combine, reference and profile data models. The proposal has grown out of a requirement recognised within the education community working in the SCORM and xAPI traditions, and it is intended to pilot the specification by demonstrating how it can help improve data interoperability between software systems designed to manage and deliver learning activities.","shortname":"xdmdl","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/xdmdl"},"homepage":{"href":"https://www.w3.org/community/xdmdl/"},"users":{"href":"https://api.w3.org/groups/cg/xdmdl/users"},"services":{"href":"https://api.w3.org/groups/cg/xdmdl/services"},"chairs":{"href":"https://api.w3.org/groups/cg/xdmdl/chairs"},"join":{"href":"https://www.w3.org/community/xdmdl/join"},"participations":{"href":"https://api.w3.org/groups/cg/xdmdl/participations"}},"identifier":"cg/xdmdl"}
+{
+ "id": 76940,
+ "name": "Extensible Data Model Declaration Language for Education Community Group",
+ "is_closed": false,
+ "description": "XDMDL is proposed as a high level schema language that will allow people to define, share, combine, reference and profile data models. The proposal has grown out of a requirement recognised within the education community working in the SCORM and xAPI traditions, and it is intended to pilot the specification by demonstrating how it can help improve data interoperability between software systems designed to manage and deliver learning activities.",
+ "shortname": "xdmdl",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xdmdl"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/xdmdl/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/xdmdl/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/xdmdl/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/xdmdl/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/xdmdl/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/xdmdl/participations"
+  }
+ },
+ "identifier": "cg/xdmdl"
+}
