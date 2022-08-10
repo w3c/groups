@@ -1,1 +1,33 @@
-{"id":51310,"name":"E-learning: Evolving technologies and growing reach Community Group","is_closed":false,"description":"This Community Group focuses on e-learning. Participants will discuss new and existing technologies for e-learning and M-learning. The group will also talk about the reach, social change and impact of e-learning.","shortname":"learnonline","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/learnonline"},"homepage":{"href":"https://www.w3.org/community/learnonline/"},"users":{"href":"https://api.w3.org/groups/cg/learnonline/users"},"services":{"href":"https://api.w3.org/groups/cg/learnonline/services"},"chairs":{"href":"https://api.w3.org/groups/cg/learnonline/chairs"},"join":{"href":"https://www.w3.org/community/learnonline/join"},"participations":{"href":"https://api.w3.org/groups/cg/learnonline/participations"}},"identifier":"cg/learnonline"}
+{
+ "id": 51310,
+ "name": "E-learning: Evolving technologies and growing reach Community Group",
+ "is_closed": false,
+ "description": "This Community Group focuses on e-learning. Participants will discuss new and existing technologies for e-learning and M-learning. The group will also talk about the reach, social change and impact of e-learning.",
+ "shortname": "learnonline",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/learnonline"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/learnonline/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/learnonline/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/learnonline/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/learnonline/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/learnonline/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/learnonline/participations"
+  }
+ },
+ "identifier": "cg/learnonline"
+}
