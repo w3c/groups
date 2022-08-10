@@ -1,1 +1,33 @@
-{"id":65547,"name":"Multi Markup Community Group","is_closed":false,"description":"Web Service specifications and vocabularies are faced with the challenge of providing dual (or more) normative (or alternative) markups for their specifications or vocabularies.  For example it is becoming common to require both an XML and JSON normative markup for documents and messages.\r\n\r\nThis group will discuss options and propose practices for authoring and maintaining specifications and vocabularies in multiple markups.   This may include, but not limited to, authoring in a 'meta markup' or automatic translation between markup formats.","shortname":"mmarkup","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/mmarkup"},"homepage":{"href":"https://www.w3.org/community/mmarkup/"},"users":{"href":"https://api.w3.org/groups/cg/mmarkup/users"},"services":{"href":"https://api.w3.org/groups/cg/mmarkup/services"},"chairs":{"href":"https://api.w3.org/groups/cg/mmarkup/chairs"},"join":{"href":"https://www.w3.org/community/mmarkup/join"},"participations":{"href":"https://api.w3.org/groups/cg/mmarkup/participations"}},"identifier":"cg/mmarkup"}
+{
+ "id": 65547,
+ "name": "Multi Markup Community Group",
+ "is_closed": false,
+ "description": "Web Service specifications and vocabularies are faced with the challenge of providing dual (or more) normative (or alternative) markups for their specifications or vocabularies.  For example it is becoming common to require both an XML and JSON normative markup for documents and messages.\r\n\r\nThis group will discuss options and propose practices for authoring and maintaining specifications and vocabularies in multiple markups.   This may include, but not limited to, authoring in a 'meta markup' or automatic translation between markup formats.",
+ "shortname": "mmarkup",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mmarkup"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/mmarkup/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mmarkup/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mmarkup/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mmarkup/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mmarkup/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mmarkup/participations"
+  }
+ },
+ "identifier": "cg/mmarkup"
+}
