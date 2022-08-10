@@ -1,1 +1,23 @@
-[{"name":"PNG-spec","owner":{"login":"w3c"},"homepageUrl":"","description":"Maintenance of the PNG specification","isArchived":false,"w3cjson":{"contacts":["svgeesus"],"group":["wg/png"],"repo-type":["rec-track"],"policy":"open"}}]
+[
+ {
+  "name": "PNG-spec",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Maintenance of the PNG specification",
+  "isArchived": false,
+  "w3cjson": {
+   "contacts": [
+    "svgeesus"
+   ],
+   "group": [
+    "wg/png"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ }
+]
