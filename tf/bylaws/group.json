@@ -1,1 +1,28 @@
-{"id":137670,"name":"W3C Bylaws Task Force","is_closed":false,"shortname":"bylaws","members":[],"internal":false,"participants_list_public":false,"discr":"tf","_links":{"self":{"href":"https://api.w3.org/groups/tf/bylaws"},"homepage":{"href":"https://www.w3.org/Member/wiki/Governance-tf/bylaws"},"users":{"href":"https://api.w3.org/groups/tf/bylaws/users"},"services":{"href":"https://api.w3.org/groups/tf/bylaws/services"},"chairs":{"href":"https://api.w3.org/groups/tf/bylaws/chairs"}},"identifier":"tf/bylaws"}
+{
+ "id": 137670,
+ "name": "W3C Bylaws Task Force",
+ "is_closed": false,
+ "shortname": "bylaws",
+ "members": [],
+ "internal": false,
+ "participants_list_public": false,
+ "discr": "tf",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/tf/bylaws"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/Member/wiki/Governance-tf/bylaws"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/bylaws/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/bylaws/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/bylaws/chairs"
+  }
+ },
+ "identifier": "tf/bylaws"
+}
