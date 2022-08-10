@@ -1,1 +1,42 @@
-[{"name":"epub-rs-bugs","owner":{"login":"w3c"},"homepageUrl":"","description":"This is a repo dedicated to collecting and maintaining the status of bugs found on EPUB reading systems. Bugs may pertain to display, accessibility, and other issues.","isArchived":false,"w3cjson":{"group":["bg/publishingbg"],"contacts":["iherman","swickr"],"repo-type":["others"]}},{"name":"publ-bg","owner":{"login":"w3c"},"description":"Document repository of the Publishing Business Group","isArchived":false,"w3cjson":{"group":["bg/publishingbg"],"contacts":["iherman"],"repo-type":["homepage"]}}]
+[
+ {
+  "name": "epub-rs-bugs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "This is a repo dedicated to collecting and maintaining the status of bugs found on EPUB reading systems. Bugs may pertain to display, accessibility, and other issues.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "bg/publishingbg"
+   ],
+   "contacts": [
+    "iherman",
+    "swickr"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "publ-bg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Document repository of the Publishing Business Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "bg/publishingbg"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ }
+]
