@@ -1,1 +1,33 @@
-{"id":120533,"name":"Building Device Naming Standards Community Group","is_closed":false,"description":"Being able to efficiently collect, analyse and leverage data insights from buildings is a catalyst for optimising building performance, improving the use of resources and moving towards predictive maintenance and buildings that can respond  to the climate emergency.\r\n\r\nThe lack of standardised naming and labelling for connected devices in the built environment means we are failing to leverage the value of data to allow interoperability, improve building efficiency and increase occupant productivity. \r\n\r\nA naming and labelling standard (complementing other industry initiatives) will simplify and drive consistency thus increasing value by unlocking the application of technologies such as machine learning.  \r\n\r\nThe work of this community group will align with and complement other initiatives in the industry such as BRICK, Haystack, Omniclass, Uniclass, IFC etc. \r\n\r\nIn scope for this work are:\r\n<ul>\r\n<li>A simple specification for naming syntax</li>\r\n<li>A register of building device names and labels</li>\r\n</ul>\r\n","shortname":"bdns","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bdns"},"homepage":{"href":"https://www.w3.org/community/bdns/"},"users":{"href":"https://api.w3.org/groups/cg/bdns/users"},"services":{"href":"https://api.w3.org/groups/cg/bdns/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bdns/chairs"},"join":{"href":"https://www.w3.org/community/bdns/join"},"participations":{"href":"https://api.w3.org/groups/cg/bdns/participations"}},"identifier":"cg/bdns"}
+{
+ "id": 120533,
+ "name": "Building Device Naming Standards Community Group",
+ "is_closed": false,
+ "description": "Being able to efficiently collect, analyse and leverage data insights from buildings is a catalyst for optimising building performance, improving the use of resources and moving towards predictive maintenance and buildings that can respond  to the climate emergency.\r\n\r\nThe lack of standardised naming and labelling for connected devices in the built environment means we are failing to leverage the value of data to allow interoperability, improve building efficiency and increase occupant productivity. \r\n\r\nA naming and labelling standard (complementing other industry initiatives) will simplify and drive consistency thus increasing value by unlocking the application of technologies such as machine learning.  \r\n\r\nThe work of this community group will align with and complement other initiatives in the industry such as BRICK, Haystack, Omniclass, Uniclass, IFC etc. \r\n\r\nIn scope for this work are:\r\n<ul>\r\n<li>A simple specification for naming syntax</li>\r\n<li>A register of building device names and labels</li>\r\n</ul>\r\n",
+ "shortname": "bdns",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bdns"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bdns/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bdns/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bdns/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bdns/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bdns/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bdns/participations"
+  }
+ },
+ "identifier": "cg/bdns"
+}
