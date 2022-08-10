@@ -1,1 +1,33 @@
-{"id":56701,"name":"Mobile Accessibility Community Group","is_closed":false,"description":"The mission of this group is the discussion and investigation of the intersection of mobile and accessibility. A place to discuss emerging efforts, document needs and requirements and investigate emergent techniques and best practices.\r\n\r\nThis group will not be developing any specifications. ","shortname":"mobileacc","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/mobileacc"},"homepage":{"href":"https://www.w3.org/community/mobileacc/"},"users":{"href":"https://api.w3.org/groups/cg/mobileacc/users"},"services":{"href":"https://api.w3.org/groups/cg/mobileacc/services"},"chairs":{"href":"https://api.w3.org/groups/cg/mobileacc/chairs"},"join":{"href":"https://www.w3.org/community/mobileacc/join"},"participations":{"href":"https://api.w3.org/groups/cg/mobileacc/participations"}},"identifier":"cg/mobileacc"}
+{
+ "id": 56701,
+ "name": "Mobile Accessibility Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is the discussion and investigation of the intersection of mobile and accessibility. A place to discuss emerging efforts, document needs and requirements and investigate emergent techniques and best practices.\r\n\r\nThis group will not be developing any specifications. ",
+ "shortname": "mobileacc",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mobileacc"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/mobileacc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mobileacc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mobileacc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mobileacc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mobileacc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mobileacc/participations"
+  }
+ },
+ "identifier": "cg/mobileacc"
+}
