@@ -1,1 +1,33 @@
-{"id":54712,"name":"Technical Architecture Community Group","is_closed":false,"description":"This group is an open forum for discussing Web architecture, such as that discussed by the W3C Technical Architecture Group (TAG). Web architecture refers to the underlying principles that should be adhered to by Web components (APIs/Markup), whether developed inside or outside W3C. The architecture captures principles that affect such things as understandability, interoperability, scalability, accessibility, and internationalization. We expect to have a strong working relationship with the W3C TAG.","shortname":"opentag","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/opentag"},"homepage":{"href":"https://www.w3.org/community/opentag/"},"users":{"href":"https://api.w3.org/groups/cg/opentag/users"},"services":{"href":"https://api.w3.org/groups/cg/opentag/services"},"chairs":{"href":"https://api.w3.org/groups/cg/opentag/chairs"},"join":{"href":"https://www.w3.org/community/opentag/join"},"participations":{"href":"https://api.w3.org/groups/cg/opentag/participations"}},"identifier":"cg/opentag"}
+{
+ "id": 54712,
+ "name": "Technical Architecture Community Group",
+ "is_closed": false,
+ "description": "This group is an open forum for discussing Web architecture, such as that discussed by the W3C Technical Architecture Group (TAG). Web architecture refers to the underlying principles that should be adhered to by Web components (APIs/Markup), whether developed inside or outside W3C. The architecture captures principles that affect such things as understandability, interoperability, scalability, accessibility, and internationalization. We expect to have a strong working relationship with the W3C TAG.",
+ "shortname": "opentag",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opentag"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/opentag/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/opentag/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/opentag/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/opentag/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/opentag/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/opentag/participations"
+  }
+ },
+ "identifier": "cg/opentag"
+}
