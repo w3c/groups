@@ -1,1 +1,33 @@
-{"id":62563,"name":"Best Practices for Multilingual Linked Open Data Community Group","is_closed":false,"description":"The target for this group is to crowd-source ideas from the community regarding best practises for producing multilingual linked open data. The topics for discussion are mainly focused on naming, labelling, interlinking, and quality of multilingual linked data, among others. Use cases will be identified to motivate discussions. Participation both from academia and industry is expected. The main outcome of the group will\r\nbe the documentation of patterns and best practices for the creation, linking, and use of multilingual linked data.\r\n\r\nThis group will not create specifications.","shortname":"bpmlod","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bpmlod"},"homepage":{"href":"https://www.w3.org/community/bpmlod/"},"users":{"href":"https://api.w3.org/groups/cg/bpmlod/users"},"services":{"href":"https://api.w3.org/groups/cg/bpmlod/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bpmlod/chairs"},"join":{"href":"https://www.w3.org/community/bpmlod/join"},"participations":{"href":"https://api.w3.org/groups/cg/bpmlod/participations"}},"identifier":"cg/bpmlod"}
+{
+ "id": 62563,
+ "name": "Best Practices for Multilingual Linked Open Data Community Group",
+ "is_closed": false,
+ "description": "The target for this group is to crowd-source ideas from the community regarding best practises for producing multilingual linked open data. The topics for discussion are mainly focused on naming, labelling, interlinking, and quality of multilingual linked data, among others. Use cases will be identified to motivate discussions. Participation both from academia and industry is expected. The main outcome of the group will\r\nbe the documentation of patterns and best practices for the creation, linking, and use of multilingual linked data.\r\n\r\nThis group will not create specifications.",
+ "shortname": "bpmlod",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bpmlod"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bpmlod/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bpmlod/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bpmlod/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bpmlod/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bpmlod/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bpmlod/participations"
+  }
+ },
+ "identifier": "cg/bpmlod"
+}
