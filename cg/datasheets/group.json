@@ -1,1 +1,33 @@
-{"id":84117,"name":"DataSheets Community Group","is_closed":false,"description":"Decoupling content and data from HTML, by providing a DataSheet Language (CSS-like) to source, store and apply data to the HTML DOM. The browser will be able to take the responsibility of retrieving the data from a variety of sources and rendering it.\r\nThe group will outline the language and the full specifications for making this a reality.","shortname":"datasheets","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/datasheets"},"homepage":{"href":"https://www.w3.org/community/datasheets/"},"users":{"href":"https://api.w3.org/groups/cg/datasheets/users"},"services":{"href":"https://api.w3.org/groups/cg/datasheets/services"},"chairs":{"href":"https://api.w3.org/groups/cg/datasheets/chairs"},"join":{"href":"https://www.w3.org/community/datasheets/join"},"participations":{"href":"https://api.w3.org/groups/cg/datasheets/participations"}},"identifier":"cg/datasheets"}
+{
+ "id": 84117,
+ "name": "DataSheets Community Group",
+ "is_closed": false,
+ "description": "Decoupling content and data from HTML, by providing a DataSheet Language (CSS-like) to source, store and apply data to the HTML DOM. The browser will be able to take the responsibility of retrieving the data from a variety of sources and rendering it.\r\nThe group will outline the language and the full specifications for making this a reality.",
+ "shortname": "datasheets",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/datasheets"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/datasheets/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/datasheets/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/datasheets/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/datasheets/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/datasheets/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/datasheets/participations"
+  }
+ },
+ "identifier": "cg/datasheets"
+}
