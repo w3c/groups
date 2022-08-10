@@ -1,1 +1,33 @@
-{"id":104984,"name":"Veres One Community Group","is_closed":false,"description":"The mission of the Veres One Project is to facilitate the creation of open standards, software, and provide the governance to enable anyone in the world to create and manage their own decentralized identifiers.","shortname":"veres-one","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/veres-one"},"homepage":{"href":"https://www.w3.org/community/veres-one/"},"users":{"href":"https://api.w3.org/groups/cg/veres-one/users"},"services":{"href":"https://api.w3.org/groups/cg/veres-one/services"},"chairs":{"href":"https://api.w3.org/groups/cg/veres-one/chairs"},"join":{"href":"https://www.w3.org/community/veres-one/join"},"participations":{"href":"https://api.w3.org/groups/cg/veres-one/participations"}},"identifier":"cg/veres-one"}
+{
+ "id": 104984,
+ "name": "Veres One Community Group",
+ "is_closed": false,
+ "description": "The mission of the Veres One Project is to facilitate the creation of open standards, software, and provide the governance to enable anyone in the world to create and manage their own decentralized identifiers.",
+ "shortname": "veres-one",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/veres-one"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/veres-one/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/veres-one/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/veres-one/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/veres-one/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/veres-one/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/veres-one/participations"
+  }
+ },
+ "identifier": "cg/veres-one"
+}
