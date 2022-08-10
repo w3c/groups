@@ -1,1 +1,25 @@
-[{"name":"publishingcg","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/community/publishingcg/","description":"Repository of the Publishing Community Group","isArchived":false,"w3cjson":{"group":["cg/publishingcg"],"contacts":["iherman"],"repo-type":["cg-report","tool","article","project"]}}]
+[
+ {
+  "name": "publishingcg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/publishingcg/",
+  "description": "Repository of the Publishing Community Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/publishingcg"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report",
+    "tool",
+    "article",
+    "project"
+   ]
+  }
+ }
+]
