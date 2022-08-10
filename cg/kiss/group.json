@@ -1,1 +1,33 @@
-{"id":84628,"name":"Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group","is_closed":false,"description":"W3C provide a great variety of standards that can be used to build applications that use the Internet as a platform for communication and integration. The open Knowledge-driven Service-oriented System architectures and APIs (KiSS) community group is created for sharing, elaborating and evolving knowledge-driven approaches for system integration. The KiSS community group takes service-oriented architecture as a main paradigm for application creation. However, it is not enough to say that there is a set of some services that can be integrated according to the application needs. The integration is facilitated with semantic descriptions of the services. Furthermore, the special support components are required at system run time in order to allow dynamic composition of the services accordingly semantic representation of adjusted or new system goals.\r\n \r\nThus, the community aims to categorise different possible architectures to allow knowledge-driven approach for system integration; it provides reference architectures that also point out possible technologies for the solution implementation. The community targets different application domains and industries in order to benefit from cross-domain vision on development of knowledge-driven systems. \r\n\r\nThe abbreviation of the community group highlights the integrative nature of the group (small i among K (knowledge), S (service) and S (system)). \r\n\r\nThe group is managed by 6 re-electable chairs. The roles and responsibilities of the chairs go as follows:\r\n<ul>\r\n<li>General chair: Ideologist. Overall synchronization between different pillars of the KiSS. PR with other groups and external stakeholders. Member attraction, community group development. </li>\r\n<li>Chair for integration: Integration technologies, web service composition.</li>\r\n<li>Chair for knowledge: Knowledge representation and reasoning standards and methodologies.</li>\r\n<li>Chair for devices: Embedded devices, their adoption for KiSS.</li>\r\n<li>Chair for services: Web services, standards, methodologies for service definition.</li>\r\n<li>Chair for application domains: KiSS in different application domains. Cross-domain learning and development. Benchmarking.</li>\r\n</ul>","shortname":"kiss","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/kiss"},"homepage":{"href":"https://www.w3.org/community/kiss/"},"users":{"href":"https://api.w3.org/groups/cg/kiss/users"},"services":{"href":"https://api.w3.org/groups/cg/kiss/services"},"chairs":{"href":"https://api.w3.org/groups/cg/kiss/chairs"},"join":{"href":"https://www.w3.org/community/kiss/join"},"participations":{"href":"https://api.w3.org/groups/cg/kiss/participations"}},"identifier":"cg/kiss"}
+{
+ "id": 84628,
+ "name": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
+ "is_closed": false,
+ "description": "W3C provide a great variety of standards that can be used to build applications that use the Internet as a platform for communication and integration. The open Knowledge-driven Service-oriented System architectures and APIs (KiSS) community group is created for sharing, elaborating and evolving knowledge-driven approaches for system integration. The KiSS community group takes service-oriented architecture as a main paradigm for application creation. However, it is not enough to say that there is a set of some services that can be integrated according to the application needs. The integration is facilitated with semantic descriptions of the services. Furthermore, the special support components are required at system run time in order to allow dynamic composition of the services accordingly semantic representation of adjusted or new system goals.\r\n \r\nThus, the community aims to categorise different possible architectures to allow knowledge-driven approach for system integration; it provides reference architectures that also point out possible technologies for the solution implementation. The community targets different application domains and industries in order to benefit from cross-domain vision on development of knowledge-driven systems. \r\n\r\nThe abbreviation of the community group highlights the integrative nature of the group (small i among K (knowledge), S (service) and S (system)). \r\n\r\nThe group is managed by 6 re-electable chairs. The roles and responsibilities of the chairs go as follows:\r\n<ul>\r\n<li>General chair: Ideologist. Overall synchronization between different pillars of the KiSS. PR with other groups and external stakeholders. Member attraction, community group development. </li>\r\n<li>Chair for integration: Integration technologies, web service composition.</li>\r\n<li>Chair for knowledge: Knowledge representation and reasoning standards and methodologies.</li>\r\n<li>Chair for devices: Embedded devices, their adoption for KiSS.</li>\r\n<li>Chair for services: Web services, standards, methodologies for service definition.</li>\r\n<li>Chair for application domains: KiSS in different application domains. Cross-domain learning and development. Benchmarking.</li>\r\n</ul>",
+ "shortname": "kiss",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/kiss"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/kiss/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/kiss/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/kiss/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/kiss/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/kiss/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/kiss/participations"
+  }
+ },
+ "identifier": "cg/kiss"
+}
