@@ -1,1 +1,33 @@
-{"id":131822,"name":"Accessibility Features Community Group","is_closed":false,"description":"<p>Improving the accessibility features of browsers, other user agents, and operating systems makes every app and web site they render more accessible to people with disabilities. The Accessibility Features Community Group (AFCG) promotes the development of these accessibility features. </p>\r\n\r\n<p>People with disabilities will find similar features across browsers and operating systems that also work consistently for all provided content. For content creators, reliable built-in features will help to focus their accessibility efforts on addressing challenges unique to their content. These accessibility features can come in a variety of forms, such as:</p>\r\n<ul>\r\n<li> Always-on features, such as page and app resizing\r\n<li> Toggles, such as always-visible focus indicators and high contrast modes\r\n<li> Settings, like preferred fonts and smallest text size\r\n<li> Fallback features, like automated captions and heading detection\r\n</ul>\r\n<p>To promote the development of new accessibility features, AFCG will develop a list of recommended accessibility features. This list will include accessibility features already available, but also ideas for new accessibility features that can be shown to work through prototypes. To encourage the implementation of recommended accessibility features, AFCG will track which of these are supported in common browsers and operating systems.\r\n\r\n<p>The Accessibility Features Community Group will not develop any normative specification. As such, there will not be any Essential Claims under the W3C <a rel=\"nofollow\" href=\"https://www.w3.org/community/about/process/cla/\">Contributor License Agreement</a> or <a rel=\"nofollow\" href=\"https://www.w3.org/community/about/process/final/\">Final Specification Agreement</a>.</p>","shortname":"a11yfeat","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/a11yfeat"},"homepage":{"href":"https://www.w3.org/community/a11yfeat/"},"users":{"href":"https://api.w3.org/groups/cg/a11yfeat/users"},"services":{"href":"https://api.w3.org/groups/cg/a11yfeat/services"},"chairs":{"href":"https://api.w3.org/groups/cg/a11yfeat/chairs"},"join":{"href":"https://www.w3.org/community/a11yfeat/join"},"participations":{"href":"https://api.w3.org/groups/cg/a11yfeat/participations"}},"identifier":"cg/a11yfeat"}
+{
+ "id": 131822,
+ "name": "Accessibility Features Community Group",
+ "is_closed": false,
+ "description": "<p>Improving the accessibility features of browsers, other user agents, and operating systems makes every app and web site they render more accessible to people with disabilities. The Accessibility Features Community Group (AFCG) promotes the development of these accessibility features. </p>\r\n\r\n<p>People with disabilities will find similar features across browsers and operating systems that also work consistently for all provided content. For content creators, reliable built-in features will help to focus their accessibility efforts on addressing challenges unique to their content. These accessibility features can come in a variety of forms, such as:</p>\r\n<ul>\r\n<li> Always-on features, such as page and app resizing\r\n<li> Toggles, such as always-visible focus indicators and high contrast modes\r\n<li> Settings, like preferred fonts and smallest text size\r\n<li> Fallback features, like automated captions and heading detection\r\n</ul>\r\n<p>To promote the development of new accessibility features, AFCG will develop a list of recommended accessibility features. This list will include accessibility features already available, but also ideas for new accessibility features that can be shown to work through prototypes. To encourage the implementation of recommended accessibility features, AFCG will track which of these are supported in common browsers and operating systems.\r\n\r\n<p>The Accessibility Features Community Group will not develop any normative specification. As such, there will not be any Essential Claims under the W3C <a rel=\"nofollow\" href=\"https://www.w3.org/community/about/process/cla/\">Contributor License Agreement</a> or <a rel=\"nofollow\" href=\"https://www.w3.org/community/about/process/final/\">Final Specification Agreement</a>.</p>",
+ "shortname": "a11yfeat",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/a11yfeat"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/a11yfeat/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/a11yfeat/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/a11yfeat/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/a11yfeat/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/a11yfeat/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/a11yfeat/participations"
+  }
+ },
+ "identifier": "cg/a11yfeat"
+}
