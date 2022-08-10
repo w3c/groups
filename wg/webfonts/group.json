@@ -1,1 +1,50 @@
-{"id":44556,"name":"Web Fonts Working Group","is_closed":false,"description":"The mission of the Web Fonts Working Group is to develop specifications that allow the interoperable deployment of downloadable fonts on the Web.","shortname":"webfonts","discr":"w3cgroup","type":"working group","start-date":"2010-03-17","end-date":"2022-09-13","_links":{"self":{"href":"https://api.w3.org/groups/wg/webfonts"},"homepage":{"href":"https://www.w3.org/Fonts/WG/"},"users":{"href":"https://api.w3.org/groups/wg/webfonts/users"},"services":{"href":"https://api.w3.org/groups/wg/webfonts/services"},"specifications":{"href":"https://api.w3.org/groups/wg/webfonts/specifications"},"chairs":{"href":"https://api.w3.org/groups/wg/webfonts/chairs"},"team-contacts":{"href":"https://api.w3.org/groups/wg/webfonts/teamcontacts"},"charters":{"href":"https://api.w3.org/groups/wg/webfonts/charters"},"active-charter":{"href":"https://api.w3.org/groups/wg/webfonts/charters/426"},"join":{"href":"https://www.w3.org/groups/wg/webfonts/join"},"pp-status":{"href":"https://www.w3.org/groups/wg/webfonts/ipr"},"participations":{"href":"https://api.w3.org/groups/wg/webfonts/participations"}},"identifier":"wg/webfonts"}
+{
+ "id": 44556,
+ "name": "Web Fonts Working Group",
+ "is_closed": false,
+ "description": "The mission of the Web Fonts Working Group is to develop specifications that allow the interoperable deployment of downloadable fonts on the Web.",
+ "shortname": "webfonts",
+ "discr": "w3cgroup",
+ "type": "working group",
+ "start-date": "2010-03-17",
+ "end-date": "2022-09-13",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webfonts"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/Fonts/WG/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/webfonts/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/webfonts/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/webfonts/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/webfonts/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/webfonts/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/webfonts/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/webfonts/charters/426"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/webfonts/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/webfonts/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/webfonts/participations"
+  }
+ },
+ "identifier": "wg/webfonts"
+}
