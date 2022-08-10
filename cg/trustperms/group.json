@@ -1,1 +1,33 @@
-{"id":75856,"name":"Trust & Permissions Community Group","is_closed":false,"description":"As the Open Web Platform expands, and apps are developed that access various sensitive resources, new ways of managing permissions to access these resources are likely to arise. This Community Group will explore and evaluate such ways based upon experience with native and hybrid platforms, and drawing upon research studies. This follows on from the Paris meeting on trust and permissions held on 3-4 September 2014, see [1].\r\n\r\nResources vary in sensitivity and timeliness, e.g. when and to whom a password should be disclosed is quite different from when access to the user’s webcam should be granted. Similarly, modes of obtaining user permission vary, including asking users upfront for permission when an app is installed or first run (exemplified in Android and Windows) or asking users for permission when the application is attempting to use a given capability (exemplified in iOS) and permission can even be obtained after the fact by inviting the user to continue or to cancel an action after it has occurred, i.e. asking for forgiveness rather than permission. In some cases, the user's actions can be taken as implicitly granting permission, such as the Windows file chooser dialog. A further approach is for users to delegate decisions on permissions to a trusted 3rd party.\r\n\r\nThe goal of this CG is to develop and articulate best practices for which modes of obtaining permission best match which resource types, and make these best practices available to both platform developers (browser and operating system vendors) and app developers. Ideally the APIs offered to apps to obtain permission to access resources should be consistent across platforms, while allowing platforms the flexibility to present a user experience that meets each platform’s needs.\r\n\r\nThe scope of this Community Group is limited to discussion and guidance on best practices, to review draft APIs from individual WG's, and pre-standardization work on promising ideas for better user experience obtaining permission, including trusted UI and trust delegation per Roesner et al, see [2]. Work on best practices will focus on the kinds of resources that need protection, the enumeration of good ways to obtain user permission, to dis-recommend permission models that are known to be problematic, and to recommend the preferred user experience for a given kind of resource. The main focus is on the Open Web Platform, but packaged apps are not excluded.\r\n\r\nThis group will not publish Specifications.\r\n\r\n[1] http://www.w3.org/2014/07/permissions/\r\n[2] http://research.microsoft.com/pubs/152495/user-driven-access-control-nov2011.pdf\r\n","shortname":"trustperms","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/trustperms"},"homepage":{"href":"https://www.w3.org/community/trustperms/"},"users":{"href":"https://api.w3.org/groups/cg/trustperms/users"},"services":{"href":"https://api.w3.org/groups/cg/trustperms/services"},"chairs":{"href":"https://api.w3.org/groups/cg/trustperms/chairs"},"join":{"href":"https://www.w3.org/community/trustperms/join"},"participations":{"href":"https://api.w3.org/groups/cg/trustperms/participations"}},"identifier":"cg/trustperms"}
+{
+ "id": 75856,
+ "name": "Trust & Permissions Community Group",
+ "is_closed": false,
+ "description": "As the Open Web Platform expands, and apps are developed that access various sensitive resources, new ways of managing permissions to access these resources are likely to arise. This Community Group will explore and evaluate such ways based upon experience with native and hybrid platforms, and drawing upon research studies. This follows on from the Paris meeting on trust and permissions held on 3-4 September 2014, see [1].\r\n\r\nResources vary in sensitivity and timeliness, e.g. when and to whom a password should be disclosed is quite different from when access to the user’s webcam should be granted. Similarly, modes of obtaining user permission vary, including asking users upfront for permission when an app is installed or first run (exemplified in Android and Windows) or asking users for permission when the application is attempting to use a given capability (exemplified in iOS) and permission can even be obtained after the fact by inviting the user to continue or to cancel an action after it has occurred, i.e. asking for forgiveness rather than permission. In some cases, the user's actions can be taken as implicitly granting permission, such as the Windows file chooser dialog. A further approach is for users to delegate decisions on permissions to a trusted 3rd party.\r\n\r\nThe goal of this CG is to develop and articulate best practices for which modes of obtaining permission best match which resource types, and make these best practices available to both platform developers (browser and operating system vendors) and app developers. Ideally the APIs offered to apps to obtain permission to access resources should be consistent across platforms, while allowing platforms the flexibility to present a user experience that meets each platform’s needs.\r\n\r\nThe scope of this Community Group is limited to discussion and guidance on best practices, to review draft APIs from individual WG's, and pre-standardization work on promising ideas for better user experience obtaining permission, including trusted UI and trust delegation per Roesner et al, see [2]. Work on best practices will focus on the kinds of resources that need protection, the enumeration of good ways to obtain user permission, to dis-recommend permission models that are known to be problematic, and to recommend the preferred user experience for a given kind of resource. The main focus is on the Open Web Platform, but packaged apps are not excluded.\r\n\r\nThis group will not publish Specifications.\r\n\r\n[1] http://www.w3.org/2014/07/permissions/\r\n[2] http://research.microsoft.com/pubs/152495/user-driven-access-control-nov2011.pdf\r\n",
+ "shortname": "trustperms",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/trustperms"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/trustperms/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/trustperms/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/trustperms/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/trustperms/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/trustperms/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/trustperms/participations"
+  }
+ },
+ "identifier": "cg/trustperms"
+}
