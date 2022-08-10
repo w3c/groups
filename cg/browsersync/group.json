@@ -1,1 +1,33 @@
-{"id":71714,"name":"Browser Sync Community Group","is_closed":false,"description":"The major browsers provide users with a means of synchronizing their data across browser instances, but the services behind that synchronization process are not controlled by users, and users don't have the ability to sync the data of their choice, or sync with other browsers.\r\n\r\nOur goal is to create a specification for a browser sync process that gives users more control over their data, gives developers the ability to sync specific data for their web applications, and allows for a diverse marketplace of sync backend providers.","shortname":"browsersync","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/browsersync"},"homepage":{"href":"https://www.w3.org/community/browsersync/"},"users":{"href":"https://api.w3.org/groups/cg/browsersync/users"},"services":{"href":"https://api.w3.org/groups/cg/browsersync/services"},"chairs":{"href":"https://api.w3.org/groups/cg/browsersync/chairs"},"join":{"href":"https://www.w3.org/community/browsersync/join"},"participations":{"href":"https://api.w3.org/groups/cg/browsersync/participations"}},"identifier":"cg/browsersync"}
+{
+ "id": 71714,
+ "name": "Browser Sync Community Group",
+ "is_closed": false,
+ "description": "The major browsers provide users with a means of synchronizing their data across browser instances, but the services behind that synchronization process are not controlled by users, and users don't have the ability to sync the data of their choice, or sync with other browsers.\r\n\r\nOur goal is to create a specification for a browser sync process that gives users more control over their data, gives developers the ability to sync specific data for their web applications, and allows for a diverse marketplace of sync backend providers.",
+ "shortname": "browsersync",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/browsersync"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/browsersync/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/browsersync/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/browsersync/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/browsersync/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/browsersync/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/browsersync/participations"
+  }
+ },
+ "identifier": "cg/browsersync"
+}
