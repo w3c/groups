@@ -1,1 +1,33 @@
-{"id":52578,"name":"Responsive Issues Community Group","is_closed":false,"description":"Our goal is a markup-based means of delivering alternate image sources based on device capabilities, to prevent wasted bandwidth and optimize display for both screen and print.\r\n\r\nNote: When the group expanded its scope in November 2014, it changed the name from \"Responsive Images\" to \"Responsive Issues.\" ","shortname":"respimg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/respimg"},"homepage":{"href":"https://www.w3.org/community/respimg/"},"users":{"href":"https://api.w3.org/groups/cg/respimg/users"},"services":{"href":"https://api.w3.org/groups/cg/respimg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/respimg/chairs"},"join":{"href":"https://www.w3.org/community/respimg/join"},"participations":{"href":"https://api.w3.org/groups/cg/respimg/participations"}},"identifier":"cg/respimg"}
+{
+ "id": 52578,
+ "name": "Responsive Issues Community Group",
+ "is_closed": false,
+ "description": "Our goal is a markup-based means of delivering alternate image sources based on device capabilities, to prevent wasted bandwidth and optimize display for both screen and print.\r\n\r\nNote: When the group expanded its scope in November 2014, it changed the name from \"Responsive Images\" to \"Responsive Issues.\" ",
+ "shortname": "respimg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/respimg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/respimg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/respimg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/respimg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/respimg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/respimg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/respimg/participations"
+  }
+ },
+ "identifier": "cg/respimg"
+}
