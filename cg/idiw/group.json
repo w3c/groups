@@ -1,1 +1,33 @@
-{"id":121145,"name":"Inclusive Design for the Immersive Web Community Group","is_closed":false,"description":"<p>Following on the <a rel=\"nofollow\" href=\"https://www.w3.org/2019/08/inclusive-xr-workshop/report.html\">W3C Inclusive Design for the Immersive Web standards\r\nWorkshop</a> held in November 2019, the Inclusive Immersive Web\r\nCommunity Group tracks and promotes progress on accessibility issues\r\nidentified across the many relevant W3C and Khronos groups working on\r\naspects of XR (virtual reality and augmented reality), and ensures progress\r\ntowards a consistent set of guidance, technologies and techniques to\r\nmake the Immersive Web accessible to people with disabilities.\r\n\r\n</p><p>The group also acts as a liaison with the <a rel=\"nofollow\" href=\"https://www.xraccess.org/\">XR Access Initiative</a> and its relevant sub-groups.</p>\r\n\r\n<p>Work Mode: The primary work modes for the group will be to track and respond to\r\naccessibility issues logged in the <a rel=\"nofollow\" href=\"https://github.com/w3c/inclusive-xr-roadmap\">group's repo</a>. The group will endeavor to have a representative from each of the <a rel=\"nofollow\" href=\"https://www.w3.org/2019/08/inclusive-xr-workshop/report.html#groups\">groups identified as relevant</a> to the progress of the said issues and will meet a minimum of quarterly\r\nto review progress on all issues including those which have been logged\r\nbut have not been actively taken up in order to ensure that there is a\r\ncoordinated view of issues raised.</p>","shortname":"idiw","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/idiw"},"homepage":{"href":"https://www.w3.org/community/idiw/"},"users":{"href":"https://api.w3.org/groups/cg/idiw/users"},"services":{"href":"https://api.w3.org/groups/cg/idiw/services"},"chairs":{"href":"https://api.w3.org/groups/cg/idiw/chairs"},"join":{"href":"https://www.w3.org/community/idiw/join"},"participations":{"href":"https://api.w3.org/groups/cg/idiw/participations"}},"identifier":"cg/idiw"}
+{
+ "id": 121145,
+ "name": "Inclusive Design for the Immersive Web Community Group",
+ "is_closed": false,
+ "description": "<p>Following on the <a rel=\"nofollow\" href=\"https://www.w3.org/2019/08/inclusive-xr-workshop/report.html\">W3C Inclusive Design for the Immersive Web standards\r\nWorkshop</a> held in November 2019, the Inclusive Immersive Web\r\nCommunity Group tracks and promotes progress on accessibility issues\r\nidentified across the many relevant W3C and Khronos groups working on\r\naspects of XR (virtual reality and augmented reality), and ensures progress\r\ntowards a consistent set of guidance, technologies and techniques to\r\nmake the Immersive Web accessible to people with disabilities.\r\n\r\n</p><p>The group also acts as a liaison with the <a rel=\"nofollow\" href=\"https://www.xraccess.org/\">XR Access Initiative</a> and its relevant sub-groups.</p>\r\n\r\n<p>Work Mode: The primary work modes for the group will be to track and respond to\r\naccessibility issues logged in the <a rel=\"nofollow\" href=\"https://github.com/w3c/inclusive-xr-roadmap\">group's repo</a>. The group will endeavor to have a representative from each of the <a rel=\"nofollow\" href=\"https://www.w3.org/2019/08/inclusive-xr-workshop/report.html#groups\">groups identified as relevant</a> to the progress of the said issues and will meet a minimum of quarterly\r\nto review progress on all issues including those which have been logged\r\nbut have not been actively taken up in order to ensure that there is a\r\ncoordinated view of issues raised.</p>",
+ "shortname": "idiw",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/idiw"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/idiw/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/idiw/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/idiw/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/idiw/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/idiw/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/idiw/participations"
+  }
+ },
+ "identifier": "cg/idiw"
+}
