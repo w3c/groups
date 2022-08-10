@@ -1,1 +1,33 @@
-{"id":110778,"name":"BD Comics Manga Community Group","is_closed":false,"description":"Motion Comics, Web Comics, Visual novels, Interactive Manga, Webtoon, Turbomedia, Parallax strip,  Still motion art ... all digital variants of visual narratives share a common underlying model, which must be clearly expressed before a universal publication format can be designed and released as a Web standard.\r\n\r\nThe mission of the BD Comics Manga Community Group (*) is to study and document, for all kinds of visual narratives expressed digitally, a common conceptual model and associated sets of controlled values.\r\n\r\n(*) Bande dessinée, Comics, Manga are terms broadly used for sequential art in Europe, USA and Asia; this underlies the global scope of the study.","shortname":"bdcomacg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bdcomacg"},"homepage":{"href":"https://www.w3.org/community/bdcomacg/"},"users":{"href":"https://api.w3.org/groups/cg/bdcomacg/users"},"services":{"href":"https://api.w3.org/groups/cg/bdcomacg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bdcomacg/chairs"},"join":{"href":"https://www.w3.org/community/bdcomacg/join"},"participations":{"href":"https://api.w3.org/groups/cg/bdcomacg/participations"}},"identifier":"cg/bdcomacg"}
+{
+ "id": 110778,
+ "name": "BD Comics Manga Community Group",
+ "is_closed": false,
+ "description": "Motion Comics, Web Comics, Visual novels, Interactive Manga, Webtoon, Turbomedia, Parallax strip,  Still motion art ... all digital variants of visual narratives share a common underlying model, which must be clearly expressed before a universal publication format can be designed and released as a Web standard.\r\n\r\nThe mission of the BD Comics Manga Community Group (*) is to study and document, for all kinds of visual narratives expressed digitally, a common conceptual model and associated sets of controlled values.\r\n\r\n(*) Bande dessinée, Comics, Manga are terms broadly used for sequential art in Europe, USA and Asia; this underlies the global scope of the study.",
+ "shortname": "bdcomacg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bdcomacg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bdcomacg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bdcomacg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bdcomacg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bdcomacg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bdcomacg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bdcomacg/participations"
+  }
+ },
+ "identifier": "cg/bdcomacg"
+}
