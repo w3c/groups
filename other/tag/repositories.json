@@ -1,1 +1,22 @@
-[{"name":"design-reviews","owner":{"login":"w3ctag"},"description":"W3C specs and API reviews ","isArchived":false,"w3cjson":{"group":["other/tag"],"contacts":["ylafon"],"policy":"restricted","repo-type":["tool"]}}]
+[
+ {
+  "name": "design-reviews",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "W3C specs and API reviews ",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "contacts": [
+    "ylafon"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "tool"
+   ]
+  }
+ }
+]
