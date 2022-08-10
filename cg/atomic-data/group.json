@@ -1,1 +1,33 @@
-{"id":125854,"name":"Atomic Data Community Group","is_closed":false,"description":"Develop a standard for exchanging type-safe data on the web.\r\n\r\nhttps://docs.atomicdata.dev","shortname":"atomic-data","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/atomic-data"},"homepage":{"href":"https://www.w3.org/community/atomic-data/"},"users":{"href":"https://api.w3.org/groups/cg/atomic-data/users"},"services":{"href":"https://api.w3.org/groups/cg/atomic-data/services"},"chairs":{"href":"https://api.w3.org/groups/cg/atomic-data/chairs"},"join":{"href":"https://www.w3.org/community/atomic-data/join"},"participations":{"href":"https://api.w3.org/groups/cg/atomic-data/participations"}},"identifier":"cg/atomic-data"}
+{
+ "id": 125854,
+ "name": "Atomic Data Community Group",
+ "is_closed": false,
+ "description": "Develop a standard for exchanging type-safe data on the web.\r\n\r\nhttps://docs.atomicdata.dev",
+ "shortname": "atomic-data",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/atomic-data"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/atomic-data/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/atomic-data/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/atomic-data/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/atomic-data/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/atomic-data/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/atomic-data/participations"
+  }
+ },
+ "identifier": "cg/atomic-data"
+}
