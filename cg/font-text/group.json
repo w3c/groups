@@ -1,1 +1,33 @@
-{"id":125655,"name":"Font and Text Community Group","is_closed":false,"description":"The Font and Text Community Group gathers individuals and organizations interested in discussing and developing specifications and implementations for technologies which operate on and at the interface between text encoding and font formats. Examples of such technologies are shaping engines and text layout applications.","shortname":"font-text","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/font-text"},"homepage":{"href":"https://www.w3.org/community/font-text/"},"users":{"href":"https://api.w3.org/groups/cg/font-text/users"},"services":{"href":"https://api.w3.org/groups/cg/font-text/services"},"chairs":{"href":"https://api.w3.org/groups/cg/font-text/chairs"},"join":{"href":"https://www.w3.org/community/font-text/join"},"participations":{"href":"https://api.w3.org/groups/cg/font-text/participations"}},"identifier":"cg/font-text"}
+{
+ "id": 125655,
+ "name": "Font and Text Community Group",
+ "is_closed": false,
+ "description": "The Font and Text Community Group gathers individuals and organizations interested in discussing and developing specifications and implementations for technologies which operate on and at the interface between text encoding and font formats. Examples of such technologies are shaping engines and text layout applications.",
+ "shortname": "font-text",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/font-text"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/font-text/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/font-text/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/font-text/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/font-text/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/font-text/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/font-text/participations"
+  }
+ },
+ "identifier": "cg/font-text"
+}
