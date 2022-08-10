@@ -1,1 +1,36 @@
-{"id":103226,"name":"Improving Web Advertising Business Group","is_closed":false,"description":"The mission of the Improving Web Advertising Business Group is to identify areas where standards and changes in the Web itself can improve the ecosystem and experience for users, advertisers, publishers, distributors, ad networks, agencies and others, and to oversee liaison with existing Working Groups and to create new Working Groups as needed","shortname":"web-adv","discr":"w3cgroup","type":"business group","_links":{"self":{"href":"https://api.w3.org/groups/bg/web-adv"},"homepage":{"href":"https://www.w3.org/community/web-adv/"},"users":{"href":"https://api.w3.org/groups/bg/web-adv/users"},"services":{"href":"https://api.w3.org/groups/bg/web-adv/services"},"chairs":{"href":"https://api.w3.org/groups/bg/web-adv/chairs"},"team-contacts":{"href":"https://api.w3.org/groups/bg/web-adv/teamcontacts"},"join":{"href":"https://www.w3.org/community/web-adv/join"},"participations":{"href":"https://api.w3.org/groups/bg/web-adv/participations"}},"identifier":"bg/web-adv"}
+{
+ "id": 103226,
+ "name": "Improving Web Advertising Business Group",
+ "is_closed": false,
+ "description": "The mission of the Improving Web Advertising Business Group is to identify areas where standards and changes in the Web itself can improve the ecosystem and experience for users, advertisers, publishers, distributors, ad networks, agencies and others, and to oversee liaison with existing Working Groups and to create new Working Groups as needed",
+ "shortname": "web-adv",
+ "discr": "w3cgroup",
+ "type": "business group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/bg/web-adv"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/web-adv/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/web-adv/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/web-adv/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/web-adv/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/web-adv/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-adv/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/web-adv/participations"
+  }
+ },
+ "identifier": "bg/web-adv"
+}
