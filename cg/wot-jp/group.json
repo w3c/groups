@@ -1,1 +1,33 @@
-{"id":129080,"name":"Web of Things Japanese Community Group","is_closed":false,"description":"The mission of the Web of Things Japanese Community Group includes the following:\r\n\r\n<ul>\r\n<li>to facilitate focused discussion in Japanese on the Web of Things specifications and related specifications</li>\r\n<li>to gather comments and questions in Japanese about those specifications </li>\r\n<li>to collect information about specific use cases in Japanese for technologies defined in those specifications</li>\r\n<li> to report the results of its activities as a group back to the Web of Things Working Group/Interest Group, the W3C membership and the Web community.</li>\r\n</ul>\r\n\r\nThis group will not publish any specifications.\r\n","shortname":"wot-jp","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/wot-jp"},"homepage":{"href":"https://www.w3.org/community/wot-jp/"},"users":{"href":"https://api.w3.org/groups/cg/wot-jp/users"},"services":{"href":"https://api.w3.org/groups/cg/wot-jp/services"},"chairs":{"href":"https://api.w3.org/groups/cg/wot-jp/chairs"},"join":{"href":"https://www.w3.org/community/wot-jp/join"},"participations":{"href":"https://api.w3.org/groups/cg/wot-jp/participations"}},"identifier":"cg/wot-jp"}
+{
+ "id": 129080,
+ "name": "Web of Things Japanese Community Group",
+ "is_closed": false,
+ "description": "The mission of the Web of Things Japanese Community Group includes the following:\r\n\r\n<ul>\r\n<li>to facilitate focused discussion in Japanese on the Web of Things specifications and related specifications</li>\r\n<li>to gather comments and questions in Japanese about those specifications </li>\r\n<li>to collect information about specific use cases in Japanese for technologies defined in those specifications</li>\r\n<li> to report the results of its activities as a group back to the Web of Things Working Group/Interest Group, the W3C membership and the Web community.</li>\r\n</ul>\r\n\r\nThis group will not publish any specifications.\r\n",
+ "shortname": "wot-jp",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wot-jp"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/wot-jp/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/wot-jp/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/wot-jp/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/wot-jp/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/wot-jp/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/wot-jp/participations"
+  }
+ },
+ "identifier": "cg/wot-jp"
+}
