@@ -1,1 +1,50 @@
-{"id":45211,"name":"Web Performance Working Group","is_closed":false,"description":"The mission of the Web Performance Working Group is to provide methods to measure aspects of application performance of user agent features and APIs.","shortname":"webperf","discr":"w3cgroup","type":"working group","start-date":"2010-08-18","end-date":"2023-02-28","_links":{"self":{"href":"https://api.w3.org/groups/wg/webperf"},"homepage":{"href":"https://www.w3.org/webperf/"},"users":{"href":"https://api.w3.org/groups/wg/webperf/users"},"services":{"href":"https://api.w3.org/groups/wg/webperf/services"},"specifications":{"href":"https://api.w3.org/groups/wg/webperf/specifications"},"chairs":{"href":"https://api.w3.org/groups/wg/webperf/chairs"},"team-contacts":{"href":"https://api.w3.org/groups/wg/webperf/teamcontacts"},"charters":{"href":"https://api.w3.org/groups/wg/webperf/charters"},"active-charter":{"href":"https://api.w3.org/groups/wg/webperf/charters/430"},"join":{"href":"https://www.w3.org/groups/wg/webperf/join"},"pp-status":{"href":"https://www.w3.org/groups/wg/webperf/ipr"},"participations":{"href":"https://api.w3.org/groups/wg/webperf/participations"}},"identifier":"wg/webperf"}
+{
+ "id": 45211,
+ "name": "Web Performance Working Group",
+ "is_closed": false,
+ "description": "The mission of the Web Performance Working Group is to provide methods to measure aspects of application performance of user agent features and APIs.",
+ "shortname": "webperf",
+ "discr": "w3cgroup",
+ "type": "working group",
+ "start-date": "2010-08-18",
+ "end-date": "2023-02-28",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webperf"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/webperf/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/webperf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/webperf/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/webperf/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/webperf/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/webperf/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/webperf/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/webperf/charters/430"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/webperf/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/webperf/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/webperf/participations"
+  }
+ },
+ "identifier": "wg/webperf"
+}
