@@ -1,1 +1,33 @@
-{"id":104525,"name":"Synchronized Multimedia for Publications Community Group","is_closed":false,"description":"This community group's goal is to propose a way to synchronize audio or video with Web Publications and other document formats being developed by the Publishing Working Group, in order to make the publications accessible to people with different types of reading requirements. The CG may recommend the best way to integrate an existing technology, or it may provide an outline for developing a new format.","shortname":"sync-media-pub","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/sync-media-pub"},"homepage":{"href":"https://www.w3.org/community/sync-media-pub/"},"users":{"href":"https://api.w3.org/groups/cg/sync-media-pub/users"},"services":{"href":"https://api.w3.org/groups/cg/sync-media-pub/services"},"chairs":{"href":"https://api.w3.org/groups/cg/sync-media-pub/chairs"},"join":{"href":"https://www.w3.org/community/sync-media-pub/join"},"participations":{"href":"https://api.w3.org/groups/cg/sync-media-pub/participations"}},"identifier":"cg/sync-media-pub"}
+{
+ "id": 104525,
+ "name": "Synchronized Multimedia for Publications Community Group",
+ "is_closed": false,
+ "description": "This community group's goal is to propose a way to synchronize audio or video with Web Publications and other document formats being developed by the Publishing Working Group, in order to make the publications accessible to people with different types of reading requirements. The CG may recommend the best way to integrate an existing technology, or it may provide an outline for developing a new format.",
+ "shortname": "sync-media-pub",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sync-media-pub"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/sync-media-pub/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sync-media-pub/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sync-media-pub/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sync-media-pub/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sync-media-pub/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sync-media-pub/participations"
+  }
+ },
+ "identifier": "cg/sync-media-pub"
+}
