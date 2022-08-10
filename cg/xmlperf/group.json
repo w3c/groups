@@ -1,1 +1,33 @@
-{"id":47953,"name":"XML Performance Community Group","is_closed":false,"description":"The Mission of the XML Performance Community Group is to determine the requirements, use cases to get performance measurements of the whole XML technology stack.\r\nOne of the goal is to be able to understand how XML (versus other technologies) could be used as ground to make efficient processing and identifies bottlenecks and features of this XML stack. One later goal will be to compare XML implementations among them. To do so, we might give hint on defining Efficient Profiles of existing Specifications.","shortname":"xmlperf","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/xmlperf"},"homepage":{"href":"https://www.w3.org/community/xmlperf/"},"users":{"href":"https://api.w3.org/groups/cg/xmlperf/users"},"services":{"href":"https://api.w3.org/groups/cg/xmlperf/services"},"chairs":{"href":"https://api.w3.org/groups/cg/xmlperf/chairs"},"join":{"href":"https://www.w3.org/community/xmlperf/join"},"participations":{"href":"https://api.w3.org/groups/cg/xmlperf/participations"}},"identifier":"cg/xmlperf"}
+{
+ "id": 47953,
+ "name": "XML Performance Community Group",
+ "is_closed": false,
+ "description": "The Mission of the XML Performance Community Group is to determine the requirements, use cases to get performance measurements of the whole XML technology stack.\r\nOne of the goal is to be able to understand how XML (versus other technologies) could be used as ground to make efficient processing and identifies bottlenecks and features of this XML stack. One later goal will be to compare XML implementations among them. To do so, we might give hint on defining Efficient Profiles of existing Specifications.",
+ "shortname": "xmlperf",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xmlperf"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/xmlperf/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/xmlperf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/xmlperf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/xmlperf/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/xmlperf/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/xmlperf/participations"
+  }
+ },
+ "identifier": "cg/xmlperf"
+}
