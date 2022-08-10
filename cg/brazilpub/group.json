@@ -1,1 +1,33 @@
-{"id":100555,"name":"Brazilian Publishing Community Group","is_closed":false,"description":"The purpose of the Brazilian’s community group is to promote and foster  the discussions around digital publications in Brazil, stimulate the adoption of the EPUB 3.1 standard by publishers and developers.\r\n\r\nThe local group will translate W3C documents, guidelines and specifications to minimize barriers with the non-native language and help in the understanding of the standards for a growing number of people. It is also the responsibility of this group, bring questions and pertinent feedback to W3C’s Publishing Working Group.\r\n\r\nThe group will organize regular meetings and events  to mobilize more and more participants in local debates and also as a way to stimulate the EPUB 3.1 adoption by the Brazilian publishing industry.\r\n\r\nThis group will not publish original Specifications.","shortname":"brazilpub","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/brazilpub"},"homepage":{"href":"https://www.w3.org/community/brazilpub/"},"users":{"href":"https://api.w3.org/groups/cg/brazilpub/users"},"services":{"href":"https://api.w3.org/groups/cg/brazilpub/services"},"chairs":{"href":"https://api.w3.org/groups/cg/brazilpub/chairs"},"join":{"href":"https://www.w3.org/community/brazilpub/join"},"participations":{"href":"https://api.w3.org/groups/cg/brazilpub/participations"}},"identifier":"cg/brazilpub"}
+{
+ "id": 100555,
+ "name": "Brazilian Publishing Community Group",
+ "is_closed": false,
+ "description": "The purpose of the Brazilian’s community group is to promote and foster  the discussions around digital publications in Brazil, stimulate the adoption of the EPUB 3.1 standard by publishers and developers.\r\n\r\nThe local group will translate W3C documents, guidelines and specifications to minimize barriers with the non-native language and help in the understanding of the standards for a growing number of people. It is also the responsibility of this group, bring questions and pertinent feedback to W3C’s Publishing Working Group.\r\n\r\nThe group will organize regular meetings and events  to mobilize more and more participants in local debates and also as a way to stimulate the EPUB 3.1 adoption by the Brazilian publishing industry.\r\n\r\nThis group will not publish original Specifications.",
+ "shortname": "brazilpub",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/brazilpub"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/brazilpub/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/brazilpub/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/brazilpub/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/brazilpub/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/brazilpub/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/brazilpub/participations"
+  }
+ },
+ "identifier": "cg/brazilpub"
+}
