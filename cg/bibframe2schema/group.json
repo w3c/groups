@@ -1,1 +1,33 @@
-{"id":111423,"name":"Bibframe2Schema.org Community Group","is_closed":false,"description":"The objective of the community group is: to facilitate a consensually agreed route for the conversion and/or mapping of bibliographic data into Schema.org; building on the development, initiated by the Library of Congress, of the BIBFRAME 2.0 Linked Data vocabulary; utilising the specifications of BIBFRAME 2.0 as a stable base to develop upon. \r\n\r\nThe initial objectives of the community are:\r\n1. The creation of a reference metadata mapping from BIBFRAME 2.0 to Schema.org.\r\n2. To facilitate agreed development and open sharing of reference software implementation(s) to:\r\nEnrich BIBFRAME data with Schema.org Terms and/or\r\nCreate Schema.org terms from BIBFRAME 2.0 data.","shortname":"bibframe2schema","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bibframe2schema"},"homepage":{"href":"https://www.w3.org/community/bibframe2schema/"},"users":{"href":"https://api.w3.org/groups/cg/bibframe2schema/users"},"services":{"href":"https://api.w3.org/groups/cg/bibframe2schema/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bibframe2schema/chairs"},"join":{"href":"https://www.w3.org/community/bibframe2schema/join"},"participations":{"href":"https://api.w3.org/groups/cg/bibframe2schema/participations"}},"identifier":"cg/bibframe2schema"}
+{
+ "id": 111423,
+ "name": "Bibframe2Schema.org Community Group",
+ "is_closed": false,
+ "description": "The objective of the community group is: to facilitate a consensually agreed route for the conversion and/or mapping of bibliographic data into Schema.org; building on the development, initiated by the Library of Congress, of the BIBFRAME 2.0 Linked Data vocabulary; utilising the specifications of BIBFRAME 2.0 as a stable base to develop upon. \r\n\r\nThe initial objectives of the community are:\r\n1. The creation of a reference metadata mapping from BIBFRAME 2.0 to Schema.org.\r\n2. To facilitate agreed development and open sharing of reference software implementation(s) to:\r\nEnrich BIBFRAME data with Schema.org Terms and/or\r\nCreate Schema.org terms from BIBFRAME 2.0 data.",
+ "shortname": "bibframe2schema",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bibframe2schema"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bibframe2schema/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bibframe2schema/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bibframe2schema/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bibframe2schema/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bibframe2schema/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bibframe2schema/participations"
+  }
+ },
+ "identifier": "cg/bibframe2schema"
+}
