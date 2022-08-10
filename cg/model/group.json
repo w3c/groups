@@ -1,1 +1,33 @@
-{"id":63549,"name":"Algorithmic Modelling Community Group","is_closed":false,"description":"The mission of this group is to propose foundational specifications relating to \"algorithmic modelling\": a \"model\", in this context, being a description of the composition and relative dynamic behaviour of the  sub-parts of a system, as exemplified by the Object Management Group's Model Driven Architecture.  The output of this group may then act as a reference point for groups requiring the use of specific types of models, conceptual and computational being two such.","shortname":"model","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/model"},"homepage":{"href":"https://www.w3.org/community/model/"},"users":{"href":"https://api.w3.org/groups/cg/model/users"},"services":{"href":"https://api.w3.org/groups/cg/model/services"},"chairs":{"href":"https://api.w3.org/groups/cg/model/chairs"},"join":{"href":"https://www.w3.org/community/model/join"},"participations":{"href":"https://api.w3.org/groups/cg/model/participations"}},"identifier":"cg/model"}
+{
+ "id": 63549,
+ "name": "Algorithmic Modelling Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to propose foundational specifications relating to \"algorithmic modelling\": a \"model\", in this context, being a description of the composition and relative dynamic behaviour of the  sub-parts of a system, as exemplified by the Object Management Group's Model Driven Architecture.  The output of this group may then act as a reference point for groups requiring the use of specific types of models, conceptual and computational being two such.",
+ "shortname": "model",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/model"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/model/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/model/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/model/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/model/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/model/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/model/participations"
+  }
+ },
+ "identifier": "cg/model"
+}
