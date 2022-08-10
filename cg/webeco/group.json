@@ -1,1 +1,33 @@
-{"id":130130,"name":"Web Ecology Community Group","is_closed":false,"description":"<p>The purpose of this group should be to discuss anything that could enhance the web and reduce its impact on environment. Discussion could be about, for example:</p>\r\n\r\n<ul>\r\n<li>Improving efficiency of apis</li>\r\n<li>Reducing data consumption</li>\r\n<li>Upgrading apis to make them less greedy in energy</li>\r\n</ul>\r\n\r\n<p>Millions of kilowatts are wasted in the world each year because of various reasons, such as:</p>\r\n\r\n<ul>\r\n<li>Bad algorithms</li>\r\n<li>Data storing (ex : spams)</li>\r\n<li>Wrong processes</li>\r\n</ul>\r\n\r\n<p>Any idea that could make the web more respectful for environment is welcome to this group.</p>","shortname":"webeco","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webeco"},"homepage":{"href":"https://www.w3.org/community/webeco/"},"users":{"href":"https://api.w3.org/groups/cg/webeco/users"},"services":{"href":"https://api.w3.org/groups/cg/webeco/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webeco/chairs"},"join":{"href":"https://www.w3.org/community/webeco/join"},"participations":{"href":"https://api.w3.org/groups/cg/webeco/participations"}},"identifier":"cg/webeco"}
+{
+ "id": 130130,
+ "name": "Web Ecology Community Group",
+ "is_closed": false,
+ "description": "<p>The purpose of this group should be to discuss anything that could enhance the web and reduce its impact on environment. Discussion could be about, for example:</p>\r\n\r\n<ul>\r\n<li>Improving efficiency of apis</li>\r\n<li>Reducing data consumption</li>\r\n<li>Upgrading apis to make them less greedy in energy</li>\r\n</ul>\r\n\r\n<p>Millions of kilowatts are wasted in the world each year because of various reasons, such as:</p>\r\n\r\n<ul>\r\n<li>Bad algorithms</li>\r\n<li>Data storing (ex : spams)</li>\r\n<li>Wrong processes</li>\r\n</ul>\r\n\r\n<p>Any idea that could make the web more respectful for environment is welcome to this group.</p>",
+ "shortname": "webeco",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webeco"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webeco/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webeco/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webeco/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webeco/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webeco/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webeco/participations"
+  }
+ },
+ "identifier": "cg/webeco"
+}
