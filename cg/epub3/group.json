@@ -1,1 +1,33 @@
-{"id":96810,"name":"EPUB 3 Community Group","is_closed":false,"description":"The EPUB 3 Community Group is a forum for ongoing technical development of EPUB 3 and related extension specifications and ancillary deliverables.\r\nThe <a rel=\"nofollow\" href=\"http://www.w3.org/2017/02/EPUB3CGcharter\">EPUB 3 Community Group charter</a> contains full details.\r\n","shortname":"epub3","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/epub3"},"homepage":{"href":"https://www.w3.org/community/epub3/"},"users":{"href":"https://api.w3.org/groups/cg/epub3/users"},"services":{"href":"https://api.w3.org/groups/cg/epub3/services"},"chairs":{"href":"https://api.w3.org/groups/cg/epub3/chairs"},"join":{"href":"https://www.w3.org/community/epub3/join"},"participations":{"href":"https://api.w3.org/groups/cg/epub3/participations"}},"identifier":"cg/epub3"}
+{
+ "id": 96810,
+ "name": "EPUB 3 Community Group",
+ "is_closed": false,
+ "description": "The EPUB 3 Community Group is a forum for ongoing technical development of EPUB 3 and related extension specifications and ancillary deliverables.\r\nThe <a rel=\"nofollow\" href=\"http://www.w3.org/2017/02/EPUB3CGcharter\">EPUB 3 Community Group charter</a> contains full details.\r\n",
+ "shortname": "epub3",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/epub3"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/epub3/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/epub3/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/epub3/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/epub3/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/epub3/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/epub3/participations"
+  }
+ },
+ "identifier": "cg/epub3"
+}
