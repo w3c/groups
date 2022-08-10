@@ -10567,6 +10567,28 @@
   }
  },
  {
+  "name": "permissions-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/permissions-registry/",
+  "description": "Registry of known powerful features in the web platform.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "contacts": [
+    "samuelweiler",
+    "wseltzer",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "registry"
+   ]
+  }
+ },
+ {
   "name": "picture-in-picture",
   "owner": {
    "login": "w3c"
