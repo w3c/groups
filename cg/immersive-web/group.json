@@ -1,1 +1,33 @@
-{"id":87846,"name":"Immersive Web Community Group","is_closed":false,"description":"Our goal is to help bring high-performance Virtual Reality and Augmented Reality to the open Web.","shortname":"immersive-web","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/immersive-web"},"homepage":{"href":"https://www.w3.org/community/immersive-web/"},"users":{"href":"https://api.w3.org/groups/cg/immersive-web/users"},"services":{"href":"https://api.w3.org/groups/cg/immersive-web/services"},"chairs":{"href":"https://api.w3.org/groups/cg/immersive-web/chairs"},"join":{"href":"https://www.w3.org/community/immersive-web/join"},"participations":{"href":"https://api.w3.org/groups/cg/immersive-web/participations"}},"identifier":"cg/immersive-web"}
+{
+ "id": 87846,
+ "name": "Immersive Web Community Group",
+ "is_closed": false,
+ "description": "Our goal is to help bring high-performance Virtual Reality and Augmented Reality to the open Web.",
+ "shortname": "immersive-web",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/immersive-web"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/immersive-web/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/immersive-web/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/immersive-web/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/immersive-web/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/immersive-web/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/immersive-web/participations"
+  }
+ },
+ "identifier": "cg/immersive-web"
+}
