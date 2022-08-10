@@ -1,1 +1,33 @@
-{"id":68482,"name":"Semantic Statistics Community Group","is_closed":false,"description":"This community group aims to be a forum for the statistics community and the Linked Data community to examine issues arising from applying semantic technologies in the statistical production process and to report on best practises in the use of statistics on the Web of data. In particular the group will discuss use cases of the application of the Data Cube vocabulary in the production of official statistics and establish if there is a need for more standardisation of vocabularies to ensure comparability of statistics data on the Web of Data.\r\n\r\nPotential participants in this group are members of official statistics agencies and other government bodies that produce data (e.g. administrative, geospatial, government funded research results), statisticians, researchers and anyone in the Web of Data community who is interested in the publication of statistical data that can lead to statistical analysis of the maximum rigour.\r\n\r\nThe group will coordinate as appropriate with the Government Linked Data WG and other relevant groups within the W3C Data Activity Coordination Group.\r\n\r\nThis group will not publish specifications.","shortname":"semstats","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/semstats"},"homepage":{"href":"https://www.w3.org/community/semstats/"},"users":{"href":"https://api.w3.org/groups/cg/semstats/users"},"services":{"href":"https://api.w3.org/groups/cg/semstats/services"},"chairs":{"href":"https://api.w3.org/groups/cg/semstats/chairs"},"join":{"href":"https://www.w3.org/community/semstats/join"},"participations":{"href":"https://api.w3.org/groups/cg/semstats/participations"}},"identifier":"cg/semstats"}
+{
+ "id": 68482,
+ "name": "Semantic Statistics Community Group",
+ "is_closed": false,
+ "description": "This community group aims to be a forum for the statistics community and the Linked Data community to examine issues arising from applying semantic technologies in the statistical production process and to report on best practises in the use of statistics on the Web of data. In particular the group will discuss use cases of the application of the Data Cube vocabulary in the production of official statistics and establish if there is a need for more standardisation of vocabularies to ensure comparability of statistics data on the Web of Data.\r\n\r\nPotential participants in this group are members of official statistics agencies and other government bodies that produce data (e.g. administrative, geospatial, government funded research results), statisticians, researchers and anyone in the Web of Data community who is interested in the publication of statistical data that can lead to statistical analysis of the maximum rigour.\r\n\r\nThe group will coordinate as appropriate with the Government Linked Data WG and other relevant groups within the W3C Data Activity Coordination Group.\r\n\r\nThis group will not publish specifications.",
+ "shortname": "semstats",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semstats"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/semstats/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/semstats/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/semstats/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/semstats/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/semstats/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/semstats/participations"
+  }
+ },
+ "identifier": "cg/semstats"
+}
