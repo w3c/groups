@@ -1,1 +1,33 @@
-{"id":89635,"name":"Hardware Based Secure Services Community Group","is_closed":false,"description":"Hardware token are offering secure services in the field of cryptographic operation, citizen identity and payment to native applications. This community group will analyze use cases where browser (and web application developers) could benefit from those secure services. The expected deliverables of this community group are (1) documented use cases, (2) technical requirements for implementing those secure services in user agents, (3) draft APIs, (4) group charter - integrating suggested improvements received during the W3C Hardware Security WG charter proposal review. \r\nNote : by hardware tokens, we mean technologies such as secure chips or secure elements, trusted execution environment, TPM....","shortname":"hb-secure-services","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/hb-secure-services"},"homepage":{"href":"https://www.w3.org/community/hb-secure-services/"},"users":{"href":"https://api.w3.org/groups/cg/hb-secure-services/users"},"services":{"href":"https://api.w3.org/groups/cg/hb-secure-services/services"},"chairs":{"href":"https://api.w3.org/groups/cg/hb-secure-services/chairs"},"join":{"href":"https://www.w3.org/community/hb-secure-services/join"},"participations":{"href":"https://api.w3.org/groups/cg/hb-secure-services/participations"}},"identifier":"cg/hb-secure-services"}
+{
+ "id": 89635,
+ "name": "Hardware Based Secure Services Community Group",
+ "is_closed": false,
+ "description": "Hardware token are offering secure services in the field of cryptographic operation, citizen identity and payment to native applications. This community group will analyze use cases where browser (and web application developers) could benefit from those secure services. The expected deliverables of this community group are (1) documented use cases, (2) technical requirements for implementing those secure services in user agents, (3) draft APIs, (4) group charter - integrating suggested improvements received during the W3C Hardware Security WG charter proposal review. \r\nNote : by hardware tokens, we mean technologies such as secure chips or secure elements, trusted execution environment, TPM....",
+ "shortname": "hb-secure-services",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/hb-secure-services"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/hb-secure-services/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/hb-secure-services/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/hb-secure-services/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/hb-secure-services/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/hb-secure-services/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/hb-secure-services/participations"
+  }
+ },
+ "identifier": "cg/hb-secure-services"
+}
