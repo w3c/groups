@@ -1,1 +1,33 @@
-{"id":67216,"name":"Open and Interactive Widgets for STEM Community Group","is_closed":false,"description":"The goal of this group is to create a library of open source JavaScript interactive widgets commonly used in STEM educational resources.  The widgets will conform to WCAG guidelines and will provide interfaces to various educational technology APIs, such as Tin Can.  Examples of commonly used widgets are interactive number lines used in assessments and EPUB 3 eTextbooks, physics simulations, interactive software code editors or graphing calculators that support sonification.","shortname":"stemwidgets","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/stemwidgets"},"homepage":{"href":"https://www.w3.org/community/stemwidgets/"},"users":{"href":"https://api.w3.org/groups/cg/stemwidgets/users"},"services":{"href":"https://api.w3.org/groups/cg/stemwidgets/services"},"chairs":{"href":"https://api.w3.org/groups/cg/stemwidgets/chairs"},"join":{"href":"https://www.w3.org/community/stemwidgets/join"},"participations":{"href":"https://api.w3.org/groups/cg/stemwidgets/participations"}},"identifier":"cg/stemwidgets"}
+{
+ "id": 67216,
+ "name": "Open and Interactive Widgets for STEM Community Group",
+ "is_closed": false,
+ "description": "The goal of this group is to create a library of open source JavaScript interactive widgets commonly used in STEM educational resources.  The widgets will conform to WCAG guidelines and will provide interfaces to various educational technology APIs, such as Tin Can.  Examples of commonly used widgets are interactive number lines used in assessments and EPUB 3 eTextbooks, physics simulations, interactive software code editors or graphing calculators that support sonification.",
+ "shortname": "stemwidgets",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/stemwidgets"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/stemwidgets/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/stemwidgets/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/stemwidgets/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/stemwidgets/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/stemwidgets/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/stemwidgets/participations"
+  }
+ },
+ "identifier": "cg/stemwidgets"
+}
