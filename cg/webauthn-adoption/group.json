@@ -1,1 +1,33 @@
-{"id":122873,"name":"WebAuthn Adoption Community Group","is_closed":false,"description":"This group helps coordinate research and actions to help with broader adoption of the Web Authentication ecosystem.\r\n\r\nGroup participants will contribute to identifying the obstacles that slow down adoption of WebAuthn - these obstacles may be e.g. technical, business-related, linked to communication or training.\r\n\r\nBased on this analysis, the group participants will work together in addressing these challenges.\r\n\r\nThis group will not produce specifications.","shortname":"webauthn-adoption","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webauthn-adoption"},"homepage":{"href":"https://www.w3.org/community/webauthn-adoption/"},"users":{"href":"https://api.w3.org/groups/cg/webauthn-adoption/users"},"services":{"href":"https://api.w3.org/groups/cg/webauthn-adoption/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webauthn-adoption/chairs"},"join":{"href":"https://www.w3.org/community/webauthn-adoption/join"},"participations":{"href":"https://api.w3.org/groups/cg/webauthn-adoption/participations"}},"identifier":"cg/webauthn-adoption"}
+{
+ "id": 122873,
+ "name": "WebAuthn Adoption Community Group",
+ "is_closed": false,
+ "description": "This group helps coordinate research and actions to help with broader adoption of the Web Authentication ecosystem.\r\n\r\nGroup participants will contribute to identifying the obstacles that slow down adoption of WebAuthn - these obstacles may be e.g. technical, business-related, linked to communication or training.\r\n\r\nBased on this analysis, the group participants will work together in addressing these challenges.\r\n\r\nThis group will not produce specifications.",
+ "shortname": "webauthn-adoption",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webauthn-adoption"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webauthn-adoption/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webauthn-adoption/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webauthn-adoption/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webauthn-adoption/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webauthn-adoption/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webauthn-adoption/participations"
+  }
+ },
+ "identifier": "cg/webauthn-adoption"
+}
