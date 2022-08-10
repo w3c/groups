@@ -1,1 +1,33 @@
-{"id":83380,"name":"Interledger Payments Community Group","is_closed":false,"description":"The primary goal of the Interledger Payments Community Group is connecting the many payment networks (ledgers) around the world via the Web. The group's vision is an open, universal payment scheme built on Web standards that allows any payer to pay any payee regardless of the payer’s choice of payment instrument or the payee’s account.","shortname":"interledger","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/interledger"},"homepage":{"href":"https://www.w3.org/community/interledger/"},"users":{"href":"https://api.w3.org/groups/cg/interledger/users"},"services":{"href":"https://api.w3.org/groups/cg/interledger/services"},"chairs":{"href":"https://api.w3.org/groups/cg/interledger/chairs"},"join":{"href":"https://www.w3.org/community/interledger/join"},"participations":{"href":"https://api.w3.org/groups/cg/interledger/participations"}},"identifier":"cg/interledger"}
+{
+ "id": 83380,
+ "name": "Interledger Payments Community Group",
+ "is_closed": false,
+ "description": "The primary goal of the Interledger Payments Community Group is connecting the many payment networks (ledgers) around the world via the Web. The group's vision is an open, universal payment scheme built on Web standards that allows any payer to pay any payee regardless of the payer’s choice of payment instrument or the payee’s account.",
+ "shortname": "interledger",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/interledger"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/interledger/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/interledger/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/interledger/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/interledger/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/interledger/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/interledger/participations"
+  }
+ },
+ "identifier": "cg/interledger"
+}
