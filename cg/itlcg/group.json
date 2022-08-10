@@ -1,1 +1,33 @@
-{"id":109182,"name":"Interlinear Text Layout Community Group","is_closed":false,"description":"The mission of the Interlinear Text Layout Community Group is to: (1) Document use cases and requirements for interlinear text practices. (2) Develop models for the representation of interlinear text. (3) Develop recommendations for other communities  working on standards that could support interlinear text presentation requirements (e.g. HTML, CSS, etc.).\r\n\r\nThe Interlinear Text Layout Community Group aims to serve a broad range of users engaging in manuscript digitization activities, linguistic annotation, multilingual annotation and related where representing interlinear text in web, ebook and related formats is either limited or not currently possible.","shortname":"itlcg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/itlcg"},"homepage":{"href":"https://www.w3.org/community/itlcg/"},"users":{"href":"https://api.w3.org/groups/cg/itlcg/users"},"services":{"href":"https://api.w3.org/groups/cg/itlcg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/itlcg/chairs"},"join":{"href":"https://www.w3.org/community/itlcg/join"},"participations":{"href":"https://api.w3.org/groups/cg/itlcg/participations"}},"identifier":"cg/itlcg"}
+{
+ "id": 109182,
+ "name": "Interlinear Text Layout Community Group",
+ "is_closed": false,
+ "description": "The mission of the Interlinear Text Layout Community Group is to: (1) Document use cases and requirements for interlinear text practices. (2) Develop models for the representation of interlinear text. (3) Develop recommendations for other communities  working on standards that could support interlinear text presentation requirements (e.g. HTML, CSS, etc.).\r\n\r\nThe Interlinear Text Layout Community Group aims to serve a broad range of users engaging in manuscript digitization activities, linguistic annotation, multilingual annotation and related where representing interlinear text in web, ebook and related formats is either limited or not currently possible.",
+ "shortname": "itlcg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/itlcg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/itlcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/itlcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/itlcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/itlcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/itlcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/itlcg/participations"
+  }
+ },
+ "identifier": "cg/itlcg"
+}
