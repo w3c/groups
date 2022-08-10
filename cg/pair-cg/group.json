@@ -1,1 +1,33 @@
-{"id":125912,"name":"Performing Arts Information Representation Community Group","is_closed":false,"description":"Performing Arts Information Representation (PAIR) is a community group dedicated to advancing the use of shared conceptual models for better data interoperability in the performing arts domain. This domain stands to gain tremendous benefit from using Semantic Web technologies as it relies on the interoperability of information across many fields such as event publishing and discovery, digital archiving, and research (to name a few).  \r\n\r\nThe group’s mission is to support the development and use of semantic vocabularies and common representational frameworks to ensure the meaningful sharing and aggregation of information related to the performing arts. \r\n\r\nThis Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements while bringing together key stakeholders. The group will act as an advocate for representational standardization in the performing arts sector. \r\n\r\nPAIR will strive to develop mutually beneficial collaborations with groups and organizations that are actively working on relevant standards and/or implementations. In particular, the group will work to develop extensions to existing representational standards such as Schema.org and Wikidata so that Performing Arts information can be better understood by search engines and other web applications. \r\n\r\nWhile designing, maintaining and revising vocabularies and foundational specifications for the performing arts, the group will make efforts to involve the performing arts community at large through solicitation of requests, comments and suggestions from non PAIR members. This may take the form of symposiums, workshops, events or community curated open resources. \r\n","shortname":"pair-cg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/pair-cg"},"homepage":{"href":"https://www.w3.org/community/pair-cg/"},"users":{"href":"https://api.w3.org/groups/cg/pair-cg/users"},"services":{"href":"https://api.w3.org/groups/cg/pair-cg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/pair-cg/chairs"},"join":{"href":"https://www.w3.org/community/pair-cg/join"},"participations":{"href":"https://api.w3.org/groups/cg/pair-cg/participations"}},"identifier":"cg/pair-cg"}
+{
+ "id": 125912,
+ "name": "Performing Arts Information Representation Community Group",
+ "is_closed": false,
+ "description": "Performing Arts Information Representation (PAIR) is a community group dedicated to advancing the use of shared conceptual models for better data interoperability in the performing arts domain. This domain stands to gain tremendous benefit from using Semantic Web technologies as it relies on the interoperability of information across many fields such as event publishing and discovery, digital archiving, and research (to name a few).  \r\n\r\nThe group’s mission is to support the development and use of semantic vocabularies and common representational frameworks to ensure the meaningful sharing and aggregation of information related to the performing arts. \r\n\r\nThis Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements while bringing together key stakeholders. The group will act as an advocate for representational standardization in the performing arts sector. \r\n\r\nPAIR will strive to develop mutually beneficial collaborations with groups and organizations that are actively working on relevant standards and/or implementations. In particular, the group will work to develop extensions to existing representational standards such as Schema.org and Wikidata so that Performing Arts information can be better understood by search engines and other web applications. \r\n\r\nWhile designing, maintaining and revising vocabularies and foundational specifications for the performing arts, the group will make efforts to involve the performing arts community at large through solicitation of requests, comments and suggestions from non PAIR members. This may take the form of symposiums, workshops, events or community curated open resources. \r\n",
+ "shortname": "pair-cg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/pair-cg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/pair-cg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/pair-cg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/pair-cg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/pair-cg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/pair-cg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/pair-cg/participations"
+  }
+ },
+ "identifier": "cg/pair-cg"
+}
