@@ -1,1 +1,33 @@
-{"id":113314,"name":"Conversational Interfaces Community Group","is_closed":false,"description":"The mission of the Conversational Interfaces Community Group is to enable web developers to collaborate and share conversational experiences for a variety of domains. Most dialogue systems serve interactive experiences in their own domain specific language, causing a fragmented zoo of proprietary formats. For example, Google Home or Alexa do not share a common intermediate representation, which makes writing wide-spread content inaccessible to the mass audience. We study existing specs and design  standards to harness proven techniques into common agreement. See the <a href=\"https://conversational-interfaces.github.io/charter/\" rel=\"nofollow\">the Community Group's charter</a>.","shortname":"conv","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/conv"},"homepage":{"href":"https://www.w3.org/community/conv/"},"users":{"href":"https://api.w3.org/groups/cg/conv/users"},"services":{"href":"https://api.w3.org/groups/cg/conv/services"},"chairs":{"href":"https://api.w3.org/groups/cg/conv/chairs"},"join":{"href":"https://www.w3.org/community/conv/join"},"participations":{"href":"https://api.w3.org/groups/cg/conv/participations"}},"identifier":"cg/conv"}
+{
+ "id": 113314,
+ "name": "Conversational Interfaces Community Group",
+ "is_closed": false,
+ "description": "The mission of the Conversational Interfaces Community Group is to enable web developers to collaborate and share conversational experiences for a variety of domains. Most dialogue systems serve interactive experiences in their own domain specific language, causing a fragmented zoo of proprietary formats. For example, Google Home or Alexa do not share a common intermediate representation, which makes writing wide-spread content inaccessible to the mass audience. We study existing specs and design  standards to harness proven techniques into common agreement. See the <a href=\"https://conversational-interfaces.github.io/charter/\" rel=\"nofollow\">the Community Group's charter</a>.",
+ "shortname": "conv",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/conv"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/conv/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/conv/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/conv/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/conv/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/conv/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/conv/participations"
+  }
+ },
+ "identifier": "cg/conv"
+}
