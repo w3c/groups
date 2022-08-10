@@ -1,1 +1,33 @@
-{"id":126817,"name":"Product Tracing & Blockchain Community Group","is_closed":false,"description":"WEB OF PRODUCT TRACEABILITY\r\n\r\nThis is the landing page for Web of Product Traceability Community Group.\r\nIn the modern commercial society, product traceability is an important technical system to support the business credit of enterprises.Product traceability is also widely used in product quality supervision, modern logistics, financing Mortgage, commercial consumption and other fields. Therefore, many countries and organizations attach great importance to the development of Traceability Technology. Many independent traceability systems have been built by different countries and organizations. Uniform standards will help to improve the interconnection between them. With the development of technology, two-dimensional code has gradually replaced the commodity bar code, and the data contained in the RFID tag can reach 64K bytes, or even more.The article code based on URL is compatible with traditional GS. 1 commodity code and other coding systems.Therefore, an open product traceability network can be established from bottom to top based on WWW technology. Master data, transaction data and event data can be described by XML / JSON technology. Technologies such as Internet of things and blockchain will also play an important role in the network.The web of product traceability community is aims to build an open traceability network that can run on the public Internet.The original closed traceback network will not disappear, they can access to the open network as an autonomous domain.In the field of product traceability, there are also problems of data mining and information security. The community is aims to build various application models and interfaces to mine the value of traceability data.In order to ensure that the traceability data is not leaked, the community also needs to formulate corresponding information security standards to strictly control the access rights of traceability data.\r\nThis will be a very promising and exciting work. We expect more enterprises and experts to join in and build an open traceability network.\r\n","shortname":"ptbcg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/ptbcg"},"homepage":{"href":"https://www.w3.org/community/ptbcg/"},"users":{"href":"https://api.w3.org/groups/cg/ptbcg/users"},"services":{"href":"https://api.w3.org/groups/cg/ptbcg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/ptbcg/chairs"},"join":{"href":"https://www.w3.org/community/ptbcg/join"},"participations":{"href":"https://api.w3.org/groups/cg/ptbcg/participations"}},"identifier":"cg/ptbcg"}
+{
+ "id": 126817,
+ "name": "Product Tracing & Blockchain Community Group",
+ "is_closed": false,
+ "description": "WEB OF PRODUCT TRACEABILITY\r\n\r\nThis is the landing page for Web of Product Traceability Community Group.\r\nIn the modern commercial society, product traceability is an important technical system to support the business credit of enterprises.Product traceability is also widely used in product quality supervision, modern logistics, financing Mortgage, commercial consumption and other fields. Therefore, many countries and organizations attach great importance to the development of Traceability Technology. Many independent traceability systems have been built by different countries and organizations. Uniform standards will help to improve the interconnection between them. With the development of technology, two-dimensional code has gradually replaced the commodity bar code, and the data contained in the RFID tag can reach 64K bytes, or even more.The article code based on URL is compatible with traditional GS. 1 commodity code and other coding systems.Therefore, an open product traceability network can be established from bottom to top based on WWW technology. Master data, transaction data and event data can be described by XML / JSON technology. Technologies such as Internet of things and blockchain will also play an important role in the network.The web of product traceability community is aims to build an open traceability network that can run on the public Internet.The original closed traceback network will not disappear, they can access to the open network as an autonomous domain.In the field of product traceability, there are also problems of data mining and information security. The community is aims to build various application models and interfaces to mine the value of traceability data.In order to ensure that the traceability data is not leaked, the community also needs to formulate corresponding information security standards to strictly control the access rights of traceability data.\r\nThis will be a very promising and exciting work. We expect more enterprises and experts to join in and build an open traceability network.\r\n",
+ "shortname": "ptbcg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ptbcg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/ptbcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ptbcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ptbcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ptbcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ptbcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ptbcg/participations"
+  }
+ },
+ "identifier": "cg/ptbcg"
+}
