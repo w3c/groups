@@ -1,1 +1,33 @@
-{"id":121175,"name":"CSS Print Community Group","is_closed":false,"description":"We are a community of users of CSS print, working together to gather use cases, help with specifications, and advocate for more and better implementations. ","shortname":"cssprint","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/cssprint"},"homepage":{"href":"https://www.w3.org/community/cssprint/"},"users":{"href":"https://api.w3.org/groups/cg/cssprint/users"},"services":{"href":"https://api.w3.org/groups/cg/cssprint/services"},"chairs":{"href":"https://api.w3.org/groups/cg/cssprint/chairs"},"join":{"href":"https://www.w3.org/community/cssprint/join"},"participations":{"href":"https://api.w3.org/groups/cg/cssprint/participations"}},"identifier":"cg/cssprint"}
+{
+ "id": 121175,
+ "name": "CSS Print Community Group",
+ "is_closed": false,
+ "description": "We are a community of users of CSS print, working together to gather use cases, help with specifications, and advocate for more and better implementations. ",
+ "shortname": "cssprint",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cssprint"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/cssprint/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cssprint/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cssprint/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cssprint/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cssprint/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cssprint/participations"
+  }
+ },
+ "identifier": "cg/cssprint"
+}
