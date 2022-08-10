@@ -1,1 +1,33 @@
-{"id":58490,"name":"Web Performance Community Group","is_closed":false,"description":"The goal of the Web Performance is to produce a general guideline to help people who work in the web field increasing their websites' performances. From the server abilities and rapidity to the analysis of the website's code (whatever would the markup language be), we try to help web designers making faster websites.","shortname":"webperfs","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webperfs"},"homepage":{"href":"https://www.w3.org/community/webperfs/"},"users":{"href":"https://api.w3.org/groups/cg/webperfs/users"},"services":{"href":"https://api.w3.org/groups/cg/webperfs/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webperfs/chairs"},"join":{"href":"https://www.w3.org/community/webperfs/join"},"participations":{"href":"https://api.w3.org/groups/cg/webperfs/participations"}},"identifier":"cg/webperfs"}
+{
+ "id": 58490,
+ "name": "Web Performance Community Group",
+ "is_closed": false,
+ "description": "The goal of the Web Performance is to produce a general guideline to help people who work in the web field increasing their websites' performances. From the server abilities and rapidity to the analysis of the website's code (whatever would the markup language be), we try to help web designers making faster websites.",
+ "shortname": "webperfs",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webperfs"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webperfs/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webperfs/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webperfs/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webperfs/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webperfs/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webperfs/participations"
+  }
+ },
+ "identifier": "cg/webperfs"
+}
