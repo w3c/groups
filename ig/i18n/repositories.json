@@ -1,1 +1,179 @@
-[{"name":"amlreq","owner":{"login":"w3c"},"homepageUrl":"","description":"Enabling the Web for languages of the Americas","isArchived":false,"w3cjson":{"group":["ig/i18n","wg/i18n-core"],"contacts":["r12a"],"repo-type":["note"],"policy":"restricted"}},{"name":"hlreq","owner":{"login":"w3c"},"description":"Hebrew script layout requirements","isArchived":false,"w3cjson":{"group":["tf/i18n-hlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}},{"name":"iip","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/iip/","description":"Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.","isArchived":false,"w3cjson":{"group":["tf/i18n-hlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}},{"name":"jlreq","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/jlreq/","description":"Text Layout Requirements for Japanese","isArchived":false,"w3cjson":{"group":["tf/i18n-jlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}},{"name":"jlreq-d","owner":{"login":"w3c"},"description":"Requirements for Japanese Digital Text Layout","isArchived":false,"w3cjson":{"group":["tf/i18n-jlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"]}},{"name":"mlreq","owner":{"login":"w3c"},"description":"Mongolian Layout Requirements","isArchived":false,"w3cjson":{"group":["tf/i18n-mlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}},{"name":"sealreq","owner":{"login":"w3c"},"description":"Southeast Asian layout task force","isArchived":false,"w3cjson":{"group":["tf/i18n-sealreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}},{"name":"tlreq","owner":{"login":"w3c"},"description":"Tibetan Layout Requirements document","isArchived":false,"w3cjson":{"group":["tf/i18n-tlreq","ig/i18n","wg/i18n-core"],"contacts":["rishida"],"repo-type":["note"],"policy":"restricted"}}]
+[
+ {
+  "name": "amlreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Enabling the Web for languages of the Americas",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "r12a"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "hlreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Hebrew script layout requirements",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-hlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "iip",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/iip/",
+  "description": "Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-hlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "jlreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/jlreq/",
+  "description": "Text Layout Requirements for Japanese",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-jlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "jlreq-d",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Requirements for Japanese Digital Text Layout",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-jlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "mlreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Mongolian Layout Requirements",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-mlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "sealreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Southeast Asian layout task force",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-sealreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "tlreq",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Tibetan Layout Requirements document",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "tf/i18n-tlreq",
+    "ig/i18n",
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "restricted"
+  }
+ }
+]
