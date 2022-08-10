@@ -1,1 +1,23 @@
-[{"name":"htmlwg","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/groups/wg/htmlwg","description":"HTML Working Group ","isArchived":false,"w3cjson":{"group":["wg/htmlwg"],"contacts":["siusin"],"policy":"open","repo-type":["homepage"]}}]
+[
+ {
+  "name": "htmlwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/groups/wg/htmlwg",
+  "description": "HTML Working Group ",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/htmlwg"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ }
+]
