@@ -1,1 +1,33 @@
-{"id":76245,"name":"Multi-device Timing Community Group","is_closed":false,"description":"Timing mechanisms allow operations to be executed at the correct time. The Web already has several mechanisms supporting timed operations, including setTimeout and setInterval, as well as controllers for media frameworks and animations. However, the Web lacks support for multi-device timing. A multi-device timing mechanism would allow timed operations across Web pages hosted by different devices. Multi-device timing is particularly important for the broadcasting industry, as it is the key enabler for web-based secondary device offerings. More generally, multi-device timing has wide utility in communication, collaboration and multi-screen presentation. This Community Group aims to define a common, multi-device, timing mechanism and a practical programming model. This will improve the Web as a platform for time-sensitive, multi-device Web applications.\r\n\r\nCharter : http://webtiming.github.io","shortname":"webtiming","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webtiming"},"homepage":{"href":"https://www.w3.org/community/webtiming/"},"users":{"href":"https://api.w3.org/groups/cg/webtiming/users"},"services":{"href":"https://api.w3.org/groups/cg/webtiming/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webtiming/chairs"},"join":{"href":"https://www.w3.org/community/webtiming/join"},"participations":{"href":"https://api.w3.org/groups/cg/webtiming/participations"}},"identifier":"cg/webtiming"}
+{
+ "id": 76245,
+ "name": "Multi-device Timing Community Group",
+ "is_closed": false,
+ "description": "Timing mechanisms allow operations to be executed at the correct time. The Web already has several mechanisms supporting timed operations, including setTimeout and setInterval, as well as controllers for media frameworks and animations. However, the Web lacks support for multi-device timing. A multi-device timing mechanism would allow timed operations across Web pages hosted by different devices. Multi-device timing is particularly important for the broadcasting industry, as it is the key enabler for web-based secondary device offerings. More generally, multi-device timing has wide utility in communication, collaboration and multi-screen presentation. This Community Group aims to define a common, multi-device, timing mechanism and a practical programming model. This will improve the Web as a platform for time-sensitive, multi-device Web applications.\r\n\r\nCharter : http://webtiming.github.io",
+ "shortname": "webtiming",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webtiming"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webtiming/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webtiming/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webtiming/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webtiming/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webtiming/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webtiming/participations"
+  }
+ },
+ "identifier": "cg/webtiming"
+}
