@@ -1,1 +1,33 @@
-{"id":120907,"name":"MFX Media Community Group","is_closed":false,"description":"The exploration and development of media containers that protect and serve the growing needs of the content creator. A media container with global tracking and accountability will ensure the upmost transparency and data management. The world needs a new media file that can meet the modern technological needs.","shortname":"mfxmedia","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/mfxmedia"},"homepage":{"href":"https://www.w3.org/community/mfxmedia/"},"users":{"href":"https://api.w3.org/groups/cg/mfxmedia/users"},"services":{"href":"https://api.w3.org/groups/cg/mfxmedia/services"},"chairs":{"href":"https://api.w3.org/groups/cg/mfxmedia/chairs"},"join":{"href":"https://www.w3.org/community/mfxmedia/join"},"participations":{"href":"https://api.w3.org/groups/cg/mfxmedia/participations"}},"identifier":"cg/mfxmedia"}
+{
+ "id": 120907,
+ "name": "MFX Media Community Group",
+ "is_closed": false,
+ "description": "The exploration and development of media containers that protect and serve the growing needs of the content creator. A media container with global tracking and accountability will ensure the upmost transparency and data management. The world needs a new media file that can meet the modern technological needs.",
+ "shortname": "mfxmedia",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mfxmedia"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/mfxmedia/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mfxmedia/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mfxmedia/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mfxmedia/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mfxmedia/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mfxmedia/participations"
+  }
+ },
+ "identifier": "cg/mfxmedia"
+}
