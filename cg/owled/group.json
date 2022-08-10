@@ -1,1 +1,33 @@
-{"id":55682,"name":"OWL: Experiences and Directions Community Group","is_closed":false,"description":"Everything related to the Web Ontology Language.","shortname":"owled","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/owled"},"homepage":{"href":"https://www.w3.org/community/owled/"},"users":{"href":"https://api.w3.org/groups/cg/owled/users"},"services":{"href":"https://api.w3.org/groups/cg/owled/services"},"chairs":{"href":"https://api.w3.org/groups/cg/owled/chairs"},"join":{"href":"https://www.w3.org/community/owled/join"},"participations":{"href":"https://api.w3.org/groups/cg/owled/participations"}},"identifier":"cg/owled"}
+{
+ "id": 55682,
+ "name": "OWL: Experiences and Directions Community Group",
+ "is_closed": false,
+ "description": "Everything related to the Web Ontology Language.",
+ "shortname": "owled",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/owled"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/owled/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/owled/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/owled/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/owled/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/owled/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/owled/participations"
+  }
+ },
+ "identifier": "cg/owled"
+}
