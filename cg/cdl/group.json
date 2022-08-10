@@ -1,1 +1,33 @@
-{"id":73097,"name":"Character Description Language Community Group","is_closed":false,"description":"This group will develop Character Description Language (CDL), an XML application for stroke-based representation of any CJK character.\r\n\r\nFor more information about this technology, see:\r\n\r\n* Character Description Language (CDL) draft specification: http://www.wenlin.com/cdl/\r\n\r\n* Appendix F: “CJK Strokes Documentation” (Unicode 6.1):\thttp://www.unicode.org/versions/Unicode6.1.0/appF.pdf","shortname":"cdl","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/cdl"},"homepage":{"href":"https://www.w3.org/community/cdl/"},"users":{"href":"https://api.w3.org/groups/cg/cdl/users"},"services":{"href":"https://api.w3.org/groups/cg/cdl/services"},"chairs":{"href":"https://api.w3.org/groups/cg/cdl/chairs"},"join":{"href":"https://www.w3.org/community/cdl/join"},"participations":{"href":"https://api.w3.org/groups/cg/cdl/participations"}},"identifier":"cg/cdl"}
+{
+ "id": 73097,
+ "name": "Character Description Language Community Group",
+ "is_closed": false,
+ "description": "This group will develop Character Description Language (CDL), an XML application for stroke-based representation of any CJK character.\r\n\r\nFor more information about this technology, see:\r\n\r\n* Character Description Language (CDL) draft specification: http://www.wenlin.com/cdl/\r\n\r\n* Appendix F: “CJK Strokes Documentation” (Unicode 6.1):\thttp://www.unicode.org/versions/Unicode6.1.0/appF.pdf",
+ "shortname": "cdl",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cdl"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/cdl/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cdl/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cdl/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cdl/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cdl/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cdl/participations"
+  }
+ },
+ "identifier": "cg/cdl"
+}
