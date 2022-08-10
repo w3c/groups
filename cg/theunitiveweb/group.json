@@ -1,1 +1,33 @@
-{"id":121203,"name":"The Unitive Web Community Group","is_closed":false,"description":"Currently, there is a growing movement from the independence of the web, towards dominant companies. These companies offer organized information, but this comes at a price. We lose our independence more and more. The Unitive Web is a proposal to have both organized information and independence. It offers one generic approach closely compatible with the current web, which makes it possible to create a global open virtual space of information which is responsive and reliable. It offers open customization of user interaction, open bottom-up schema mapping, integration of (AI) algorithms, and facilitates in the protection of privacy.\r\n\r\nThe aim of this group is to discuss any aspect of it and share specifications.\r\n\r\nFor more information, see this <a rel=\"nofollow\" href=\"https://youtu.be/lzXON9Eigtg\">video about Unitive Web</a>.","shortname":"theunitiveweb","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/theunitiveweb"},"homepage":{"href":"https://www.w3.org/community/theunitiveweb/"},"users":{"href":"https://api.w3.org/groups/cg/theunitiveweb/users"},"services":{"href":"https://api.w3.org/groups/cg/theunitiveweb/services"},"chairs":{"href":"https://api.w3.org/groups/cg/theunitiveweb/chairs"},"join":{"href":"https://www.w3.org/community/theunitiveweb/join"},"participations":{"href":"https://api.w3.org/groups/cg/theunitiveweb/participations"}},"identifier":"cg/theunitiveweb"}
+{
+ "id": 121203,
+ "name": "The Unitive Web Community Group",
+ "is_closed": false,
+ "description": "Currently, there is a growing movement from the independence of the web, towards dominant companies. These companies offer organized information, but this comes at a price. We lose our independence more and more. The Unitive Web is a proposal to have both organized information and independence. It offers one generic approach closely compatible with the current web, which makes it possible to create a global open virtual space of information which is responsive and reliable. It offers open customization of user interaction, open bottom-up schema mapping, integration of (AI) algorithms, and facilitates in the protection of privacy.\r\n\r\nThe aim of this group is to discuss any aspect of it and share specifications.\r\n\r\nFor more information, see this <a rel=\"nofollow\" href=\"https://youtu.be/lzXON9Eigtg\">video about Unitive Web</a>.",
+ "shortname": "theunitiveweb",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/theunitiveweb"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/theunitiveweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/theunitiveweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/theunitiveweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/theunitiveweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/theunitiveweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/theunitiveweb/participations"
+  }
+ },
+ "identifier": "cg/theunitiveweb"
+}
