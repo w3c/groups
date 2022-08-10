@@ -1,1 +1,33 @@
-{"id":112462,"name":"Schema Extensions for IoT Community Group","is_closed":false,"description":"This Community Group is for creating extensions to Schema.org for IoT use cases. We have been holding regular community teleconferences since 2017 and now would like to formalize our work and accept contributions from the community. \r\n\r\nA W3C CG is the logical next step in our organization, as we already work with other W3C CG, IG, and WG entities.\r\n\r\nOur original charter is at:\r\nhttps://github.com/iot-schema-collab/ws-charter/blob/master/iotschema-charter.txt\r\n\r\nA revised charter for the CG is at:\r\nhttps://github.com/iot-schema-collab/intro-materials/blob/master/wg-charter.md\r\n\r\n","shortname":"iotschema","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/iotschema"},"homepage":{"href":"https://www.w3.org/community/iotschema/"},"users":{"href":"https://api.w3.org/groups/cg/iotschema/users"},"services":{"href":"https://api.w3.org/groups/cg/iotschema/services"},"chairs":{"href":"https://api.w3.org/groups/cg/iotschema/chairs"},"join":{"href":"https://www.w3.org/community/iotschema/join"},"participations":{"href":"https://api.w3.org/groups/cg/iotschema/participations"}},"identifier":"cg/iotschema"}
+{
+ "id": 112462,
+ "name": "Schema Extensions for IoT Community Group",
+ "is_closed": false,
+ "description": "This Community Group is for creating extensions to Schema.org for IoT use cases. We have been holding regular community teleconferences since 2017 and now would like to formalize our work and accept contributions from the community. \r\n\r\nA W3C CG is the logical next step in our organization, as we already work with other W3C CG, IG, and WG entities.\r\n\r\nOur original charter is at:\r\nhttps://github.com/iot-schema-collab/ws-charter/blob/master/iotschema-charter.txt\r\n\r\nA revised charter for the CG is at:\r\nhttps://github.com/iot-schema-collab/intro-materials/blob/master/wg-charter.md\r\n\r\n",
+ "shortname": "iotschema",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/iotschema"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/iotschema/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/iotschema/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/iotschema/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/iotschema/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/iotschema/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/iotschema/participations"
+  }
+ },
+ "identifier": "cg/iotschema"
+}
