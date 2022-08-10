@@ -1,1 +1,33 @@
-{"id":84066,"name":"Advancing Web Platform Application Testing Community Group","is_closed":false,"description":"This community develops test cases, requirements for testing and using the web platform.\r\n\r\nIt works with existing communities and to enhance them, not replace them.","shortname":"awpat","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/awpat"},"homepage":{"href":"https://www.w3.org/community/awpat/"},"users":{"href":"https://api.w3.org/groups/cg/awpat/users"},"services":{"href":"https://api.w3.org/groups/cg/awpat/services"},"chairs":{"href":"https://api.w3.org/groups/cg/awpat/chairs"},"join":{"href":"https://www.w3.org/community/awpat/join"},"participations":{"href":"https://api.w3.org/groups/cg/awpat/participations"}},"identifier":"cg/awpat"}
+{
+ "id": 84066,
+ "name": "Advancing Web Platform Application Testing Community Group",
+ "is_closed": false,
+ "description": "This community develops test cases, requirements for testing and using the web platform.\r\n\r\nIt works with existing communities and to enhance them, not replace them.",
+ "shortname": "awpat",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/awpat"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/awpat/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/awpat/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/awpat/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/awpat/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/awpat/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/awpat/participations"
+  }
+ },
+ "identifier": "cg/awpat"
+}
