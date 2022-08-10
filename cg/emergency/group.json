@@ -1,1 +1,33 @@
-{"id":61356,"name":"Emergency Information Community Group","is_closed":false,"description":"The aim of the Emergency Information Community Group is to support the development of semantic vocabularies and common frameworks for information interoperability to ensure the meaningful sharing and aggregation of information to assist in emergency, crisis, and humanitarian functions. This Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements, and the development of community specifications to drive future formal standardisation.","shortname":"emergency","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/emergency"},"homepage":{"href":"https://www.w3.org/community/emergency/"},"users":{"href":"https://api.w3.org/groups/cg/emergency/users"},"services":{"href":"https://api.w3.org/groups/cg/emergency/services"},"chairs":{"href":"https://api.w3.org/groups/cg/emergency/chairs"},"join":{"href":"https://www.w3.org/community/emergency/join"},"participations":{"href":"https://api.w3.org/groups/cg/emergency/participations"}},"identifier":"cg/emergency"}
+{
+ "id": 61356,
+ "name": "Emergency Information Community Group",
+ "is_closed": false,
+ "description": "The aim of the Emergency Information Community Group is to support the development of semantic vocabularies and common frameworks for information interoperability to ensure the meaningful sharing and aggregation of information to assist in emergency, crisis, and humanitarian functions. This Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements, and the development of community specifications to drive future formal standardisation.",
+ "shortname": "emergency",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/emergency"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/emergency/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/emergency/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/emergency/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/emergency/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/emergency/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/emergency/participations"
+  }
+ },
+ "identifier": "cg/emergency"
+}
