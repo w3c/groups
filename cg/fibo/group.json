@@ -1,1 +1,33 @@
-{"id":84521,"name":"Financial Industry Business Ontology Community Group","is_closed":false,"description":"The mission of Financial Industry Business Ontology Community Group is to propose, discuss, create and maintain extensions to schema.org related to Financial Industries. ","shortname":"fibo","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/fibo"},"homepage":{"href":"https://www.w3.org/community/fibo/"},"users":{"href":"https://api.w3.org/groups/cg/fibo/users"},"services":{"href":"https://api.w3.org/groups/cg/fibo/services"},"chairs":{"href":"https://api.w3.org/groups/cg/fibo/chairs"},"join":{"href":"https://www.w3.org/community/fibo/join"},"participations":{"href":"https://api.w3.org/groups/cg/fibo/participations"}},"identifier":"cg/fibo"}
+{
+ "id": 84521,
+ "name": "Financial Industry Business Ontology Community Group",
+ "is_closed": false,
+ "description": "The mission of Financial Industry Business Ontology Community Group is to propose, discuss, create and maintain extensions to schema.org related to Financial Industries. ",
+ "shortname": "fibo",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/fibo"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/fibo/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/fibo/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/fibo/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/fibo/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/fibo/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/fibo/participations"
+  }
+ },
+ "identifier": "cg/fibo"
+}
