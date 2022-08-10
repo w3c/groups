@@ -1,1 +1,41 @@
-[{"name":"font-text-cg","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/font-text-cg/","description":"GitHub Pages","isArchived":false,"w3cjson":{"group":["cg/font-text"],"contacts":["svgeesus"],"repo-type":["process"]}},{"name":"font-text-cg-temp","owner":{"login":"w3c"},"description":"GitHub repo for the W3C Font and Text Community Group","isArchived":false,"w3cjson":{"group":["cg/font-text"],"contacts":["svgeesus"],"repo-type":["process"]}}]
+[
+ {
+  "name": "font-text-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/font-text-cg/",
+  "description": "GitHub Pages",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/font-text"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "font-text-cg-temp",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "GitHub repo for the W3C Font and Text Community Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/font-text"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ }
+]
