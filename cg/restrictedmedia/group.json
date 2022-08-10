@@ -1,1 +1,33 @@
-{"id":61868,"name":"Restricted Media Community Group","is_closed":false,"description":"The Restricted Media CG will discuss and analyze methods of restricting access to or use of Web media, and their implementation on the open Web. \r\n\r\nThis group will not publish specifications.","shortname":"restrictedmedia","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/restrictedmedia"},"homepage":{"href":"https://www.w3.org/community/restrictedmedia/"},"users":{"href":"https://api.w3.org/groups/cg/restrictedmedia/users"},"services":{"href":"https://api.w3.org/groups/cg/restrictedmedia/services"},"chairs":{"href":"https://api.w3.org/groups/cg/restrictedmedia/chairs"},"join":{"href":"https://www.w3.org/community/restrictedmedia/join"},"participations":{"href":"https://api.w3.org/groups/cg/restrictedmedia/participations"}},"identifier":"cg/restrictedmedia"}
+{
+ "id": 61868,
+ "name": "Restricted Media Community Group",
+ "is_closed": false,
+ "description": "The Restricted Media CG will discuss and analyze methods of restricting access to or use of Web media, and their implementation on the open Web. \r\n\r\nThis group will not publish specifications.",
+ "shortname": "restrictedmedia",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/restrictedmedia"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/restrictedmedia/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/restrictedmedia/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/restrictedmedia/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/restrictedmedia/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/restrictedmedia/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/restrictedmedia/participations"
+  }
+ },
+ "identifier": "cg/restrictedmedia"
+}
