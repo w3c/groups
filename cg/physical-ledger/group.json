@@ -1,1 +1,33 @@
-{"id":98033,"name":"Physical Ledger Community Group","is_closed":false,"description":"The initial mission of the Physical Ledger community group is to develop a Distributed Ledger Technology (DLT) that allows physical IoT devices to create, disseminate and store transactional data using the web technologies. The group develops a technical specification and produce sample codes.  The ideal members are those who has skills in Web technologies and have interests in the IoT technologies.","shortname":"physical-ledger","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/physical-ledger"},"homepage":{"href":"https://www.w3.org/community/physical-ledger/"},"users":{"href":"https://api.w3.org/groups/cg/physical-ledger/users"},"services":{"href":"https://api.w3.org/groups/cg/physical-ledger/services"},"chairs":{"href":"https://api.w3.org/groups/cg/physical-ledger/chairs"},"join":{"href":"https://www.w3.org/community/physical-ledger/join"},"participations":{"href":"https://api.w3.org/groups/cg/physical-ledger/participations"}},"identifier":"cg/physical-ledger"}
+{
+ "id": 98033,
+ "name": "Physical Ledger Community Group",
+ "is_closed": false,
+ "description": "The initial mission of the Physical Ledger community group is to develop a Distributed Ledger Technology (DLT) that allows physical IoT devices to create, disseminate and store transactional data using the web technologies. The group develops a technical specification and produce sample codes.  The ideal members are those who has skills in Web technologies and have interests in the IoT technologies.",
+ "shortname": "physical-ledger",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/physical-ledger"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/physical-ledger/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/physical-ledger/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/physical-ledger/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/physical-ledger/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/physical-ledger/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/physical-ledger/participations"
+  }
+ },
+ "identifier": "cg/physical-ledger"
+}
