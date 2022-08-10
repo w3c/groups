@@ -1,1 +1,33 @@
-{"id":125720,"name":"3D FOSS Web Development Community Group","is_closed":false,"description":"Our mission is to build and share 3D software that can connect and communicate in free and open ways on AR, VR, and 2D displays.","shortname":"foss-3d","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/foss-3d"},"homepage":{"href":"https://www.w3.org/community/foss-3d/"},"users":{"href":"https://api.w3.org/groups/cg/foss-3d/users"},"services":{"href":"https://api.w3.org/groups/cg/foss-3d/services"},"chairs":{"href":"https://api.w3.org/groups/cg/foss-3d/chairs"},"join":{"href":"https://www.w3.org/community/foss-3d/join"},"participations":{"href":"https://api.w3.org/groups/cg/foss-3d/participations"}},"identifier":"cg/foss-3d"}
+{
+ "id": 125720,
+ "name": "3D FOSS Web Development Community Group",
+ "is_closed": false,
+ "description": "Our mission is to build and share 3D software that can connect and communicate in free and open ways on AR, VR, and 2D displays.",
+ "shortname": "foss-3d",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/foss-3d"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/foss-3d/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/foss-3d/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/foss-3d/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/foss-3d/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/foss-3d/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/foss-3d/participations"
+  }
+ },
+ "identifier": "cg/foss-3d"
+}
