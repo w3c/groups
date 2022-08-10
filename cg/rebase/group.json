@@ -1,1 +1,33 @@
-{"id":127870,"name":"Rebase Community Group","is_closed":false,"description":"The goal of this community group is to establish reliable Public Key Infrastructure on the Internet in a privacy-preserving way by allowing people and organizations to link their various public and semi-public accounts to cryptographic key materials at their own will.","shortname":"rebase","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/rebase"},"homepage":{"href":"https://www.w3.org/community/rebase/"},"users":{"href":"https://api.w3.org/groups/cg/rebase/users"},"services":{"href":"https://api.w3.org/groups/cg/rebase/services"},"chairs":{"href":"https://api.w3.org/groups/cg/rebase/chairs"},"join":{"href":"https://www.w3.org/community/rebase/join"},"participations":{"href":"https://api.w3.org/groups/cg/rebase/participations"}},"identifier":"cg/rebase"}
+{
+ "id": 127870,
+ "name": "Rebase Community Group",
+ "is_closed": false,
+ "description": "The goal of this community group is to establish reliable Public Key Infrastructure on the Internet in a privacy-preserving way by allowing people and organizations to link their various public and semi-public accounts to cryptographic key materials at their own will.",
+ "shortname": "rebase",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rebase"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/rebase/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/rebase/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/rebase/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/rebase/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/rebase/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/rebase/participations"
+  }
+ },
+ "identifier": "cg/rebase"
+}
