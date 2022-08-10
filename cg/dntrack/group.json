@@ -1,1 +1,33 @@
-{"id":50431,"name":"Do-Not-Track Community Group","is_closed":false,"description":"This community group, started by Lee Tien of the Electronic Frontier Foundation, is intended as a companion to the Tracking Protection Working Group with the goal of enabling consumer and privacy groups to participate meaningfully in the WG even if they do not participate in WG conference calls, mailing lists, or in-person workshops.  In the short term, this community group's major goal will be to analyze and respond to the First Public Working Draft, which is expected soon.","shortname":"dntrack","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/dntrack"},"homepage":{"href":"https://www.w3.org/community/dntrack/"},"users":{"href":"https://api.w3.org/groups/cg/dntrack/users"},"services":{"href":"https://api.w3.org/groups/cg/dntrack/services"},"chairs":{"href":"https://api.w3.org/groups/cg/dntrack/chairs"},"join":{"href":"https://www.w3.org/community/dntrack/join"},"participations":{"href":"https://api.w3.org/groups/cg/dntrack/participations"}},"identifier":"cg/dntrack"}
+{
+ "id": 50431,
+ "name": "Do-Not-Track Community Group",
+ "is_closed": false,
+ "description": "This community group, started by Lee Tien of the Electronic Frontier Foundation, is intended as a companion to the Tracking Protection Working Group with the goal of enabling consumer and privacy groups to participate meaningfully in the WG even if they do not participate in WG conference calls, mailing lists, or in-person workshops.  In the short term, this community group's major goal will be to analyze and respond to the First Public Working Draft, which is expected soon.",
+ "shortname": "dntrack",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dntrack"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/dntrack/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/dntrack/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/dntrack/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/dntrack/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/dntrack/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/dntrack/participations"
+  }
+ },
+ "identifier": "cg/dntrack"
+}
