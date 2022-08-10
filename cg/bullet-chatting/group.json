@@ -1,1 +1,33 @@
-{"id":118137,"name":"Bullet Chatting Community Group","is_closed":false,"description":"A community group to incubate work on bullet chatting.","shortname":"bullet-chatting","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/bullet-chatting"},"homepage":{"href":"https://www.w3.org/community/bullet-chatting/"},"users":{"href":"https://api.w3.org/groups/cg/bullet-chatting/users"},"services":{"href":"https://api.w3.org/groups/cg/bullet-chatting/services"},"chairs":{"href":"https://api.w3.org/groups/cg/bullet-chatting/chairs"},"join":{"href":"https://www.w3.org/community/bullet-chatting/join"},"participations":{"href":"https://api.w3.org/groups/cg/bullet-chatting/participations"}},"identifier":"cg/bullet-chatting"}
+{
+ "id": 118137,
+ "name": "Bullet Chatting Community Group",
+ "is_closed": false,
+ "description": "A community group to incubate work on bullet chatting.",
+ "shortname": "bullet-chatting",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bullet-chatting"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/bullet-chatting/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bullet-chatting/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bullet-chatting/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bullet-chatting/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bullet-chatting/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bullet-chatting/participations"
+  }
+ },
+ "identifier": "cg/bullet-chatting"
+}
