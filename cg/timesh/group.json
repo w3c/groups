@@ -1,1 +1,33 @@
-{"id":135900,"name":"Federated Timesheets Community Group","is_closed":false,"description":"Each project has a timesheet system to track billable hours. Workers often spend time manually filling in this data multiple times.\r\n\r\nInstead, we’ll make time tracker apps (locally or on a self-hosted server) expose machine-readable timesheet data through a query endpoint (reader pull) or through a webhook (writer push).\r\n\r\nTimesheet data is relatively simple in terms of data format, data replication only flows in one direction, and there are not too many identities involved in the authentication / authorization of the data source connections.\r\n\r\nThis simplicity makes the “Federated Timesheets” project an ideal case study for Federated Bookkeeping in general. We want to show case how our vision of Federated Bookkeeping can make internet users “connected but sovereign”.","shortname":"timesh","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/timesh"},"homepage":{"href":"https://www.w3.org/community/timesh/"},"users":{"href":"https://api.w3.org/groups/cg/timesh/users"},"services":{"href":"https://api.w3.org/groups/cg/timesh/services"},"chairs":{"href":"https://api.w3.org/groups/cg/timesh/chairs"},"join":{"href":"https://www.w3.org/community/timesh/join"},"participations":{"href":"https://api.w3.org/groups/cg/timesh/participations"}},"identifier":"cg/timesh"}
+{
+ "id": 135900,
+ "name": "Federated Timesheets Community Group",
+ "is_closed": false,
+ "description": "Each project has a timesheet system to track billable hours. Workers often spend time manually filling in this data multiple times.\r\n\r\nInstead, we’ll make time tracker apps (locally or on a self-hosted server) expose machine-readable timesheet data through a query endpoint (reader pull) or through a webhook (writer push).\r\n\r\nTimesheet data is relatively simple in terms of data format, data replication only flows in one direction, and there are not too many identities involved in the authentication / authorization of the data source connections.\r\n\r\nThis simplicity makes the “Federated Timesheets” project an ideal case study for Federated Bookkeeping in general. We want to show case how our vision of Federated Bookkeeping can make internet users “connected but sovereign”.",
+ "shortname": "timesh",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/timesh"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/timesh/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/timesh/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/timesh/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/timesh/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/timesh/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/timesh/participations"
+  }
+ },
+ "identifier": "cg/timesh"
+}
