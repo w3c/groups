@@ -1,1 +1,33 @@
-{"id":84116,"name":"Web Archivability Community Group","is_closed":false,"description":"Web Archivability is interested in proposing best practices that help the web developers and designers in building web site that can be easily captured, preserved, and replayed using the web archiving tools.","shortname":"webarchivability","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/webarchivability"},"homepage":{"href":"https://www.w3.org/community/webarchivability/"},"users":{"href":"https://api.w3.org/groups/cg/webarchivability/users"},"services":{"href":"https://api.w3.org/groups/cg/webarchivability/services"},"chairs":{"href":"https://api.w3.org/groups/cg/webarchivability/chairs"},"join":{"href":"https://www.w3.org/community/webarchivability/join"},"participations":{"href":"https://api.w3.org/groups/cg/webarchivability/participations"}},"identifier":"cg/webarchivability"}
+{
+ "id": 84116,
+ "name": "Web Archivability Community Group",
+ "is_closed": false,
+ "description": "Web Archivability is interested in proposing best practices that help the web developers and designers in building web site that can be easily captured, preserved, and replayed using the web archiving tools.",
+ "shortname": "webarchivability",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webarchivability"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webarchivability/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webarchivability/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webarchivability/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webarchivability/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webarchivability/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webarchivability/participations"
+  }
+ },
+ "identifier": "cg/webarchivability"
+}
