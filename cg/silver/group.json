@@ -1,1 +1,33 @@
-{"id":97795,"name":"Silver Community Group","is_closed":false,"description":"Support the research and prototyping of the next major version of Web Content Accessibility Guidelines (WCAG).\r\n\r\nThis group may publish Specifications.","shortname":"silver","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/silver"},"homepage":{"href":"https://www.w3.org/community/silver/"},"users":{"href":"https://api.w3.org/groups/cg/silver/users"},"services":{"href":"https://api.w3.org/groups/cg/silver/services"},"chairs":{"href":"https://api.w3.org/groups/cg/silver/chairs"},"join":{"href":"https://www.w3.org/community/silver/join"},"participations":{"href":"https://api.w3.org/groups/cg/silver/participations"}},"identifier":"cg/silver"}
+{
+ "id": 97795,
+ "name": "Silver Community Group",
+ "is_closed": false,
+ "description": "Support the research and prototyping of the next major version of Web Content Accessibility Guidelines (WCAG).\r\n\r\nThis group may publish Specifications.",
+ "shortname": "silver",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/silver"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/silver/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/silver/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/silver/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/silver/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/silver/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/silver/participations"
+  }
+ },
+ "identifier": "cg/silver"
+}
