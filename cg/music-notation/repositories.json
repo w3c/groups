@@ -1,1 +1,86 @@
-[{"name":"mnx","owner":{"login":"w3c"},"description":"Music Notation CG next-generation music markup proposal.","isArchived":false,"w3cjson":{"group":["cg/music-notation"],"contacts":["adrianholovaty","dspreadbury","mdgood"],"repo-type":["cg-report"]}},{"name":"mnxconverter","owner":{"login":"w3c"},"homepageUrl":"","description":"A Python package for converting between MusicXML and the new MNX-Common format.","isArchived":false,"w3cjson":{"group":["cg/music-notation"],"contacts":["iherman"],"repo-type":["tool"]}},{"name":"musicxml","owner":{"login":"w3c"},"description":"MusicXML specification","isArchived":false,"w3cjson":{"group":["cg/music-notation"],"contacts":["mdgood","adrianholovaty","dspreadbury"],"repo-type":["cg-report"]}},{"name":"smufl","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/smufl/latest/","description":"Standard Music Font Layout","isArchived":false,"w3cjson":{"group":["cg/music-notation"],"contacts":["dspreadbury","adrianholovaty","mdgood"],"repo-type":["cg-report"]}}]
+[
+ {
+  "name": "mnx",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Music Notation CG next-generation music markup proposal.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "adrianholovaty",
+    "dspreadbury",
+    "mdgood"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "mnxconverter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "musicxml",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "MusicXML specification",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "mdgood",
+    "adrianholovaty",
+    "dspreadbury"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "smufl",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/smufl/latest/",
+  "description": "Standard Music Font Layout",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "dspreadbury",
+    "adrianholovaty",
+    "mdgood"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
