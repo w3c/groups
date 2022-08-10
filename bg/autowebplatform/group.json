@@ -1,1 +1,36 @@
-{"id":61259,"name":"Automotive and Transportation Business Group","is_closed":false,"description":"The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"https://www.w3.org/auto/wg/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.\r\n\r\n<br /><br />\r\n\r\nFuller description of current and evolving scope is in <a rel=\"nofollow\" href=\"https://www.w3.org/2020/auto-transportation-charter\">the charter</a>.","shortname":"autowebplatform","discr":"w3cgroup","type":"business group","_links":{"self":{"href":"https://api.w3.org/groups/bg/autowebplatform"},"homepage":{"href":"https://www.w3.org/community/autowebplatform/"},"users":{"href":"https://api.w3.org/groups/bg/autowebplatform/users"},"services":{"href":"https://api.w3.org/groups/bg/autowebplatform/services"},"chairs":{"href":"https://api.w3.org/groups/bg/autowebplatform/chairs"},"team-contacts":{"href":"https://api.w3.org/groups/bg/autowebplatform/teamcontacts"},"join":{"href":"https://www.w3.org/community/autowebplatform/join"},"participations":{"href":"https://api.w3.org/groups/bg/autowebplatform/participations"}},"identifier":"bg/autowebplatform"}
+{
+ "id": 61259,
+ "name": "Automotive and Transportation Business Group",
+ "is_closed": false,
+ "description": "The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"https://www.w3.org/auto/wg/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.\r\n\r\n<br /><br />\r\n\r\nFuller description of current and evolving scope is in <a rel=\"nofollow\" href=\"https://www.w3.org/2020/auto-transportation-charter\">the charter</a>.",
+ "shortname": "autowebplatform",
+ "discr": "w3cgroup",
+ "type": "business group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/bg/autowebplatform"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/autowebplatform/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/autowebplatform/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/autowebplatform/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/autowebplatform/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/autowebplatform/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/autowebplatform/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
+  }
+ },
+ "identifier": "bg/autowebplatform"
+}
