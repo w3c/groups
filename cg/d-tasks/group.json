@@ -1,1 +1,33 @@
-{"id":51225,"name":"Distributed Tasks Community Group","is_closed":false,"description":"Common ground for people developing various collaboration software with notion of \"tasks.\" Aiming for increasing interoperability across all such software and improving experience of a person contributing to big number of projects. Emphasis on interoperability, portability and extensibility!","shortname":"d-tasks","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/d-tasks"},"homepage":{"href":"https://www.w3.org/community/d-tasks/"},"users":{"href":"https://api.w3.org/groups/cg/d-tasks/users"},"services":{"href":"https://api.w3.org/groups/cg/d-tasks/services"},"chairs":{"href":"https://api.w3.org/groups/cg/d-tasks/chairs"},"join":{"href":"https://www.w3.org/community/d-tasks/join"},"participations":{"href":"https://api.w3.org/groups/cg/d-tasks/participations"}},"identifier":"cg/d-tasks"}
+{
+ "id": 51225,
+ "name": "Distributed Tasks Community Group",
+ "is_closed": false,
+ "description": "Common ground for people developing various collaboration software with notion of \"tasks.\" Aiming for increasing interoperability across all such software and improving experience of a person contributing to big number of projects. Emphasis on interoperability, portability and extensibility!",
+ "shortname": "d-tasks",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/d-tasks"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/d-tasks/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/d-tasks/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/d-tasks/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/d-tasks/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/d-tasks/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/d-tasks/participations"
+  }
+ },
+ "identifier": "cg/d-tasks"
+}
