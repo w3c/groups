@@ -1,1 +1,33 @@
-{"id":63952,"name":"Argument Representation Community Group","is_closed":false,"description":"Argument-Representation's mission is to recommend a standardized representation for formal argument.  It is not intended to augment XML in any other way.\r\n\r\nThe group does not necessarily commit to creating a novel representation.  For instance, after due consideration it could endorse an existing one or recommend accepting an existing one with minor changes.\r\n\r\nFormal argument means a formalizable set of connected statements or statement-like objects intended to establish a proposition.\r\n","shortname":"argmntreprsnt","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/argmntreprsnt"},"homepage":{"href":"https://www.w3.org/community/argmntreprsnt/"},"users":{"href":"https://api.w3.org/groups/cg/argmntreprsnt/users"},"services":{"href":"https://api.w3.org/groups/cg/argmntreprsnt/services"},"chairs":{"href":"https://api.w3.org/groups/cg/argmntreprsnt/chairs"},"join":{"href":"https://www.w3.org/community/argmntreprsnt/join"},"participations":{"href":"https://api.w3.org/groups/cg/argmntreprsnt/participations"}},"identifier":"cg/argmntreprsnt"}
+{
+ "id": 63952,
+ "name": "Argument Representation Community Group",
+ "is_closed": false,
+ "description": "Argument-Representation's mission is to recommend a standardized representation for formal argument.  It is not intended to augment XML in any other way.\r\n\r\nThe group does not necessarily commit to creating a novel representation.  For instance, after due consideration it could endorse an existing one or recommend accepting an existing one with minor changes.\r\n\r\nFormal argument means a formalizable set of connected statements or statement-like objects intended to establish a proposition.\r\n",
+ "shortname": "argmntreprsnt",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/argmntreprsnt"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/argmntreprsnt/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/argmntreprsnt/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/argmntreprsnt/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/argmntreprsnt/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/argmntreprsnt/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/argmntreprsnt/participations"
+  }
+ },
+ "identifier": "cg/argmntreprsnt"
+}
