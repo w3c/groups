@@ -1,1 +1,33 @@
-{"id":95188,"name":"Social Web Incubator Community Group","is_closed":false,"description":"The Social Web Incubator Community Group (also known as SocialCG, or SWICG) is the successor of the Social Web Working Group, which ran from 2014 to 2017. The SocialCG provides space to collaborate and coordinate for implementors who are building on any of the <a href=\"https://www.w3.org/TR/social-web-protocols/\">specifications published by the Social Web WG</a>, and related technologies. It is also a place to incubate new proposals which build on or complement the Social Web WG recommendations.<br><br>\r\n\r\nDiscussions and meeting announcements happen on <a href=\"https://socialhub.activitypub.rocks/\">the SocialHub forum</a> or on project-specific version control repositories.<br><br>\r\n\r\nMeetings are not always weekly, but can be requested or convened by any member of the group. If you have a specific item to discuss, please contact a chair if you need help with <a href=\"https://www.w3.org/wiki/SocialCG#Meetings\">meeting logistics</a>, and make a post on the SocialHub forum, ideally with two or more weeks notice.","shortname":"socialcg","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/socialcg"},"homepage":{"href":"https://www.w3.org/community/socialcg/"},"users":{"href":"https://api.w3.org/groups/cg/socialcg/users"},"services":{"href":"https://api.w3.org/groups/cg/socialcg/services"},"chairs":{"href":"https://api.w3.org/groups/cg/socialcg/chairs"},"join":{"href":"https://www.w3.org/community/socialcg/join"},"participations":{"href":"https://api.w3.org/groups/cg/socialcg/participations"}},"identifier":"cg/socialcg"}
+{
+ "id": 95188,
+ "name": "Social Web Incubator Community Group",
+ "is_closed": false,
+ "description": "The Social Web Incubator Community Group (also known as SocialCG, or SWICG) is the successor of the Social Web Working Group, which ran from 2014 to 2017. The SocialCG provides space to collaborate and coordinate for implementors who are building on any of the <a href=\"https://www.w3.org/TR/social-web-protocols/\">specifications published by the Social Web WG</a>, and related technologies. It is also a place to incubate new proposals which build on or complement the Social Web WG recommendations.<br><br>\r\n\r\nDiscussions and meeting announcements happen on <a href=\"https://socialhub.activitypub.rocks/\">the SocialHub forum</a> or on project-specific version control repositories.<br><br>\r\n\r\nMeetings are not always weekly, but can be requested or convened by any member of the group. If you have a specific item to discuss, please contact a chair if you need help with <a href=\"https://www.w3.org/wiki/SocialCG#Meetings\">meeting logistics</a>, and make a post on the SocialHub forum, ideally with two or more weeks notice.",
+ "shortname": "socialcg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/socialcg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/socialcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/socialcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/socialcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/socialcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/socialcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/socialcg/participations"
+  }
+ },
+ "identifier": "cg/socialcg"
+}
