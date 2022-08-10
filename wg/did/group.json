@@ -1,1 +1,50 @@
-{"id":117488,"name":"Decentralized Identifier Working Group","is_closed":false,"description":"The mission of the Decentralized Identifier Working Group is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications.","shortname":"did","discr":"w3cgroup","type":"working group","start-date":"2019-09-05","end-date":"2022-12-31","_links":{"self":{"href":"https://api.w3.org/groups/wg/did"},"homepage":{"href":"https://www.w3.org/2019/did-wg/"},"users":{"href":"https://api.w3.org/groups/wg/did/users"},"services":{"href":"https://api.w3.org/groups/wg/did/services"},"specifications":{"href":"https://api.w3.org/groups/wg/did/specifications"},"chairs":{"href":"https://api.w3.org/groups/wg/did/chairs"},"team-contacts":{"href":"https://api.w3.org/groups/wg/did/teamcontacts"},"charters":{"href":"https://api.w3.org/groups/wg/did/charters"},"active-charter":{"href":"https://api.w3.org/groups/wg/did/charters/420"},"join":{"href":"https://www.w3.org/groups/wg/did/join"},"pp-status":{"href":"https://www.w3.org/groups/wg/did/ipr"},"participations":{"href":"https://api.w3.org/groups/wg/did/participations"}},"identifier":"wg/did"}
+{
+ "id": 117488,
+ "name": "Decentralized Identifier Working Group",
+ "is_closed": false,
+ "description": "The mission of the Decentralized Identifier Working Group is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications.",
+ "shortname": "did",
+ "discr": "w3cgroup",
+ "type": "working group",
+ "start-date": "2019-09-05",
+ "end-date": "2022-12-31",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/wg/did"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/2019/did-wg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/did/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/did/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/did/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/did/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/did/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/did/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/did/charters/420"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/did/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/did/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/did/participations"
+  }
+ },
+ "identifier": "wg/did"
+}
