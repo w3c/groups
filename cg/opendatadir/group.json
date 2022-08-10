@@ -1,1 +1,33 @@
-{"id":64441,"name":"Open Data Directory Community Group","is_closed":false,"description":"The Open Data Directory lists products, services and research projects that leverage Linked Data. Currently, the Directory serves as an aggregator of use cases and web sites using Linked Data and is expected to evolve over time in response user requirements.  The Directory is a community service project to foster ease-of-use and awareness of Open Data on the Web.\r\n\r\nThe Directory has an easy to use Web interface enabling users to list:\r\n- Organization name\r\n- Contact name\r\n- Product(s)\r\n- Service(s)  \r\n- Projects & Use Cases\r\n\r\nThe Open Data Directory periodically gathers Linked Data from designated sites and compiles it into a summarized view of the community.  It is a purely Linked Data application and not another \"walled garden.\"  Organizations are responsible for publishing their own Linked Data for the Directory to consume.\r\n\r\nThe Open Data Directory includes some basic visualizations that are expected to expand over time.  The site is built on open Web standards and an Open Source data platform hosted on the cloud.   All of the data is freely available for download as RDF.  The Open Data Directory is open and does not require W3C affiliation.  ","shortname":"opendatadir","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/opendatadir"},"homepage":{"href":"https://www.w3.org/community/opendatadir/"},"users":{"href":"https://api.w3.org/groups/cg/opendatadir/users"},"services":{"href":"https://api.w3.org/groups/cg/opendatadir/services"},"chairs":{"href":"https://api.w3.org/groups/cg/opendatadir/chairs"},"join":{"href":"https://www.w3.org/community/opendatadir/join"},"participations":{"href":"https://api.w3.org/groups/cg/opendatadir/participations"}},"identifier":"cg/opendatadir"}
+{
+ "id": 64441,
+ "name": "Open Data Directory Community Group",
+ "is_closed": false,
+ "description": "The Open Data Directory lists products, services and research projects that leverage Linked Data. Currently, the Directory serves as an aggregator of use cases and web sites using Linked Data and is expected to evolve over time in response user requirements.  The Directory is a community service project to foster ease-of-use and awareness of Open Data on the Web.\r\n\r\nThe Directory has an easy to use Web interface enabling users to list:\r\n- Organization name\r\n- Contact name\r\n- Product(s)\r\n- Service(s)  \r\n- Projects & Use Cases\r\n\r\nThe Open Data Directory periodically gathers Linked Data from designated sites and compiles it into a summarized view of the community.  It is a purely Linked Data application and not another \"walled garden.\"  Organizations are responsible for publishing their own Linked Data for the Directory to consume.\r\n\r\nThe Open Data Directory includes some basic visualizations that are expected to expand over time.  The site is built on open Web standards and an Open Source data platform hosted on the cloud.   All of the data is freely available for download as RDF.  The Open Data Directory is open and does not require W3C affiliation.  ",
+ "shortname": "opendatadir",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opendatadir"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/opendatadir/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/opendatadir/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/opendatadir/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/opendatadir/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/opendatadir/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/opendatadir/participations"
+  }
+ },
+ "identifier": "cg/opendatadir"
+}
