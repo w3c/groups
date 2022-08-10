@@ -1,1 +1,33 @@
-{"id":86999,"name":"Meat Products Community Group","is_closed":false,"description":"The mission of Meat Products Community Group is to propose, discuss, create and maintain extensions to schema.org related to meat items commonly traded internationally.","shortname":"meat","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/meat"},"homepage":{"href":"https://www.w3.org/community/meat/"},"users":{"href":"https://api.w3.org/groups/cg/meat/users"},"services":{"href":"https://api.w3.org/groups/cg/meat/services"},"chairs":{"href":"https://api.w3.org/groups/cg/meat/chairs"},"join":{"href":"https://www.w3.org/community/meat/join"},"participations":{"href":"https://api.w3.org/groups/cg/meat/participations"}},"identifier":"cg/meat"}
+{
+ "id": 86999,
+ "name": "Meat Products Community Group",
+ "is_closed": false,
+ "description": "The mission of Meat Products Community Group is to propose, discuss, create and maintain extensions to schema.org related to meat items commonly traded internationally.",
+ "shortname": "meat",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/meat"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/meat/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/meat/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/meat/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/meat/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/meat/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/meat/participations"
+  }
+ },
+ "identifier": "cg/meat"
+}
