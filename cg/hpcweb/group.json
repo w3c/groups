@@ -1,1 +1,33 @@
-{"id":49290,"name":"High-Performance Computing Community Group","is_closed":false,"description":"This community group is focused on bringing high performance computing (HPC) to the web. In particular, we're interested in making the computing and data resources that underlie simulation science, scientific computing, and data-centric science easily accessible through web browsers. Our members are working on APIs that expose HPC resources via the web, as well as gateways and web applications that take advantage of these APIs. The major goal of this community is to accelerate the pace of development of web-based HPC applications. Recognizing that we can build on each other's work, and that a consistent approach to developing such tools can enable features that require communication across multiple computing centers, we are interested in sharing technologies and ideas.","shortname":"hpcweb","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/hpcweb"},"homepage":{"href":"https://www.w3.org/community/hpcweb/"},"users":{"href":"https://api.w3.org/groups/cg/hpcweb/users"},"services":{"href":"https://api.w3.org/groups/cg/hpcweb/services"},"chairs":{"href":"https://api.w3.org/groups/cg/hpcweb/chairs"},"join":{"href":"https://www.w3.org/community/hpcweb/join"},"participations":{"href":"https://api.w3.org/groups/cg/hpcweb/participations"}},"identifier":"cg/hpcweb"}
+{
+ "id": 49290,
+ "name": "High-Performance Computing Community Group",
+ "is_closed": false,
+ "description": "This community group is focused on bringing high performance computing (HPC) to the web. In particular, we're interested in making the computing and data resources that underlie simulation science, scientific computing, and data-centric science easily accessible through web browsers. Our members are working on APIs that expose HPC resources via the web, as well as gateways and web applications that take advantage of these APIs. The major goal of this community is to accelerate the pace of development of web-based HPC applications. Recognizing that we can build on each other's work, and that a consistent approach to developing such tools can enable features that require communication across multiple computing centers, we are interested in sharing technologies and ideas.",
+ "shortname": "hpcweb",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/hpcweb"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/hpcweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/hpcweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/hpcweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/hpcweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/hpcweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/hpcweb/participations"
+  }
+ },
+ "identifier": "cg/hpcweb"
+}
