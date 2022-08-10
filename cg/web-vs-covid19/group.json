@@ -1,1 +1,33 @@
-{"id":122566,"name":"Web fights covid19 Community Group","is_closed":false,"description":"There is no doubt that the Web is demonstrating its potential in these hard times of the covid19 pandemic. \r\n\r\nThe Web is allowing us to share information quickly and globally. Also, It is enabling the quick deployment of remote-working solutions as a response to the lockdown measures imposed by a majority of Governments.\r\n \r\nBut the Web goes far beyond. Lots of Web ressources have been launched in the last weeks from different parts of the World supporting tools to fight the covid19: websites implementing AI screening and detection solutions; with data visualization tools; accessing bots and humans for telemedicine services; sharing information about medical resources... all these are some of the examples, and the list grows every day.\r\n \r\nThis Community Group is proposed for achieving the following objectives:\r\n(1) to create a repository of already existing Web resources related to covid19\r\n(2) to identify other Web-based initiatives which are on-going\r\n(3) to share Web-based initiatives of CG Members in order to get on-board other Members and achieve the maximum impact","shortname":"web-vs-covid19","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/web-vs-covid19"},"homepage":{"href":"https://www.w3.org/community/web-vs-covid19/"},"users":{"href":"https://api.w3.org/groups/cg/web-vs-covid19/users"},"services":{"href":"https://api.w3.org/groups/cg/web-vs-covid19/services"},"chairs":{"href":"https://api.w3.org/groups/cg/web-vs-covid19/chairs"},"join":{"href":"https://www.w3.org/community/web-vs-covid19/join"},"participations":{"href":"https://api.w3.org/groups/cg/web-vs-covid19/participations"}},"identifier":"cg/web-vs-covid19"}
+{
+ "id": 122566,
+ "name": "Web fights covid19 Community Group",
+ "is_closed": false,
+ "description": "There is no doubt that the Web is demonstrating its potential in these hard times of the covid19 pandemic. \r\n\r\nThe Web is allowing us to share information quickly and globally. Also, It is enabling the quick deployment of remote-working solutions as a response to the lockdown measures imposed by a majority of Governments.\r\n \r\nBut the Web goes far beyond. Lots of Web ressources have been launched in the last weeks from different parts of the World supporting tools to fight the covid19: websites implementing AI screening and detection solutions; with data visualization tools; accessing bots and humans for telemedicine services; sharing information about medical resources... all these are some of the examples, and the list grows every day.\r\n \r\nThis Community Group is proposed for achieving the following objectives:\r\n(1) to create a repository of already existing Web resources related to covid19\r\n(2) to identify other Web-based initiatives which are on-going\r\n(3) to share Web-based initiatives of CG Members in order to get on-board other Members and achieve the maximum impact",
+ "shortname": "web-vs-covid19",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-vs-covid19"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/web-vs-covid19/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-vs-covid19/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-vs-covid19/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-vs-covid19/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-vs-covid19/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-vs-covid19/participations"
+  }
+ },
+ "identifier": "cg/web-vs-covid19"
+}
