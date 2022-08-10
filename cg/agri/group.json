@@ -1,1 +1,33 @@
-{"id":74226,"name":"Agriculture Community Group","is_closed":false,"description":"The initial mission of the Agriculture Community Group is to gather and categorise existing user scenarios, which use Web APIs and services, in the agriculture industry from around the world, and to serve as a portal which helps both web developers and agricultural stakeholders create smarter devices, Web applications &amp; services, and to provide bird's eye view map of this domain which enables W3C and other SDOs to find overlaps and gaps of user scenarios and the Open Web Platform.\r\n\r\nWe'll try to collect facts and knowledge from around the world through crowd-sourcing, while, at the same time, build a scaffold for it by quickly gathering key topics from Japanese agricultural stakeholders. Smart Platform Forum supports this early stages by connecting relevant stakeholders in Japan and organising face-to-face meetings if needed to proceed faster.\r\n\r\nThis group will not publish specifications.","shortname":"agri","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/agri"},"homepage":{"href":"https://www.w3.org/community/agri/"},"users":{"href":"https://api.w3.org/groups/cg/agri/users"},"services":{"href":"https://api.w3.org/groups/cg/agri/services"},"chairs":{"href":"https://api.w3.org/groups/cg/agri/chairs"},"join":{"href":"https://www.w3.org/community/agri/join"},"participations":{"href":"https://api.w3.org/groups/cg/agri/participations"}},"identifier":"cg/agri"}
+{
+ "id": 74226,
+ "name": "Agriculture Community Group",
+ "is_closed": false,
+ "description": "The initial mission of the Agriculture Community Group is to gather and categorise existing user scenarios, which use Web APIs and services, in the agriculture industry from around the world, and to serve as a portal which helps both web developers and agricultural stakeholders create smarter devices, Web applications &amp; services, and to provide bird's eye view map of this domain which enables W3C and other SDOs to find overlaps and gaps of user scenarios and the Open Web Platform.\r\n\r\nWe'll try to collect facts and knowledge from around the world through crowd-sourcing, while, at the same time, build a scaffold for it by quickly gathering key topics from Japanese agricultural stakeholders. Smart Platform Forum supports this early stages by connecting relevant stakeholders in Japan and organising face-to-face meetings if needed to proceed faster.\r\n\r\nThis group will not publish specifications.",
+ "shortname": "agri",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agri"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/agri/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/agri/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/agri/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/agri/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/agri/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/agri/participations"
+  }
+ },
+ "identifier": "cg/agri"
+}
