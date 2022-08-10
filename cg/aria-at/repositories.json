@@ -1,1 +1,23 @@
-[{"name":"aria-at","owner":{"login":"w3c"},"homepageUrl":"https://aria-at.netlify.app","description":"Assistive Technology ARIA Experience Assessment","isArchived":false,"w3cjson":{"group":["cg/aria-at"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["cg-report"]}}]
+[
+ {
+  "name": "aria-at",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://aria-at.netlify.app",
+  "description": "Assistive Technology ARIA Experience Assessment",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/aria-at"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
