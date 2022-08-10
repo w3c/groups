@@ -4206,6 +4206,15 @@
   "w3cjson": null
  },
  {
+  "name": "wasi-logging",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WASI logging API",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "wasi-native-threads",
   "owner": {
    "login": "WebAssembly"
