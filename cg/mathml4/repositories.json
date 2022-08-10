@@ -1,1 +1,22 @@
-[{"name":"mathml.old","owner":{"login":"w3c"},"description":"MathML editors' draft","isArchived":false,"w3cjson":{"group":["cg/mathml4"],"contacts":["bert-github"],"policy":"open","repo-type":["cg-report"]}}]
+[
+ {
+  "name": "mathml.old",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "MathML editors' draft",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
