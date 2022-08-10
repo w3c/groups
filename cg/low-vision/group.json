@@ -1,1 +1,33 @@
-{"id":136751,"name":"Low Vision Community Group","is_closed":false,"description":"The mission of the Low Vision Community Group is to work with and support the Low Vision Task Force of the Accessibility Guidelines Working Group to improve web accessibility for people with low vision.","shortname":"low-vision","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/low-vision"},"homepage":{"href":"https://www.w3.org/community/low-vision/"},"users":{"href":"https://api.w3.org/groups/cg/low-vision/users"},"services":{"href":"https://api.w3.org/groups/cg/low-vision/services"},"chairs":{"href":"https://api.w3.org/groups/cg/low-vision/chairs"},"join":{"href":"https://www.w3.org/community/low-vision/join"},"participations":{"href":"https://api.w3.org/groups/cg/low-vision/participations"}},"identifier":"cg/low-vision"}
+{
+ "id": 136751,
+ "name": "Low Vision Community Group",
+ "is_closed": false,
+ "description": "The mission of the Low Vision Community Group is to work with and support the Low Vision Task Force of the Accessibility Guidelines Working Group to improve web accessibility for people with low vision.",
+ "shortname": "low-vision",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/low-vision"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/low-vision/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/low-vision/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/low-vision/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/low-vision/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/low-vision/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/low-vision/participations"
+  }
+ },
+ "identifier": "cg/low-vision"
+}
