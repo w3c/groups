@@ -1,1 +1,272 @@
-[{"name":"accname","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/accname/","description":"Accessible Name and Description Computation","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["rec-track"]}},{"name":"annotation-aria","owner":{"login":"w3c"},"homepageUrl":"https://github.com/w3c/aria/","description":"This repository has been archived and work moved to the w3c/aria repository.","isArchived":true,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"repo-type":["rec-track"]}},{"name":"apg-redesign","owner":{"login":"w3c"},"isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"repo-type":["rec-track"]}},{"name":"aria","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/aria/","description":"Accessible Rich Internet Applications (WAI-ARIA)","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["rec-track"]}},{"name":"aria-common","owner":{"login":"w3c"},"description":"Shared files for the ARIA repositories","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["tool"]}},{"name":"aria-practices","owner":{"login":"w3c"},"homepageUrl":"https://www.w3.org/wai/aria/apg/","description":"WAI-ARIA Authoring Practices Guide (APG)","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["note"]}},{"name":"core-aam","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/core-aam/","description":"Core Accessibility API Mappings","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["rec-track"]}},{"name":"css-a11y","owner":{"login":"w3c"},"description":"Main repository for the CSS Accessibility Task Force","isArchived":false,"w3cjson":{"group":["wg/apa","wg/aria","wg/css"],"contacts":["michael-n-cooper"],"repo-type":["others"],"policy":"restricted"}},{"name":"dpub-aam","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/dpub-aam/","description":"Digital Publishing Accessibility API Mappings","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"policy":"restricted","repo-type":["rec-track"]}},{"name":"graphics-aam","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/graphics-aam/","description":"General graphics Accessibility API mappings","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"repo-type":["rec-track"],"policy":"restricted"}},{"name":"graphics-aria","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/graphics-aria/","description":"Graphics Accessibility API Mappings","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"repo-type":["rec-track"],"policy":"restricted"}},{"name":"html-aam","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/html-aam/","description":"HTML Accessibility API Mappings","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper","ruoxiran"],"policy":"restricted","shortName":"html-aam-1.0","repo-type":["rec-track"]}},{"name":"mathml-aam","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/mathml-aam/","description":"Accessibility API Mappings for MathML","isArchived":false,"w3cjson":{"group":["wg/aria"],"contacts":["michael-n-cooper"],"repo-type":["rec-track"]}}]
+[
+ {
+  "name": "accname",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/accname/",
+  "description": "Accessible Name and Description Computation",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "annotation-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://github.com/w3c/aria/",
+  "description": "This repository has been archived and work moved to the w3c/aria repository.",
+  "isArchived": true,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "apg-redesign",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/aria/",
+  "description": "Accessible Rich Internet Applications (WAI-ARIA)",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "aria-common",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Shared files for the ARIA repositories",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "aria-practices",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/wai/aria/apg/",
+  "description": "WAI-ARIA Authoring Practices Guide (APG)",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "core-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/core-aam/",
+  "description": "Core Accessibility API Mappings",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "css-a11y",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Main repository for the CSS Accessibility Task Force",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa",
+    "wg/aria",
+    "wg/css"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "dpub-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dpub-aam/",
+  "description": "Digital Publishing Accessibility API Mappings",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "graphics-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/graphics-aam/",
+  "description": "General graphics Accessibility API mappings",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "graphics-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/graphics-aria/",
+  "description": "Graphics Accessibility API Mappings",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "html-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/html-aam/",
+  "description": "HTML Accessibility API Mappings",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper",
+    "ruoxiran"
+   ],
+   "policy": "restricted",
+   "shortName": "html-aam-1.0",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "mathml-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/mathml-aam/",
+  "description": "Accessibility API Mappings for MathML",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
