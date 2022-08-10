@@ -1,1 +1,22 @@
-[{"name":"webcomponents-cg","owner":{"login":"w3c"},"homepageUrl":"https://w3c.github.io/webcomponents-cg/","description":"Web Components community group","isArchived":false,"w3cjson":{"contacts":["leaverou"],"repo-type":["cg-report"],"group":["cg/webcomponents"]}}]
+[
+ {
+  "name": "webcomponents-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/webcomponents-cg/",
+  "description": "Web Components community group",
+  "isArchived": false,
+  "w3cjson": {
+   "contacts": [
+    "leaverou"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "group": [
+    "cg/webcomponents"
+   ]
+  }
+ }
+]
