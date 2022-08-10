@@ -1,1 +1,33 @@
-{"id":74381,"name":"Exploration of Semantic Data Community Group","is_closed":false,"description":"Semantic data is available widely and semantic data exploration is becoming a key activity in a range of application domains, such as government organisations, education, life science, cultural heritage, and media. Several novel interfaces and interaction means for exploration of semantic data are being proposed, for example exploratory search systems, semantic data browsers, ontology/content visualisation environments and semantic wikis. \r\n\r\nAlthough on the rise, the current solutions are still maturing and need to take into account human factors to make exploration intuitive or employ necessary computational models to aid the intuitiveness and improve the effectiveness of exploration tasks. Lessons also can be learned from the commonalities and differences in exploration requirements between different domains. Hence, greater benefits can be achieved by bringing together expertise from different communities, including HCI, Semantic Web, and personalisation with the potential application domain demands. This group is an effort to bring these community together to benefit from the mutual experiences in solving some new and exciting problems. \r\n\r\nThis group will not publish specifications.","shortname":"exploresemdata","discr":"w3cgroup","type":"community group","_links":{"self":{"href":"https://api.w3.org/groups/cg/exploresemdata"},"homepage":{"href":"https://www.w3.org/community/exploresemdata/"},"users":{"href":"https://api.w3.org/groups/cg/exploresemdata/users"},"services":{"href":"https://api.w3.org/groups/cg/exploresemdata/services"},"chairs":{"href":"https://api.w3.org/groups/cg/exploresemdata/chairs"},"join":{"href":"https://www.w3.org/community/exploresemdata/join"},"participations":{"href":"https://api.w3.org/groups/cg/exploresemdata/participations"}},"identifier":"cg/exploresemdata"}
+{
+ "id": 74381,
+ "name": "Exploration of Semantic Data Community Group",
+ "is_closed": false,
+ "description": "Semantic data is available widely and semantic data exploration is becoming a key activity in a range of application domains, such as government organisations, education, life science, cultural heritage, and media. Several novel interfaces and interaction means for exploration of semantic data are being proposed, for example exploratory search systems, semantic data browsers, ontology/content visualisation environments and semantic wikis. \r\n\r\nAlthough on the rise, the current solutions are still maturing and need to take into account human factors to make exploration intuitive or employ necessary computational models to aid the intuitiveness and improve the effectiveness of exploration tasks. Lessons also can be learned from the commonalities and differences in exploration requirements between different domains. Hence, greater benefits can be achieved by bringing together expertise from different communities, including HCI, Semantic Web, and personalisation with the potential application domain demands. This group is an effort to bring these community together to benefit from the mutual experiences in solving some new and exciting problems. \r\n\r\nThis group will not publish specifications.",
+ "shortname": "exploresemdata",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/exploresemdata"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/exploresemdata/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/exploresemdata/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/exploresemdata/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/exploresemdata/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/exploresemdata/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/exploresemdata/participations"
+  }
+ },
+ "identifier": "cg/exploresemdata"
+}
