@@ -15231,6 +15231,24 @@
   }
  },
  {
+  "name": "rch-rdc",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "rch-rdh",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Dataset Hash (deliverable of the RCH working group)",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "rch-wg",
   "owner": {
    "login": "w3c"
