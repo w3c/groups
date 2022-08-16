@@ -22386,7 +22386,14 @@
   "homepageUrl": "http://quuz.org/webvtt/",
   "description": "WebVTT parser and validator",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "wg-effectiveness",
