@@ -15239,7 +15239,17 @@
   },
   "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    138751
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "rch-rdh",
