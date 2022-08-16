@@ -429,7 +429,7 @@
   },
   "homepageUrl": "",
   "description": "Proposal for allowing modules to define, import and export modules and instances",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": {
    "group": [
     "cg/webassembly"
