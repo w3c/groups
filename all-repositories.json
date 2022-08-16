@@ -3643,7 +3643,7 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -3749,7 +3749,7 @@
   },
   "homepageUrl": "",
   "description": "Proposal for allowing modules to define, import and export modules and instances",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": {
    "group": [
     78073
