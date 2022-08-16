@@ -11048,6 +11048,25 @@
   }
  },
  {
+  "name": "rch-rdc",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rch"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "rdf-star",
   "owner": {
    "login": "w3c"
