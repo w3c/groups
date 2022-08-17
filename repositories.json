@@ -11751,6 +11751,24 @@
   }
  },
  {
+  "name": "sustyweb",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/sustyweb"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "svg-aam",
   "owner": {
    "login": "w3c"
