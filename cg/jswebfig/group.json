@@ -1,0 +1,33 @@
+{
+ "id": 139732,
+ "name": "JavaScript Web Framework Interoperability Community Group",
+ "is_closed": false,
+ "description": "The JavaScript Web Framework Interoperability Group (The JW FIG) aims to advance the JS ecosystem and promote good standards by bringing projects and people together to collaborate. It develops and disseminates specifications, informed by real-world experience as well as research and experimentation and others, to form JavaScript Web Standard Recommendations (JWSRs), JavaScript Web Evolutionary Recommendations (JWERs), and Auxiliary Resources (ARs) that best leverage what each framework offers.",
+ "shortname": "jswebfig",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/jswebfig"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/jswebfig/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/jswebfig/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/jswebfig/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/jswebfig/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/jswebfig/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/jswebfig/participations"
+  }
+ },
+ "identifier": "cg/jswebfig"
+}
