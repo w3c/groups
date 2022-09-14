@@ -1582,6 +1582,25 @@
   }
  },
  {
+  "name": "isolated-web-apps",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Repository for explainers and other documents related to the Isolated Web Apps proposal.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "isolation",
   "owner": {
    "login": "WICG"
@@ -1874,6 +1893,24 @@
   }
  },
  {
+  "name": "mobile-document-request-api",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "modality",
   "owner": {
    "login": "WICG"
@@ -1896,6 +1933,7 @@
   "owner": {
    "login": "WICG"
   },
+  "homepageUrl": "https://wicg.github.io/multicapture/",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -3369,7 +3407,7 @@
    "login": "WebAssembly"
   },
   "description": "Conditional segment initialization",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -4116,6 +4154,14 @@
   "w3cjson": null
  },
  {
+  "name": "wasi-blob-store",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "wasi-classic-command",
   "owner": {
    "login": "WebAssembly"
@@ -4139,6 +4185,14 @@
   },
   "homepageUrl": "",
   "description": "WASI Cryptography API Proposal",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "wasi-distributed-lock-service",
+  "owner": {
+   "login": "WebAssembly"
+  },
   "isArchived": false,
   "w3cjson": null
  },
@@ -4186,6 +4240,14 @@
   "w3cjson": null
  },
  {
+  "name": "wasi-kv-store",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "wasi-libc",
   "owner": {
    "login": "WebAssembly"
@@ -4215,7 +4277,7 @@
   "w3cjson": null
  },
  {
-  "name": "wasi-native-threads",
+  "name": "wasi-message-queue",
   "owner": {
    "login": "WebAssembly"
   },
@@ -4258,11 +4320,27 @@
   "w3cjson": null
  },
  {
+  "name": "wasi-pubsub",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "wasi-random",
   "owner": {
    "login": "WebAssembly"
   },
   "description": "Entropy source API for WASI",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "wasi-runtime-config",
+  "owner": {
+   "login": "WebAssembly"
+  },
   "isArchived": false,
   "w3cjson": null
  },
@@ -4282,6 +4360,22 @@
    "login": "WebAssembly"
   },
   "description": "WASI API proposal for managing sockets",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "wasi-sql",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "wasi-threads",
+  "owner": {
+   "login": "WebAssembly"
+  },
   "isArchived": false,
   "w3cjson": null
  },
@@ -4603,13 +4697,30 @@
    "contacts": [
     "tidoust",
     "Kangz",
-    "grorg"
+    "kdashg"
    ],
    "repo-type": [
     "cg-report",
     "rec-track"
    ]
   }
+ },
+ {
+  "name": "gpuweb-cts-pr-previews",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "gpuweb-pr-previews",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "description": "Pull request previews for gpuweb/gpuweb specifications.",
+  "isArchived": false,
+  "w3cjson": null
  },
  {
   "name": "gpuweb.github.io",
@@ -6612,7 +6723,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/accelerometer/",
+  "homepageUrl": "https://www.w3.org/TR/accelerometer/",
   "description": "Accelerometer",
   "isArchived": false,
   "w3cjson": {
@@ -6835,7 +6946,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/ambient-light/",
+  "homepageUrl": "https://www.w3.org/TR/ambient-light/",
   "description": "Ambient Light API",
   "isArchived": false,
   "w3cjson": {
@@ -7357,7 +7468,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/battery/",
+  "homepageUrl": "https://www.w3.org/TR/battery-status/",
   "description": "Battery Status API",
   "isArchived": false,
   "w3cjson": {
@@ -7475,6 +7586,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "A machine-readable list of specifications used to build Web browsers",
   "isArchived": false,
   "w3cjson": {
@@ -8005,10 +8117,9 @@
   "isArchived": false,
   "w3cjson": {
    "group": [
-    114929
+    131776
    ],
    "contacts": [
-    "ylafon",
     "siusin"
    ],
    "policy": "restricted"
@@ -8517,7 +8628,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/device-posture/",
+  "homepageUrl": "https://www.w3.org/TR/device-posture/",
   "description": "Device Posture API",
   "isArchived": false,
   "w3cjson": {
@@ -8539,7 +8650,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/deviceorientation/",
+  "homepageUrl": "https://www.w3.org/TR/orientation-event/",
   "description": "W3C Device Orientation spec",
   "isArchived": false,
   "w3cjson": {
@@ -8766,6 +8877,8 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
+  "description": "https://w3c.github.io/did-wg-charter/",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -9538,6 +9651,25 @@
   }
  },
  {
+  "name": "epub-structural-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/epub-structural-tests/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    125377
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "epub-tests",
   "owner": {
    "login": "w3c"
@@ -10035,7 +10167,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/geolocation-api/",
+  "homepageUrl": "https://www.w3.org/TR/geolocation/",
   "description": "W3C Geolocation API",
   "isArchived": false,
   "w3cjson": {
@@ -10056,7 +10188,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/geolocation-sensor/",
+  "homepageUrl": "https://www.w3.org/TR/geolocation-sensor/",
   "description": "Geolocation Sensor",
   "isArchived": false,
   "w3cjson": {
@@ -10284,7 +10416,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/gyroscope/",
+  "homepageUrl": "https://www.w3.org/TR/gyroscope/",
   "description": "Gyroscope",
   "isArchived": false,
   "w3cjson": {
@@ -10640,7 +10772,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/html-media-capture/",
+  "homepageUrl": "https://www.w3.org/TR/html-media-capture/",
   "description": "HTML Media Capture",
   "isArchived": false,
   "w3cjson": {
@@ -12107,7 +12239,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/magnetometer/",
+  "homepageUrl": "https://www.w3.org/TR/magnetometer/",
   "description": "Magnetometer",
   "isArchived": false,
   "w3cjson": {
@@ -13339,6 +13471,14 @@
   }
  },
  {
+  "name": "miniapp-tpac-2022",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "miniapp-white-paper",
   "owner": {
    "login": "w3c"
@@ -14066,7 +14206,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/orientation-sensor/",
+  "homepageUrl": "https://www.w3.org/TR/orientation-sensor/",
   "description": "Orientation Sensor",
   "isArchived": false,
   "w3cjson": {
@@ -14856,7 +14996,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/proximity/",
+  "homepageUrl": "https://www.w3.org/TR/proximity/",
   "description": "Proximity",
   "isArchived": false,
   "w3cjson": {
@@ -15244,7 +15384,7 @@
     138751
    ],
    "contacts": [
-    "pchampin"
+    "p20n"
    ],
    "repo-type": [
     "rec-track"
@@ -15263,7 +15403,7 @@
     138751
    ],
    "contacts": [
-    "pchampin"
+    "p20n"
    ],
    "repo-type": [
     "rec-track"
@@ -15333,6 +15473,15 @@
     "cg-report"
    ]
   }
+ },
+ {
+  "name": "rdf-star-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF-star Working Group",
+  "isArchived": false,
+  "w3cjson": null
  },
  {
   "name": "rdf-star-wg-charter",
@@ -15756,7 +15905,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/screen-wake-lock/",
+  "homepageUrl": "https://www.w3.org/TR/screen-wake-lock/",
   "description": "Screen Wake Lock API",
   "isArchived": false,
   "w3cjson": {
@@ -16014,7 +16163,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/sensors/",
+  "homepageUrl": "https://www.w3.org/TR/generic-sensor/",
   "description": "Generic Sensor API",
   "isArchived": false,
   "w3cjson": {
@@ -20991,6 +21140,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://www.w3.org/community/web-thing-protocol/",
   "description": "Repository for the Web Thing Protocol Community Group",
   "isArchived": false,
   "w3cjson": {
