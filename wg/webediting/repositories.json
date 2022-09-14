@@ -21,6 +21,23 @@
   }
  },
  {
+  "name": "contentEditable",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/contentEditable/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webediting"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
   "name": "edit-context",
   "owner": {
    "login": "w3c"
