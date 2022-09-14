@@ -40,6 +40,25 @@
   }
  },
  {
+  "name": "epub-structural-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/epub-structural-tests/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/epub"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "epub-tests",
   "owner": {
    "login": "w3c"
