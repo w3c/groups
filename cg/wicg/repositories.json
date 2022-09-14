@@ -1466,6 +1466,25 @@
   }
  },
  {
+  "name": "isolated-web-apps",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Repository for explainers and other documents related to the Isolated Web Apps proposal.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "isolation",
   "owner": {
    "login": "WICG"
@@ -1738,6 +1757,24 @@
   }
  },
  {
+  "name": "mobile-document-request-api",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "modality",
   "owner": {
    "login": "WICG"
@@ -1760,6 +1797,7 @@
   "owner": {
    "login": "WICG"
   },
+  "homepageUrl": "https://wicg.github.io/multicapture/",
   "isArchived": false,
   "w3cjson": {
    "group": [
