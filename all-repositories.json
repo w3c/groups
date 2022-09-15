@@ -5132,8 +5132,8 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
-  "description": "Additions to the WebXR Device API for Marker Tracking: https://immersive-web.github.io/marker-tracking/",
+  "homepageUrl": "https://immersive-web.github.io/marker-tracking/",
+  "description": "Additions to the WebXR Device API for Marker Tracking. Repo contacts Rik Cabanier and Klaus Weidner",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -6947,7 +6947,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://www.w3.org/TR/ambient-light/",
-  "description": "Ambient Light API",
+  "description": "Ambient Light Sensor",
   "isArchived": false,
   "w3cjson": {
    "group": [
