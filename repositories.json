@@ -3901,7 +3901,8 @@
   "owner": {
    "login": "immersive-web"
   },
-  "description": "A repo for managing the adminstrative tasks of the Immersive Web Group",
+  "homepageUrl": "",
+  "description": "A repo for managing the adminstrative tasks of the Immersive Web Group. ",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -4251,7 +4252,7 @@
    "login": "immersive-web"
   },
   "homepageUrl": "https://immersive-web.github.io/model-element/",
-  "description": "Repository for the <model> tag",
+  "description": "Repository for the <model> tag. Feature leads: Marcos Cáceres and Laszlo Gombos",
   "isArchived": false,
   "w3cjson": {
    "group": [
