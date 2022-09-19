@@ -14097,6 +14097,26 @@
   }
  },
  {
+  "name": "ns",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "https://www.w3.org/ns",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "odrl",
   "owner": {
    "login": "w3c"
