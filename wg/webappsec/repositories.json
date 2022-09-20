@@ -44,6 +44,27 @@
   }
  },
  {
+  "name": "trusted-types",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/trusted-types/dist/spec/",
+  "description": "A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "shortName": "trusted-types",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "webappsec",
   "owner": {
    "login": "w3c"
@@ -375,27 +396,6 @@
     "wseltzer"
    ],
    "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "webappsec-trusted-types",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
-  "description": "A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "wg/webappsec"
-   ],
-   "contacts": [
-    "wseltzer"
-   ],
-   "shortName": "trusted-types",
    "repo-type": [
     "rec-track"
    ]
