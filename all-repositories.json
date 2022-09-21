@@ -12773,6 +12773,27 @@
   }
  },
  {
+  "name": "media-pipeline-arch",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Architecture of the media pipeline on the web",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/media",
+    "wg/webrtc"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "tidoust"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "media-playback-quality",
   "owner": {
    "login": "w3c"
