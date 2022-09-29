@@ -7193,7 +7193,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://pr-preview.s3.amazonaws.com/w3c/aria-at-automation/pull/25.html",
+  "homepageUrl": "https://w3c.github.io/aria-at-automation/",
   "description": "AT Driver defines a protocol for introspection and remote control of assistive technology software, using a bidirectional communication channel.",
   "isArchived": false,
   "w3cjson": null
@@ -14727,6 +14727,22 @@
    "policy": "open",
    "repo-type": [
     "workshop"
+   ]
+  }
+ },
+ {
+  "name": "permissions-ws-2022",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tool",
+    "project"
    ]
   }
  },
