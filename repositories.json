@@ -6513,8 +6513,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/dap-charter/DASCharter-2021.html",
-  "description": "Devices and Sensors Working Group charter",
+  "homepageUrl": "",
+  "description": "New repository: https://github.com/w3c/das-charter",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -6523,8 +6523,9 @@
    "contacts": [
     "xfq"
    ],
+   "policy": "open",
    "repo-type": [
-    "process"
+    "others"
    ]
   }
  },
@@ -6584,6 +6585,26 @@
    ],
    "repo-type": [
     "tests"
+   ]
+  }
+ },
+ {
+  "name": "das-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/das-charter/DASCharter-2021.html",
+  "description": "Devices and Sensors Working Group charter",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "process"
    ]
   }
  },
@@ -14058,6 +14079,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "New repository: https://github.com/w3c/screen-wake-lock",
   "isArchived": false,
   "w3cjson": {
