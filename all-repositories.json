@@ -8004,6 +8004,15 @@
   }
  },
  {
+  "name": "cities",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "List of cities with population > 1000  (based on data from geonames.org)",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "clearspec",
   "owner": {
    "login": "w3c"
