@@ -8456,27 +8456,6 @@
   }
  },
  {
-  "name": "dap-charter",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "New repository: https://github.com/w3c/das-charter",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    43696
-   ],
-   "contacts": [
-    "xfq"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "dapt",
   "owner": {
    "login": "w3c"
