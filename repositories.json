@@ -5447,6 +5447,25 @@
   }
  },
  {
+  "name": "adapt-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/adapt-registry/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "registry"
+   ]
+  }
+ },
+ {
   "name": "adpt",
   "owner": {
    "login": "w3c"
