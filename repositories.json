@@ -2842,6 +2842,25 @@
   }
  },
  {
+  "name": "web-smart-card",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Repository for the Web Smart Card Explainer",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webcrypto-secure-curves",
   "owner": {
    "login": "WICG"
