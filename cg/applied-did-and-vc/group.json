@@ -1,0 +1,33 @@
+{
+ "id": 140390,
+ "name": "Decentralized Identifier and Verifiable Credentials Applications Community Group",
+ "is_closed": false,
+ "description": "Decentralized Identifier and Verifiable Credentials Applications Community Group follows below charter:\r\n\r\n\r\n1. Promote open, focussed, fair, rich discussions and collaboration towards application of DIDs and VCs in global public and private domains.\r\n\r\n2. Is guided by various W3C Working and Interest Groups, and collaborates with various Industry Implementors for use of DIDs and VCs in Web, IOT, and Edge computing networks.\r\n\r\n3. Publishes unbiased best practices and reference implementations for easy standards-based adoption and application development.\r\n\r\n4. Collect Questions and Discussion Topics, conduct knowledge sharing sessions and publish reports and minutes of such sessions.",
+ "shortname": "applied-did-and-vc",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/applied-did-and-vc"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/applied-did-and-vc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/applied-did-and-vc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/applied-did-and-vc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/applied-did-and-vc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/applied-did-and-vc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/applied-did-and-vc/participations"
+  }
+ },
+ "identifier": "cg/applied-did-and-vc"
+}
