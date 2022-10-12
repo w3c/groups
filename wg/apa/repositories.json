@@ -141,24 +141,6 @@
   }
  },
  {
-  "name": "caur",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "wg/apa"
-   ],
-   "contacts": [
-    "ruoxiran"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "coga",
   "owner": {
    "login": "w3c"
@@ -200,6 +182,26 @@
     "others"
    ],
    "policy": "restricted"
+  }
+ },
+ {
+  "name": "ctaur",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Collaboration Tool Accessibility User Requirements",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "note"
+   ]
   }
  },
  {
