@@ -7760,24 +7760,6 @@
   }
  },
  {
-  "name": "caur",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    83907
-   ],
-   "contacts": [
-    "ruoxiran"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "cg-charter",
   "owner": {
    "login": "w3c"
@@ -8487,6 +8469,26 @@
    "policy": "open",
    "repo-type": [
     "rec-track",
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "ctaur",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Collaboration Tool Accessibility User Requirements",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    83907
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
     "note"
    ]
   }
