@@ -4947,6 +4947,16 @@
   }
  },
  {
+  "name": "containerd",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://containerd.io",
+  "description": "An open and reliable container runtime",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "depth-sensing",
   "owner": {
    "login": "immersive-web"
