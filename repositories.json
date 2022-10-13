@@ -2332,6 +2332,24 @@
   }
  },
  {
+  "name": "screen-brightness",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "scroll-animations",
   "owner": {
    "login": "WICG"
@@ -2670,7 +2688,7 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
+  "homepageUrl": "https://wicg.github.io/unload-beacon/",
   "description": "A better beaconing API",
   "isArchived": false,
   "w3cjson": {
