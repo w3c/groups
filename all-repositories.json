@@ -4867,6 +4867,16 @@
   }
  },
  {
+  "name": "apache-spark",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://spark.apache.org/",
+  "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "ar-common",
   "owner": {
    "login": "immersive-web"
