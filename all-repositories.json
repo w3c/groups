@@ -15623,7 +15623,17 @@
   },
   "description": "RDF-star Working Group",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    139681
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "rdf-star-wg-charter",
