@@ -1,0 +1,21 @@
+[
+ {
+  "name": "rdf-star-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF-star Working Group",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
