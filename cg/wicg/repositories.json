@@ -1953,6 +1953,26 @@
   }
  },
  {
+  "name": "pending-beacon",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/pending-beacon/",
+  "description": "A better beaconing API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "performance-measure-memory",
   "owner": {
    "login": "WICG"
@@ -2647,26 +2667,6 @@
   },
   "homepageUrl": "https://wicg.github.io/ua-client-hints/",
   "description": "Wouldn't it be nice if `User-Agent` was a (set of) client hints?",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "unload-beacon",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/unload-beacon/",
-  "description": "A better beaconing API",
   "isArchived": false,
   "w3cjson": {
    "group": [
