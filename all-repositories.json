@@ -2117,6 +2117,26 @@
   "w3cjson": null
  },
  {
+  "name": "pending-beacon",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/pending-beacon/",
+  "description": "A better beaconing API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "performance-entry",
   "owner": {
    "login": "WICG"
@@ -2872,26 +2892,6 @@
   },
   "homepageUrl": "https://wicg.github.io/ua-client-hints/",
   "description": "Wouldn't it be nice if `User-Agent` was a (set of) client hints?",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "unload-beacon",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/unload-beacon/",
-  "description": "A better beaconing API",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -4867,16 +4867,6 @@
   }
  },
  {
-  "name": "apache-spark",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "homepageUrl": "https://spark.apache.org/",
-  "description": "Apache Spark - A unified analytics engine for large-scale data processing",
-  "isArchived": false,
-  "w3cjson": null
- },
- {
   "name": "ar-common",
   "owner": {
    "login": "immersive-web"
@@ -4955,16 +4945,6 @@
     "cg-report"
    ]
   }
- },
- {
-  "name": "containerd",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "homepageUrl": "https://containerd.io",
-  "description": "An open and reliable container runtime",
-  "isArchived": false,
-  "w3cjson": null
  },
  {
   "name": "depth-sensing",
@@ -5151,25 +5131,6 @@
     "homepage"
    ]
   }
- },
- {
-  "name": "kubernetes",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "homepageUrl": "https://kubernetes.io",
-  "description": "Production-Grade Container Scheduling and Management",
-  "isArchived": false,
-  "w3cjson": null
- },
- {
-  "name": "kubernetes-kubeadm",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "description": "Aggregator for issues filed against kubeadm",
-  "isArchived": false,
-  "w3cjson": null
  },
  {
   "name": "layers",
