@@ -7492,7 +7492,18 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false
+  "isArchived": false,
+  "w3cjson": {
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "group": [
+    "cg/av4browsers"
+   ]
+  }
  },
  {
   "name": "badging",
