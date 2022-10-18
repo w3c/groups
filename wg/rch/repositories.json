@@ -1,5 +1,23 @@
 [
  {
+  "name": "rch-explainer",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rch"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "rch-rdc",
   "owner": {
    "login": "w3c"
