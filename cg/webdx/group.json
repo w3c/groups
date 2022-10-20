@@ -1,0 +1,33 @@
+{
+ "id": 140537,
+ "name": "WebDX Community Group",
+ "is_closed": false,
+ "description": "The mission of the WebDX Community Group is to facilitate coordinated approaches to improve the overall experience of developing for the Web platform when such coordination provides unique opportunities for these improvements. See its <a rel=\"nofollow\" href=\"https://github.com/web-platform-dx/admin/blob/main/charter.md\">proposed charter</a>.",
+ "shortname": "webdx",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webdx"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webdx/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webdx/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webdx/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webdx/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webdx/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webdx/participations"
+  }
+ },
+ "identifier": "cg/webdx"
+}
