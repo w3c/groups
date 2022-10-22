@@ -23545,6 +23545,24 @@
   }
  },
  {
+  "name": "yml2vocab",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/yml2vocab",
+  "description": "Generate RDFS vocabulary files from YAML",
+  "isArchived": false,
+  "w3cjson": {
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tool",
+    "project"
+   ]
+  }
+ },
+ {
   "name": "zakim-monitor",
   "owner": {
    "login": "w3c"
