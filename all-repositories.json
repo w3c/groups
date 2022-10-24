@@ -950,6 +950,24 @@
   }
  },
  {
+  "name": "element-capture",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "element-timing",
   "owner": {
    "login": "WICG"
