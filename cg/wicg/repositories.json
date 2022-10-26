@@ -2622,25 +2622,6 @@
   }
  },
  {
-  "name": "sw-launch",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Service Worker Launch Event",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "trust-token-api",
   "owner": {
    "login": "WICG"
@@ -2828,6 +2809,26 @@
    ],
    "contacts": [
     "bokand"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "web-app-launch",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "Web App Launch Handler",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "marcoscaceres"
    ],
    "repo-type": [
     "cg-report"
