@@ -2830,25 +2830,6 @@
   }
  },
  {
-  "name": "sw-launch",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Service Worker Launch Event",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "time-to-interactive",
   "owner": {
    "login": "WICG"
@@ -3063,6 +3044,26 @@
    ],
    "contacts": [
     "bokand"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "web-app-launch",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "Web App Launch Handler",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "marcoscaceres"
    ],
    "repo-type": [
     "cg-report"
