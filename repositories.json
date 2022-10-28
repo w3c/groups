@@ -2468,24 +2468,6 @@
   }
  },
  {
-  "name": "shared-element-transitions",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "shared-storage",
   "owner": {
    "login": "WICG"
@@ -2786,6 +2768,24 @@
   },
   "homepageUrl": "https://wicg.github.io/video-rvfc/",
   "description": "video.requestVideoFrameCallback() incubation",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "view-transitions",
+  "owner": {
+   "login": "WICG"
+  },
   "isArchived": false,
   "w3cjson": {
    "group": [
