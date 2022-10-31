@@ -884,6 +884,24 @@
   }
  },
  {
+  "name": "document-picture-in-picture",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "document-policy",
   "owner": {
    "login": "WICG"
