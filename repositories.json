@@ -4136,6 +4136,27 @@
   }
  },
  {
+  "name": "front-facing-camera",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Incubation repository for access to front-facing-camera. Repo contact  Piotr Bialecki",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "geo-alignment",
   "owner": {
    "login": "immersive-web"
