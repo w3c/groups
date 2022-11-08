@@ -7,7 +7,7 @@
  "discr": "w3cgroup",
  "type": "working group",
  "start-date": "2015-10-21",
- "end-date": "2022-10-31",
+ "end-date": "2024-12-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/payments"
@@ -34,7 +34,7 @@
    "href": "https://api.w3.org/groups/wg/payments/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/payments/charters/386"
+   "href": "https://api.w3.org/groups/wg/payments/charters/469"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/payments/join"
