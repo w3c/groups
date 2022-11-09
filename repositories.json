@@ -3632,6 +3632,25 @@
   }
  },
  {
+  "name": "root-scanning",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Spec proposal for scanning/marking of linear memory GC roots",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "sign-extension-ops",
   "owner": {
    "login": "WebAssembly"
