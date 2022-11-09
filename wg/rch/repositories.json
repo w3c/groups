@@ -18,11 +18,11 @@
   }
  },
  {
-  "name": "rch-rdc",
+  "name": "rch-rdh",
   "owner": {
    "login": "w3c"
   },
-  "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
+  "description": "RDF Dataset Hash (deliverable of the RCH working group)",
   "isArchived": false,
   "w3cjson": {
    "group": [
@@ -37,11 +37,11 @@
   }
  },
  {
-  "name": "rch-rdh",
+  "name": "rdf-canon",
   "owner": {
    "login": "w3c"
   },
-  "description": "RDF Dataset Hash (deliverable of the RCH working group)",
+  "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
   "isArchived": false,
   "w3cjson": {
    "group": [
