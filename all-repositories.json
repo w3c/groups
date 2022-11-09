@@ -4048,6 +4048,25 @@
   }
  },
  {
+  "name": "root-scanning",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Spec proposal for scanning/marking of linear memory GC roots",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "sign-extension-ops",
   "owner": {
    "login": "WebAssembly"
@@ -5343,6 +5362,15 @@
     "cg-report"
    ]
   }
+ },
+ {
+  "name": "prebid-server",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Server side component to offload prebid processing to the cloud",
+  "isArchived": false,
+  "w3cjson": null
  },
  {
   "name": "privacy-and-security",
