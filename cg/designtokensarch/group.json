@@ -1,0 +1,33 @@
+{
+ "id": 140848,
+ "name": "Design Tokens Architecture Community Group",
+ "is_closed": false,
+ "description": "This Community Group will develop the Design Tokens Architecture: A methodology to collect, store and distribute design tokens systematically at scale, from simple, single brands, to widely complex, multi-brand organizations.\r\n\r\nThis group will also produce the Design Tokens Architecture Specification to define taxonomy conventions for design tokens and design token systems.\r\n\r\nThe Design Tokens Architecture Specification will also aim to extend the scope of design tokens from design-specific attributes to textual elements, utilities, code snippets, functions, and assets. And offer broader cross-platform applicability and reliability and cross-team understandability due to the addition of token clusters, token tiers, token categories, and token types.",
+ "shortname": "designtokensarch",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/designtokensarch"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/designtokensarch/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/designtokensarch/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/designtokensarch/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/designtokensarch/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/designtokensarch/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/designtokensarch/participations"
+  }
+ },
+ "identifier": "cg/designtokensarch"
+}
