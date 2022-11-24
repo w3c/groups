@@ -2504,6 +2504,24 @@
   }
  },
  {
+  "name": "soft-navigations",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "sparrow",
   "owner": {
    "login": "WICG"
