@@ -16859,9 +16859,17 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "https://w3c.github.io/stackoverflow",
+  "homepageUrl": "https://w3c.github.io/stackoverflow",
+  "description": "Find current questions and answers at Stack Overflow related to various web-platform technology areas",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "contacts": [
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "standards-track",
