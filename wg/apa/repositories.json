@@ -41,6 +41,25 @@
   }
  },
  {
+  "name": "aac-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/aac-registry/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "registry"
+   ]
+  }
+ },
+ {
   "name": "adapt",
   "owner": {
    "login": "w3c"
@@ -59,25 +78,6 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "adapt-registry",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/adapt-registry/",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "wg/apa"
-   ],
-   "contacts": [
-    "ruoxiran"
-   ],
-   "repo-type": [
-    "registry"
    ]
   }
  },
