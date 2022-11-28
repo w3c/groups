@@ -16335,6 +16335,26 @@
   }
  },
  {
+  "name": "webmachinelearning-ethics",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://www.w3.org/TR/webmachinelearning-ethics/",
+  "description": "😇 Ethical Principles for Web Machine Learning",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webmachinelearning"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "webnn",
   "owner": {
    "login": "webmachinelearning"
