@@ -2,7 +2,7 @@
  "id": 115641,
  "name": "Entity Reconciliation Community Group",
  "is_closed": false,
- "description": "Matching entities across data sources using different identifiers and formats is a pervasive issue on the web.\r\n\r\nThis group revolves around developing a web API that data providers can expose, which eases the reconciliation of third-party data to their own identifiers. OpenRefine's reconciliation API is used as a starting point. Our goals are to document this existing API, share our experiences and lessons learnt from it, propose an improved protocol in the view of promoting it as a standard, and build tooling around it.\r\n\r\nA description of the existing protocol can be found here:\r\nhttps://github.com/OpenRefine/OpenRefine/wiki/Reconciliation-Service-API",
+ "description": "Matching entities across data sources using different identifiers and formats is a pervasive issue on the web. This group revolves around developing a web API that data providers can expose, which eases the reconciliation of third-party data to their own identifiers. OpenRefine's reconciliation API is used as a starting point. Our goals are to document this existing API, share our experiences and lessons learnt from it, propose an improved protocol in the view of promoting it as a standard, and build tooling around it. A description of the existing protocol can be found here: https://reconciliation-api.github.io/specs/latest/\r\n",
  "shortname": "reconciliation",
  "discr": "w3cgroup",
  "type": "community group",
