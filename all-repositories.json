@@ -4778,7 +4778,7 @@
   },
   "homepageUrl": "https://gpuweb.github.io/WSL/",
   "description": "Web Shading Language",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -4870,7 +4870,7 @@
    "login": "gpuweb"
   },
   "description": "API Proposals",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -4879,7 +4879,7 @@
    "login": "gpuweb"
   },
   "description": "SPIR-V for WebGPU documents (execution environment and more!)",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
