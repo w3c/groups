@@ -7,8 +7,6 @@
     "group": [ "cg/audio-comgp" ] },
   { "login":  "webmachinelearning",
     "group": [ "cg/webmachinelearning" ] },
-  { "login":  "WICG",
-    "group": [ "cg/wicg" ] },
   { "login":  "webassembly",
     "group": [ "cg/webassembly" ] },
   { "login":  "immersive-web",
