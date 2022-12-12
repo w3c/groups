@@ -17,5 +17,23 @@
     "rec-track"
    ]
   }
+ },
+ {
+  "name": "rdf12-overview",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  }
 ]
