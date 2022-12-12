@@ -1,28 +1,5 @@
 [
  {
-  "name": "first-party-sets",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/first-party-sets/",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/privacycg"
-   ],
-   "contacts": [
-    "hober",
-    "TanviHacks",
-    "erik-anderson",
-    "wseltzer",
-    "weiler"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "ad-topic-hints",
   "owner": {
    "login": "privacycg"
