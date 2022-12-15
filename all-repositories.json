@@ -1079,6 +1079,16 @@
   "owner": {
    "login": "WebAssembly"
   },
+  "isArchived": true,
+  "w3cjson": null
+ },
+ {
+  "name": "wasi-messaging",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "pubsub proposal for WASI",
   "isArchived": false,
   "w3cjson": null
  },
@@ -1114,16 +1124,6 @@
    "login": "WebAssembly"
   },
   "description": "Starter template for proposing a new WASI API",
-  "isArchived": false,
-  "w3cjson": null
- },
- {
-  "name": "wasi-pubsub",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "",
-  "description": "pubsub proposal for WASI",
   "isArchived": false,
   "w3cjson": null
  },
