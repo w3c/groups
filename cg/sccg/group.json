@@ -1,0 +1,33 @@
+{
+ "id": 141487,
+ "name": "Screen Capture Community Group",
+ "is_closed": false,
+ "description": "<h2>Background</h2>\r\n\r\nScreen capture is useful in many contexts, such as when delivering presentations, collaborating with remote colleagues, or producing local recordings. The Web Platform offers APIs to that end, allowing Web applications to capture screens, windows or tabs, and allowing the captured media to be manipulated in various productive ways.\r\n\r\nThe popularity of these APIs, and the ubiquity of the applications that use them, are a testament to the importance of the work that has been done thus far.\r\n\r\n<h2>Mission</h2>\r\n\r\nWe believe that there is yet more untapped potential in the realm of screen capture. It is our mission to innovate further and unblock additional novel uses of screen capture, creating new business opportunities for developers and enriching the lives of users.\r\n\r\n<h2>Scope</h2>\r\n\r\nAs part of this charter, the Screen capture Community Group is focusing its activities on producing new screen capture APIs and extending existing ones. APIs directly involving screen capture are in scope, as are APIs that would typically be used in tandem with screen capture.\r\n\r\n<h2>Work mode</h2>\r\n\r\nThe group will conduct all of its technical work in public, on GitHub repositories, with a supporting mailing list for logistical and administrative purposes.\r\n\r\nMeetings will normally be public and open to anyone to join. Should the need arise, meetings may be restricted to Community Group participants and guests invited by the group chairs. In either case, a public summary or minutes will be made available publicly.\r\n\r\n<h2>Amendments to this charter</h2>\r\n\r\nThe group chairs can amend the charter.",
+ "shortname": "sccg",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sccg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/sccg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sccg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sccg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sccg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sccg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sccg/participations"
+  }
+ },
+ "identifier": "cg/sccg"
+}
