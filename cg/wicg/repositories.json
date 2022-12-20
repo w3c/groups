@@ -20,27 +20,6 @@
   }
  },
  {
-  "name": "badging",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/badging/",
-  "description": "Badging Web API",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres",
-    "mgiuca"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "contact-api",
   "owner": {
    "login": "w3c"
