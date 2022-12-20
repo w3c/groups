@@ -63,6 +63,27 @@
   }
  },
  {
+  "name": "badging",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/badging/",
+  "description": "Badging Web API",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "marcoscaceres",
+    "mgiuca"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "gamepad",
   "owner": {
    "login": "w3c"
