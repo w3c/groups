@@ -20,12 +20,12 @@
   }
  },
  {
-  "name": "contact-api",
+  "name": "contact-picker",
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/contact-api/spec/",
-  "description": "Proposal for a Web Contact API",
+  "homepageUrl": "https://w3c.github.io/contact-picker/spec/",
+  "description": "Contact Picker API",
   "isArchived": false,
   "w3cjson": {
    "group": [
