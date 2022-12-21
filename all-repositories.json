@@ -2692,6 +2692,15 @@
   }
  },
  {
+  "name": "requestStorageAccessForOrigin",
+  "owner": {
+   "login": "privacycg"
+  },
+  "description": "A proposed extension to the Storage Access API and discussion of how it may be integrated with First-Party Sets.",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "storage-access",
   "owner": {
    "login": "privacycg"
