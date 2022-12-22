@@ -1,0 +1,27 @@
+[
+ {
+  "name": "webvtt",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/webvtt/",
+  "description": "WebVTT Standard",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text",
+    "cg/texttracks"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track",
+    "cg-report"
+   ],
+   "shortname": [
+    "webvtt"
+   ]
+  }
+ }
+]
