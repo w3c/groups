@@ -19596,15 +19596,19 @@
   "isArchived": false,
   "w3cjson": {
    "group": [
-    34314
+    34314,
+    49808
    ],
    "contacts": [
-    "plehegar"
+    "himorin"
    ],
    "repo-type": [
+    "rec-track",
     "cg-report"
    ],
-   "shortName": "webvtt"
+   "shortname": [
+    "webvtt"
+   ]
   }
  },
  {
