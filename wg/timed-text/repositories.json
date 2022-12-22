@@ -632,15 +632,19 @@
   "isArchived": false,
   "w3cjson": {
    "group": [
-    "wg/timed-text"
+    "wg/timed-text",
+    "cg/texttracks"
    ],
    "contacts": [
-    "plehegar"
+    "himorin"
    ],
    "repo-type": [
+    "rec-track",
     "cg-report"
    ],
-   "shortName": "webvtt"
+   "shortname": [
+    "webvtt"
+   ]
   }
  }
 ]
