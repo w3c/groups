@@ -10074,6 +10074,29 @@
   }
  },
  {
+  "name": "vc-status-list-2021",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-status-list-2021/",
+  "description": "A privacy-preserving mechanism to publish status information for Verifiable Credentials.",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "msporny",
+    "dlongley",
+    "iherman"
+   ],
+   "shortName": "vc-status-list-2021",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "vc-test-suite",
   "owner": {
    "login": "w3c"
