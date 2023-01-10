@@ -9421,6 +9421,25 @@
   }
  },
  {
+  "name": "mathml-polyfills",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://mathml-refresh.github.io/mathml-polyfills/",
+  "description": "Polyfills for MathML features",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
+  "name": "mathml-schema",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Generated Schema for MathML4 drafts",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "mathml.old",
   "owner": {
    "login": "w3c"
