@@ -1,0 +1,52 @@
+{
+ "id": 141775,
+ "name": "Board Finance Committee",
+ "is_closed": false,
+ "description": "The W3C Board Finance Committee assists the Board in fulfilling its oversight responsibilities to hold the Consortium to account regarding:\r\n<ul>\r\n    <li>On-going financial viability;\r\n    <li>Financial budgets and the availability of all analysis relevant to Consortium finances;\r\n    <li>Internal controls and financial/accounting processes;\r\n    <li>Accuracy and timeliness of financial statements.\r\n</ul>\r\nLearn more in its <a href=\"https://www.w3.org/2022/10/bod-finance.html\">2022 charter</a>.",
+ "shortname": "board-finance",
+ "members": [
+  {
+   "id": 140563,
+   "name": "Board of Directors",
+   "is_closed": false,
+   "description": "W3C Board of Directors",
+   "shortname": "board",
+   "discr": "group",
+   "_links": {
+    "self": {
+     "href": "https://api.w3.org/groups/other/board"
+    },
+    "homepage": {
+     "href": "https://www.w3.org/governance/board/"
+    },
+    "users": {
+     "href": "https://api.w3.org/groups/other/board/users"
+    },
+    "services": {
+     "href": "https://api.w3.org/groups/other/board/services"
+    },
+    "chairs": {
+     "href": "https://api.w3.org/groups/other/board/chairs"
+    }
+   }
+  }
+ ],
+ "internal": false,
+ "participants_list_public": true,
+ "discr": "tf",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/tf/board-finance"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/board-finance/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/board-finance/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/board-finance/chairs"
+  }
+ },
+ "identifier": "tf/board-finance"
+}
