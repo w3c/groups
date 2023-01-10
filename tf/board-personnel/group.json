@@ -1,0 +1,52 @@
+{
+ "id": 141773,
+ "name": "Board Personnel Committee",
+ "is_closed": false,
+ "description": "The W3C Board Personnel Committee provides guidance, oversight, and support to W3C management as it develops and implements personnel employment, performance management, and compensation systems.<br>\r\nLearn more in its <a href=\"https://www.w3.org/2022/10/bod-personnel.html\">2022 charter</a>.",
+ "shortname": "board-personnel",
+ "members": [
+  {
+   "id": 140563,
+   "name": "Board of Directors",
+   "is_closed": false,
+   "description": "W3C Board of Directors",
+   "shortname": "board",
+   "discr": "group",
+   "_links": {
+    "self": {
+     "href": "https://api.w3.org/groups/other/board"
+    },
+    "homepage": {
+     "href": "https://www.w3.org/governance/board/"
+    },
+    "users": {
+     "href": "https://api.w3.org/groups/other/board/users"
+    },
+    "services": {
+     "href": "https://api.w3.org/groups/other/board/services"
+    },
+    "chairs": {
+     "href": "https://api.w3.org/groups/other/board/chairs"
+    }
+   }
+  }
+ ],
+ "internal": false,
+ "participants_list_public": true,
+ "discr": "tf",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/tf/board-personnel"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/board-personnel/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/board-personnel/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/board-personnel/chairs"
+  }
+ },
+ "identifier": "tf/board-personnel"
+}
