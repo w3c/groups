@@ -2523,6 +2523,15 @@
   }
  },
  {
+  "name": "gpc-spec",
+  "owner": {
+   "login": "privacycg"
+  },
+  "description": "Global Privacy Control Specification",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "is-logged-in",
   "owner": {
    "login": "privacycg"
