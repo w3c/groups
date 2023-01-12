@@ -8328,6 +8328,132 @@
   }
  },
  {
+  "name": "rdf-concepts",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-n-quads",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-n-triples",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-new",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-primer",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-schema",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-semantics",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "rdf-star",
   "owner": {
    "login": "w3c"
@@ -8388,7 +8514,43 @@
   }
  },
  {
-  "name": "rdf12-overview",
+  "name": "rdf-trig",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-turtle",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-xml",
   "owner": {
    "login": "w3c"
   },
@@ -8947,6 +9109,222 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "sparql-concepts",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-entailment",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-federated-query",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-graph-store-protocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-new",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-protocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-query",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-results-csv-tsv",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-results-json",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-results-xml",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-service-description",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "sparql-update",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
