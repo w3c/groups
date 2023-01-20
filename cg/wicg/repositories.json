@@ -20,26 +20,6 @@
   }
  },
  {
-  "name": "contact-picker",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/contact-picker/spec/",
-  "description": "Contact Picker API",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "web-share-target",
   "owner": {
    "login": "w3c"
