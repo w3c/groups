@@ -3390,13 +3390,14 @@
   "isArchived": false,
   "w3cjson": {
    "group": [
-    "cg/wicg"
+    "wg/das",
+    "wg/webapps"
    ],
    "contacts": [
-    "yoavweiss"
+    "himorin"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ]
   }
  },
