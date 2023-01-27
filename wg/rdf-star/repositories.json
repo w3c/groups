@@ -1,5 +1,23 @@
 [
  {
+  "name": "rdf-common",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "rdf-concepts",
   "owner": {
    "login": "w3c"
