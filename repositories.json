@@ -1816,6 +1816,28 @@
   }
  },
  {
+  "name": "gpc-spec",
+  "owner": {
+   "login": "privacycg"
+  },
+  "description": "Global Privacy Control Specification",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
+   ],
+   "contacts": [
+    "hober",
+    "martinthomson",
+    "erik-anderson",
+    "weiler"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "is-logged-in",
   "owner": {
    "login": "privacycg"
