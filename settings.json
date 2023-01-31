@@ -8,7 +8,7 @@
   { "login":  "webmachinelearning",
     "group": [ "cg/webmachinelearning" ] },
   { "login":  "webassembly",
-    "group": [ "cg/webassembly" ] },
+    "group": [ "cg/webassembly", "wg/wasm" ] },
   { "login":  "immersive-web",
     "group": [ "cg/immersive-web" ] },
   { "login":  "w3ctag",
