@@ -13389,6 +13389,25 @@
   }
  },
  {
+  "name": "wot-charter-drafts",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "ig/wot"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "wot-discovery",
   "owner": {
    "login": "w3c"
