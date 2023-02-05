@@ -1,0 +1,33 @@
+{
+ "id": 142288,
+ "name": "Blockchain Naming System Community Group",
+ "is_closed": false,
+ "description": "Explore blockchain based naming system used to name wallets and other objects stored in blockchains, such as non-fungible tokens.\r\n\r\nBlockchain elements are referred to by a long hexadecimal string. Just like IPv6 addresses, those are hard to remember. Creating human-friendly names that resolve to those strings was deemed an important step for the early adoption of blockchain technologies. Early blockchain developers did not develop DNS extensions for that purpose. They created entirely new alternative naming systems based on the particular blockchain they were working on. \r\nWe are exploring all options for a unified web based solution to the problem.",
+ "shortname": "blockchain-names",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/blockchain-names"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/blockchain-names/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/blockchain-names/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/blockchain-names/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/blockchain-names/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/blockchain-names/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/blockchain-names/participations"
+  }
+ },
+ "identifier": "cg/blockchain-names"
+}
