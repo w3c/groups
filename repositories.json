@@ -10478,6 +10478,27 @@
   }
  },
  {
+  "name": "vc-di-eddsa",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-di-eddsa/",
+  "description": "EdDSA Data Integrity Cryptosuites Specification",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-di-eddsa",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "vc-imp-guide",
   "owner": {
    "login": "w3c"
