@@ -20,6 +20,24 @@
   }
  },
  {
+  "name": "audio-focus",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "web-share-target",
   "owner": {
    "login": "w3c"
