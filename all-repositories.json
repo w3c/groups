@@ -4199,6 +4199,24 @@
   }
  },
  {
+  "name": "audio-focus",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "audiobooks",
   "owner": {
    "login": "w3c"
