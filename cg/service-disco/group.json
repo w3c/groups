@@ -1,0 +1,33 @@
+{
+ "id": 142387,
+ "name": "Service Discovery Community Group",
+ "is_closed": false,
+ "description": "The internet has several service discovery mechanisms, such as SRV records and mDNS which are not exposed to web clients.\r\n\r\nThe purpose of this CG will be to define a browser API allowing service discovery via these and other relevant mechanisms.",
+ "shortname": "service-disco",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/service-disco"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/service-disco/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/service-disco/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/service-disco/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/service-disco/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/service-disco/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/service-disco/participations"
+  }
+ },
+ "identifier": "cg/service-disco"
+}
