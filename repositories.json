@@ -617,6 +617,24 @@
   }
  },
  {
+  "name": "rounding-mode-control",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "sign-extension-ops",
   "owner": {
    "login": "WebAssembly"
