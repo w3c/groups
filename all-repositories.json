@@ -4199,20 +4199,22 @@
   }
  },
  {
-  "name": "audio-focus",
+  "name": "audio-session",
   "owner": {
    "login": "w3c"
   },
   "isArchived": false,
   "w3cjson": {
    "group": [
-    80485
+    null
    ],
    "contacts": [
-    "marcoscaceres"
+    "tidoust",
+    "jernoble",
+    "chrisn"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ]
   }
  },
