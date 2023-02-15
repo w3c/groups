@@ -768,7 +768,17 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "sign-extension-ops",
