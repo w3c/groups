@@ -6936,18 +6936,7 @@
   "homepageUrl": "",
   "description": "Repo for https://www.w3.org/community/fed-id/",
   "isArchived": false,
-  "w3cjson": {
-   "group": [
-    132274
-   ],
-   "contacts": [
-    "wseltzer",
-    "weiler"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
+  "w3cjson": null
  },
  {
   "name": "feedvalidator",
@@ -13418,6 +13407,16 @@
     "rec-track"
    ]
   }
+ },
+ {
+  "name": "secure-the-web-forward-workshop",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/secure-the-web-forward-workshop/",
+  "description": "Materials for a proposed W3C workshop \"Secure the Web Forward\"",
+  "isArchived": false,
+  "w3cjson": null
  },
  {
   "name": "security-disclosure",
