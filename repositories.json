@@ -4674,27 +4674,6 @@
   }
  },
  {
-  "name": "fedidcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "Repo for https://www.w3.org/community/fed-id/",
-  "isArchived": false,
-  "w3cjson": {
-   "group": [
-    "cg/fed-id"
-   ],
-   "contacts": [
-    "wseltzer",
-    "weiler"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "fingerprinting-guidance",
   "owner": {
    "login": "w3c"
