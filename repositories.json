@@ -7308,6 +7308,25 @@
   }
  },
  {
+  "name": "multicast-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Docs for initial W3C Multicast Community Group proposal",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/multicast"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "musicxml",
   "owner": {
    "login": "w3c"
@@ -10560,6 +10579,27 @@
   }
  },
  {
+  "name": "vc-specs-dir",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-specs-dir/",
+  "description": "Verifiable Credential Specifications Directory",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "shortName": "vc-spec-directory"
+  }
+ },
+ {
   "name": "vc-status-list-2021",
   "owner": {
    "login": "w3c"
@@ -13435,6 +13475,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://w3c.github.io/wot-discovery/",
   "description": "Repository for WoT discovery discussion",
   "isArchived": false,
   "w3cjson": {
