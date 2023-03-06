@@ -1,0 +1,21 @@
+[
+ {
+  "name": "multicast-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Docs for initial W3C Multicast Community Group proposal",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "cg/multicast"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
