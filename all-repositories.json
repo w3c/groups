@@ -3383,7 +3383,7 @@
   },
   "homepageUrl": "",
   "description": "Health rules for TPAC 2022",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -4741,8 +4741,7 @@
   },
   "homepageUrl": "https://www.w3.org/community/reports/",
   "description": "A repo to manage and publish W3C Community and Business Groups final reports",
-  "isArchived": false,
-  "w3cjson": null
+  "isArchived": false
  },
  {
   "name": "character_phrase_tests",
@@ -5602,7 +5601,7 @@
    "login": "w3c"
   },
   "description": "repo for the Dev Council Community Group",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -9052,8 +9051,7 @@
    "login": "w3c"
   },
   "description": "Test suite for linkcheckers in general, and W3C's in particular",
-  "isArchived": false,
-  "w3cjson": null
+  "isArchived": false
  },
  {
   "name": "locadd",
@@ -10905,7 +10903,17 @@
   },
   "description": "Docs for initial W3C Multicast Community Group proposal",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "cg/multicast"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "musicxml",
@@ -11311,7 +11319,7 @@
    "login": "w3c"
   },
   "description": "Discussions and documents linked to the relationships W3C has or should have with the Open Source Software ecosystem",
-  "isArchived": false,
+  "isArchived": true,
   "w3cjson": null
  },
  {
@@ -15832,6 +15840,27 @@
    "repo-type": [
     "rec-track"
    ]
+  }
+ },
+ {
+  "name": "vc-specs-dir",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-specs-dir/",
+  "description": "Verifiable Credential Specifications Directory",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "shortName": "vc-spec-directory"
   }
  },
  {
@@ -20475,6 +20504,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://w3c.github.io/wot-discovery/",
   "description": "Repository for WoT discovery discussion",
   "isArchived": false,
   "w3cjson": {
@@ -21106,6 +21136,8 @@
   "owner": {
    "login": "w3cping"
   },
+  "homepageUrl": "",
+  "description": "tracking privacy reviews of W3C specifications",
   "isArchived": false,
   "w3cjson": null
  },
