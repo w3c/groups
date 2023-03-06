@@ -2198,6 +2198,15 @@
   }
  },
  {
+  "name": "semantic-labels",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "This repository will list all the semantic labels that can be returned by various WebXR APIs",
+  "isArchived": false,
+  "w3cjson": null
+ },
+ {
   "name": "spatial-favicons",
   "owner": {
    "login": "immersive-web"
