@@ -1,0 +1,33 @@
+{
+ "id": 142919,
+ "name": "CV 3.0 - Global Resume Community Group",
+ "is_closed": false,
+ "description": "Move the current textual and graphical resume to a structured, accessible, privacy-respecting resume format that benefits both applicants and recruiters while giving applicants ultimate control of their data.",
+ "shortname": "cv3",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cv3"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/cv3/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cv3/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cv3/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cv3/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cv3/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cv3/participations"
+  }
+ },
+ "identifier": "cg/cv3"
+}
