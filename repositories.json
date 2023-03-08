@@ -8212,6 +8212,28 @@
   }
  },
  {
+  "name": "publ-maintenance-wg-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/publ-maintenance-wg-charter/",
+  "description": "Initial version of the Publication Maintenance WG charter",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/epub",
+    "wg/publ"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "process"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "publ-tests",
   "owner": {
    "login": "w3c"
