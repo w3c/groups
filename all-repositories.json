@@ -13455,7 +13455,14 @@
   "homepageUrl": "https://w3c.github.io/secure-the-web-forward-workshop/",
   "description": "Materials for a proposed W3C workshop \"Secure the Web Forward\"",
   "isArchived": false,
-  "w3cjson": null
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "workshop"
+   ]
+  }
  },
  {
   "name": "security-disclosure",
