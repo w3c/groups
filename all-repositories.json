@@ -15799,6 +15799,27 @@
   }
  },
  {
+  "name": "vc-di-ecdsa",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-di-ecdsa/",
+  "description": "Data Integrity specification for ECDSA using NIST-compliant curves",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-di-ecdsa",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "vc-di-eddsa",
   "owner": {
    "login": "w3c"
