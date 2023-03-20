@@ -1,0 +1,33 @@
+{
+ "id": 143201,
+ "name": "Autonomous Agents on the Web Community Group",
+ "is_closed": false,
+ "description": "This community group is interested in the design of Web-based Multi-Agent Systems (MAS) for the deployment of world-wide hybrid communities of people and artificial agents on the Web. \r\n\r\nOur aim is to design a new class of Web-based MAS that are aligned with the Web Architecture to inherit the properties of the Web (world-wide, open, long-lived, etc.), and are also transparent and accountable to support acceptance by people.\r\n\r\nWe are especially interested in the use of Linked Data and Semantic Web standards for weaving a hypermedia fabric that enables uniform interaction among heterogeneous entities: people, artificial agents, devices, digital services, knowledge repositories, etc. We refer to this new class of Web-based MAS as Hypermedia MAS (hMAS).\r\n\r\nThis community group brings together experts actively contributing to advances in autonomous agents and MAS, the Web Architecture and the Web of Things, Semantic Web and Linked Data, and Web standards in general — as well as any other areas that could contribute to this approach for distributed intelligence on the Web.",
+ "shortname": "webagents",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webagents"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/webagents/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webagents/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webagents/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webagents/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webagents/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webagents/participations"
+  }
+ },
+ "identifier": "cg/webagents"
+}
