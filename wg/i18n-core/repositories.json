@@ -6,6 +6,7 @@
   },
   "description": "African language enablement for the Web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -27,6 +28,7 @@
   "homepageUrl": "",
   "description": "Documenting gaps and requirements for support of Arabic and Persian on the Web and in eBooks.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -48,6 +50,7 @@
   "homepageUrl": "",
   "description": "Enabling the Web for languages of the Americas",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/i18n",
@@ -70,6 +73,7 @@
   "homepageUrl": "https://w3c.github.io/bp-i18n-specdev/",
   "description": "Internationalization Best Practices for Spec Developers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -91,6 +95,7 @@
   "homepageUrl": "https://w3c.github.io/charmod-norm/",
   "description": "Character Model for the World Wide Web: String Matching and Searching",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -112,6 +117,7 @@
   "homepageUrl": "https://w3c.github.io/clreq/",
   "description": "Requirements for Chinese Text Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -132,6 +138,7 @@
   },
   "description": "Ethiopic Layout Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -152,6 +159,7 @@
   },
   "description": "European language enablement",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -172,6 +180,7 @@
   },
   "description": "Hebrew script layout requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
@@ -194,6 +203,7 @@
   },
   "description": "Home pages, charters, style-guides, and similar documents related to the W3C Internationalization Activity.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -217,6 +227,7 @@
   "homepageUrl": "https://validator.w3.org/i18n-checker/",
   "description": "W3C's i18n checker",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -237,6 +248,7 @@
   },
   "description": "A place to hold discussions on i18n topics, and to put documents that summarise, support or initiate those discussions.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -257,6 +269,7 @@
   },
   "description": "A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -278,6 +291,7 @@
   "homepageUrl": "https://w3c.github.io/i18n-glossary/",
   "description": "Definitions of terms used in W3C Internationalization documents.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -298,6 +312,7 @@
   },
   "description": "A place to log problems encountered when developing web sites and pages for international use.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -319,6 +334,7 @@
   "homepageUrl": "https://github.com/w3c/i18n-request/projects/1",
   "description": "Horizontal review requests are made via issues in this repo, and tracked by our radar.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -340,6 +356,7 @@
   "homepageUrl": "https://www.w3.org/International/i18n-tests/",
   "description": "Internationalization tests run with the W3C i18n test suite.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -360,6 +377,7 @@
   },
   "description": "Tracks translation jobs in progress for w3.org/International pages.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -383,6 +401,7 @@
   "homepageUrl": "https://w3c.github.io/iip/",
   "description": "Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
@@ -406,6 +425,7 @@
   "homepageUrl": "https://github.com/w3c/iip/",
   "description": "Former repo for Indic Layout Requirements. See new repo at",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -427,6 +447,7 @@
   "homepageUrl": "https://w3c.github.io/jlreq/",
   "description": "Text Layout Requirements for Japanese",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
@@ -449,6 +470,7 @@
   },
   "description": "Requirements for Japanese Digital Text Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
@@ -470,6 +492,7 @@
   },
   "description": "Requirements for Hangul Text Layout and Typography",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -490,6 +513,7 @@
   },
   "description": "Create interactive tests here for language enablement, gap analyis, exploration, etc.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -510,6 +534,7 @@
   "homepageUrl": "https://w3c.github.io/localizable-manifests/",
   "description": "Definitions and best practices related to the specification of manifest files and similar document formats on the Web.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -531,6 +556,7 @@
   "homepageUrl": "http://w3c.github.io/ltli/",
   "description": "Language Tags and Locale Identifiers for the World Wide Web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -551,6 +577,7 @@
   },
   "description": "Mongolian Layout Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
@@ -574,6 +601,7 @@
   "homepageUrl": "https://w3c.github.io/predefined-counter-styles/",
   "description": "Predefined Counter Styles",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "r12a"
@@ -593,6 +621,7 @@
   },
   "description": "Southeast Asian layout task force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-sealreq",
@@ -616,6 +645,7 @@
   "homepageUrl": "https://w3c.github.io/string-meta/",
   "description": "How to add direction and language metadata to strings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -637,6 +667,7 @@
   "homepageUrl": "https://w3c.github.io/string-search/",
   "description": "Parking lot for advice on internationalization related string searching in general content",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -656,6 +687,7 @@
   },
   "description": "Document interactive tests here for language enablement, gap analyis, exploration, etc.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -675,6 +707,7 @@
   },
   "homepageUrl": "https://w3c.github.io/timezone/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -695,6 +728,7 @@
   },
   "description": "Tibetan Layout Requirements document",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-tlreq",
@@ -718,6 +752,7 @@
   "homepageUrl": "https://w3c.github.io/type-samples/",
   "description": "A place to find and contribute examples of typographic features in text, especially from non-Latin scripts.  Please read the instructions below before contributing images or comments. Use this link to find items 👇",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -739,6 +774,7 @@
   "homepageUrl": "https://w3c.github.io/typography/",
   "description": "Points to typographic information relevant to the Open Web Platform",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -759,6 +795,7 @@
   },
   "description": "Unicode in XML and other Markup Languages",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
