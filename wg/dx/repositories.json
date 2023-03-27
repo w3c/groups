@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/dx-connegp/connegp/",
   "description": "Content Negotiation by Profile",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://w3c.github.io/dx-prof/prof/",
   "description": "The Profiles Vocabulary",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -49,6 +51,7 @@
   "homepageUrl": "https://w3c.github.io/dxwg/dcat/",
   "description": "Data Catalog Vocabulary (DCAT)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -70,6 +73,7 @@
   "homepageUrl": "",
   "description": "Not in use",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
