@@ -14,6 +14,7 @@
         "name",
         "owner",
         "isArchived",
+        "isPrivate",
         "w3cjson"
       ],
       "properties": {
@@ -32,6 +33,10 @@
         "isArchived": {
           "type": "boolean",
           "description": "True if the repository has been archived, false otherwise."
+        },
+        "isPrivate": {
+          "type": "boolean",
+          "description": "True if the repository is a private repository, false otherwise."
         },
         "owner": {
           "type": "object",
