@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "A proposal for a cookie attribute to partition cross-site cookies by top-level site",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/wicg"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://w3c.github.io/web-share-target/",
   "description": "Web API proposal for receiving shared data",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/wicg"
