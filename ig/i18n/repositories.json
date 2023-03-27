@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "Enabling the Web for languages of the Americas",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/i18n",
@@ -28,6 +29,7 @@
   },
   "description": "Hebrew script layout requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
@@ -51,6 +53,7 @@
   "homepageUrl": "https://w3c.github.io/iip/",
   "description": "Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
@@ -74,6 +77,7 @@
   "homepageUrl": "https://w3c.github.io/jlreq/",
   "description": "Text Layout Requirements for Japanese",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
@@ -96,6 +100,7 @@
   },
   "description": "Requirements for Japanese Digital Text Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
@@ -117,6 +122,7 @@
   },
   "description": "Mongolian Layout Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
@@ -139,6 +145,7 @@
   },
   "description": "Southeast Asian layout task force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-sealreq",
@@ -161,6 +168,7 @@
   },
   "description": "Tibetan Layout Requirements document",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-tlreq",
