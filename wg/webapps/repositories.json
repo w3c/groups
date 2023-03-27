@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/FileAPI/",
   "description": "File API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://w3c.github.io/IndexedDB/",
   "description": "Indexed Database API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -49,6 +51,7 @@
   "homepageUrl": "https://www.w3.org/TR/intersection-observer/",
   "description": "Intersection Observer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -70,6 +73,7 @@
   "homepageUrl": "https://w3c.github.io/badging/",
   "description": "Badging Web API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -91,6 +95,7 @@
   "homepageUrl": "https://www.w3.org/TR/contact-picker/",
   "description": "Contact Picker API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das",
@@ -112,6 +117,7 @@
   "homepageUrl": "https://w3c.github.io/gamepad/",
   "description": "Gamepad",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -133,6 +139,7 @@
   "homepageUrl": "https://w3c.github.io/html-aria/",
   "description": "ARIA in HTML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -154,6 +161,7 @@
   "homepageUrl": "https://w3c.github.io/image-resource/",
   "description": "An ImageResource definition for web APIs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -175,6 +183,7 @@
   "homepageUrl": "https://www.w3.org/TR/appmanifest/",
   "description": "Manifest for web apps",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -196,6 +205,7 @@
   "homepageUrl": "https://w3c.github.io/manifest-app-info/",
   "description": "Web App Manifest - Application Information",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -217,6 +227,7 @@
   "homepageUrl": "https://w3c.github.io/pointerlock/",
   "description": "Pointer Lock",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -238,6 +249,7 @@
   "homepageUrl": "https://w3c.github.io/push-api/",
   "description": "Push API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -259,6 +271,7 @@
   "homepageUrl": "https://w3c.github.io/screen-orientation/",
   "description": "The screen orientation lock specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -280,6 +293,7 @@
   "homepageUrl": "https://w3c.github.io/uievents/",
   "description": "UI Events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -301,6 +315,7 @@
   "homepageUrl": "https://w3c.github.io/uievents-code/",
   "description": "UI Events KeyboardEvent code Values",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -322,6 +337,7 @@
   "homepageUrl": "https://w3c.github.io/uievents-key/",
   "description": "UI Events KeyboardEvents key Values",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -343,6 +359,7 @@
   "homepageUrl": "https://w3c.github.io/using-aria/",
   "description": "Using ARIA",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -365,6 +382,7 @@
   "homepageUrl": "https://w3c.github.io/web-locks/",
   "description": "Cross-tab resource coordination API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -385,6 +403,7 @@
   "homepageUrl": "https://www.w3.org/TR/web-share/",
   "description": "Web API proposal for sharing data from a web page",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -408,6 +427,7 @@
   "homepageUrl": "https://www.w3.org/groups/wg/webapps",
   "description": "Web Applications Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
