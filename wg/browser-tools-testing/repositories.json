@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/webdriver/",
   "description": "Remote control interface that enables introspection and control of user agents.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/browser-tools-testing"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://w3c.github.io/webdriver-bidi/",
   "description": "Bidirectional WebDriver protocol for browser automation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/browser-tools-testing"
