@@ -6,6 +6,7 @@
   },
   "description": "Horizontal review requests will be made via issues in this repo.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -27,6 +28,7 @@
   "homepageUrl": "",
   "description": "Horizontal review comments tracking for accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -47,6 +49,7 @@
   },
   "homepageUrl": "https://w3c.github.io/aac-registry/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -67,6 +70,7 @@
   "homepageUrl": "https://w3c.github.io/adapt/",
   "description": "Semantics to describe user personalization preferences.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -89,6 +93,7 @@
   "homepageUrl": "",
   "description": "APA WG deliverables have been moved to individual repositories",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -108,6 +113,7 @@
    "login": "w3c"
   },
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -128,6 +134,7 @@
   "homepageUrl": "https://w3c.github.io/captcha-accessibility/",
   "description": "Inaccessibility of CAPTCHA",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -147,6 +154,7 @@
   },
   "description": "Cognitive and Learning Disabilities Accessibility Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag",
@@ -169,6 +177,7 @@
   },
   "description": "Main repository for the CSS Accessibility Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa",
@@ -192,6 +201,7 @@
   "homepageUrl": "https://w3c.github.io/ctaur/",
   "description": "Collaboration Tool Accessibility User Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -211,6 +221,7 @@
   },
   "homepageUrl": "https://w3c.github.io/fast/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -231,6 +242,7 @@
   "homepageUrl": "https://w3c.github.io/maturity-model/",
   "description": "Maturity Model",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -250,6 +262,7 @@
   },
   "homepageUrl": "https://w3c.github.io/media-accessibility-reqs/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -269,6 +282,7 @@
   },
   "homepageUrl": "https://w3c.github.io/naur/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -288,6 +302,7 @@
   },
   "homepageUrl": "https://w3c.github.io/payment-accessibility-reqs/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -308,6 +323,7 @@
   "homepageUrl": "https://www.w3.org/WAI/APA/task-forces/pronunciation/",
   "description": "Pronunciation Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -327,6 +343,7 @@
   },
   "homepageUrl": "http://w3c.github.io/raur/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -346,6 +363,7 @@
   },
   "homepageUrl": "https://w3c.github.io/remote-meetings/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -365,6 +383,7 @@
   },
   "description": "Research Questions Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -384,6 +403,7 @@
   },
   "homepageUrl": "https://w3c.github.io/saur/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -404,6 +424,7 @@
   "homepageUrl": "https://w3c.github.io/xaur/",
   "description": "XR Accessibility User Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
