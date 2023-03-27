@@ -5,6 +5,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rch"
@@ -24,6 +25,7 @@
   },
   "description": "RDF Dataset Hash (deliverable of the RCH working group)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rch"
@@ -44,6 +46,7 @@
   "homepageUrl": "https://w3c.github.io/rdf-canon/spec/",
   "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rch"
