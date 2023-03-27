@@ -6,6 +6,7 @@
   },
   "description": "HTML+MathML conversion of RBJ's original Audio EQ Cookbook",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -25,6 +26,7 @@
   },
   "description": "A list of Web Audio API demos and applications",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -45,6 +47,7 @@
   "homepageUrl": "https://webaudio.github.io/web-audio-api/",
   "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -65,6 +68,7 @@
   "homepageUrl": "",
   "description": "The Web Audio API v2.0, developed by the W3C Audio WG",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -85,6 +89,7 @@
   "homepageUrl": "http://webaudio.github.io/web-midi-api/",
   "description": "The Web MIDI API, developed by the W3C Audio WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
