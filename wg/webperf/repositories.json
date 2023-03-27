@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/beacon/",
   "description": "Beacon",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -29,6 +30,7 @@
   "homepageUrl": "https://w3c.github.io/charter-webperf/",
   "description": "Web Performance Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -50,6 +52,7 @@
   "homepageUrl": "https://w3c.github.io/device-memory/",
   "description": "Device Memory",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -71,6 +74,7 @@
   "homepageUrl": "https://w3c.github.io/event-timing/",
   "description": "A proposal for an Event Timing specification.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -91,6 +95,7 @@
   "homepageUrl": "https://w3c.github.io/hr-time/",
   "description": "High Resolution Time",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -113,6 +118,7 @@
   "homepageUrl": "https://w3c.github.io/largest-contentful-paint/",
   "description": "Specification for the LargestContentfulPaint API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -133,6 +139,7 @@
   "homepageUrl": "https://w3c.github.io/longtasks/",
   "description": "Long Task API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -154,6 +161,7 @@
   "homepageUrl": "https://w3c.github.io/navigation-timing/",
   "description": "Navigation Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -176,6 +184,7 @@
   "homepageUrl": "https://w3c.github.io/network-error-logging/",
   "description": "Network Error Logging",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -197,6 +206,7 @@
   "homepageUrl": "https://www.w3.org/TR/page-visibility-2/",
   "description": "Page Visibility",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -219,6 +229,7 @@
   "homepageUrl": "https://w3c.github.io/paint-timing/",
   "description": "Paint Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -240,6 +251,7 @@
   "homepageUrl": "",
   "description": "Performance APIs, Security and Privacy",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -261,6 +273,7 @@
   "homepageUrl": "http://w3c.github.io/perf-timing-primer/",
   "description": "A Primer for Web Performance Timing APIs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -282,6 +295,7 @@
   "homepageUrl": "https://w3c.github.io/performance-timeline/",
   "description": "Performance Timeline",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -304,6 +318,7 @@
   "homepageUrl": "https://w3c.github.io/reporting/",
   "description": "Reporting API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -325,6 +340,7 @@
   "homepageUrl": "https://w3c.github.io/requestidlecallback/",
   "description": "Cooperative Scheduling of Background Tasks",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -347,6 +363,7 @@
   "homepageUrl": "https://w3c.github.io/resource-hints/",
   "description": "Resource Hints",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -369,6 +386,7 @@
   "homepageUrl": "https://w3c.github.io/resource-timing/",
   "description": "Resource Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -391,6 +409,7 @@
   "homepageUrl": "http://w3c.github.io/server-timing/",
   "description": "Server Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -414,6 +433,7 @@
   "homepageUrl": "https://w3c.github.io/timing-entrytypes-registry/",
   "description": "Timing Entry Names Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -435,6 +455,7 @@
   "homepageUrl": "https://w3c.github.io/user-timing/",
   "description": "User Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -458,6 +479,7 @@
   "homepageUrl": "https://www.w3.org/webperf/",
   "description": "W3C Web Performance Working Group repo",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -479,6 +501,7 @@
   "homepageUrl": "http://w3c.github.io/webperf-dashboard/",
   "description": "W3C webperf issue tracker",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
