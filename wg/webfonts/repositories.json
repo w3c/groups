@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "W3C Incremental Font Transfer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -27,6 +28,7 @@
   "homepageUrl": "",
   "description": "Code repository for tools for the the testing and analysis of potential Progressive Font Enrichment (PFE) solutions.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -45,6 +47,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -63,6 +66,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -82,6 +86,7 @@
   },
   "description": "the web fonts patch subset client/server implementation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -102,6 +107,7 @@
   "homepageUrl": "https://w3c.github.io/woff/woff2/",
   "description": "WOFF File Format specifications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -121,6 +127,7 @@
   },
   "description": "Compiled, generated version of woff2-tests for standalone use without dependencies to make them",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -141,6 +148,7 @@
   },
   "description": "Test suite for WOFF 2.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
