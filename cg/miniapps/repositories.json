@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-components/",
   "description": "MiniApp Components",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/miniapps"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-iot/",
   "description": "MiniApp for IoT",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/miniapps"
