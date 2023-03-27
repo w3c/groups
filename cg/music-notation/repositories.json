@@ -6,6 +6,7 @@
   },
   "description": "Music Notation CG next-generation music markup proposal.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -28,6 +29,7 @@
   "homepageUrl": "",
   "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -49,6 +51,7 @@
   },
   "description": "MusicXML specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -71,6 +74,7 @@
   "homepageUrl": "https://w3c.github.io/smufl/latest/",
   "description": "Standard Music Font Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
