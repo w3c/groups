@@ -7,6 +7,7 @@
   "homepageUrl": "https://webassembly.github.io/JS-BigInt-integration/js-api/index.html",
   "description": "JavaScript BigInt to WebAssembly i64 integration",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://WebAssembly.github.io/annotations/",
   "description": "Proposal for Custom Annotation Syntax in the Text Format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -47,6 +49,7 @@
   "homepageUrl": "",
   "description": "Proposal to add branch hinting functionality to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -67,6 +70,7 @@
   "homepageUrl": "https://webassembly.github.io/bulk-memory-operations/",
   "description": "Bulk memory operations",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -85,6 +89,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -103,6 +108,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -123,6 +129,7 @@
   "homepageUrl": "",
   "description": "Constant-time WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -141,6 +148,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -161,6 +169,7 @@
   "homepageUrl": "https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration",
   "description": "ECMAScript module integration",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -181,6 +190,7 @@
   "homepageUrl": "",
   "description": "Proposal to add exception handling to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -200,6 +210,7 @@
   },
   "description": "Proposal for extended constant expressions",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -218,6 +229,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -237,6 +249,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/feature-detection/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -257,6 +270,7 @@
   "homepageUrl": "https://webassembly.github.io/flexible-vectors/",
   "description": "Vector operations for WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -277,6 +291,7 @@
   "homepageUrl": "https://webassembly.github.io/function-references/",
   "description": "Proposal for Typed Function References",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -296,6 +311,7 @@
   },
   "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -314,6 +330,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -333,6 +350,7 @@
   },
   "description": "Proposal to add instrumentation and tracing instructions to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -352,6 +370,7 @@
   },
   "description": "JavaScript Promise Integration",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -371,6 +390,7 @@
   },
   "description": "Proposal for adding type reflection to the JS API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -391,6 +411,7 @@
   "homepageUrl": "",
   "description": "A proposal to introduce finer grained control of WebAssembly memory.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -410,6 +431,7 @@
   },
   "description": "Memory with 64-bit indexes",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -430,6 +452,7 @@
   "homepageUrl": "",
   "description": "Proposal for allowing modules to define, import and export modules and instances",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -450,6 +473,7 @@
   "homepageUrl": "https://webassembly.github.io/multi-memory/",
   "description": "Multiple per-module memories for Wasm",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -470,6 +494,7 @@
   "homepageUrl": "https://webassembly.github.io/multi-value/",
   "description": "Proposal to add multi-values to WebAssembly",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -489,6 +514,7 @@
   },
   "description": "Proposal to add non-trapping float-to-int conversions to WebAssembly",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -509,6 +535,7 @@
   "homepageUrl": "https://webassembly.github.com/profiles/",
   "description": "Profiles proposal",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -528,6 +555,7 @@
   },
   "description": "Proposal for Type Imports & Exports",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -548,6 +576,7 @@
   "homepageUrl": "https://webassembly.github.io/reference-types/",
   "description": "Proposal for adding basic reference types (anyref)",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -566,6 +595,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -585,6 +615,7 @@
   },
   "description": "Relax the strict determinism requirements of SIMD operations.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -604,6 +635,7 @@
   },
   "description": "Spec proposal for scanning/marking of linear memory GC roots",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -622,6 +654,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -641,6 +674,7 @@
   },
   "description": "Sign-extension opcodes",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -660,6 +694,7 @@
   },
   "description": "Branch of the spec repo scoped to discussion of SIMD in WebAssembly ",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -680,6 +715,7 @@
   "homepageUrl": "https://webassembly.github.io/spec/",
   "description": "WebAssembly specification, reference interpreter, and test suite.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -700,6 +736,7 @@
   "homepageUrl": "",
   "description": "A repository for the stack switching proposal.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -718,6 +755,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -738,6 +776,7 @@
   "homepageUrl": "https://webassembly.github.io/tail-call/",
   "description": "Proposal to add tail calls to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -758,6 +797,7 @@
   "homepageUrl": "https://webassembly.github.io/threads/",
   "description": "Threads and Atomics in WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -777,6 +817,7 @@
   },
   "description": "Proposal to add numeric values to data segment definitions in the text format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -796,6 +837,7 @@
   },
   "description": "HTML+MathML conversion of RBJ's original Audio EQ Cookbook",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -815,6 +857,7 @@
   },
   "description": "A list of Web Audio API demos and applications",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -835,6 +878,7 @@
   "homepageUrl": "https://webaudio.github.io/web-audio-api/",
   "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -855,6 +899,7 @@
   "homepageUrl": "",
   "description": "The Web Audio API v2.0, developed by the W3C Audio WG",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -875,6 +920,7 @@
   "homepageUrl": "https://www.w3.org/community/audio-comgp/",
   "description": "W3C Web Audio Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "svgeesus"
@@ -895,6 +941,7 @@
   "homepageUrl": "http://webaudio.github.io/web-midi-api/",
   "description": "The Web MIDI API, developed by the W3C Audio WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/audio"
@@ -915,6 +962,7 @@
   "homepageUrl": "https://gpuweb.github.io/cts/",
   "description": "WebGPU Conformance Test Suite",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/gpu",
@@ -938,6 +986,7 @@
   "homepageUrl": "http://webgpu.io",
   "description": "Where the GPU for the Web work happens!",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/gpu",
@@ -961,6 +1010,7 @@
   },
   "homepageUrl": "",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -982,6 +1032,7 @@
   "homepageUrl": "",
   "description": "A repo for managing the adminstrative tasks of the Immersive Web Group. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1002,6 +1053,7 @@
   },
   "homepageUrl": "https://immersive-web.github.io/anchors/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1023,6 +1075,7 @@
   "homepageUrl": "https://immersive-web.github.io/capture/",
   "description": "Capture composited content, layers and real world through a privacy preserving high level API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1042,6 +1095,7 @@
   },
   "description": "Common resources for all Immersive Web Community Group repositories",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1063,6 +1117,7 @@
   "homepageUrl": "",
   "description": "A feature repo for exploring computer vision APIs for XR. Feature Lead: Blair MacIntyre",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1084,6 +1139,7 @@
   "homepageUrl": "",
   "description": "Specification: https://immersive-web.github.io/depth-sensing/ Explainer: https://github.com/immersive-web/depth-sensing/blob/main/explainer.md",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1105,6 +1161,7 @@
   "homepageUrl": "",
   "description": "Using HTML/CSS to bring elements outside the window in Immersive Web browsers. Feature leads: Dean Jackson  and Ada Rose Cannon",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1126,6 +1183,7 @@
   "homepageUrl": "https://immersive-web.github.io/dom-overlays/",
   "description": "A feature incubation repo for layering DOM content on/in WebXR content. Feature lead: Piotr Bialecki",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1147,6 +1205,7 @@
   "homepageUrl": "",
   "description": "Incubation repository for access to front-facing-camera. Repo contact  Piotr Bialecki and Rik Cabanier",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1168,6 +1227,7 @@
   "homepageUrl": "",
   "description": "For work toward a feature in WebXR to geo-align coordinate systems. Feature lead: Blair MacIntyre",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1188,6 +1248,7 @@
   },
   "homepageUrl": "https://immersive-web.github.io/hit-test/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1209,6 +1270,7 @@
   "homepageUrl": "https://www.w3.org/immersive-web/",
   "description": "Homepage of the Immersive Web WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1229,6 +1291,7 @@
   },
   "description": "The site and content for the Immersive Web Weekly newsletter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1249,6 +1312,7 @@
   },
   "description": "Organization page for the Immersive Web Working Group and Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1270,6 +1334,7 @@
   "homepageUrl": "https://immersiveweb.dev",
   "description": "Repo for immersiveweb.dev",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1291,6 +1356,7 @@
   "homepageUrl": "https://immersive-web.github.io/layers/",
   "description": "A feature repo for working on multi-layer support in WebXR. Feature leads: Rik Cabanier and  Artem Bolgar (Oculus)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1312,6 +1378,7 @@
   "homepageUrl": "https://immersive-web.github.io/lighting-estimation/",
   "description": "A proposal for adding lighting estimation API to WebXR Device API. Feature lead: Kip Gilbert",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1332,6 +1399,7 @@
   "homepageUrl": "https://immersive-web.github.io/marker-tracking/",
   "description": "Additions to the WebXR Device API for Marker Tracking. Repo contacts Rik Cabanier and Piotr Bialecki",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1353,6 +1421,7 @@
   "homepageUrl": "https://immersive-web.github.io/model-element/",
   "description": "Repository for the <model> tag. Feature leads: Marcos Cáceres and Laszlo Gombos",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1374,6 +1443,7 @@
   "homepageUrl": "",
   "description": "Repository for the discussion and research in to navigating from page to page whilst staying in immersive mode. Feature leads: Rik Cabanier and Brandon Jones",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1394,6 +1464,7 @@
   },
   "homepageUrl": "",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1414,6 +1485,7 @@
   },
   "description": "A feature-incubation repo for XR-related performance improvements. Feature lead: Trevor F. Smith",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1435,6 +1507,7 @@
   "homepageUrl": "",
   "description": "Cross specification concerns and suggestions for privacy and security for the immersive web (Feature lead: Mounir Lamouri)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1456,6 +1529,7 @@
   "homepageUrl": "",
   "description": "Initial proposals for future Immersive Web work (see README)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1477,6 +1551,7 @@
   "homepageUrl": "",
   "description": "Spec draft: https://immersive-web.github.io/raw-camera-access/.  Repository for experimentation around exposing raw camera access through WebXR Device API. Feature leads: Piotr Bialecki, Alex Turner, Nicholas Butko",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1498,6 +1573,7 @@
   "homepageUrl": "",
   "description": "Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1519,6 +1595,7 @@
   "homepageUrl": "",
   "description": "A proposal for favicon support for  a new data type. Feature lead: Rik Cabanier",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1539,6 +1616,7 @@
   },
   "description": "Archival repository for the legacy WebVR Specification. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1560,6 +1638,7 @@
   "homepageUrl": "http://immersive-web.github.io/webvr-polyfill/examples/",
   "description": "Use WebVR today, without requiring a special browser build.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1581,6 +1660,7 @@
   "homepageUrl": "https://dpdb.webvr.rocks/dpdb.json",
   "description": "An up-to-date Device Parameter Database for the WebVR Polyfill",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1602,6 +1682,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr/",
   "description": "Repository for the WebXR Device API Specification.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1624,6 +1705,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-ar-module",
   "description": "Repository for the WebXR Augmented Reality Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1646,6 +1728,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-gamepads-module",
   "description": "Repository for the WebXR Gamepads Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1668,6 +1751,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-hand-input/",
   "description": "A feature repo for working on hand input support in WebXR. Feature lead: Manish Goregaokar",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1690,6 +1774,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-input-profiles",
   "description": "WebXR Gamepad assets, source library, and schema",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1711,6 +1796,7 @@
   "homepageUrl": "",
   "description": "WebXR Layers Polyfill library. Lead: Rik Cabanier.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/immersive-web"
@@ -1732,6 +1818,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-test-api/",
   "description": "WPT testing API for WebXR",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -1753,6 +1840,7 @@
   "homepageUrl": "https://open-ui.org",
   "description": "Maintain an open standard for UI and promote its adherence and adoption.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/open-ui"
@@ -1773,6 +1861,7 @@
   "homepageUrl": "",
   "description": "A proposal for a cookie attribute to partition cross-site cookies by top-level site",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/wicg"
@@ -1792,6 +1881,7 @@
   },
   "description": "Ad Topic Hints",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1816,6 +1906,7 @@
   "homepageUrl": "https://privacycg.github.io",
   "description": "Administrivia for the Privacy Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1841,6 +1932,7 @@
   "homepageUrl": "https://privacycg.github.io/gpc-spec/",
   "description": "Global Privacy Control Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1863,6 +1955,7 @@
   },
   "description": "The IsLoggedIn API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1886,6 +1979,7 @@
   },
   "description": "JS Isolation via Origin Labels and Membranes",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1910,6 +2004,7 @@
   "homepageUrl": "https://privacycg.github.io",
   "description": "Agenda and minutes of meetings of the Privacy Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1935,6 +2030,7 @@
   "homepageUrl": "https://privacycg.github.io/nav-tracking-mitigations/",
   "description": "Navigation-based Tracking Mitigations",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1959,6 +2055,7 @@
   "homepageUrl": "https://privacycg.github.io",
   "description": "Website and charter of the Privacy Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -1984,6 +2081,7 @@
   "homepageUrl": "https://privacycg.github.io/private-click-measurement/",
   "description": "Private Click Measurement",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -2008,6 +2106,7 @@
   "homepageUrl": "https://privacycg.github.io",
   "description": "New proposals in the Privacy Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -2033,6 +2132,7 @@
   "homepageUrl": "https://privacycg.github.io/requestStorageAccessFor/",
   "description": "A proposed extension to the Storage Access API and discussion of how it may be integrated with First-Party Sets.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -2056,6 +2156,7 @@
   "homepageUrl": "https://privacycg.github.io/storage-access/",
   "description": "The Storage Access API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -2080,6 +2181,7 @@
   "homepageUrl": "https://privacycg.github.io/storage-partitioning/",
   "description": "Client-Side Storage Partitioning",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -2104,6 +2206,7 @@
   "homepageUrl": "",
   "description": "Template repository for a CG proposal or work item.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/privacycg"
@@ -2126,6 +2229,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -2145,6 +2249,7 @@
   },
   "description": "repo for the Color on the Web Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "svgeesus"
@@ -2165,6 +2270,7 @@
   "homepageUrl": "https://w3c.github.io/FileAPI/",
   "description": "File API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -2186,6 +2292,7 @@
   "homepageUrl": "",
   "description": "W3C Incremental Font Transfer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -2204,6 +2311,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -2223,6 +2331,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -2242,6 +2351,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -2263,6 +2373,7 @@
   "homepageUrl": "https://w3c.github.io/IndexedDB/",
   "description": "Indexed Database API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -2284,6 +2395,7 @@
   "homepageUrl": "https://www.w3.org/TR/intersection-observer/",
   "description": "Intersection Observer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -2305,6 +2417,7 @@
   "homepageUrl": "https://w3c.github.io/Mobile-A11y-Extension/",
   "description": "WCAG Extension drafted by Mobile Accessibility Task Force",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/mobile-a11y-tf"
@@ -2324,6 +2437,7 @@
   "homepageUrl": "http://w3c.github.io/Mobile-A11y-TF-Note/",
   "description": "Editor's Draft of W3C Note. \"Mobile Accessibility: How WCAG 2.0 and UAAG 2.0 Apply to Mobile Devices\" from the Mobile Accessibility Task Force of the WCAG WG and UAAG WG.  ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/mobile-a11y-tf"
@@ -2345,6 +2459,7 @@
   },
   "description": "W3C's Notation 3 (N3) Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/n3-dev"
@@ -2368,6 +2483,7 @@
   "homepageUrl": "",
   "description": "Code repository for tools for the the testing and analysis of potential Progressive Font Enrichment (PFE) solutions.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -2388,6 +2504,7 @@
   "homepageUrl": "https://w3c.github.io/PNG-spec/",
   "description": "Maintenance of the PNG specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "svgeesus"
@@ -2409,6 +2526,7 @@
   "homepageUrl": "",
   "description": "Positive Work Environment Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab",
@@ -2431,6 +2549,7 @@
   "homepageUrl": "https://w3c.github.io/ServiceWorker/",
   "description": "Service Workers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/service-workers"
@@ -2452,6 +2571,7 @@
   },
   "description": "https://www.w3.org/groups/cg/webid",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webid"
@@ -2473,6 +2593,7 @@
   "homepageUrl": "https://www.w3.org/community/a11y-discov-vocab/",
   "description": "Repository for the maintenance of the schema.org accessibility property values for discoverability.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/a11y-discov-vocab"
@@ -2492,6 +2613,7 @@
   },
   "description": "Horizontal review requests will be made via issues in this repo.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -2513,6 +2635,7 @@
   "homepageUrl": "",
   "description": "Horizontal review comments tracking for accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -2533,6 +2656,7 @@
   },
   "homepageUrl": "https://w3c.github.io/aac-registry/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -2553,6 +2677,7 @@
   "homepageUrl": "https://www.w3.org/TR/accelerometer/",
   "description": "Accelerometer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -2575,6 +2700,7 @@
   "homepageUrl": "https://w3c.github.io/accname/",
   "description": "Accessible Name and Description Computation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -2596,6 +2722,7 @@
   "homepageUrl": "https://w3c.github.io/adapt/",
   "description": "Semantics to describe user personalization preferences.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -2618,6 +2745,7 @@
   "homepageUrl": "https://w3c.github.io/adpt/",
   "description": "Audio Description Profile of TTML2",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -2638,6 +2766,7 @@
   },
   "description": "African language enablement for the Web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -2659,6 +2788,7 @@
   "homepageUrl": "",
   "description": "Documenting gaps and requirements for support of Arabic and Persian on the Web and in eBooks.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -2680,6 +2810,7 @@
   "homepageUrl": "https://www.w3.org/TR/ambient-light/",
   "description": "Ambient Light Sensor",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -2702,6 +2833,7 @@
   "homepageUrl": "",
   "description": "Enabling the Web for languages of the Americas",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/i18n",
@@ -2722,6 +2854,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/ceddl-webspec"
@@ -2742,6 +2875,7 @@
   "homepageUrl": "https://github.com/w3c/aria/",
   "description": "This repository has been archived and work moved to the w3c/aria repository.",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -2762,6 +2896,7 @@
   "homepageUrl": "",
   "description": "APA WG deliverables have been moved to individual repositories",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -2781,6 +2916,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -2801,6 +2937,7 @@
   "homepageUrl": "https://w3c.github.io/aria/",
   "description": "Accessible Rich Internet Applications (WAI-ARIA)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -2822,6 +2959,7 @@
   "homepageUrl": "https://aria-at.netlify.app",
   "description": "Assistive Technology ARIA Experience Assessment",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/aria-at"
@@ -2842,6 +2980,7 @@
   },
   "description": "Shared files for the ARIA repositories",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -2863,6 +3002,7 @@
   "homepageUrl": "https://www.w3.org/wai/aria/apg/",
   "description": "WAI-ARIA Authoring Practices Guide (APG)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -2884,6 +3024,7 @@
   "homepageUrl": "https://w3c.github.io/audiobooks/",
   "description": "Audiobook profile of a Web Publication",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -2904,6 +3045,7 @@
   "homepageUrl": "",
   "description": "W3C Automotive Working Group Specifications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/auto"
@@ -2923,6 +3065,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "bg/autowebplatform"
@@ -2944,6 +3087,7 @@
   "homepageUrl": "https://github.com/w3c/automotive-pay/wiki",
   "description": "Automotive Web Payments Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -2964,6 +3108,7 @@
   "homepageUrl": "https://w3c.github.io/autoplay/",
   "description": "Autoplay Policy Detection",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -2983,6 +3128,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "svgeesus"
@@ -3003,6 +3149,7 @@
   "homepageUrl": "https://w3c.github.io/badging/",
   "description": "Badging Web API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -3024,6 +3171,7 @@
   "homepageUrl": "https://w3c.github.io/baggage/",
   "description": "Propagation format for distributed context: Baggage",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -3045,6 +3193,7 @@
   "homepageUrl": "https://www.w3.org/TR/battery-status/",
   "description": "Battery Status API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -3067,6 +3216,7 @@
   "homepageUrl": "https://www.w3.org/community/bdcomacg/",
   "description": "Repository of the \"W3C BD Comics Manga Community Group\"",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/bdcomacg"
@@ -3088,6 +3238,7 @@
   "homepageUrl": "https://w3c.github.io/beacon/",
   "description": "Beacon",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -3109,6 +3260,7 @@
   },
   "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/blockchain"
@@ -3126,6 +3278,7 @@
   "homepageUrl": "https://w3c.github.io/bp-i18n-specdev/",
   "description": "Internationalization Best Practices for Spec Developers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -3145,6 +3298,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -3164,6 +3318,7 @@
    "login": "w3c"
   },
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -3184,6 +3339,7 @@
   "homepageUrl": "https://w3c.github.io/captcha-accessibility/",
   "description": "Inaccessibility of CAPTCHA",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -3203,6 +3359,7 @@
   },
   "description": "Repository to track issues and improvements with the W3C Community Groups and Business Groups program",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "repo-type": [
     "process"
@@ -3223,6 +3380,7 @@
   "homepageUrl": "https://w3c.github.io/charmod-norm/",
   "description": "Character Model for the World Wide Web: String Matching and Searching",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -3244,6 +3402,7 @@
   "homepageUrl": "https://w3c.github.io/charter-timed-text/",
   "description": "Timed Text Working Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -3265,6 +3424,7 @@
   "homepageUrl": "https://w3c.github.io/charter-webperf/",
   "description": "Web Performance Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -3286,6 +3446,7 @@
   "homepageUrl": "https://www.w3.org/2018/chinese-web-ig/",
   "description": "Web中文兴趣组",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -3307,6 +3468,7 @@
   "homepageUrl": "https://w3c.github.io/chinese-ig-charter/charter-2022.html",
   "description": "Chinese Web Interest Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -3329,6 +3491,7 @@
   "homepageUrl": "https://w3c.github.io/clipboard-apis/",
   "description": "Clipboard API and events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -3350,6 +3513,7 @@
   "homepageUrl": "https://w3c.github.io/clreq/",
   "description": "Requirements for Chinese Text Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -3370,6 +3534,7 @@
   },
   "description": "Cognitive and Learning Disabilities Accessibility Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag",
@@ -3392,6 +3557,7 @@
   },
   "description": "for work by the Cognitive AI community group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/cogai"
@@ -3413,6 +3579,7 @@
   "homepageUrl": "https://www.w3.org/TR/compute-pressure/",
   "description": "A web API proposal that provides information about available compute capacity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -3431,6 +3598,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/consent"
@@ -3452,6 +3620,7 @@
   "homepageUrl": "https://www.w3.org/TR/contact-picker/",
   "description": "Contact Picker API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das",
@@ -3472,6 +3641,7 @@
   },
   "homepageUrl": "https://w3c.github.io/contentEditable/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -3490,6 +3660,7 @@
   "homepageUrl": "https://w3c.github.io/core-aam/",
   "description": "Core Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -3510,6 +3681,7 @@
   },
   "description": "Credible Web CG Area-2 (Corroboration-Based Strategies)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/credibility"
@@ -3531,6 +3703,7 @@
   "homepageUrl": "https://credweb.org",
   "description": "Credible Web CG Admin/General",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/credibility"
@@ -3552,6 +3725,7 @@
   },
   "description": "Main repository for the CSS Accessibility Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa",
@@ -3575,6 +3749,7 @@
   "homepageUrl": "https://drafts.css-houdini.org/",
   "description": "Mirror of https://hg.css-houdini.org/drafts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -3596,6 +3771,7 @@
   "homepageUrl": "https://w3c.github.io/css-print/",
   "description": "CSS Print ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/cssprint"
@@ -3616,6 +3792,7 @@
   "homepageUrl": "https://hg.csswg.org/dev/apiclient/",
   "description": "Read-only git mirror",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -3638,6 +3815,7 @@
   "homepageUrl": "https://drafts.csswg.org/",
   "description": "CSS Working Group Editor Drafts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -3659,6 +3837,7 @@
   "homepageUrl": "http://csswg-www.inkedblade.net/",
   "description": "Prototype web site for the CSS Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -3681,6 +3860,7 @@
   "homepageUrl": "https://w3c.github.io/ctaur/",
   "description": "Collaboration Tool Accessibility User Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -3701,6 +3881,7 @@
   "homepageUrl": "https://w3c.github.io/danmaku/",
   "description": "Bullet Chatting Proposal",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -3723,6 +3904,7 @@
   "homepageUrl": "https://w3c.github.io/dapt/",
   "description": "Dubbing and Audio description Profiles of TTML2",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -3743,6 +3925,7 @@
   "homepageUrl": "https://w3c.github.io/dapt-reqs/",
   "description": "Requirements on Dubbing and Audio description Profiles of TTML2",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -3762,6 +3945,7 @@
   },
   "description": "Tests for Dubbing and Audio description Profiles of TTML2 ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -3782,6 +3966,7 @@
   "homepageUrl": "https://w3c.github.io/das-charter/das-wg-charter.html",
   "description": "Devices and Sensors Working Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -3802,6 +3987,7 @@
   "homepageUrl": "https://w3c.github.io/device-memory/",
   "description": "Device Memory",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -3823,6 +4009,7 @@
   "homepageUrl": "https://www.w3.org/TR/device-posture/",
   "description": "Device Posture API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -3845,6 +4032,7 @@
   "homepageUrl": "https://www.w3.org/TR/orientation-event/",
   "description": "W3C Device Orientation spec",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -3867,6 +4055,7 @@
   "homepageUrl": "https://www.w3.org/das/",
   "description": "Devices and Sensors Working Group website",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -3887,6 +4076,7 @@
   "homepageUrl": "https://w3c.github.io/did-cbor-note/",
   "description": "WG Note on DID CBOR Representation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -3908,6 +4098,7 @@
   "homepageUrl": "https://www.w3.org/TR/did-core/",
   "description": "W3C Decentralized Identifier Specification v1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -3929,6 +4120,7 @@
   "homepageUrl": "https://w3c.github.io/did-imp-guide/",
   "description": "DID Implementation Guide (Note)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -3948,6 +4140,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/did-kr"
@@ -3968,6 +4161,7 @@
   "homepageUrl": "https://w3c.github.io/did-rubric/",
   "description": "W3C Decentralized Characteristics Rubric v1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -3989,6 +4183,7 @@
   "homepageUrl": "https://w3c.github.io/did-spec-registries/",
   "description": "DID Spec Registry (Note)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -4010,6 +4205,7 @@
   "homepageUrl": "https://w3c.github.io/did-test-suite/",
   "description": "W3C DID Test Suite and Implementation Report",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -4031,6 +4227,7 @@
   "homepageUrl": "https://w3c.github.io/did-use-cases/",
   "description": "Decentralized Identifier Use Cases and Requirements v1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -4052,6 +4249,7 @@
   "homepageUrl": "https://www.w3.org/2019/did-wg/",
   "description": "Home page of the Decentralized Identifier Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -4072,6 +4270,7 @@
   "homepageUrl": "",
   "description": "https://w3c.github.io/did-wg-charter/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -4093,6 +4292,7 @@
   "homepageUrl": "https://www.w3.org/2018/distributed-tracing",
   "description": "Distributed Tracing Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -4114,6 +4314,7 @@
   "homepageUrl": "https://w3c.github.io/dmpl",
   "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/conv"
@@ -4134,6 +4335,7 @@
   "homepageUrl": "https://w3c.github.io/dms/",
   "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/conv"
@@ -4153,6 +4355,7 @@
   },
   "homepageUrl": "https://www.w3.org/community/services/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/services"
@@ -4173,6 +4376,7 @@
   "homepageUrl": "https://w3c.github.io/dpub-aam/",
   "description": "Digital Publishing Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -4194,6 +4398,7 @@
   "homepageUrl": "https://w3c.github.io/dpub-aria/",
   "description": "Digital Publishing WAI-ARIA Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -4215,6 +4420,7 @@
   "homepageUrl": "https://w3c.github.io/dpub-pwp-ucr/",
   "description": "Use Cases and Requirements for (Packaged) Web Publications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     64149,
@@ -4237,6 +4443,7 @@
   "homepageUrl": "https://w3id.org/dpv",
   "description": "Data Privacy Vocabularies and Controls CG (DPVCG)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/dpvcg"
@@ -4257,6 +4464,7 @@
   "homepageUrl": "https://w3c.github.io/dx-connegp/connegp/",
   "description": "Content Negotiation by Profile",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -4278,6 +4486,7 @@
   "homepageUrl": "https://w3c.github.io/dx-prof/prof/",
   "description": "The Profiles Vocabulary",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -4299,6 +4508,7 @@
   "homepageUrl": "https://w3c.github.io/dxwg/dcat/",
   "description": "Data Catalog Vocabulary (DCAT)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -4318,6 +4528,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -4338,6 +4549,7 @@
   "homepageUrl": "https://w3c.github.io/edge-computing-web-exploration/",
   "description": "A repo where the Web & Networks Interest Group explores the intersection of Web and Edge Computing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/web-networks"
@@ -4358,6 +4570,7 @@
   "homepageUrl": "https://w3c.github.io/edit-context/",
   "description": "EditContext API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -4378,6 +4591,7 @@
   "homepageUrl": "http://w3c.github.io/editing/",
   "description": "Specs and explainers maintained by the editing task force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -4397,6 +4611,7 @@
   },
   "description": "Ethiopic Layout Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -4418,6 +4633,7 @@
   "homepageUrl": "https://w3c.github.io/encrypted-media/",
   "description": "Encrypted Media Extensions",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -4439,6 +4655,7 @@
   },
   "homepageUrl": "",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub"
@@ -4459,6 +4676,7 @@
   "homepageUrl": "",
   "description": "This is a repo dedicated to collecting and maintaining the status of bugs found on EPUB reading systems. Bugs may pertain to display, accessibility, and other issues.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "bg/publishingbg"
@@ -4480,6 +4698,7 @@
   "homepageUrl": "",
   "description": "Shared workspace for EPUB 3 specifications.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub"
@@ -4500,6 +4719,7 @@
   },
   "homepageUrl": "https://w3c.github.io/epub-structural-tests/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub"
@@ -4520,6 +4740,7 @@
   "homepageUrl": "https://w3c.github.io/epub-tests/",
   "description": "Test repository for EPUB3, maintained by the EPUB3 WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub"
@@ -4540,6 +4761,7 @@
   "homepageUrl": "https://w3c.github.io/epub-translations",
   "description": "Translations of the EPUB 3 documents",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub"
@@ -4560,6 +4782,7 @@
   "homepageUrl": "https://www.w3.org/publishing/groups/epub-wg/",
   "description": "Home page of the EPUB 3 Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub"
@@ -4580,6 +4803,7 @@
   "homepageUrl": "https://w3c.github.io/epub4/",
   "description": "W3C EPUB4",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -4601,6 +4825,7 @@
   "homepageUrl": "https://www.w3.org/publishing/epubcheck/",
   "description": "The conformance checker for EPUB publications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/epub3"
@@ -4621,6 +4846,7 @@
   },
   "description": "European language enablement",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -4642,6 +4868,7 @@
   "homepageUrl": "https://w3c.github.io/event-timing/",
   "description": "A proposal for an Event Timing specification.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -4661,6 +4888,7 @@
   },
   "homepageUrl": "https://w3c.github.io/fast/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -4681,6 +4909,7 @@
   "homepageUrl": "https://w3c.github.io/fingerprinting-guidance/",
   "description": "What is browser fingerprinting and how should specification authors address it.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -4705,6 +4934,7 @@
   "homepageUrl": "https://w3c.github.io/font-text-cg/",
   "description": "GitHub Pages",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/font-text"
@@ -4724,6 +4954,7 @@
   },
   "description": "GitHub repo for the W3C Font and Text Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/font-text"
@@ -4744,6 +4975,7 @@
   "homepageUrl": "https://drafts.fxtf.org/",
   "description": "Mirror of https://hg.fxtf.org/drafts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -4765,6 +4997,7 @@
   "homepageUrl": "https://w3c.github.io/gamepad/",
   "description": "Gamepad",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -4786,6 +5019,7 @@
   "homepageUrl": "https://www.w3.org/TR/geolocation/",
   "description": "W3C Geolocation API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -4807,6 +5041,7 @@
   "homepageUrl": "https://www.w3.org/TR/geolocation-sensor/",
   "description": "Geolocation Sensor",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -4828,6 +5063,7 @@
   "homepageUrl": "https://www.w3.org/2020/gpu/",
   "description": "Home page of the GPU for the Web Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/gpu"
@@ -4848,6 +5084,7 @@
   "homepageUrl": "https://w3c.github.io/graphics-aam/",
   "description": "General graphics Accessibility API mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -4869,6 +5106,7 @@
   "homepageUrl": "https://w3c.github.io/graphics-aria/",
   "description": "Graphics Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -4890,6 +5128,7 @@
   "homepageUrl": "https://www.w3.org/community/graphql-rdf/",
   "description": "Bridging GraphQL and RDF Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/graphql-rdf"
@@ -4910,6 +5149,7 @@
   "homepageUrl": "https://www.w3.org/TR/gyroscope/",
   "description": "Gyroscope",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -4930,6 +5170,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -4950,6 +5191,7 @@
   },
   "description": "XSLT to tranform C-CDA into O-RIM RDF",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -4971,6 +5213,7 @@
   "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
   "description": "W3C HCLS Drug-Drug Interaction",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -4991,6 +5234,7 @@
   },
   "description": "Sketching out an RDF representation for FHIR",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -5011,6 +5255,7 @@
   },
   "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -5031,6 +5276,7 @@
   },
   "description": "Hebrew script layout requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
@@ -5052,6 +5298,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hns"
@@ -5072,6 +5319,7 @@
   "homepageUrl": "https://w3c.github.io/hr-time/",
   "description": "High Resolution Time",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -5094,6 +5342,7 @@
   "homepageUrl": "https://w3c.github.io/html-aam/",
   "description": "HTML Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -5117,6 +5366,7 @@
   "homepageUrl": "https://w3c.github.io/html-aria/",
   "description": "ARIA in HTML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -5138,6 +5388,7 @@
   "homepageUrl": "https://www.w3.org/TR/html-media-capture/",
   "description": "HTML Media Capture",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -5158,6 +5409,7 @@
   "homepageUrl": "https://www.w3.org/groups/wg/htmlwg",
   "description": "HTML Working Group ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/htmlwg"
@@ -5178,6 +5430,7 @@
   },
   "description": "Home pages, charters, style-guides, and similar documents related to the W3C Internationalization Activity.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5201,6 +5454,7 @@
   "homepageUrl": "https://validator.w3.org/i18n-checker/",
   "description": "W3C's i18n checker",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5221,6 +5475,7 @@
   },
   "description": "A place to hold discussions on i18n topics, and to put documents that summarise, support or initiate those discussions.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5241,6 +5496,7 @@
   },
   "description": "A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5262,6 +5518,7 @@
   "homepageUrl": "https://w3c.github.io/i18n-glossary/",
   "description": "Definitions of terms used in W3C Internationalization documents.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5282,6 +5539,7 @@
   },
   "description": "A place to log problems encountered when developing web sites and pages for international use.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5303,6 +5561,7 @@
   "homepageUrl": "https://github.com/w3c/i18n-request/projects/1",
   "description": "Horizontal review requests are made via issues in this repo, and tracked by our radar.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5324,6 +5583,7 @@
   "homepageUrl": "https://www.w3.org/International/i18n-tests/",
   "description": "Internationalization tests run with the W3C i18n test suite.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5344,6 +5604,7 @@
   },
   "description": "Tracks translation jobs in progress for w3.org/International pages.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5365,6 +5626,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -5383,6 +5645,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -5403,6 +5666,7 @@
   "homepageUrl": "https://w3c.github.io/iip/",
   "description": "Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
@@ -5426,6 +5690,7 @@
   "homepageUrl": "https://github.com/w3c/iip/",
   "description": "Former repo for Indic Layout Requirements. See new repo at",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5447,6 +5712,7 @@
   "homepageUrl": "https://w3c.github.io/image-resource/",
   "description": "An ImageResource definition for web APIs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -5468,6 +5734,7 @@
   "homepageUrl": "https://w3c.github.io/imsc/",
   "description": "TTML Profiles for Internet Media Subtitles and Captions (IMSC)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -5489,6 +5756,7 @@
   "homepageUrl": "https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html",
   "description": "IMSC Hypothetical Render Model",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -5508,6 +5776,7 @@
   },
   "description": "IMSC-HRM tests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -5529,6 +5798,7 @@
   "homepageUrl": "https://w3c.github.io/imsc-tests/",
   "description": "IMSC test suites",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -5550,6 +5820,7 @@
   "homepageUrl": "https://w3c.github.io/imsc-vnext-reqs/",
   "description": "IMSC Next version Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -5571,6 +5842,7 @@
   "homepageUrl": "https://w3c.github.io/input-events/",
   "description": "Input Events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -5591,6 +5863,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/interactive-media"
@@ -5611,6 +5884,7 @@
   "homepageUrl": "https://w3c.github.io/jlreq/",
   "description": "Text Layout Requirements for Japanese",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
@@ -5633,6 +5907,7 @@
   },
   "description": "Requirements for Japanese Digital Text Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
@@ -5655,6 +5930,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-api/",
   "description": "JSON-LD 1.1 Processing Algorithms and API Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5675,6 +5951,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-bp/",
   "description": "JSON-LD 1.1 Best Practices Note",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5696,6 +5973,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-cbor/",
   "description": "JSON-LD 1.1 in CBOR Note",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5716,6 +5994,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-framing/",
   "description": "JSON-LD 1.1 Framing Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5736,6 +6015,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-rc/context.jsonld",
   "description": "JSON-LD Recommended Context",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5756,6 +6036,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-streaming/",
   "description": "JSON-LD 1.1 Streaming Note",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5777,6 +6058,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-syntax/",
   "description": "JSON-LD 1.1 Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5798,6 +6080,7 @@
   "homepageUrl": "https://www.w3.org/2018/json-ld-wg/",
   "description": "Documentation for the JSON-LD Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -5817,6 +6100,7 @@
   },
   "description": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/kiss"
@@ -5836,6 +6120,7 @@
   },
   "description": "Requirements for Hangul Text Layout and Typography",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5857,6 +6142,7 @@
   "homepageUrl": "https://w3c.github.io/largest-contentful-paint/",
   "description": "Specification for the LargestContentfulPaint API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -5876,6 +6162,7 @@
   },
   "description": "Create interactive tests here for language enablement, gap analyis, exploration, etc.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5896,6 +6183,7 @@
   "homepageUrl": "https://w3c.github.io/localizable-manifests/",
   "description": "Definitions and best practices related to the specification of manifest files and similar document formats on the Web.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -5917,6 +6205,7 @@
   "homepageUrl": "https://w3c.github.io/longtasks/",
   "description": "Long Task API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -5937,6 +6226,7 @@
   },
   "description": "Low Vision Accessibility Success Criteria",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/low-vision-a11y-tf"
@@ -5959,6 +6249,7 @@
   "homepageUrl": "http://w3c.github.io/low-vision-a11y-tf/",
   "description": "Low Vision Accessibility Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -5980,6 +6271,7 @@
   "homepageUrl": "https://w3c.github.io/lpf",
   "description": "W3C Lightweight Packaging Format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -6000,6 +6292,7 @@
   "homepageUrl": "http://w3c.github.io/ltli/",
   "description": "Language Tags and Locale Identifiers for the World Wide Web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -6021,6 +6314,7 @@
   "homepageUrl": "https://www.w3.org/TR/magnetometer/",
   "description": "Magnetometer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -6043,6 +6337,7 @@
   "homepageUrl": "https://www.w3.org/TR/appmanifest/",
   "description": "Manifest for web apps",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -6064,6 +6359,7 @@
   "homepageUrl": "https://w3c.github.io/manifest-app-info/",
   "description": "Web App Manifest - Application Information",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -6085,6 +6381,7 @@
   "homepageUrl": "https://w3c.github.io/math-aam/",
   "description": "Accessibility API Mappings for Math ARIA module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/mathonwebpages"
@@ -6106,6 +6403,7 @@
   "homepageUrl": "https://w3c.github.io/math-aria/",
   "description": "ARIA module for Math features",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/mathonwebpages"
@@ -6127,6 +6425,7 @@
   "homepageUrl": "https://w3c.github.io/mathml/",
   "description": "MathML4 editors draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -6147,6 +6446,7 @@
   "homepageUrl": "https://w3c.github.io/mathml-aam/",
   "description": "Accessibility API Mappings for MathML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -6167,6 +6467,7 @@
   "homepageUrl": "https://w3c.github.io/mathml-core",
   "description": "MathML Core draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -6187,6 +6488,7 @@
   "homepageUrl": "https://www.w3.org/Math/",
   "description": "Notes and other documents by the Math WG. See also https://github.com/w3c/mathml-core (repo for the MathML Core spec) and https://github.com/w3c/mathml (repo for the MathML 4 spec).",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -6207,6 +6509,7 @@
   },
   "description": "MathML editors' draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/mathml4"
@@ -6228,6 +6531,7 @@
   "homepageUrl": "https://w3c.github.io/mathonwebpages",
   "description": "Repository for the W3C \"Math on the Web\" Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/mathonwebpages"
@@ -6251,6 +6555,7 @@
   "homepageUrl": "https://w3c.github.io/maturity-model/",
   "description": "Maturity Model",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -6271,6 +6576,7 @@
   "homepageUrl": "https://w3c.github.io/me-media-integration-guidelines/",
   "description": "Media Integration Guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/me"
@@ -6293,6 +6599,7 @@
   "homepageUrl": "https://w3c.github.io/me-media-production/",
   "description": "Media Production on the Web - use cases & requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/me"
@@ -6312,6 +6619,7 @@
   },
   "description": "Media Timed Events TF of the Media and Entertainment IG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/me"
@@ -6333,6 +6641,7 @@
   "homepageUrl": "https://w3c.github.io/me-vision/",
   "description": "A perspective on Media & Entertainment for the Web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/me"
@@ -6353,6 +6662,7 @@
   },
   "homepageUrl": "https://w3c.github.io/media-accessibility-reqs/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -6372,6 +6682,7 @@
   },
   "description": "Repository for the Media and Entertainment Interest Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/me"
@@ -6393,6 +6704,7 @@
   "homepageUrl": "https://w3c.github.io/media-capabilities/",
   "description": "Media Capabilities Standard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -6414,6 +6726,7 @@
   },
   "description": "Architecture of the media pipeline on the web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media",
@@ -6436,6 +6749,7 @@
   "homepageUrl": "https://w3c.github.io/media-playback-quality/",
   "description": "Media Playback Quality",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -6458,6 +6772,7 @@
   "homepageUrl": "https://w3c.github.io/media-source/",
   "description": "Media Source Extensions",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -6479,6 +6794,7 @@
   },
   "description": "Media Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -6501,6 +6817,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-automation/",
   "description": "Media Capture Automation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6522,6 +6839,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-depth/",
   "description": "the Media Capture Depth Stream Extensions specification",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6544,6 +6862,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-extensions/",
   "description": "Extensions to Media Capture and Streams by the WebRTC Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6565,6 +6884,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-fromelement",
   "description": "API to create a MediaStream from Media Element",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6586,6 +6906,7 @@
   },
   "homepageUrl": "https://w3c.github.io/mediacapture-handle/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6607,6 +6928,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-image/",
   "description": "Mediastream Image Capture",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6629,6 +6951,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-main/",
   "description": "Media Capture and Streams specification (aka getUserMedia)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6651,6 +6974,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-output/",
   "description": "API to manage the rendering of audio on any audio output device",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6673,6 +6997,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-record/",
   "description": "MediaStream Recording",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6695,6 +7020,7 @@
   "homepageUrl": "http://w3c.github.io/mediacapture-region/",
   "description": " This document introduces an API for cropping a video track derived from display-capture of the current tab. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6715,6 +7041,7 @@
   },
   "description": "MediaStream Capture Scenarios",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6736,6 +7063,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-screen-share/",
   "description": "Media Capture Screen Capture specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6758,6 +7086,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-transform/",
   "description": "MediaStreamTrack Insertable Media Processing using Streams",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6779,6 +7108,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-viewport/",
   "description": "Specification for getViewportMedia, an API to capture the content of a browser viewport.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6799,6 +7129,7 @@
   },
   "description": "MediaStream with worker",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -6819,6 +7150,7 @@
   "homepageUrl": "https://w3c.github.io/mediasession/",
   "description": "Media Session Standard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -6839,6 +7171,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -6857,6 +7190,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/merchant"
@@ -6877,6 +7211,7 @@
   "homepageUrl": "",
   "description": "MiniApps Standardization",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps",
@@ -6898,6 +7233,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-addressing/",
   "description": "MiniApp Addressing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -6919,6 +7255,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-components/",
   "description": "MiniApp Components",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/miniapps"
@@ -6940,6 +7277,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-iot/",
   "description": "MiniApp for IoT",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/miniapps"
@@ -6961,6 +7299,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-lifecycle/",
   "description": "MiniApp Lifecycle",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -6982,6 +7321,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-manifest/",
   "description": "MiniApp Manifest",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -7003,6 +7343,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-packaging/",
   "description": "MiniApp Packaging",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -7024,6 +7365,7 @@
   "homepageUrl": "",
   "description": "Test suites for MiniApp specs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -7044,6 +7386,7 @@
   "homepageUrl": "https://w3c.github.io/miniapp-white-paper/",
   "description": "MiniApp Standardization White Paper",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -7063,6 +7406,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps"
@@ -7081,6 +7425,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/mixedreality"
@@ -7098,6 +7443,7 @@
   },
   "description": "Mongolian Layout Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
@@ -7120,6 +7466,7 @@
   },
   "description": "Music Notation CG next-generation music markup proposal.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -7142,6 +7489,7 @@
   "homepageUrl": "",
   "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -7164,6 +7512,7 @@
   "homepageUrl": "https://w3c.github.io/motion-sensors/",
   "description": "Motion Sensors Explainer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -7184,6 +7533,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-isobmff/",
   "description": "ISO BMFF Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -7206,6 +7556,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-mp2t/",
   "description": "MPEG-2 TS Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -7228,6 +7579,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/",
   "description": "MPEG Audio Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -7250,6 +7602,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-registry/",
   "description": "Media Source Extensions Byte Stream Format Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -7272,6 +7625,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-webm/",
   "description": "WebM Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -7294,6 +7648,7 @@
   "homepageUrl": "https://w3c.github.io/mst-content-hint/",
   "description": "This is the specification for the content-hint attribute. This optional hint permits MediaStreamTrack consumers such as PeerConnection  or MediaRecorder to encode or process track media with methods more appropriate to the type of content that is being consumed. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -7314,6 +7669,7 @@
   },
   "description": "Docs for initial W3C Multicast Community Group proposal",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/multicast"
@@ -7333,6 +7689,7 @@
   },
   "description": "MusicXML specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -7354,6 +7711,7 @@
   },
   "homepageUrl": "https://w3c.github.io/naur/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -7374,6 +7732,7 @@
   "homepageUrl": "https://w3c.github.io/navigation-timing/",
   "description": "Navigation Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7394,6 +7753,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/net-maint"
@@ -7414,6 +7774,7 @@
   "homepageUrl": "",
   "description": "Documenting how capturing network traces and using it to emulate real-world network conditions can be helpful for Web developers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/web-networks"
@@ -7434,6 +7795,7 @@
   "homepageUrl": "https://w3c.github.io/network-error-logging/",
   "description": "Network Error Logging",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7455,6 +7817,7 @@
   "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
   "description": "Open Screen Protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -7475,6 +7838,7 @@
   "homepageUrl": "https://w3c.github.io/opentrack-cg/spec/competition/",
   "description": "Repository for OpenTrack Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/opentrack"
@@ -7492,6 +7856,7 @@
   "homepageUrl": "https://www.w3.org/TR/orientation-sensor/",
   "description": "Orientation Sensor",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -7514,6 +7879,7 @@
   "homepageUrl": "https://w3c.github.io/p2p-webtransport/",
   "description": "Interface to create and manage QUIC streams",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/ortc"
@@ -7535,6 +7901,7 @@
   "homepageUrl": "https://www.w3.org/TR/page-visibility-2/",
   "description": "Page Visibility",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7557,6 +7924,7 @@
   "homepageUrl": "https://w3c.github.io/paint-timing/",
   "description": "Paint Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7577,6 +7945,7 @@
   },
   "description": "the web fonts patch subset client/server implementation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -7596,6 +7965,7 @@
   },
   "homepageUrl": "https://w3c.github.io/payment-accessibility-reqs/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -7616,6 +7986,7 @@
   "homepageUrl": "https://w3c.github.io/payment-handler/",
   "description": "Payment Handler API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7636,6 +8007,7 @@
   "homepageUrl": "",
   "description": "Payment Method: Basic Card",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7656,6 +8028,7 @@
   },
   "homepageUrl": "http://w3c.github.io/webpayments-methods-credit-transfer-direct-debit/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7677,6 +8050,7 @@
   "homepageUrl": "https://w3c.github.io/payment-method-id/",
   "description": "Payment Method Identifiers specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7697,6 +8071,7 @@
   "homepageUrl": "https://w3c.github.io/payment-method-manifest/",
   "description": "Specification for Web Payments payment method manifests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7717,6 +8092,7 @@
   "homepageUrl": "https://github.com/w3c/payment-method-credit-transfer/wiki",
   "description": "THIS REPO DEPRECATED; see instead ",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7734,6 +8110,7 @@
   "homepageUrl": "https://www.w3.org/TR/payment-request/",
   "description": "Payment Request API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7754,6 +8131,7 @@
   "homepageUrl": "",
   "description": "Information for developers to use the Payment Request API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -7775,6 +8153,7 @@
   "homepageUrl": "",
   "description": "Performance APIs, Security and Privacy",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7796,6 +8175,7 @@
   "homepageUrl": "http://w3c.github.io/perf-timing-primer/",
   "description": "A Primer for Web Performance Timing APIs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7817,6 +8197,7 @@
   "homepageUrl": "https://w3c.github.io/performance-timeline/",
   "description": "Performance Timeline",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -7839,6 +8220,7 @@
   "homepageUrl": "https://www.w3.org/TR/permissions/",
   "description": "Permissions API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -7861,6 +8243,7 @@
   "homepageUrl": "https://w3c.github.io/permissions-registry/",
   "description": "Registry of known powerful features in the web platform.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -7883,6 +8266,7 @@
   "homepageUrl": "https://w3c.github.io/picture-in-picture",
   "description": "Picture-in-Picture (PiP) ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -7905,6 +8289,7 @@
   "homepageUrl": "https://www.w3.org/Privacy/IG/",
   "description": "Privacy Interest Group webpages (only) - working docs are in https://github.com/w3cping ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -7928,6 +8313,7 @@
   "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
   "description": "A security/privacy review questionnaire for W3C specs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -7951,6 +8337,7 @@
   "homepageUrl": "https://www.w3.org/TR/png-hdr-pq/",
   "description": "Timed Text Working Group and PNG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -7972,6 +8359,7 @@
   "homepageUrl": "https://w3c.github.io/pointerevents/",
   "description": "Pointer Events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/pointer-events"
@@ -7994,6 +8382,7 @@
   "homepageUrl": "https://w3c.github.io/pointerlock/",
   "description": "Pointer Lock",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -8015,6 +8404,7 @@
   "homepageUrl": "https://w3c.github.io/predefined-counter-styles/",
   "description": "Predefined Counter Styles",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "r12a"
@@ -8035,6 +8425,7 @@
   "homepageUrl": "https://www.w3.org/TR/presentation-api/",
   "description": "Presentation API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -8054,6 +8445,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -8077,6 +8469,7 @@
   "homepageUrl": "",
   "description": "Not in use",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/dx"
@@ -8097,6 +8490,7 @@
   "homepageUrl": "https://www.w3.org/WAI/APA/task-forces/pronunciation/",
   "description": "Pronunciation Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -8117,6 +8511,7 @@
   "homepageUrl": "https://www.w3.org/TR/proximity/",
   "description": "Proximity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -8139,6 +8534,7 @@
   "homepageUrl": "https://w3c.github.io/pub-manifest",
   "description": "W3C Publication Manifest",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -8159,6 +8555,7 @@
   "homepageUrl": "https://w3c.github.io/pub-vocab/",
   "description": "Vocabulary and context for the Web Publication Manifest",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -8180,6 +8577,7 @@
   "homepageUrl": "",
   "description": "Accessibility related discussions of the Publishing@W3C Groups",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -8199,6 +8597,7 @@
   },
   "description": "Document repository of the Publishing Business Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "bg/publishingbg"
@@ -8219,6 +8618,7 @@
   "homepageUrl": "https://w3c.github.io/publ-maintenance-wg-charter/",
   "description": "Initial version of the Publication Maintenance WG charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/epub",
@@ -8241,6 +8641,7 @@
   "homepageUrl": "https://w3c.github.io/publ-tests",
   "description": "Test repository for the Publishing@W3C activity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -8261,6 +8662,7 @@
   "homepageUrl": "https://www.w3.org/publishing/groups/publ-wg/",
   "description": "Home page of the Audiobooks Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -8281,6 +8683,7 @@
   "homepageUrl": "https://www.w3.org/community/publishingcg/",
   "description": "Repository of the Publishing Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/publishingcg"
@@ -8304,6 +8707,7 @@
   "homepageUrl": "https://w3c.github.io/push-api/",
   "description": "Push API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -8325,6 +8729,7 @@
   "homepageUrl": "https://w3c.github.io/pwpub/",
   "description": "W3C packaged Web Publications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -8344,6 +8749,7 @@
   },
   "homepageUrl": "http://w3c.github.io/raur/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -8362,6 +8768,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rch"
@@ -8381,6 +8788,7 @@
   },
   "description": "RDF Dataset Hash (deliverable of the RCH working group)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rch"
@@ -8401,6 +8809,7 @@
   "homepageUrl": "https://w3c.github.io/rdf-canon/spec/",
   "description": "RDF Dataset Canonicalization (deliverable of the RCH working group)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rch"
@@ -8421,6 +8830,7 @@
   "homepageUrl": "",
   "description": "Files used in all specifications of the RDF-star WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8440,6 +8850,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-concepts/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8459,6 +8870,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-n-quads/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8478,6 +8890,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-n-triples/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8497,6 +8910,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-new/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8505,7 +8919,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -8516,6 +8930,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-primer/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8524,7 +8939,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -8535,6 +8950,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-schema/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8554,6 +8970,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-semantics/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8574,6 +8991,7 @@
   "homepageUrl": "https://w3c.github.io/rdf-star/",
   "description": "RDF-star specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/rdf-dev"
@@ -8594,6 +9012,7 @@
   },
   "description": "RDF-star Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8614,6 +9033,7 @@
   "homepageUrl": "w3c.github.io/rdf-tests",
   "description": "Repository for the RDF Tests Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/rdf-tests"
@@ -8633,6 +9053,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-trig/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8652,6 +9073,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-turtle/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8671,6 +9093,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-ucr/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8679,7 +9102,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -8690,6 +9113,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-xml/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -8709,6 +9133,7 @@
   },
   "homepageUrl": "https://w3c.github.io/remote-meetings/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -8729,6 +9154,7 @@
   "homepageUrl": "https://www.w3.org/TR/remote-playback/",
   "description": "Remote Playback API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -8750,6 +9176,7 @@
   "homepageUrl": "https://w3c.github.io/reporting/",
   "description": "Reporting API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -8771,6 +9198,7 @@
   "homepageUrl": "https://w3c.github.io/requestidlecallback/",
   "description": "Cooperative Scheduling of Background Tasks",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -8793,6 +9221,7 @@
   "homepageUrl": "https://w3c.github.io/resource-hints/",
   "description": "Resource Hints",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -8815,6 +9244,7 @@
   "homepageUrl": "https://w3c.github.io/resource-timing/",
   "description": "Resource Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -8836,6 +9266,7 @@
   },
   "description": "Research Questions Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -8856,6 +9287,7 @@
   "homepageUrl": "https://w3c.github.io/ruby-t2s-req/",
   "description": "Text to Speech of Electronic Documents Containing Ruby: User Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq"
@@ -8875,6 +9307,7 @@
   },
   "homepageUrl": "https://w3c.github.io/saur/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -8894,6 +9327,7 @@
   },
   "description": "Repository for the Scholarly HTML Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/scholarlyhtml"
@@ -8912,6 +9346,7 @@
   },
   "description": "New repository: https://github.com/w3c/device-posture",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -8933,6 +9368,7 @@
   "homepageUrl": "https://w3c.github.io/screen-orientation/",
   "description": "The screen orientation lock specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -8954,6 +9390,7 @@
   "homepageUrl": "https://www.w3.org/TR/screen-wake-lock/",
   "description": "Screen Wake Lock API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -8976,6 +9413,7 @@
   "homepageUrl": "https://www.w3.org/2020/sdw/",
   "description": "Repository for the Spatial Data on the Web Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/sdw"
@@ -8998,6 +9436,7 @@
   },
   "description": "Southeast Asian layout task force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-sealreq",
@@ -9021,6 +9460,7 @@
   "homepageUrl": "https://w3c.github.io/secondscreen-charter/",
   "description": "Draft charter for the Second Screen Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -9042,6 +9482,7 @@
   "homepageUrl": "https://www.w3.org/2014/secondscreen/",
   "description": "Home page of the Second Screen Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -9063,6 +9504,7 @@
   "homepageUrl": "https://w3c.github.io/secure-payment-confirmation/",
   "description": "Explainer for Secure Payment Confirmation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -9083,6 +9525,7 @@
   "homepageUrl": "http://w3c.github.io/selection-api/",
   "description": "Selection API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -9104,6 +9547,7 @@
   "homepageUrl": "https://www.w3.org/TR/generic-sensor/",
   "description": "Generic Sensor API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -9126,6 +9570,7 @@
   "homepageUrl": "http://w3c.github.io/server-timing/",
   "description": "Server Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -9149,6 +9594,7 @@
   "homepageUrl": "https://www.w3.org/sw/",
   "description": "Service Workers Working Group pages",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/service-workers"
@@ -9170,6 +9616,7 @@
   "homepageUrl": "https://w3c.github.io/silver/",
   "description": "Accessibility Guidelines \"Silver\"",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -9192,6 +9639,7 @@
   "homepageUrl": "https://w3c.github.io/simple-ruby/",
   "description": "A simple set of rules for placement of Ruby text in Japanese typography.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq"
@@ -9213,6 +9661,7 @@
   "homepageUrl": "https://w3c.github.io/smufl/latest/",
   "description": "Standard Music Font Layout",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/music-notation"
@@ -9235,6 +9684,7 @@
   "homepageUrl": "https://w3c.github.io/sparql-12/",
   "description": "SPARQL 1.2 Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/sparql-12"
@@ -9254,6 +9704,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-concepts/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9273,6 +9724,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-entailment/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9292,6 +9744,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-federated-query/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9311,6 +9764,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-graph-store-protocol/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9330,6 +9784,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-new/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9338,7 +9793,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -9349,6 +9804,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-protocol/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9368,6 +9824,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-query/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9387,6 +9844,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-results-csv-tsv/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9406,6 +9864,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-results-json/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9425,6 +9884,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-results-xml/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9444,6 +9904,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-service-description/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9463,6 +9924,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-update/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -9481,6 +9943,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -9501,6 +9964,7 @@
   "homepageUrl": "https://www.w3.org/Guide/standards-track/",
   "description": "Best Practices for Bringing Work to the W3C Recommendation Track",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab"
@@ -9521,6 +9985,7 @@
   "homepageUrl": "https://w3c.github.io/string-meta/",
   "description": "How to add direction and language metadata to strings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -9542,6 +10007,7 @@
   "homepageUrl": "https://w3c.github.io/string-search/",
   "description": "Parking lot for advice on internationalization related string searching in general content",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -9560,6 +10026,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/sustyweb"
@@ -9579,6 +10046,7 @@
   },
   "description": "SVG Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/svg"
@@ -9600,6 +10068,7 @@
   },
   "description": "SVG Working Group specifications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/svg"
@@ -9621,6 +10090,7 @@
   "homepageUrl": "http://w3c.github.io/sync-media-pub",
   "description": "Repository of the Synchronized Multimedia for Publications Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -9640,6 +10110,7 @@
   },
   "description": "System Wake Lock API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -9662,6 +10133,7 @@
   "homepageUrl": "https://www.w3.org/community/tdmrep/",
   "description": "Repository of the Text and Data Mining Reservation Protocol Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/tdmrep"
@@ -9681,6 +10153,7 @@
   },
   "description": "Document interactive tests here for language enablement, gap analyis, exploration, etc.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -9700,6 +10173,7 @@
   },
   "description": "Timed Text Working Group Dashboard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -9720,6 +10194,7 @@
   },
   "homepageUrl": "https://w3c.github.io/timezone/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -9741,6 +10216,7 @@
   "homepageUrl": "https://w3c.github.io/timing-entrytypes-registry/",
   "description": "Timing Entry Names Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -9761,6 +10237,7 @@
   },
   "description": "Tibetan Layout Requirements document",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "tf/i18n-tlreq",
@@ -9783,6 +10260,7 @@
   },
   "homepageUrl": "https://w3c.github.io/touch-events/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/touchevents"
@@ -9804,6 +10282,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context/",
   "description": "Trace Context",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9825,6 +10304,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-amqp/",
   "description": "Trace Context: AMQP protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9846,6 +10326,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-binary/",
   "description": "Trace Context: binary protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9867,6 +10348,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-mqtt/",
   "description": "Trace Context: MQTT protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9888,6 +10370,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-protocols-registry/",
   "description": "Trace Context Protocols Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9909,6 +10392,7 @@
   "homepageUrl": "https://w3c.github.io/trace-interchange-format/",
   "description": "Trace Interchange Format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9930,6 +10414,7 @@
   "homepageUrl": "https://w3c.github.io/trace-response-headers/",
   "description": "Trace Response Headers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9951,6 +10436,7 @@
   "homepageUrl": "https://w3c.github.io/tracestate-ids-registry/",
   "description": "Trace State Ids Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -9972,6 +10458,7 @@
   "homepageUrl": "https://w3c.github.io/trusted-types/dist/spec/",
   "description": "A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -9993,6 +10480,7 @@
   "homepageUrl": "",
   "description": "Enhancements for Japanese subtitles",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10011,6 +10499,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10031,6 +10520,7 @@
   "homepageUrl": "https://w3c.github.io/tt-module-karaoke/",
   "description": "W3C Specification of TTML Extensions for Karaoke",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10051,6 +10541,7 @@
   "homepageUrl": "https://w3c.github.io/tt-module-live/tt-live-1/spec/tt-live.html",
   "description": "TTML Live Extensions Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10069,6 +10560,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10087,6 +10579,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10107,6 +10600,7 @@
   "homepageUrl": "https://w3c.github.io/tt-profile-registry/",
   "description": "Profile registry for TTML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10128,6 +10622,7 @@
   "homepageUrl": "https://w3c.github.io/tt-reqs/ttml2-2e-reqs/",
   "description": "Timed Text requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10149,6 +10644,7 @@
   "homepageUrl": "https://w3c.github.io/ttml-webvtt-mapping/",
   "description": "TTML to WebVTT mapping",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10170,6 +10666,7 @@
   "homepageUrl": "http://w3c.github.io/ttml1/",
   "description": "Timed Text Markup Language 1 (TTML1)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10190,6 +10687,7 @@
   },
   "description": "Tests for TTML1",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10211,6 +10709,7 @@
   "homepageUrl": "https://w3c.github.io/ttml2/",
   "description": "Timed Text Markup Language 2 (TTML2)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10232,6 +10731,7 @@
   "homepageUrl": "",
   "description": "TTML2 Tests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10253,6 +10753,7 @@
   "homepageUrl": "http://w3c.github.io/ttml3/",
   "description": "Timed Text Markup Language 3 (TTML3)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10273,6 +10774,7 @@
   },
   "description": "TTML3 Tests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10293,6 +10795,7 @@
   },
   "description": "TT Working Group requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -10313,6 +10816,7 @@
   },
   "description": "Repository for the GGIE task force in the Web and TV IG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/me"
@@ -10334,6 +10838,7 @@
   "homepageUrl": "https://w3c.github.io/type-samples/",
   "description": "A place to find and contribute examples of typographic features in text, especially from non-Latin scripts.  Please read the instructions below before contributing images or comments. Use this link to find items 👇",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -10355,6 +10860,7 @@
   "homepageUrl": "https://w3c.github.io/typography/",
   "description": "Points to typographic information relevant to the Open Web Platform",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -10376,6 +10882,7 @@
   "homepageUrl": "https://w3c.github.io/uievents/",
   "description": "UI Events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -10397,6 +10904,7 @@
   "homepageUrl": "https://w3c.github.io/uievents-code/",
   "description": "UI Events KeyboardEvent code Values",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -10418,6 +10926,7 @@
   "homepageUrl": "https://w3c.github.io/uievents-key/",
   "description": "UI Events KeyboardEvents key Values",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -10438,6 +10947,7 @@
   },
   "description": "Unicode in XML and other Markup Languages",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/i18n-core"
@@ -10459,6 +10969,7 @@
   "homepageUrl": "https://w3c.github.io/user-timing/",
   "description": "User Timing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -10482,6 +10993,7 @@
   "homepageUrl": "https://w3c.github.io/using-aria/",
   "description": "Using ARIA",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -10504,6 +11016,7 @@
   "homepageUrl": "https://w3c.github.io/vc-data-integrity/",
   "description": "W3C Data Integrity Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10524,6 +11037,7 @@
   "homepageUrl": "https://w3c.github.io/vc-data-model/",
   "description": "W3C Verifiable Credentials Working Group — VC Data Model and Representations specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10545,6 +11059,7 @@
   "homepageUrl": "https://w3c.github.io/vc-di-ecdsa/",
   "description": "Data Integrity specification for ECDSA using NIST-compliant curves",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10566,6 +11081,7 @@
   "homepageUrl": "https://w3c.github.io/vc-di-eddsa/",
   "description": "EdDSA Data Integrity Cryptosuites Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10587,6 +11103,7 @@
   "homepageUrl": "https://w3c.github.io/vc-imp-guide",
   "description": "Verifiable Credentials Implementation Guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10608,6 +11125,7 @@
   "homepageUrl": "https://w3c.github.io/vc-jws-2020/",
   "description": "Verifiable Credentials Working Group — JSON Web Signature 2020 specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10628,6 +11146,7 @@
   "homepageUrl": "https://w3c.github.io/vc-jwt/",
   "description": "Verifiable Credentials Working Group — VC JSON Web Tokens specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10648,6 +11167,7 @@
   "homepageUrl": "https://w3c.github.io/vc-specs-dir/",
   "description": "Verifiable Credential Specifications Directory",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10669,6 +11189,7 @@
   "homepageUrl": "https://w3c.github.io/vc-status-list-2021/",
   "description": "A privacy-preserving mechanism to publish status information for Verifiable Credentials.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10692,6 +11213,7 @@
   "homepageUrl": "https://w3c.github.io/vc-test-suite/",
   "description": "Verifiable Credentials WG Test Suite",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10713,6 +11235,7 @@
   "homepageUrl": "https://w3c.github.io/vc-use-cases/",
   "description": "Verifiable Credentials Use Cases",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10734,6 +11257,7 @@
   "homepageUrl": "https://w3c.github.io/vc-wg-charter/",
   "description": "Developing a new charter for the VC WG.",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10755,6 +11279,7 @@
   "homepageUrl": "https://w3c.github.io/verifiable-credentials/",
   "description": "W3C Verifiable Credentials Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -10762,7 +11287,6 @@
    "contacts": [
     "iherman"
    ],
-   "policy": "close",
    "repo-type": [
     "homepage"
    ]
@@ -10776,6 +11300,7 @@
   "homepageUrl": "https://w3c.github.io/vibration/",
   "description": "Vibration API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -10796,6 +11321,7 @@
   "homepageUrl": "https://w3c.github.io/virtual-keyboard/",
   "description": "VirtualKeyboard API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -10816,6 +11342,7 @@
   "homepageUrl": "https://www.w3.org/community/voiceinteraction/",
   "description": "publications of the W3C Voice Interaction Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/voiceinteraction"
@@ -10834,6 +11361,7 @@
   "homepageUrl": "",
   "description": "The Vehicle Signal Ontology (VSSo) based on COVESA VSS and making use of the SOSA/SSN modeling patterns",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/auto"
@@ -10854,6 +11382,7 @@
   "homepageUrl": "http://www.w3.org/TR/WAET/",
   "description": "Repository for the Developers' Guide to Features of Web Accessibility Evaluation Tools",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -10875,6 +11404,7 @@
   "homepageUrl": "https://www.w3.org/Consortium/Process/Drafts/",
   "description": "W3C Process Document",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab",
@@ -10899,6 +11429,7 @@
   "homepageUrl": "https://w3c.github.io/w3process-obsolete-rescinded/",
   "description": "Superseded, Obsolete, Rescinded",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab"
@@ -10921,6 +11452,7 @@
   "homepageUrl": "https://w3c.github.io/wai-InvolveUsersAll",
   "description": "Involving Users in Web Projects for Better, Easier Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -10943,6 +11475,7 @@
   "homepageUrl": "https://wai-involveuserseval.netlify.com",
   "description": "Involving Users in Evaluating Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -10965,6 +11498,7 @@
   "homepageUrl": "https://wai-accessibility-principles.netlify.com",
   "description": "Accessibility Principles",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -10986,6 +11520,7 @@
   },
   "description": "Updates to WAI Before and After Demo",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11009,6 +11544,7 @@
   "homepageUrl": "https://wai-bcase.netlify.com/business-case/",
   "description": "The Business Case for Digital Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11029,6 +11565,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11050,6 +11587,7 @@
   "homepageUrl": "https://wai-components.netlify.com/fundamentals/components/",
   "description": "Essential Components of Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11071,6 +11609,7 @@
   "homepageUrl": "https://www.w3.org/blog/wai-components-gallery/",
   "description": "Accessible UI Components List",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11092,6 +11631,7 @@
   "homepageUrl": "https://w3c.github.io/wai-contacting-orgs/",
   "description": "Contacting Organizations about Inaccessible Websites",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11114,6 +11654,7 @@
   "homepageUrl": "https://www.w3.org/WAI/curricula/",
   "description": "Curricula on Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11135,6 +11676,7 @@
   "homepageUrl": "https://w3c.github.io/wai-develop-training/teach-advocate/accessibility-training/",
   "description": "Developing Web Accessibility Presentations and Training",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11155,6 +11697,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11178,6 +11721,7 @@
   "homepageUrl": "https://www.w3.org/WAI/test-evaluate/preliminary/",
   "description": "Easy Checks - A First Review of Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11199,6 +11743,7 @@
   },
   "description": "Accessible Online Learning - WAI EOWG Resources",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11218,6 +11763,7 @@
   },
   "homepageUrl": "https://w3c.github.io/wai-eval-report-templates/test-evaluate/report-template/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11240,6 +11786,7 @@
   "homepageUrl": "http://w3c.github.io/wai-eval-tools/",
   "description": "WAI Accessibility Evaluation Tools",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11263,6 +11810,7 @@
   "homepageUrl": "https://w3c.github.io/wai-first-aid/plan/interim-repairs/",
   "description": "Web Accessibility First Aid: Approaches for Interim Repairs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11283,6 +11831,7 @@
    "login": "w3c"
   },
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11301,6 +11850,7 @@
   "homepageUrl": "http://w3c.github.io/wai-inclusion/fundamentals/accessibility-usability-inclusion/",
   "description": "Document exploring the relationship between accessibility, usability, and inclusion",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11323,6 +11873,7 @@
   "homepageUrl": "https://wai-intro-accessibility.netlify.com/fundamentals/accessibility-intro/",
   "description": "Introduction to Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11345,6 +11896,7 @@
   "homepageUrl": "https://wai-media-guide.netlify.com/",
   "description": "Making Video and Audio Media Accessible. Preview:",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11364,6 +11916,7 @@
   },
   "description": "Accessible Media Introduction",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11385,6 +11938,7 @@
   "homepageUrl": "https://w3c.github.io/wai-mobile-intro/mobile",
   "description": "Mobile Accessibility Developers Intro",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11406,6 +11960,7 @@
   "homepageUrl": "https://w3c.github.io/wai-org-policies/planning/org-policies/",
   "description": "Developing Organizational Policies on Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11429,6 +11984,7 @@
   "homepageUrl": "https://wai-people-use-web.netlify.com/",
   "description": "How People With Disabilities use the Web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11450,6 +12006,7 @@
   },
   "homepageUrl": "https://w3c.github.io/wai-perspective-videos/perspective-videos/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11471,6 +12028,7 @@
   "homepageUrl": "",
   "description": "WAI Planning and Implementation materials review",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11490,6 +12048,7 @@
   },
   "description": "New layout version of w3c/wai-dynamic-planning",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11510,6 +12069,7 @@
   "homepageUrl": "https://w3c.github.io/wai-policies-prototype/",
   "description": "Prototype for the new WAI Policies Page",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11532,6 +12092,7 @@
   },
   "description": "Updating Policies Relating to Web Accessibility http://www.w3.org/WAI/Policy/",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11552,6 +12113,7 @@
   "homepageUrl": "https://wai-presentations2all.netlify.com/",
   "description": "How to Make Presentations Accessible to All",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11574,6 +12136,7 @@
   "homepageUrl": "https://wai-quick-start.netlify.com",
   "description": "Accessibility quick start tips",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11596,6 +12159,7 @@
   },
   "description": "Web Accessibility Roles & Responsibilities",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11614,6 +12178,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11634,6 +12199,7 @@
   },
   "homepageUrl": "https://wai-selecting-eval-tools.netlify.com/test-evaluate/tools/selecting/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11654,6 +12220,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11676,6 +12243,7 @@
   "homepageUrl": "https://w3c.github.io/wai-showcase-examples/Overview.html",
   "description": "Accessibility Showcase Videos",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11699,6 +12267,7 @@
   "homepageUrl": "https://w3c.github.io/wai-statements/planning/statements/",
   "description": "Accessibility Statements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11718,6 +12287,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11739,6 +12309,7 @@
   },
   "description": "Procuring Tips for Web Accessibility",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11759,6 +12330,7 @@
   "homepageUrl": "https://wai-tutorial-images.netlify.com/tutorials/images/",
   "description": "Images Tutorial",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11782,6 +12354,7 @@
   "homepageUrl": "https://www.w3.org/WAI/tutorials/",
   "description": "W3C WAI’s Web Accessibility Tutorials",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11805,6 +12378,7 @@
   "homepageUrl": "https://w3.org/WAI/eval/report-tool",
   "description": "2021 redesign of the WCAG-EM Report Tool",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11826,6 +12400,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11848,6 +12423,7 @@
   "homepageUrl": "https://wai-wcag-quickref.netlify.com",
   "description": "How to Meet WCAG (Quick Reference)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11871,6 +12447,7 @@
   "homepageUrl": "",
   "description": "New repository: https://github.com/w3c/screen-wake-lock",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -11891,6 +12468,7 @@
   },
   "description": "Web Assembly WG pages",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wasm"
@@ -11912,6 +12490,7 @@
   "homepageUrl": "https://w3c.github.io/wcag/guidelines/",
   "description": "Web Content Accessibility Guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -11934,6 +12513,7 @@
   },
   "description": "WCAG Accessibility Conformance Testing (ACT)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -11955,6 +12535,7 @@
   "homepageUrl": "https://auto-wcag.github.io/auto-wcag/",
   "description": "Accessibility conformance testing rules for HTML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -11976,6 +12557,7 @@
   "homepageUrl": "http://www.w3.org/WAI/eval/report-tool/",
   "description": "Interactive Guide to Assist Managing Web Accessibility Evaluations",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/eowg"
@@ -11998,6 +12580,7 @@
   },
   "description": "Repository for EO editorial work on WCAG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -12019,6 +12602,7 @@
   "homepageUrl": "https://w3c.github.io/wcag/21/guidelines/",
   "description": "Repository used during WCAG 2.1 development. New issues, Technique ideas, and comments should be filed at the WCAG repository at https://github.com/w3c/wcag.",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -12033,6 +12617,7 @@
   },
   "description": "WCAG2ICT deliverable of Accessibility Guidelines WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -12053,6 +12638,7 @@
   "homepageUrl": "https://w3c.github.io/web-advertising/dashboard/",
   "description": "Web Advertising BG - https://www.w3.org/community/web-adv/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "bg/web-adv"
@@ -12072,6 +12658,7 @@
   },
   "homepageUrl": "https://w3c.github.io/web-cert-api-cg/index.html",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/web-cert-api"
@@ -12092,6 +12679,7 @@
   "homepageUrl": "https://w3c.github.io/web-locks/",
   "description": "Cross-tab resource coordination API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -12112,6 +12700,7 @@
   "homepageUrl": "https://www.w3.org/web-networks/",
   "description": "Web & Networks Interest Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/web-networks"
@@ -12132,6 +12721,7 @@
   "homepageUrl": "https://w3c.github.io/web-nfc/",
   "description": "Web NFC",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/web-nfc"
@@ -12153,6 +12743,7 @@
   "homepageUrl": "https://www.w3.org/webperf/",
   "description": "W3C Web Performance Working Group repo",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -12174,6 +12765,7 @@
   "homepageUrl": "https://www.w3.org/TR/web-share/",
   "description": "Web API proposal for sharing data from a web page",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -12197,6 +12789,7 @@
   "homepageUrl": "https://w3c.github.io/web-share-target/",
   "description": "Web API proposal for receiving shared data",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/wicg"
@@ -12218,6 +12811,7 @@
   "homepageUrl": "https://www.w3.org/community/web-thing-protocol/",
   "description": "Repository for the Web Thing Protocol Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/web-thing-protocol"
@@ -12240,6 +12834,7 @@
   "homepageUrl": "http://www.w3.org/2011/webappsec/",
   "description": "Web Application Security Working Group repo",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12261,6 +12856,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-change-password-url/",
   "description": "A Well-Known URL for Changing Passwords",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12283,6 +12879,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-clear-site-data/",
   "description": "WebAppSec Clear Site Data",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12304,6 +12901,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-cors-for-developers/",
   "description": "CORS for developers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12325,6 +12923,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-cowl/",
   "description": "WebAppSec Confinement Origin Web Labels",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12346,6 +12945,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-credential-management/",
   "description": "WebAppSec Credential Management",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12367,6 +12967,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-csp/",
   "description": "WebAppSec Content Security Policy",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12388,6 +12989,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-cspee/",
   "description": "Content Security Policy: Embedded Enforcement",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12408,6 +13010,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-fetch-metadata/",
   "description": "Fetch Metadata",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12429,6 +13032,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-mixed-content/",
   "description": "WebAppSec Mixed Content",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12450,6 +13054,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-permissions-policy/",
   "description": "A mechanism to selectively enable and disable browser features and APIs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12471,6 +13076,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-post-spectre-webdev/",
   "description": "Post-Spectre Web Development",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12492,6 +13098,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-referrer-policy/",
   "description": "WebAppSec Referrer Policy",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12513,6 +13120,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-secure-contexts/",
   "description": "WebAppSec Secure Contexts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12535,6 +13143,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-suborigins/",
   "description": "Suborigins",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12556,6 +13165,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-subresource-integrity/",
   "description": "WebAppSec Subresource Integrity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12577,6 +13187,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-uisecurity/",
   "description": "User Interface Security and the Visibility API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12598,6 +13209,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-upgrade-insecure-requests/",
   "description": "WebAppSec Upgrade Insecure Requests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12619,6 +13231,7 @@
   "homepageUrl": "https://www.w3.org/groups/wg/webapps",
   "description": "Web Applications Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webapps"
@@ -12640,6 +13253,7 @@
   "homepageUrl": "https://w3c.github.io/webauthn/",
   "description": "Web Authentication: An API for accessing Public Key Credentials",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webauthn"
@@ -12662,6 +13276,7 @@
   "homepageUrl": "",
   "description": "Joint task force of Web Authentication WG and Web Payments WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webauthn",
@@ -12683,6 +13298,7 @@
   "homepageUrl": "https://w3c.github.io/webcodecs/",
   "description": "WebCodecs is a flexible web API for encoding and decoding audio and video.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -12703,6 +13319,7 @@
   "homepageUrl": "https://w3c.github.io/webcomponents-cg/",
   "description": "Web Components community group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "contacts": [
     "leaverou"
@@ -12723,6 +13340,7 @@
   "homepageUrl": "https://w3c.github.io/webcrypto/",
   "description": "The W3C Web Cryptography API ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -12745,6 +13363,7 @@
   "homepageUrl": "https://w3c.github.io/webdriver/",
   "description": "Remote control interface that enables introspection and control of user agents.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/browser-tools-testing"
@@ -12766,6 +13385,7 @@
   "homepageUrl": "https://w3c.github.io/webdriver-bidi/",
   "description": "Bidirectional WebDriver protocol for browser automation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/browser-tools-testing"
@@ -12786,6 +13406,7 @@
   "homepageUrl": "",
   "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webextensions"
@@ -12807,6 +13428,7 @@
   "homepageUrl": "https://w3c.github.io/webmediaapi/",
   "description": "Web Media API specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webmediaapi"
@@ -12829,6 +13451,7 @@
   "homepageUrl": "https://w3c.github.io/webmediaguidelines/",
   "description": "Web Media applications developer guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webmediaapi"
@@ -12851,6 +13474,7 @@
   "homepageUrl": "",
   "description": "Web Media porting spec",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webmediaapi"
@@ -12873,6 +13497,7 @@
   "homepageUrl": "https://github.com/w3c/webpayments/wiki",
   "description": "The document repo for the Web Payments Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -12894,6 +13519,7 @@
   "homepageUrl": "https://github.com/w3c/webpayments-crypto/wiki",
   "description": "Crypto discussions of the Web Payments Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -12914,6 +13540,7 @@
   "homepageUrl": "",
   "description": "Flows work of the Web Payments Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -12935,6 +13562,7 @@
   "homepageUrl": "http://w3c.github.io/webpayments-http-api/",
   "description": "Web Payments HTTP APIs for payment app registration, payment requests, and payment responses.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -12955,6 +13583,7 @@
   "homepageUrl": "http://w3c.github.io/webpayments-http-messages/",
   "description": "W3C Web Payments messages typically passed between the systems that inititate, execute, and finalize Web-based payments.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -12975,6 +13604,7 @@
   },
   "homepageUrl": "https://w3c.github.io/webpayments-methods-tokenization/index.html",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -12996,6 +13626,7 @@
   "homepageUrl": "https://w3c.github.io/webpayments-overview/",
   "description": "An overview of the Web Payments ecosystem",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -13017,6 +13648,7 @@
   "homepageUrl": "http://w3c.github.io/webperf-dashboard/",
   "description": "W3C webperf issue tracker",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webperf"
@@ -13038,6 +13670,7 @@
   "homepageUrl": "http://w3c.github.io/webrtc-charter/webrtc-charter.html",
   "description": "Draft for an updated WebRTC Working Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13059,6 +13692,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-encoded-transform/",
   "description": "WebRTC Encoded Transform",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13080,6 +13714,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-extensions/",
   "description": "A repository for \"WebRTC 1.1+\" features",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13101,6 +13736,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-ice/",
   "description": "Extension to the RTCIceTransport interface defined in WebRTC 1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13122,6 +13758,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-identity/",
   "description": "Specification of the Identity framework for WebRTC",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13143,6 +13780,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html",
   "description": "Interoperability testing reports for WebRTC WG specifications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13164,6 +13802,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-nv-use-cases/",
   "description": "Use cases for WebRTC NV",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13185,6 +13824,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-pc/",
   "description": "WebRTC 1.0 API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13207,6 +13847,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-priority/",
   "description": "Spec for the prioirity setting extension to WebRTC (DSCP and priority)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13227,6 +13868,7 @@
   },
   "homepageUrl": "https://w3c.github.io/webrtc-provisional-stats/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13247,6 +13889,7 @@
   },
   "description": "Script to run continuous integration on a respec-based spec",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13268,6 +13911,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-stats/",
   "description": "WebRTC Statistics",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13290,6 +13934,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-svc/",
   "description": "W3C Scalable Video Coding (SVC) Extension for WebRTC",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -13311,6 +13956,7 @@
   "homepageUrl": "https://w3c.github.io/webtransport/",
   "description": "WebTransport is a web API for flexible data transport ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webtransport"
@@ -13331,6 +13977,7 @@
   "homepageUrl": "https://w3c.github.io/webvtt/",
   "description": "WebVTT Standard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text",
@@ -13349,13 +13996,14 @@
   }
  },
  {
-  "name": "window-placement",
+  "name": "window-management",
   "owner": {
    "login": "w3c"
   },
   "homepageUrl": "https://www.w3.org/TR/window-placement/",
   "description": "Multi-Screen Window Placement API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -13376,6 +14024,7 @@
   "homepageUrl": "https://w3c.github.io/woff/woff2/",
   "description": "WOFF File Format specifications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -13395,6 +14044,7 @@
   },
   "description": "Compiled, generated version of woff2-tests for standalone use without dependencies to make them",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -13415,6 +14065,7 @@
   },
   "description": "Test suite for WOFF 2.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webfonts"
@@ -13435,6 +14086,7 @@
   "homepageUrl": "http://www.w3.org/WoT/IG/",
   "description": "Web of Things",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -13457,6 +14109,7 @@
   "homepageUrl": "http://w3c.github.io/wot-architecture/",
   "description": "Web of Things (WoT) Architecture",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13478,6 +14131,7 @@
   "homepageUrl": "http://w3c.github.io/wot-binding-templates/",
   "description": "Web of Things (WoT) Binding Templates",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13499,6 +14153,7 @@
   "homepageUrl": "https://www.w3.org/community/wot/",
   "description": "Web of Things Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/wot"
@@ -13519,6 +14174,7 @@
   "homepageUrl": "https://w3c.github.io/wot-charter-drafts/wot-wg-2023-draft.html",
   "description": "Latest WoT Charter 2023 Draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -13540,6 +14196,7 @@
   "homepageUrl": "https://w3c.github.io/wot-discovery/",
   "description": "Repository for WoT discovery discussion",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13561,6 +14218,7 @@
   "homepageUrl": "",
   "description": "Repository to store the content on Enveloped JSON Signatures spun off from the discussion on WoT Security, e.g., https://github.com/w3c/wot-thing-description/pull/1151",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13582,6 +14240,7 @@
   "homepageUrl": "https://wot-jp-cg.netlify.app/",
   "description": "W3C Web of Things Japanese Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/wot-jp"
@@ -13602,6 +14261,7 @@
   "homepageUrl": "https://www.w3.org/WoT/",
   "description": "Web of Things (WoT) Marketing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -13623,6 +14283,7 @@
   "homepageUrl": "http://w3c.github.io/wot-profile/",
   "description": "Web of Things (WoT) Profile",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13643,6 +14304,7 @@
   "homepageUrl": "http://w3c.github.io/wot-scripting-api/",
   "description": "Web of Things (WoT) Scripting API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13663,6 +14325,7 @@
   },
   "description": "a repo exclusively for security to better manage issues and security considerations for WoT",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13684,6 +14347,7 @@
   "homepageUrl": "https://github.com/w3c/wot-security-best-practices/blob/master/index.html",
   "description": "WoT Security Best Practices",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13705,6 +14369,7 @@
   "homepageUrl": "",
   "description": "Repository for the WoT Security Testing Plan document",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13725,6 +14390,7 @@
   },
   "description": "Repository for WoT Testing purposes",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -13746,6 +14412,7 @@
   "homepageUrl": "http://w3c.github.io/wot-thing-description/",
   "description": "Web of Things (WoT) Thing Description",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13766,6 +14433,7 @@
   },
   "description": "Repository of the WoT IG to discuss possible WoT use cases",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -13787,6 +14455,7 @@
   "homepageUrl": "https://www.w3.org/WoT/WG/",
   "description": "Web of Things Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/wot"
@@ -13807,6 +14476,7 @@
   },
   "description": "Web Payment Security Interest Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/securepay"
@@ -13827,6 +14497,7 @@
   "homepageUrl": "https://w3c.github.io/wpub/",
   "description": "W3C Web Publications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -13847,6 +14518,7 @@
   "homepageUrl": "https://w3c.github.io/wpub-ann/",
   "description": "Web Annotation Extensions for Web Publications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/publishing"
@@ -13866,6 +14538,7 @@
   },
   "description": "Guidance on how to write SVG that is accessible",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/svg"
@@ -13887,6 +14560,7 @@
   "homepageUrl": "https://w3c.github.io/xaur/",
   "description": "XR Accessibility User Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa"
@@ -13906,6 +14580,7 @@
   },
   "description": "Source for http://www.w3.org/2003/entities/2007xml/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -13927,6 +14602,7 @@
   "homepageUrl": "https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues",
   "description": "Repo to track PING initiated issues on other standards documents.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -13947,6 +14623,7 @@
   },
   "description": "W3C specs and API reviews ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/tag"
@@ -13968,6 +14645,7 @@
   "homepageUrl": "https://www.w3.org/TR/webmachinelearning-ethics/",
   "description": "😇 Ethical Principles for Web Machine Learning",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webmachinelearning"
@@ -13988,6 +14666,7 @@
   "homepageUrl": "https://www.w3.org/TR/webnn/",
   "description": "🧠 Web Neural Network API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webmachinelearning"
