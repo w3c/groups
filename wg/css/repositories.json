@@ -6,6 +6,7 @@
   },
   "description": "Main repository for the CSS Accessibility Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa",
@@ -29,6 +30,7 @@
   "homepageUrl": "https://drafts.css-houdini.org/",
   "description": "Mirror of https://hg.css-houdini.org/drafts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -50,6 +52,7 @@
   "homepageUrl": "https://hg.csswg.org/dev/apiclient/",
   "description": "Read-only git mirror",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -72,6 +75,7 @@
   "homepageUrl": "https://drafts.csswg.org/",
   "description": "CSS Working Group Editor Drafts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -93,6 +97,7 @@
   "homepageUrl": "http://csswg-www.inkedblade.net/",
   "description": "Prototype web site for the CSS Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
@@ -115,6 +120,7 @@
   "homepageUrl": "https://drafts.fxtf.org/",
   "description": "Mirror of https://hg.fxtf.org/drafts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/css"
