@@ -7,6 +7,7 @@
   "homepageUrl": "https://webassembly.github.io/JS-BigInt-integration/js-api/index.html",
   "description": "JavaScript BigInt to WebAssembly i64 integration",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://WebAssembly.github.io/annotations/",
   "description": "Proposal for Custom Annotation Syntax in the Text Format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -47,6 +49,7 @@
   "homepageUrl": "",
   "description": "Proposal to add branch hinting functionality to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -67,6 +70,7 @@
   "homepageUrl": "https://webassembly.github.io/bulk-memory-operations/",
   "description": "Bulk memory operations",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -85,6 +89,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -103,6 +108,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -123,6 +129,7 @@
   "homepageUrl": "",
   "description": "Constant-time WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -141,6 +148,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -161,6 +169,7 @@
   "homepageUrl": "https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration",
   "description": "ECMAScript module integration",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -181,6 +190,7 @@
   "homepageUrl": "",
   "description": "Proposal to add exception handling to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -200,6 +210,7 @@
   },
   "description": "Proposal for extended constant expressions",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -218,6 +229,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -237,6 +249,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/feature-detection/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -257,6 +270,7 @@
   "homepageUrl": "https://webassembly.github.io/flexible-vectors/",
   "description": "Vector operations for WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -277,6 +291,7 @@
   "homepageUrl": "https://webassembly.github.io/function-references/",
   "description": "Proposal for Typed Function References",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -296,6 +311,7 @@
   },
   "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -314,6 +330,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -333,6 +350,7 @@
   },
   "description": "Proposal to add instrumentation and tracing instructions to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -352,6 +370,7 @@
   },
   "description": "JavaScript Promise Integration",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -371,6 +390,7 @@
   },
   "description": "Proposal for adding type reflection to the JS API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -391,6 +411,7 @@
   "homepageUrl": "",
   "description": "A proposal to introduce finer grained control of WebAssembly memory.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -410,6 +431,7 @@
   },
   "description": "Memory with 64-bit indexes",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -430,6 +452,7 @@
   "homepageUrl": "",
   "description": "Proposal for allowing modules to define, import and export modules and instances",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -450,6 +473,7 @@
   "homepageUrl": "https://webassembly.github.io/multi-memory/",
   "description": "Multiple per-module memories for Wasm",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -470,6 +494,7 @@
   "homepageUrl": "https://webassembly.github.io/multi-value/",
   "description": "Proposal to add multi-values to WebAssembly",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -489,6 +514,7 @@
   },
   "description": "Proposal to add non-trapping float-to-int conversions to WebAssembly",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -509,6 +535,7 @@
   "homepageUrl": "https://webassembly.github.com/profiles/",
   "description": "Profiles proposal",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -528,6 +555,7 @@
   },
   "description": "Proposal for Type Imports & Exports",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -548,6 +576,7 @@
   "homepageUrl": "https://webassembly.github.io/reference-types/",
   "description": "Proposal for adding basic reference types (anyref)",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -566,6 +595,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -585,6 +615,7 @@
   },
   "description": "Relax the strict determinism requirements of SIMD operations.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -604,6 +635,7 @@
   },
   "description": "Spec proposal for scanning/marking of linear memory GC roots",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -622,6 +654,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -641,6 +674,7 @@
   },
   "description": "Sign-extension opcodes",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -660,6 +694,7 @@
   },
   "description": "Branch of the spec repo scoped to discussion of SIMD in WebAssembly ",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -680,6 +715,7 @@
   "homepageUrl": "https://webassembly.github.io/spec/",
   "description": "WebAssembly specification, reference interpreter, and test suite.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -700,6 +736,7 @@
   "homepageUrl": "",
   "description": "A repository for the stack switching proposal.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -718,6 +755,7 @@
    "login": "WebAssembly"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -738,6 +776,7 @@
   "homepageUrl": "https://webassembly.github.io/tail-call/",
   "description": "Proposal to add tail calls to WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -758,6 +797,7 @@
   "homepageUrl": "https://webassembly.github.io/threads/",
   "description": "Threads and Atomics in WebAssembly",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
@@ -777,6 +817,7 @@
   },
   "description": "Proposal to add numeric values to data segment definitions in the text format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webassembly"
