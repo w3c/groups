@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-api/",
   "description": "JSON-LD 1.1 Processing Algorithms and API Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-bp/",
   "description": "JSON-LD 1.1 Best Practices Note",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -48,6 +50,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-cbor/",
   "description": "JSON-LD 1.1 in CBOR Note",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -68,6 +71,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-framing/",
   "description": "JSON-LD 1.1 Framing Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -88,6 +92,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-rc/context.jsonld",
   "description": "JSON-LD Recommended Context",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -108,6 +113,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-streaming/",
   "description": "JSON-LD 1.1 Streaming Note",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -129,6 +135,7 @@
   "homepageUrl": "https://w3c.github.io/json-ld-syntax/",
   "description": "JSON-LD 1.1 Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
@@ -150,6 +157,7 @@
   "homepageUrl": "https://www.w3.org/2018/json-ld-wg/",
   "description": "Documentation for the JSON-LD Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/json-ld"
