@@ -7,6 +7,7 @@
   "homepageUrl": "https://www.w3.org/TR/permissions/",
   "description": "Permissions API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -29,6 +30,7 @@
   "homepageUrl": "https://w3c.github.io/permissions-registry/",
   "description": "Registry of known powerful features in the web platform.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -51,6 +53,7 @@
   "homepageUrl": "https://w3c.github.io/trusted-types/dist/spec/",
   "description": "A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -72,6 +75,7 @@
   "homepageUrl": "http://www.w3.org/2011/webappsec/",
   "description": "Web Application Security Working Group repo",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -93,6 +97,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-change-password-url/",
   "description": "A Well-Known URL for Changing Passwords",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -115,6 +120,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-clear-site-data/",
   "description": "WebAppSec Clear Site Data",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -136,6 +142,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-cors-for-developers/",
   "description": "CORS for developers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -157,6 +164,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-cowl/",
   "description": "WebAppSec Confinement Origin Web Labels",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -178,6 +186,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-credential-management/",
   "description": "WebAppSec Credential Management",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -199,6 +208,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-csp/",
   "description": "WebAppSec Content Security Policy",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -220,6 +230,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-cspee/",
   "description": "Content Security Policy: Embedded Enforcement",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -240,6 +251,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-fetch-metadata/",
   "description": "Fetch Metadata",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -261,6 +273,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-mixed-content/",
   "description": "WebAppSec Mixed Content",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -282,6 +295,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-permissions-policy/",
   "description": "A mechanism to selectively enable and disable browser features and APIs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -303,6 +317,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-post-spectre-webdev/",
   "description": "Post-Spectre Web Development",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -324,6 +339,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-referrer-policy/",
   "description": "WebAppSec Referrer Policy",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -345,6 +361,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-secure-contexts/",
   "description": "WebAppSec Secure Contexts",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -367,6 +384,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-suborigins/",
   "description": "Suborigins",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -388,6 +406,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-subresource-integrity/",
   "description": "WebAppSec Subresource Integrity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -409,6 +428,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-uisecurity/",
   "description": "User Interface Security and the Visibility API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -430,6 +450,7 @@
   "homepageUrl": "https://w3c.github.io/webappsec-upgrade-insecure-requests/",
   "description": "WebAppSec Upgrade Insecure Requests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
@@ -451,6 +472,7 @@
   "homepageUrl": "https://w3c.github.io/webcrypto/",
   "description": "The W3C Web Cryptography API ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webappsec"
