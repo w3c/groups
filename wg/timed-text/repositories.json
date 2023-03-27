@@ -5,6 +5,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -24,6 +25,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -43,6 +45,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -64,6 +67,7 @@
   "homepageUrl": "https://w3c.github.io/adpt/",
   "description": "Audio Description Profile of TTML2",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -85,6 +89,7 @@
   "homepageUrl": "https://w3c.github.io/charter-timed-text/",
   "description": "Timed Text Working Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -106,6 +111,7 @@
   "homepageUrl": "https://w3c.github.io/dapt/",
   "description": "Dubbing and Audio description Profiles of TTML2",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -126,6 +132,7 @@
   "homepageUrl": "https://w3c.github.io/dapt-reqs/",
   "description": "Requirements on Dubbing and Audio description Profiles of TTML2",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -145,6 +152,7 @@
   },
   "description": "Tests for Dubbing and Audio description Profiles of TTML2 ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -165,6 +173,7 @@
   "homepageUrl": "https://w3c.github.io/imsc/",
   "description": "TTML Profiles for Internet Media Subtitles and Captions (IMSC)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -186,6 +195,7 @@
   "homepageUrl": "https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html",
   "description": "IMSC Hypothetical Render Model",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -205,6 +215,7 @@
   },
   "description": "IMSC-HRM tests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -226,6 +237,7 @@
   "homepageUrl": "https://w3c.github.io/imsc-tests/",
   "description": "IMSC test suites",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -247,6 +259,7 @@
   "homepageUrl": "https://w3c.github.io/imsc-vnext-reqs/",
   "description": "IMSC Next version Requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -268,6 +281,7 @@
   "homepageUrl": "https://www.w3.org/TR/png-hdr-pq/",
   "description": "Timed Text Working Group and PNG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -288,6 +302,7 @@
   },
   "description": "Timed Text Working Group Dashboard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -309,6 +324,7 @@
   "homepageUrl": "",
   "description": "Enhancements for Japanese subtitles",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -327,6 +343,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -347,6 +364,7 @@
   "homepageUrl": "https://w3c.github.io/tt-module-karaoke/",
   "description": "W3C Specification of TTML Extensions for Karaoke",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -367,6 +385,7 @@
   "homepageUrl": "https://w3c.github.io/tt-module-live/tt-live-1/spec/tt-live.html",
   "description": "TTML Live Extensions Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -385,6 +404,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -403,6 +423,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -423,6 +444,7 @@
   "homepageUrl": "https://w3c.github.io/tt-profile-registry/",
   "description": "Profile registry for TTML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -444,6 +466,7 @@
   "homepageUrl": "https://w3c.github.io/tt-reqs/ttml2-2e-reqs/",
   "description": "Timed Text requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -465,6 +488,7 @@
   "homepageUrl": "https://w3c.github.io/ttml-webvtt-mapping/",
   "description": "TTML to WebVTT mapping",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -486,6 +510,7 @@
   "homepageUrl": "http://w3c.github.io/ttml1/",
   "description": "Timed Text Markup Language 1 (TTML1)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -506,6 +531,7 @@
   },
   "description": "Tests for TTML1",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -527,6 +553,7 @@
   "homepageUrl": "https://w3c.github.io/ttml2/",
   "description": "Timed Text Markup Language 2 (TTML2)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -548,6 +575,7 @@
   "homepageUrl": "",
   "description": "TTML2 Tests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -569,6 +597,7 @@
   "homepageUrl": "http://w3c.github.io/ttml3/",
   "description": "Timed Text Markup Language 3 (TTML3)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -589,6 +618,7 @@
   },
   "description": "TTML3 Tests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -609,6 +639,7 @@
   },
   "description": "TT Working Group requirements",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text"
@@ -630,6 +661,7 @@
   "homepageUrl": "https://w3c.github.io/webvtt/",
   "description": "WebVTT Standard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/timed-text",
