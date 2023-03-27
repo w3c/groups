@@ -7,6 +7,7 @@
   "homepageUrl": "https://www.w3.org/TR/accelerometer/",
   "description": "Accelerometer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -29,6 +30,7 @@
   "homepageUrl": "https://www.w3.org/TR/ambient-light/",
   "description": "Ambient Light Sensor",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -51,6 +53,7 @@
   "homepageUrl": "https://www.w3.org/TR/battery-status/",
   "description": "Battery Status API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -73,6 +76,7 @@
   "homepageUrl": "https://www.w3.org/TR/compute-pressure/",
   "description": "A web API proposal that provides information about available compute capacity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -93,6 +97,7 @@
   "homepageUrl": "https://www.w3.org/TR/contact-picker/",
   "description": "Contact Picker API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das",
@@ -114,6 +119,7 @@
   "homepageUrl": "https://w3c.github.io/das-charter/das-wg-charter.html",
   "description": "Devices and Sensors Working Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -134,6 +140,7 @@
   "homepageUrl": "https://www.w3.org/TR/device-posture/",
   "description": "Device Posture API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -156,6 +163,7 @@
   "homepageUrl": "https://www.w3.org/TR/orientation-event/",
   "description": "W3C Device Orientation spec",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -178,6 +186,7 @@
   "homepageUrl": "https://www.w3.org/das/",
   "description": "Devices and Sensors Working Group website",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -198,6 +207,7 @@
   "homepageUrl": "https://www.w3.org/TR/geolocation/",
   "description": "W3C Geolocation API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -219,6 +229,7 @@
   "homepageUrl": "https://www.w3.org/TR/geolocation-sensor/",
   "description": "Geolocation Sensor",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -240,6 +251,7 @@
   "homepageUrl": "https://www.w3.org/TR/gyroscope/",
   "description": "Gyroscope",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -262,6 +274,7 @@
   "homepageUrl": "https://www.w3.org/TR/html-media-capture/",
   "description": "HTML Media Capture",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -282,6 +295,7 @@
   "homepageUrl": "https://www.w3.org/TR/magnetometer/",
   "description": "Magnetometer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -304,6 +318,7 @@
   "homepageUrl": "https://w3c.github.io/motion-sensors/",
   "description": "Motion Sensors Explainer",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -324,6 +339,7 @@
   "homepageUrl": "https://www.w3.org/TR/orientation-sensor/",
   "description": "Orientation Sensor",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -346,6 +362,7 @@
   "homepageUrl": "https://www.w3.org/TR/proximity/",
   "description": "Proximity",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -367,6 +384,7 @@
   },
   "description": "New repository: https://github.com/w3c/device-posture",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -388,6 +406,7 @@
   "homepageUrl": "https://www.w3.org/TR/screen-wake-lock/",
   "description": "Screen Wake Lock API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -410,6 +429,7 @@
   "homepageUrl": "https://www.w3.org/TR/generic-sensor/",
   "description": "Generic Sensor API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -431,6 +451,7 @@
   },
   "description": "System Wake Lock API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -453,6 +474,7 @@
   "homepageUrl": "https://w3c.github.io/vibration/",
   "description": "Vibration API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
@@ -473,6 +495,7 @@
   "homepageUrl": "",
   "description": "New repository: https://github.com/w3c/screen-wake-lock",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/das"
