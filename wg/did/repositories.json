@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/did-cbor-note/",
   "description": "WG Note on DID CBOR Representation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://www.w3.org/TR/did-core/",
   "description": "W3C Decentralized Identifier Specification v1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -49,6 +51,7 @@
   "homepageUrl": "https://w3c.github.io/did-imp-guide/",
   "description": "DID Implementation Guide (Note)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -70,6 +73,7 @@
   "homepageUrl": "https://w3c.github.io/did-rubric/",
   "description": "W3C Decentralized Characteristics Rubric v1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -91,6 +95,7 @@
   "homepageUrl": "https://w3c.github.io/did-spec-registries/",
   "description": "DID Spec Registry (Note)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -112,6 +117,7 @@
   "homepageUrl": "https://w3c.github.io/did-test-suite/",
   "description": "W3C DID Test Suite and Implementation Report",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -133,6 +139,7 @@
   "homepageUrl": "https://w3c.github.io/did-use-cases/",
   "description": "Decentralized Identifier Use Cases and Requirements v1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -154,6 +161,7 @@
   "homepageUrl": "https://www.w3.org/2019/did-wg/",
   "description": "Home page of the Decentralized Identifier Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
@@ -174,6 +182,7 @@
   "homepageUrl": "",
   "description": "https://w3c.github.io/did-wg-charter/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/did"
