@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "A repo for managing the adminstrative tasks of the Immersive Web Group. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -27,6 +28,7 @@
   },
   "homepageUrl": "https://immersive-web.github.io/anchors/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -48,6 +50,7 @@
   "homepageUrl": "",
   "description": "Specification: https://immersive-web.github.io/depth-sensing/ Explainer: https://github.com/immersive-web/depth-sensing/blob/main/explainer.md",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -69,6 +72,7 @@
   "homepageUrl": "https://immersive-web.github.io/dom-overlays/",
   "description": "A feature incubation repo for layering DOM content on/in WebXR content. Feature lead: Piotr Bialecki",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -89,6 +93,7 @@
   },
   "homepageUrl": "https://immersive-web.github.io/hit-test/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -110,6 +115,7 @@
   "homepageUrl": "https://www.w3.org/immersive-web/",
   "description": "Homepage of the Immersive Web WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -131,6 +137,7 @@
   "homepageUrl": "https://immersiveweb.dev",
   "description": "Repo for immersiveweb.dev",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -152,6 +159,7 @@
   "homepageUrl": "https://immersive-web.github.io/layers/",
   "description": "A feature repo for working on multi-layer support in WebXR. Feature leads: Rik Cabanier and  Artem Bolgar (Oculus)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -173,6 +181,7 @@
   "homepageUrl": "https://immersive-web.github.io/lighting-estimation/",
   "description": "A proposal for adding lighting estimation API to WebXR Device API. Feature lead: Kip Gilbert",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -193,6 +202,7 @@
   "homepageUrl": "",
   "description": "Cross specification concerns and suggestions for privacy and security for the immersive web (Feature lead: Mounir Lamouri)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -214,6 +224,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr/",
   "description": "Repository for the WebXR Device API Specification.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -236,6 +247,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-ar-module",
   "description": "Repository for the WebXR Augmented Reality Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -258,6 +270,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-gamepads-module",
   "description": "Repository for the WebXR Gamepads Module",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -280,6 +293,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-hand-input/",
   "description": "A feature repo for working on hand input support in WebXR. Feature lead: Manish Goregaokar",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
@@ -302,6 +316,7 @@
   "homepageUrl": "https://immersive-web.github.io/webxr-test-api/",
   "description": "WPT testing API for WebXR",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/immersive-web"
