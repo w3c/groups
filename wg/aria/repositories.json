@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/accname/",
   "description": "Accessible Name and Description Computation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://github.com/w3c/aria/",
   "description": "This repository has been archived and work moved to the w3c/aria repository.",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -46,6 +48,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -66,6 +69,7 @@
   "homepageUrl": "https://w3c.github.io/aria/",
   "description": "Accessible Rich Internet Applications (WAI-ARIA)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -86,6 +90,7 @@
   },
   "description": "Shared files for the ARIA repositories",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -107,6 +112,7 @@
   "homepageUrl": "https://www.w3.org/wai/aria/apg/",
   "description": "WAI-ARIA Authoring Practices Guide (APG)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -128,6 +134,7 @@
   "homepageUrl": "https://w3c.github.io/core-aam/",
   "description": "Core Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -148,6 +155,7 @@
   },
   "description": "Main repository for the CSS Accessibility Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/apa",
@@ -171,6 +179,7 @@
   "homepageUrl": "https://w3c.github.io/dpub-aam/",
   "description": "Digital Publishing Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -192,6 +201,7 @@
   "homepageUrl": "https://w3c.github.io/graphics-aam/",
   "description": "General graphics Accessibility API mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -213,6 +223,7 @@
   "homepageUrl": "https://w3c.github.io/graphics-aria/",
   "description": "Graphics Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -234,6 +245,7 @@
   "homepageUrl": "https://w3c.github.io/html-aam/",
   "description": "HTML Accessibility API Mappings",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
@@ -257,6 +269,7 @@
   "homepageUrl": "https://w3c.github.io/mathml-aam/",
   "description": "Accessibility API Mappings for MathML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/aria"
