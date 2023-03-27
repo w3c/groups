@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/edge-computing-web-exploration/",
   "description": "A repo where the Web & Networks Interest Group explores the intersection of Web and Edge Computing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/web-networks"
@@ -27,6 +28,7 @@
   "homepageUrl": "",
   "description": "Documenting how capturing network traces and using it to emulate real-world network conditions can be helpful for Web developers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/web-networks"
@@ -47,6 +49,7 @@
   "homepageUrl": "https://www.w3.org/web-networks/",
   "description": "Web & Networks Interest Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/web-networks"
