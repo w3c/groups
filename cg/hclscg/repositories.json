@@ -5,6 +5,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -25,6 +26,7 @@
   },
   "description": "XSLT to tranform C-CDA into O-RIM RDF",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -46,6 +48,7 @@
   "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
   "description": "W3C HCLS Drug-Drug Interaction",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -66,6 +69,7 @@
   },
   "description": "Sketching out an RDF representation for FHIR",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
@@ -86,6 +90,7 @@
   },
   "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/hclscg"
