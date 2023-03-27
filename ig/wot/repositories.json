@@ -7,6 +7,7 @@
   "homepageUrl": "http://www.w3.org/WoT/IG/",
   "description": "Web of Things",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -29,6 +30,7 @@
   "homepageUrl": "https://w3c.github.io/wot-charter-drafts/wot-wg-2023-draft.html",
   "description": "Latest WoT Charter 2023 Draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -50,6 +52,7 @@
   "homepageUrl": "https://www.w3.org/WoT/",
   "description": "Web of Things (WoT) Marketing",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -70,6 +73,7 @@
   },
   "description": "Repository for WoT Testing purposes",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
@@ -90,6 +94,7 @@
   },
   "description": "Repository of the WoT IG to discuss possible WoT use cases",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/wot"
