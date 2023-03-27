@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/autoplay/",
   "description": "Autoplay Policy Detection",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://w3c.github.io/encrypted-media/",
   "description": "Encrypted Media Extensions",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -50,6 +52,7 @@
   "homepageUrl": "https://w3c.github.io/media-capabilities/",
   "description": "Media Capabilities Standard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -71,6 +74,7 @@
   },
   "description": "Architecture of the media pipeline on the web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media",
@@ -93,6 +97,7 @@
   "homepageUrl": "https://w3c.github.io/media-playback-quality/",
   "description": "Media Playback Quality",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -115,6 +120,7 @@
   "homepageUrl": "https://w3c.github.io/media-source/",
   "description": "Media Source Extensions",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -136,6 +142,7 @@
   },
   "description": "Media Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -158,6 +165,7 @@
   "homepageUrl": "https://w3c.github.io/mediasession/",
   "description": "Media Session Standard",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -180,6 +188,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-isobmff/",
   "description": "ISO BMFF Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -202,6 +211,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-mp2t/",
   "description": "MPEG-2 TS Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -224,6 +234,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/",
   "description": "MPEG Audio Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -246,6 +257,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-registry/",
   "description": "Media Source Extensions Byte Stream Format Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -268,6 +280,7 @@
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-webm/",
   "description": "WebM Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -290,6 +303,7 @@
   "homepageUrl": "https://w3c.github.io/picture-in-picture",
   "description": "Picture-in-Picture (PiP) ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
@@ -312,6 +326,7 @@
   "homepageUrl": "https://w3c.github.io/webcodecs/",
   "description": "WebCodecs is a flexible web API for encoding and decoding audio and video.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media"
