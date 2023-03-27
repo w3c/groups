@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/vc-data-integrity/",
   "description": "W3C Data Integrity Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://w3c.github.io/vc-data-model/",
   "description": "W3C Verifiable Credentials Working Group — VC Data Model and Representations specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -48,6 +50,7 @@
   "homepageUrl": "https://w3c.github.io/vc-di-ecdsa/",
   "description": "Data Integrity specification for ECDSA using NIST-compliant curves",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -69,6 +72,7 @@
   "homepageUrl": "https://w3c.github.io/vc-di-eddsa/",
   "description": "EdDSA Data Integrity Cryptosuites Specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -90,6 +94,7 @@
   "homepageUrl": "https://w3c.github.io/vc-imp-guide",
   "description": "Verifiable Credentials Implementation Guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -111,6 +116,7 @@
   "homepageUrl": "https://w3c.github.io/vc-jws-2020/",
   "description": "Verifiable Credentials Working Group — JSON Web Signature 2020 specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -131,6 +137,7 @@
   "homepageUrl": "https://w3c.github.io/vc-jwt/",
   "description": "Verifiable Credentials Working Group — VC JSON Web Tokens specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -151,6 +158,7 @@
   "homepageUrl": "https://w3c.github.io/vc-specs-dir/",
   "description": "Verifiable Credential Specifications Directory",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -172,6 +180,7 @@
   "homepageUrl": "https://w3c.github.io/vc-status-list-2021/",
   "description": "A privacy-preserving mechanism to publish status information for Verifiable Credentials.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -195,6 +204,7 @@
   "homepageUrl": "https://w3c.github.io/vc-test-suite/",
   "description": "Verifiable Credentials WG Test Suite",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -216,6 +226,7 @@
   "homepageUrl": "https://w3c.github.io/vc-use-cases/",
   "description": "Verifiable Credentials Use Cases",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -237,6 +248,7 @@
   "homepageUrl": "https://w3c.github.io/vc-wg-charter/",
   "description": "Developing a new charter for the VC WG.",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -258,6 +270,7 @@
   "homepageUrl": "https://w3c.github.io/verifiable-credentials/",
   "description": "W3C Verifiable Credentials Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/vc"
@@ -265,7 +278,6 @@
    "contacts": [
     "iherman"
    ],
-   "policy": "close",
    "repo-type": [
     "homepage"
    ]
