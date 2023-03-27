@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/baggage/",
   "description": "Propagation format for distributed context: Baggage",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -28,6 +29,7 @@
   "homepageUrl": "https://www.w3.org/2018/distributed-tracing",
   "description": "Distributed Tracing Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -49,6 +51,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context/",
   "description": "Trace Context",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -70,6 +73,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-amqp/",
   "description": "Trace Context: AMQP protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -91,6 +95,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-binary/",
   "description": "Trace Context: binary protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -112,6 +117,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-mqtt/",
   "description": "Trace Context: MQTT protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -133,6 +139,7 @@
   "homepageUrl": "https://w3c.github.io/trace-context-protocols-registry/",
   "description": "Trace Context Protocols Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -154,6 +161,7 @@
   "homepageUrl": "https://w3c.github.io/trace-interchange-format/",
   "description": "Trace Interchange Format",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -175,6 +183,7 @@
   "homepageUrl": "https://w3c.github.io/trace-response-headers/",
   "description": "Trace Response Headers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
@@ -196,6 +205,7 @@
   "homepageUrl": "https://w3c.github.io/tracestate-ids-registry/",
   "description": "Trace State Ids Registry",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/distributed-tracing"
