@@ -6,6 +6,7 @@
   },
   "description": "Architecture of the media pipeline on the web",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/media",
@@ -28,6 +29,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-automation/",
   "description": "Media Capture Automation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -49,6 +51,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-depth/",
   "description": "the Media Capture Depth Stream Extensions specification",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -71,6 +74,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-extensions/",
   "description": "Extensions to Media Capture and Streams by the WebRTC Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -92,6 +96,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-fromelement",
   "description": "API to create a MediaStream from Media Element",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -113,6 +118,7 @@
   },
   "homepageUrl": "https://w3c.github.io/mediacapture-handle/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -134,6 +140,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-image/",
   "description": "Mediastream Image Capture",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -156,6 +163,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-main/",
   "description": "Media Capture and Streams specification (aka getUserMedia)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -178,6 +186,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-output/",
   "description": "API to manage the rendering of audio on any audio output device",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -200,6 +209,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-record/",
   "description": "MediaStream Recording",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -222,6 +232,7 @@
   "homepageUrl": "http://w3c.github.io/mediacapture-region/",
   "description": " This document introduces an API for cropping a video track derived from display-capture of the current tab. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -242,6 +253,7 @@
   },
   "description": "MediaStream Capture Scenarios",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -263,6 +275,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-screen-share/",
   "description": "Media Capture Screen Capture specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -285,6 +298,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-transform/",
   "description": "MediaStreamTrack Insertable Media Processing using Streams",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -306,6 +320,7 @@
   "homepageUrl": "https://w3c.github.io/mediacapture-viewport/",
   "description": "Specification for getViewportMedia, an API to capture the content of a browser viewport.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -326,6 +341,7 @@
   },
   "description": "MediaStream with worker",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -346,6 +362,7 @@
   "homepageUrl": "https://w3c.github.io/mst-content-hint/",
   "description": "This is the specification for the content-hint attribute. This optional hint permits MediaStreamTrack consumers such as PeerConnection  or MediaRecorder to encode or process track media with methods more appropriate to the type of content that is being consumed. ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -367,6 +384,7 @@
   "homepageUrl": "http://w3c.github.io/webrtc-charter/webrtc-charter.html",
   "description": "Draft for an updated WebRTC Working Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -388,6 +406,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-encoded-transform/",
   "description": "WebRTC Encoded Transform",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -409,6 +428,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-extensions/",
   "description": "A repository for \"WebRTC 1.1+\" features",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -430,6 +450,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-ice/",
   "description": "Extension to the RTCIceTransport interface defined in WebRTC 1.0",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -451,6 +472,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-identity/",
   "description": "Specification of the Identity framework for WebRTC",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -472,6 +494,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html",
   "description": "Interoperability testing reports for WebRTC WG specifications",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -493,6 +516,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-nv-use-cases/",
   "description": "Use cases for WebRTC NV",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -514,6 +538,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-pc/",
   "description": "WebRTC 1.0 API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -536,6 +561,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-priority/",
   "description": "Spec for the prioirity setting extension to WebRTC (DSCP and priority)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -556,6 +582,7 @@
   },
   "homepageUrl": "https://w3c.github.io/webrtc-provisional-stats/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -576,6 +603,7 @@
   },
   "description": "Script to run continuous integration on a respec-based spec",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -597,6 +625,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-stats/",
   "description": "WebRTC Statistics",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
@@ -619,6 +648,7 @@
   "homepageUrl": "https://w3c.github.io/webrtc-svc/",
   "description": "W3C Scalable Video Coding (SVC) Extension for WebRTC",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webrtc"
