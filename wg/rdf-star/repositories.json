@@ -167,7 +167,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "others"
    ]
   }
  },
@@ -196,6 +196,25 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/rdf-turtle/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-ucr",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/rdf-ucr/",
   "isArchived": false,
   "w3cjson": {
    "group": [
