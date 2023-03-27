@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/ServiceWorker/",
   "description": "Service Workers",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/service-workers"
@@ -29,6 +30,7 @@
   "homepageUrl": "https://www.w3.org/sw/",
   "description": "Service Workers Working Group pages",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/service-workers"
