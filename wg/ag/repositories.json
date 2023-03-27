@@ -6,6 +6,7 @@
   },
   "description": "Cognitive and Learning Disabilities Accessibility Task Force deliverables",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag",
@@ -27,6 +28,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -47,6 +49,7 @@
   "homepageUrl": "http://w3c.github.io/low-vision-a11y-tf/",
   "description": "Low Vision Accessibility Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -68,6 +71,7 @@
   "homepageUrl": "https://w3c.github.io/silver/",
   "description": "Accessibility Guidelines \"Silver\"",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -90,6 +94,7 @@
   "homepageUrl": "http://www.w3.org/TR/WAET/",
   "description": "Repository for the Developers' Guide to Features of Web Accessibility Evaluation Tools",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -111,6 +116,7 @@
   "homepageUrl": "https://w3c.github.io/wcag/guidelines/",
   "description": "Web Content Accessibility Guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -133,6 +139,7 @@
   },
   "description": "WCAG Accessibility Conformance Testing (ACT)",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -154,6 +161,7 @@
   "homepageUrl": "https://auto-wcag.github.io/auto-wcag/",
   "description": "Accessibility conformance testing rules for HTML",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -174,6 +182,7 @@
   },
   "description": "Repository for EO editorial work on WCAG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -195,6 +204,7 @@
   "homepageUrl": "https://w3c.github.io/wcag/21/guidelines/",
   "description": "Repository used during WCAG 2.1 development. New issues, Technique ideas, and comments should be filed at the WCAG repository at https://github.com/w3c/wcag.",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
@@ -209,6 +219,7 @@
   },
   "description": "WCAG2ICT deliverable of Accessibility Guidelines WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/ag"
