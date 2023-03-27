@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/webmediaapi/",
   "description": "Web Media API specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webmediaapi"
@@ -29,6 +30,7 @@
   "homepageUrl": "https://w3c.github.io/webmediaguidelines/",
   "description": "Web Media applications developer guidelines",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webmediaapi"
@@ -51,6 +53,7 @@
   "homepageUrl": "",
   "description": "Web Media porting spec",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webmediaapi"
