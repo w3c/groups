@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/mathml/",
   "description": "MathML4 editors draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://w3c.github.io/mathml-core",
   "description": "MathML Core draft",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -47,6 +49,7 @@
   "homepageUrl": "https://www.w3.org/Math/",
   "description": "Notes and other documents by the Math WG. See also https://github.com/w3c/mathml-core (repo for the MathML Core spec) and https://github.com/w3c/mathml (repo for the MathML 4 spec).",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
@@ -67,6 +70,7 @@
   },
   "description": "Source for http://www.w3.org/2003/entities/2007xml/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/math"
