@@ -7,6 +7,7 @@
   "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
   "description": "Open Screen Protocol",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -27,6 +28,7 @@
   "homepageUrl": "https://www.w3.org/TR/presentation-api/",
   "description": "Presentation API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -48,6 +50,7 @@
   "homepageUrl": "https://www.w3.org/TR/remote-playback/",
   "description": "Remote Playback API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -69,6 +72,7 @@
   "homepageUrl": "https://w3c.github.io/secondscreen-charter/",
   "description": "Draft charter for the Second Screen Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -90,6 +94,7 @@
   "homepageUrl": "https://www.w3.org/2014/secondscreen/",
   "description": "Home page of the Second Screen Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
@@ -104,13 +109,14 @@
   }
  },
  {
-  "name": "window-placement",
+  "name": "window-management",
   "owner": {
    "login": "w3c"
   },
   "homepageUrl": "https://www.w3.org/TR/window-placement/",
   "description": "Multi-Screen Window Placement API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/secondscreen"
