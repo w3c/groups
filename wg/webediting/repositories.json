@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/clipboard-apis/",
   "description": "Clipboard API and events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -27,6 +28,7 @@
   },
   "homepageUrl": "https://w3c.github.io/contentEditable/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -45,6 +47,7 @@
   "homepageUrl": "https://w3c.github.io/edit-context/",
   "description": "EditContext API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -65,6 +68,7 @@
   "homepageUrl": "http://w3c.github.io/editing/",
   "description": "Specs and explainers maintained by the editing task force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -85,6 +89,7 @@
   "homepageUrl": "https://w3c.github.io/input-events/",
   "description": "Input Events",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -107,6 +112,7 @@
   "homepageUrl": "http://w3c.github.io/selection-api/",
   "description": "Selection API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
@@ -128,6 +134,7 @@
   "homepageUrl": "https://w3c.github.io/virtual-keyboard/",
   "description": "VirtualKeyboard API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webediting"
