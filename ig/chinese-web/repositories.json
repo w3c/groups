@@ -5,6 +5,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -26,6 +27,7 @@
   "homepageUrl": "https://www.w3.org/2018/chinese-web-ig/",
   "description": "Web中文兴趣组",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -47,6 +49,7 @@
   "homepageUrl": "https://w3c.github.io/chinese-ig-charter/charter-2022.html",
   "description": "Chinese Web Interest Group charter",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -69,6 +72,7 @@
   "homepageUrl": "https://w3c.github.io/danmaku/",
   "description": "Bullet Chatting Proposal",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/chinese-web"
@@ -91,6 +95,7 @@
   "homepageUrl": "",
   "description": "MiniApps Standardization",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/miniapps",
