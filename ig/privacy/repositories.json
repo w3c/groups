@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/fingerprinting-guidance/",
   "description": "What is browser fingerprinting and how should specification authors address it.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -31,6 +32,7 @@
   "homepageUrl": "https://www.w3.org/Privacy/IG/",
   "description": "Privacy Interest Group webpages (only) - working docs are in https://github.com/w3cping ",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -54,6 +56,7 @@
   "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
   "description": "A security/privacy review questionnaire for W3C specs",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -75,6 +78,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
@@ -98,6 +102,7 @@
   "homepageUrl": "https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues",
   "description": "Repo to track PING initiated issues on other standards documents.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "ig/privacy"
