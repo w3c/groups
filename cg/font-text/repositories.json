@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/font-text-cg/",
   "description": "GitHub Pages",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/font-text"
@@ -26,6 +27,7 @@
   },
   "description": "GitHub repo for the W3C Font and Text Community Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/font-text"
