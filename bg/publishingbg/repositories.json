@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "This is a repo dedicated to collecting and maintaining the status of bugs found on EPUB reading systems. Bugs may pertain to display, accessibility, and other issues.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "bg/publishingbg"
@@ -27,6 +28,7 @@
   },
   "description": "Document repository of the Publishing Business Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "bg/publishingbg"
