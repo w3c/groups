@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "Positive Work Environment Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab",
@@ -29,6 +30,7 @@
   "homepageUrl": "https://www.w3.org/Guide/standards-track/",
   "description": "Best Practices for Bringing Work to the W3C Recommendation Track",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab"
@@ -49,6 +51,7 @@
   "homepageUrl": "https://www.w3.org/Consortium/Process/Drafts/",
   "description": "W3C Process Document",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab",
@@ -73,6 +76,7 @@
   "homepageUrl": "https://w3c.github.io/w3process-obsolete-rescinded/",
   "description": "Superseded, Obsolete, Rescinded",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "other/ab"
