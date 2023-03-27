@@ -2030,7 +2030,7 @@
   "owner": {
    "login": "privacycg"
   },
-  "homepageUrl": "https://privacycg.github.io/requestStorageAccessForOrigin",
+  "homepageUrl": "https://privacycg.github.io/requestStorageAccessFor/",
   "description": "A proposed extension to the Storage Access API and discussion of how it may be integrated with First-Party Sets.",
   "isArchived": false,
   "w3cjson": {
@@ -8602,7 +8602,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "others"
    ]
   }
  },
@@ -8651,6 +8651,25 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/rdf-turtle/",
+  "isArchived": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rdf-ucr",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/rdf-ucr/",
   "isArchived": false,
   "w3cjson": {
    "group": [
