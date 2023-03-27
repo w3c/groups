@@ -5,6 +5,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -25,6 +26,7 @@
   "homepageUrl": "https://github.com/w3c/automotive-pay/wiki",
   "description": "Automotive Web Payments Task Force",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -43,6 +45,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -63,6 +66,7 @@
   "homepageUrl": "https://w3c.github.io/payment-handler/",
   "description": "Payment Handler API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -83,6 +87,7 @@
   "homepageUrl": "",
   "description": "Payment Method: Basic Card",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -103,6 +108,7 @@
   },
   "homepageUrl": "http://w3c.github.io/webpayments-methods-credit-transfer-direct-debit/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -124,6 +130,7 @@
   "homepageUrl": "https://w3c.github.io/payment-method-id/",
   "description": "Payment Method Identifiers specification",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -144,6 +151,7 @@
   "homepageUrl": "https://w3c.github.io/payment-method-manifest/",
   "description": "Specification for Web Payments payment method manifests",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -164,6 +172,7 @@
   "homepageUrl": "https://github.com/w3c/payment-method-credit-transfer/wiki",
   "description": "THIS REPO DEPRECATED; see instead ",
   "isArchived": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -181,6 +190,7 @@
   "homepageUrl": "https://www.w3.org/TR/payment-request/",
   "description": "Payment Request API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -201,6 +211,7 @@
   "homepageUrl": "",
   "description": "Information for developers to use the Payment Request API",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -222,6 +233,7 @@
   "homepageUrl": "https://w3c.github.io/secure-payment-confirmation/",
   "description": "Explainer for Secure Payment Confirmation",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -240,6 +252,7 @@
    "login": "w3c"
   },
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -260,6 +273,7 @@
   "homepageUrl": "",
   "description": "Joint task force of Web Authentication WG and Web Payments WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webauthn",
@@ -281,6 +295,7 @@
   "homepageUrl": "https://github.com/w3c/webpayments/wiki",
   "description": "The document repo for the Web Payments Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -302,6 +317,7 @@
   "homepageUrl": "https://github.com/w3c/webpayments-crypto/wiki",
   "description": "Crypto discussions of the Web Payments Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -322,6 +338,7 @@
   "homepageUrl": "",
   "description": "Flows work of the Web Payments Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -343,6 +360,7 @@
   "homepageUrl": "http://w3c.github.io/webpayments-http-api/",
   "description": "Web Payments HTTP APIs for payment app registration, payment requests, and payment responses.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -363,6 +381,7 @@
   "homepageUrl": "http://w3c.github.io/webpayments-http-messages/",
   "description": "W3C Web Payments messages typically passed between the systems that inititate, execute, and finalize Web-based payments.",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -383,6 +402,7 @@
   },
   "homepageUrl": "https://w3c.github.io/webpayments-methods-tokenization/index.html",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
@@ -404,6 +424,7 @@
   "homepageUrl": "https://w3c.github.io/webpayments-overview/",
   "description": "An overview of the Web Payments ecosystem",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/payments"
