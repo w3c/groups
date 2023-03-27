@@ -7,6 +7,7 @@
   "homepageUrl": "https://w3c.github.io/webauthn/",
   "description": "Web Authentication: An API for accessing Public Key Credentials",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webauthn"
@@ -29,6 +30,7 @@
   "homepageUrl": "",
   "description": "Joint task force of Web Authentication WG and Web Payments WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/webauthn",
