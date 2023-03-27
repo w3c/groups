@@ -7,6 +7,7 @@
   "homepageUrl": "",
   "description": "Files used in all specifications of the RDF-star WG",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -26,6 +27,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-concepts/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -45,6 +47,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-n-quads/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -64,6 +67,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-n-triples/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -83,6 +87,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-new/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -91,7 +96,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -102,6 +107,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-primer/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -110,7 +116,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -121,6 +127,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-schema/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -140,6 +147,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-semantics/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -159,6 +167,7 @@
   },
   "description": "RDF-star Working Group",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -178,6 +187,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-trig/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -197,6 +207,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-turtle/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -216,6 +227,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-ucr/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -224,7 +236,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -235,6 +247,7 @@
   },
   "homepageUrl": "https://w3c.github.io/rdf-xml/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -254,6 +267,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-concepts/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -273,6 +287,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-entailment/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -292,6 +307,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-federated-query/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -311,6 +327,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-graph-store-protocol/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -330,6 +347,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-new/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -338,7 +356,7 @@
     "pchampin"
    ],
    "repo-type": [
-    "rec-track"
+    "note"
    ]
   }
  },
@@ -349,6 +367,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-protocol/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -368,6 +387,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-query/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -387,6 +407,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-results-csv-tsv/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -406,6 +427,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-results-json/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -425,6 +447,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-results-xml/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -444,6 +467,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-service-description/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
@@ -463,6 +487,7 @@
   },
   "homepageUrl": "https://w3c.github.io/sparql-update/",
   "isArchived": false,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
     "wg/rdf-star"
