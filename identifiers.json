@@ -36,10 +36,6 @@
   "identifier": "wg/eowg"
  },
  {
-  "id": 131822,
-  "identifier": "cg/a11yfeat"
- },
- {
   "id": 35422,
   "identifier": "wg/ag"
  },
@@ -86,6 +82,10 @@
  {
   "id": 7756,
   "identifier": "other/ab"
+ },
+ {
+  "id": 33280,
+  "identifier": "other/ac"
  },
  {
   "id": 54381,
@@ -248,6 +248,10 @@
   "identifier": "tf/board-personnel"
  },
  {
+  "id": 140563,
+  "identifier": "other/board"
+ },
+ {
   "id": 140848,
   "identifier": "cg/bits"
  },
@@ -258,10 +262,6 @@
  {
   "id": 120835,
   "identifier": "cg/graphql-rdf"
- },
- {
-  "id": 78237,
-  "identifier": "cg/browserext"
  },
  {
   "id": 71714,
@@ -358,10 +358,6 @@
  {
   "id": 50517,
   "identifier": "cg/cloud"
- },
- {
-  "id": 121905,
-  "identifier": "cg/covid-19"
  },
  {
   "id": 119681,
@@ -592,10 +588,6 @@
   "identifier": "cg/exi-next"
  },
  {
-  "id": 65404,
-  "identifier": "cg/egovernance"
- },
- {
   "id": 61356,
   "identifier": "cg/emergency"
  },
@@ -642,10 +634,6 @@
  {
   "id": 59110,
   "identifier": "cg/nextweb"
- },
- {
-  "id": 125883,
-  "identifier": "cg/federated-commerce"
  },
  {
   "id": 66053,
@@ -944,10 +932,6 @@
   "identifier": "cg/metaverse-interop"
  },
  {
-  "id": 56585,
-  "identifier": "cg/microxml"
- },
- {
   "id": 54696,
   "identifier": "cg/microposts"
  },
@@ -1040,10 +1024,6 @@
   "identifier": "cg/odrl"
  },
  {
-  "id": 65815,
-  "identifier": "cg/offx"
- },
- {
   "id": 70061,
   "identifier": "cg/ortc"
  },
@@ -1074,10 +1054,6 @@
  {
   "id": 91636,
   "identifier": "cg/oerschema"
- },
- {
-  "id": 61718,
-  "identifier": "cg/opengov"
  },
  {
   "id": 62132,
@@ -1332,10 +1308,6 @@
   "identifier": "wg/svg"
  },
  {
-  "id": 50418,
-  "identifier": "cg/svgopentype"
- },
- {
   "id": 80620,
   "identifier": "cg/architypes"
  },
@@ -1504,10 +1476,6 @@
   "identifier": "cg/synthetic-media"
  },
  {
-  "id": 71107,
-  "identifier": "cg/tvapi"
- },
- {
   "id": 112823,
   "identifier": "cg/talent-signal"
  },
@@ -1638,10 +1606,6 @@
  {
   "id": 111285,
   "identifier": "cg/voter-decision-support"
- },
- {
-  "id": 53791,
-  "identifier": "cg/devrel"
  },
  {
   "id": 50503,
