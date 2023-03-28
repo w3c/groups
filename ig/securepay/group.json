@@ -7,7 +7,7 @@
  "discr": "w3cgroup",
  "type": "interest group",
  "start-date": "2019-04-17",
- "end-date": "2023-03-24",
+ "end-date": "2025-03-14",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/securepay"
@@ -34,7 +34,7 @@
    "href": "https://api.w3.org/groups/ig/securepay/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/ig/securepay/charters/435"
+   "href": "https://api.w3.org/groups/ig/securepay/charters/477"
   },
   "join": {
    "href": "https://www.w3.org/groups/ig/securepay/join"
