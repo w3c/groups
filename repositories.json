@@ -5432,6 +5432,50 @@
   }
  },
  {
+  "name": "AB-memberonly",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2002/ab/",
+  "description": "W3C Advisory Board's Member-visible issues repository",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    "other/ab"
+   ],
+   "contacts": [
+    "swickr"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "AB-private",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2002/ab/",
+  "description": "W3C Advisory Board's private repository",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    "other/ab"
+   ],
+   "contacts": [
+    "swickr"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "ColorWeb-CG",
   "owner": {
    "login": "w3c"
@@ -6457,6 +6501,28 @@
    "repo-type": [
     "cg-report"
    ]
+  }
+ },
+ {
+  "name": "board",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Member-visible Board of Directors materials",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    "other/board"
+   ],
+   "contacts": [
+    "rswick"
+   ],
+   "repo-type": [
+    "other"
+   ],
+   "exposed": true
   }
  },
  {
