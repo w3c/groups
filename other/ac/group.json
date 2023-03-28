@@ -1,0 +1,20 @@
+{
+ "id": 33280,
+ "name": "Advisory Committee",
+ "is_closed": false,
+ "description": "The Advisory Committee represents the <a href=\"/Consortium/Member/List\">Members of the W3C</a> at large, which name one individual per Member responsible for managing the organization's rights and responsibilities set out in the W3C Process. This includes reviewing plans for W3C work, electing the Advisory Board and the Technical Architecture Group participants, as well as a portion of the W3C Board of Directors. AC Representatives nominate an unlimited amount of work group participants on behalf of their organizations. Lastly, AC Reps represent their organization in implementing the W3C Patent Policy.",
+ "shortname": "ac",
+ "discr": "group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/other/ac"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/other/ac/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/other/ac/chairs"
+  }
+ },
+ "identifier": "other/ac"
+}
