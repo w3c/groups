@@ -1,0 +1,24 @@
+[
+ {
+  "name": "board",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Member-visible Board of Directors materials",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    "other/board"
+   ],
+   "contacts": [
+    "rswick"
+   ],
+   "repo-type": [
+    "other"
+   ],
+   "exposed": true
+  }
+ }
+]
