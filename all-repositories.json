@@ -9256,6 +9256,28 @@
   }
  },
  {
+  "name": "equity-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "[Equity Community Group](https://www.w3.org/community/equity/)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    142395
+   ],
+   "contacts": [
+    "michael-n-cooper",
+    "jenstrickland"
+   ],
+   "repo-type": [
+    "cg-report",
+    "process"
+   ]
+  }
+ },
+ {
   "name": "eurlreq",
   "owner": {
    "login": "w3c"
