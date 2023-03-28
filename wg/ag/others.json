@@ -45,6 +45,28 @@
   }
  },
  {
+  "name": "low-vision-a11y-tf",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/low-vision-a11y-tf/",
+  "description": "Low Vision Accessibility Task Force",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/low-vision-a11y-tf"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "shortName": "low-vision-a11y-tf",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "Mobile-A11y-Extension",
   "owner": {
    "login": "w3c"
