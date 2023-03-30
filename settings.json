@@ -3,6 +3,8 @@
   "owners": [
   { "login":  "w3c",
     "group": [] },
+  { "login":  "act-rules",
+    "group": [ "cg/act-r" ] },
   { "login":  "webaudio",
     "group": [ "cg/audio-comgp" ] },
   { "login":  "webmachinelearning",
