@@ -13365,7 +13365,15 @@
   },
   "description": "Test suite for linkcheckers in general, and W3C's in particular",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "dontcallmeDom"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "locadd",
