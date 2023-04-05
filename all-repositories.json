@@ -6035,6 +6035,25 @@
   }
  },
  {
+  "name": "real-world-meshing",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    87846
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "semantic-labels",
   "owner": {
    "login": "immersive-web"
