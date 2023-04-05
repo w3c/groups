@@ -1,0 +1,33 @@
+{
+ "id": 143581,
+ "name": "Civic Technology Community Group",
+ "is_closed": false,
+ "description": "Artificial intelligence is already having a big impact across domains, including government services. Users will soon be able to ask natural-language questions and engage in multimodal dialogues about large-scale public-sector financial, accounting, and budgetary data while receiving responses which include language, mathematics, charts, diagrams, figures, and graphs.\r\n\r\nThis Community Group will bring together those interested in civic technology, open government, and artificial intelligence to share and discuss how to ensure that the Web is well-suited for these applications.\r\n\r\nInitial topics of interest may include chatbot interoperability, responsive design (e.g., to handle dynamic responses from chatbots), notification models (e.g., when there are updates to backing data), the sharing of chatbot responses on the Web, and the role of linked data in connecting artificial intelligence to the Web.",
+ "shortname": "civics",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/civics"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/civics/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/civics/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/civics/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/civics/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/civics/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/civics/participations"
+  }
+ },
+ "identifier": "cg/civics"
+}
