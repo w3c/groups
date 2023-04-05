@@ -1,0 +1,33 @@
+{
+ "id": 143566,
+ "name": "Inter-Platform Validation for Confidential Computing Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is to discuss and ultimately formalise a communication framework to enable mutual validation and attestation of workloads performed in distinct confidential computing environments. The goal is to empower developers to leverage seamlessly the developing ecosystem of confidential computing solutions agnostically across vendors and opensource. It is not the motivation of this group to publish reports but rather work on testable deliveries, example implementation, user-stories. This group may publish Specifications. Individuals and organisations with intimate knowledge of the confidential computing world and adjacent topics such as cryptography and privacy are most welcome to participate.",
+ "shortname": "inter-cc",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/inter-cc"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/inter-cc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/inter-cc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/inter-cc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/inter-cc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/inter-cc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/inter-cc/participations"
+  }
+ },
+ "identifier": "cg/inter-cc"
+}
