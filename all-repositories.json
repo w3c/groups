@@ -20584,6 +20584,16 @@
   }
  },
  {
+  "name": "vc-json-schema",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-json-schema",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "vc-jws-2020",
   "owner": {
    "login": "w3c"
