@@ -5937,16 +5937,6 @@
   }
  },
  {
-  "name": "prebid-server",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "description": "Server side component to offload prebid processing to the cloud",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": null
- },
- {
   "name": "privacy-and-security",
   "owner": {
    "login": "immersive-web"
