@@ -20583,7 +20583,18 @@
   "homepageUrl": "https://w3c.github.io/vc-json-schema",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-json-schema",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "vc-jws-2020",
