@@ -109,6 +109,27 @@
   }
  },
  {
+  "name": "vc-json-schema",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-json-schema",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-json-schema",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "vc-jws-2020",
   "owner": {
    "login": "w3c"
