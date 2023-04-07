@@ -6103,25 +6103,6 @@
   }
  },
  {
-  "name": "analytics-personalization-datalayer",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ceddl-webspec"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "annotation-aria",
   "owner": {
    "login": "w3c"
@@ -6460,28 +6441,6 @@
     "rec-track"
    ],
    "policy": "open"
-  }
- },
- {
-  "name": "bdcoma-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/bdcomacg/",
-  "description": "Repository of the \"W3C BD Comics Manga Community Group\"",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/bdcomacg"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "homepage",
-    "cg-report"
-   ]
   }
  },
  {
@@ -7411,25 +7370,6 @@
   }
  },
  {
-  "name": "did-kr-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/did-kr"
-   ],
-   "contacts": [
-    "wseltzer"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "did-rubric",
   "owner": {
    "login": "w3c"
@@ -7618,26 +7558,6 @@
    ],
    "contacts": [
     "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "document-services",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/services/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/services"
-   ],
-   "contacts": [
-    "ijacobs"
    ],
    "repo-type": [
     "cg-report"
@@ -8419,27 +8339,6 @@
   }
  },
  {
-  "name": "graphql-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/graphql-rdf/",
-  "description": "Bridging GraphQL and RDF Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/graphql-rdf"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "gyroscope",
   "owner": {
    "login": "w3c"
@@ -8588,25 +8487,6 @@
     "note"
    ],
    "policy": "restricted"
-  }
- },
- {
-  "name": "hns-core-spec",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hns"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
   }
  },
  {
@@ -9157,25 +9037,6 @@
   }
  },
  {
-  "name": "interactive-media-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/interactive-media"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "jlreq",
   "owner": {
    "login": "w3c"
@@ -9389,26 +9250,6 @@
    ],
    "repo-type": [
     "homepage"
-   ]
-  }
- },
- {
-  "name": "kiss",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kiss"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -9673,50 +9514,6 @@
   }
  },
  {
-  "name": "math-aam",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/math-aam/",
-  "description": "Accessibility API Mappings for Math ARIA module",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathonwebpages"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "math-aria",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/math-aria/",
-  "description": "ARIA module for Math features",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathonwebpages"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "mathml",
   "owner": {
    "login": "w3c"
@@ -9819,30 +9616,6 @@
    "policy": "open",
    "repo-type": [
     "cg-report"
-   ]
-  }
- },
- {
-  "name": "mathonwebpages",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/mathonwebpages",
-  "description": "Repository for the W3C \"Math on the Web\" Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathonwebpages"
-   ],
-   "contacts": [
-    "iherman",
-    "pkra"
-   ],
-   "repo-type": [
-    "homepage",
-    "cg-report",
-    "article"
    ]
   }
  },
@@ -10484,25 +10257,6 @@
   }
  },
  {
-  "name": "merchantcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/merchant"
-   ],
-   "contacts": [
-    "ntelford"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "miniapp",
   "owner": {
    "login": "w3c"
@@ -11047,25 +10801,6 @@
   }
  },
  {
-  "name": "net-maint",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/net-maint"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "network-emulation",
   "owner": {
    "login": "w3c"
@@ -11168,28 +10903,6 @@
     "rec-track"
    ],
    "policy": "open"
-  }
- },
- {
-  "name": "p2p-webtransport",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/p2p-webtransport/",
-  "description": "Interface to create and manage QUIC streams",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ortc"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "caribouW3"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
   }
  },
  {
@@ -15947,26 +15660,6 @@
    ],
    "repo-type": [
     "others"
-   ]
-  }
- },
- {
-  "name": "web-cert-api-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/web-cert-api-cg/index.html",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/web-cert-api"
-   ],
-   "contacts": [
-    "wonsuk73"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
