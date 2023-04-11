@@ -3386,7 +3386,7 @@
     80485
    ],
    "contacts": [
-    "marcoscaceres"
+    "AlexLakatos"
    ],
    "repo-type": [
     "cg-report"
@@ -26686,6 +26686,17 @@
   },
   "homepageUrl": "https://w3ctag.github.io/web-https/",
   "description": "Transitioning the Web to HTTPS",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
+  "name": "web-without-3p-cookies",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/web-without-3p-cookies/",
+  "description": "Draft finding about third-party cookie removal",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
