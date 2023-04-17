@@ -20511,6 +20511,17 @@
   }
  },
  {
+  "name": "vc-di-bbs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-di-bbs/",
+  "description": "A linked data proof suite specification for BBS+ signatures",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "vc-di-ecdsa",
   "owner": {
    "login": "w3c"
