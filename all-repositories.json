@@ -20519,7 +20519,18 @@
   "description": "A linked data proof suite specification for BBS+ signatures",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-di-bbs",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "vc-di-ecdsa",
