@@ -26336,11 +26336,32 @@
   }
  },
  {
+  "name": "accessibility-questionnaire",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "A checklist for whether further accessibility review should be triggered",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "bfcache-guide",
   "owner": {
    "login": "w3ctag"
   },
   "homepageUrl": "https://w3ctag.github.io/bfcache-guide/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
+  "name": "caching-bundling-sustainability",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/caching-bundling-sustainability/",
+  "description": "Draft Sustainability of Bundling and Caching finding",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
