@@ -4576,6 +4576,15 @@
   "w3cjson": null
  },
  {
+  "name": "wasi-cloud-core",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "wasi-crypto",
   "owner": {
    "login": "WebAssembly"
