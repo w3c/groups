@@ -1,0 +1,61 @@
+{
+ "id": 144308,
+ "name": "Privacy Principles Task Force",
+ "is_closed": false,
+ "description": "The purpose of the Privacy Model Task Force is to bring together a small group of people to draft a set of privacy principles for the web.",
+ "shortname": "tag-privacy",
+ "members": [
+  {
+   "id": 34270,
+   "name": "Technical Architecture Group",
+   "is_closed": false,
+   "description": "<p>The TAG is a special working group within the W3C, chartered (under the <a href=\"https://www.w3.org/Consortium/Process/#TAG\">W3C Process Document</a>) with stewardship of the Web architecture.</p>\r\n\r\n<p>As outlined by the <a href=\"https://www.w3.org/Consortium/Process/#tag-role\">Process Document</a>, there are three aspects to this mission:</p>\r\n<ul>\r\n<li>to document and build consensus around principles of Web architecture and to interpret and clarify these principles when necessary;</li>\r\n<li>to resolve issues involving general Web architecture brought to the TAG;</li>\r\n<li>to help coordinate cross-technology architecture developments inside and outside W3C.</li>\r\n</ul>",
+   "shortname": "tag",
+   "discr": "group",
+   "_links": {
+    "self": {
+     "href": "https://api.w3.org/groups/other/tag"
+    },
+    "homepage": {
+     "href": "https://www.w3.org/2001/tag/"
+    },
+    "users": {
+     "href": "https://api.w3.org/groups/other/tag/users"
+    },
+    "services": {
+     "href": "https://api.w3.org/groups/other/tag/services"
+    },
+    "specifications": {
+     "href": "https://api.w3.org/groups/other/tag/specifications"
+    },
+    "chairs": {
+     "href": "https://api.w3.org/groups/other/tag/chairs"
+    },
+    "team-contacts": {
+     "href": "https://api.w3.org/groups/other/tag/teamcontacts"
+    }
+   }
+  }
+ ],
+ "internal": false,
+ "participants_list_public": true,
+ "discr": "tf",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/tf/tag-privacy"
+  },
+  "homepage": {
+   "href": "https://github.com/w3ctag/privacy-principles"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/tag-privacy/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/tag-privacy/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/tag-privacy/chairs"
+  }
+ },
+ "identifier": "tf/tag-privacy"
+}
