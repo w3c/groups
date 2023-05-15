@@ -1,0 +1,25 @@
+[
+ {
+  "name": "silver",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/silver/",
+  "description": "Accessibility Guidelines \"Silver\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/silver-tf"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track",
+    "note"
+   ]
+  }
+ }
+]
