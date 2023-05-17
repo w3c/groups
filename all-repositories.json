@@ -5460,7 +5460,7 @@
    "login": "gpuweb"
   },
   "homepageUrl": "https://www.npmjs.com/package/@webgpu/types",
-  "description": "TypeScript type definitions for WebGPU https://gpuweb.github.io/types/ (NOTE: the WebGPU API itself is still unstable! These types do not directly reflect the implementation status of any browser! https://webgpu.io/)",
+  "description": "TypeScript type definitions for WebGPU https://gpuweb.github.io/types/ ",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
