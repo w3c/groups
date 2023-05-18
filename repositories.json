@@ -6315,27 +6315,6 @@
   }
  },
  {
-  "name": "automotive-pay",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://github.com/w3c/automotive-pay/wiki",
-  "description": "Automotive Web Payments Task Force",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "autoplay",
   "owner": {
    "login": "w3c"
@@ -10240,25 +10219,6 @@
   }
  },
  {
-  "name": "merchant-validation",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "miniapp",
   "owner": {
    "login": "w3c"
@@ -11032,27 +10992,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "payment-method-credit-transfer",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webpayments-methods-credit-transfer-direct-debit/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-methods-credit-transfer-direct-debit",
-   "repo-type": [
-    "others"
    ]
   }
  },
@@ -12945,25 +12884,6 @@
    ],
    "contacts": [
     "pchampin"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "src",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
    ],
    "repo-type": [
     "rec-track"
@@ -16308,28 +16228,6 @@
   }
  },
  {
-  "name": "webauthn-pay",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "Joint task force of Web Authentication WG and Web Payments WG",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webauthn",
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "project"
-   ]
-  }
- },
- {
   "name": "webcodecs",
   "owner": {
    "login": "w3c"
@@ -16551,27 +16449,6 @@
   }
  },
  {
-  "name": "webpayments-crypto",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://github.com/w3c/webpayments-crypto/wiki",
-  "description": "Crypto discussions of the Web Payments Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "Ian"
-   ],
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "webpayments-flows",
   "owner": {
    "login": "w3c"
@@ -16590,92 +16467,6 @@
    "shortName": "webpayments",
    "repo-type": [
     "others"
-   ]
-  }
- },
- {
-  "name": "webpayments-http-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webpayments-http-api/",
-  "description": "Web Payments HTTP APIs for payment app registration, payment requests, and payment responses.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "webpayments-http-messages",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webpayments-http-messages/",
-  "description": "W3C Web Payments messages typically passed between the systems that inititate, execute, and finalize Web-based payments.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-core-messages",
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
-  "name": "webpayments-methods-tokenization",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/webpayments-methods-tokenization/index.html",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-methods-tokenization",
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
-  "name": "webpayments-overview",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/webpayments-overview/",
-  "description": "An overview of the Web Payments ecosystem",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-overview",
-   "repo-type": [
-    "note"
    ]
   }
  },
