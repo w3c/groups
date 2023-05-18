@@ -21,27 +21,5 @@
     "rec-track"
    ]
   }
- },
- {
-  "name": "webauthn-pay",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "Joint task force of Web Authentication WG and Web Payments WG",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webauthn",
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "project"
-   ]
-  }
  }
 ]
