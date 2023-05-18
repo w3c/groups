@@ -1,25 +1,5 @@
 [
  {
-  "name": "3ds",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": false
-  }
- },
- {
   "name": "automotive-pay",
   "owner": {
    "login": "w3c"
