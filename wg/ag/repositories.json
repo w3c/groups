@@ -88,27 +88,6 @@
   }
  },
  {
-  "name": "wcag-act",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "WCAG Accessibility Conformance Testing (ACT)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/ag"
-   ],
-   "contacts": [
-    "nitedog"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "policy": "restricted"
-  }
- },
- {
   "name": "wcag-act-rules-cg",
   "owner": {
    "login": "w3c"
