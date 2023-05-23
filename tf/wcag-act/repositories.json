@@ -1,0 +1,23 @@
+[
+ {
+  "name": "wcag-act",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "WCAG Accessibility Conformance Testing (ACT)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/wcag-act"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "restricted"
+  }
+ }
+]
