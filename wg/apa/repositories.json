@@ -256,6 +256,25 @@
   }
  },
  {
+  "name": "maur",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "media-accessibility-reqs",
   "owner": {
    "login": "w3c"
