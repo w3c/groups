@@ -9623,6 +9623,25 @@
   }
  },
  {
+  "name": "maur",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "me-media-integration-guidelines",
   "owner": {
    "login": "w3c"
