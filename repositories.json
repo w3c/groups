@@ -1784,27 +1784,6 @@
   }
  },
  {
-  "name": "local-network-access",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/local-network-access/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "cors-rfc1918",
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "lock-screen",
   "owner": {
    "login": "WICG"
@@ -2337,6 +2316,27 @@
    "contacts": [
     "travisleithead"
    ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "private-network-access",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/private-network-access/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "shortName": "cors-rfc1918",
    "repo-type": [
     "cg-report"
    ]
