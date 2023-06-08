@@ -19414,17 +19414,11 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "Tool to manage TPAC plenary day breakouts",
+  "homepageUrl": "",
+  "description": "Documentation and Management of TPAC plenary day breakouts",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": {
-   "repo-type": [
-    "tool"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ]
-  }
+  "w3cjson": null
  },
  {
   "name": "tpac2016",
