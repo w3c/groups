@@ -7,7 +7,7 @@
  "discr": "w3cgroup",
  "type": "working group",
  "start-date": "2018-07-25",
- "end-date": "2023-05-31",
+ "end-date": "2025-05-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/distributed-tracing"
@@ -34,7 +34,7 @@
    "href": "https://api.w3.org/groups/wg/distributed-tracing/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/distributed-tracing/charters/410"
+   "href": "https://api.w3.org/groups/wg/distributed-tracing/charters/481"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/distributed-tracing/join"
