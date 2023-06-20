@@ -1,25 +1,5 @@
 [
  {
-  "name": "epub-fxl-a11y",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/epub"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "epub-specs",
   "owner": {
    "login": "w3c"
@@ -30,11 +10,11 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
-    "iherman",
-    "dauwhe"
+    "iherman"
    ],
    "repo-type": [
     "rec-track"
@@ -51,7 +31,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -72,7 +53,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
