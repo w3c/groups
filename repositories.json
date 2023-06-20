@@ -7826,26 +7826,6 @@
   }
  },
  {
-  "name": "epub-fxl-a11y",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/epub"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "epub-rs-bugs",
   "owner": {
    "login": "w3c"
@@ -7878,11 +7858,11 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
-    "iherman",
-    "dauwhe"
+    "iherman"
    ],
    "repo-type": [
     "rec-track"
@@ -7899,7 +7879,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -7920,7 +7901,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -11299,6 +11281,27 @@
    ],
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "pm-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://iherman.github.io/pmwg/",
+  "description": "Publishing Maintenance Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
