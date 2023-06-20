@@ -1,0 +1,88 @@
+[
+ {
+  "name": "epub-specs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Shared workspace for EPUB 3 specifications.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/epub",
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "epub-structural-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/epub-structural-tests/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/epub",
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "epub-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/epub-tests/",
+  "description": "Test repository for EPUB3, maintained by the EPUB3 WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/epub",
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "pm-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://iherman.github.io/pmwg/",
+  "description": "Publishing Maintenance Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ }
+]
