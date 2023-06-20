@@ -6262,7 +6262,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -7578,7 +7579,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "michael-n-cooper",
@@ -7601,7 +7603,8 @@
   "w3cjson": {
    "group": [
     64149,
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -7923,7 +7926,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub"
+    "wg/epub",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -9378,7 +9382,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -11289,7 +11294,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://iherman.github.io/pmwg/",
+  "homepageUrl": "https://w3c.github.io/pm-wg/",
   "description": "Publishing Maintenance Working Group",
   "isArchived": false,
   "isPrivate": false,
@@ -11513,7 +11518,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -11534,7 +11540,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -11556,7 +11563,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -11593,12 +11601,11 @@
   },
   "homepageUrl": "https://w3c.github.io/publ-maintenance-wg-charter/",
   "description": "Initial version of the Publication Maintenance WG charter",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub",
-    "wg/publ"
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -11620,7 +11627,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -13050,7 +13058,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -17353,7 +17362,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
@@ -17374,7 +17384,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing"
+    "wg/publishing",
+    "wg/pm"
    ],
    "contacts": [
     "iherman"
