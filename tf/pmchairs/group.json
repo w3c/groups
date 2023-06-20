@@ -12,6 +12,8 @@
    "shortname": "pm",
    "discr": "w3cgroup",
    "type": "working group",
+   "start-date": "2023-06-20",
+   "end-date": "2025-06-30",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/pm"
@@ -36,6 +38,9 @@
     },
     "charters": {
      "href": "https://api.w3.org/groups/wg/pm/charters"
+    },
+    "active-charter": {
+     "href": "https://api.w3.org/groups/wg/pm/charters/482"
     },
     "join": {
      "href": "https://www.w3.org/groups/wg/pm/join"
