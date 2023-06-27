@@ -6262,7 +6262,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -7579,7 +7579,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -7603,7 +7603,7 @@
   "w3cjson": {
    "group": [
     64149,
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -7861,7 +7861,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub",
+    125377,
     "wg/pm"
    ],
    "contacts": [
@@ -7882,7 +7882,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub",
+    125377,
     "wg/pm"
    ],
    "contacts": [
@@ -7904,7 +7904,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub",
+    125377,
     "wg/pm"
    ],
    "contacts": [
@@ -7926,7 +7926,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/epub",
+    125377,
     "wg/pm"
    ],
    "contacts": [
@@ -7934,49 +7934,6 @@
    ],
    "repo-type": [
     "translation"
-   ]
-  }
- },
- {
-  "name": "epub-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/publishing/groups/epub-wg/",
-  "description": "Home page of the EPUB 3 Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/epub"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "homepage"
-   ]
-  }
- },
- {
-  "name": "epub4",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/epub4/",
-  "description": "W3C EPUB4",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "shortName": "epub4",
-   "repo-type": [
-    "rec-track"
    ]
   }
  },
@@ -9382,7 +9339,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -11518,7 +11475,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -11540,7 +11497,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -11563,7 +11520,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -11627,7 +11584,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -11635,27 +11592,6 @@
    ],
    "repo-type": [
     "tests"
-   ]
-  }
- },
- {
-  "name": "publ-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/publishing/groups/publ-wg/",
-  "description": "Home page of the Audiobooks Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "homepage"
    ]
   }
  },
@@ -11700,27 +11636,6 @@
     "siusin"
    ],
    "shortName": "push-api",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "pwpub",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/pwpub/",
-  "description": "W3C packaged Web Publications",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing"
-   ],
-   "contacts": [
-    "iherman"
-   ],
    "repo-type": [
     "rec-track"
    ]
@@ -13058,7 +12973,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -17362,7 +17277,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
@@ -17384,7 +17299,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/publishing",
+    100074,
     "wg/pm"
    ],
    "contacts": [
