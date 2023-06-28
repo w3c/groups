@@ -1399,6 +1399,24 @@
   }
  },
  {
+  "name": "img-conversion",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Asynchronously convert between HTMLImageElement, ImageData, and Blob. ",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "shortName": "img-conversion"
+  }
+ },
+ {
   "name": "import-maps",
   "owner": {
    "login": "WICG"
