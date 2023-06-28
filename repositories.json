@@ -1399,24 +1399,6 @@
   }
  },
  {
-  "name": "img-conversion",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Asynchronously convert between HTMLImageElement, ImageData, and Blob. ",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "img-conversion"
-  }
- },
- {
   "name": "import-maps",
   "owner": {
    "login": "WICG"
@@ -11024,7 +11006,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://www.w3.org/TR/payment-request/",
+  "homepageUrl": "https://www.w3.org/TR/payment-request-1.1/",
   "description": "Payment Request API",
   "isArchived": false,
   "isPrivate": false,
