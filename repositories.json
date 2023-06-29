@@ -1358,6 +1358,26 @@
   }
  },
  {
+  "name": "identity-credential",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "IdentityCredential for Credential Management",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "idle-detection",
   "owner": {
    "login": "WICG"
