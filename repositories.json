@@ -3538,6 +3538,7 @@
   "owner": {
    "login": "WebAssembly"
   },
+  "homepageUrl": "https://webassembly.github.io/gc/",
   "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
   "isArchived": false,
   "isPrivate": false,
