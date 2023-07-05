@@ -1,0 +1,33 @@
+{
+ "id": 114009,
+ "name": "SPARQL 1.2 Community Group",
+ "is_closed": false,
+ "description": "The SPARQL 1.2 Community Group is a forum for discussion and refinement of SPARQL 1.1. It will document features found as extensions to available triple stores and also document common needs from the user community. The CG aims to create consensus and understanding of the impact of new features with special emphasis on features that leave existing SPARQL 1.1 queries and systems unchanged. The CG will build a collection of such features leading to a CG report on use cases and requirements.",
+ "shortname": "sparql-dev",
+ "discr": "w3cgroup",
+ "type": "community group",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sparql-dev"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/sparql-dev/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sparql-dev/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sparql-dev/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sparql-dev/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sparql-dev/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sparql-dev/participations"
+  }
+ },
+ "identifier": "cg/sparql-dev"
+}
