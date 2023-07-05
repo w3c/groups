@@ -12617,27 +12617,6 @@
   }
  },
  {
-  "name": "sparql-12",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/sparql-12/",
-  "description": "SPARQL 1.2 Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/sparql-dev"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "sparql-concepts",
   "owner": {
    "login": "w3c"
@@ -12654,6 +12633,27 @@
    ],
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "sparql-dev",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/sparql-12/",
+  "description": "SPARQL 1.2 Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/sparql-dev"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
