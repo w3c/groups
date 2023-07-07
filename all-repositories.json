@@ -14703,6 +14703,17 @@
   }
  },
  {
+  "name": "meeting-template",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-beihang.github.io/meeting-template/",
+  "description": "会议信息模板",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "merchantcg",
   "owner": {
    "login": "w3c"
