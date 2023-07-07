@@ -15598,6 +15598,28 @@
   }
  },
  {
+  "name": "wcag3",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wcag3/",
+  "description": "WCAG 3",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/ag"
+   ],
+   "contacts": [
+    "michael-n-cooper",
+    "iadawn"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "web-advertising",
   "owner": {
    "login": "w3c"
