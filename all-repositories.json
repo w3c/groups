@@ -8989,6 +8989,17 @@
   }
  },
  {
+  "name": "chinese-guide-tpac2023",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-beihang.github.io/meeting-template/",
+  "description": "TPAC 2023 中文参会指南",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "chinese-ig",
   "owner": {
    "login": "w3c"
@@ -14698,7 +14709,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c-beihang.github.io/meeting-template/",
+  "homepageUrl": "https://w3c.github.io/meeting-template/",
   "description": "会议信息模板",
   "isArchived": false,
   "isPrivate": false,
