@@ -5232,7 +5232,7 @@
    "login": "act-rules"
   },
   "description": "Mapper for condensing ACT Rules Implementations to be a consumable data for ACT Rules Website",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": null
  },
