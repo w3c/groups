@@ -23563,6 +23563,17 @@
   }
  },
  {
+  "name": "wcag3-docs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://wilcofiers.github.io/wcag3-docs/outcomes/",
+  "description": "Preview of WCAG 3 docs site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "wdclient",
   "owner": {
    "login": "w3c"
