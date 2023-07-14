@@ -14062,6 +14062,27 @@
   }
  },
  {
+  "name": "vc-jose-cose",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-jose-cose/",
+  "description": "Verifiable Credentials Working Group — VC JSON Web Tokens specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "vc-json-schema",
   "owner": {
    "login": "w3c"
@@ -14091,27 +14112,6 @@
   "homepageUrl": "https://w3c.github.io/vc-jws-2020/",
   "description": "Verifiable Credentials Working Group — JSON Web Signature 2020 specification",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "vc-jwt",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/vc-jwt/",
-  "description": "Verifiable Credentials Working Group — VC JSON Web Tokens specification",
-  "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
