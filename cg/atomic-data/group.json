@@ -5,7 +5,6 @@
  "description": "Develop a standard for exchanging type-safe data on the web.\r\n\r\nhttps://docs.atomicdata.dev",
  "shortname": "atomic-data",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/atomic-data"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/atomic-data/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/atomic-data"
 }
