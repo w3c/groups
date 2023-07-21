@@ -5,7 +5,6 @@
  "description": "Further development, implementation, and standardization of Notation 3 - an assertion and logic language - including the N3 Rules language.",
  "shortname": "n3-dev",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/n3-dev"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/n3-dev/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/n3-dev"
 }
