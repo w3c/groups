@@ -5,7 +5,6 @@
  "description": "The Managed Component Community Group aims to standardize the specifications and usage of Managed Components, an open format for loading third-party tools on the Web. Managed Components use a sandboxed server-side environment to run, making them more secure, private and performant than more traditional methods of loading third-party tools online. The group also aims to potentially pursue changes to browser and runtime APIs that will better support the integration of Managed Components.",
  "shortname": "managed-components",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/managed-components"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/managed-components/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/managed-components"
 }
