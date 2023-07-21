@@ -12,9 +12,6 @@
    "description": "The mission of the Accessible Platform Architectures Working Group (APA WG, formerly part of the Protocols and Formats Working Group) is to ensure W3C specifications provide support for accessibility to people with disabilities. The group advances this mission through review of W3C specifications, development of technical support materials, collaboration with other Working Groups, and coordination of harmonized accessibility strategies within W3C.",
    "shortname": "apa",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "2015-10-22",
-   "end-date": "2023-07-31",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/apa"
@@ -52,7 +49,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/apa/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "2015-10-22",
+   "end-date": "2023-07-31"
   }
  ],
  "internal": false,
