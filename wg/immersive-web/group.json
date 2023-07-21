@@ -5,9 +5,6 @@
  "description": "The mission of the Immersive Web Working Group is to help bring high-performance Virtual Reality (VR) and Augmented Reality (AR) (collectively known as XR) to the open Web via APIs to interact with XR devices and sensors in browsers.",
  "shortname": "immersive-web",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2018-09-24",
- "end-date": "2024-07-07",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/immersive-web"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/immersive-web/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2018-09-24",
+ "end-date": "2024-07-07",
  "identifier": "wg/immersive-web"
 }
