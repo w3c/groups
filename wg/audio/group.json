@@ -5,9 +5,6 @@
  "description": "The mission of the Audio Working Group is to add advanced sound and music synthesis capabilities to the Open Web Platform.",
  "shortname": "audio",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2011-03-25",
- "end-date": "2024-06-14",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/audio"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/audio/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2011-03-25",
+ "end-date": "2024-06-14",
  "identifier": "wg/audio"
 }
