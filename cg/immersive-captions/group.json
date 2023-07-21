@@ -5,7 +5,6 @@
  "description": "The goal of this community group is to determine and publish best practices for access, activation, and display settings for captions with different types of Immersive Media - AR, VR &amp; Games. \r\n\r\nWe plan to research current examples, identify best practices, and do research on those ideas over different surfaces: Smartphone AR, AR glasses, VR goggles, etc.  Where appropriate, we will share our results and discuss opportunities with the TTML WG (recommendations for media online captioning) and the W3C Immersive Web WG (APIs to interact with XR devices and sensors in browsers).",
  "shortname": "immersive-captions",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/immersive-captions"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/immersive-captions/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/immersive-captions"
 }
