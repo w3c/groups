@@ -5,9 +5,6 @@
  "description": "The mission of the Internationalization Working Group is to enable universal access to the World Wide Web by proposing and coordinating the adoption by the W3C of techniques, conventions, technologies, and designs that enable and enhance the use of W3C technology and the Web worldwide, with and between various different languages, scripts, regions, and cultures.",
  "shortname": "i18n-core",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "1998-02-12",
- "end-date": "2024-09-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/i18n-core"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/i18n-core/participations"
   }
  },
+ "type": "working group",
+ "start-date": "1998-02-12",
+ "end-date": "2024-09-30",
  "identifier": "wg/i18n-core"
 }
