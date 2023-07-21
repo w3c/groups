@@ -5,7 +5,6 @@
  "description": "<p>The mission of this group is to provide a forum for discussing challenges and establishing best practices for publishing data in the Nordic region.</p>\r\n<p>The foreseen focus will be on topics like:\r\n</p><ul><li>Metadata profiles within data publishing</li>\r\n<li>Best practices for a national web of data infrastructure</li>\r\n<li>Best practices for domain specific data specifications</li>\r\n<li>How to utilize linked data principles to improve data quality and interoperability</li>\r\n</ul>\r\n<p>Practitioners in data publishing as well as anyone interested in furthering a web of data in both private and public sector are welcome to join.</p>",
  "shortname": "nordic-data",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/nordic-data"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/nordic-data/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/nordic-data"
 }
