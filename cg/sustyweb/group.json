@@ -5,7 +5,6 @@
  "description": "A community group dedicated to creating sustainable websites.\r\n\r\nThis group will not publish specifications.",
  "shortname": "sustyweb",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/sustyweb"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/sustyweb/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/sustyweb"
 }
