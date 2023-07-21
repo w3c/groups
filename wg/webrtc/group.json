@@ -5,9 +5,6 @@
  "description": "The mission of the Web Real-Time Communications Working Group is to define client-side APIs to enable Real-Time Communications in Web browsers. These APIs should enable building applications that can be run inside a browser, requiring no extra downloads or plugins, that allow communication between parties using audio, video, and supplementary real-time communication, without having to use intervening servers (unless needed for firewall traversal, or for providing intermediary services). APIs enabling supplementary functions, such as recording, image capture, and screen sharing are also in scope.",
  "shortname": "webrtc",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2011-05-05",
- "end-date": "2024-09-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/webrtc"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/webrtc/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2011-05-05",
+ "end-date": "2024-09-30",
  "identifier": "wg/webrtc"
 }
