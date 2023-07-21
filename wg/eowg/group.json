@@ -5,9 +5,6 @@
  "description": "The mission of the Accessibility Education and Outreach Working Group is to develop strategies and resources to promote awareness, understanding, implementation, and conformance testing for W3C accessibility standards; and to support the accessibility work of other W3C Groups.",
  "shortname": "eowg",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "1998-03-10",
- "end-date": "2023-12-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/eowg"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/eowg/participations"
   }
  },
+ "type": "working group",
+ "start-date": "1998-03-10",
+ "end-date": "2023-12-31",
  "identifier": "wg/eowg"
 }
