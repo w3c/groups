@@ -5,7 +5,6 @@
  "description": "This group aims to consult with current and potential users of linguistic data to assemble use cases and requirements for Language Technology Applications that use Linked Data. The results will be used to guide future interoperability, research and development activities spanning the language technology and linked data domains. Potential users are companies and public bodies involved in natural language processing, language resources, content management, the language services and localisation industry and other applications of content analytics techniques used in search, recommender systems, sentiment analysis and terminology management. The group does engage with users through surveys, international events and training activities organized in conjunction with partners from academia or industry, resp. designated research projects and networking efforts (esp., EU or other multi-national projects). We identify use case and requirements priorities, technology gaps and interoperability roadblocks. We work towards community group reports that describe our findings and/or solutions to the challenges identified in our work. \r\n",
  "shortname": "ld4lt",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/ld4lt"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/ld4lt/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/ld4lt"
 }
