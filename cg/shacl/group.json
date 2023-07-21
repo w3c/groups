@@ -5,7 +5,6 @@
  "description": "The mission of the SHACL Community Group is to continue the development of SHACL-related specifications and to support the further adoption of SHACL after the <a rel=\"nofollow\" href=\"https://www.w3.org/2014/data-shapes/\">W3C Data Shapes Working Group</a> has ended. Desirable outcomes include the development of educational material (primers, best practices), the application of SHACL to frequently used RDF vocabularies, libraries of constraint components for common constraint types, improved integration with established technologies such as JavaScript, further work on theory and practice around SHACL rules, a compact SHACL syntax, and a SHACL internet protocol. Additional work may go into delivering \"de-facto standard\" fixes to some gaps left in the current SHACL specifications (e.g., handling recursion, and addressing more comprehensive syntax checks).\r\n",
  "shortname": "shacl",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/shacl"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/shacl/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/shacl"
 }
