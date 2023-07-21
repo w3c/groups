@@ -5,7 +5,6 @@
  "description": "Many philosophical issues have arisen in the technical design of Web standards over the years. Philosophical conundrums sometimes seem out of context in the light of seemingly more pressing technical problems. Yet, the very fact that these philosophical problems are constantly raised indicates that they are not easily dispensed with, but should instead be the focus of serious and ongoing long-term discussions.\r\n\r\nThis is why this CG aims at undertaking such discussions, even outsourcing them to alleviate the task of other groups. To clarify the goal of this CG: it should not be a place to do unconstrained philosophical research but rather a forum to examine issues arising from the W3C technical community. Open discussion and precise descriptions of the minutiae of the Web will help guide the work in the CG, which should output short guides on precise topics to help case progress and discussions in other groups. The PhiloWeb Community group aims to undertake such discussions by bringing together experts from the web and the philosophical community to help the task of \"philosophical engineering\", a term coined by Tim Berners-Lee.\r\n",
  "shortname": "philoweb",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/philoweb"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/philoweb/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/philoweb"
 }
