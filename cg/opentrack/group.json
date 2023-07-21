@@ -5,7 +5,6 @@
  "description": "This group aims to develop an open standard for interchange of data in Athletics (including Track and Field), running and related disciplines.  Such a standard should allow the development of better software to manage the sport, resulting in major savings of time for volunteers; more efficient management of events and federations; and  more enjoyment for participants and fans.",
  "shortname": "opentrack",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/opentrack"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/opentrack/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/opentrack"
 }
