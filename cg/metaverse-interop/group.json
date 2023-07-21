@@ -5,7 +5,6 @@
  "description": "Our mission is to bridge virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more.",
  "shortname": "metaverse-interop",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/metaverse-interop"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/metaverse-interop/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/metaverse-interop"
 }
