@@ -5,7 +5,6 @@
  "description": "The goal is to work on interoperable sharing between decentralized platforms. The idea is not to design the perfect protocol but find a consensus that would lead to an interoperable data exchange with sync capabilities, access control, discovery, etc.",
  "shortname": "decsharing",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/decsharing"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/decsharing/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/decsharing"
 }
