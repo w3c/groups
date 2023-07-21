@@ -5,7 +5,6 @@
  "description": "The Schema.org Community Group provides a forum for discussing all changes, additions and extensions to <a rel=\"nofollow\" href=\"http://schema.org/\">schema.org</a>. In addition to providing a public setting for the day to day operation of the project, it serves as the mechanism for reviewing <a rel=\"nofollow\" href=\"http://schema.org/docs/extension.html\">extensions</a> and as a liaison point for all parties developing independent extensions to the schema.org core.",
  "shortname": "schemaorg",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/schemaorg"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/schemaorg/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/schemaorg"
 }
