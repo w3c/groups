@@ -5,7 +5,6 @@
  "description": "We propose per-user cross-origin cloud storage, much in the sense described in http://www.w3.org/DesignIssues/CloudStorage.html We are a non-profit project and have so far defined a first draft of our standard for this: http://unhosted.org/spec/dav/0.1 We have researched a lot of aspects in the last few months, and are about move to version 0.2 of our standard. People are starting to implement this with significant user base sizes, and other people are starting to develop apps that rely on it, which is now would be a good time to make this into a w3c cg.",
  "shortname": "unhosted",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/unhosted"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/unhosted/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/unhosted"
 }
