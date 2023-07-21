@@ -5,9 +5,6 @@
  "description": "The mission of the Second Screen Working Group is to provide specifications that enable web pages to use secondary screens to display web content.",
  "shortname": "secondscreen",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2014-10-13",
- "end-date": "2024-01-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/secondscreen"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/secondscreen/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2014-10-13",
+ "end-date": "2024-01-31",
  "identifier": "wg/secondscreen"
 }
