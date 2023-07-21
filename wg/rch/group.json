@@ -5,9 +5,6 @@
  "description": "The mission of the RDF Dataset Canonicalization and Hash Working Group is to define a standard to uniquely and deterministically calculate a hash of RDF Datasets for use cases such as Detecting changes in Datasets. The work will include defining RDF Dataset Canonicalization algorithms.",
  "shortname": "rch",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2022-07-21",
- "end-date": "2024-07-20",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/rch"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/rch/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2022-07-21",
+ "end-date": "2024-07-20",
  "identifier": "wg/rch"
 }
