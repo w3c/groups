@@ -5,7 +5,6 @@
  "description": "LDP Next aims to continue the work started by the LDP Working Group.\r\n\r\nLDP Next hopes to address the following topics that were not covered by LDP 1.0: (1) extensibility and discovery — allow clients to easily discover server affordances; (2) inlining on GET and POST — allow clients to request and create multiple resource with a single HTTP request; (3) query / search over LDPCs and LDPRs; (4) access control — provide a mechanism to control access to Linked Data Platform Resources.",
  "shortname": "ldpnext",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/ldpnext"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/ldpnext/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/ldpnext"
 }
