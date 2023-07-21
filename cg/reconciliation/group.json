@@ -5,7 +5,6 @@
  "description": "Matching entities across data sources using different identifiers and formats is a pervasive issue on the web. This group revolves around developing a web API that data providers can expose, which eases the reconciliation of third-party data to their own identifiers. OpenRefine's reconciliation API is used as a starting point. Our goals are to document this existing API, share our experiences and lessons learnt from it, propose an improved protocol in the view of promoting it as a standard, and build tooling around it. A description of the existing protocol can be found here: https://reconciliation-api.github.io/specs/latest/\r\n",
  "shortname": "reconciliation",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/reconciliation"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/reconciliation/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/reconciliation"
 }
