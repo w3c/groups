@@ -5,9 +5,6 @@
  "description": "The mission of the MiniApps Working Group is to produce specifications that facilitate the development of interoperable and robust MiniApps.",
  "shortname": "miniapps",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2021-01-19",
- "end-date": "2023-07-20",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/miniapps"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/miniapps/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2021-01-19",
+ "end-date": "2023-07-20",
  "identifier": "wg/miniapps"
 }
