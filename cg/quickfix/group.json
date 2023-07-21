@@ -5,7 +5,6 @@
  "description": "Sometimes an error reported against an XML document can be fixed automatically, for example if the error refers to an unexpected attribute then an automatic fix will be to delete that unexpected attribute. \r\nWe want to explore the issues related to applying quick fixes (like preserving DOCTYPE declarations, entities, etc.) and determine what actions will be needed be able to apply quick fixes on a document as well as a representation language to describe these actions.\r\n\r\nQuick fixes are especially interesting when we use Schematron for XML validation, as in this case the quick-fix should be specified by the schema author, so we have user-defined quick fixes. Imagine for example a business rule implemented in Schematron that says that a list should contain between 4 and 8 items. If we determine that there are two items then a quick fix will propose to add automatically two more items to the list or if the list has 10 items then a quick fix may propose to delete two items or to split the list in two lists, etc.\r\n\r\n",
  "shortname": "quickfix",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/quickfix"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/quickfix/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/quickfix"
 }
