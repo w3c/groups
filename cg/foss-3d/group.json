@@ -5,7 +5,6 @@
  "description": "Our mission is to build and share 3D software that can connect and communicate in free and open ways on AR, VR, and 2D displays.",
  "shortname": "foss-3d",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/foss-3d"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/foss-3d/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/foss-3d"
 }
