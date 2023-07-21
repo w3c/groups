@@ -5,9 +5,6 @@
  "description": "The Patent and Standards Interest Group (PSIG) is a forum for W3C Members and Invited Experts to discuss policy issues regarding the implementation of the W3C Patent Policy as well as new Patent-related questions that arise which require action or attention from the W3C Membership. The PSIG has no authority to create new policy. However, input from the PSIG on the operation of the policy and areas that might require further policy development by a W3C Working Group is welcome.",
  "shortname": "psig",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "1999-07-08",
- "end-date": "2024-03-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/psig"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/ig/psig/participations"
   }
  },
+ "type": "interest group",
+ "start-date": "1999-07-08",
+ "end-date": "2024-03-31",
  "identifier": "ig/psig"
 }
