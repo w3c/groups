@@ -5,7 +5,6 @@
  "description": "The mission of the Privacy Community Group is to develop privacy-focused web standards and APIs to improve user privacy on the web through enhanced browser behavior.\r\n\r\nCharter: <a rel=\"nofollow\" href=\"https://privacycg.github.io/charter.html\">https://privacycg.github.io/charter.html</a>",
  "shortname": "privacycg",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/privacycg"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/privacycg/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/privacycg"
 }
