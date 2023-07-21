@@ -5,9 +5,6 @@
  "description": "The Chinese Web Interest Group provides a forum for W3C members to enhance the participation in Web standards work from the Chinese Web community.",
  "shortname": "chinese-web",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "2018-09-20",
- "end-date": "2024-12-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/chinese-web"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/ig/chinese-web/participations"
   }
  },
+ "type": "interest group",
+ "start-date": "2018-09-20",
+ "end-date": "2024-12-30",
  "identifier": "ig/chinese-web"
 }
