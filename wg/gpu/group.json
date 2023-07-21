@@ -5,9 +5,6 @@
  "description": "The mission of the GPU for the Web Working Group is to provide an interface between the Web Platform and modern 3D graphics and computation capabilities present on native system platforms.",
  "shortname": "gpu",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2020-08-20",
- "end-date": "2024-11-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/gpu"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/gpu/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2020-08-20",
+ "end-date": "2024-11-30",
  "identifier": "wg/gpu"
 }
