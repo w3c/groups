@@ -5,9 +5,6 @@
  "description": "The mission of the Web Application Security Working Group is to develop security and policy mechanisms to improve the security of Web Applications, and enable secure cross-site communication.",
  "shortname": "webappsec",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2011-09-07",
- "end-date": "2023-07-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/webappsec"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/webappsec/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2011-09-07",
+ "end-date": "2023-07-31",
  "identifier": "wg/webappsec"
 }
