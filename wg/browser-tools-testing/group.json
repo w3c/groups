@@ -5,9 +5,6 @@
  "description": "The mission of the Browser Testing and Tools Working Group is to produce technologies for use in testing, debugging, and troubleshooting of Web applications running in Web browsers.",
  "shortname": "browser-tools-testing",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2011-10-12",
- "end-date": "2023-08-10",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/browser-tools-testing"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/browser-tools-testing/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2011-10-12",
+ "end-date": "2023-08-10",
  "identifier": "wg/browser-tools-testing"
 }
