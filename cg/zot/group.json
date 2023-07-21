@@ -5,7 +5,6 @@
  "description": "To standardize the Zot protocol currently used in Hubzilla and Zap, and to push its adoption for social web.",
  "shortname": "zot",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/zot"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/zot/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/zot"
 }
