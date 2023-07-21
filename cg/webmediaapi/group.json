@@ -5,7 +5,6 @@
  "description": "<p>Media web application developers want to deploy their content on a wide and heterogeneous range of devices and platforms, e.g. televisions, set-top boxes, and mobile devices. To ensure a smooth user experience across devices, these user agents need to support a minimum set of Web technologies that developers can rely on being supported. This Community Group plans to specify such a set of Web technologies and additionally plans to provide guidance for developers and implementers e.g. on performance constraints and portability issues.</p>\r\n\r\n<p>See the <a rel=\"nofollow\" href=\"https://www.w3.org/2016/09/webmediaapi-cg-charter.html\">CG charter</a> for more information.</p>",
  "shortname": "webmediaapi",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/webmediaapi"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/webmediaapi/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/webmediaapi"
 }
