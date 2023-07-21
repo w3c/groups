@@ -5,9 +5,6 @@
  "description": "The mission of the PNG Working Group is to maintain and develop the Portable Network Graphics (PNG) specification.",
  "shortname": "png",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2021-09-14",
- "end-date": "2023-08-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/png"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/png/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2021-09-14",
+ "end-date": "2023-08-31",
  "identifier": "wg/png"
 }
