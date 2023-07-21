@@ -5,7 +5,6 @@
  "description": "Move the current textual and graphical resume to a structured, accessible, privacy-respecting resume format that benefits both applicants and recruiters while giving applicants ultimate control of their data.",
  "shortname": "cv3",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/cv3"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/cv3/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/cv3"
 }
