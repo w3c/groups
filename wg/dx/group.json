@@ -5,9 +5,6 @@
  "description": "The mission of the Dataset Exchange WG is to:\n1. Maintain and revise the Data Catalog Vocabulary, DCAT, taking into account feature requests from the DCAT user community.\n2. Define and publish guidance on the specification and use of application profiles when requesting and serving data on the Web.",
  "shortname": "dx",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2017-05-05",
- "end-date": "2024-06-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/dx"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/dx/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2017-05-05",
+ "end-date": "2024-06-30",
  "identifier": "wg/dx"
 }
