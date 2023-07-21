@@ -5,7 +5,6 @@
  "description": "The Sustainability CG is a group for discussing all aspects of sustainability (s12y) with respect to web technologies present &amp; future, including developing horizontal reviews of sustainability (e.g. energy use or device obsolescence impacts of technologies).",
  "shortname": "sustainability",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/sustainability"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/sustainability/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/sustainability"
 }
