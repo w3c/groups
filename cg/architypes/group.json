@@ -5,7 +5,6 @@
  "description": "The mission of this group is to discuss and prepare proposal(s) for extending Schema.org schema for the improved representation of digital and physical archives and their contents. \r\n\r\nThe goal being focused upon the creation and future maintenance of an archive.schema.org extension.",
  "shortname": "architypes",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/architypes"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/architypes/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/architypes"
 }
