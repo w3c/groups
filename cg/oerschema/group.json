@@ -5,7 +5,6 @@
  "description": "Our mission is to develop a universal RDF vocabulary to enhance open educational resources throughout the internet.",
  "shortname": "oerschema",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/oerschema"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/oerschema/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/oerschema"
 }
