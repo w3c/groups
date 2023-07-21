@@ -5,9 +5,6 @@
  "description": "The mission of the Pointer Events Working Group is to provide methods to enable simple device independent input from pointing devices such as mouse, pen, and multi-touch screen.",
  "shortname": "pointer-events",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2012-11-09",
- "end-date": "2023-03-16",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/pointer-events"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/pointer-events/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2012-11-09",
+ "end-date": "2023-03-16",
  "identifier": "wg/pointer-events"
 }
