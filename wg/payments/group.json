@@ -5,9 +5,6 @@
  "description": "The mission of the Web Payments Working Group is to make payments easier and more secure on the Web.",
  "shortname": "payments",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2015-10-21",
- "end-date": "2024-12-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/payments"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/payments/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2015-10-21",
+ "end-date": "2024-12-31",
  "identifier": "wg/payments"
 }
