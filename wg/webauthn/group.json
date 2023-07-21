@@ -5,9 +5,6 @@
  "description": "The mission of the Web Authentication Working Group, in the Security Activity is to define a client-side API providing strong authentication functionality to Web Applications.",
  "shortname": "webauthn",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2016-02-08",
- "end-date": "2024-04-13",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/webauthn"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/webauthn/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2016-02-08",
+ "end-date": "2024-04-13",
  "identifier": "wg/webauthn"
 }
