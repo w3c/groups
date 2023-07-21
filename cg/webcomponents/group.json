@@ -5,7 +5,6 @@
  "description": "<p>This group is for collaboration between people working on web components libraries, tools, documentation and standards.\r\n\r\n</p><p>We will work together on projects of shared interest in order to enhance interoperability, solve common problems, build shared community resources, and ultimately continue to grow a cooperative, productive, and happy web components ecosystem.\r\n\r\n</p><p>Areas we expect to work on include gap analysis, design principles, common protocols, discoverability and quality, documentation, tooling, and more.\r\n</p>",
  "shortname": "webcomponents",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/webcomponents"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/webcomponents/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/webcomponents"
 }
