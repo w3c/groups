@@ -5,7 +5,6 @@
  "description": "A group for XForms users to discuss the use of XForms and propose changes and additions to the markup.",
  "shortname": "xformsusers",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/xformsusers"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/xformsusers/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/xformsusers"
 }
