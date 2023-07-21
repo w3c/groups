@@ -11,7 +11,6 @@
    "description": "<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
    "shortname": "autowebplatform",
    "discr": "w3cgroup",
-   "type": "business group",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/bg/autowebplatform"
@@ -37,7 +36,8 @@
     "participations": {
      "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
     }
-   }
+   },
+   "type": "business group"
   },
   {
    "id": 76043,
@@ -46,9 +46,6 @@
    "description": "The mission of the Automotive Working Group is to develop specifications for exposing information services for in-vehicle and cloud based uses.",
    "shortname": "auto",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "2015-02-03",
-   "end-date": "2023-11-30",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/auto"
@@ -86,7 +83,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/auto/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "2015-02-03",
+   "end-date": "2023-11-30"
   },
   {
    "id": 102593,
@@ -95,9 +95,6 @@
    "description": "The Spatial Data on the Web Interest Group develops and maintains vocabularies and best practices that encourage better sharing of spatial data on the Web; and identify areas where standards should be developed jointly by both W3C and OGC.",
    "shortname": "sdw",
    "discr": "w3cgroup",
-   "type": "interest group",
-   "start-date": "2017-10-05",
-   "end-date": "2021-06-30",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/ig/sdw"
@@ -135,7 +132,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/ig/sdw/participations"
     }
-   }
+   },
+   "type": "interest group",
+   "start-date": "2017-10-05",
+   "end-date": "2021-06-30"
   }
  ],
  "internal": false,
