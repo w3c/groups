@@ -5,7 +5,6 @@
  "description": "The TREE hypermedia community group will discuss materializable hypermedia interfaces. Its goals are to:\r\n 1. Further evolve the TREE hypermedia specification (https://w3id.org/tree/specification) and its vocabulary (https://w3id.org/tree/)\r\n 2. Create a test suite for spec compliance of both servers and clients\r\n 3. Deliver a specification on view definitions for source selection",
  "shortname": "treecg",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/treecg"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/treecg/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/treecg"
 }
