@@ -5,9 +5,6 @@
  "description": "The mission of the WAI Interest Group (WAI IG) is to promote awareness of, and engagement in, accessibility-related work throughout W3C. This includes augmenting wide reviews of WAI deliverables, and augmenting APA WG's review and discussion of accessibility aspects of deliverables being developed in W3C groups, including specifications, research topics, and educational materials; exploring web accessibility issues and solutions; and sharing information about web accessibility activities around the world.",
  "shortname": "wai",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "2001-06-18",
- "end-date": "2024-01-05",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/wai"
@@ -37,5 +34,8 @@
    "href": "https://api.w3.org/groups/ig/wai/charters/428"
   }
  },
+ "type": "interest group",
+ "start-date": "2001-06-18",
+ "end-date": "2024-01-05",
  "identifier": "ig/wai"
 }
