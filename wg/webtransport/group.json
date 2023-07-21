@@ -5,9 +5,6 @@
  "description": "The mission of the WebTransport Working Group is to develop APIs that enable data transfer between browsers and servers with support for multiple data flows, unidirectional data flows, out-of-order delivery, variable reliability and pluggable protocols.",
  "shortname": "webtransport",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2020-09-08",
- "end-date": "2023-12-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/webtransport"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/webtransport/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2020-09-08",
+ "end-date": "2023-12-31",
  "identifier": "wg/webtransport"
 }
