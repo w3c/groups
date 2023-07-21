@@ -5,7 +5,6 @@
  "description": "RDF-DEV, for developments relating to W3C RDF, including collaboration\r\naround applications, schemas, and past/present/future related standards. Successor to SWIG/RDFIG.\r\n",
  "shortname": "rdf-dev",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/rdf-dev"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/rdf-dev/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/rdf-dev"
 }
