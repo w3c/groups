@@ -5,9 +5,6 @@
  "description": "The mission of the Media Working Group is to develop and improve client-side media processing and playback features on the Web.",
  "shortname": "media",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2019-05-23",
- "end-date": "2025-05-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/media"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/media/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2019-05-23",
+ "end-date": "2025-05-31",
  "identifier": "wg/media"
 }
