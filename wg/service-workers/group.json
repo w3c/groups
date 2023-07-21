@@ -5,9 +5,6 @@
  "description": "The mission of the Service Workers Working Group is to enable Web applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.",
  "shortname": "service-workers",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2017-08-03",
- "end-date": "2025-01-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/service-workers"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/service-workers/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2017-08-03",
+ "end-date": "2025-01-31",
  "identifier": "wg/service-workers"
 }
