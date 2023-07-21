@@ -5,7 +5,6 @@
  "description": "The mission of this group is to lead to extension of XPath and all related technologies (XSLT, XQuery, XProc, XForms, XML Schema).",
  "shortname": "expath",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/expath"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/expath/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/expath"
 }
