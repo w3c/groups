@@ -5,7 +5,6 @@
  "description": "Our mission: design and build the 3rd generation of the CNS to be deployed globally as a free commons, a sibling to the DNS.\r\nOur scope: a hyper-cube bitmap that contains 1's and 0's for ALL GLEIF (businesses/agencies), Jurisdictions, and Legal Uses of Data, set initially by jurisdictions, then businesses/agencies, and finally by data subjects.\r\nOur deliverables: essential documents and code to stand-up a working CNS as an open source server. Gen 2 docs and video: https://bit.ly/FalconCNS ",
  "shortname": "cns",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/cns"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/cns/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/cns"
 }
