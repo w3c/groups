@@ -5,7 +5,6 @@
  "description": "Building Web APIs seems still more an art than a science. How can we build APIs such that generic clients can easily use them? And how do we build those clients? Current APIs heavily rely on out-of-band information such as human-readable documentation and API-specific SDKs. However, this only allows for very simple and brittle clients that are hardcoded against specific APIs. Hydra, in contrast, is a set of technologies that allow to design APIs in a different manner, in a way that enables smarter clients.\r\n\r\nThe foundation is laid by the Hydra Core Vocabulary. It defines a number of fundamental concepts, such as hypermedia controls and collections, which allow machines to understand how to interact with an API. Since all information about the API is available in a machine-readable form, completely generic clients become possible. The Core Vocabulary is complemented by Linked Data Fragments, a set of specifications that enable advanced yet efficient client-side querying of Web APIs.\r\n\r\nMore information about these technologies can be found on our homepage: http://www.hydra-cg.com/",
  "shortname": "hydra",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/hydra"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/hydra/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/hydra"
 }
