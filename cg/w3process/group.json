@@ -5,7 +5,6 @@
  "description": "Examine the way W3C works. Propose improvements to the formal processes. These will be given to the Advisory Board, which currently manages that process.",
  "shortname": "w3process",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/w3process"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/w3process/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/w3process"
 }
