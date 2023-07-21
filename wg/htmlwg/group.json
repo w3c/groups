@@ -5,9 +5,6 @@
  "description": "The mission of the HTML Working Group is to give input to and bring the WHATWG HTML and DOM Review Drafts to W3C Recommendations.",
  "shortname": "htmlwg",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2019-06-06",
- "end-date": "2024-06-06",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/htmlwg"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/htmlwg/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2019-06-06",
+ "end-date": "2024-06-06",
  "identifier": "wg/htmlwg"
 }
