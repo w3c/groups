@@ -5,7 +5,6 @@
  "description": "This group will work on text tracks for video on the Web, applied to captioning, subtitling and other purposes. This group plans to work initially on:\r\n\r\n1) Documenting a semantic model underlying the caption formats in use, notably TTML, CEA 608/708, EBU STL, and WebVTT.\r\n\r\n2) Creating a community specification for WebVTT.\r\n\r\n3) Defining the mappings between WebVTT and some selected formats, including at least TTML (W3C/SMPTE), and CEA 608/708.\r\n\r\n4) Creating web developer reference and tutorial material, including worked examples.\r\n\r\n5) Creating a test suite and/or tools.\r\n\r\nA possible transition to REC-track for some of these document(s) is envisaged and that possibility will be used to guide the work and procedures.\r\n\r\nThe group may produce recommendations for work in other groups, such as CSS, HTML5, and TTWG.",
  "shortname": "texttracks",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/texttracks"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/texttracks/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/texttracks"
 }
