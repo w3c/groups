@@ -5,7 +5,6 @@
  "description": "We are a community of users of CSS print, working together to gather use cases, help with specifications, and advocate for more and better implementations. ",
  "shortname": "cssprint",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/cssprint"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/cssprint/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/cssprint"
 }
