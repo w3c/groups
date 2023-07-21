@@ -5,7 +5,6 @@
  "description": "The Civic Technology Community Group will bring together those interested in civic technology, open government, and artificial intelligence to share information, to discuss these topics, to advance the state of the art, and to ensure that the Web is well-suited for these applications.",
  "shortname": "civics",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/civics"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/civics/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/civics"
 }
