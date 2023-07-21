@@ -5,7 +5,6 @@
  "description": "The primary objective of this group is to maintain and develop the vocabularies for the accessibility discoverability properties in schema.org, that enable discovery of accessible content. This community group is a successor to the Accessibility Metadata Project that first proposed the properties, which were based on the Access for All metadata. The group may also propose additional properties in the future, if needed.",
  "shortname": "a11y-discov-vocab",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/a11y-discov-vocab"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/a11y-discov-vocab/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/a11y-discov-vocab"
 }
