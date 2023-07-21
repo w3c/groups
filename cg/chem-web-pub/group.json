@@ -5,7 +5,6 @@
  "description": "the \"Chemistry for the Web and Publishing\" Community  Group will focus on moving beyond simply providing images of Chemistry  content on the web and in published materials to a semantically rich  form that will work for everybody, including persons with disabilities.",
  "shortname": "chem-web-pub",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/chem-web-pub"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/chem-web-pub/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/chem-web-pub"
 }
