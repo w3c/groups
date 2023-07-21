@@ -5,7 +5,6 @@
  "description": "The mission of the Declarative 3D for the Web Architecture Community Group is to determine the requirements, options, and use cases for an integration of interactive 3D graphics capabilities into the W3C technology stack. This group is aimed to extract core features out of the requirements as foundation to propose feasible technical solutions. These should cover the majority of 3D use cases for the Web - but not necessarily all of them. There are upcoming open (e.g., WebGL) and proprietary (e.g., Adobe) proposals for imperative graphics APIs in the Web context but we are missing an easy way to add interactive high-level declarative 3D objects to the HTML-DOM to allow anyone to easily create, share, and experience interactive 3D graphics - with possibly wide ranging effects similar to those caused by the broad availability of video on the Web. The goal of this CG is to evaluate the necessary requirements for a successful standardization of a declarative approach to interactive 3D graphics as part of HTML documents.",
  "shortname": "declarative3d",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/declarative3d"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/declarative3d/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/declarative3d"
 }
