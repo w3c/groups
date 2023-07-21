@@ -5,9 +5,6 @@
  "description": "The mission of the Web Editing Working Group is to explore limitations in existing browser primitives, provide use cases for new APIs and suggest solutions either by standardizing of existing behaviors or introducing new APIs relevant for text editing. The goal is to facilitate the creation of fully-featured editing systems as well as small editors using JavaScript.",
  "shortname": "webediting",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2021-06-11",
- "end-date": "2023-09-09",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/webediting"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/webediting/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2021-06-11",
+ "end-date": "2023-09-09",
  "identifier": "wg/webediting"
 }
