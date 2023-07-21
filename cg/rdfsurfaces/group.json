@@ -5,7 +5,6 @@
  "description": "The RDF Surfaces sets out to create a sublanguage of Notation3 in order to implement classical first-order logic with negation in RDF as envisioned by Pat Hayes in his 2009 ISWC Invited Talk: BLOGIC",
  "shortname": "rdfsurfaces",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/rdfsurfaces"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/rdfsurfaces/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/rdfsurfaces"
 }
