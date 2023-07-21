@@ -12,9 +12,6 @@
    "description": "The mission of the Accessibility Guidelines Working Group (AG WG) is to develop specifications to make content on the Web accessible for people with disabilities and to participate in the development and maintenance of implementation support materials for the Web Content Accessibility Guidelines.",
    "shortname": "ag",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "1997-10-06",
-   "end-date": "2023-10-31",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/ag"
@@ -52,7 +49,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/ag/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "1997-10-06",
+   "end-date": "2023-10-31"
   }
  ],
  "internal": false,
