@@ -5,7 +5,6 @@
  "description": "The mission of the Improving Web Advertising Business Group is to identify areas where standards and changes in the Web itself can improve the ecosystem and experience for users, advertisers, publishers, distributors, ad networks, agencies and others, and to oversee liaison with existing Working Groups and to create new Working Groups as needed",
  "shortname": "web-adv",
  "discr": "w3cgroup",
- "type": "business group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/bg/web-adv"
@@ -32,5 +31,6 @@
    "href": "https://api.w3.org/groups/bg/web-adv/participations"
   }
  },
+ "type": "business group",
  "identifier": "bg/web-adv"
 }
