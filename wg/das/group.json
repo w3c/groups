@@ -5,9 +5,6 @@
  "description": "The mission of the Devices and Sensors Working Group (DAS WG) is to create secure and privacy-preserving client-side APIs that enable the development of web applications that interact with device capabilities.",
  "shortname": "das",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2009-07-03",
- "end-date": "2024-11-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/das"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/das/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2009-07-03",
+ "end-date": "2024-11-30",
  "identifier": "wg/das"
 }
