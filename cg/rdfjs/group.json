@@ -5,7 +5,6 @@
  "description": "The RDF JavaScript Libraries Community Group discusses implementations of libraries for working with RDF and Linked Data in ECMAScript platforms like Web browsers and Node.js",
  "shortname": "rdfjs",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/rdfjs"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/rdfjs/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/rdfjs"
 }
