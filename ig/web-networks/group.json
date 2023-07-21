@@ -5,9 +5,6 @@
  "description": "The mission of the Web &amp; Networks Interest Group is to explore solutions for web applications to leverage network capabilities in order to achieve better performance and resources allocation, both on the device and network.",
  "shortname": "web-networks",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "2019-05-16",
- "end-date": "2023-10-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/web-networks"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/ig/web-networks/participations"
   }
  },
+ "type": "interest group",
+ "start-date": "2019-05-16",
+ "end-date": "2023-10-31",
  "identifier": "ig/web-networks"
 }
