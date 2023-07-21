@@ -5,9 +5,6 @@
  "description": "The mission of the Accessible Rich Internet Applications Working Group is to enhance the accessibility of web content through the development of supplemental attributes, including roles, states, and other properties, that can be applied to native host language elements and exposed via platform accessibility APIs.",
  "shortname": "aria",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2015-10-22",
- "end-date": "2024-01-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/aria"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/aria/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2015-10-22",
+ "end-date": "2024-01-31",
  "identifier": "wg/aria"
 }
