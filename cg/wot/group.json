@@ -5,7 +5,6 @@
  "description": "The goal of Web of Things Community Group is to accelerate the community activities around the recommendations and notes published by the WoT Working Group and Interest Group.\r\n",
  "shortname": "wot",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/wot"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/wot/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/wot"
 }
