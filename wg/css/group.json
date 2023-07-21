@@ -5,9 +5,6 @@
  "description": "The mission of the group is to develop and maintain CSS.",
  "shortname": "css",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "1997-02-28",
- "end-date": "2025-01-12",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/css"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/css/participations"
   }
  },
+ "type": "working group",
+ "start-date": "1997-02-28",
+ "end-date": "2025-01-12",
  "identifier": "wg/css"
 }
