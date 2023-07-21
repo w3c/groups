@@ -11,9 +11,6 @@
    "description": "The mission of the RDF-star Working Group is to extend a set of RDF and SPARQL related recommendations, with the ability to concisely represent and query statements about statements.",
    "shortname": "rdf-star",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "2022-08-29",
-   "end-date": "2024-08-28",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/rdf-star"
@@ -51,7 +48,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/rdf-star/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "2022-08-29",
+   "end-date": "2024-08-28"
   }
  ],
  "internal": false,
