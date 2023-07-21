@@ -5,7 +5,6 @@
  "description": "This mission of this group, initiated by LRMI, is to develop an extension for schema.org concerning the discovery of any type of educational course (online/offline, long/short, scheduled/on-demand). Educational course is  defined as \"some sequence of events and/or creative works which aims to build the knowledge, competence or ability of learners\". (Out of scope: information about students and their progression etc; information needed internally for course management rather than discovery).",
  "shortname": "schema-course-extend",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/schema-course-extend"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/schema-course-extend/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/schema-course-extend"
 }
