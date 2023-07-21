@@ -5,9 +5,6 @@
  "description": "The mission of the Web Payment Security Interest Group is to enhance the security and interoperability of various Web payments technologies. The group pursues its mission by creating a forum for organizations to define areas of collaboration and identify gaps between existing technical specifications in order to increase compatibility among different technologies.",
  "shortname": "securepay",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "2019-04-17",
- "end-date": "2025-03-14",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/securepay"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/ig/securepay/participations"
   }
  },
+ "type": "interest group",
+ "start-date": "2019-04-17",
+ "end-date": "2025-03-14",
  "identifier": "ig/securepay"
 }
