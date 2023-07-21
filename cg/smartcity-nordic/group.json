@@ -5,7 +5,6 @@
  "description": "A community group around smart city technologies and challenges in the nordic region",
  "shortname": "smartcity-nordic",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/smartcity-nordic"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/smartcity-nordic/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/smartcity-nordic"
 }
