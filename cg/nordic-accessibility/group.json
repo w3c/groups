@@ -5,7 +5,6 @@
  "description": "The Nordic Accessibility Community Group serves as an open forum to discuss challenges, network with accessibility professionals, and promote the importance of inclusive design in the Nordic countries.",
  "shortname": "nordic-accessibility",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/nordic-accessibility"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/nordic-accessibility/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/nordic-accessibility"
 }
