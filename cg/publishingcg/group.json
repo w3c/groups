@@ -5,7 +5,6 @@
  "description": "Incubation zone for Publishing@W3C. Bring your experiments here.",
  "shortname": "publishingcg",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/publishingcg"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/publishingcg/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/publishingcg"
 }
