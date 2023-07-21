@@ -5,9 +5,6 @@
  "description": "The mission of the Web Applications Working Group (WebApps WG) is to produce specifications that facilitate the development of client-side web applications.",
  "shortname": "webapps",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2019-05-14",
- "end-date": "2024-04-14",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/webapps"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/webapps/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2019-05-14",
+ "end-date": "2024-04-14",
  "identifier": "wg/webapps"
 }
