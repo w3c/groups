@@ -12,9 +12,6 @@
    "description": "The mission of the Accessibility Guidelines Working Group (AG WG) is to develop specifications to make content on the Web accessible for people with disabilities and to participate in the development and maintenance of implementation support materials for the Web Content Accessibility Guidelines.",
    "shortname": "ag",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "1997-10-06",
-   "end-date": "2023-10-31",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/ag"
@@ -52,7 +49,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/ag/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "1997-10-06",
+   "end-date": "2023-10-31"
   },
   {
    "id": 36791,
@@ -61,9 +61,6 @@
    "description": "The mission of the User Agent Accessibility Guidelines Working Group is to produce guidelines for the development of accessible user agents: software that retrieves and renders Web content, including text, graphics, sounds, video, images, etc. In particular, the groups seeks to support the implementation of the User Agent Accessibility Guidelines 1.0 , and to collect requirements for a subsequent version of User Agent Accessibility Guidelines.",
    "shortname": "uaag",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "1997-12-17",
-   "end-date": "2015-11-05",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/uaag"
@@ -101,7 +98,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/uaag/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "1997-12-17",
+   "end-date": "2015-11-05"
   }
  ],
  "internal": false,
