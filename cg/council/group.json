@@ -5,7 +5,6 @@
  "description": "The mission of the Community Council is to promote Community and Business Groups and ensure that they function smoothly. The Council's activities include: documenting good community practices, reaching out to new communities, identifying opportunities for collaboration between groups, helping groups transition to the standards track if they so desire, and routine group maintenance.  The Community Council will also discuss existing and new features and other ways to enhance the Community Group experience. Anyone may join the Community Council. In particular, W3C encourages Chairs of other Community and Business Groups to participate (e.g., in monthly meetings that will include W3C staff). This group will seek to make decisions when there is consensus and with due process.",
  "shortname": "council",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/council"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/council/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/council"
 }
