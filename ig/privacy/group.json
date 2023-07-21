@@ -5,9 +5,6 @@
  "description": "The mission of the Privacy Interest Group is to improve privacy on the Web by advising groups developing standards on how to avoid and mitigate privacy issues with their technologies. PING also suggests changes to existing standards and technologies to improve the privacy of existing systems. Finally, PING makes recommendations to the W3C Advisory Committee and the W3C TAG about whether a proposed standard would be beneficial or harmful for privacy on the web.",
  "shortname": "privacy",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "2012-02-17",
- "end-date": "2023-10-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/privacy"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/ig/privacy/participations"
   }
  },
+ "type": "interest group",
+ "start-date": "2012-02-17",
+ "end-date": "2023-10-31",
  "identifier": "ig/privacy"
 }
