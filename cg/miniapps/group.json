@@ -5,7 +5,6 @@
  "description": "A community group to incubate work on MiniApps and serve as a base for analysis and proposals of specific work items",
  "shortname": "miniapps",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/miniapps"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/miniapps/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/miniapps"
 }
