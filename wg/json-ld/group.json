@@ -5,9 +5,6 @@
  "description": "The mission of the JSON-LD Working Group is to maintain the family of JSON-LD 1.1 Recommendations and related Working Group Notes.",
  "shortname": "json-ld",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2018-06-07",
- "end-date": "2025-01-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/json-ld"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/json-ld/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2018-06-07",
+ "end-date": "2025-01-31",
  "identifier": "wg/json-ld"
 }
