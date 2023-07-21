@@ -5,7 +5,6 @@
  "description": "The Font and Text Community Group gathers individuals and organizations interested in discussing and developing specifications and implementations for technologies which operate on and at the interface between text encoding and font formats. Examples of such technologies are shaping engines and text layout applications.",
  "shortname": "font-text",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/font-text"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/font-text/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/font-text"
 }
