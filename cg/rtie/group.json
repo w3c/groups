@@ -5,7 +5,6 @@
  "description": "The Real Time Interaction Ecosystem Community Group provides a forum for global community to discuss, incubate and propose Real Time Interaction related use cases and proposals with the goal to bring more interoperability and robustness to Real Time Interaction ecosystem on the Web. ",
  "shortname": "rtie",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/rtie"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/rtie/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/rtie"
 }
