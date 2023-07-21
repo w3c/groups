@@ -5,7 +5,6 @@
  "description": "The mission of Digital Asset Management Business Ontology Community Group is to propose, discuss, create and maintain extensions to schema.org related to the Digital Asset Management Industry. ",
  "shortname": "digitalassetmanagement",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/digitalassetmanagement"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/digitalassetmanagement/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/digitalassetmanagement"
 }
