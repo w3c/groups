@@ -5,7 +5,6 @@
  "description": "Our goal is to help bring high-performance Virtual Reality and Augmented Reality to the open Web.",
  "shortname": "immersive-web",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/immersive-web"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/immersive-web/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/immersive-web"
 }
