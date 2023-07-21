@@ -5,7 +5,6 @@
  "description": "W3C is a global community where participants choose to work together. In that community, we experience differences in language, location, nationality, and experience. In such a diverse environment, misunderstandings and disagreements happen, and in most cases can be resolved informally. This CG will pick up the work of the PWE Task Force (https://www.w3.org/Consortium/pwe/) focusing on the Code of Ethics and Professional Conduct.",
  "shortname": "pwe",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/pwe"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/pwe/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/pwe"
 }
