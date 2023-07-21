@@ -5,9 +5,6 @@
  "description": "The mission of the Media and Entertainment Interest Group is to provide a forum for media-related technical discussions to track progress of media features on the Web within W3C groups and use of Web technologies by external organizations, and to identify use cases and requirements that existing and/or new specifications need to meet to achieve a tighter support of media services on the Web.",
  "shortname": "me",
  "discr": "w3cgroup",
- "type": "interest group",
- "start-date": "2011-02-07",
- "end-date": "2023-08-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/ig/me"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/ig/me/participations"
   }
  },
+ "type": "interest group",
+ "start-date": "2011-02-07",
+ "end-date": "2023-08-31",
  "identifier": "ig/me"
 }
