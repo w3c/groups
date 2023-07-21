@@ -5,9 +5,6 @@
  "description": "The mission of the Verifiable Credentials Working Group is to maintain the Verifiable Credentials Data Model specification and related Working Group Notes.",
  "shortname": "vc",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2017-04-14",
- "end-date": "2024-06-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/vc"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/vc/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2017-04-14",
+ "end-date": "2024-06-30",
  "identifier": "wg/vc"
 }
