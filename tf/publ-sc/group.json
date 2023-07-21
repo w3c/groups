@@ -12,7 +12,6 @@
    "description": "<p>The Publishing Business Group fosters ongoing participation by members of the publishing industry and overall publishing ecosystem in the development of the Web for publishing, and serves as a conduit for feedback between the publishing ecosystem and W3C. See the <a rel=\"nofollow\" href=\"https://www.w3.org/2017/02/PublishingBGcharter\">Publishing Business Group Charter</a> for details.</p>\r\n\r\n<p>The Business Group maintains a separate  <a rel=\"nofollow\" href=\"https://w3c.github.io/publ-bg/\">“Working” Web site</a>, which includes documents, like <a rel=\"nofollow\" href=\"https://w3c.github.io/publ-bg/Meetings/\">information on meetings</a>, <a rel=\"nofollow\" href=\"https://w3c.github.io/publ-bg/Meetings/Minutes/\">index for meeting minutes</a>, and other working documents. There is also a separate <a rel=\"nofollow\" href=\"https://github.com/w3c/publ-bg/wiki\">wiki</a> for BG members. Finally, if necessary or convenient, Google Documents can also be used; these are collected in a separate <a rel=\"nofollow\" href=\"https://drive.google.com/open?id=1tQf56giFynYlWKm5DmrxTUbYUwpzQAmI\">Google Drive folder</a>.</p>\r\n\r\n<p>(The Working Web site’s content is actually served from a dedicated <a rel=\"nofollow\" href=\"https://github.com/w3c/publ-bg/\">Github repository</a>.)</p>",
    "shortname": "publishingbg",
    "discr": "w3cgroup",
-   "type": "business group",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/bg/publishingbg"
@@ -38,7 +37,8 @@
     "participations": {
      "href": "https://api.w3.org/groups/bg/publishingbg/participations"
     }
-   }
+   },
+   "type": "business group"
   },
   {
    "id": 110591,
@@ -47,7 +47,6 @@
    "description": "Incubation zone for Publishing@W3C. Bring your experiments here.",
    "shortname": "publishingcg",
    "discr": "w3cgroup",
-   "type": "community group",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/cg/publishingcg"
@@ -70,7 +69,8 @@
     "participations": {
      "href": "https://api.w3.org/groups/cg/publishingcg/participations"
     }
-   }
+   },
+   "type": "community group"
   },
   {
    "id": 144835,
@@ -79,9 +79,6 @@
    "description": "The mission of the Publishing Maintenance Working is to maintain the W3C Recommendations, as well as related Notes, in the area of Digital Publishing published by the Audiobooks and the EPUB Working Groups.",
    "shortname": "pm",
    "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "2023-06-20",
-   "end-date": "2025-06-30",
    "_links": {
     "self": {
      "href": "https://api.w3.org/groups/wg/pm"
@@ -119,7 +116,10 @@
     "participations": {
      "href": "https://api.w3.org/groups/wg/pm/participations"
     }
-   }
+   },
+   "type": "working group",
+   "start-date": "2023-06-20",
+   "end-date": "2025-06-30"
   }
  ],
  "internal": false,
