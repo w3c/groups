@@ -5,9 +5,6 @@
  "description": "The mission of the Decentralized Identifier Working Group is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications.",
  "shortname": "did",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2019-09-05",
- "end-date": "2023-05-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/did"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/did/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2019-09-05",
+ "end-date": "2023-05-31",
  "identifier": "wg/did"
 }
