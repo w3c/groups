@@ -5,7 +5,6 @@
  "description": "The WebViews Community Group aims to identify, understand and reduce the issues arising from the use of software components (typically referred as WebViews) that are used to render Web technology-based content outside of a Web browser (Native Apps, MiniApps, etc). See the <a rel=\"nofollow\" href=\"https://github.com/WebView-CG/charter/blob/main/charter.md\">proposed charter</a> that scopes its first expected phase of work.",
  "shortname": "webview",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/webview"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/webview/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/webview"
 }
