@@ -5,7 +5,6 @@
  "description": "Discussions and mutual support for implementers, publishers and spec developers of the technologies developed by the <a rel=\"nofollow\" href=\"https://www.w3.org/2013/csvw/wiki/Main_Page\">CSV on the Web</a> Working Group. The group is not chartered to change published W3C documents, but can record new issues, errata, and test cases for those specification. The CG may also discuss related work, e.g. R2RML or other potential extensions.",
  "shortname": "csvw",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/csvw"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/csvw/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/csvw"
 }
