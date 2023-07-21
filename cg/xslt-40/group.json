@@ -5,7 +5,6 @@
  "description": "<p>The group aims to agree extensions to the XSLT 3.0 Recommendation published on 8 June 2017, along with supporting changes to the other specifications (XPath, Functions and Operators) on which it depends. </p>\r\n\r\n<p>A preliminary proposal describing requirements for such extensions can be found in Michael Kay's Proposal for XSLT 4.0 published in the <a rel=\"nofollow\" href=\"https://archive.xmlprague.cz/2020/files/xmlprague-2020-proceedings.pdf#page=121\">Proceedings of XML Prague 2020</a></p>\r\n\r\n<p>It is intended that the group will operate primarily by use of email and forums but may hold a face-to-face meeting to resolve issues prior to final publication of a specification.</p>\r\n\r\n<p>The group may publish specifications.</p>",
  "shortname": "xslt-40",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/xslt-40"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/xslt-40/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/xslt-40"
 }
