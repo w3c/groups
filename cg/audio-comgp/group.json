@@ -5,7 +5,6 @@
  "description": "A group to gather and incubate new features and requirements for the Web Audio API.  Making it easier for the community to engage with the Audio Working Group.",
  "shortname": "audio-comgp",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/audio-comgp"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/audio-comgp/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/audio-comgp"
 }
