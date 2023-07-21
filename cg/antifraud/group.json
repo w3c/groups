@@ -5,7 +5,6 @@
  "description": "The mission of the Anti Fraud Community Group is to identify and define scenarios involving fraud and unwanted traffic, as well as to incubate and develop web features and APIs to address those scenarios while improving user security, privacy, and accessibility. Fraud and unwanted traffic can include web activity perpetrated by botnets, attackers impersonating users, and other activity that intends to harm users or compromise web services. \r\n\r\nThe group welcomes participation from anti-fraud service providers, common targets of unwanted traffic, browser vendors, web privacy advocates, web application developers, web hosting and cloud service providers, and other interested parties.\r\n\r\nThe Community Group will discuss issues that server operators and anti-fraud service providers face in this area and ideas for new web features and APIs intended to be implemented in browsers or similar user agents.",
  "shortname": "antifraud",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/antifraud"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/antifraud/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/antifraud"
 }
