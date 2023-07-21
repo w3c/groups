@@ -5,7 +5,6 @@
  "description": "<p>The Maps in HTML Community Group seeks to establish at least one hypermedia type which can be considered to be consumed by a (new) \"map\" element for HTML. Follow-on from Bar Camp at #lgd14. The objective will be to define a hypermedia type which can be linked to from a hypothetical (but prototyped in Web Components) \"map\" or (geo-map for Web Components) element which will provide simple mashup capabilities and user interface.</p>\r\n\r\n<p>This group will publish specifications.</p>",
  "shortname": "maps4html",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/maps4html"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/maps4html/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/maps4html"
 }
