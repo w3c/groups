@@ -5,7 +5,6 @@
  "description": "The group will be researching components and controls across the web and also looking to native paradigms to bring interoperability for design systems, frameworks and the web platform.",
  "shortname": "open-ui",
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/open-ui"
@@ -29,5 +28,6 @@
    "href": "https://api.w3.org/groups/cg/open-ui/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/open-ui"
 }
