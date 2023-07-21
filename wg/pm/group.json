@@ -5,9 +5,6 @@
  "description": "The mission of the Publishing Maintenance Working is to maintain the W3C Recommendations, as well as related Notes, in the area of Digital Publishing published by the Audiobooks and the EPUB Working Groups.",
  "shortname": "pm",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2023-06-20",
- "end-date": "2025-06-30",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/pm"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/pm/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2023-06-20",
+ "end-date": "2025-06-30",
  "identifier": "wg/pm"
 }
