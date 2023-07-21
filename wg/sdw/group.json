@@ -5,9 +5,6 @@
  "description": "The mission of the Spatial Data on the Web Working Group is to:\r\n1) develop and maintain vocabularies and best practices that encourage better sharing of spatial data on the Web;\r\n2) identify areas where standards should be developed jointly by both W3C and the Open Geospatial Consortium (OGC).",
  "shortname": "sdw",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2015-01-06",
- "end-date": "2023-10-04",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/sdw"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/sdw/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2015-01-06",
+ "end-date": "2023-10-04",
  "identifier": "wg/sdw"
 }
