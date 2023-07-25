@@ -44,6 +44,31 @@
   }
  },
  {
+  "name": "AB-public",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/AB-public/",
+  "description": "Advisory Board repository for materials not meant to be restricted to W3C Members",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/ab"
+   ],
+   "contacts": [
+    "cwilso",
+    "TzviyaSiegman",
+    "swickr"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "note",
+    "article"
+   ]
+  }
+ },
+ {
   "name": "PWETF",
   "owner": {
    "login": "w3c"
