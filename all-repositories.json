@@ -2902,6 +2902,8 @@
   "owner": {
    "login": "WICG"
   },
+  "homepageUrl": "https://wicg.github.io/soft-navigations/",
+  "description": "Heuristics to detect Single Page Apps soft navigations",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
