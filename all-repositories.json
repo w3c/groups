@@ -4043,6 +4043,16 @@
   }
  },
  {
+  "name": "js-string-builtins",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "JS String Builtins",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "js-types",
   "owner": {
    "login": "WebAssembly"
