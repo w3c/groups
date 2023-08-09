@@ -4050,7 +4050,17 @@
   "description": "JS String Builtins",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "js-types",
