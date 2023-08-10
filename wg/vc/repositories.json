@@ -1,5 +1,26 @@
 [
  {
+  "name": "di-ed25519signature2020-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/di-ed25519signature2020-test-suite/",
+  "description": "Data Integrity Ed25519Signature2020 test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-data-integrity",
   "owner": {
    "login": "w3c"
@@ -39,6 +60,27 @@
    "shortName": "vc-data-model",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "vc-data-model-2-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://digitalbazaar.github.io/vc-data-model-2-test-suite/",
+  "description": "Conformance test suite for the Verifiable Credentials v2 data model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
    ]
   }
  },
@@ -87,6 +129,27 @@
   }
  },
  {
+  "name": "vc-di-ecdsa-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-di-ecdsa-test-suite/",
+  "description": "Interoperability Test Suite for Data Integrity Ecdsa Signatures.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-di-eddsa",
   "owner": {
    "login": "w3c"
@@ -105,6 +168,27 @@
    "shortName": "vc-di-eddsa",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "vc-di-eddsa-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-di-eddsa-test-suite/",
+  "description": "Interoperability Test Suite for Data Integrity Eddsa 2022 Signatures.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
    ]
   }
  },
