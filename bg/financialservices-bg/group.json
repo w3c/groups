@@ -1,0 +1,36 @@
+{
+ "id": 146985,
+ "name": "Financial Services Business Group",
+ "is_closed": false,
+ "description": "The mission of the Financial Services Group (“Financial Services BG”) is to foster ongoing participation by members of the financial services industry and the overall ecosystem in developing the Web for financial services and to serve as a conduit for feedback between the financial services ecosystem and W3C. \r\n\r\nThe group’s primary activity is fostering and advancing the adoption and continued development of relevant W3C Working Groups, such as Payments, Privacy, Identity, and Security. The group will primarily collaborate on developing use cases and adopting new technologies specific to the financial services industry. \r\n\r\nThe  Financial Services BG also collaborates with W3C Members, Chapters, and Staff to sponsor and advance additional activities that help lead the Web to its full potential for Financial Services (events, webinars, training, marketing, and promotion, etc.).\r\n\r\nGroup participants and key stakeholders in the financial services ecosystem include banks, credit unions, insurance companies, investment firms, and non-bank financial institutions. Additionally, regulatory bodies, fintech companies, customers (individuals and businesses), and employees of these institutions play critical roles in shaping the ecosystem.\r\n\r\nThis group will not publish Specifications.",
+ "shortname": "financialservices-bg",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/bg/financialservices-bg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/financialservices-bg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/financialservices-bg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/financialservices-bg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/financialservices-bg/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/financialservices-bg/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/financialservices-bg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/financialservices-bg/participations"
+  }
+ },
+ "type": "business group",
+ "identifier": "bg/financialservices-bg"
+}
