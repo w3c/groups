@@ -9898,27 +9898,6 @@
   }
  },
  {
-  "name": "di-ed25519signature2020-test-suite",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/di-ed25519signature2020-test-suite/",
-  "description": "Data Integrity Ed25519Signature2020 test suite",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
   "name": "did-cbor-note",
   "owner": {
    "login": "w3c"
@@ -20645,7 +20624,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/vc-data-model-2-test-suite/",
-  "description": "Conformance test suite for the Verifiable Credentials v2 data model",
+  "description": "W3C Verifiable Credentials v2.0 test suite",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -20711,6 +20690,27 @@
   },
   "homepageUrl": "https://w3c.github.io/vc-di-ecdsa-test-suite/",
   "description": "Interoperability Test Suite for Data Integrity Ecdsa Signatures.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "vc-di-ed25519signature2020-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-di-ed25519signature2020-test-suite/",
+  "description": "Ed25519Signature2020 Data Integrity test suite",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
