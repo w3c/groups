@@ -64,7 +64,7 @@
   }
  },
  {
-  "name": "vc-data-model-2-test-suite",
+  "name": "vc-data-model-2.0-test-suite",
   "owner": {
    "login": "w3c"
   },
@@ -352,6 +352,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
+  "description": "List of W3C Verifiable Credentials Implementations",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
