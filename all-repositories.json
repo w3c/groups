@@ -20923,6 +20923,26 @@
   }
  },
  {
+  "name": "vc-test-suite-implementations",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-use-cases",
   "owner": {
    "login": "w3c"
@@ -20976,26 +20996,6 @@
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": null
- },
- {
-  "name": "vcwg-test-suite-implementations",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    98922
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "tests"
-   ]
-  }
  },
  {
   "name": "verifiable-credentials",
