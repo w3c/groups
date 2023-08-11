@@ -14329,6 +14329,26 @@
   }
  },
  {
+  "name": "vc-test-suite-implementations",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-use-cases",
   "owner": {
    "login": "w3c"
@@ -14369,26 +14389,6 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ]
-  }
- },
- {
-  "name": "vcwg-test-suite-implementations",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "tests"
    ]
   }
  },
