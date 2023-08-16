@@ -1,0 +1,33 @@
+{
+ "id": 147167,
+ "name": "Chinese DID & VC Best Practices Community Group",
+ "is_closed": false,
+ "description": "The Chinese DID &amp; VC Best Practices Community Group provides a forum to identify and discuss the use cases and best practices of DID and VC implementations, with the goal to bring better user experience and collect requirements for future DID and VC related specifications.\r\n",
+ "shortname": "cndid",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cndid"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/cndid/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cndid/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cndid/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cndid/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cndid/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cndid/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/cndid"
+}
