@@ -20812,6 +20812,26 @@
   }
  },
  {
+  "name": "vc-jose-cose-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-jose-cose-test-suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-json-schema",
   "owner": {
    "login": "w3c"
