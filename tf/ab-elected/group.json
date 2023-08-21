@@ -1,0 +1,55 @@
+{
+ "id": 147348,
+ "name": "Advisory Board Elected Members",
+ "is_closed": false,
+ "description": "Elected members of the Advisory Board",
+ "shortname": "ab-elected",
+ "members": [
+  {
+   "id": 7756,
+   "name": "Advisory Board",
+   "is_closed": false,
+   "description": "The <a href=\"https://www.w3.org/Consortium/Process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
+   "shortname": "ab",
+   "discr": "group",
+   "_links": {
+    "self": {
+     "href": "https://api.w3.org/groups/other/ab"
+    },
+    "homepage": {
+     "href": "https://www.w3.org/Member/Board/"
+    },
+    "users": {
+     "href": "https://api.w3.org/groups/other/ab/users"
+    },
+    "services": {
+     "href": "https://api.w3.org/groups/other/ab/services"
+    },
+    "chairs": {
+     "href": "https://api.w3.org/groups/other/ab/chairs"
+    },
+    "team-contacts": {
+     "href": "https://api.w3.org/groups/other/ab/teamcontacts"
+    }
+   }
+  }
+ ],
+ "internal": false,
+ "participants_list_public": true,
+ "discr": "tf",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/tf/ab-elected"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/ab-elected/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/ab-elected/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/ab-elected/chairs"
+  }
+ },
+ "identifier": "tf/ab-elected"
+}
