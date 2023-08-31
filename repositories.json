@@ -2630,6 +2630,26 @@
   }
  },
  {
+  "name": "service-worker-static-routing-api",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "A repository for the ServiceWorker static routing API.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "shape-detection-api",
   "owner": {
    "login": "WICG"
