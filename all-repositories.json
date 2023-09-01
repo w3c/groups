@@ -22431,6 +22431,23 @@
   "w3cjson": null
  },
  {
+  "name": "wai-mission",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "W3C Accessibility Vision, Mission, Objectives",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "slhenry"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "wai-mobile",
   "owner": {
    "login": "w3c"
