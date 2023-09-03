@@ -278,6 +278,28 @@
   }
  },
  {
+  "name": "vc-json-schema-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Test suite for the VC JSON Schema specification in the W3C",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-json-schema-test-suite",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-jws-2020",
   "owner": {
    "login": "w3c"
