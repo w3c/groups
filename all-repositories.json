@@ -8887,7 +8887,16 @@
   "homepageUrl": "https://www.w3.org/community/reports/",
   "description": "A repo to manage and publish W3C Community and Business Groups final reports",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "character_phrase_tests",
