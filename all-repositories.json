@@ -10478,7 +10478,7 @@
    "login": "w3c"
   },
   "description": "Repository for the Archiving Task Force of the DPUB IG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -10494,7 +10494,7 @@
    "login": "w3c"
   },
   "description": "Locator Task force of the W3C DPUB IG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -11749,7 +11749,7 @@
    ],
    "policy": "open",
    "repo-type": [
-    "tools"
+    "tool"
    ]
   }
  },
@@ -16657,7 +16657,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "dx/wg"
+    "wg/dx"
    ],
    "contacts": [
     "plehegar"
