@@ -197,6 +197,28 @@
   }
  },
  {
+  "name": "i18n-actions",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Action item tracker for the i18n WG.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida",
+    "xfq"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
   "name": "i18n-activity",
   "owner": {
    "login": "w3c"
