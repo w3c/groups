@@ -3351,6 +3351,27 @@
   }
  },
  {
+  "name": "web-preferences-api",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://specs.lukewarlow.dev/web-preferences-api/",
+  "description": "The Web Preference API aims to provide a way for sites to override the value for a given user preference (e.g. color-scheme preference) in a way that fully integrates with existing Web APIs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "web-smart-card",
   "owner": {
    "login": "WICG"
