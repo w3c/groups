@@ -12852,7 +12852,7 @@
    "login": "w3c"
   },
   "description": "Independent User Interface (IndieUI) documents",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -23141,6 +23141,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "Future home of translations guidance and information on translated resources",
   "isArchived": false,
   "isPrivate": false,
