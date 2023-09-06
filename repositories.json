@@ -3110,7 +3110,7 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "https://specs.lukewarlow.dev/web-preferences-api/",
+  "homepageUrl": "https://wicg.github.io/web-preferences-api/",
   "description": "The Web Preference API aims to provide a way for sites to override the value for a given user preference (e.g. color-scheme preference) in a way that fully integrates with existing Web APIs.",
   "isArchived": false,
   "isPrivate": false,
@@ -8657,6 +8657,28 @@
    "repo-type": [
     "homepage"
    ]
+  }
+ },
+ {
+  "name": "i18n-actions",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Action item tracker for the i18n WG.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "rishida",
+    "xfq"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "restricted"
   }
  },
  {
