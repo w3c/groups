@@ -10384,7 +10384,7 @@
    "login": "w3c"
   },
   "description": "Documents of the Accessibility task force of the Digital Publishing IG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -19899,7 +19899,7 @@
    ],
    "policy": "open",
    "repo-type": [
-    "tools"
+    "tool"
    ]
   }
  },
@@ -19959,7 +19959,7 @@
     "slhenry"
    ],
    "repo-type": [
-    "document"
+    "other"
    ]
   }
  },
