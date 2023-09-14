@@ -2069,6 +2069,27 @@
   }
  },
  {
+  "name": "observable",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "Observable API proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "origin-agent-cluster",
   "owner": {
    "login": "WICG"
