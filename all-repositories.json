@@ -110,6 +110,26 @@
   }
  },
  {
+  "name": "accessible-notifications",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "ARIA Accessible Notifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "admin",
   "owner": {
    "login": "WICG"
@@ -11627,6 +11647,16 @@
   "homepageUrl": "",
   "description": "Node.js proxy to the GitHub API to fetch data about an organisation's repos :warning: Discontinued, not being maintained",
   "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
+  "name": "github-cache",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "A simple cache for GitHub",
+  "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
  },
