@@ -1,0 +1,33 @@
+{
+ "id": 148246,
+ "name": "Generative AI Community Group",
+ "is_closed": false,
+ "description": "This group will explore issues surrounding Generative AI risks, benefits, and best practices. We will document guidelines and potentially begin work on a technical proposal. Charter to come.",
+ "shortname": "gai",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/gai"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/gai/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/gai/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/gai/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/gai/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/gai/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/gai/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/gai"
+}
