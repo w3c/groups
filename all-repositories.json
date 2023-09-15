@@ -6310,6 +6310,28 @@
   }
  },
  {
+  "name": "webxr-accessibility",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "WebXR Accessibility",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    87846
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webxr-ar-module",
   "owner": {
    "login": "immersive-web"
