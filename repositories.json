@@ -38,6 +38,26 @@
   }
  },
  {
+  "name": "PEPC",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Explainer for the PEPC feature",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "WebApiDevice",
   "owner": {
    "login": "WICG"
