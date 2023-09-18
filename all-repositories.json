@@ -38,6 +38,26 @@
   }
  },
  {
+  "name": "PEPC",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Explainer for the PEPC feature",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "ScrollAnchoring",
   "owner": {
    "login": "WICG"
