@@ -10474,7 +10474,7 @@
   },
   "homepageUrl": "",
   "description": "DPUB Specific Annotation issues",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -20004,7 +20004,7 @@
    ],
    "policy": "open",
    "repo-type": [
-    "tools"
+    "tool"
    ]
   }
  },
@@ -20060,7 +20060,7 @@
     "dontcallmedom"
    ],
    "repo-type": [
-    "document"
+    "tool"
    ]
   }
  },
