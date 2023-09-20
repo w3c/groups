@@ -664,6 +664,16 @@
   }
  },
  {
+  "name": "controlled-frame",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Controlled Frame API, available only to IWAs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "controls-list",
   "owner": {
    "login": "WICG"
