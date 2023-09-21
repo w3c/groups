@@ -6509,7 +6509,7 @@
     "himorin"
    ],
    "repo-type": [
-    "cg-report"
+    "tool"
    ]
   }
  },
@@ -8027,7 +8027,7 @@
   },
   "homepageUrl": "https://w3c.github.io/adpt/",
   "description": "Audio Description Profile of TTML2",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -8148,25 +8148,6 @@
     "note"
    ],
    "policy": "restricted"
-  }
- },
- {
-  "name": "analytics-personalization-datalayer",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    112122
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
   }
  },
  {
@@ -8721,7 +8702,7 @@
   },
   "homepageUrl": "https://www.w3.org/community/bdcomacg/",
   "description": "Repository of the \"W3C BD Comics Manga Community Group\"",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -8765,7 +8746,7 @@
    "login": "w3c"
   },
   "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -13425,7 +13406,7 @@
    "login": "w3c"
   },
   "description": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -14156,7 +14137,7 @@
    "login": "w3c"
   },
   "description": "MathML editors' draft",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -15258,23 +15239,6 @@
    "repo-type": [
     "note"
    ]
-  }
- },
- {
-  "name": "mixedreality",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    98377
-   ],
-   "contacts": [
-    "tripu"
-   ],
-   "shortName": "mixedreality"
   }
  },
  {
@@ -16657,7 +16621,10 @@
    "contacts": [
     "iherman"
    ],
-   "policy": "open"
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
   }
  },
  {
@@ -18645,22 +18612,6 @@
    "repo-type": [
     "tool",
     "project"
-   ]
-  }
- },
- {
-  "name": "socialwg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    72531
-   ],
-   "contacts": [
-    "sandhawke"
    ]
   }
  },
@@ -24538,7 +24489,7 @@
   },
   "homepageUrl": "https://w3c.github.io/webappsec-epr/",
   "description": "WebAppSec Entry Point Regulation",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -26443,7 +26394,10 @@
     "liamquin",
     "ndw"
    ],
-   "shortName": "xml-core"
+   "repo-type": [
+    "rec-track",
+    "tests"
+   ]
   }
  },
  {
