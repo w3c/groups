@@ -1,5 +1,26 @@
 [
  {
+  "name": "CHIPS",
+  "owner": {
+   "login": "privacycg"
+  },
+  "homepageUrl": "",
+  "description": "A proposal for a cookie attribute to partition cross-site cookies by top-level site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "ad-topic-hints",
   "owner": {
    "login": "privacycg"
