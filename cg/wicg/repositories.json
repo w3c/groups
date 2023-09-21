@@ -3352,27 +3352,6 @@
   }
  },
  {
-  "name": "CHIPS",
-  "owner": {
-   "login": "privacycg"
-  },
-  "homepageUrl": "",
-  "description": "A proposal for a cookie attribute to partition cross-site cookies by top-level site",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "web-share-target",
   "owner": {
    "login": "w3c"
