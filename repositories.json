@@ -5221,7 +5221,7 @@
     "himorin"
    ],
    "repo-type": [
-    "cg-report"
+    "tool"
    ]
   }
  },
@@ -6209,7 +6209,7 @@
   },
   "homepageUrl": "https://w3c.github.io/adpt/",
   "description": "Audio Description Profile of TTML2",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -6688,7 +6688,7 @@
    "login": "w3c"
   },
   "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -9787,7 +9787,7 @@
    "login": "w3c"
   },
   "description": "MathML editors' draft",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -10653,23 +10653,6 @@
    "repo-type": [
     "note"
    ]
-  }
- },
- {
-  "name": "mixedreality",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mixedreality"
-   ],
-   "contacts": [
-    "tripu"
-   ],
-   "shortName": "mixedreality"
   }
  },
  {
