@@ -26584,7 +26584,18 @@
   "description": "tracking privacy reviews of W3C specifications",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "privacy-threat-model",
