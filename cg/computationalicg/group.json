@@ -1,0 +1,33 @@
+{
+ "id": 148595,
+ "name": "Computational Intelligence Community Group",
+ "is_closed": false,
+ "description": "The Computational Intelligence Community Group's main objective is to promote engagement from members of the Computational Intelligence Research and Development community and the broader ecosystem, aiming to mold the Web's foundation for Computational Intelligence as a Service (CIaaS). The group serves as a conduit for dialogue, enabling mutual feedback between the CIaaS community and the W3C.\r\n\r\nThe group's fundamental operation revolves around nurturing the acceptance and ongoing evolution of pertinent W3C Working Groups, such as Machine Learning, Ontology, Dataset, and WoT. The primary collaboration will be creating use cases and adopting emerging technologies related to the CIaaS ecosystem.\r\n\r\nThe Community Group (CG) works closely with members, chapters to support additional operations that help guide the Web to its full potential for CIaaS Services. These operations include events, webinars, training, marketing, and promotional activities.\r\n\r\nThe CG encompasses Product R&amp;D teams, CIaaS service providers, end-users (developers, data scientists, startups, and corporations), regulatory entities overseeing service usage and application; Platforms supplying the infrastructure and tools required to execute CIaaS; Machine learning frameworks that are essential components of the CIaaS; Specific product applications or services available through CIaaS; and the AI and Machine Learning Community.\r\n\r\nThis group aims to release W3C Community Group Reports, suggesting Use Cases and Specifications for integration into existing and forthcoming Standards.",
+ "shortname": "computationalicg",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/computationalicg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/computationalicg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/computationalicg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/computationalicg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/computationalicg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/computationalicg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/computationalicg/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/computationalicg"
+}
