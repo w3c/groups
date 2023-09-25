@@ -1026,7 +1026,7 @@
     "marcoscaceres"
    ],
    "repo-type": [
-    "tools"
+    "tool"
    ]
   }
  },
@@ -10532,7 +10532,7 @@
    "login": "w3c"
   },
   "description": "Documents of the Content & Markup task force of the Digital Publishing IG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -20023,7 +20023,7 @@
     "slhenry"
    ],
    "repo-type": [
-    "other"
+    "others"
    ]
   }
  },
