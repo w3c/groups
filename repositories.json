@@ -17826,6 +17826,28 @@
   }
  },
  {
+  "name": "privacy-request",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "",
+  "description": "tracking privacy reviews of W3C specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
   "name": "tracking-issues",
   "owner": {
    "login": "w3cping"
