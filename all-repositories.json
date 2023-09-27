@@ -26026,6 +26026,16 @@
   }
  },
  {
+  "name": "wot-resources",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the resources like ontologies for WoT specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "wot-scripting-api",
   "owner": {
    "login": "w3c"
