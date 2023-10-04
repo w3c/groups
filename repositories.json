@@ -664,6 +664,26 @@
   }
  },
  {
+  "name": "coop-restrict-properties",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "WICG draft for COOP with popups proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "cq-usecases",
   "owner": {
    "login": "WICG"
