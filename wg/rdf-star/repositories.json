@@ -181,6 +181,28 @@
   }
  },
  {
+  "name": "rdf-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "w3c.github.io/rdf-tests",
+  "description": "Repository for the RDF Tests Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdf-tests",
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "rdf-trig",
   "owner": {
    "login": "w3c"
