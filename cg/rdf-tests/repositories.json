@@ -10,10 +10,11 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/rdf-tests"
+    "cg/rdf-tests",
+    "wg/rdf-star"
    ],
    "contacts": [
-    "eric"
+    "pchampin"
    ],
    "repo-type": [
     "cg-report"
