@@ -1,0 +1,33 @@
+{
+ "id": 148948,
+ "name": "Open Cloud Mesh Community Group",
+ "is_closed": false,
+ "description": "This community group is equivalent to the loose \"Open Cloud Mesh\" collaboration which started at individual vendors such as https://oc.owncloud.com/opencloudmesh.html, then moved to Géant\r\nhttps://wiki.geant.org/display/OCM/Open+Cloud+Mesh\r\nand most recently found a home within the CS3 community https://github.com/cs3org/OCM-API\r\n\r\nAs of september 2023, work on OCM is co-funded by NLnet, CERN, and individual implementers.\r\n\r\nBy creating this W3C CG we want to make our ongoing work more visible to the wider web standards community.",
+ "shortname": "ocm",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ocm"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/ocm/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ocm/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ocm/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ocm/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ocm/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ocm/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/ocm"
+}
