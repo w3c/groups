@@ -6,24 +6,6 @@
  "shortname": "board-audit",
  "members": [
   {
-   "id": 100,
-   "name": "Member Access",
-   "is_closed": false,
-   "shortname": "member-access",
-   "discr": "group",
-   "_links": {
-    "self": {
-     "href": "https://api.w3.org/groups/other/member-access"
-    },
-    "services": {
-     "href": "https://api.w3.org/groups/other/member-access/services"
-    },
-    "chairs": {
-     "href": "https://api.w3.org/groups/other/member-access/chairs"
-    }
-   }
-  },
-  {
    "id": 140563,
    "name": "Board of Directors",
    "is_closed": false,
@@ -45,6 +27,25 @@
     },
     "chairs": {
      "href": "https://api.w3.org/groups/other/board/chairs"
+    }
+   }
+  },
+  {
+   "id": 149106,
+   "name": "Board Audit Committee Guest participants",
+   "is_closed": false,
+   "description": "Additional participants to the <a href=\"https://www.w3.org/groups/tf/board-audit/\">Board Audit Committee</a> that are non-Board participants.",
+   "shortname": "board-audit-guests",
+   "discr": "group",
+   "_links": {
+    "self": {
+     "href": "https://api.w3.org/groups/other/board-audit-guests"
+    },
+    "services": {
+     "href": "https://api.w3.org/groups/other/board-audit-guests/services"
+    },
+    "chairs": {
+     "href": "https://api.w3.org/groups/other/board-audit-guests/chairs"
     }
    }
   }
