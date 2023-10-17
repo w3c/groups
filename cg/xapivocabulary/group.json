@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Currently Experience API (xAPI) mostly focuses on providing “structural” interoperability via JavaScript Object Notation Language (JSON). Structural interoperability defines the syntax of the data exchange and ensures the data exchanged between systems can be interpreted at the data field level. In comparison, semantic interoperability leverages the structural interoperability of the data exchange, but provides a vocabulary so other systems and consumers can also interpret the data. Analytics produced by xAPI statements would benefit from more consistent and semantic approaches to describing domain-specific verbs. The xAPI specification recommends implementers to adopt community-defined vocabularies, but the only current guidance is to provide very basic,  human-readable identifier metadata (e.g., literal string name(display), description). The main objective of the Vocabulary and Semantic Interoperability Working Group (WG) is to research machine-readable, semantic technologies (e.g., RDF, JSON-LD) in order to produce guidance for Communities of Practice (CoPs) on creating, publishing, or managing controlled vocabulary datasets (e.g., verbs). ",
  "shortname": "xapivocabulary",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
