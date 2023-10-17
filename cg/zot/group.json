@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "To standardize the Zot protocol currently used in Hubzilla and Zap, and to push its adoption for social web.",
  "shortname": "zot",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
