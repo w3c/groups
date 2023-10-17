@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "A group addresses and discusses proposed ideas for HTML5 specifications.",
  "shortname": "html5spec",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
