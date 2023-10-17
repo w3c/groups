@@ -4,7 +4,6 @@
  "is_closed": false,
  "description": "How WAI-ARIA is supported by assistive technologies, such as screen readers,  is highly variable. This variation in WAI-ARIA rendering adds unnecessary complexity to the development of high-quality web experiences for users of assistive technologies and places significant limitations on the types of web widgets that can be made widely accessible.\r\n\r\nThis community group is dedicated to:\r\n\r\n1.  helping assistive technology developers converge on a set of clear norms for baseline support of WAI-ARIA.\r\n2. Helping web developers understand the current state of support for WAI-ARIA by assistive technologies.\r\n\r\nWAI-ARIA is as important to assistive technology presentation as CSS is to visual presentation. Join us to help make WAI-ARIA as reliable as CSS.\r\n\r\nThis group will not publish Specifications.",
  "shortname": "aria-at",
- "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
