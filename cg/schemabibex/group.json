@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of this group is to discuss and prepare proposal(s) for extending Schema.org schemas for the improved representation of bibliographic information markup and sharing. The group will seek consensus around, and support for, proposal(s) to the W3C WebSchemas Group. This Community Group will not, itself, produce technical specifications.",
  "shortname": "schemabibex",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
