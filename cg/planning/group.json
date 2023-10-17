@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "This group will discuss and advance automated planning and scheduling technologies, in particular planning domain definition languages. Using such languages, developers can define planning domains, these including types, predicates, actions, constraints, and preferences, and can define planning problems. Web technologies can be of use for designing new such languages, e.g., XML, JSON, Semantic Web technologies, and JavaScript. This group will develop a specification for a new planning domain definition language.",
  "shortname": "planning",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
