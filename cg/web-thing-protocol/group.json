@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of this group is to define a common protocol for communicating with connected devices over the web, to enable ad-hoc interoperability on the <a rel=\"nofollow\" href=\"https://www.w3.org/WoT/\">Web of Things</a>.\r\n\r\nDeliverables of the group may include use cases, requirements and specifications.\r\n\r\nThe group will collaborate with the W3C Web of Things Interest Group and Working Group to ensure any specifications complement or extend the “<a rel=\"nofollow\" href=\"https://www.w3.org/TR/wot-thing-description\">Web of Things (WoT) Thing Description</a>” specification.\r\n\r\nObjectives:\r\n<ol>\r\n  <li>Define a WebSocket sub-protocol for the Web of Things, using the W3C “Web of Things (WoT) Thing Description” data model and operations</li>\r\n  <li>Define an HTTP protocol binding for the Web of Things (or support the Web of Things Working Group in defining this protocol binding and ensuring consistency with the WebSocket sub-protocol where appropriate)</li>\r\n  <li>Evaluate other potential Web of Things protocol bindings (e.g. CoAP)</li>\r\n</ol>\r\n\r\nSee the proposed <a rel=\"nofollow\" href=\"https://benfrancis.github.io/web-thing-protocol-charter/\">Community Group Charter</a> for more information.",
  "shortname": "web-thing-protocol",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
