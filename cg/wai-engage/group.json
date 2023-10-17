@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "WAI-Engage is an open forum for responsive development of material supporting web accessibility, including support for Web Accessibility Initiative (WAI) resources.\r\n\r\nDevelopers, designers, project leaders, administrators, scholars, producers and consumers with disabilities, and anyone interested in accessibility -- please join us and share your perspectives to help build resources that will be useful to the broader community.\r\n\r\nWe welcome everyone to this Community. There is no time commitment or experience expected. This is a place to suggest, share, and develop ideas. \r\n\r\nThis group will not publish specifications.",
  "shortname": "wai-engage",
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
