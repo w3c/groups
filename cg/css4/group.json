@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "A group to debate and define CSS4.\r\n\r\nThe umbrella term \"CSS3\" was incredibly useful in teaching the new additions to CSS around 2010. It seems time to loosely group together more recent additions under another umbrella, to help increase adoption and make it easier to teach. This will not change how the CSSWG operates, will not affect spec numbering, and will be separate from the official CSS snapshots. \r\n\r\nDiscussion began at: https://github.com/w3c/csswg-drafts/issues/4770\r\n\r\nThis WICG group is a place to work out the details. ",
  "shortname": "css4",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
