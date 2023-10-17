@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "JSON-LD (JavaScript Object Notation for Linking Data) is a lightweight Linked Data format that gives your data context. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale. If you are already familiar with JSON, writing JSON-LD is very easy. These properties make JSON-LD an ideal Linked Data interchange language for JavaScript environments, Web service, and unstructured databases such as CouchDB and MongoDB.",
  "shortname": "json-ld",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
