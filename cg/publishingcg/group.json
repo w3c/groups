@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Incubation zone for Publishing@W3C. Bring your experiments here.",
  "shortname": "publishingcg",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
