@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "We will specify a model, permissions, and a common core of APIs for web browser extensions. By specifying the APIs, functionality, and permissions of WebExtensions, we can make it even easier for extension developers to enhance end user experience, while moving them towards APIs that improve performance and prevent abuse.\r\n\r\nCharter: https://github.com/w3c/webextensions/blob/main/charter.md",
  "shortname": "webextensions",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
