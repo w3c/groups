@@ -4,7 +4,6 @@
  "is_closed": false,
  "description": "<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
  "shortname": "autowebplatform",
- "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
