@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "This community group's goal is to propose a way to synchronize audio or video with Web Publications and other document formats being developed by the Publishing Working Group, in order to make the publications accessible to people with different types of reading requirements. The CG may recommend the best way to integrate an existing technology, or it may provide an outline for developing a new format.",
  "shortname": "sync-media-pub",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
