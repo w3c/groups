@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "<p>The Spec Editors Community Group aims to be an inclusive space where spec editors, and those wanting to become spec editors, can learn from each other.\r\n\r\n</p><p>The Spec Ed CG focuses on the practice (the art?) of writing technical specifications across the Web ecosystem (W3C, WHATWG, ECMA, IETF, etc.). By looking across the ecosystem, we hope to improve our specification development practices at the W3C. \r\n\r\n</p><p>As part of this CG, we hope to run hands-on virtual tutorial sessions that will cover:\r\n</p><ul>\r\n<li>spec writing: writing algorithms, types of statements.  \r\n</li><li>tooling: ReSpec and Bikeshed. \r\n</li><li>testing: Web Platform Tests.\r\n</li><li>How review specs: what to look for, commenting on pull requests. \r\n</li><li>leveraging fundamental technologies:  WebIDL, Infra standard, HTML, etc.\r\n</li><li>Using GitHub effectively for spec development: labels, milestones, managing your community. \r\n</li><li>More things! Let us know... \r\n</li></ul>",
  "shortname": "speced-cg",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
