@@ -3255,27 +3255,6 @@
   }
  },
  {
-  "name": "urlpattern",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/urlpattern",
-  "description": "The URLPattern API provides a web platform primitive for matching URLs.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "user-gesture-nav",
   "owner": {
    "login": "WICG"
