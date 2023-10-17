@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of this group is to promote early-stage cross-browser collaboration\r\non a new, portable, size- and load-time-efficient format suitable\r\nfor compilation to the web.",
  "shortname": "webassembly",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
