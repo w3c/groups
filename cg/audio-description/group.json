@@ -4,7 +4,6 @@
  "is_closed": false,
  "description": "Mission: To create an open standard file format to support audio description all the way from scripting to mixing.\r\n\r\nScope: To agree requirements and propose a workable open standard file format for audio description, probably a profile of TTML2, with the intention of moving to the Rec track within a Working Group.\r\n\r\nDeliverables:\r\n\r\n<ul>\r\n<li>Requirements document</li>\r\n<li>Draft specification document</li>\r\n<li>Explainer</li>\r\n</ul>",
  "shortname": "audio-description",
- "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
