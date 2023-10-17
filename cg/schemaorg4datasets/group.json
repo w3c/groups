@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Focussed on improving interoperability between schema.org's DCAT-based approach to dataset description and related approaches e.g. CSVW, VoID, Data Cube, R2RML, SpatialWeb, DCAT-AP and others including liaison to any new W3C work.",
  "shortname": "schemaorg4datasets",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
