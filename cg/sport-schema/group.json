@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The purpose of this group is to propose an expanded vocabulary for describing sporting information within schema.org.\r\nThe goal is to create a proposal which will build on the existing vocabulary within schema.org updating or adding only where needed. The group should leverage existing work in the area of sport vocabularies, thinking globally with a focus on supporting the 'head' of sports vocabularies while keeping in mind the 'body'\r\nand 'tail'.",
  "shortname": "sport-schema",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
