@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "<p>This community group is part of <a href=\"https://www.openactive.io/\" rel=\"nofollow\">the OpenActive initiative</a>. Our goal is to develop technical specifications and best practices that will support the use of open and shared data relating to sports and physical activities.</p>\n\n<p>Our primary focus is on standardising how to publish data about opportunities to be physically activity, defining best practices and APIs to enable booking of events and facilities, and improving interoperability of data across the sector.</p>\n\n<p>To ensure that our specifications will support a variety of use cases, we welcome contributions from a range of organisations, including existing platforms and new startups.</p>\n\n<p>While our work is technical, you don’t have to be a developer to contribute to our standards group. We are looking for input from product and service managers whose domain knowledge can help us to create better outputs.</p><p></p>",
  "shortname": "openactive",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
