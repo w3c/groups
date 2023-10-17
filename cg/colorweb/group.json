@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "<p>Discussion forum between CSS experts, Color Management experts, and TV/Movie/Broadcast experts to explore use cases and inform W3C specification work (such as CSS Color 4 and subsequent levels). Both SDR and HDR are in scope. Wide gamut displays and the Web is in scope. Web use of ICC (v.4 and ICCMax) is in scope.</p>\r\n\r\n<p><a rel=\"nofollow\" href=\"https://w3c.github.io/ColorWeb-CG/charter.html\">Current Charter</a></p>",
  "shortname": "colorweb",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
