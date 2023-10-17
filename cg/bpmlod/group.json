@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The target for this group is to crowd-source ideas from the community regarding best practises for producing multilingual linked open data. The topics for discussion are mainly focused on naming, labelling, interlinking, and quality of multilingual linked data, among others. Use cases will be identified to motivate discussions. Participation both from academia and industry is expected. The main outcome of the group will\r\nbe the documentation of patterns and best practices for the creation, linking, and use of multilingual linked data.\r\n\r\nThis group will not create specifications.",
  "shortname": "bpmlod",
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
