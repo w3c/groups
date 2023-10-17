@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "<p>The Touch Events community group was formed by members of the <a rel=\"nofollow\" href=\"https://www.w3.org/groups/wg/webevents\">Web Events Working Group</a> (responsible for the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/touch-events/\">Touch Events</a> specification) and the <a rel=\"nofollow\" href=\"https://www.w3.org/groups/wg/pointer-events\">Pointer Events Working Group</a> (responsible for the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/pointerevents/\">Pointer Events</a> specification). The group's focus is to determine differences in touch event behavior between browsers. The group seeks to form consensus on the best approaches for interoperability outside of what's already standardized.</p>\r\n\r\n<p>As developer focus has now shifted towards taking forward the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/pointerevents/\">Pointer Events</a> specification, this community group is primarily acting as caretakers to maintain and, where necessary, update the <a rel=\"nofollow\" href=\"https://w3c.github.io/touch-events/\">Touch Events Level 2 </a> group report, to reflect browser implementation reality. There are currently no plans for any new feature development as part of this group report.</p>",
  "shortname": "touchevents",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
