@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of the WebDX Community Group is to facilitate coordinated approaches to improve the overall experience of developing for the Web platform when such coordination provides unique opportunities for these improvements. See its <a rel=\"nofollow\" href=\"https://github.com/web-platform-dx/admin/blob/main/charter.md\">proposed charter</a>.",
  "shortname": "webdx",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
