@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Further development, implementation, and standardization of Notation 3 - an assertion and logic language - including the N3 Rules language.",
  "shortname": "n3-dev",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
