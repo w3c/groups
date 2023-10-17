@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The ACT Rules Community Group (previously known as Auto-WCAG), is an open forum set up to document and harmonise the interpretation of W3C accessibility standards, such as WCAG and WAI-ARIA, for testing purposes.\r\n\r\nThe ACT Rules Community Group (ACT-R) achieves this by bringing together the people developing, implementing and using various accessibility testing tools and methodologies to document interpretations as test rules. Test rules are defined using the ACT Rules Format, and reviewed by the community. The process of researching, documenting, and sharing knowledge from different perspectives within the group, builds towards a common understanding. Publishing rules is not an end point for harmonization, it's a starting point. By publishing such test rules, ACT-R hopes to motivate organisations to share their own insights, and encourage adoption of commonly agreed test rules.\r\n\r\nACT-R is not set up to remove differences or impose changes on accessibility testing tools and methodologies. There is value in innovation and diverse approaches. Rather it aims to contribute to more consistent results, regardless of how the testing is done. Knowing when something meets a requirement, and when it does not, should be clear and consistent. \r\n\r\nThis group will not publish specifications. ",
  "shortname": "act-r",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
