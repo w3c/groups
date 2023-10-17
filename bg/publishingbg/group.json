@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "<p>The Publishing Business Group fosters ongoing participation by members of the publishing industry and overall publishing ecosystem in the development of the Web for publishing, and serves as a conduit for feedback between the publishing ecosystem and W3C. See the <a rel=\"nofollow\" href=\"https://www.w3.org/2017/02/PublishingBGcharter\">Publishing Business Group Charter</a> for details.</p>\r\n\r\n<p>The Business Group maintains a separate  <a rel=\"nofollow\" href=\"https://w3c.github.io/publ-bg/\">“Working” Web site</a>, which includes documents, like <a rel=\"nofollow\" href=\"https://w3c.github.io/publ-bg/Meetings/\">information on meetings</a>, <a rel=\"nofollow\" href=\"https://w3c.github.io/publ-bg/Meetings/Minutes/\">index for meeting minutes</a>, and other working documents. There is also a separate <a rel=\"nofollow\" href=\"https://github.com/w3c/publ-bg/wiki\">wiki</a> for BG members. Finally, if necessary or convenient, Google Documents can also be used; these are collected in a separate <a rel=\"nofollow\" href=\"https://drive.google.com/open?id=1tQf56giFynYlWKm5DmrxTUbYUwpzQAmI\">Google Drive folder</a>.</p>\r\n\r\n<p>(The Working Web site’s content is actually served from a dedicated <a rel=\"nofollow\" href=\"https://github.com/w3c/publ-bg/\">Github repository</a>.)</p>",
  "shortname": "publishingbg",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
