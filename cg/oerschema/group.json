@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Our mission is to develop a universal RDF vocabulary to enhance open educational resources throughout the internet.",
  "shortname": "oerschema",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
