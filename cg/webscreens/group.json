@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of the <a rel=\"nofollow\" href=\"https://www.w3.org/community/webscreens/\">Second Screen Community Group (CG)</a> is to explore, incubate, and define interfaces that enable new form factors and usages for multi-display and multi-window computing user experiences on the Web.\r\n\r\nThe scope of work for this Community Group extends beyond the current scope of the <a rel=\"nofollow\" href=\"http://www.w3.org/2014/secondscreen/\">Second Screen Working Group (WG)</a>. Given wider support and adequate stability, we plan to migrate the proposals generated in this Community Group to an appropriate <a rel=\"nofollow\" href=\"https://www.w3.org/Consortium/activities#Working\">W3C Working Group</a> for further contributions and formal standardization.",
  "shortname": "webscreens",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
