@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of the GPU on the Web Community Group is to provide an interface between the Web Platform and modern 3D graphics and computation capabilities present in native system platforms. The goal is to design a new Web API that exposes these modern technologies in a performant, powerful and safe manner. It should work with existing platform APIs such as Direct3D 12 from Microsoft, Metal from Apple, and Vulkan from the Khronos Group. This API will also expose the generic computational facilities available in today's GPUs to the Web, and investigate shader languages to produce a cross-platform solution. Please see the <a rel=\"nofollow\" href=\"https://gpuweb.github.io/admin/cg-charter.html\">draft charter</a>. The group is inviting browser engine developers, GPU hardware vendors, 3D software engineers, as well as the broader Web community who have an interest in 3D graphics and efficient computation to participate.",
  "shortname": "gpu",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
