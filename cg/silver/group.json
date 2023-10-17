@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Support the research and prototyping of the next major version of Web Content Accessibility Guidelines (WCAG).\r\n\r\nThis group may publish Specifications.",
  "shortname": "silver",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
