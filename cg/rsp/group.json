@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The mission of the RDF Stream Processing Community Group (RSP) is to define a common model for producing, transmitting and continuously querying RDF Streams. This includes extensions to both RDF and SPARQL for representing streaming data, as well as their semantics. Moreover this work envisions an ecosystem of streaming and static RDF data sources whose data can be combined through standard models, languages and protocols. Complementary to related work in the area of databases, this Community Group looks at the dynamic properties of graph-based data, i.e., graphs that are produced over time and which may change their shape and data over time.\r\n",
  "shortname": "rsp",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
