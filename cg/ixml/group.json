@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "We choose which representations of our data to use, JSON, CSV, XML, or whatever, depending on habit, convenience, or the context we want to use that data in. On the other hand, having an interoperable generic toolchain such as that provided by XML to process data is of immense value. How do we resolve the conflicting requirements of convenience, habit, and context, and still enable a generic toolchain? Invisible XML (ixml) is a method for treating non-XML documents as if they were XML, enabling authors to write documents and data in a format they prefer while providing XML for processes that are more effective with XML content. This is an ongoing project to provide software that lets you treat any parsable format as if it were XML, without the need for markup.",
  "shortname": "ixml",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
