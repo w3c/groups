@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "A community group dedicated to creating sustainable websites.\r\n\r\nThis group will not publish specifications.",
  "shortname": "sustyweb",
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
