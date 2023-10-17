@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "Create a place for gathering requirements from existing and potential users of XProc, research in this area, and for supporting and writing the community-driven effort to define an XProc 3.0 specification (formerly 1.1) .",
  "shortname": "xproc-next",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
