@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The Equity CG seeks to enable equity in W3C processes, specifications, and expertise. Equality is equal access, while 'equity' is equal outcomes (Antoinette Carroll, Creative Reaction Lab Founder (https://crxlab.org/)). The Equity CG will discuss approaches to creating more equitable specifications and implementations of those specifications. The group will determine whether it wants to address internal specifications (as in a self-review questionnaire before CR) or provide a tool for assessing equity (like WCAG). This will require recruiting experts in equity as well as those who reflect the diversity of the world and will take time. In time, the CG hopes to propose an Equity Horizontal Review Board (HRB).",
  "shortname": "equity",
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
