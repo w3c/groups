@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The W3C Human Centric AI Groups mission is to investigate, articulate, refine, consider and respond to the various safety and human rights related implications of Web connected online systems; and to define recommendations, and useful tools, to respond to these challenges via any applicable Human Centric AI compatible system. \r\n\r\nThis group may produce technical specifications.",
  "shortname": "humancentricai",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
