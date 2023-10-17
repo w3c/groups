@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The goal of Web of Things Community Group is to accelerate the community activities around the recommendations and notes published by the WoT Working Group and Interest Group.\r\n",
  "shortname": "wot",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
