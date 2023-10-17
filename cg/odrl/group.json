@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "<p>The ODRL Community Group supports the promotion and future development of the W3C ODRL recommendations:</p>\r\n<ul class=\"show_items\">\r\n<li><a href=\"https://www.w3.org/TR/odrl-model/\" rel=\"nofollow\">ODRL Information Model</a></li>\r\n<li><a href=\"https://www.w3.org/TR/odrl-vocab/\" rel=\"nofollow\">ODRL Vocabulary &amp; Expression</a></li>\r\n</ul>\r\n<p>Specifically, the ODRL CG will:</p>\r\n<ul class=\"show_items\">\r\n<li>Promote ODRL V2.2 to existing and new sectors/industries</li>\r\n<li>Nurture an ODRL implementors community</li>\r\n<li>Publish reports related to ODRL usage</li>\r\n<li>Support development of ODRL Profiles (and host for smaller communities)</li>\r\n<li>Register ODRL Profiles</li>\r\n<li>Collaborate with W3C on ODRL errata maintenance</li>\r\n<li>Plan for future major enhancements to ODRL (V3.0)</li>\r\n</ul>",
  "shortname": "odrl",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
