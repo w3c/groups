@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "This Community Group brings together people from research and industry who are interested in semantic modelling. Researchers are interested in understanding the actual needs of industrial partners, gathering use cases and example data, and clarifying the challenges that further research can help address, as well as refining the methodologies for developing semantic based solutions. Industrial partners are interested in having clear benefits for adopting semantic technologies in relation to the digital transformation of industry. How can these benefits be realised by average developers using higher level frameworks and better tooling. The W3C Community Group will make extensive use of the GitHub issue tracker to raise and discuss ideas, and to prepare W3C Community Group reports with our findings.",
  "shortname": "semind",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
