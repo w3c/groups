@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The Design Tokens Community Group's goal is to provide standards upon which products and design tools can rely for sharing stylistic pieces of a design system at scale.",
  "shortname": "design-tokens",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
