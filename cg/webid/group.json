@@ -4,6 +4,7 @@
  "is_closed": false,
  "description": "The WebID Community Group is a continuation of the WebID Incubator Group [1]. The Community Group will continue development of a specification for the WebID protocol, build test suites, document use case, issues, and grow the community of implementations.\r\n\r\n[1] http://www.w3.org/2005/Incubator/webid/",
  "shortname": "webid",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
