@@ -505,8 +505,8 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "https://github.com/whatwg/html/pull/9462",
-  "description": "A web API proposal for watching for close signals (e.g. Esc, Android back button, ...)",
+  "homepageUrl": "https://html.spec.whatwg.org/multipage/interaction.html#close-requests-and-close-watchers",
+  "description": "A web API proposal for watching for close requests (e.g. Esc, Android back button, ...)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
