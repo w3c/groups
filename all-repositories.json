@@ -20717,6 +20717,30 @@
   "w3cjson": null
  },
  {
+  "name": "vc-bitstring-status-list",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-status-list-2021/",
+  "description": "A privacy-preserving mechanism to publish status information for Verifiable Credentials.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "msporny",
+    "dlongley",
+    "iherman"
+   ],
+   "shortName": "vc-status-list-2021",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "vc-data-integrity",
   "owner": {
    "login": "w3c"
@@ -21057,30 +21081,6 @@
     "note"
    ],
    "shortName": "vc-spec-directory"
-  }
- },
- {
-  "name": "vc-status-list-2021",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/vc-status-list-2021/",
-  "description": "A privacy-preserving mechanism to publish status information for Verifiable Credentials.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    98922
-   ],
-   "contacts": [
-    "msporny",
-    "dlongley",
-    "iherman"
-   ],
-   "shortName": "vc-status-list-2021",
-   "repo-type": [
-    "note"
-   ]
   }
  },
  {
