@@ -3461,6 +3461,25 @@
   }
  },
  {
+  "name": "web-printing",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "web-smart-card",
   "owner": {
    "login": "WICG"
