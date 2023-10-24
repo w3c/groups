@@ -103,6 +103,26 @@
   }
  },
  {
+  "name": "compilation-hints",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Compilation Hints",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "conditional-sections",
   "owner": {
    "login": "WebAssembly"
