@@ -3848,7 +3848,17 @@
   "description": "Compilation Hints",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "component-model",
@@ -7239,6 +7249,7 @@
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
+    "plehegar",
     "koalie",
     "xueyuanjia"
    ],
