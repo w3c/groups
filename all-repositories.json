@@ -671,7 +671,17 @@
   "description": "Controlled Frame API, available only to IWAs",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "controls-list",
