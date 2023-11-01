@@ -20791,6 +20791,27 @@
   }
  },
  {
+  "name": "vc-controller-document",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-controller-document",
+  "description": "VC Controller Document",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "vc-data-integrity",
   "owner": {
    "login": "w3c"
