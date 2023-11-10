@@ -2016,6 +2016,25 @@
   }
  },
  {
+  "name": "local-peer-to-peer",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "lock-screen",
   "owner": {
    "login": "WICG"
@@ -4005,7 +4024,7 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
+  "homepageUrl": "https://webassembly.github.io/exception-handling/",
   "description": "Proposal to add exception handling to WebAssembly",
   "isArchived": false,
   "isPrivate": false,
