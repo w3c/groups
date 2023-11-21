@@ -2020,6 +2020,8 @@
   "owner": {
    "login": "WICG"
   },
+  "homepageUrl": "https://wicg.github.io/local-peer-to-peer/",
+  "description": "Proposal for local communication between browsers without the aid of a server.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
