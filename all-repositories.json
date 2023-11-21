@@ -4588,6 +4588,26 @@
   }
  },
  {
+  "name": "shared-everything-threads",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "A draft proposal for spawning threads in WebAssembly",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "sign-extension-ops",
   "owner": {
    "login": "WebAssembly"
