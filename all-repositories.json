@@ -24664,6 +24664,27 @@
   }
  },
  {
+  "name": "webappsec-passkey-endpoints",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Temporary home for the Passkey Endpoints Well-Known URI spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "webappsec-permissions-policy",
   "owner": {
    "login": "w3c"
