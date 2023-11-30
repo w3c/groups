@@ -179,6 +179,27 @@
   }
  },
  {
+  "name": "anonymous-iframe",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "Give developers the ability to embed third party HTML documents inside a new and ephemeral context. In return, COEP embedding rules can be relaxed. Thanks to anonymous iframe, developers using COEP can now embed third party content that do not.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "aom",
   "owner": {
    "login": "WICG"
