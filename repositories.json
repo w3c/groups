@@ -2525,6 +2525,25 @@
   }
  },
  {
+  "name": "protected-auction-services-discussion",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "pwa-url-handler",
   "owner": {
    "login": "WICG"
