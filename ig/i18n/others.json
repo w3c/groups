@@ -1,52 +1,5 @@
 [
  {
-  "name": "hlreq",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Hebrew script layout requirements",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "tf/i18n-hlreq",
-    "ig/i18n",
-    "wg/i18n-core"
-   ],
-   "contacts": [
-    "rishida"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "policy": "restricted"
-  }
- },
- {
-  "name": "iip",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/iip/",
-  "description": "Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "tf/i18n-hlreq",
-    "ig/i18n",
-    "wg/i18n-core"
-   ],
-   "contacts": [
-    "rishida"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "policy": "restricted"
-  }
- },
- {
   "name": "jlreq",
   "owner": {
    "login": "w3c"
