@@ -1,5 +1,9 @@
 [
  {
+  "id": 125720,
+  "identifier": "cg/foss-3d"
+ },
+ {
   "id": 114156,
   "identifier": "cg/act-r"
  },
@@ -44,6 +48,10 @@
   "identifier": "cg/accessibility4children"
  },
  {
+  "id": 77612,
+  "identifier": "cg/accesslearn"
+ },
+ {
   "id": 83907,
   "identifier": "wg/apa"
  },
@@ -78,6 +86,10 @@
  {
   "id": 55430,
   "identifier": "cg/argumentation"
+ },
+ {
+  "id": 125854,
+  "identifier": "cg/atomic-data"
  },
  {
   "id": 110716,
@@ -384,14 +396,6 @@
   "identifier": "cg/gpu"
  },
  {
-  "id": 96877,
-  "identifier": "cg/gpu"
- },
- {
-  "id": 125519,
-  "identifier": "wg/gpu"
- },
- {
   "id": 125519,
   "identifier": "wg/gpu"
  },
@@ -410,10 +414,6 @@
  {
   "id": 52443,
   "identifier": "cg/html5spec"
- },
- {
-  "id": 78701,
-  "identifier": "cg/schemed"
  },
  {
   "id": 78701,
