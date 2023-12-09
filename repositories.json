@@ -8735,7 +8735,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-hlreq",
+    96702,
     "ig/i18n",
     "wg/i18n-core"
    ],
@@ -8835,28 +8835,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "htmlwg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/groups/wg/htmlwg",
-  "description": "HTML Working Group ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/htmlwg"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "homepage"
    ]
   }
  },
@@ -9129,7 +9107,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-hlreq",
+    96702,
     "ig/i18n",
     "wg/i18n-core"
    ],
