@@ -1,5 +1,9 @@
 [
  {
+  "id": 125720,
+  "identifier": "cg/foss-3d"
+ },
+ {
   "id": 114156,
   "identifier": "cg/act-r"
  },
@@ -44,6 +48,10 @@
   "identifier": "cg/accessibility4children"
  },
  {
+  "id": 77612,
+  "identifier": "cg/accesslearn"
+ },
+ {
   "id": 83907,
   "identifier": "wg/apa"
  },
@@ -80,6 +88,10 @@
   "identifier": "cg/argumentation"
  },
  {
+  "id": 125854,
+  "identifier": "cg/atomic-data"
+ },
+ {
   "id": 110716,
   "identifier": "cg/audio-comgp"
  },
@@ -94,6 +106,10 @@
  {
   "id": 139357,
   "identifier": "cg/av4browsers"
+ },
+ {
+  "id": 141004,
+  "identifier": "cg/planning"
  },
  {
   "id": 78250,
@@ -136,6 +152,10 @@
   "identifier": "cg/bitcoin"
  },
  {
+  "id": 88235,
+  "identifier": "cg/blockchain"
+ },
+ {
   "id": 149084,
   "identifier": "tf/board-audit"
  },
@@ -164,6 +184,10 @@
   "identifier": "other/board"
  },
  {
+  "id": 140848,
+  "identifier": "cg/bits"
+ },
+ {
   "id": 49799,
   "identifier": "wg/browser-tools-testing"
  },
@@ -182,6 +206,10 @@
  {
   "id": 85874,
   "identifier": "cg/csvw"
+ },
+ {
+  "id": 142919,
+  "identifier": "cg/cv3"
  },
  {
   "id": 32061,
@@ -240,6 +268,10 @@
   "identifier": "cg/cns"
  },
  {
+  "id": 113314,
+  "identifier": "cg/conv"
+ },
+ {
   "id": 72898,
   "identifier": "cg/credentials"
  },
@@ -254,6 +286,10 @@
  {
   "id": 107442,
   "identifier": "cg/dpvcg"
+ },
+ {
+  "id": 75457,
+  "identifier": "cg/datavis"
  },
  {
   "id": 143005,
@@ -728,10 +764,6 @@
   "identifier": "cg/shacl"
  },
  {
-  "id": 100368,
-  "identifier": "cg/shacl"
- },
- {
   "id": 114009,
   "identifier": "cg/sparql-dev"
  },
@@ -784,20 +816,8 @@
   "identifier": "wg/secondscreen"
  },
  {
-  "id": 74168,
-  "identifier": "wg/secondscreen"
- },
- {
   "id": 138327,
   "identifier": "cg/htmlvoc"
- },
- {
-  "id": 138327,
-  "identifier": "cg/htmlvoc"
- },
- {
-  "id": 115642,
-  "identifier": "cg/semind"
  },
  {
   "id": 115642,
@@ -808,14 +828,6 @@
   "identifier": "cg/hclscg"
  },
  {
-  "id": 92610,
-  "identifier": "cg/hclscg"
- },
- {
-  "id": 142387,
-  "identifier": "cg/service-disco"
- },
- {
   "id": 142387,
   "identifier": "cg/service-disco"
  },
@@ -824,20 +836,8 @@
   "identifier": "wg/service-workers"
  },
  {
-  "id": 101220,
-  "identifier": "wg/service-workers"
- },
- {
   "id": 95701,
   "identifier": "cg/shex"
- },
- {
-  "id": 95701,
-  "identifier": "cg/shex"
- },
- {
-  "id": 97795,
-  "identifier": "cg/silver"
  },
  {
   "id": 97795,
