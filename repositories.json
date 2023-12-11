@@ -6146,6 +6146,29 @@
   }
  },
  {
+  "name": "ServiceWorker",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ServiceWorker/",
+  "description": "Service Workers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/service-workers"
+   ],
+   "contacts": [
+    "ylafon",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "WebID",
   "owner": {
    "login": "w3c"
@@ -6795,23 +6818,6 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "blockchain",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/blockchain"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -7857,48 +7863,6 @@
   }
  },
  {
-  "name": "dmpl",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/dmpl",
-  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/conv"
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "dms",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/dms/",
-  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/conv"
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "dpub-aam",
   "owner": {
    "login": "w3c"
@@ -8593,6 +8557,111 @@
    "shortName": "gyroscope",
    "repo-type": [
     "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-ccda-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "XSLT to tranform C-CDA into O-RIM RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-drug-drug-interaction",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
+  "description": "W3C HCLS Drug-Drug Interaction",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-fhir-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Sketching out an RDF representation for FHIR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-natural-product-drug-interaction-fair",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
    ],
    "policy": "open"
   }
@@ -10982,6 +11051,27 @@
   }
  },
  {
+  "name": "openscreenprotocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
+  "description": "Open Screen Protocol",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "opentrack-cg",
   "owner": {
    "login": "w3c"
@@ -11543,6 +11633,28 @@
    ],
    "group": [
     "wg/i18n-core"
+   ]
+  }
+ },
+ {
+  "name": "presentation-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/presentation-api/",
+  "description": "Presentation API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "shortName": "presentation-api",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -12236,6 +12348,28 @@
   }
  },
  {
+  "name": "remote-playback",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/remote-playback/",
+  "description": "Remote Playback API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "shortName": "remote-playback",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "reporting",
   "owner": {
    "login": "w3c"
@@ -12540,6 +12674,50 @@
   }
  },
  {
+  "name": "secondscreen-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/secondscreen-charter/",
+  "description": "Draft charter for the Second Screen Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "anssik",
+    "tidoust"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "secondscreen-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2014/secondscreen/",
+  "description": "Home page of the Second Screen Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "anssik",
+    "tidoust"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "secure-payment-confirmation",
   "owner": {
    "login": "w3c"
@@ -12626,6 +12804,28 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "service-workers-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/sw/",
+  "description": "Service Workers Working Group pages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/service-workers"
+   ],
+   "contacts": [
+    "ylafon",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -17127,6 +17327,27 @@
    ],
    "shortname": [
     "webvtt"
+   ]
+  }
+ },
+ {
+  "name": "window-management",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/window-management/",
+  "description": "Window Management API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
