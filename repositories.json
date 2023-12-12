@@ -4467,55 +4467,6 @@
   }
  },
  {
-  "name": "cts",
-  "owner": {
-   "login": "gpuweb"
-  },
-  "homepageUrl": "https://gpuweb.github.io/cts/",
-  "description": "WebGPU Conformance Test Suite",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/gpu",
-    "wg/gpu"
-   ],
-   "contacts": [
-    "tidoust",
-    "Kangz",
-    "grorg"
-   ],
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "gpuweb",
-  "owner": {
-   "login": "gpuweb"
-  },
-  "homepageUrl": "http://webgpu.io",
-  "description": "Where the GPU for the Web work happens!",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/gpu",
-    "wg/gpu"
-   ],
-   "contacts": [
-    "tidoust",
-    "Kangz",
-    "kdashg"
-   ],
-   "repo-type": [
-    "cg-report",
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "WebXR-WebGPU-Binding",
   "owner": {
    "login": "immersive-web"
@@ -6822,6 +6773,23 @@
   }
  },
  {
+  "name": "blockchain",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/blockchain"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "board",
   "owner": {
    "login": "w3c"
@@ -7863,6 +7831,48 @@
   }
  },
  {
+  "name": "dmpl",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dmpl",
+  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dms",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dms/",
+  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "dpub-aam",
   "owner": {
    "login": "w3c"
@@ -8474,27 +8484,6 @@
   }
  },
  {
-  "name": "gpuweb-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/2020/gpu/",
-  "description": "Home page of the GPU for the Web Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/gpu"
-   ],
-   "contacts": [
-    "tidoust"
-   ],
-   "repo-type": [
-    "homepage"
-   ]
-  }
- },
- {
   "name": "graphics-aam",
   "owner": {
    "login": "w3c"
@@ -8676,7 +8665,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-hlreq",
+    96702,
     "ig/i18n",
     "wg/i18n-core"
    ],
@@ -8776,28 +8765,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "htmlwg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/groups/wg/htmlwg",
-  "description": "HTML Working Group ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/htmlwg"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "homepage"
    ]
   }
  },
@@ -9070,7 +9037,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-hlreq",
+    96702,
     "ig/i18n",
     "wg/i18n-core"
    ],
