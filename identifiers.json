@@ -392,12 +392,48 @@
   "identifier": "cg/fibo"
  },
  {
+  "id": 96877,
+  "identifier": "cg/gpu"
+ },
+ {
+  "id": 125519,
+  "identifier": "wg/gpu"
+ },
+ {
   "id": 49726,
   "identifier": "cg/games"
  },
  {
   "id": 148246,
   "identifier": "cg/gai"
+ },
+ {
+  "id": 115520,
+  "identifier": "wg/htmlwg"
+ },
+ {
+  "id": 52443,
+  "identifier": "cg/html5spec"
+ },
+ {
+  "id": 78701,
+  "identifier": "cg/schemed"
+ },
+ {
+  "id": 96702,
+  "identifier": "tf/i18n-hlreq"
+ },
+ {
+  "id": 143541,
+  "identifier": "cg/humancentricai"
+ },
+ {
+  "id": 71940,
+  "identifier": "cg/humanservices"
+ },
+ {
+  "id": 64267,
+  "identifier": "cg/hydra"
  },
  {
   "id": 117874,
@@ -724,14 +760,6 @@
   "identifier": "cg/md-odrl-profile"
  },
  {
-  "id": 100368,
-  "identifier": "cg/shacl"
- },
- {
-  "id": 100368,
-  "identifier": "cg/shacl"
- },
- {
   "id": 114009,
   "identifier": "cg/sparql-dev"
  },
@@ -778,70 +806,6 @@
  {
   "id": 67710,
   "identifier": "cg/webscreens"
- },
- {
-  "id": 74168,
-  "identifier": "wg/secondscreen"
- },
- {
-  "id": 74168,
-  "identifier": "wg/secondscreen"
- },
- {
-  "id": 138327,
-  "identifier": "cg/htmlvoc"
- },
- {
-  "id": 138327,
-  "identifier": "cg/htmlvoc"
- },
- {
-  "id": 115642,
-  "identifier": "cg/semind"
- },
- {
-  "id": 115642,
-  "identifier": "cg/semind"
- },
- {
-  "id": 92610,
-  "identifier": "cg/hclscg"
- },
- {
-  "id": 92610,
-  "identifier": "cg/hclscg"
- },
- {
-  "id": 142387,
-  "identifier": "cg/service-disco"
- },
- {
-  "id": 142387,
-  "identifier": "cg/service-disco"
- },
- {
-  "id": 101220,
-  "identifier": "wg/service-workers"
- },
- {
-  "id": 101220,
-  "identifier": "wg/service-workers"
- },
- {
-  "id": 95701,
-  "identifier": "cg/shex"
- },
- {
-  "id": 95701,
-  "identifier": "cg/shex"
- },
- {
-  "id": 97795,
-  "identifier": "cg/silver"
- },
- {
-  "id": 97795,
-  "identifier": "cg/silver"
  },
  {
   "id": 94845,
