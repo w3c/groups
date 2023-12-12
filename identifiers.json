@@ -76,10 +76,6 @@
   "identifier": "tf/i18n-alreq"
  },
  {
-  "id": 55430,
-  "identifier": "cg/argumentation"
- },
- {
   "id": 110716,
   "identifier": "cg/audio-comgp"
  },
@@ -272,16 +268,8 @@
   "identifier": "cg/applied-did-and-vc"
  },
  {
-  "id": 77570,
-  "identifier": "cg/decsharing"
- },
- {
   "id": 47948,
   "identifier": "cg/declarative3d"
- },
- {
-  "id": 143377,
-  "identifier": "cg/html-dynamic-extensions"
  },
  {
   "id": 116753,
@@ -290,10 +278,6 @@
  {
   "id": 43696,
   "identifier": "wg/das"
- },
- {
-  "id": 101721,
-  "identifier": "cg/digitalassetmanagement"
  },
  {
   "id": 108594,
@@ -440,12 +424,28 @@
   "identifier": "cg/immersive-captions"
  },
  {
+  "id": 117874,
+  "identifier": "cg/immersive-captions"
+ },
+ {
+  "id": 87846,
+  "identifier": "cg/immersive-web"
+ },
+ {
   "id": 87846,
   "identifier": "cg/immersive-web"
  },
  {
   "id": 109735,
   "identifier": "wg/immersive-web"
+ },
+ {
+  "id": 109735,
+  "identifier": "wg/immersive-web"
+ },
+ {
+  "id": 103226,
+  "identifier": "bg/web-adv"
  },
  {
   "id": 103226,
