@@ -1,5 +1,9 @@
 [
  {
+  "id": 125720,
+  "identifier": "cg/foss-3d"
+ },
+ {
   "id": 114156,
   "identifier": "cg/act-r"
  },
@@ -44,6 +48,10 @@
   "identifier": "cg/accessibility4children"
  },
  {
+  "id": 77612,
+  "identifier": "cg/accesslearn"
+ },
+ {
   "id": 83907,
   "identifier": "wg/apa"
  },
@@ -76,6 +84,14 @@
   "identifier": "tf/i18n-alreq"
  },
  {
+  "id": 55430,
+  "identifier": "cg/argumentation"
+ },
+ {
+  "id": 125854,
+  "identifier": "cg/atomic-data"
+ },
+ {
   "id": 110716,
   "identifier": "cg/audio-comgp"
  },
@@ -90,6 +106,10 @@
  {
   "id": 139357,
   "identifier": "cg/av4browsers"
+ },
+ {
+  "id": 141004,
+  "identifier": "cg/planning"
  },
  {
   "id": 78250,
@@ -132,6 +152,10 @@
   "identifier": "cg/bitcoin"
  },
  {
+  "id": 88235,
+  "identifier": "cg/blockchain"
+ },
+ {
   "id": 149084,
   "identifier": "tf/board-audit"
  },
@@ -160,6 +184,10 @@
   "identifier": "other/board"
  },
  {
+  "id": 140848,
+  "identifier": "cg/bits"
+ },
+ {
   "id": 49799,
   "identifier": "wg/browser-tools-testing"
  },
@@ -178,6 +206,10 @@
  {
   "id": 85874,
   "identifier": "cg/csvw"
+ },
+ {
+  "id": 142919,
+  "identifier": "cg/cv3"
  },
  {
   "id": 32061,
@@ -236,6 +268,10 @@
   "identifier": "cg/cns"
  },
  {
+  "id": 113314,
+  "identifier": "cg/conv"
+ },
+ {
   "id": 72898,
   "identifier": "cg/credentials"
  },
@@ -250,6 +286,10 @@
  {
   "id": 107442,
   "identifier": "cg/dpvcg"
+ },
+ {
+  "id": 75457,
+  "identifier": "cg/datavis"
  },
  {
   "id": 143005,
@@ -268,8 +308,16 @@
   "identifier": "cg/applied-did-and-vc"
  },
  {
+  "id": 77570,
+  "identifier": "cg/decsharing"
+ },
+ {
   "id": 47948,
   "identifier": "cg/declarative3d"
+ },
+ {
+  "id": 143377,
+  "identifier": "cg/html-dynamic-extensions"
  },
  {
   "id": 116753,
@@ -278,6 +326,10 @@
  {
   "id": 43696,
   "identifier": "wg/das"
+ },
+ {
+  "id": 101721,
+  "identifier": "cg/digitalassetmanagement"
  },
  {
   "id": 108594,
@@ -344,14 +396,6 @@
   "identifier": "cg/gpu"
  },
  {
-  "id": 96877,
-  "identifier": "cg/gpu"
- },
- {
-  "id": 125519,
-  "identifier": "wg/gpu"
- },
- {
   "id": 125519,
   "identifier": "wg/gpu"
  },
@@ -368,20 +412,8 @@
   "identifier": "wg/htmlwg"
  },
  {
-  "id": 115520,
-  "identifier": "wg/htmlwg"
- },
- {
   "id": 52443,
   "identifier": "cg/html5spec"
- },
- {
-  "id": 52443,
-  "identifier": "cg/html5spec"
- },
- {
-  "id": 78701,
-  "identifier": "cg/schemed"
  },
  {
   "id": 78701,
@@ -392,20 +424,8 @@
   "identifier": "tf/i18n-hlreq"
  },
  {
-  "id": 96702,
-  "identifier": "tf/i18n-hlreq"
- },
- {
   "id": 143541,
   "identifier": "cg/humancentricai"
- },
- {
-  "id": 143541,
-  "identifier": "cg/humancentricai"
- },
- {
-  "id": 71940,
-  "identifier": "cg/humanservices"
  },
  {
   "id": 71940,
@@ -416,14 +436,6 @@
   "identifier": "cg/hydra"
  },
  {
-  "id": 64267,
-  "identifier": "cg/hydra"
- },
- {
-  "id": 117874,
-  "identifier": "cg/immersive-captions"
- },
- {
   "id": 117874,
   "identifier": "cg/immersive-captions"
  },
@@ -432,20 +444,8 @@
   "identifier": "cg/immersive-web"
  },
  {
-  "id": 87846,
-  "identifier": "cg/immersive-web"
- },
- {
   "id": 109735,
   "identifier": "wg/immersive-web"
- },
- {
-  "id": 109735,
-  "identifier": "wg/immersive-web"
- },
- {
-  "id": 103226,
-  "identifier": "bg/web-adv"
  },
  {
   "id": 103226,
@@ -760,6 +760,22 @@
   "identifier": "cg/md-odrl-profile"
  },
  {
+  "id": 100368,
+  "identifier": "cg/shacl"
+ },
+ {
+  "id": 114009,
+  "identifier": "cg/sparql-dev"
+ },
+ {
+  "id": 85121,
+  "identifier": "tf/svg-a11y"
+ },
+ {
+  "id": 19480,
+  "identifier": "wg/svg"
+ },
+ {
   "id": 80620,
   "identifier": "cg/architypes"
  },
@@ -794,6 +810,82 @@
  {
   "id": 67710,
   "identifier": "cg/webscreens"
+ },
+ {
+  "id": 74168,
+  "identifier": "wg/secondscreen"
+ },
+ {
+  "id": 138327,
+  "identifier": "cg/htmlvoc"
+ },
+ {
+  "id": 115642,
+  "identifier": "cg/semind"
+ },
+ {
+  "id": 92610,
+  "identifier": "cg/hclscg"
+ },
+ {
+  "id": 142387,
+  "identifier": "cg/service-disco"
+ },
+ {
+  "id": 101220,
+  "identifier": "wg/service-workers"
+ },
+ {
+  "id": 95701,
+  "identifier": "cg/shex"
+ },
+ {
+  "id": 97795,
+  "identifier": "cg/silver"
+ },
+ {
+  "id": 94845,
+  "identifier": "tf/silver-tf"
+ },
+ {
+  "id": 95188,
+  "identifier": "cg/socialcg"
+ },
+ {
+  "id": 110151,
+  "identifier": "cg/solid"
+ },
+ {
+  "id": 106744,
+  "identifier": "tf/i18n-sealreq"
+ },
+ {
+  "id": 75471,
+  "identifier": "wg/sdw"
+ },
+ {
+  "id": 130562,
+  "identifier": "cg/speced-cg"
+ },
+ {
+  "id": 110437,
+  "identifier": "tf/pronunciation-tf"
+ },
+ {
+  "id": 80261,
+  "identifier": "cg/sport-schema"
+ },
+ {
+  "id": 137496,
+  "identifier": "cg/sustainability"
+ },
+ {
+  "id": 62441,
+  "identifier": "cg/sustyweb"
+ },
+ {
+  "id": 104525,
+  "identifier": "cg/sync-media-pub"
  },
  {
   "id": 143412,
@@ -1026,5 +1118,9 @@
  {
   "id": 144015,
   "identifier": "cg/nostr"
+ },
+ {
+  "id": 116117,
+  "identifier": "cg/zot"
  }
 ]
