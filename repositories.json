@@ -6799,6 +6799,23 @@
   }
  },
  {
+  "name": "blockchain",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/blockchain"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "board",
   "owner": {
    "login": "w3c"
@@ -7836,6 +7853,48 @@
    "policy": "open",
    "repo-type": [
     "homepage"
+   ]
+  }
+ },
+ {
+  "name": "dmpl",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dmpl",
+  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dms",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dms/",
+  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
