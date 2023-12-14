@@ -6146,6 +6146,29 @@
   }
  },
  {
+  "name": "ServiceWorker",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ServiceWorker/",
+  "description": "Service Workers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/service-workers"
+   ],
+   "contacts": [
+    "ylafon",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "WebID",
   "owner": {
    "login": "w3c"
@@ -6417,7 +6440,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -8539,6 +8562,111 @@
   }
  },
  {
+  "name": "hcls",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-ccda-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "XSLT to tranform C-CDA into O-RIM RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-drug-drug-interaction",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
+  "description": "W3C HCLS Drug-Drug Interaction",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-fhir-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Sketching out an RDF representation for FHIR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-natural-product-drug-interaction-fair",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "hlreq",
   "owner": {
    "login": "w3c"
@@ -8549,7 +8677,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -8943,7 +9071,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9142,7 +9270,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9165,7 +9293,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9690,27 +9818,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "mathml.old",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "MathML editors' draft",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathml4"
-   ],
-   "contacts": [
-    "bert-github"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -10579,7 +10686,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -10795,26 +10902,6 @@
   }
  },
  {
-  "name": "multicast-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Docs for initial W3C Multicast Community Group proposal",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/multicast"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "musicxml",
   "owner": {
    "login": "w3c"
@@ -10917,6 +11004,27 @@
     "plehegar"
    ],
    "shortName": "network-error-logging",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "openscreenprotocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
+  "description": "Open Screen Protocol",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
    "repo-type": [
     "rec-track"
    ]
@@ -11484,6 +11592,28 @@
    ],
    "group": [
     "wg/i18n-core"
+   ]
+  }
+ },
+ {
+  "name": "presentation-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/presentation-api/",
+  "description": "Presentation API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "shortName": "presentation-api",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -12177,6 +12307,28 @@
   }
  },
  {
+  "name": "remote-playback",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/remote-playback/",
+  "description": "Remote Playback API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "shortName": "remote-playback",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "reporting",
   "owner": {
    "login": "w3c"
@@ -12329,25 +12481,6 @@
   }
  },
  {
-  "name": "scholarly-html",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Repository for the Scholarly HTML Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/scholarlyhtml"
-   ],
-   "contacts": [
-    "iherman",
-    "darobin"
-   ],
-   "policy": "open"
-  }
- },
- {
   "name": "screen-fold",
   "owner": {
    "login": "w3c"
@@ -12468,7 +12601,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-sealreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -12478,6 +12611,50 @@
     "note"
    ],
    "policy": "restricted"
+  }
+ },
+ {
+  "name": "secondscreen-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/secondscreen-charter/",
+  "description": "Draft charter for the Second Screen Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "anssik",
+    "tidoust"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "secondscreen-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2014/secondscreen/",
+  "description": "Home page of the Second Screen Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "anssik",
+    "tidoust"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
   }
  },
  {
@@ -12567,6 +12744,28 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "service-workers-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/sw/",
+  "description": "Service Workers Working Group pages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/service-workers"
+   ],
+   "contacts": [
+    "ylafon",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -13188,7 +13387,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-tlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -17067,6 +17266,27 @@
    ],
    "shortname": [
     "webvtt"
+   ]
+  }
+ },
+ {
+  "name": "window-management",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/window-management/",
+  "description": "Window Management API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
