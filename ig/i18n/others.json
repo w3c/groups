@@ -205,52 +205,5 @@
    ],
    "policy": "restricted"
   }
- },
- {
-  "name": "sealreq",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Southeast Asian layout task force",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "tf/i18n-sealreq",
-    "ig/i18n",
-    "wg/i18n-core"
-   ],
-   "contacts": [
-    "rishida"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "policy": "restricted"
-  }
- },
- {
-  "name": "tlreq",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/International/tlreq/",
-  "description": "Tibetan Layout Requirements document",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "tf/i18n-tlreq",
-    "ig/i18n",
-    "wg/i18n-core"
-   ],
-   "contacts": [
-    "rishida"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "policy": "restricted"
-  }
  }
 ]
