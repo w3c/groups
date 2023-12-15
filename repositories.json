@@ -5910,6 +5910,66 @@
   }
  },
  {
+  "name": "IMSC-1.0.1_Text_TestContent",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "IMSC-1.1_Image_TestContent",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "IMSC-1.1_Text_TestContent",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "IndexedDB",
   "owner": {
    "login": "w3c"
@@ -6086,6 +6146,29 @@
   }
  },
  {
+  "name": "ServiceWorker",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ServiceWorker/",
+  "description": "Service Workers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/service-workers"
+   ],
+   "contacts": [
+    "ylafon",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "WebID",
   "owner": {
    "login": "w3c"
@@ -6253,6 +6336,28 @@
     "ruoxiran"
    ],
    "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "adpt",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/adpt/",
+  "description": "Audio Description Profile of TTML2",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "policy": "open",
    "repo-type": [
     "rec-track"
    ]
@@ -6864,6 +6969,28 @@
   }
  },
  {
+  "name": "charter-timed-text",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/charter-timed-text/",
+  "description": "Timed Text Working Group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "charter-webperf",
   "owner": {
    "login": "w3c"
@@ -7341,6 +7468,68 @@
    "shortName": "danmaku",
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "dapt",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dapt/",
+  "description": "Dubbing and Audio description Profiles of TTML2",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "dapt-reqs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dapt-reqs/",
+  "description": "Requirements on Dubbing and Audio description Profiles of TTML2",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "dapt-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Tests for Dubbing and Audio description Profiles of TTML2 ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "tests"
    ]
   }
  },
@@ -8373,6 +8562,111 @@
   }
  },
  {
+  "name": "hcls",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-ccda-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "XSLT to tranform C-CDA into O-RIM RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-drug-drug-interaction",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
+  "description": "W3C HCLS Drug-Drug Interaction",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-fhir-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Sketching out an RDF representation for FHIR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "hcls-natural-product-drug-interaction-fair",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "contacts": [
+    "eric"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "hlreq",
   "owner": {
    "login": "w3c"
@@ -8830,6 +9124,114 @@
    "shortName": "image-resource",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "imsc",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/imsc/",
+  "description": "TTML Profiles for Internet Media Subtitles and Captions (IMSC)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "imsc-hrm",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html",
+  "description": "IMSC Hypothetical Render Model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "imsc-hrm-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "IMSC-HRM tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "imsc-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/imsc-tests/",
+  "description": "IMSC test suites",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "imsc-vnext-reqs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/imsc-vnext-reqs/",
+  "description": "IMSC Next version Requirements",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
    ]
   }
  },
@@ -10649,6 +11051,27 @@
   }
  },
  {
+  "name": "openscreenprotocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
+  "description": "Open Screen Protocol",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "opentrack-cg",
   "owner": {
    "login": "w3c"
@@ -11126,6 +11549,28 @@
   }
  },
  {
+  "name": "png-hdr-pq",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/png-hdr-pq/",
+  "description": "Timed Text Working Group and PNG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "pointerevents",
   "owner": {
    "login": "w3c"
@@ -11188,6 +11633,28 @@
    ],
    "group": [
     "wg/i18n-core"
+   ]
+  }
+ },
+ {
+  "name": "presentation-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/presentation-api/",
+  "description": "Presentation API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "shortName": "presentation-api",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -11881,6 +12348,28 @@
   }
  },
  {
+  "name": "remote-playback",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/remote-playback/",
+  "description": "Remote Playback API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "shortName": "remote-playback",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "reporting",
   "owner": {
    "login": "w3c"
@@ -12118,6 +12607,50 @@
   }
  },
  {
+  "name": "sdw",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2020/sdw/",
+  "description": "Repository for the Spatial Data on the Web Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/sdw"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "repo-type": [
+    "rec-track",
+    "note",
+    "homepage",
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "sdw-sosa-ssn",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository of the Spatial Data on the Web Working Group for the SOSA/SSN vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/sdw"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "sealreq",
   "owner": {
    "login": "w3c"
@@ -12127,7 +12660,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    106744,
+    "tf/i18n-sealreq",
     "ig/i18n",
     "wg/i18n-core"
    ],
@@ -12138,6 +12671,50 @@
     "note"
    ],
    "policy": "restricted"
+  }
+ },
+ {
+  "name": "secondscreen-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/secondscreen-charter/",
+  "description": "Draft charter for the Second Screen Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "anssik",
+    "tidoust"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "secondscreen-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2014/secondscreen/",
+  "description": "Home page of the Second Screen Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "anssik",
+    "tidoust"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
   }
  },
  {
@@ -12231,6 +12808,51 @@
   }
  },
  {
+  "name": "service-workers-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/sw/",
+  "description": "Service Workers Working Group pages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/service-workers"
+   ],
+   "contacts": [
+    "ylafon",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "silver",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/silver/",
+  "description": "Accessibility Guidelines \"Silver\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/silver-tf"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track",
+    "note"
+   ]
+  }
+ },
+ {
   "name": "simple-ruby",
   "owner": {
    "login": "w3c"
@@ -12292,6 +12914,27 @@
    ],
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "sparql-dev",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/sparql-dev/",
+  "description": "SPARQL dev Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/sparql-dev"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -12580,6 +13223,70 @@
   }
  },
  {
+  "name": "sustyweb",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/sustyweb/",
+  "description": "Sustainable Web Design Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/sustyweb"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "svg-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "SVG Accessibility API Mappings",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/svg"
+   ],
+   "contacts": [
+    "michael-n-cooper",
+    "svgeesus"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "svgwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "SVG Working Group specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/svg"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "shortName": "svgwg",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "sync-media-pub",
   "owner": {
    "login": "w3c"
@@ -12624,6 +13331,27 @@
   }
  },
  {
+  "name": "tdm-reservation-protocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/tdmrep/",
+  "description": "Repository of the Text and Data Mining Reservation Protocol Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/tdmrep"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "text_direction_tests",
   "owner": {
    "login": "w3c"
@@ -12640,6 +13368,27 @@
    ],
    "repo-type": [
     "homepage"
+   ]
+  }
+ },
+ {
+  "name": "timed-text-dashboard",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Timed Text Working Group Dashboard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "others"
    ]
   }
  },
@@ -12697,7 +13446,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    97249,
+    "tf/i18n-tlreq",
     "ig/i18n",
     "wg/i18n-core"
    ],
@@ -12926,6 +13675,343 @@
    "shortName": "trusted-types",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-module-cjk-ext-1",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Enhancements for Japanese subtitles",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-module-css",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-module-karaoke",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/tt-module-karaoke/",
+  "description": "W3C Specification of TTML Extensions for Karaoke",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-module-live",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/tt-module-live/tt-live-1/spec/tt-live.html",
+  "description": "TTML Live Extensions Module",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-module-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-module-vr",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "tt-profile-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/tt-profile-registry/",
+  "description": "Profile registry for TTML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "tt-reqs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/tt-reqs/ttml2-2e-reqs/",
+  "description": "Timed Text requirements",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "tmichel"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "ttml-webvtt-mapping",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ttml-webvtt-mapping/",
+  "description": "TTML to WebVTT mapping",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "ttml1",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/ttml1/",
+  "description": "Timed Text Markup Language 1 (TTML1)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "ttml1-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Tests for TTML1",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "ttml2",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ttml2/",
+  "description": "Timed Text Markup Language 2 (TTML2)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "ttml2-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "TTML2 Tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "ttml3",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/ttml3/",
+  "description": "Timed Text Markup Language 3 (TTML3)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "ttml3-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "TTML3 Tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "ttwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "TT Working Group requirements",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/timed-text"
+   ],
+   "contacts": [
+    "tmichel"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -16228,7 +17314,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    34314,
+    "wg/timed-text",
     "cg/texttracks"
    ],
    "contacts": [
@@ -16240,6 +17326,27 @@
    ],
    "shortname": [
     "webvtt"
+   ]
+  }
+ },
+ {
+  "name": "window-management",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/window-management/",
+  "description": "Window Management API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/secondscreen"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -16763,6 +17870,27 @@
   }
  },
  {
+  "name": "writing-accessible-svg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Guidance on how to write SVG that is accessible",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/svg"
+   ],
+   "contacts": [
+    "chaals",
+    "svgeesus"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "xaur",
   "owner": {
    "login": "w3c"
@@ -16843,6 +17971,27 @@
     "samuelweiler"
    ],
    "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "design-reviews",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "W3C specs and API reviews ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "contacts": [
+    "ylafon"
+   ],
+   "policy": "restricted",
    "repo-type": [
     "tool"
    ]
