@@ -53,7 +53,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -184,8 +184,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    96702,
-    72665,
+    "tf/i18n-hlreq",
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -428,8 +428,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    96702,
-    72665,
+    "tf/i18n-hlreq",
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -475,7 +475,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -498,7 +498,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -606,7 +606,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -649,8 +649,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-sealreq",
-    72665,
+    106744,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -757,8 +757,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-tlreq",
-    72665,
+    97249,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
