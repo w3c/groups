@@ -7339,27 +7339,6 @@
   }
  },
  {
-  "name": "css-print",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/css-print/",
-  "description": "CSS Print ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/cssprint"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "csswg-apiclient",
   "owner": {
    "login": "w3c"
