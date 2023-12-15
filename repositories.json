@@ -4467,6 +4467,926 @@
   }
  },
  {
+  "name": "cts",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "https://gpuweb.github.io/cts/",
+  "description": "WebGPU Conformance Test Suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu",
+    "wg/gpu"
+   ],
+   "contacts": [
+    "tidoust",
+    "Kangz",
+    "grorg"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "gpuweb",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "http://webgpu.io",
+  "description": "Where the GPU for the Web work happens!",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu",
+    "wg/gpu"
+   ],
+   "contacts": [
+    "tidoust",
+    "Kangz",
+    "kdashg"
+   ],
+   "repo-type": [
+    "cg-report",
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "WebXR-WebGPU-Binding",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "administrivia",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "A repo for managing the adminstrative tasks of the Immersive Web Group. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "anchors",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/anchors/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "capture",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/capture/",
+  "description": "Capture composited content, layers and real world through a privacy preserving high level API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "community-resources",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Common resources for all Immersive Web Community Group repositories",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "computer-vision",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "A feature repo for exploring computer vision APIs for XR. Feature Lead: Blair MacIntyre",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "depth-sensing",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Specification: https://immersive-web.github.io/depth-sensing/ Explainer: https://github.com/immersive-web/depth-sensing/blob/main/explainer.md",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "detached-elements",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Using HTML/CSS to bring elements outside the window in Immersive Web browsers. Feature leads: Dean Jackson  and Ada Rose Cannon",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dom-overlays",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/dom-overlays/",
+  "description": "A feature incubation repo for layering DOM content on/in WebXR content. Feature lead: Piotr Bialecki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "front-facing-camera",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Incubation repository for access to front-facing-camera. Repo contact  Piotr Bialecki and Rik Cabanier",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "geo-alignment",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "For work toward a feature in WebXR to geo-align coordinate systems. Feature lead: Blair MacIntyre",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "hit-test",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/hit-test/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "homepage",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://www.w3.org/immersive-web/",
+  "description": "Homepage of the Immersive Web WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "immersive-web-weekly",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "The site and content for the Immersive Web Weekly newsletter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "immersive-web.github.io",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Organization page for the Immersive Web Working Group and Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "immersiveweb.dev",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersiveweb.dev",
+  "description": "Repo for immersiveweb.dev",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "layers",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/layers/",
+  "description": "A feature repo for working on multi-layer support in WebXR. Feature leads: Rik Cabanier and  Artem Bolgar (Oculus)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "lighting-estimation",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/lighting-estimation/",
+  "description": "A proposal for adding lighting estimation API to WebXR Device API. Feature lead: Kip Gilbert",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "marker-tracking",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/marker-tracking/",
+  "description": "Additions to the WebXR Device API for Marker Tracking. Repo contacts Rik Cabanier and Piotr Bialecki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "model-element",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/model-element/",
+  "description": "Repository for the <model> tag. Feature leads: Marcos Cáceres and Laszlo Gombos",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "navigation",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Repository for the discussion and research in to navigating from page to page whilst staying in immersive mode. Feature leads: Rik Cabanier and Brandon Jones",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "occlusion",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "performance-improvements",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "A feature-incubation repo for XR-related performance improvements. Feature lead: Trevor F. Smith",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "privacy-and-security",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Cross specification concerns and suggestions for privacy and security for the immersive web (Feature lead: Mounir Lamouri)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Initial proposals for future Immersive Web work (see README)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "raw-camera-access",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Spec draft: https://immersive-web.github.io/raw-camera-access/.  Repository for experimentation around exposing raw camera access through WebXR Device API. Feature leads: Piotr Bialecki, Alex Turner, Nicholas Butko",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "real-world-geometry",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "real-world-meshing",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/real-world-meshing/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "spatial-favicons",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "A proposal for favicon support for  a new data type. Feature lead: Rik Cabanier",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "webvr",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Archival repository for the legacy WebVR Specification. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "webvr-polyfill",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "http://immersive-web.github.io/webvr-polyfill/examples/",
+  "description": "Use WebVR today, without requiring a special browser build.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "webvr-polyfill-dpdb",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://dpdb.webvr.rocks/dpdb.json",
+  "description": "An up-to-date Device Parameter Database for the WebVR Polyfill",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "webxr",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr/",
+  "description": "Repository for the WebXR Device API Specification.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "shortName": "webxr",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "webxr-accessibility",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "WebXR Accessibility",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "webxr-ar-module",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr-ar-module",
+  "description": "Repository for the WebXR Augmented Reality Module",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "shortName": "webxr-ar-module",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "webxr-gamepads-module",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr-gamepads-module",
+  "description": "Repository for the WebXR Gamepads Module",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "shortName": "webxr-gamepads-module",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "webxr-hand-input",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr-hand-input/",
+  "description": "A feature repo for working on hand input support in WebXR. Feature lead: Manish Goregaokar",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "shortName": "webxr-hand-input",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "webxr-input-profiles",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr-input-profiles",
+  "description": "WebXR Gamepad assets, source library, and schema",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "webxr-layers-polyfill",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "WebXR Layers Polyfill library. Lead: Rik Cabanier.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "webxr-test-api",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr-test-api/",
+  "description": "WPT testing API for WebXR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "open-ui",
   "owner": {
    "login": "openui"
@@ -4990,66 +5910,6 @@
   }
  },
  {
-  "name": "IMSC-1.0.1_Text_TestContent",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "IMSC-1.1_Image_TestContent",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "IMSC-1.1_Text_TestContent",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
   "name": "IndexedDB",
   "owner": {
    "login": "w3c"
@@ -5226,29 +6086,6 @@
   }
  },
  {
-  "name": "ServiceWorker",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/ServiceWorker/",
-  "description": "Service Workers",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/service-workers"
-   ],
-   "contacts": [
-    "ylafon",
-    "sideshowbarker"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "policy": "open"
-  }
- },
- {
   "name": "WebID",
   "owner": {
    "login": "w3c"
@@ -5422,28 +6259,6 @@
   }
  },
  {
-  "name": "adpt",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/adpt/",
-  "description": "Audio Description Profile of TTML2",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "afrlreq",
   "owner": {
    "login": "w3c"
@@ -5520,7 +6335,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -5902,23 +6717,6 @@
   }
  },
  {
-  "name": "blockchain",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/blockchain"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "board",
   "owner": {
    "login": "w3c"
@@ -6062,28 +6860,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "charter-timed-text",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/charter-timed-text/",
-  "description": "Timed Text Working Group charter",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "process"
    ]
   }
  },
@@ -6569,68 +7345,6 @@
   }
  },
  {
-  "name": "dapt",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/dapt/",
-  "description": "Dubbing and Audio description Profiles of TTML2",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "dapt-reqs",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/dapt-reqs/",
-  "description": "Requirements on Dubbing and Audio description Profiles of TTML2",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "dapt-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Tests for Dubbing and Audio description Profiles of TTML2 ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
   "name": "das-charter",
   "owner": {
    "login": "w3c"
@@ -6956,48 +7670,6 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
-  }
- },
- {
-  "name": "dmpl",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/dmpl",
-  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/conv"
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "dms",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/dms/",
-  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/conv"
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -7613,6 +8285,27 @@
   }
  },
  {
+  "name": "gpuweb-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2020/gpu/",
+  "description": "Home page of the GPU for the Web Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/gpu"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "graphics-aam",
   "owner": {
    "login": "w3c"
@@ -7680,111 +8373,6 @@
   }
  },
  {
-  "name": "hcls",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open"
-  }
- },
- {
-  "name": "hcls-ccda-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "XSLT to tranform C-CDA into O-RIM RDF",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open"
-  }
- },
- {
-  "name": "hcls-drug-drug-interaction",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
-  "description": "W3C HCLS Drug-Drug Interaction",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open"
-  }
- },
- {
-  "name": "hcls-fhir-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Sketching out an RDF representation for FHIR",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open"
-  }
- },
- {
-  "name": "hcls-natural-product-drug-interaction-fair",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open"
-  }
- },
- {
   "name": "hlreq",
   "owner": {
    "login": "w3c"
@@ -7794,8 +8382,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    96702,
-    72665,
+    "tf/i18n-hlreq",
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -7894,6 +8482,28 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "htmlwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/groups/wg/htmlwg",
+  "description": "HTML Working Group ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/htmlwg"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -8166,8 +8776,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    96702,
-    72665,
+    "tf/i18n-hlreq",
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -8224,114 +8834,6 @@
   }
  },
  {
-  "name": "imsc",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/imsc/",
-  "description": "TTML Profiles for Internet Media Subtitles and Captions (IMSC)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "imsc-hrm",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html",
-  "description": "IMSC Hypothetical Render Model",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "imsc-hrm-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "IMSC-HRM tests",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "imsc-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/imsc-tests/",
-  "description": "IMSC test suites",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "imsc-vnext-reqs",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/imsc-vnext-reqs/",
-  "description": "IMSC Next version Requirements",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "input-events",
   "owner": {
    "login": "w3c"
@@ -8366,7 +8868,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -8389,7 +8891,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -8914,6 +9416,27 @@
    "policy": "open",
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "mathml.old",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "MathML editors' draft",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -9782,7 +10305,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9998,6 +10521,26 @@
   }
  },
  {
+  "name": "multicast-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Docs for initial W3C Multicast Community Group proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/multicast"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "musicxml",
   "owner": {
    "login": "w3c"
@@ -10100,27 +10643,6 @@
     "plehegar"
    ],
    "shortName": "network-error-logging",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "openscreenprotocol",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
-  "description": "Open Screen Protocol",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/secondscreen"
-   ],
-   "contacts": [
-    "tidoust"
-   ],
    "repo-type": [
     "rec-track"
    ]
@@ -10604,28 +11126,6 @@
   }
  },
  {
-  "name": "png-hdr-pq",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/png-hdr-pq/",
-  "description": "Timed Text Working Group and PNG",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "pointerevents",
   "owner": {
    "login": "w3c"
@@ -10688,28 +11188,6 @@
    ],
    "group": [
     "wg/i18n-core"
-   ]
-  }
- },
- {
-  "name": "presentation-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/presentation-api/",
-  "description": "Presentation API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/secondscreen"
-   ],
-   "contacts": [
-    "tidoust"
-   ],
-   "shortName": "presentation-api",
-   "repo-type": [
-    "rec-track"
    ]
   }
  },
@@ -11403,28 +11881,6 @@
   }
  },
  {
-  "name": "remote-playback",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/remote-playback/",
-  "description": "Remote Playback API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/secondscreen"
-   ],
-   "contacts": [
-    "tidoust"
-   ],
-   "shortName": "remote-playback",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "reporting",
   "owner": {
    "login": "w3c"
@@ -11577,6 +12033,25 @@
   }
  },
  {
+  "name": "scholarly-html",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Scholarly HTML Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/scholarlyhtml"
+   ],
+   "contacts": [
+    "iherman",
+    "darobin"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "screen-fold",
   "owner": {
    "login": "w3c"
@@ -11643,50 +12118,6 @@
   }
  },
  {
-  "name": "sdw",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/2020/sdw/",
-  "description": "Repository for the Spatial Data on the Web Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/sdw"
-   ],
-   "contacts": [
-    "bert-github"
-   ],
-   "repo-type": [
-    "rec-track",
-    "note",
-    "homepage",
-    "process"
-   ]
-  }
- },
- {
-  "name": "sdw-sosa-ssn",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Repository of the Spatial Data on the Web Working Group for the SOSA/SSN vocabulary",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/sdw"
-   ],
-   "contacts": [
-    "bert-github"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "sealreq",
   "owner": {
    "login": "w3c"
@@ -11696,8 +12127,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-sealreq",
-    72665,
+    106744,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -11707,50 +12138,6 @@
     "note"
    ],
    "policy": "restricted"
-  }
- },
- {
-  "name": "secondscreen-charter",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/secondscreen-charter/",
-  "description": "Draft charter for the Second Screen Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/secondscreen"
-   ],
-   "contacts": [
-    "anssik",
-    "tidoust"
-   ],
-   "repo-type": [
-    "process"
-   ]
-  }
- },
- {
-  "name": "secondscreen-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/2014/secondscreen/",
-  "description": "Home page of the Second Screen Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/secondscreen"
-   ],
-   "contacts": [
-    "anssik",
-    "tidoust"
-   ],
-   "repo-type": [
-    "homepage"
-   ]
   }
  },
  {
@@ -11844,51 +12231,6 @@
   }
  },
  {
-  "name": "service-workers-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/sw/",
-  "description": "Service Workers Working Group pages",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/service-workers"
-   ],
-   "contacts": [
-    "ylafon",
-    "sideshowbarker"
-   ],
-   "repo-type": [
-    "homepage"
-   ]
-  }
- },
- {
-  "name": "silver",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/silver/",
-  "description": "Accessibility Guidelines \"Silver\"",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "tf/silver-tf"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "rec-track",
-    "note"
-   ]
-  }
- },
- {
   "name": "simple-ruby",
   "owner": {
    "login": "w3c"
@@ -11950,27 +12292,6 @@
    ],
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "sparql-dev",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/sparql-dev/",
-  "description": "SPARQL dev Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/sparql-dev"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -12259,70 +12580,6 @@
   }
  },
  {
-  "name": "sustyweb",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/sustyweb/",
-  "description": "Sustainable Web Design Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/sustyweb"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "svg-aam",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "SVG Accessibility API Mappings",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/svg"
-   ],
-   "contacts": [
-    "michael-n-cooper",
-    "svgeesus"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "svgwg",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "SVG Working Group specifications",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/svg"
-   ],
-   "contacts": [
-    "caribouW3"
-   ],
-   "shortName": "svgwg",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "sync-media-pub",
   "owner": {
    "login": "w3c"
@@ -12367,27 +12624,6 @@
   }
  },
  {
-  "name": "tdm-reservation-protocol",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/tdmrep/",
-  "description": "Repository of the Text and Data Mining Reservation Protocol Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/tdmrep"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "text_direction_tests",
   "owner": {
    "login": "w3c"
@@ -12404,27 +12640,6 @@
    ],
    "repo-type": [
     "homepage"
-   ]
-  }
- },
- {
-  "name": "timed-text-dashboard",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Timed Text Working Group Dashboard",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "others"
    ]
   }
  },
@@ -12482,8 +12697,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/i18n-tlreq",
-    72665,
+    97249,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -12711,343 +12926,6 @@
    "shortName": "trusted-types",
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-module-cjk-ext-1",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "Enhancements for Japanese subtitles",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-module-css",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-module-karaoke",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/tt-module-karaoke/",
-  "description": "W3C Specification of TTML Extensions for Karaoke",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-module-live",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/tt-module-live/tt-live-1/spec/tt-live.html",
-  "description": "TTML Live Extensions Module",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-module-registry",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-module-vr",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "tt-profile-registry",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/tt-profile-registry/",
-  "description": "Profile registry for TTML",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "tt-reqs",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/tt-reqs/ttml2-2e-reqs/",
-  "description": "Timed Text requirements",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "tmichel"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "ttml-webvtt-mapping",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/ttml-webvtt-mapping/",
-  "description": "TTML to WebVTT mapping",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "ttml1",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/ttml1/",
-  "description": "Timed Text Markup Language 1 (TTML1)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "ttml1-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Tests for TTML1",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "ttml2",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/ttml2/",
-  "description": "Timed Text Markup Language 2 (TTML2)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "ttml2-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "TTML2 Tests",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "ttml3",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/ttml3/",
-  "description": "Timed Text Markup Language 3 (TTML3)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "ttml3-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "TTML3 Tests",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "ttwg",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "TT Working Group requirements",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "tmichel"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "homepage"
    ]
   }
  },
@@ -15108,6 +14986,27 @@
   }
  },
  {
+  "name": "web-advertising",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-advertising/dashboard/",
+  "description": "Web Advertising BG - https://www.w3.org/community/web-adv/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "bg/web-adv"
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "web-locks",
   "owner": {
    "login": "w3c"
@@ -16329,7 +16228,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/timed-text",
+    34314,
     "cg/texttracks"
    ],
    "contacts": [
@@ -16341,27 +16240,6 @@
    ],
    "shortname": [
     "webvtt"
-   ]
-  }
- },
- {
-  "name": "window-management",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/window-management/",
-  "description": "Window Management API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/secondscreen"
-   ],
-   "contacts": [
-    "tidoust"
-   ],
-   "repo-type": [
-    "rec-track"
    ]
   }
  },
@@ -16885,27 +16763,6 @@
   }
  },
  {
-  "name": "writing-accessible-svg",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Guidance on how to write SVG that is accessible",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/svg"
-   ],
-   "contacts": [
-    "chaals",
-    "svgeesus"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "xaur",
   "owner": {
    "login": "w3c"
@@ -16986,27 +16843,6 @@
     "samuelweiler"
    ],
    "policy": "open",
-   "repo-type": [
-    "tool"
-   ]
-  }
- },
- {
-  "name": "design-reviews",
-  "owner": {
-   "login": "w3ctag"
-  },
-  "description": "W3C specs and API reviews ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/tag"
-   ],
-   "contacts": [
-    "ylafon"
-   ],
-   "policy": "restricted",
    "repo-type": [
     "tool"
    ]
