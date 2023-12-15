@@ -6440,7 +6440,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -7336,6 +7336,27 @@
     "rec-track"
    ],
    "policy": "open"
+  }
+ },
+ {
+  "name": "css-print",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/css-print/",
+  "description": "CSS Print ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cssprint"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
   }
  },
  {
@@ -8656,7 +8677,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9050,7 +9071,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9249,7 +9270,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9272,7 +9293,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9797,27 +9818,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "mathml.old",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "MathML editors' draft",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathml4"
-   ],
-   "contacts": [
-    "bert-github"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -10686,7 +10686,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -10898,26 +10898,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "multicast-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Docs for initial W3C Multicast Community Group proposal",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/multicast"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -12501,25 +12481,6 @@
   }
  },
  {
-  "name": "scholarly-html",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Repository for the Scholarly HTML Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/scholarlyhtml"
-   ],
-   "contacts": [
-    "iherman",
-    "darobin"
-   ],
-   "policy": "open"
-  }
- },
- {
   "name": "screen-fold",
   "owner": {
    "login": "w3c"
@@ -12640,7 +12601,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-sealreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
@@ -13426,7 +13387,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-tlreq",
-    "ig/i18n",
+    72665,
     "wg/i18n-core"
    ],
    "contacts": [
