@@ -1,5 +1,9 @@
 [
  {
+  "id": 125720,
+  "identifier": "cg/foss-3d"
+ },
+ {
   "id": 114156,
   "identifier": "cg/act-r"
  },
@@ -44,6 +48,10 @@
   "identifier": "cg/accessibility4children"
  },
  {
+  "id": 77612,
+  "identifier": "cg/accesslearn"
+ },
+ {
   "id": 83907,
   "identifier": "wg/apa"
  },
@@ -76,6 +84,14 @@
   "identifier": "tf/i18n-alreq"
  },
  {
+  "id": 55430,
+  "identifier": "cg/argumentation"
+ },
+ {
+  "id": 125854,
+  "identifier": "cg/atomic-data"
+ },
+ {
   "id": 110716,
   "identifier": "cg/audio-comgp"
  },
@@ -90,6 +106,10 @@
  {
   "id": 139357,
   "identifier": "cg/av4browsers"
+ },
+ {
+  "id": 141004,
+  "identifier": "cg/planning"
  },
  {
   "id": 78250,
@@ -132,6 +152,10 @@
   "identifier": "cg/bitcoin"
  },
  {
+  "id": 88235,
+  "identifier": "cg/blockchain"
+ },
+ {
   "id": 149084,
   "identifier": "tf/board-audit"
  },
@@ -160,6 +184,10 @@
   "identifier": "other/board"
  },
  {
+  "id": 140848,
+  "identifier": "cg/bits"
+ },
+ {
   "id": 49799,
   "identifier": "wg/browser-tools-testing"
  },
@@ -178,6 +206,10 @@
  {
   "id": 85874,
   "identifier": "cg/csvw"
+ },
+ {
+  "id": 142919,
+  "identifier": "cg/cv3"
  },
  {
   "id": 32061,
@@ -236,6 +268,10 @@
   "identifier": "cg/cns"
  },
  {
+  "id": 113314,
+  "identifier": "cg/conv"
+ },
+ {
   "id": 72898,
   "identifier": "cg/credentials"
  },
@@ -250,6 +286,10 @@
  {
   "id": 107442,
   "identifier": "cg/dpvcg"
+ },
+ {
+  "id": 75457,
+  "identifier": "cg/datavis"
  },
  {
   "id": 143005,
@@ -268,8 +308,16 @@
   "identifier": "cg/applied-did-and-vc"
  },
  {
+  "id": 77570,
+  "identifier": "cg/decsharing"
+ },
+ {
   "id": 47948,
   "identifier": "cg/declarative3d"
+ },
+ {
+  "id": 143377,
+  "identifier": "cg/html-dynamic-extensions"
  },
  {
   "id": 116753,
@@ -278,6 +326,10 @@
  {
   "id": 43696,
   "identifier": "wg/das"
+ },
+ {
+  "id": 101721,
+  "identifier": "cg/digitalassetmanagement"
  },
  {
   "id": 108594,
@@ -340,136 +392,12 @@
   "identifier": "cg/fibo"
  },
  {
-  "id": 96877,
-  "identifier": "cg/gpu"
- },
- {
-  "id": 96877,
-  "identifier": "cg/gpu"
- },
- {
-  "id": 125519,
-  "identifier": "wg/gpu"
- },
- {
-  "id": 125519,
-  "identifier": "wg/gpu"
- },
- {
   "id": 49726,
   "identifier": "cg/games"
  },
  {
   "id": 148246,
   "identifier": "cg/gai"
- },
- {
-  "id": 115520,
-  "identifier": "wg/htmlwg"
- },
- {
-  "id": 115520,
-  "identifier": "wg/htmlwg"
- },
- {
-  "id": 52443,
-  "identifier": "cg/html5spec"
- },
- {
-  "id": 52443,
-  "identifier": "cg/html5spec"
- },
- {
-  "id": 78701,
-  "identifier": "cg/schemed"
- },
- {
-  "id": 78701,
-  "identifier": "cg/schemed"
- },
- {
-  "id": 96702,
-  "identifier": "tf/i18n-hlreq"
- },
- {
-  "id": 96702,
-  "identifier": "tf/i18n-hlreq"
- },
- {
-  "id": 143541,
-  "identifier": "cg/humancentricai"
- },
- {
-  "id": 143541,
-  "identifier": "cg/humancentricai"
- },
- {
-  "id": 71940,
-  "identifier": "cg/humanservices"
- },
- {
-  "id": 71940,
-  "identifier": "cg/humanservices"
- },
- {
-  "id": 64267,
-  "identifier": "cg/hydra"
- },
- {
-  "id": 64267,
-  "identifier": "cg/hydra"
- },
- {
-  "id": 117874,
-  "identifier": "cg/immersive-captions"
- },
- {
-  "id": 117874,
-  "identifier": "cg/immersive-captions"
- },
- {
-  "id": 87846,
-  "identifier": "cg/immersive-web"
- },
- {
-  "id": 87846,
-  "identifier": "cg/immersive-web"
- },
- {
-  "id": 109735,
-  "identifier": "wg/immersive-web"
- },
- {
-  "id": 109735,
-  "identifier": "wg/immersive-web"
- },
- {
-  "id": 103226,
-  "identifier": "bg/web-adv"
- },
- {
-  "id": 103226,
-  "identifier": "bg/web-adv"
- },
- {
-  "id": 104979,
-  "identifier": "tf/iip"
- },
- {
-  "id": 60884,
-  "identifier": "cg/informationarchitecture"
- },
- {
-  "id": 143566,
-  "identifier": "cg/inter-cc"
- },
- {
-  "id": 83380,
-  "identifier": "cg/interledger"
- },
- {
-  "id": 72665,
-  "identifier": "ig/i18n"
  },
  {
   "id": 32113,
@@ -516,10 +444,6 @@
   "identifier": "cg/low-vision"
  },
  {
-  "id": 83156,
-  "identifier": "cg/ml-schema"
- },
- {
   "id": 145679,
   "identifier": "cg/managed-components"
  },
@@ -530,10 +454,6 @@
  {
   "id": 35549,
   "identifier": "wg/math"
- },
- {
-  "id": 112607,
-  "identifier": "cg/mathml4"
  },
  {
   "id": 141517,
@@ -560,10 +480,6 @@
   "identifier": "wg/miniapps"
  },
  {
-  "id": 98377,
-  "identifier": "cg/mixedreality"
- },
- {
   "id": 66524,
   "identifier": "tf/mobile-a11y-tf"
  },
@@ -574,10 +490,6 @@
  {
   "id": 76245,
   "identifier": "cg/webtiming"
- },
- {
-  "id": 131839,
-  "identifier": "cg/multicast"
  },
  {
   "id": 81249,
@@ -610,10 +522,6 @@
  {
   "id": 148948,
   "identifier": "cg/ocm"
- },
- {
-  "id": 91636,
-  "identifier": "cg/oerschema"
  },
  {
   "id": 122250,
@@ -740,24 +648,16 @@
   "identifier": "wg/rdf-star"
  },
  {
-  "id": 48594,
-  "identifier": "cg/rww"
- },
- {
-  "id": 140743,
-  "identifier": "cg/rtie"
- },
- {
-  "id": 62545,
-  "identifier": "cg/rosc"
- },
- {
   "id": 91497,
   "identifier": "tf/rqtf"
  },
  {
   "id": 121942,
   "identifier": "cg/md-odrl-profile"
+ },
+ {
+  "id": 100368,
+  "identifier": "cg/shacl"
  },
  {
   "id": 114009,
@@ -796,16 +696,36 @@
   "identifier": "cg/schemaorg4datasets"
  },
  {
-  "id": 84855,
-  "identifier": "cg/scholarlyhtml"
- },
- {
   "id": 141487,
   "identifier": "cg/sccg"
  },
  {
   "id": 67710,
   "identifier": "cg/webscreens"
+ },
+ {
+  "id": 74168,
+  "identifier": "wg/secondscreen"
+ },
+ {
+  "id": 138327,
+  "identifier": "cg/htmlvoc"
+ },
+ {
+  "id": 92610,
+  "identifier": "cg/hclscg"
+ },
+ {
+  "id": 101220,
+  "identifier": "wg/service-workers"
+ },
+ {
+  "id": 95701,
+  "identifier": "cg/shex"
+ },
+ {
+  "id": 97795,
+  "identifier": "cg/silver"
  },
  {
   "id": 94845,
@@ -1082,9 +1002,5 @@
  {
   "id": 144015,
   "identifier": "cg/nostr"
- },
- {
-  "id": 116117,
-  "identifier": "cg/zot"
  }
 ]
