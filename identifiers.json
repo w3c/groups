@@ -336,14 +336,6 @@
   "identifier": "cg/gpu"
  },
  {
-  "id": 96877,
-  "identifier": "cg/gpu"
- },
- {
-  "id": 125519,
-  "identifier": "wg/gpu"
- },
- {
   "id": 125519,
   "identifier": "wg/gpu"
  },
@@ -360,24 +352,8 @@
   "identifier": "wg/htmlwg"
  },
  {
-  "id": 115520,
-  "identifier": "wg/htmlwg"
- },
- {
-  "id": 52443,
-  "identifier": "cg/html5spec"
- },
- {
   "id": 78701,
   "identifier": "cg/schemed"
- },
- {
-  "id": 78701,
-  "identifier": "cg/schemed"
- },
- {
-  "id": 96702,
-  "identifier": "tf/i18n-hlreq"
  },
  {
   "id": 96702,
@@ -388,20 +364,8 @@
   "identifier": "cg/humancentricai"
  },
  {
-  "id": 143541,
-  "identifier": "cg/humancentricai"
- },
- {
   "id": 71940,
   "identifier": "cg/humanservices"
- },
- {
-  "id": 71940,
-  "identifier": "cg/humanservices"
- },
- {
-  "id": 64267,
-  "identifier": "cg/hydra"
  },
  {
   "id": 64267,
@@ -412,20 +376,8 @@
   "identifier": "cg/immersive-captions"
  },
  {
-  "id": 117874,
-  "identifier": "cg/immersive-captions"
- },
- {
   "id": 87846,
   "identifier": "cg/immersive-web"
- },
- {
-  "id": 87846,
-  "identifier": "cg/immersive-web"
- },
- {
-  "id": 109735,
-  "identifier": "wg/immersive-web"
  },
  {
   "id": 109735,
@@ -436,24 +388,8 @@
   "identifier": "bg/web-adv"
  },
  {
-  "id": 103226,
-  "identifier": "bg/web-adv"
- },
- {
   "id": 104979,
   "identifier": "tf/iip"
- },
- {
-  "id": 104979,
-  "identifier": "tf/iip"
- },
- {
-  "id": 60884,
-  "identifier": "cg/informationarchitecture"
- },
- {
-  "id": 143566,
-  "identifier": "cg/inter-cc"
  },
  {
   "id": 143566,
@@ -462,14 +398,6 @@
  {
   "id": 83380,
   "identifier": "cg/interledger"
- },
- {
-  "id": 83380,
-  "identifier": "cg/interledger"
- },
- {
-  "id": 72665,
-  "identifier": "ig/i18n"
  },
  {
   "id": 32113,
@@ -516,10 +444,6 @@
   "identifier": "cg/low-vision"
  },
  {
-  "id": 83156,
-  "identifier": "cg/ml-schema"
- },
- {
   "id": 145679,
   "identifier": "cg/managed-components"
  },
@@ -530,10 +454,6 @@
  {
   "id": 35549,
   "identifier": "wg/math"
- },
- {
-  "id": 112607,
-  "identifier": "cg/mathml4"
  },
  {
   "id": 141517,
@@ -560,10 +480,6 @@
   "identifier": "wg/miniapps"
  },
  {
-  "id": 98377,
-  "identifier": "cg/mixedreality"
- },
- {
   "id": 66524,
   "identifier": "tf/mobile-a11y-tf"
  },
@@ -574,10 +490,6 @@
  {
   "id": 76245,
   "identifier": "cg/webtiming"
- },
- {
-  "id": 131839,
-  "identifier": "cg/multicast"
  },
  {
   "id": 81249,
@@ -610,10 +522,6 @@
  {
   "id": 148948,
   "identifier": "cg/ocm"
- },
- {
-  "id": 91636,
-  "identifier": "cg/oerschema"
  },
  {
   "id": 122250,
@@ -740,18 +648,6 @@
   "identifier": "wg/rdf-star"
  },
  {
-  "id": 48594,
-  "identifier": "cg/rww"
- },
- {
-  "id": 140743,
-  "identifier": "cg/rtie"
- },
- {
-  "id": 62545,
-  "identifier": "cg/rosc"
- },
- {
   "id": 91497,
   "identifier": "tf/rqtf"
  },
@@ -760,12 +656,28 @@
   "identifier": "cg/md-odrl-profile"
  },
  {
+  "id": 100368,
+  "identifier": "cg/shacl"
+ },
+ {
+  "id": 114009,
+  "identifier": "cg/sparql-dev"
+ },
+ {
   "id": 114009,
   "identifier": "cg/sparql-dev"
  },
  {
   "id": 85121,
   "identifier": "tf/svg-a11y"
+ },
+ {
+  "id": 85121,
+  "identifier": "tf/svg-a11y"
+ },
+ {
+  "id": 19480,
+  "identifier": "wg/svg"
  },
  {
   "id": 19480,
@@ -796,16 +708,40 @@
   "identifier": "cg/schemaorg4datasets"
  },
  {
-  "id": 84855,
-  "identifier": "cg/scholarlyhtml"
- },
- {
   "id": 141487,
   "identifier": "cg/sccg"
  },
  {
   "id": 67710,
   "identifier": "cg/webscreens"
+ },
+ {
+  "id": 74168,
+  "identifier": "wg/secondscreen"
+ },
+ {
+  "id": 138327,
+  "identifier": "cg/htmlvoc"
+ },
+ {
+  "id": 92610,
+  "identifier": "cg/hclscg"
+ },
+ {
+  "id": 101220,
+  "identifier": "wg/service-workers"
+ },
+ {
+  "id": 95701,
+  "identifier": "cg/shex"
+ },
+ {
+  "id": 97795,
+  "identifier": "cg/silver"
+ },
+ {
+  "id": 94845,
+  "identifier": "tf/silver-tf"
  },
  {
   "id": 94845,
@@ -816,8 +752,20 @@
   "identifier": "cg/socialcg"
  },
  {
+  "id": 95188,
+  "identifier": "cg/socialcg"
+ },
+ {
   "id": 110151,
   "identifier": "cg/solid"
+ },
+ {
+  "id": 110151,
+  "identifier": "cg/solid"
+ },
+ {
+  "id": 106744,
+  "identifier": "tf/i18n-sealreq"
  },
  {
   "id": 106744,
@@ -828,8 +776,20 @@
   "identifier": "wg/sdw"
  },
  {
+  "id": 75471,
+  "identifier": "wg/sdw"
+ },
+ {
   "id": 130562,
   "identifier": "cg/speced-cg"
+ },
+ {
+  "id": 130562,
+  "identifier": "cg/speced-cg"
+ },
+ {
+  "id": 110437,
+  "identifier": "tf/pronunciation-tf"
  },
  {
   "id": 110437,
@@ -840,12 +800,28 @@
   "identifier": "cg/sport-schema"
  },
  {
+  "id": 80261,
+  "identifier": "cg/sport-schema"
+ },
+ {
+  "id": 137496,
+  "identifier": "cg/sustainability"
+ },
+ {
   "id": 137496,
   "identifier": "cg/sustainability"
  },
  {
   "id": 62441,
   "identifier": "cg/sustyweb"
+ },
+ {
+  "id": 62441,
+  "identifier": "cg/sustyweb"
+ },
+ {
+  "id": 104525,
+  "identifier": "cg/sync-media-pub"
  },
  {
   "id": 104525,
@@ -860,8 +836,20 @@
   "identifier": "cg/talent-signal"
  },
  {
+  "id": 112823,
+  "identifier": "cg/talent-signal"
+ },
+ {
   "id": 34270,
   "identifier": "other/tag"
+ },
+ {
+  "id": 34270,
+  "identifier": "other/tag"
+ },
+ {
+  "id": 128834,
+  "identifier": "cg/tdmrep"
  },
  {
   "id": 128834,
@@ -872,8 +860,20 @@
   "identifier": "cg/tourismdata"
  },
  {
+  "id": 85190,
+  "identifier": "cg/tourismdata"
+ },
+ {
   "id": 97249,
   "identifier": "tf/i18n-tlreq"
+ },
+ {
+  "id": 97249,
+  "identifier": "tf/i18n-tlreq"
+ },
+ {
+  "id": 34314,
+  "identifier": "wg/timed-text"
  },
  {
   "id": 34314,
