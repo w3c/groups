@@ -168,10 +168,6 @@
   "identifier": "cg/bdns"
  },
  {
-  "id": 121175,
-  "identifier": "cg/cssprint"
- },
- {
   "id": 121427,
   "identifier": "cg/css4"
  },
@@ -316,10 +312,6 @@
   "identifier": "tf/i18n-eurlreq"
  },
  {
-  "id": 80970,
-  "identifier": "cg/xapivocabulary"
- },
- {
   "id": 144058,
   "identifier": "tf/fast"
  },
@@ -330,10 +322,6 @@
  {
   "id": 134965,
   "identifier": "cg/federated-learning"
- },
- {
-  "id": 135900,
-  "identifier": "cg/timesh"
  },
  {
   "id": 84521,
@@ -370,10 +358,6 @@
  {
   "id": 115520,
   "identifier": "wg/htmlwg"
- },
- {
-  "id": 52443,
-  "identifier": "cg/html5spec"
  },
  {
   "id": 52443,
@@ -456,6 +440,10 @@
   "identifier": "tf/iip"
  },
  {
+  "id": 104979,
+  "identifier": "tf/iip"
+ },
+ {
   "id": 60884,
   "identifier": "cg/informationarchitecture"
  },
@@ -464,8 +452,20 @@
   "identifier": "cg/inter-cc"
  },
  {
+  "id": 143566,
+  "identifier": "cg/inter-cc"
+ },
+ {
   "id": 83380,
   "identifier": "cg/interledger"
+ },
+ {
+  "id": 83380,
+  "identifier": "cg/interledger"
+ },
+ {
+  "id": 72665,
+  "identifier": "ig/i18n"
  },
  {
   "id": 72665,
@@ -760,6 +760,22 @@
   "identifier": "cg/md-odrl-profile"
  },
  {
+  "id": 100368,
+  "identifier": "cg/shacl"
+ },
+ {
+  "id": 114009,
+  "identifier": "cg/sparql-dev"
+ },
+ {
+  "id": 85121,
+  "identifier": "tf/svg-a11y"
+ },
+ {
+  "id": 19480,
+  "identifier": "wg/svg"
+ },
+ {
   "id": 80620,
   "identifier": "cg/architypes"
  },
@@ -796,8 +812,108 @@
   "identifier": "cg/webscreens"
  },
  {
+  "id": 74168,
+  "identifier": "wg/secondscreen"
+ },
+ {
+  "id": 138327,
+  "identifier": "cg/htmlvoc"
+ },
+ {
+  "id": 115642,
+  "identifier": "cg/semind"
+ },
+ {
+  "id": 92610,
+  "identifier": "cg/hclscg"
+ },
+ {
+  "id": 142387,
+  "identifier": "cg/service-disco"
+ },
+ {
+  "id": 101220,
+  "identifier": "wg/service-workers"
+ },
+ {
+  "id": 95701,
+  "identifier": "cg/shex"
+ },
+ {
+  "id": 97795,
+  "identifier": "cg/silver"
+ },
+ {
+  "id": 94845,
+  "identifier": "tf/silver-tf"
+ },
+ {
+  "id": 95188,
+  "identifier": "cg/socialcg"
+ },
+ {
+  "id": 110151,
+  "identifier": "cg/solid"
+ },
+ {
+  "id": 106744,
+  "identifier": "tf/i18n-sealreq"
+ },
+ {
+  "id": 75471,
+  "identifier": "wg/sdw"
+ },
+ {
+  "id": 130562,
+  "identifier": "cg/speced-cg"
+ },
+ {
+  "id": 110437,
+  "identifier": "tf/pronunciation-tf"
+ },
+ {
+  "id": 80261,
+  "identifier": "cg/sport-schema"
+ },
+ {
+  "id": 137496,
+  "identifier": "cg/sustainability"
+ },
+ {
+  "id": 62441,
+  "identifier": "cg/sustyweb"
+ },
+ {
+  "id": 104525,
+  "identifier": "cg/sync-media-pub"
+ },
+ {
   "id": 143412,
   "identifier": "cg/treecg"
+ },
+ {
+  "id": 112823,
+  "identifier": "cg/talent-signal"
+ },
+ {
+  "id": 34270,
+  "identifier": "other/tag"
+ },
+ {
+  "id": 128834,
+  "identifier": "cg/tdmrep"
+ },
+ {
+  "id": 85190,
+  "identifier": "cg/tourismdata"
+ },
+ {
+  "id": 97249,
+  "identifier": "tf/i18n-tlreq"
+ },
+ {
+  "id": 34314,
+  "identifier": "wg/timed-text"
  },
  {
   "id": 67497,
@@ -1002,5 +1118,9 @@
  {
   "id": 144015,
   "identifier": "cg/nostr"
+ },
+ {
+  "id": 116117,
+  "identifier": "cg/zot"
  }
 ]
