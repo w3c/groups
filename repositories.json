@@ -6440,7 +6440,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -8677,7 +8677,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9071,7 +9071,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-hlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9270,7 +9270,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9293,7 +9293,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-jlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -9818,6 +9818,27 @@
    "policy": "open",
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "mathml.old",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "MathML editors' draft",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -10686,7 +10707,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-mlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -10898,6 +10919,26 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "multicast-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Docs for initial W3C Multicast Community Group proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/multicast"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -12481,6 +12522,25 @@
   }
  },
  {
+  "name": "scholarly-html",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Scholarly HTML Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/scholarlyhtml"
+   ],
+   "contacts": [
+    "iherman",
+    "darobin"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "screen-fold",
   "owner": {
    "login": "w3c"
@@ -12601,7 +12661,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-sealreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
@@ -13387,7 +13447,7 @@
   "w3cjson": {
    "group": [
     "tf/i18n-tlreq",
-    72665,
+    "ig/i18n",
     "wg/i18n-core"
    ],
    "contacts": [
