@@ -760,6 +760,18 @@
   "identifier": "cg/md-odrl-profile"
  },
  {
+  "id": 114009,
+  "identifier": "cg/sparql-dev"
+ },
+ {
+  "id": 85121,
+  "identifier": "tf/svg-a11y"
+ },
+ {
+  "id": 19480,
+  "identifier": "wg/svg"
+ },
+ {
   "id": 80620,
   "identifier": "cg/architypes"
  },
@@ -796,8 +808,76 @@
   "identifier": "cg/webscreens"
  },
  {
+  "id": 94845,
+  "identifier": "tf/silver-tf"
+ },
+ {
+  "id": 95188,
+  "identifier": "cg/socialcg"
+ },
+ {
+  "id": 110151,
+  "identifier": "cg/solid"
+ },
+ {
+  "id": 106744,
+  "identifier": "tf/i18n-sealreq"
+ },
+ {
+  "id": 75471,
+  "identifier": "wg/sdw"
+ },
+ {
+  "id": 130562,
+  "identifier": "cg/speced-cg"
+ },
+ {
+  "id": 110437,
+  "identifier": "tf/pronunciation-tf"
+ },
+ {
+  "id": 80261,
+  "identifier": "cg/sport-schema"
+ },
+ {
+  "id": 137496,
+  "identifier": "cg/sustainability"
+ },
+ {
+  "id": 62441,
+  "identifier": "cg/sustyweb"
+ },
+ {
+  "id": 104525,
+  "identifier": "cg/sync-media-pub"
+ },
+ {
   "id": 143412,
   "identifier": "cg/treecg"
+ },
+ {
+  "id": 112823,
+  "identifier": "cg/talent-signal"
+ },
+ {
+  "id": 34270,
+  "identifier": "other/tag"
+ },
+ {
+  "id": 128834,
+  "identifier": "cg/tdmrep"
+ },
+ {
+  "id": 85190,
+  "identifier": "cg/tourismdata"
+ },
+ {
+  "id": 97249,
+  "identifier": "tf/i18n-tlreq"
+ },
+ {
+  "id": 34314,
+  "identifier": "wg/timed-text"
  },
  {
   "id": 67497,
@@ -1002,5 +1082,9 @@
  {
   "id": 144015,
   "identifier": "cg/nostr"
+ },
+ {
+  "id": 116117,
+  "identifier": "cg/zot"
  }
 ]
