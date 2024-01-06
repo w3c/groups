@@ -11544,11 +11544,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    52497
+    "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plehegar",
     "sandandsnow",
     "tjwhalen",
     "npdoty"
@@ -16659,11 +16658,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    52497
+    "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plehegar",
     "sandandsnow",
     "tjwhalen"
    ],
@@ -16683,11 +16681,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    52497
+    "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plegerar",
     "sandandsnow",
     "tjwhalen"
    ],
@@ -16891,11 +16888,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    52497
+    "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plehegar",
     "sandandsnow",
     "tjwhalen"
    ],
@@ -26790,7 +26786,17 @@
   "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
  },
  {
   "name": "administrivia",
@@ -26801,7 +26807,20 @@
   "description": "repository to track meta-work.  PING webpages are maintained at https://github.com/w3c/ping",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar",
+    "sandandsnow",
+    "tjwhalen",
+    "npdoty"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "blog-posts",
@@ -26937,10 +26956,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    52497
+    "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler"
+    "plehegar"
    ],
    "policy": "open",
    "repo-type": [
