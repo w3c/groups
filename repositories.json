@@ -8353,8 +8353,7 @@
     "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plehegar",
     "sandandsnow",
     "tjwhalen",
     "npdoty"
@@ -11431,8 +11430,7 @@
     "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plehegar",
     "sandandsnow",
     "tjwhalen"
    ],
@@ -11455,8 +11453,7 @@
     "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plegerar",
     "sandandsnow",
     "tjwhalen"
    ],
@@ -11608,8 +11605,7 @@
     "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler",
-    "wseltzer",
+    "plehegar",
     "sandandsnow",
     "tjwhalen"
    ],
@@ -17852,6 +17848,51 @@
   }
  },
  {
+  "name": "adding-permissions",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "",
+  "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "administrivia",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "",
+  "description": "repository to track meta-work.  PING webpages are maintained at https://github.com/w3c/ping",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar",
+    "sandandsnow",
+    "tjwhalen",
+    "npdoty"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
   "name": "privacy-request",
   "owner": {
    "login": "w3cping"
@@ -17887,7 +17928,7 @@
     "ig/privacy"
    ],
    "contacts": [
-    "samuelweiler"
+    "plehegar"
    ],
    "policy": "open",
    "repo-type": [
