@@ -1,0 +1,34 @@
+{
+ "id": 151951,
+ "name": "Automotive Privacy Principles Community Group",
+ "is_closed": false,
+ "description": "Vehicles are becoming increasingly connected, enabling rich data and useful services. A major obstacle to transportation's information transformation is better protection of personal privacy. The Mozilla Foundation properly called in out in their assessment <a rel=\"nofollow\" href=\"https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/\">It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy</a>.\r\n\r\nThe goal of this Community Group is to create guiding principles specific to the automotive industry and to work in conjunction with <a rel=\"nofollow\" href=\"https://covesa.global\">COVESA</a> in prototyping and promoting appropriate solutions. ",
+ "shortname": "autoprivacy",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/autoprivacy"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/autoprivacy/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/autoprivacy/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/autoprivacy/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/autoprivacy/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/autoprivacy/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/autoprivacy/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/autoprivacy"
+}
