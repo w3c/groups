@@ -2574,6 +2574,26 @@
   }
  },
  {
+  "name": "pointer-event-extensions",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Extensions to PointerEvents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "portals",
   "owner": {
    "login": "WICG"
