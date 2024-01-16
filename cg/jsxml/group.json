@@ -1,0 +1,34 @@
+{
+ "id": 152176,
+ "name": "JSX as markup language Community Group",
+ "is_closed": false,
+ "description": "The proposal is that jsx be implemented as a dynamic markup language for the web since just HTML + DOM are still not enough to create applications like the ones we currently build using frameworks.\r\n\r\nWith JSX updating conventional HTML ideas to create better-designed static websites and using dynamic data structures, with repetition loops and adding event hooks more easily, the group's idea would be to bring together people who share the same idea so that together we can do tests in different scenarios and create polyfills if necessary",
+ "shortname": "jsxml",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/jsxml"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/jsxml/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/jsxml/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/jsxml/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/jsxml/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/jsxml/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/jsxml/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/jsxml"
+}
