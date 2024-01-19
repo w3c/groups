@@ -1,0 +1,81 @@
+[
+ {
+  "name": "encrypted-media",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "A fork of Encrypted Media Extensions to add persistent-usage-record sessions",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "shortName": "encrypted-media",
+   "policy": "open"
+  }
+ },
+ {
+  "name": "wicg.github.io",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "wicg.io",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "Repository for the website: https://wicg.io (staging site at: https://wicg.github.io/wicg.io)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "alt-techniques",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "plehegar",
+    "liamquin"
+   ],
+   "shortName": "html-alt-techniques",
+   "policy": "open"
+  }
+ }
+]
