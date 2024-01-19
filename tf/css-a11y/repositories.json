@@ -1,0 +1,20 @@
+[
+ {
+  "name": "css-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "CSS Accessibility API Mappings and work of the CSS Accessibility Task Force.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/css-a11y"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
