@@ -55,7 +55,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    64149,
+    "ig/publishing",
     "wg/publishing",
     "wg/pm"
    ],
@@ -208,7 +208,7 @@
   },
   "homepageUrl": "https://www.w3.org/publishing/groups/publ-wg/",
   "description": "Home page of the Audiobooks Working Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
