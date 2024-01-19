@@ -1,0 +1,44 @@
+[
+ {
+  "name": "data-shapes",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Data Shapes WG repo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/data-shapes"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "shacl",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "SHACL Community Group (Post-REC activitities)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/data-shapes"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
