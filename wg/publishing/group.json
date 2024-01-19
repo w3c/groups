@@ -1,13 +1,10 @@
 {
  "id": 100074,
  "name": "Audiobooks Working Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The mission of the Audiobooks Working Group is to maintain the Publication Manifest and Audiobooks Recommendations and related Working Group Notes.",
  "shortname": "publishing",
  "discr": "w3cgroup",
- "type": "working group",
- "start-date": "2017-06-09",
- "end-date": "2023-08-31",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/publishing"
@@ -46,5 +43,8 @@
    "href": "https://api.w3.org/groups/wg/publishing/participations"
   }
  },
+ "type": "working group",
+ "start-date": "2017-06-09",
+ "end-date": "2023-08-31",
  "identifier": "wg/publishing"
 }
