@@ -1,0 +1,49 @@
+{
+ "id": 19482,
+ "name": "XML Schema Working Group",
+ "is_closed": true,
+ "shortname": "schema",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/wg/schema"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/XML/Schema"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/schema/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/schema/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/schema/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/schema/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/schema/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/schema/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/schema/charters/199"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/schema/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/schema/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/schema/participations"
+  }
+ },
+ "type": "working group",
+ "start-date": "2004-06-17",
+ "end-date": "2013-07-24",
+ "identifier": "wg/schema"
+}
