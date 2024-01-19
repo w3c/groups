@@ -1,11 +1,11 @@
 {
  "id": 136071,
  "name": "Interactive Media Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "<p>The Interactive Media Community Group is interested in all forms of interactive media, e.g., <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Interactive_storytelling\" target=\"_blank\">interactive storytelling</a>, <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Gamebook\" target=\"_blank\">digital gamebooks</a>, <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Motion_comic\" target=\"_blank\">motion comics</a>, <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Visual_novel\" target=\"_blank\">visual novels</a>, <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Interactive_film\" target=\"_blank\">interactive films</a>, <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Hypervideo\" target=\"_blank\">hypervideo</a>, and <a rel=\"nofollow\" href=\"https://en.wikipedia.org/wiki/Serious_game\" target=\"_blank\">serious games</a>.</p>\r\n<p>This Group considers and discusses how standardization can support all forms of interactive media. This Group may work on a number of deliverables, reports, and specifications.</p>\r\n",
  "shortname": "interactive-media",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/interactive-media"
@@ -29,5 +29,6 @@
    "href": "https://api.w3.org/groups/cg/interactive-media/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/interactive-media"
 }
