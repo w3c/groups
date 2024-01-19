@@ -1,0 +1,37 @@
+{
+ "id": 54505,
+ "name": "Web-based Signage Business Group",
+ "is_closed": true,
+ "description": "The goal of the group was to identify use cases and system image/model for expansion of web browser based digital signage and smarter integration of existing Web standards. ",
+ "shortname": "websignage",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/bg/websignage"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/websignage/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/websignage/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/websignage/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/websignage/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/websignage/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/websignage/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/websignage/participations"
+  }
+ },
+ "type": "business group",
+ "identifier": "bg/websignage"
+}
