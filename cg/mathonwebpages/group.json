@@ -1,11 +1,11 @@
 {
  "id": 89907,
  "name": "Getting Math onto Web Pages Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "<p>We invite you to visit <a rel=\"nofollow\" href=\"https://w3c.github.io/mathonwebpages/\">the main site for this Community Group</a> (&lt;https://w3c.github.io/mathonwebpages/&gt;)</p>\r\n\r\n<p>There are many technical issues in presenting mathematics in today's Open Web Platform, which has led to the poor access to Mathematics in Web Pages. This is in spite of the existing de jure or de facto standards for authoring mathematics, like MathML, LaTeX, or asciimath, which have been around for a very long time and are widely used by the mathematical and technical communities. \r\n</p>\r\n\r\n<p>While MathML was supposed to solve the problem of rendering mathematics on the web it lacks in both implementations and general interest from browser vendors. However, in the past decade, many math rendering tools have been pushing math on the web forward using HTML/CSS and SVG. \r\n</p>\r\n\r\n<p>One of the identified issues is that, while browser manufacturers have continually improved and extended their HTML and CSS layout engines, the approaches to render mathematics have not been able to align with these improvements. In fact, the current approaches to math layout could be considered to be largely disjoint from the other technologies of OWP. Another key issue, is that exposing (and thus leveraging) semantic information of mathematical and scientific content on the web needs to move towards modern practices and standards instead of being limited to a single solution (MathML). Such information is critical for accessibility, machine-readability, and re-use of mathematical content. \r\n</p>\r\n\r\n<p>This Community Group intends to look at the problems of math on the web in a very bottom-up manner. Experts in this group should identify how the core OWP layout engines, centered around HTML, SVG, and CSS, can be re-used for the purpose of mathematical layout by mapping mathematical entities on top of these, thereby ensuring a much more efficient result, and making use of current and future OWP optimization possibilities. Similarly, experts should work to identify best practices for semantics from the point of view of today's successful solutions. \r\n</p>\r\n\r\n<p>This work should also reveal where the shortcomings are, from the mathematical layout point of view, in the details of these OWP technologies, and propose improvements and possible additions to these, with the ultimate goal of reaching out to the responsible W3C Working Groups to make these changes. This work may also reveal new technology areas that should be specified and standardized on their own right, for example in the area of Web Accessibility. \r\n</p>\r\n\r\n<p>The ultimate goal is to pave the way for a standard, highly optimized implementation architecture, on top of which mathematical syntaxes, like LaTeX or MathML, may be mapped to provide an efficient display of mathematical formulae. Note that, although this community group will concentrate on mathematics, many other areas, e.g., science and engineering, will benefit from (and factor into) the approach and from the core architecture.</p>\r\n",
  "shortname": "mathonwebpages",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/mathonwebpages"
@@ -29,5 +29,6 @@
    "href": "https://api.w3.org/groups/cg/mathonwebpages/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/mathonwebpages"
 }
