@@ -1150,6 +1150,26 @@
   }
  },
  {
+  "name": "encrypted-media",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "A fork of Encrypted Media Extensions to add persistent-usage-record sessions",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "shortName": "encrypted-media",
+   "policy": "open"
+  }
+ },
+ {
   "name": "encrypted-media-encryption-scheme",
   "owner": {
    "login": "WICG"
@@ -3346,6 +3366,27 @@
   }
  },
  {
+  "name": "webcomponents",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Web Components specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "webcomponents",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "webcrypto-secure-curves",
   "owner": {
    "login": "WICG"
@@ -3447,6 +3488,46 @@
    "shortName": "webusb",
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "wicg.github.io",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "wicg.io",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "Repository for the website: https://wicg.io (staging site at: https://wicg.github.io/wicg.io)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -5887,6 +5968,28 @@
   }
  },
  {
+  "name": "DOM-Parsing",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/DOM-Parsing/",
+  "description": "DOM Parsing and Serialization",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "DOM-Parsing",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "FileAPI",
   "owner": {
    "login": "w3c"
@@ -6028,6 +6131,28 @@
     "siusin"
    ],
    "shortName": "IntersectionObserver",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "Micropub",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://micropub.net/draft/",
+  "description": "The Micropub spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
    "repo-type": [
     "rec-track"
    ]
@@ -6189,6 +6314,29 @@
   }
  },
  {
+  "name": "UAAG",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/UAAG/UAAG20/",
+  "description": "Editors' draft of the User Agent Accessibility Guidelines",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/uaag"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "shortName": "UAAG20",
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "WebID",
   "owner": {
    "login": "w3c"
@@ -6207,6 +6355,47 @@
    "repo-type": [
     "cg-report"
    ]
+  }
+ },
+ {
+  "name": "WebPlatformWG",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/WebPlatform/WG/",
+  "description": "Web Platform Working Group pages",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "XMLHttpRequest",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://xhr.spec.whatwg.org/",
+  "description": "XMLHttpRequest - Retired",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "XMLHttpRequest"
   }
  },
  {
@@ -6339,6 +6528,70 @@
   }
  },
  {
+  "name": "activitypub",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/activitypub/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "activitystreams",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/activitystreams-core/",
+  "description": "Activity Streams 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "activitystreams-testing",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "W3C Activity Streams 2.0 Conformance Tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "adapt",
   "owner": {
    "login": "w3c"
@@ -6424,6 +6677,25 @@
    "repo-type": [
     "note"
    ]
+  }
+ },
+ {
+  "name": "alt-techniques",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/html"
+   ],
+   "contacts": [
+    "plehegar",
+    "liamquin"
+   ],
+   "shortName": "html-alt-techniques",
+   "policy": "open"
   }
  },
  {
@@ -6654,6 +6926,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -6818,6 +7091,28 @@
   }
  },
  {
+  "name": "bdcoma-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/bdcomacg/",
+  "description": "Repository of the \"W3C BD Comics Manga Community Group\"",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bdcomacg"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage",
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "beacon",
   "owner": {
    "login": "w3c"
@@ -6837,6 +7132,23 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "blockchain",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/blockchain"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -7336,6 +7648,24 @@
   }
  },
  {
+  "name": "css-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "CSS Accessibility API Mappings and work of the CSS Accessibility Task Force.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/css-a11y"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "css-houdini-drafts",
   "owner": {
    "login": "w3c"
@@ -7355,6 +7685,27 @@
     "rec-track"
    ],
    "policy": "open"
+  }
+ },
+ {
+  "name": "css-print",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/css-print/",
+  "description": "CSS Print ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cssprint"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
   }
  },
  {
@@ -7422,6 +7773,25 @@
    "policy": "open",
    "repo-type": [
     "homepage"
+   ]
+  }
+ },
+ {
+  "name": "csvw",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents produced by the CSV on the Web Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/csv"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track",
+    "note"
    ]
   }
  },
@@ -7549,6 +7919,27 @@
    ],
    "repo-type": [
     "process"
+   ]
+  }
+ },
+ {
+  "name": "data-shapes",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Data Shapes WG repo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/data-shapes"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -7708,6 +8099,25 @@
   }
  },
  {
+  "name": "did-kr-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/did-kr"
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "did-rubric",
   "owner": {
    "login": "w3c"
@@ -7861,6 +8271,110 @@
   }
  },
  {
+  "name": "dmpl",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dmpl",
+  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dms",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dms/",
+  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dnt",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/tracking-dnt/",
+  "description": "Archive of DNT deliverables",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/tracking"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "document-services",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/services/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/services"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dpub",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Outreach materials on the digital publishing activity",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
   "name": "dpub-aam",
   "owner": {
    "login": "w3c"
@@ -7883,6 +8397,37 @@
   }
  },
  {
+  "name": "dpub-accessibility",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents of the Accessibility task force of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-annotation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "DPUB Specific Annotation issues",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "dpub-aria",
   "owner": {
    "login": "w3c"
@@ -7893,6 +8438,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -7902,6 +8448,99 @@
    "repo-type": [
     "rec-track"
    ]
+  }
+ },
+ {
+  "name": "dpub-content-and-markup",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents of the Content & Markup task force of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-metadata",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Metadata Task force documents of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pagination",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents produced by the Digital Publishing Interest Group",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Repository of the W3C DPUB IG on the (Packaged) Web Publications work",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp-arch",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Archiving Task Force of the DPUB IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "shortName": "dpub-pwp-arch",
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp-loc",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Locator Task force of the W3C DPUB IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "shortName": "dpub-pwp-loc",
+   "policy": "open"
   }
  },
  {
@@ -7915,6 +8554,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "ig/publishing",
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -7924,6 +8565,21 @@
    "repo-type": [
     "note"
    ]
+  }
+ },
+ {
+  "name": "dpub-stem",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents of the STEM task force of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
   }
  },
  {
@@ -7944,6 +8600,27 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "dwbp",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "This is the repo for the Data on the Web Best Practices Working Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dwbp"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -8117,6 +8794,28 @@
   }
  },
  {
+  "name": "emma",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "discovery",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/mmi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "encrypted-media",
   "owner": {
    "login": "w3c"
@@ -8172,6 +8871,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/epub",
     "wg/pm"
    ],
    "contacts": [
@@ -8192,6 +8892,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/epub",
     "wg/pm"
    ],
    "contacts": [
@@ -8213,6 +8914,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/epub",
     "wg/pm"
    ],
    "contacts": [
@@ -8234,6 +8936,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/epub",
     "wg/pm"
    ],
    "contacts": [
@@ -8241,6 +8944,49 @@
    ],
    "repo-type": [
     "translation"
+   ]
+  }
+ },
+ {
+  "name": "epub-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/publishing/groups/epub-wg/",
+  "description": "Home page of the EPUB 3 Working Group",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/epub"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "epub4",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/epub4/",
+  "description": "W3C EPUB4",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "epub4",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -8263,6 +9009,27 @@
    ],
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "epubweb",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "White Paper on the EPUBWEB project",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
    ]
   }
  },
@@ -8332,6 +9099,47 @@
   }
  },
  {
+  "name": "exi-specs",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/exi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "exi-testsuite",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "EXI WG test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/exi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "fast",
   "owner": {
    "login": "w3c"
@@ -8348,6 +9156,44 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "filesystem-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "filesystem-api"
+  }
+ },
+ {
+  "name": "findtext",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "An API spec to define how to find text in a Web document, using basic information, and return DOM ranges ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/annotation"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
    ]
   }
  },
@@ -8372,6 +9218,47 @@
    ],
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "font-text-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/font-text-cg/",
+  "description": "GitHub Pages",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/font-text"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "font-text-cg-temp",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "GitHub repo for the W3C Font and Text Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/font-text"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "process"
    ]
   }
  },
@@ -8529,6 +9416,27 @@
   }
  },
  {
+  "name": "graphql-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/graphql-rdf/",
+  "description": "Bridging GraphQL and RDF Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/graphql-rdf"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "gyroscope",
   "owner": {
    "login": "w3c"
@@ -8680,6 +9588,27 @@
   }
  },
  {
+  "name": "hns-core-spec",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/hns/",
+  "description": "Specification 'hns-core-spec'",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hns"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "hr-time",
   "owner": {
    "login": "w3c"
@@ -8700,6 +9629,25 @@
    "repo-type": [
     "rec-track"
    ]
+  }
+ },
+ {
+  "name": "html",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/html/",
+  "description": "Deliverables of the HTML Working Group until October 2018",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "html"
   }
  },
  {
@@ -8749,6 +9697,64 @@
   }
  },
  {
+  "name": "html-extensions",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "HTML Extension Specifications",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "html-extension",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "html-landscape",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Differences between HTML specifications",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "html-landscape"
+  }
+ },
+ {
+  "name": "html-media",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "html-media-capture",
   "owner": {
    "login": "w3c"
@@ -8766,6 +9772,26 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "html-transcript",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "A staging point for an editor's draft.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "repo-type": [
+    "note"
    ]
   }
  },
@@ -9012,6 +10038,24 @@
   }
  },
  {
+  "name": "idcg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Inclusion and Diversity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/idcg"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "ift-client-tests",
   "owner": {
    "login": "w3c"
@@ -9115,6 +10159,23 @@
    "repo-type": [
     "rec-track"
    ]
+  }
+ },
+ {
+  "name": "ime-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "ime-api"
   }
  },
  {
@@ -9226,6 +10287,21 @@
   }
  },
  {
+  "name": "indie-ui",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Independent User Interface (IndieUI) documents",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/indie-ui-tf"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
   "name": "input-events",
   "owner": {
    "login": "w3c"
@@ -9245,6 +10321,110 @@
    "shortName": "input-events",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "interactive-media-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/interactive-media"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "its-2.0-testsuite",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "its-2.0-testsuite-inputdata",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "its2req",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Requirements for Internationalization Tag Set (ITS) 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "itsrdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Internationalization Tag Set (ITS) Ontology ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
    ]
   }
  },
@@ -9466,6 +10646,26 @@
   }
  },
  {
+  "name": "kiss",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kiss"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "klreq",
   "owner": {
    "login": "w3c"
@@ -9504,6 +10704,49 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "ldn",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/ldn/",
+  "description": "🔔 Linked Data Notifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "ldp-testsuite",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Tests for Linked Data Platform (LDP)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
    ]
   }
  },
@@ -9626,6 +10869,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -9726,6 +10970,67 @@
   }
  },
  {
+  "name": "manifest-csp",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "manifest-csp"
+  }
+ },
+ {
+  "name": "math-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/math-aam/",
+  "description": "Accessibility API Mappings for Math ARIA module",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathonwebpages"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "math-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/math-aria/",
+  "description": "ARIA module for Math features",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathonwebpages"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "mathml",
   "owner": {
    "login": "w3c"
@@ -9807,6 +11112,51 @@
    "policy": "open",
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "mathml.old",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "MathML editors' draft",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "mathonwebpages",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/mathonwebpages",
+  "description": "Repository for the W3C \"Math on the Web\" Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathonwebpages"
+   ],
+   "contacts": [
+    "iherman",
+    "pkra"
+   ],
+   "repo-type": [
+    "homepage",
+    "cg-report",
+    "article"
    ]
   }
  },
@@ -10448,6 +11798,45 @@
   }
  },
  {
+  "name": "merchantcg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/merchant"
+   ],
+   "contacts": [
+    "ntelford"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "microdata-rdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Specification of the extraction/transformation of Microdata content to RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "miniapp",
   "owner": {
    "login": "w3c"
@@ -10688,6 +12077,70 @@
   }
  },
  {
+  "name": "mlw-metadata-us-impl",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Metadata for the Multilingual Web - Usage Scenarios and Implementations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "mmi",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "repository for the W3C Multimodal Interaction Working Group (MMI WG)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/mmi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "mmi-discovery",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Registration & Discovery of Multimodal Modality Components in Multimodal Systems: Use Cases and Requirements Note",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/mmi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "mnx",
   "owner": {
    "login": "w3c"
@@ -10891,6 +12344,26 @@
   }
  },
  {
+  "name": "multicast-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Docs for initial W3C Multicast Community Group proposal",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/multicast"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "musicxml",
   "owner": {
    "login": "w3c"
@@ -10952,6 +12425,25 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "net-maint",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/net-maint"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -11058,6 +12550,46 @@
     "rec-track"
    ],
    "policy": "open"
+  }
+ },
+ {
+  "name": "p2p-webtransport",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/p2p-webtransport/",
+  "description": "Interface to create and manage QUIC streams",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ortc"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "caribouW3"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "packaged-webapps",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "All packaged web apps deliverables",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "packaged-webapps"
   }
  },
  {
@@ -11405,6 +12937,21 @@
   }
  },
  {
+  "name": "pfwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Work of the Protocols and Formats Working Group, excluding ARIA which is in a separate repository.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pf"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
   "name": "picture-in-picture",
   "owner": {
    "login": "w3c"
@@ -11513,6 +13060,27 @@
    "policy": "open",
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "poe",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Permissions & Obligations Expression WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/poe"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -11720,6 +13288,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -11741,6 +13310,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -11763,6 +13333,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -11826,6 +13397,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -11833,6 +13405,27 @@
    ],
    "repo-type": [
     "tests"
+   ]
+  }
+ },
+ {
+  "name": "publ-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/publishing/groups/publ-wg/",
+  "description": "Home page of the Audiobooks Working Group",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -11880,6 +13473,89 @@
    "repo-type": [
     "rec-track"
    ]
+  }
+ },
+ {
+  "name": "pwpub",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/pwpub/",
+  "description": "W3C packaged Web Publications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "qt3tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Tests for XPath and XQuery",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-query",
+    "wg/xslt"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "qtspecs",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "XSLT and XQuery Specifications - the source used to build the specs, and the errata",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-query",
+    "wg/xslt"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "quota-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "quota-api"
   }
  },
  {
@@ -12463,6 +14139,25 @@
   }
  },
  {
+  "name": "scholarly-html",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Scholarly HTML Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/scholarlyhtml"
+   ],
+   "contacts": [
+    "iherman",
+    "darobin"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "screen-fold",
   "owner": {
    "login": "w3c"
@@ -12748,6 +14443,27 @@
    ],
    "repo-type": [
     "homepage"
+   ]
+  }
+ },
+ {
+  "name": "shacl",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "SHACL Community Group (Post-REC activitities)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/data-shapes"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -13081,6 +14797,28 @@
   }
  },
  {
+  "name": "speech-synthesis11",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/speech-synthesis11/",
+  "description": "Repository to maitain the Speech Synthesis Markup Language (SSML) Version 1.1 specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/voice"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "shortName": "speech-synthesis11",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "standards-track",
   "owner": {
    "login": "w3c"
@@ -13099,6 +14837,23 @@
    "repo-type": [
     "process"
    ]
+  }
+ },
+ {
+  "name": "streams-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "streams-api"
   }
  },
  {
@@ -13138,6 +14893,27 @@
    ],
    "contacts": [
     "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "subline",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "The subhead element An HTML extension specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
    ],
    "repo-type": [
     "note"
@@ -13209,6 +14985,26 @@
   }
  },
  {
+  "name": "swig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Semantic Web Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/semweb"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "sync-media-pub",
   "owner": {
    "login": "w3c"
@@ -13219,6 +15015,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -13958,6 +15755,26 @@
   }
  },
  {
+  "name": "tvcontrol-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "TV Control API specification - https://w3c.github.io/tvcontrol-api/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/tvcontrol"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "type-samples",
   "owner": {
    "login": "w3c"
@@ -14087,6 +15904,28 @@
     "note"
    ],
    "policy": "restricted"
+  }
+ },
+ {
+  "name": "unspecified-web",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/unspecified-web/",
+  "description": "A repository listing aspects of the Web that are unspecified or poorly specified, but should be",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "project"
+   ]
   }
  },
  {
@@ -16014,6 +17853,88 @@
   }
  },
  {
+  "name": "web-annotation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-annotation/",
+  "description": "Web Annotation Working Group repository, see README for links to specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/annotation"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "web-annotation-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Tests for the Web Annotation Working Group's deliverables",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/annotation"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "web-based-signage-bg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/websignage/",
+  "description": "Work repository for W3C Web-based Signage Business Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "bg/websignage"
+   ],
+   "contacts": [
+    "kiyoshitanaka"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "web-cert-api-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-cert-api-cg/index.html",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-cert-api"
+   ],
+   "contacts": [
+    "wonsuk73"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "web-locks",
   "owner": {
    "login": "w3c"
@@ -16831,6 +18752,28 @@
   }
  },
  {
+  "name": "webmention",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/webmention/",
+  "description": "Webmention spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "webpayments",
   "owner": {
    "login": "w3c"
@@ -17204,6 +19147,47 @@
   }
  },
  {
+  "name": "webstorage",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Moved to https://html.spec.whatwg.org/multipage/webstorage.html",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "webstorage"
+  }
+ },
+ {
+  "name": "websub",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/websub/",
+  "description": "WebSub Spec in Social Web Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/social"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "webtransport",
   "owner": {
    "login": "w3c"
@@ -17331,6 +19315,23 @@
    "repo-type": [
     "tests"
    ]
+  }
+ },
+ {
+  "name": "workers",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform"
+   ],
+   "contacts": [
+    "siusin"
+   ],
+   "shortName": "workers"
   }
  },
  {
@@ -17757,6 +19758,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -17778,6 +19780,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/publishing",
     "wg/pm"
    ],
    "contacts": [
@@ -17831,6 +19834,27 @@
   }
  },
  {
+  "name": "xinclude",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-core"
+   ],
+   "contacts": [
+    "liamquin",
+    "ndw"
+   ],
+   "repo-type": [
+    "rec-track",
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "xml-entities",
   "owner": {
    "login": "w3c"
@@ -17848,6 +19872,47 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "xsdtests",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "W3C XML Schema 1.1 test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/schema"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "xslt30-test",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xslt"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "contacts": [
+    "michaelhkay",
+    "caribouW3"
    ]
   }
  },
