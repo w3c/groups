@@ -1,0 +1,17 @@
+[
+ {
+  "name": "indie-ui",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Independent User Interface (IndieUI) documents",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "tf/indie-ui-tf"
+   ],
+   "policy": "restricted"
+  }
+ }
+]
