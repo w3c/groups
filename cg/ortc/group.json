@@ -1,11 +1,11 @@
 {
  "id": 70061,
  "name": "ORTC (Object Real-time Communications) Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The mission of the Object Real-Time Communications Community Group, is to define Object-centric APIs (client-side at first) to enable Real-Time Communications in Web browsers, Mobile endpoints and Servers.",
  "shortname": "ortc",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/ortc"
@@ -29,5 +29,6 @@
    "href": "https://api.w3.org/groups/cg/ortc/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/ortc"
 }
