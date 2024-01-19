@@ -1,0 +1,66 @@
+[
+ {
+  "name": "emma",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "discovery",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/mmi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "mmi",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "repository for the W3C Multimodal Interaction Working Group (MMI WG)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/mmi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "mmi-discovery",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Registration & Discovery of Multimodal Modality Components in Multimodal Systems: Use Cases and Requirements Note",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/mmi"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ }
+]
