@@ -1,0 +1,23 @@
+[
+ {
+  "name": "web-based-signage-bg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/websignage/",
+  "description": "Work repository for W3C Web-based Signage Business Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "bg/websignage"
+   ],
+   "contacts": [
+    "kiyoshitanaka"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ }
+]
