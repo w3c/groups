@@ -1,0 +1,23 @@
+[
+ {
+  "name": "poe",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Permissions & Obligations Expression WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/poe"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
