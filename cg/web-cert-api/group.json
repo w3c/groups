@@ -1,11 +1,11 @@
 {
  "id": 117426,
  "name": "Web Certificate API Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The goal of Web Certificate API Community Group is to provide a JavaScript API for certificate related operations in web applications, such as retrieving a list of certificates, obtaining a public key and a private key associated with a certificate.",
  "shortname": "web-cert-api",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/web-cert-api"
@@ -29,5 +29,6 @@
    "href": "https://api.w3.org/groups/cg/web-cert-api/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/web-cert-api"
 }
