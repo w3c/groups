@@ -1,0 +1,25 @@
+[
+ {
+  "name": "UAAG",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/UAAG/UAAG20/",
+  "description": "Editors' draft of the User Agent Accessibility Guidelines",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/uaag"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "shortName": "UAAG20",
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
