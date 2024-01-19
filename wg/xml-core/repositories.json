@@ -1,0 +1,23 @@
+[
+ {
+  "name": "xinclude",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-core"
+   ],
+   "contacts": [
+    "liamquin",
+    "ndw"
+   ],
+   "repo-type": [
+    "rec-track",
+    "tests"
+   ]
+  }
+ }
+]
