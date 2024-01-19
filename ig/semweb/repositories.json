@@ -1,0 +1,22 @@
+[
+ {
+  "name": "swig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Semantic Web Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/semweb"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ }
+]
