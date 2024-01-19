@@ -1,0 +1,22 @@
+[
+ {
+  "name": "tvcontrol-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "TV Control API specification - https://w3c.github.io/tvcontrol-api/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/tvcontrol"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ }
+]
