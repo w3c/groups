@@ -1,0 +1,50 @@
+{
+ "id": 72531,
+ "name": "Social Web Working Group",
+ "is_closed": true,
+ "description": "The mission of the Social Web Working Group, part of the  Social Activity, is to define the techical protocols, vocabularies, and  APIs to facilitate access to social functionality as part of the Open  Web Platform. These technologies should allow communication between  indepedent systems, federation (also called \"decentralization\") being  part of the design.",
+ "shortname": "social",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/wg/social"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/Social/WG"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/social/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/social/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/social/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/social/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/social/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/social/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/social/charters/127"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/social/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/social/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/social/participations"
+  }
+ },
+ "type": "working group",
+ "start-date": "2014-07-21",
+ "end-date": "2018-01-31",
+ "identifier": "wg/social"
+}
