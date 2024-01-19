@@ -1,0 +1,206 @@
+[
+ {
+  "name": "dpub",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Outreach materials on the digital publishing activity",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "dpub-accessibility",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents of the Accessibility task force of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-annotation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "DPUB Specific Annotation issues",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-content-and-markup",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents of the Content & Markup task force of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-metadata",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Metadata Task force documents of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pagination",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents produced by the Digital Publishing Interest Group",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Repository of the W3C DPUB IG on the (Packaged) Web Publications work",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp-arch",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for the Archiving Task Force of the DPUB IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "shortName": "dpub-pwp-arch",
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp-loc",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Locator Task force of the W3C DPUB IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "shortName": "dpub-pwp-loc",
+   "policy": "open"
+  }
+ },
+ {
+  "name": "dpub-pwp-ucr",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dpub-pwp-ucr/",
+  "description": "Use Cases and Requirements for (Packaged) Web Publications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing",
+    "wg/publishing",
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "dpub-pwp-ucr",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "dpub-stem",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents of the STEM task force of the Digital Publishing IG",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "epubweb",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "White Paper on the EPUBWEB project",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ }
+]
