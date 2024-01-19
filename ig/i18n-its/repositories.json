@@ -1,0 +1,109 @@
+[
+ {
+  "name": "its-2.0-testsuite",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "its-2.0-testsuite-inputdata",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "its2req",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Requirements for Internationalization Tag Set (ITS) 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "itsrdf",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Internationalization Tag Set (ITS) Ontology ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "mlw-metadata-us-impl",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Metadata for the Multilingual Web - Usage Scenarios and Implementations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/i18n-its"
+   ],
+   "contacts": [
+    "fsasaki",
+    "rishida"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "policy": "open"
+  }
+ }
+]
