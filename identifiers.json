@@ -1010,5 +1010,193 @@
  {
   "id": 144015,
   "identifier": "cg/nostr"
+ },
+ {
+  "id": 40318,
+  "identifier": "wg/html"
+ },
+ {
+  "id": 83482,
+  "identifier": "wg/webplatform"
+ },
+ {
+  "id": 72531,
+  "identifier": "wg/social"
+ },
+ {
+  "id": 36791,
+  "identifier": "wg/uaag"
+ },
+ {
+  "id": 100074,
+  "identifier": "wg/publishing"
+ },
+ {
+  "id": 110778,
+  "identifier": "cg/bdcomacg"
+ },
+ {
+  "id": 88235,
+  "identifier": "cg/blockchain"
+ },
+ {
+  "id": 94039,
+  "identifier": "tf/css-a11y"
+ },
+ {
+  "id": 121175,
+  "identifier": "cg/cssprint"
+ },
+ {
+  "id": 68238,
+  "identifier": "wg/csv"
+ },
+ {
+  "id": 73865,
+  "identifier": "wg/data-shapes"
+ },
+ {
+  "id": 121672,
+  "identifier": "cg/did-kr"
+ },
+ {
+  "id": 113314,
+  "identifier": "cg/conv"
+ },
+ {
+  "id": 49311,
+  "identifier": "wg/tracking"
+ },
+ {
+  "id": 129525,
+  "identifier": "cg/services"
+ },
+ {
+  "id": 64149,
+  "identifier": "ig/publishing"
+ },
+ {
+  "id": 68239,
+  "identifier": "wg/dwbp"
+ },
+ {
+  "id": 34607,
+  "identifier": "wg/mmi"
+ },
+ {
+  "id": 125377,
+  "identifier": "wg/epub"
+ },
+ {
+  "id": 38502,
+  "identifier": "wg/exi"
+ },
+ {
+  "id": 73180,
+  "identifier": "wg/annotation"
+ },
+ {
+  "id": 125655,
+  "identifier": "cg/font-text"
+ },
+ {
+  "id": 120835,
+  "identifier": "cg/graphql-rdf"
+ },
+ {
+  "id": 127946,
+  "identifier": "cg/hns"
+ },
+ {
+  "id": 104908,
+  "identifier": "cg/idcg"
+ },
+ {
+  "id": 54997,
+  "identifier": "tf/indie-ui-tf"
+ },
+ {
+  "id": 136071,
+  "identifier": "cg/interactive-media"
+ },
+ {
+  "id": 72668,
+  "identifier": "ig/i18n-its"
+ },
+ {
+  "id": 84628,
+  "identifier": "cg/kiss"
+ },
+ {
+  "id": 89907,
+  "identifier": "cg/mathonwebpages"
+ },
+ {
+  "id": 112607,
+  "identifier": "cg/mathml4"
+ },
+ {
+  "id": 125898,
+  "identifier": "cg/merchant"
+ },
+ {
+  "id": 131839,
+  "identifier": "cg/multicast"
+ },
+ {
+  "id": 122081,
+  "identifier": "cg/net-maint"
+ },
+ {
+  "id": 70061,
+  "identifier": "cg/ortc"
+ },
+ {
+  "id": 32212,
+  "identifier": "wg/pf"
+ },
+ {
+  "id": 87755,
+  "identifier": "wg/poe"
+ },
+ {
+  "id": 18797,
+  "identifier": "wg/xml-query"
+ },
+ {
+  "id": 19552,
+  "identifier": "wg/xslt"
+ },
+ {
+  "id": 84855,
+  "identifier": "cg/scholarlyhtml"
+ },
+ {
+  "id": 34665,
+  "identifier": "wg/voice"
+ },
+ {
+  "id": 66594,
+  "identifier": "ig/semweb"
+ },
+ {
+  "id": 90021,
+  "identifier": "wg/tvcontrol"
+ },
+ {
+  "id": 54505,
+  "identifier": "bg/websignage"
+ },
+ {
+  "id": 117426,
+  "identifier": "cg/web-cert-api"
+ },
+ {
+  "id": 18796,
+  "identifier": "wg/xml-core"
+ },
+ {
+  "id": 19482,
+  "identifier": "wg/schema"
  }
 ]
