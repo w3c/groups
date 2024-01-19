@@ -1,0 +1,47 @@
+[
+ {
+  "name": "qt3tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Tests for XPath and XQuery",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-query",
+    "wg/xslt"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "qtspecs",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "XSLT and XQuery Specifications - the source used to build the specs, and the errata",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-query",
+    "wg/xslt"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
