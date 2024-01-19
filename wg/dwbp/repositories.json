@@ -1,0 +1,23 @@
+[
+ {
+  "name": "dwbp",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "This is the repo for the Data on the Web Best Practices Working Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dwbp"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
