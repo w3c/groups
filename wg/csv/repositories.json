@@ -1,0 +1,21 @@
+[
+ {
+  "name": "csvw",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Documents produced by the CSV on the Web Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/csv"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track",
+    "note"
+   ]
+  }
+ }
+]
