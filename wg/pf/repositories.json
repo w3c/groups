@@ -1,0 +1,17 @@
+[
+ {
+  "name": "pfwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Work of the Protocols and Formats Working Group, excluding ARIA which is in a separate repository.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pf"
+   ],
+   "policy": "restricted"
+  }
+ }
+]
