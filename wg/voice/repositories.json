@@ -1,0 +1,24 @@
+[
+ {
+  "name": "speech-synthesis11",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/speech-synthesis11/",
+  "description": "Repository to maitain the Speech Synthesis Markup Language (SSML) Version 1.1 specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/voice"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "shortName": "speech-synthesis11",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
