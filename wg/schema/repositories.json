@@ -1,0 +1,23 @@
+[
+ {
+  "name": "xsdtests",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "W3C XML Schema 1.1 test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/schema"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ }
+]
