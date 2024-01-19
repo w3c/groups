@@ -1,0 +1,24 @@
+[
+ {
+  "name": "dnt",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/tracking-dnt/",
+  "description": "Archive of DNT deliverables",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/tracking"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ }
+]
