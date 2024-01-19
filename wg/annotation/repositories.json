@@ -1,0 +1,64 @@
+[
+ {
+  "name": "findtext",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "An API spec to define how to find text in a Web document, using basic information, and return DOM ranges ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/annotation"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "web-annotation",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-annotation/",
+  "description": "Web Annotation Working Group repository, see README for links to specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/annotation"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "web-annotation-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Tests for the Web Annotation Working Group's deliverables",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/annotation"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ }
+]
