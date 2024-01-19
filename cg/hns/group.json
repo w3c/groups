@@ -1,11 +1,11 @@
 {
  "id": 127946,
  "name": "Handshake Protocol Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The <a rel=\"nofollow\" href=\"https://handshake.org/\">Handshake project</a> aims to solve certificate authorities problems caused by the centralization of the DNS root zone. The goal is to replace the current DNS root zone with a decentralized blockchain database that allows everyone to own a TLD.\r\n\r\nTo learn more, see https://learn.namebase.io/",
  "shortname": "hns",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/hns"
@@ -29,5 +29,6 @@
    "href": "https://api.w3.org/groups/cg/hns/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/hns"
 }
