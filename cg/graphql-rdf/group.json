@@ -1,11 +1,11 @@
 {
  "id": 120835,
  "name": "Bridging GraphQL and RDF Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The aim of this group is to explore how GraphQL and RDF can be combined, and to what respect they can benefit each other.\r\n\r\nThis group explores possible combinations of GraphQL and RDF. We identify and compare existing approaches that bridge these worlds, collect use cases and requirements for such approaches, and characterize corresponding application areas. This will produce deliverables that may serve as input for one or more possible future standardization efforts.\r\n\r\nExamples of application areas combining GraphQL and RDF are:\r\n\r\n<ul>\r\n<li>Read/Write Access (CRUD) to and from RDF data via GraphQL queries and/or interfaces</li>\r\n<li>Validation of RDF graphs using GraphQL schemas</li>\r\n<li>Mapping between GraphQL and RDF-based shape languages</li>\r\n</ul>\r\n\r\nThis group aims to produce the following deliverables:\r\n\r\n<ul>\r\n<li>An overview of all known approaches that combine GraphQL and RDF. This overview will include a brief description of each approach, the company/organization that has developed it, and links to the corresponding documentation.</li>\r\n<li>An analysis of all known approaches that combine GraphQL and RDF. This analysis will include a categorization across one or more facets that will be identified.</li>\r\n<li>A final report on suggestions/possibilities for standardization.</li>\r\n</ul>",
  "shortname": "graphql-rdf",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/graphql-rdf"
@@ -29,5 +29,6 @@
    "href": "https://api.w3.org/groups/cg/graphql-rdf/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/graphql-rdf"
 }
