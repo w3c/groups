@@ -112,8 +112,9 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "Tests for Linked Data Platform (LDP)",
-  "isArchived": false,
+  "homepageUrl": "",
+  "description": "(UNMAINTAINED) Tests for Linked Data Platform (LDP)",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
