@@ -982,6 +982,26 @@
   }
  },
  {
+  "name": "digital-credentials",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "IdentityCredential for Credential Management",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "digital-goods",
   "owner": {
    "login": "WICG"
@@ -1557,26 +1577,6 @@
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": null
- },
- {
-  "name": "identity-credential",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "IdentityCredential for Credential Management",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
  },
  {
   "name": "idle-detection",
