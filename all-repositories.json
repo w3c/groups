@@ -5830,7 +5830,17 @@
   },
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    87846
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "capture",
