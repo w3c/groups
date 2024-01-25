@@ -21,6 +21,25 @@
   }
  },
  {
+  "name": "body-tracking",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "capture",
   "owner": {
    "login": "immersive-web"
