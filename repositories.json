@@ -951,6 +951,26 @@
   }
  },
  {
+  "name": "digital-credentials",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "IdentityCredential for Credential Management",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "digital-goods",
   "owner": {
    "login": "WICG"
@@ -1495,26 +1515,6 @@
     "msporny"
    ],
    "shortName": "web-payments-browser-api"
-  }
- },
- {
-  "name": "identity-credential",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "IdentityCredential for Credential Management",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
   }
  },
  {
