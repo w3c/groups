@@ -14964,7 +14964,7 @@
    "login": "w3c"
   },
   "description": "MediaStream Capture Scenarios",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -16005,6 +16005,26 @@
    ],
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "normative-references-checker",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    52794
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tools"
    ]
   }
  },
