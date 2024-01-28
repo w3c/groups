@@ -31,4 +31,4 @@ Note: the server code is currently running within labs.w3.org.
 
 ## Sanitized `w3c.json`
 
-Defined in [./lib/utils.js](https://github.com/w3c/groups-server/blob/main/lib/utils.js#L67), it will process the raw w3c.json files, by omitting any property not listed in [`w3c.json` documentation](https://w3c.github.io/w3c.json.html) and normalize the valid properties.
+Defined in [./lib/utils.js](https://github.com/w3c/groups-server/blob/main/lib/utils.js#L67), it will process the raw w3c.json files, by omitting any property not listed in [`w3c.json` documentation](https://w3c.github.io/w3c.json.html) and normalizing the valid properties.
