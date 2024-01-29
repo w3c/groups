@@ -7040,6 +7040,17 @@
   }
  },
  {
+  "name": "saa-non-cookie-storage",
+  "owner": {
+   "login": "privacycg"
+  },
+  "homepageUrl": "https://arichiv.github.io/saa-non-cookie-storage/",
+  "description": "Extending Storage Access API (SAA) to non-cookie storage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "storage-access",
   "owner": {
    "login": "privacycg"
