@@ -21761,6 +21761,17 @@
   }
  },
  {
+  "name": "w3cdevs",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/w3cdevs/",
+  "description": "Archive of twitter content published on @w3cdevs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "w3process",
   "owner": {
    "login": "w3c"
