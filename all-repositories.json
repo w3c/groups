@@ -11855,6 +11855,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "A simple cache for GitHub",
   "isArchived": false,
   "isPrivate": false,
@@ -12011,6 +12012,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "A server to refresh group repositories in github.com/w3c/groups/repositories.json",
   "isArchived": false,
   "isPrivate": false,
@@ -16024,6 +16026,8 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://labs.w3.org/normative-references/",
+  "description": "Normative references checker",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -20213,6 +20217,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "Track issues in w3c/transitions and acts on them.",
   "isArchived": false,
   "isPrivate": false,
@@ -20234,6 +20239,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "description": "A quick 'n dirty publication notifier",
   "isArchived": false,
   "isPrivate": false,
