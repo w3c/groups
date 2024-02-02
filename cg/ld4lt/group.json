@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/ld4lt"
+ "identifier": "cg/ld4lt",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1907",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1908",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1909",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1910",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1912",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43846",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/ld4lt",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub repositories ",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43846"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43846/groups"
+     }
+    }
+   }
+  }
+ ]
 }
