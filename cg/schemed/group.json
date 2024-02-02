@@ -30,5 +30,55 @@
   }
  },
  "type": "community group",
- "identifier": "cg/schemed"
+ "identifier": "cg/schemed",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6072",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6073",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6074",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6075",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6076",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6077",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/twamarc/ScheMed",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub Repository for Healthcare Schema Vocabulary CG",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6077"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6077/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6078",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/6147",
+   "title": "Wiki"
+  }
+ ]
 }
