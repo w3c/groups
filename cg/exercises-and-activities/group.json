@@ -30,5 +30,27 @@
   }
  },
  "type": "community group",
- "identifier": "cg/exercises-and-activities"
+ "identifier": "cg/exercises-and-activities",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13809",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/13810",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/13811",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13813",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13814",
+   "title": "Wiki"
+  }
+ ]
 }
