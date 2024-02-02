@@ -1,5 +1,45 @@
 [
  {
+  "name": "capabilities",
+  "owner": {
+   "login": "a11yedge"
+  },
+  "description": "Inventory of edge capabilities",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "overlays",
+  "owner": {
+   "login": "a11yedge"
+  },
+  "description": "Overlays as examined by the W3C Accessibility at the Edge Community Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "a11y-request",
   "owner": {
    "login": "w3c"
