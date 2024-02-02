@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/antifraud"
+ "identifier": "cg/antifraud",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33292",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33293",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33294",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33295",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33296",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/antifraudcg",
+    "shortdesc": "GitHub org",
+    "longdesc": "",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33296"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33296/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33338",
+   "title": "Discussion Forum"
+  }
+ ]
 }
