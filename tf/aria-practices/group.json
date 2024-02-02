@@ -75,5 +75,15 @@
    "href": "https://api.w3.org/groups/tf/aria-practices/chairs"
   }
  },
- "identifier": "tf/aria-practices"
+ "identifier": "tf/aria-practices",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12371",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/34825",
+   "title": "Other"
+  }
+ ]
 }
