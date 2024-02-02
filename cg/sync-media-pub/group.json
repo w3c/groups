@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/sync-media-pub"
+ "identifier": "cg/sync-media-pub",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12273",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/12274",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/12275",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/12277",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15476",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/sync-media-pub",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15476"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15476/groups"
+     }
+    }
+   }
+  }
+ ]
 }
