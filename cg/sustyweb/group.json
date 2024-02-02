@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/sustyweb"
+ "identifier": "cg/sustyweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1472",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1473",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1475",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1477",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/39166",
+   "title": "Discussion Forum"
+  },
+  {
+   "href": "https://api.w3.org/services/39167",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/sustyweb",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39167"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39167/groups"
+     }
+    }
+   }
+  }
+ ]
 }
