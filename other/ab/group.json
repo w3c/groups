@@ -25,5 +25,23 @@
    "href": "https://api.w3.org/groups/other/ab/teamcontacts"
   }
  },
- "identifier": "other/ab"
+ "identifier": "other/ab",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/16002",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/18008",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/26627",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/34544",
+   "title": "Mailing List"
+  }
+ ]
 }
