@@ -156,5 +156,11 @@
    "href": "https://api.w3.org/groups/tf/transportation-ont-cc/chairs"
   }
  },
- "identifier": "tf/transportation-ont-cc"
+ "identifier": "tf/transportation-ont-cc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/27629",
+   "title": "Mailing List"
+  }
+ ]
 }
