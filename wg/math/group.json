@@ -46,5 +46,95 @@
  "type": "working group",
  "start-date": "2006-06-28",
  "end-date": "2025-10-13",
- "identifier": "wg/math"
+ "identifier": "wg/math",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1870",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33170",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33171",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33172",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33178",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/mathml",
+    "shortdesc": "MathML repo",
+    "longdesc": "MathML Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33178"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33178/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33219",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/mathml-core",
+    "shortdesc": "MathML Core repo",
+    "longdesc": "MathML Core GitHub repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33219"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33219/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33220",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/xml-entities",
+    "shortdesc": "XML Entities repo",
+    "longdesc": "XML Entities GitHub repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33220"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33220/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33231",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33319",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/33320",
+   "title": "Other"
+  }
+ ]
 }
