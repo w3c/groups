@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "qtspecs",
+  "owner": {
+   "login": "qt4cg"
+  },
+  "homepageUrl": "https://qt4cg.org/",
+  "description": "QT4 specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xslt-40"
+   ]
+  }
+ }
+]
