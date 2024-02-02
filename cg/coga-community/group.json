@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/coga-community"
+ "identifier": "cg/coga-community",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33240",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33241",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33242",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33243",
+   "title": "Mailing List"
+  }
+ ]
 }
