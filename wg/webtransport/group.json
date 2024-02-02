@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2020-09-08",
  "end-date": "2024-05-31",
- "identifier": "wg/webtransport"
+ "identifier": "wg/webtransport",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25967",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25980",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/27444",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27800",
+   "title": "Other"
+  }
+ ]
 }
