@@ -33,5 +33,35 @@
   }
  },
  "type": "business group",
- "identifier": "bg/autowebplatform"
+ "identifier": "bg/autowebplatform",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1411",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1412",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1413",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1414",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1415",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1416",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25913",
+   "title": "Issue Tracking"
+  }
+ ]
 }
