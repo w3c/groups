@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "name": "admin",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Repo for administrative documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
+  "name": "developer-research",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Development of research on developer needs to inform improvements in Web Platform Developer Experience",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
+  "name": "web-features",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Exploring how to present Web platform features adoptability",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ }
+]
