@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "rfcs",
+  "owner": {
+   "login": "interledger"
+  },
+  "homepageUrl": "https://interledger.org",
+  "description": "Specifications for Interledger and related protocols",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/interledger"
+   ]
+  }
+ }
+]
