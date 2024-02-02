@@ -1,1 +1,400 @@
-[]
+[
+ {
+  "name": "DefinitelyTyped",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "The repository for high quality TypeScript type definitions.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "ShExAPI",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "Common Shape Expressions API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "ShExC-cheat-sheet",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "summary of ShExC syntax and semantics",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "ShExTractor",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "Use ShEx to extract wikidata subsets",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "ShapePath.js",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "A typescript library for executing ShapePaths",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "ace-shexc-mode",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "https://ace.c9.io",
+  "description": "Ace (Ajax.org Cloud9 Editor)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "ace-shexc-user",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "Simple example using ace-shexc-mode.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "examples",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "Examples of Shape Expressions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "extensions",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "ShEx extensions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "grammar",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "ShEx grammar",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "grammar-cpp-yacc",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "C++ yacc ShExC parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "grammar-javascript-antlr",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "Javascript Antlr ShExC parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "grammar-python-antlr",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "Python Antlr ShExC parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "primer",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "ShEx primer",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "primer_jupyter",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "ShEx Primer in Jupyter notebooks",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "schemas",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "ShEx schemas for common vocabularies and use cases.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "semantics",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "ShEx semantics",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "shape-map",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "ShapeMap structure and language specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ],
+   "contacts": [
+    "ericprud"
+   ]
+  }
+ },
+ {
+  "name": "shex",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "ShEx language issues, including new features for e.g. ShEx2.1",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "shex.io",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "shex.io web site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "shexTest",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "https://shexspec.github.io/shexTest/",
+  "description": "ShEx test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "shexmapTest",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "repository for ShExMap tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "shexspec.github.io",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "shexspec.github.io web site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "spec",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "ShEx specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ],
+   "contacts": [
+    "ericprud"
+   ]
+  }
+ },
+ {
+  "name": "spec-2",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "ShEx specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ],
+   "contacts": [
+    "ericprud"
+   ]
+  }
+ },
+ {
+  "name": "talks",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "description": "ShEx slides and presentations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ },
+ {
+  "name": "test-suite",
+  "owner": {
+   "login": "shexSpec"
+  },
+  "homepageUrl": "",
+  "description": "obsolete ShEx test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shex"
+   ]
+  }
+ }
+]
