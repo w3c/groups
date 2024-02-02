@@ -46,5 +46,39 @@
  "type": "working group",
  "start-date": "2010-08-18",
  "end-date": "2025-12-01",
- "identifier": "wg/webperf"
+ "identifier": "wg/webperf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6121",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15617",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/15618",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/15619",
+   "title": "Twitter"
+  },
+  {
+   "href": "https://api.w3.org/services/15645",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/15646",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/17295",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25831",
+   "title": "Other"
+  }
+ ]
 }
