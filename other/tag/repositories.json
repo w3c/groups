@@ -1,5 +1,93 @@
 [
  {
+  "name": "accessibility-questionnaire",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "A checklist for whether further accessibility review should be triggered",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "bfcache-guide",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/bfcache-guide/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "caching-bundling-sustainability",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/caching-bundling-sustainability/",
+  "description": "Draft Sustainability of Bundling and Caching finding",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "capability-urls",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "http://w3ctag.github.io/capability-urls/",
+  "description": "Work on good practices for the use of capability URLs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "client-certificates",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/client-certificates",
+  "description": "TAG spec review on keygen and use of client certificates in the web platform.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "design-principles",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/design-principles",
+  "description": "A small-but-growing set of design principles collected by the TAG while reviewing specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
   "name": "design-reviews",
   "owner": {
    "login": "w3ctag"
@@ -17,6 +105,526 @@
    "policy": "restricted",
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "distributed-content",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/distributed-content/",
+  "description": "W3C TAG finding on distributed and syndicated content",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "eme",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "TAG opinion on EME",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "encryption-finding",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "",
+  "description": "http://www.w3.org/2001/tag/doc/encryption-finding/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "ethical-web-principles",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/ethical-web-principles/",
+  "description": "W3C TAG Ethical Web Principles",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "evergreen-web",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/evergreen-web/",
+  "description": "Evergreen Web Finding",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "extending-html-responsibly",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "extensible-web-report-card",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://extensiblewebreportcard.org/",
+  "description": "Documenting the state of the extensible web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "jsidl",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "In-progress work to define a new syntax and semantics for a JS-based IDL",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "",
+  "description": "Minutes of all TAG Meetings and Calls",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "obsoletion",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Specifications to be considered for Obsolescence",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "packaging-on-the-web",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "",
+  "description": "OBSOLETE: Guidance about how to provide packages of information on the web.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "placeholder",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Possible Companion Finding to “Secure Contexts” Document from WebAppSec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "polyfills",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/polyfills",
+  "description": "Finding on polyfills",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "presentations",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "privacy-principles",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/privacy-principles/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "private-browsing-modes",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/private-browsing-modes/",
+  "description": "W3C W3C TAG Observations on Private Browsing Modes",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "private-mode",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "http://w3ctag.github.io/private-mode/",
+  "description": "Specification for \"private mode\" browsing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "process",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "promises-guide",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://www.w3.org/2001/tag/doc/promises-guide",
+  "description": "A guide for spec authors on how to use Promises in prose and WebIDL.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "secure-the-web",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Recommendations from the TAG on How to Make the Web More Secure",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "security-questionnaire",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "description": "A security/privacy review questionnaire for W3C specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "societal-impact-questionnaire",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/societal-impact-questionnaire/",
+  "description": "Questions to help spec authors and reviewers critically assess the impacts of web platform features",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "subclassable-apis-guide",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "How and why to design APIs that allow subclassing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "tag.w3.org",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://tag.w3.org/",
+  "description": "TAG current work github page",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "tagdocs",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Documentation and other Information related to the TAG group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "tools",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "General tools",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "tracking-issues",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Tracking issues opened on other repositories as a result of design reviews.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "unsanctioned-tracking",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/unsanctioned-tracking/",
+  "description": "Finding on Unsanctioned Tracking",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "url",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "http://url.spec.whatwg.org/",
+  "description": "URL Standard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "urls-in-data",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "web-https",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/web-https/",
+  "description": "Transitioning the Web to HTTPS",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "web-without-3p-cookies",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/web-without-3p-cookies/",
+  "description": "Draft finding about third-party cookie removal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "webarch",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": " http://w3ctag.github.io/webarch/",
+  "description": "The Architecture of the World Wide Web (Second edition)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "webcomponents-design-guidelines",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "",
+  "description": "https://w3ctag.github.io/webcomponents-design-guidelines/ - Guidelines for creating web platform compatible components",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "wiki",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "wiki for non-specific stuff",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "with-credentials",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "a discussion of proposals related to w3ctag/design-reviews#76",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
    ]
   }
  }
