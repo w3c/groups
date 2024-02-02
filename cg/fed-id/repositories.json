@@ -1,1 +1,136 @@
-[]
+[
+ {
+  "name": "admin",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "Administrivia for the Federated ID Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "fedcm-testing",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "fedidcg.github.io",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "homepageUrl": "https://fedidcg.github.io",
+  "description": "Website and charter of the Federated Identity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "login-status",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "homepageUrl": "",
+  "description": "Agenda and minutes of meetings of the Federated Identity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "wseltzer",
+    "weiler"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "homepageUrl": "",
+  "description": "New proposals in the Federated Identity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "protocol-library",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "homepageUrl": "",
+  "description": "protocol use case library",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "template",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "Template repository for a CG proposal or work item.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
+  "name": "use-case-library",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ }
+]
