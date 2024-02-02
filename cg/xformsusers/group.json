@@ -30,5 +30,31 @@
   }
  },
  "type": "community group",
- "identifier": "cg/xformsusers"
+ "identifier": "cg/xformsusers",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/166",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1009",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1010",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1011",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1012",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1014",
+   "title": "Mailing List"
+  }
+ ]
 }
