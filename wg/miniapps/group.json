@@ -46,5 +46,43 @@
  "type": "working group",
  "start-date": "2021-01-19",
  "end-date": "2025-10-12",
- "identifier": "wg/miniapps"
+ "identifier": "wg/miniapps",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/27783",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27812",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/miniapp/",
+    "shortdesc": "GitHub Repositories",
+    "longdesc": "GitHub Repositories",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27812"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27812/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/28075",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33322",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/33323",
+   "title": "Issue Tracking"
+  }
+ ]
 }
