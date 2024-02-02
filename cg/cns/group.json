@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/cns"
+ "identifier": "cg/cns",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33330",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33331",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33332",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33333",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43851",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/privacycoop/cns-commons",
+    "shortdesc": "CNS GitHub Repo",
+    "longdesc": "CNS GitHub Repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43851"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43851/groups"
+     }
+    }
+   }
+  }
+ ]
 }
