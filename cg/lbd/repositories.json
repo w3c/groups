@@ -1,1 +1,131 @@
-[]
+[
+ {
+  "name": "IFCtoLBD",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "Web application that transforms IFC files to Linked Building Data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "bot",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "homepageUrl": "https://w3id.org/bot",
+  "description": "Building Topology Ontology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "lbd",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "homepageUrl": "https://www.w3.org/community/lbd/",
+  "description": "The source of the W3C Linked Building Data Community Group website https://w3c-lbd-cg.github.io/lbd/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "ontologies",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "A list of ontologies related to Linked Building Data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "opm",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "Ontology for Property Management",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "product",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "Product Ontology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "project",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "Project Management ontology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "repo4doc",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "homepageUrl": "",
+  "description": "This is a repo to serve as a git-based editing possibility of some documents of the W3C LBD CG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ },
+ {
+  "name": "tools",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "A list of tools that use the LBD technologies",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/lbd"
+   ]
+  }
+ }
+]
