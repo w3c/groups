@@ -30,5 +30,91 @@
   }
  },
  "type": "community group",
- "identifier": "cg/music-notation"
+ "identifier": "cg/music-notation",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6134",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6135",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6136",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6137",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6138",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6139",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/15462",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/musicxml",
+    "shortdesc": "MusicXML Github repository",
+    "longdesc": "MusicXML Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15462"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15462/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15463",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/mnx",
+    "shortdesc": "MNX Github repository",
+    "longdesc": "MNX Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15463"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15463/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15524",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/smufl",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15524"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15524/groups"
+     }
+    }
+   }
+  }
+ ]
 }
