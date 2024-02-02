@@ -46,5 +46,27 @@
  "type": "working group",
  "start-date": "2011-05-05",
  "end-date": "2024-09-30",
- "identifier": "wg/webrtc"
+ "identifier": "wg/webrtc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/175",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1839",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1852",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25904",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/25918",
+   "title": "Other"
+  }
+ ]
 }
