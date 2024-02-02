@@ -1,1 +1,152 @@
-[]
+[
+ {
+  "name": "charter",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/charter/",
+  "description": "📜 Web Machine Learning Community Group Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "🗒 Agendas, minutes and other meeting material",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "model-loader",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/model-loader/",
+  "description": "🧪 Model Loader API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "🚀 Proposals for future work",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "test-data",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "🏋️‍♀️ Reusable model weights and other test data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "webmachinelearning.github.io",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io",
+  "description": "🌎 Web Machine Learning website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "webnn-baseline",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "🧠🌱 Pure JS implementation of the Web Neural Network API w/o 3rd party deps",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "webnn-native",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "🧠⚙️ Standalone native implementation of the Web Neural Network API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "webnn-polyfill",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://www.npmjs.com/package/@webmachinelearning/webnn-polyfill",
+  "description": "🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "webnn-samples",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "🧠✨ Web Neural Network API samples",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ }
+]
