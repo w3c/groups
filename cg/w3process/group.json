@@ -30,5 +30,51 @@
   }
  },
  "type": "community group",
- "identifier": "cg/w3process"
+ "identifier": "cg/w3process",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/758",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/759",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/760",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/761",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/763",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/12221",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/w3process/",
+    "shortdesc": "Github repo",
+    "longdesc": "Github repository for revising the W3C process document",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12221"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12221/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17737",
+   "title": "Mailing List"
+  }
+ ]
 }
