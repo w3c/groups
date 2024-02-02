@@ -46,5 +46,19 @@
  "type": "working group",
  "start-date": "2019-05-23",
  "end-date": "2025-05-31",
- "identifier": "wg/media"
+ "identifier": "wg/media",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15625",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25887",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/27801",
+   "title": "Other"
+  }
+ ]
 }
