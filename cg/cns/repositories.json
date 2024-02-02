@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "cns-commons",
+  "owner": {
+   "login": "privacycoop"
+  },
+  "description": "Consent Name System (CNS)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cns"
+   ]
+  }
+ }
+]
