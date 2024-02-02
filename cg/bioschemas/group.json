@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/bioschemas"
+ "identifier": "cg/bioschemas",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6556",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6557",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6558",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6560",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6581",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/bioschemas",
+    "shortdesc": "GitHub Repo",
+    "longdesc": "GitHub Repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6581"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6581/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15585",
+   "title": "Twitter"
+  }
+ ]
 }
