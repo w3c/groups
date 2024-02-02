@@ -20,5 +20,19 @@
     "tool"
    ]
   }
+ },
+ {
+  "name": "publ-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "EPUB 3 Community Group Repository",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/epub3"
+   ]
+  }
  }
 ]
