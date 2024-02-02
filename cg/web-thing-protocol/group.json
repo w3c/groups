@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/web-thing-protocol"
+ "identifier": "cg/web-thing-protocol",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17323",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/17324",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/17325",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17326",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43838",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/web-thing-protocol/",
+    "shortdesc": "Github repo",
+    "longdesc": "Github repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43838"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43838/groups"
+     }
+    }
+   }
+  }
+ ]
 }
