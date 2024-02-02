@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/audio-comgp"
+ "identifier": "cg/audio-comgp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15422",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15423",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15424",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15426",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15552",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/WebAudio/web-audio-cg/",
+    "shortdesc": "GitHub Repo",
+    "longdesc": "GitHub Repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15552"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15552/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25916",
+   "title": "Issue Tracking"
+  }
+ ]
 }
