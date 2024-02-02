@@ -1,1 +1,81 @@
-[]
+[
+ {
+  "name": ".github",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "description": "GitHub Homepage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
+  "name": "charter",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "homepageUrl": "https://github.com/WebView-CG/charter/blob/main/charter.md",
+  "description": "Charter for a W3C WebView Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
+  "name": "explainers",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "description": "Document technical proposals for issues and challenges related to WebViews",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "homepageUrl": "",
+  "description": "Agenda and Minutes of WebView Community Group meetings.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
+  "name": "usage-and-challenges",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "homepageUrl": "https://webview-cg.github.io/usage-and-challenges/",
+  "description": "Documenting usage scenarios for WebView and the challenges they create",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ],
+   "contacts": [
+    "dontcallmeDom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
