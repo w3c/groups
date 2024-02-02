@@ -75,5 +75,15 @@
    "href": "https://api.w3.org/groups/tf/low-vision-a11y-tf/chairs"
   }
  },
- "identifier": "tf/low-vision-a11y-tf"
+ "identifier": "tf/low-vision-a11y-tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6146",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/7244",
+   "title": "Mailing List"
+  }
+ ]
 }
