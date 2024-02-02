@@ -46,5 +46,19 @@
  "type": "working group",
  "start-date": "2017-04-14",
  "end-date": "2024-06-30",
- "identifier": "wg/vc"
+ "identifier": "wg/vc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6957",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/8136",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25897",
+   "title": "Issue Tracking"
+  }
+ ]
 }
