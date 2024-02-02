@@ -75,5 +75,11 @@
    "href": "https://api.w3.org/groups/tf/aria-editors/chairs"
   }
  },
- "identifier": "tf/aria-editors"
+ "identifier": "tf/aria-editors",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33307",
+   "title": "Mailing List"
+  }
+ ]
 }
