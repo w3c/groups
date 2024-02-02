@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2008-08-15",
  "end-date": "2025-04-07",
- "identifier": "wg/timed-text"
+ "identifier": "wg/timed-text",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1905",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7973",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17357",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25896",
+   "title": "Issue Tracking"
+  }
+ ]
 }
