@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/webassembly"
+ "identifier": "cg/webassembly",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6053",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6054",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6055",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6089",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/webassembly",
+    "shortdesc": "GitHub repositories",
+    "longdesc": "GitHub repositories",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6089"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6089/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12190",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/26885",
+   "title": "Mailing List"
+  }
+ ]
 }
