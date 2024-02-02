@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/kg-construct"
+ "identifier": "cg/kg-construct",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15526",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15527",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15528",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15530",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25779",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/kg-construct",
+    "shortdesc": "Github repositories",
+    "longdesc": "Github repositories",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25779"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25779/groups"
+     }
+    }
+   }
+  }
+ ]
 }
