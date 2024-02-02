@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "community-group",
+  "owner": {
+   "login": "design-tokens"
+  },
+  "homepageUrl": "https://tr.designtokens.org",
+  "description": "This is the official DTCG repository for the design tokens specification.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/design-tokens"
+   ]
+  }
+ }
+]
