@@ -37,5 +37,11 @@
  "type": "interest group",
  "start-date": "2001-06-18",
  "end-date": "2024-06-30",
- "identifier": "ig/wai"
+ "identifier": "ig/wai",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13780",
+   "title": "Mailing List"
+  }
+ ]
 }
