@@ -124,5 +124,11 @@
    "href": "https://api.w3.org/groups/tf/mobile-a11y-tf/chairs"
   }
  },
- "identifier": "tf/mobile-a11y-tf"
+ "identifier": "tf/mobile-a11y-tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1785",
+   "title": "Mailing List"
+  }
+ ]
 }
