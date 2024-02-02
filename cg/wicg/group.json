@@ -30,5 +30,51 @@
   }
  },
  "type": "community group",
- "identifier": "cg/wicg"
+ "identifier": "cg/wicg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6097",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6098",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6099",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6101",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6102",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/wicg/",
+    "shortdesc": "GitHub Repository",
+    "longdesc": "GitHub Repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6102"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6102/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6133",
+   "title": "Discussion Forum"
+  },
+  {
+   "href": "https://api.w3.org/services/25874",
+   "title": "Other"
+  }
+ ]
 }
