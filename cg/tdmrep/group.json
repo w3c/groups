@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/tdmrep"
+ "identifier": "cg/tdmrep",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/27784",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/27785",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/27786",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27787",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27788",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/tdm-reservation-protocol",
+    "shortdesc": "Github repository",
+    "longdesc": "",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27788"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27788/groups"
+     }
+    }
+   }
+  }
+ ]
 }
