@@ -1,0 +1,34 @@
+{
+ "id": 152802,
+ "name": "Update robots.txt standards Community Group",
+ "is_closed": false,
+ "description": "Robots.txt is currently based on opting out of what you do not want your website to be a part of. \r\n\r\nThis is hard to maintain (almost a full time job right now) if you do not wish for your websites content to be applied for e.g. training AI, be a part of market research (e.g. price robots), to be a part of non-search engine databases and more.\r\n\r\nThis proposal is to update what type of instructions robots.txt should support to rather be treated as an opt-in, where you can give instructions based on intent of robots rather than a wildcard or in granular detail.\r\n\r\nExample: \r\nAgent-group: searchengines\r\n\r\nApplies to all robots that seeks to update, process or maintain websites for search engine databases. Does not grant permission to apply scraped data for AI purposes (this should have its own Agent-group).\r\n\r\nAlso, the absence of instructions should be treated as not having opted in, and for robots working on behalf of AI, there might need to be additional instructions (e.g. max-snippet and if you require a citation if your content is applied to provide an answer).",
+ "shortname": "robotstxt",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/robotstxt"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/robotstxt/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/robotstxt/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/robotstxt/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/robotstxt/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/robotstxt/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/robotstxt/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/robotstxt"
+}
