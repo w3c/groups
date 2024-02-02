@@ -1,1 +1,432 @@
-[]
+[
+ {
+  "name": "CSPARQL-ReadyToGoPack",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": " CSPARQL-ReadyToGoPack contains usage example of CSPARQL Engine",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "CSPARQL-engine",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "reasoning over RDF stream made easy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "FraPPE",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "Vovabulary and utiities to model geo-spatial time varying data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "HeavenTeststand",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "RSP-Baseline-Experiments",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "RSP-QL",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "",
+  "description": "A home of RSP-QL syntax and semantics discussion",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "TripleWave",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "http://streamreasoning.github.io/TripleWave",
+  "description": "TripleWave is a framework to publish RDF streams on the Web.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "Welcome",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "Welcome Repository for the Stream Reasoning GitHub Organization",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "blackboard_mediator",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "city-sensing-server",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "cpsm4mdw14",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "csparql2",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "heaven",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "lass",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "",
+  "description": "LASS Instance Generator (L1G)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "ontop",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp-baseline-parser",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "RSP Baseline Parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp-services",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "rsp-service implementation.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp-services-api",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "java api to access to rsp services",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp-services-client-example",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "A little client example to find out the possibilities of rsp services implementation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp-services-csparql",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "",
+  "description": "rsp-service implementation for csparql engine.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp4j",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "",
+  "description": "RSP4J a library for RDF Stream Processing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsplab",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "http://rsp-lab.org",
+  "description": "Repository containing configurations for the benchmarks included in RSP Lab Suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsplib",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "Python Library and Specification for RDF Stream Processing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "simple-pizza-oven-rdf",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "slangs",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "streamreasoning.github.io",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "",
+  "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "vois",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "Vocabulary for Interlinked Streams",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "w3id.org",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "description": "Website source code for w3id.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "wvot",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "yabench",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "homepageUrl": "http://yabench.github.io",
+  "description": "Source code of Yet Another RDF Stream Processing Benchmark",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "yasper",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ }
+]
