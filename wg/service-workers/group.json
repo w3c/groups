@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2017-08-03",
  "end-date": "2025-01-31",
- "identifier": "wg/service-workers"
+ "identifier": "wg/service-workers",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25890",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/26174",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33202",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/33204",
+   "title": "Other"
+  }
+ ]
 }
