@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "community-group",
+  "owner": {
+   "login": "webvmt"
+  },
+  "description": "WebVMT Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webvmt-cg"
+   ]
+  }
+ }
+]
