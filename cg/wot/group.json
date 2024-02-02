@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/wot"
+ "identifier": "cg/wot",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1515",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1516",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1517",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1518",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/34817",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/wot-cg",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34817"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34817/groups"
+     }
+    }
+   }
+  }
+ ]
 }
