@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/nordic-accessibility"
+ "identifier": "cg/nordic-accessibility",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33348",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33350",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33351",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/39177",
+   "title": "Discussion Forum"
+  }
+ ]
 }
