@@ -66,5 +66,15 @@
    "href": "https://api.w3.org/groups/tf/i18n-sealreq/chairs"
   }
  },
- "identifier": "tf/i18n-sealreq"
+ "identifier": "tf/i18n-sealreq",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/14514",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/26473",
+   "title": "Mailing List"
+  }
+ ]
 }
