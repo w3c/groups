@@ -1,1 +1,1683 @@
-[]
+[
+ {
+  "name": "2015-16.openactive.io",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "ARCHIVE: Content for openactive.io, archived from 2016",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "2016-18.openactive.io",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Content for openactive.io, archived from 2018",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "2018-20.openactive.io",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Content from openactive.io, archived from 2020",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "OpenActive.DatasetSite.NET",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": ".NET helper functions to create an OpenActive Dataset Site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "OpenActive.NET",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Strongly Typed C# Models for OpenActive",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "OpenActive.Server.NET",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": ".NET server library, including an OpenActive Reference Implementation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "Schema.NET",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "accessibility-support",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Accessibility Support controlled vocabularies data and documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "activity-list",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://www.openactive.io/activity-list/",
+  "description": "The OpenActive activity list",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "activity-list-editor",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Activity List editor code (modified from iqvoc)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "activity-list-xml-json",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVED: Converter from workflowy XML format to OpenActive SKOS serialisation",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "api-dashboard",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://status.openactive.io",
+  "description": "A dashboard to support OpenActive API users & publishers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "azure-rpde-proxy",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "RPDE Proxy for Azure",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "booking-api-reference-implementation",
+  "owner": {
+   "login": "openactive"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "booking-libs-sketch",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Some sketch work around libraries",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "booking-order-engine",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Designs for a broker microservice that lowers the barriers of integration with the Open Booking API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "booking-swagger",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "API specification for the current draft of the Booking API.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "brand-assets",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "OpenActive Brand Assets",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "cloudflare-page-rules",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Documentation for Cloudflare Page Rules within openactive.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "cloudflare-reverse-proxy",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Cloudflare reverse proxy scripts for OpenActive.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "collection-editor",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Activity List ConceptCollection editor",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "community-members",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Discussion and directory relating to the OpenActive community",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "community-resources",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Engagement resources for the OpenActive community",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "concept-scheme-restriction-generator",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Generator to render complete ConceptSchemes from ConceptSchemeRestriction",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "conformance-certification",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Vocabulary supporting OpenActive Conformance Certification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "conformance-profiles",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "JSON Schemas defining OpenActive data profiles",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "conformance-services",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Harvests and normalises OpenActive Opportunity feeds to a common representation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "conformance-status-page",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Web application displaying data availability and profile conformity of OpenActive endpoints",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "contributor-documentation",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Documentation for contributors to OpenActive's open source infrastructure",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "csv_converter",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVED: Scripts to convert json from Open Active API into csv",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "customer-accounts-api",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Repository for discussions broadly related to Customer Accounts",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "data-catalog-compare-action",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "GitHub Action to compare data catalog files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "data-catalogs",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Data Catalogs and Data Catalog Collections",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "data-model-validator",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "The OpenActive data model validator library",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "data-model-validator-site",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "User interface for the OpenActive data model validator",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "data-models",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Data models used to drive OpenActive validator and developer documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-api-discovery",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Dataset API Discovery Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-directory",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "API for list of canonical datasets, traversing DCAT files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-site-generator",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Dataset Site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-site-template",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Templates for creating a dataset site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-site-template-example-dotnet",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Dataset Site Template rendering example in C#",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-site-template-php",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "PHP Classes and resources supporting dataset site creation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-site-template-ruby",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Ruby classes and resources supporting dataset site creation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "dataset-utils",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Utilities for fetching, parsing and crawling OpenActive data catalogs and dataset sites",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "datasets",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Directory of datasets published via OpenActive",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "delivering-openactive",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Short URL for OpenActive Contract Requirements document",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "developer-documentation",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://developer.openactive.io/",
+  "description": "Developer documentation synced with GitBook and the Data Models",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "developer-documentation-draft",
+  "owner": {
+   "login": "openactive"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "developer-microsite",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Microsite for the OpenActive Developer engagement, archived from 2018",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "endpoint-analyser",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://endpoint-analyser.openactive.io/",
+  "description": "ARCHIVED: Standards adoption stats across current implementers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "endpoint-validator",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Validator for endpoints implementing OpenActive Real-Time Paged Exchange Standard, archived from 2016",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "extension-documentation-generator",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Generate documentation for OpenActive extensions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "facility-attribute-list",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Facility Attribute List controlled vocabularies data and documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "facility-types",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Facility Types controlled vocabularies data and documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "github-actions-workflows",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A repository that contains reusable GitHub Actions Workflows that are referenced throughout the OpenActive GitHub organisation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "gulp-respec",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Gulp tasks to render ReSpec files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "harvester",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Harvester for slurping OA feed data, written in Node.js",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "implementation-tracker",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Activation Issue Tracker for OpenActive Implementations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "infrastructure-guide",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A guide to the OpenActive open infrastructure",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "infrastructure-monitor",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Infrastructure Build and Dependency Monitor",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "iqvoc",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "http://iqvoc.net/",
+  "description": "iQvoc - A SKOS(-XL) Vocabulary Management System for the Semantic Web",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "learn",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://www.openactive.io/learn/",
+  "description": "OpenActive E-learning",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "les-mills-programme-page-example",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "LES MILLS Programme Page Example",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "livestream",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Event Live Stream page",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "lorem-fitsum",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Random activity generator",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "maintainer-documentation",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Documentation for maintainers of OpenActive's open source infrastructure",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "model-validator",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Schemas and validator for the Modelling Opportunity Data specification, archived from 2017",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "modelling-opportunity-data",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://www.openactive.io/modelling-opportunity-data/",
+  "description": "OpenActive Modelling Opportunity Data specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "models-lib",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Supporting code and tooling for OpenActive models, common across all languages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "models-php",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "PHP Models for the OpenActive Opportunity and Booking Specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "models-php-test",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://sw-oa-php-test-site.herokuapp.com",
+  "description": "A simple PHP app for testing the OA PHP libraries",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "models-ruby",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Ruby Models for the OpenActive Opportunity and Booking Specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "models-ruby-test",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://sw-oa-ruby-test-site.herokuapp.com",
+  "description": "A simple Sinatra app for testing the OA Ruby libraries ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "models-ts",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "TypeScript implementation of OpenActive's data model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "node-openid-client",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "ns-beta",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Beta namespace for OpenActive Vocabulary defined in the Modelling Opportunity Data Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "ns-extension",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Repository for the Opportunity Model Extensions vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "open-booking-api",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Repository for the Open Booking API specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "open-booking-sdk-documentation",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Documentation for the Open Booking SDK",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive-beta",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Dummy site for redirection",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive-es-example",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Sample code for harvesting and indexing OpenActive opportunity data using Ruby and ElasticSearch",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive-jsonld-redirect",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Simple web app to proxy oa.jsonld if application/ld+json requested",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive-python",
+  "owner": {
+   "login": "openactive"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive-test-suite",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Test suite for OpenActive implementations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive-website-firebase",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Firebase integration for the OpenActive website",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive.github.io",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Vocabulary defined in the Modelling Opportunity Data Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "openactive.rb",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Ruby library for working with OpenActive data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "opportunity-api",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Repository for the Opportunity API specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "opportunity-data-primer",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVE: Publishing opportunity data: a primer, from 2017",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "participant-condition-supported",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A SKOS vocabulary for medical states and conditions affecting accessibility for physical activities",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "permalink.openactive.io",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive permalinks registry",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "phase-4-kpis",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Lightweight scripts for simple reporting on GitHub activity",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "place-types",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Place Types controlled vocabularies data and documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "programme-catalog",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A list of known sources of programme data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "public-chat",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Information about joining the OpenActive Community open chat",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "realtime-paged-data-exchange",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://www.openactive.io/realtime-paged-data-exchange/",
+  "description": "OpenActive Realtime Paged Data Exchange Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "respec",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Specification Edition Support Tool",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "rfcs",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://webapi-discovery.github.io/rfcs",
+  "description": "w3c WebAPI Discovery Community Group - Request For Comments",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "route-guide",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://openactive.io/route-guide/EditorsDraft/",
+  "description": "Repository for discussion of the Routes and Routes Metadata aspects of the OpenActive Opportunity model.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "routes-api",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Simple Django editor for Routes data entry",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "rpde-sample-azure",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Sample implementation of RPDE in Azure",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "rpde-validator",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "RPDE Validator library, used as a component of validator.openactive.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "rpde-visualiser",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://visualiser.openactive.io",
+  "description": "A tool to visualise OpenActive SessionSeries data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "schemaorg",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "http://schema.org/",
+  "description": "Schema.org - schemas and (appengine) software",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "skos.js",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://www.npmjs.com/package/@openactive/skos",
+  "description": " Simple JavaScript library to wrap the OpenActive JSON-LD representation of SKOS.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "slackin",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "http://rauchg.com/slackin/",
+  "description": "Public Slack organizations made easy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "spec-template",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Openactive Spec Template",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "status-page-redux",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Updated OpenActive status page, auto-generated from DCAT data catalogue",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "stripe-extension",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Open Booking API Stripe Extension",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "test-interface",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive Open Booking API Test Interface",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "validator-embed-mvp",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Quick MVP of validator embed",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "validator-test-json",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Test JSON files for use in the validator",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "w3c-cg-example-data",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "ARCHIVED: Example data used to inform development and discussion of the OpenActive specifications. These were referenced in some early discussions and issues but not the main docs (and don't need to be). Mostly of historical interest.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "w3c-community-group",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "https://w3c.openactive.io",
+  "description": "OpenActive W3C Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "w3c-video-upload",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "OpenActive W3C Community Group video formatting and upload, using Shotstack",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "website-content",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Content for www.openactive.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "website-redirection",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Configuration for the Wordpress Redirection plugin in www.openactive.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ }
+]
