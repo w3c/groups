@@ -37,5 +37,19 @@
  "type": "interest group",
  "start-date": "1998-02-12",
  "end-date": "2024-09-30",
- "identifier": "ig/i18n"
+ "identifier": "ig/i18n",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13776",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25905",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/25921",
+   "title": "Twitter"
+  }
+ ]
 }
