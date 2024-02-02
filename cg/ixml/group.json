@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/ixml"
+ "identifier": "cg/ixml",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/27802",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/27803",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/27804",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27805",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/40733",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/invisibleXML/",
+    "shortdesc": "Github repos",
+    "longdesc": "Github repos",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40733"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40733/groups"
+     }
+    }
+   }
+  }
+ ]
 }
