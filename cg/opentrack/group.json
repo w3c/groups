@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/opentrack"
+ "identifier": "cg/opentrack",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6501",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6502",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6503",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6505",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6555",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/opentrack-cg",
+    "shortdesc": "Github repo",
+    "longdesc": "OpenTrack CG Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6555"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6555/groups"
+     }
+    }
+   }
+  }
+ ]
 }
