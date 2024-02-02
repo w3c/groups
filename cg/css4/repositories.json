@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "css-next",
+  "owner": {
+   "login": "CSS-Next"
+  },
+  "description": "Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/css4"
+   ]
+  }
+ }
+]
