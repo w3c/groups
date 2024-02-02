@@ -66,5 +66,15 @@
    "href": "https://api.w3.org/groups/tf/iip/chairs"
   }
  },
- "identifier": "tf/iip"
+ "identifier": "tf/iip",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/14161",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/26670",
+   "title": "Mailing List"
+  }
+ ]
 }
