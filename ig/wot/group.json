@@ -46,5 +46,27 @@
  "type": "interest group",
  "start-date": "2015-01-21",
  "end-date": "2024-03-31",
- "identifier": "ig/wot"
+ "identifier": "ig/wot",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5920",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/7191",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7308",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25744",
+   "title": "Blog"
+  },
+  {
+   "href": "https://api.w3.org/services/25907",
+   "title": "Issue Tracking"
+  }
+ ]
 }
