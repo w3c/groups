@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/expath"
+ "identifier": "cg/expath",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1127",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1128",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1129",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1130",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1132",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15491",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/expath/expath-cg/",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15491"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15491/groups"
+     }
+    }
+   }
+  }
+ ]
 }
