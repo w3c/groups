@@ -46,5 +46,39 @@
  "type": "working group",
  "start-date": "2015-01-06",
  "end-date": "2024-04-04",
- "identifier": "wg/sdw"
+ "identifier": "wg/sdw",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7353",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7621",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/sdw",
+    "shortdesc": "GitHub",
+    "longdesc": "w3c/sdw GitHub Repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7621"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7621/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33268",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33317",
+   "title": "Issue Tracking"
+  }
+ ]
 }
