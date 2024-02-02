@@ -75,5 +75,23 @@
    "href": "https://api.w3.org/groups/tf/personalization-tf/chairs"
   }
  },
- "identifier": "tf/personalization-tf"
+ "identifier": "tf/personalization-tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12215",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/12718",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15517",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/35068",
+   "title": "Mailing List"
+  }
+ ]
 }
