@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "bibframe2schema",
+  "owner": {
+   "login": "RichardWallis"
+  },
+  "description": "Working files for the Bibframe2Schema.org Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bibframe2schema"
+   ]
+  }
+ }
+]
