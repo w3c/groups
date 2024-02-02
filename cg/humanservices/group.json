@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/humanservices"
+ "identifier": "cg/humanservices",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2051",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/2052",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/2053",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/2055",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/2056",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/25922",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/hserv/ontologies",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub Repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25922"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25922/groups"
+     }
+    }
+   }
+  }
+ ]
 }
