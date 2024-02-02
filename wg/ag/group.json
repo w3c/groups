@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "1997-10-06",
  "end-date": "2025-10-31",
- "identifier": "wg/ag"
+ "identifier": "wg/ag",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/171",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/272",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25891",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/34936",
+   "title": "Mailing List"
+  }
+ ]
 }
