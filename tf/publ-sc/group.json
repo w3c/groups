@@ -141,5 +141,15 @@
    "href": "https://api.w3.org/groups/tf/publ-sc/chairs"
   }
  },
- "identifier": "tf/publ-sc"
+ "identifier": "tf/publ-sc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6974",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7563",
+   "title": "Mailing List"
+  }
+ ]
 }
