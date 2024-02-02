@@ -1,5 +1,34 @@
 [
  {
+  "name": "WSL",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "https://gpuweb.github.io/WSL/",
+  "description": "Web Shading Language",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "admin",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "description": "Administrative documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
   "name": "cts",
   "owner": {
    "login": "gpuweb"
@@ -45,6 +74,104 @@
    "repo-type": [
     "cg-report",
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "gpuweb-cts-pr-previews",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "gpuweb-pr-previews",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "description": "Pull request previews for gpuweb/gpuweb specifications.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "gpuweb.github.io",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "https://gpuweb.github.io/gpuweb/",
+  "description": "Redirects to:",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "description": "API Proposals",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "spirv-execution-env",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "description": "SPIR-V for WebGPU documents (execution environment and more!)",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "tree-sitter-wgsl",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
+   ]
+  }
+ },
+ {
+  "name": "types",
+  "owner": {
+   "login": "gpuweb"
+  },
+  "homepageUrl": "https://www.npmjs.com/package/@webgpu/types",
+  "description": "TypeScript type definitions for WebGPU https://gpuweb.github.io/types/ ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gpu"
    ]
   }
  }
