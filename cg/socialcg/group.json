@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/socialcg"
+ "identifier": "cg/socialcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6457",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6458",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6462",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/swicg",
+    "shortdesc": "Github",
+    "longdesc": "Github",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6462"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6462/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/18395",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/18407",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/26009",
+   "title": "Discussion Forum"
+  }
+ ]
 }
