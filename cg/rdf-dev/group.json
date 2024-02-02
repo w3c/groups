@@ -30,5 +30,67 @@
   }
  },
  "type": "community group",
- "identifier": "cg/rdf-dev"
+ "identifier": "cg/rdf-dev",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15412",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15413",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15414",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15416",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15505",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/EasierRDF",
+    "shortdesc": "EasierRDF Github repository",
+    "longdesc": "EasierRDF Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15505"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15505/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17496",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25974",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/rdf-star",
+    "shortdesc": "RDF* Github Repository",
+    "longdesc": "RDF* Github Repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25974"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25974/groups"
+     }
+    }
+   }
+  }
+ ]
 }
