@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/wot-jp"
+ "identifier": "cg/wot-jp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/27789",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/27790",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/27791",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27792",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27794",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/wot-jp-cg",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27794"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27794/groups"
+     }
+    }
+   }
+  }
+ ]
 }
