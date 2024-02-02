@@ -46,5 +46,27 @@
  "type": "working group",
  "start-date": "2020-08-20",
  "end-date": "2024-11-30",
- "identifier": "wg/gpu"
+ "identifier": "wg/gpu",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6535",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6537",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25938",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25978",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/25983",
+   "title": "Other"
+  }
+ ]
 }
