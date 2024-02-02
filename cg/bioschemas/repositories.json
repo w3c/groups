@@ -1,1 +1,365 @@
-[]
+[
+ {
+  "name": "BMUSE",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "https://app.swaggerhub.com/apis-docs/swel/BMUSE/",
+  "description": "Bioschemas Mark Up Scraper and Extractor",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "BioschemasMarkupGenerator",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "http://www.macs.hw.ac.uk/SWeL/BioschemasGenerator/",
+  "description": "A tool for prototyping markup against the Bioschemas profiles.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "ProfileGenerator",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Experimental scripts for creating a new Bioschemas Profile",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "RubyExtractor",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Extract schema.org RDF, Microdata, or JSON-LD with this Ruby library",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bio.schemas.science",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "redirection to the proper bioschemas website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "biohackathon2023-p23-report",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "",
+  "description": "Elixir BioHackathon 2023 report ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "biojs-vis-bioschemas-event-list",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "A visualization widget for Event data using bioschemas Event Especification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-beacons-mockup",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "",
+  "description": "Mock-up to show how bioschemas can be used to expose, collect and integrate metadata about beacon services",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-data-harvesting",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "",
+  "description": "Details of the harvesting of Bioschemas markup from live deployments on the Web.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-dde",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "",
+  "description": "scripts for automated maintenance of bioschemas specifications in the Data Discovery Engine",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-goweb",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Parses an specification mapping csv to markdown ready for bioschemas.org web.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-nutch-indexer",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "An Apache Nutch plugin to extract and index bioschemas data from websites",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-pdbe-adapter",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Create PDBe mark up from web services",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-protein-render",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Uses bioschemas-uniprot-adater to get the Bioschemas JSON LD for a UniProt accession and renders it in the simplest way",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-proteins-to-crawl",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "A simple app displaying proteins with Bioschemas markup so a crawler can get the info.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-pyvalidator",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "A Python Validator for Bioschemas",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-scraper",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "",
+  "description": "Web scraper to harvest Data items using Bioschemas specifications markup.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-uniprot-adapter",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Adapter transforming UniProt data from web services into Bioschemas JSON-LD markup",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas-validation",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "",
+  "description": "A repository hosting Bioschemas validation tools",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "bioschemas.github.io",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "http://bioschemas.org",
+  "description": "Files for the Bioschemas website.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "governance",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "The governance process and code of conduct for the Bioschemas Community",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "map2model",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "http://bioschemas.org",
+  "description": "map2model is a Python module for convert specification stored in GDrive files and generates the files needed to publish Bioschemas Types and Profiles to publish them in bioschemas.org page.  ",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "schemaorg",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "http://schema.org/",
+  "description": "Schema.org - schemas and (appengine) software",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "specifications",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "https://bioschemas.org",
+  "description": "Issue tracker, technical wiki, and example markup",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
+  "name": "w3id.org",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "homepageUrl": "https://w3id.org/",
+  "description": "Website source code for w3id.org.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ }
+]
