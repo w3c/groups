@@ -46,5 +46,27 @@
  "type": "working group",
  "start-date": "2016-12-27",
  "end-date": "2025-10-02",
- "identifier": "wg/wot"
+ "identifier": "wg/wot",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6487",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7594",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17273",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/17280",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25902",
+   "title": "Issue Tracking"
+  }
+ ]
 }
