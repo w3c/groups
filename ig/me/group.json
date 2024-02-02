@@ -46,5 +46,43 @@
  "type": "interest group",
  "start-date": "2011-02-07",
  "end-date": "2025-10-31",
- "identifier": "ig/me"
+ "identifier": "ig/me",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/178",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1457",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1804",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25906",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/33169",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/media-and-entertainment/",
+    "shortdesc": "GitHub repo",
+    "longdesc": "GitHub repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33169"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33169/groups"
+     }
+    }
+   }
+  }
+ ]
 }
