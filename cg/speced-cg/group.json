@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/speced-cg"
+ "identifier": "cg/speced-cg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33180",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33181",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33182",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33183",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33188",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/speced",
+    "shortdesc": "GitHub repo",
+    "longdesc": "GitHub repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33188"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33188/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/34102",
+   "title": "Mailing List"
+  }
+ ]
 }
