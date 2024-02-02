@@ -46,5 +46,27 @@
  "type": "working group",
  "start-date": "2014-10-13",
  "end-date": "2024-04-30",
- "identifier": "wg/secondscreen"
+ "identifier": "wg/secondscreen",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1741",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/2307",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17274",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/17278",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25889",
+   "title": "Issue Tracking"
+  }
+ ]
 }
