@@ -46,5 +46,19 @@
  "type": "interest group",
  "start-date": "2019-04-17",
  "end-date": "2025-03-14",
- "identifier": "ig/securepay"
+ "identifier": "ig/securepay",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/16916",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25908",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/40767",
+   "title": "Wiki"
+  }
+ ]
 }
