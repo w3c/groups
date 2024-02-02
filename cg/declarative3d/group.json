@@ -30,5 +30,35 @@
   }
  },
  "type": "community group",
- "identifier": "cg/declarative3d"
+ "identifier": "cg/declarative3d",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/335",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/339",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/341",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/342",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/410",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1890",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1891",
+   "title": "Mailing List"
+  }
+ ]
 }
