@@ -1,1 +1,241 @@
-[]
+[
+ {
+  "name": "act-implementor",
+  "owner": {
+   "login": "act-rules"
+  },
+  "homepageUrl": "https://act-implementor.netlify.app/",
+  "description": "Implementation tracker for ACT rules",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-practice-repo",
+  "owner": {
+   "login": "act-rules"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-access-engine",
+  "owner": {
+   "login": "act-rules"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-alfa",
+  "owner": {
+   "login": "act-rules"
+  },
+  "homepageUrl": "",
+  "description": "Implementation report for ACT Rules test cases validated by Siteimprove",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-axe-core",
+  "owner": {
+   "login": "act-rules"
+  },
+  "homepageUrl": "",
+  "description": "Implementation report for ACT Rules test cases validated by Axe",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-axe-pro",
+  "owner": {
+   "login": "act-rules"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-mapper",
+  "owner": {
+   "login": "act-rules"
+  },
+  "description": "Mapper for condensing ACT Rules Implementations to be a consumable data for ACT Rules Website",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-qualweb",
+  "owner": {
+   "login": "act-rules"
+  },
+  "description": "Implementation report for ACT Rules test cases validated by QualWeb",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-rgaa",
+  "owner": {
+   "login": "act-rules"
+  },
+  "description": "Implementation report for ACT Rules test cases validated by RGAA",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-sortsite",
+  "owner": {
+   "login": "act-rules"
+  },
+  "description": "Implementation report for ACT Rules test cases validated by Powermapper",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-implementation-trusted-tester",
+  "owner": {
+   "login": "act-rules"
+  },
+  "description": "Implementation report for ACT Rules test cases validated by Access Board",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules-web",
+  "owner": {
+   "login": "act-rules"
+  },
+  "homepageUrl": "https://act-rules.github.io/",
+  "description": "Source for ACT Rules website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-rules.github.io",
+  "owner": {
+   "login": "act-rules"
+  },
+  "homepageUrl": "https://act-rules.github.io/",
+  "description": "Accessibility conformance testing rules for HTML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-shared-reports",
+  "owner": {
+   "login": "act-rules"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "act-tools",
+  "owner": {
+   "login": "act-rules"
+  },
+  "description": "Tools for use in ACT",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "auto-wcag-deployer",
+  "owner": {
+   "login": "act-rules"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ },
+ {
+  "name": "testrunner",
+  "owner": {
+   "login": "act-rules"
+  },
+  "homepageUrl": "",
+  "description": "Runner for Auto-WCAG test cases",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ]
+  }
+ }
+]
