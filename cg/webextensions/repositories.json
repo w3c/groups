@@ -1,5 +1,26 @@
 [
  {
+  "name": "htmlvoc",
+  "owner": {
+   "login": "floresbakker"
+  },
+  "homepageUrl": "https://www.w3.org/community/htmlvoc/",
+  "description": "A RDF-based representation of the HTML-vocabulary to express HTML-documents in RDF, rendering them semantic.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webextensions"
+   ],
+   "contacts": [
+    "floresbakker"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webextensions",
   "owner": {
    "login": "w3c"
