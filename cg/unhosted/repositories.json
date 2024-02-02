@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "spec",
+  "owner": {
+   "login": "remotestorage"
+  },
+  "homepageUrl": "https://tools.ietf.org/html/draft-dejong-remotestorage",
+  "description": "remoteStorage Protocol Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/unhosted"
+   ]
+  }
+ }
+]
