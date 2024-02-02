@@ -1,1 +1,142 @@
-[]
+[
+ {
+  "name": ".github",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Default community health files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ]
+  }
+ },
+ {
+  "name": "admin",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Administrivia for the Anti-Fraud Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ],
+   "contacts": [
+    "dvorak42"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "antifraudcg.github.io",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ],
+   "contacts": [
+    "dvorak42"
+   ],
+   "repo-type": [
+    "homepage"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Agenda/Minutes of Anti-Fraud Community Group meetings.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ],
+   "contacts": [
+    "dvorak42"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Proposals for the Anti-Fraud Community Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ],
+   "contacts": [
+    "dvorak42"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "template",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Template repository for a Anti-Fraud CG items.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ],
+   "contacts": [
+    "dvorak42"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "open"
+  }
+ },
+ {
+  "name": "use-cases",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Uses Cases for the Anti-Fraud CG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ],
+   "contacts": [
+    "dvorak42",
+    "samuel-t-jackson"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "policy": "open"
+  }
+ }
+]
