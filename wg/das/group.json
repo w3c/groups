@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2009-07-03",
  "end-date": "2024-11-30",
- "identifier": "wg/das"
+ "identifier": "wg/das",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/95",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/216",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1791",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25880",
+   "title": "Issue Tracking"
+  }
+ ]
 }
