@@ -46,5 +46,15 @@
  "type": "working group",
  "start-date": "2011-10-12",
  "end-date": "2024-02-29",
- "identifier": "wg/browser-tools-testing"
+ "identifier": "wg/browser-tools-testing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13773",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25877",
+   "title": "Issue Tracking"
+  }
+ ]
 }
