@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/bibframe2schema"
+ "identifier": "cg/bibframe2schema",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15448",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15449",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15450",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15452",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15453",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/43842",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/RichardWallis/bibframe2schema",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43842"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43842/groups"
+     }
+    }
+   }
+  }
+ ]
 }
