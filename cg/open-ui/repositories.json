@@ -1,5 +1,18 @@
 [
  {
+  "name": "components",
+  "owner": {
+   "login": "openui"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/open-ui"
+   ]
+  }
+ },
+ {
   "name": "open-ui",
   "owner": {
    "login": "openui"
