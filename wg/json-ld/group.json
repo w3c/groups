@@ -46,5 +46,19 @@
  "type": "working group",
  "start-date": "2018-06-07",
  "end-date": "2025-01-31",
- "identifier": "wg/json-ld"
+ "identifier": "wg/json-ld",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13802",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15221",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25886",
+   "title": "Issue Tracking"
+  }
+ ]
 }
