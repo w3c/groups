@@ -30,5 +30,59 @@
   }
  },
  "type": "community group",
- "identifier": "cg/odrl"
+ "identifier": "cg/odrl",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/356",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/357",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/358",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/359",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/360",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/401",
+   "title": "Twitter"
+  },
+  {
+   "href": "https://api.w3.org/services/807",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/1577",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/odrl/",
+    "shortdesc": "Github",
+    "longdesc": "",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1577"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1577/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1864",
+   "title": "Mailing List"
+  }
+ ]
 }
