@@ -30,5 +30,51 @@
   }
  },
  "type": "community group",
- "identifier": "cg/gpu"
+ "identifier": "cg/gpu",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6533",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6534",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/6535",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6537",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/6548",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/gpuweb/",
+    "shortdesc": "GitHub Repo",
+    "longdesc": "GitHub Repo",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6548"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6548/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13771",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25938",
+   "title": "Mailing List"
+  }
+ ]
 }
