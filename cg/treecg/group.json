@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/treecg"
+ "identifier": "cg/treecg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40740",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/40741",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/40742",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/40743",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43847",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/TREEcg",
+    "shortdesc": "GitHub ",
+    "longdesc": "GitHub repositories ",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43847"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43847/groups"
+     }
+    }
+   }
+  }
+ ]
 }
