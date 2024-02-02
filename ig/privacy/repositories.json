@@ -136,6 +136,77 @@
   }
  },
  {
+  "name": "blog-posts",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "",
+  "description": "Blog posts (in progress and published) for W3C's Privacy Interest Group (PING)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "credential-considerations",
+  "owner": {
+   "login": "w3cping"
+  },
+  "description": "User considerations for identity verification and credential presentation on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "font-anti-fingerprinting",
+  "owner": {
+   "login": "w3cping"
+  },
+  "description": "A system for preventing font fingerprinting",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "font-fp-protection-browser-hinting",
+  "owner": {
+   "login": "w3cping"
+  },
+  "description": "A proposal for preventing font fingerprinting through browser hinting and font-opt-in.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "privacy-mode",
+  "owner": {
+   "login": "w3cping"
+  },
+  "description": "Draft of a possible \"privacy mode\" spec / note.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
   "name": "privacy-request",
   "owner": {
    "login": "w3cping"
@@ -154,6 +225,76 @@
    "policy": "open",
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "privacy-threat-model",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "https://w3cping.github.io/privacy-threat-model",
+  "description": "A target privacy threat model for the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "research",
+  "owner": {
+   "login": "w3cping"
+  },
+  "description": "W3C Privacy Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "security-questionnaire",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "description": "See the w3ctag repo for the published version - and file issues there",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "server-declaration",
+  "owner": {
+   "login": "w3cping"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ]
+  }
+ },
+ {
+  "name": "storage-policy",
+  "owner": {
+   "login": "w3cping"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
    ]
   }
  },
