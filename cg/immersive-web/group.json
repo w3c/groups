@@ -30,5 +30,55 @@
   }
  },
  "type": "community group",
- "identifier": "cg/immersive-web"
+ "identifier": "cg/immersive-web",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6294",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6295",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6296",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6298",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6350",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/immersive-web/",
+    "shortdesc": "GitHub repositories",
+    "longdesc": "GitHub repositories",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6350"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6350/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15259",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25917",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/26565",
+   "title": "Mailing List"
+  }
+ ]
 }
