@@ -46,5 +46,55 @@
  "type": "interest group",
  "start-date": "2012-02-17",
  "end-date": "2024-02-29",
- "identifier": "ig/privacy"
+ "identifier": "ig/privacy",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13779",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17285",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/17286",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3cping/",
+    "shortdesc": "w3cping github",
+    "longdesc": "w3cping github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17286"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17286/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25910",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/40764",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/40765",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/43839",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/43840",
+   "title": "Issue Tracking"
+  }
+ ]
 }
