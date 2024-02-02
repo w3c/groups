@@ -1,1 +1,45 @@
-[]
+[
+ {
+  "name": "Business-use-cases-for-the-use-of-Linguistic-Linked-Data",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "description": "Business use cases for the use of Linguistic Linked Data in content analytics processes - Phase II",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ]
+  }
+ },
+ {
+  "name": "linguistic-annotation",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "homepageUrl": "",
+  "description": "Towards a consolidated LOD vocabulary for linguistic annotations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ]
+  }
+ },
+ {
+  "name": "metashare",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "description": "The Metashare Ontology as Created by the LD4LT Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ]
+  }
+ }
+]
