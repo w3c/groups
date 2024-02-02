@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/epub3"
+ "identifier": "cg/epub3",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6523",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6524",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6525",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6527",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7984",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/publ-cg/",
+    "shortdesc": "EPUB 3 Community Group Work Repository",
+    "longdesc": "EPUB 3 Community Group Work Repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7984"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7984/groups"
+     }
+    }
+   }
+  }
+ ]
 }
