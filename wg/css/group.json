@@ -46,5 +46,39 @@
  "type": "working group",
  "start-date": "1997-02-28",
  "end-date": "2025-01-12",
- "identifier": "wg/css"
+ "identifier": "wg/css",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/99",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1812",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13775",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15622",
+   "title": "Blog"
+  },
+  {
+   "href": "https://api.w3.org/services/15623",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/15624",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/25878",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/26011",
+   "title": "Twitter"
+  }
+ ]
 }
