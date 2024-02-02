@@ -46,5 +46,11 @@
  "type": "interest group",
  "start-date": "1999-07-08",
  "end-date": "2024-03-31",
- "identifier": "ig/psig"
+ "identifier": "ig/psig",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1851",
+   "title": "Mailing List"
+  }
+ ]
 }
