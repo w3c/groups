@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2021-09-14",
  "end-date": "2025-10-30",
- "identifier": "wg/png"
+ "identifier": "wg/png",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33244",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/33245",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33327",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/33328",
+   "title": "Other"
+  }
+ ]
 }
