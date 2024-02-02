@@ -1,1 +1,71 @@
-[]
+[
+ {
+  "name": "mediasync",
+  "owner": {
+   "login": "webtiming"
+  },
+  "description": "MediaSync is a JavaScrpt library implementing timed playback of HTML5 audio/video, based on the TimingObject ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ]
+  }
+ },
+ {
+  "name": "sequencer",
+  "owner": {
+   "login": "webtiming"
+  },
+  "description": "A generic JavaScript Sequencer for precisely timed presentation of timed data, using HTMLTimingObject/SharedMotion as timing source. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ]
+  }
+ },
+ {
+  "name": "timingobject",
+  "owner": {
+   "login": "webtiming"
+  },
+  "description": "Defines the HTML5 Timing object at the basis of multi-device synchronization matters",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ]
+  }
+ },
+ {
+  "name": "timingsrc",
+  "owner": {
+   "login": "webtiming"
+  },
+  "description": "Source code for timing related libraries managed by webtiming (multi-device timing CG)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ]
+  }
+ },
+ {
+  "name": "webtiming.github.io",
+  "owner": {
+   "login": "webtiming"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ]
+  }
+ }
+]
