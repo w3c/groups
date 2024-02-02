@@ -30,5 +30,67 @@
   }
  },
  "type": "community group",
- "identifier": "cg/openactive"
+ "identifier": "cg/openactive",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6316",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6317",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6318",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6321",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/6322",
+   "title": "Twitter"
+  },
+  {
+   "href": "https://api.w3.org/services/6323",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/openactive",
+    "shortdesc": "Github",
+    "longdesc": "Openactive's Github",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6323"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6323/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6463",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/13753",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/13755",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/13757",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/27351",
+   "title": "Mailing List"
+  }
+ ]
 }
