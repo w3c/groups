@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/wintercg"
+ "identifier": "cg/wintercg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/34813",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/34814",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/34815",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/34816",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/34818",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/wintercg",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34818"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34818/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/34819",
+   "title": "Other"
+  }
+ ]
 }
