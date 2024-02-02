@@ -30,5 +30,55 @@
   }
  },
  "type": "community group",
- "identifier": "cg/hydra"
+ "identifier": "cg/hydra",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1522",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/1523",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/1524",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/1525",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1527",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6464",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6465",
+   "title": "Twitter"
+  },
+  {
+   "href": "https://api.w3.org/services/6466",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/HydraCG/Specifications",
+    "shortdesc": "github",
+    "longdesc": "github repository for Hydra CG specifications",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6466"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6466/groups"
+     }
+    }
+   }
+  }
+ ]
 }
