@@ -1,5 +1,50 @@
 [
  {
+  "name": "qt4tests",
+  "owner": {
+   "login": "qt4cg"
+  },
+  "homepageUrl": "https://qt4cg.org/",
+  "description": "QT4 tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xml-query",
+    "wg/xslt"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
+  "name": "xslt40-test",
+  "owner": {
+   "login": "qt4cg"
+  },
+  "homepageUrl": "https://qt4cg.org/",
+  "description": "XSLT 4.0 tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/xslt"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "contacts": [
+    "michaelhkay",
+    "caribouW3"
+   ]
+  }
+ },
+ {
   "name": "qt3tests",
   "owner": {
    "login": "w3c"
