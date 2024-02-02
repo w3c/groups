@@ -75,5 +75,19 @@
    "href": "https://api.w3.org/groups/tf/wcag-act/chairs"
   }
  },
- "identifier": "tf/wcag-act"
+ "identifier": "tf/wcag-act",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6408",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/6711",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7643",
+   "title": "Mailing List"
+  }
+ ]
 }
