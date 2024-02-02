@@ -30,5 +30,27 @@
   }
  },
  "type": "community group",
- "identifier": "cg/accessibility4children"
+ "identifier": "cg/accessibility4children",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17358",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/17359",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/17360",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17361",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33230",
+   "title": "Wiki"
+  }
+ ]
 }
