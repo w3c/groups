@@ -46,5 +46,19 @@
  "type": "working group",
  "start-date": "1998-03-10",
  "end-date": "2024-06-30",
- "identifier": "wg/eowg"
+ "identifier": "wg/eowg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6068",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/13774",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25882",
+   "title": "Issue Tracking"
+  }
+ ]
 }
