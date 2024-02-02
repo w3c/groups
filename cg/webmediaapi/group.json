@@ -30,5 +30,83 @@
   }
  },
  "type": "community group",
- "identifier": "cg/webmediaapi"
+ "identifier": "cg/webmediaapi",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6409",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6410",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6411",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6413",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6414",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/webmediaapi/",
+    "shortdesc": "Media API Github repository",
+    "longdesc": "Media API Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6414"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6414/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15510",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/webmediaguidelines/",
+    "shortdesc": "Media Guidelines Github repository",
+    "longdesc": "Media Guidelines Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15510"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15510/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15522",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/webmediaporting",
+    "shortdesc": "Media Porting Github repository",
+    "longdesc": "Media Porting Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15522"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15522/groups"
+     }
+    }
+   }
+  }
+ ]
 }
