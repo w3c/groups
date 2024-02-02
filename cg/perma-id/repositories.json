@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "w3id.org",
+  "owner": {
+   "login": "perma-id"
+  },
+  "homepageUrl": "https://w3id.org/",
+  "description": "Website source code for w3id.org.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/perma-id"
+   ]
+  }
+ }
+]
