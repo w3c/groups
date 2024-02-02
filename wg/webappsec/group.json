@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2011-09-07",
  "end-date": "2024-04-30",
- "identifier": "wg/webappsec"
+ "identifier": "wg/webappsec",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1800",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1840",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25898",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/34820",
+   "title": "Other"
+  }
+ ]
 }
