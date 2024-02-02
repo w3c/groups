@@ -30,5 +30,31 @@
   }
  },
  "type": "community group",
- "identifier": "cg/fibo"
+ "identifier": "cg/fibo",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6204",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6205",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6206",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6207",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6208",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6257",
+   "title": "Wiki"
+  }
+ ]
 }
