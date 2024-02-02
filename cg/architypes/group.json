@@ -30,5 +30,27 @@
   }
  },
  "type": "community group",
- "identifier": "cg/architypes"
+ "identifier": "cg/architypes",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6110",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6111",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6112",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6114",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6132",
+   "title": "Wiki"
+  }
+ ]
 }
