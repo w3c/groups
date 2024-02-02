@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "milopa",
+  "owner": {
+   "login": "pair-cg"
+  },
+  "description": "Repository for the milopa ontology.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/pair-cg"
+   ]
+  }
+ }
+]
