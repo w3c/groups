@@ -21,6 +21,20 @@
   }
  },
  {
+  "name": "ar-common",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "A repo for discussing and capturing information about cross-API aspects of augmented reality ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ]
+  }
+ },
+ {
   "name": "body-tracking",
   "owner": {
    "login": "immersive-web"
@@ -57,6 +71,21 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "cardboard-vr-display",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/cardboard-vr-display",
+  "description": "A JavaScript implementation of a WebVR 1.1 VRDisplay",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
    ]
   }
  },
@@ -406,6 +435,21 @@
   }
  },
  {
+  "name": "semantic-labels",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "",
+  "description": "This repository will list all the semantic labels that can be returned by various WebXR APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ]
+  }
+ },
+ {
   "name": "spatial-favicons",
   "owner": {
    "login": "immersive-web"
@@ -493,6 +537,21 @@
   }
  },
  {
+  "name": "webvrrocks",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://webvr.rocks/",
+  "description": "Your guide to Virtual Reality in the browser.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ]
+  }
+ },
+ {
   "name": "webxr-accessibility",
   "owner": {
    "login": "immersive-web"
@@ -555,6 +614,35 @@
    ],
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "webxr-polyfill",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ]
+  }
+ },
+ {
+  "name": "webxr-samples",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/webxr-samples/",
+  "description": "Samples to demonstrate use of the WebXR Device API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
    ]
   }
  }
