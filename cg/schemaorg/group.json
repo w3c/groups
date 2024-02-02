@@ -30,5 +30,51 @@
   }
  },
  "type": "community group",
- "identifier": "cg/schemaorg"
+ "identifier": "cg/schemaorg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5968",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/5970",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/5972",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/5973",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/5974",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/schemaorg/",
+    "shortdesc": "GitHub",
+    "longdesc": "Schema.org on GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5974"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5974/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33238",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/40709",
+   "title": "Other"
+  }
+ ]
 }
