@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/smartcity-nordic"
+ "identifier": "cg/smartcity-nordic",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33352",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33353",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33354",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33355",
+   "title": "Mailing List"
+  }
+ ]
 }
