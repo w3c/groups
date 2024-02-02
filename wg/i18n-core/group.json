@@ -46,5 +46,27 @@
  "type": "working group",
  "start-date": "1998-02-12",
  "end-date": "2024-09-30",
- "identifier": "wg/i18n-core"
+ "identifier": "wg/i18n-core",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/113",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/283",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1895",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25885",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/25919",
+   "title": "Twitter"
+  }
+ ]
 }
