@@ -30,5 +30,27 @@
   }
  },
  "type": "community group",
- "identifier": "cg/bitcoin"
+ "identifier": "cg/bitcoin",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17331",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/17332",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/17333",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17334",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17335",
+   "title": "Wiki"
+  }
+ ]
 }
