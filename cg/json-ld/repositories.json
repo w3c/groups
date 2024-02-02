@@ -1,1 +1,236 @@
-[]
+[
+ {
+  "name": "awesome-json-ld",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "A list of awesome JSON-LD resources.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "charter",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/charter/",
+  "description": "Charter for JSON-LD WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "convenience-context",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "Aliasing away the `@`",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "json-ld-patch",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "JSON-LD Patch",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "json-ld-star",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/json-ld-star",
+  "description": "CG Note on JSON-LD*",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld",
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "shortName": "json-ld-star"
+  }
+ },
+ {
+  "name": "json-ld.github.io",
+  "owner": {
+   "login": "json-ld"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "json-ld.org",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.org/",
+  "description": "JSON for Linked Data's documentation and playground site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "minutes",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.org/minutes/",
+  "description": "Teleconference minutes - text and audio logs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld",
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "ndjson-ld",
+  "owner": {
+   "login": "json-ld"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "rdf-dataset-canonicalization",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "Old location of RDF Dataset Canonicalization",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "scrawl.js",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "Scribe tool used by the JSON-LD Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "tests",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://w3c.github.io/json-ld-api/tests/",
+  "description": "[READ-ONLY] Subtree split of the JSON-LD tests – obsolete, please see WG test suites",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
+  "name": "yaml-ld",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
+  "description": "CG specification for YAML-LD and UCR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld",
+    "cg/json-ld"
+   ],
+   "contacts": [
+    "p20n",
+    "bigbluehat"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "yaml-ld-primer",
+  "owner": {
+   "login": "json-ld"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ],
+   "contacts": [
+    "p20n"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
