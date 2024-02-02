@@ -1,1 +1,76 @@
-[]
+[
+ {
+  "name": "census",
+  "owner": {
+   "login": "reconciliation-api"
+  },
+  "homepageUrl": "https://reconciliation-api.github.io/census/",
+  "description": "Inventory of the reconciliation ecosystem and its neighbourhood",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/reconciliation"
+   ]
+  }
+ },
+ {
+  "name": "charter",
+  "owner": {
+   "login": "reconciliation-api"
+  },
+  "homepageUrl": "https://reconciliation-api.github.io/charter/",
+  "description": "Scope and processes of the W3C Entity Reconciliation Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/reconciliation"
+   ]
+  }
+ },
+ {
+  "name": "reconciliation-api.github.io",
+  "owner": {
+   "login": "reconciliation-api"
+  },
+  "description": "Root website of the community group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/reconciliation"
+   ]
+  }
+ },
+ {
+  "name": "specs",
+  "owner": {
+   "login": "reconciliation-api"
+  },
+  "homepageUrl": "https://reconciliation-api.github.io/specs/draft/",
+  "description": "Specifications of the reconciliation API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/reconciliation"
+   ]
+  }
+ },
+ {
+  "name": "testbench",
+  "owner": {
+   "login": "reconciliation-api"
+  },
+  "homepageUrl": "https://reconciliation-api.github.io/testbench/",
+  "description": "Web application to try out reconciliation services interactively",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/reconciliation"
+   ]
+  }
+ }
+]
