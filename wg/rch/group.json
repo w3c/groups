@@ -46,5 +46,15 @@
  "type": "working group",
  "start-date": "2022-07-21",
  "end-date": "2024-07-20",
- "identifier": "wg/rch"
+ "identifier": "wg/rch",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39159",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/39160",
+   "title": "Mailing List"
+  }
+ ]
 }
