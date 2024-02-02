@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "name": "web-bluetooth",
+  "owner": {
+   "login": "WebBluetoothCG"
+  },
+  "homepageUrl": "http://www.w3.org/community/web-bluetooth/",
+  "description": "Bluetooth support for the Web.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-bluetooth"
+   ],
+   "contacts": [
+    "reillyeon",
+    "jyasskin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
