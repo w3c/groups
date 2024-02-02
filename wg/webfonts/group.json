@@ -46,5 +46,19 @@
  "type": "working group",
  "start-date": "2010-03-17",
  "end-date": "2025-03-28",
- "identifier": "wg/webfonts"
+ "identifier": "wg/webfonts",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/102",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/217",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25901",
+   "title": "Issue Tracking"
+  }
+ ]
 }
