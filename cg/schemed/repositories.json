@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "ScheMed",
+  "owner": {
+   "login": "twamarc"
+  },
+  "homepageUrl": "",
+  "description": "Healthcare Schema Vocabulary ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemed"
+   ]
+  }
+ }
+]
