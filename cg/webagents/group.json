@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/webagents"
+ "identifier": "cg/webagents",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40725",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/40726",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/40727",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/40728",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/40761",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/webagents",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40761"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40761/groups"
+     }
+    }
+   }
+  }
+ ]
 }
