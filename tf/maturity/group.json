@@ -75,5 +75,11 @@
    "href": "https://api.w3.org/groups/tf/maturity/chairs"
   }
  },
- "identifier": "tf/maturity"
+ "identifier": "tf/maturity",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39211",
+   "title": "Mailing List"
+  }
+ ]
 }
