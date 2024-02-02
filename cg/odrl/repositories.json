@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "name": "odrl",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/community/odrl/",
+  "description": "ODRL Community Group Repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/odrl"
+   ]
+  }
+ }
+]
