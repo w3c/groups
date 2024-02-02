@@ -1,5 +1,19 @@
 [
  {
+  "name": ".github",
+  "owner": {
+   "login": "privacycg"
+  },
+  "description": "Default community health files of the Privacy Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
+   ]
+  }
+ },
+ {
   "name": "CHIPS",
   "owner": {
    "login": "privacycg"
@@ -291,6 +305,21 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "saa-non-cookie-storage",
+  "owner": {
+   "login": "privacycg"
+  },
+  "homepageUrl": "https://privacycg.github.io/saa-non-cookie-storage/",
+  "description": "Extending Storage Access API (SAA) to non-cookie storage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
    ]
   }
  },
