@@ -107,5 +107,15 @@
    "href": "https://api.w3.org/groups/tf/automotive-pay/chairs"
   }
  },
- "identifier": "tf/automotive-pay"
+ "identifier": "tf/automotive-pay",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12441",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13980",
+   "title": "Mailing List"
+  }
+ ]
 }
