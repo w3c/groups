@@ -1,1 +1,232 @@
-[]
+[
+ {
+  "name": "admin",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://wintercg.org/faq",
+  "description": "The place to work on boostrap, charter, etc",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "lucacasonato",
+    "jasnell"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "environment-metadata",
+  "owner": {
+   "login": "wintercg"
+  },
+  "description": "Runtime Environment Meta-data Workstream",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "fetch",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://fetch.spec.wintercg.org/",
+  "description": "WinterCG Fetch Standard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "ethan-arrowood"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "import-meta-registry",
+  "owner": {
+   "login": "wintercg"
+  },
+  "description": "A registry for import.meta properties",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "navigator-registry",
+  "owner": {
+   "login": "wintercg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "performance",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "",
+  "description": "The home of the performance workstream.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "legendecas"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "proposal-common-minimum-api",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://common-min-api.proposal.wintercg.org/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "jasnell"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "proposal-functions-api",
+  "owner": {
+   "login": "wintercg"
+  },
+  "description": "Discussing standardizing serverless JS functions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "proposal-package-json",
+  "owner": {
+   "login": "wintercg"
+  },
+  "description": "A proposal specifying package.json",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "proposal-sockets-api",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://sockets-api.proposal.wintercg.org/",
+  "description": "Proposal for an API for establishing TCP connections in Non-Browser JavaScript runtime environments",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "jasnell",
+    "dom96"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "proposal-webcrypto-streams",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://webcrypto-streams.proposal.wintercg.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "tniessen"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "runtime-keys",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://runtime-keys.proposal.wintercg.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "www",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "https://wintercg.org",
+  "description": "The website for this CG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ],
+   "contacts": [
+    "lucacasonato"
+   ],
+   "repo-type": [
+    "website"
+   ]
+  }
+ }
+]
