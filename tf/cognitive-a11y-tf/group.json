@@ -124,5 +124,11 @@
    "href": "https://api.w3.org/groups/tf/cognitive-a11y-tf/chairs"
   }
  },
- "identifier": "tf/cognitive-a11y-tf"
+ "identifier": "tf/cognitive-a11y-tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1771",
+   "title": "Mailing List"
+  }
+ ]
 }
