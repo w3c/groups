@@ -1,1 +1,207 @@
-[]
+[
+ {
+  "name": "N3.js",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "http://rdf.js.org/N3.js/",
+  "description": "Lightning fast, spec-compatible, streaming RDF for JavaScript",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "charter",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "description": "RDF/JS WG Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "community-group",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "description": "General repository for the RDF/JS community group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "comunica-browser",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "",
+  "description": "🌍 Comunica engine scripts for Web browsers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "data-model-spec",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "http://rdf.js.org/data-model-spec/",
+  "description": "RDF/JS: Data model specification – A specification of a low level interface definition representing RDF data independent of a serialized format in a JavaScript environment.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "dataset-spec",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "https://rdf.js.org/dataset-spec/",
+  "description": "RDF/JS: Dataset specification 1.0 – This specification provides a definition how to store multiple quads in a so-called dataset. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "lib-template",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "description": "Template for RDFJS libraries",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "query-spec",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "https://rdf.js.org/query-spec/",
+  "description": "RDF/JS: Query specification 1.0 – This specification provides provides a common interface for RDF query engine in JavaScript",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "rdf-js",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "description": "Proxy package for @rdf-js/types",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "rdfjs.github.io",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "http://rdf.js.org",
+  "description": "W3C RDFJS RDF JavaScript Libraries Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "rdfxml-streaming-parser.js",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "https://www.rubensworks.net/blog/2019/03/13/streaming-rdf-parsers/",
+  "description": "Streaming RDF/XML parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "shacl-ui",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "https://rdf.js.org/shacl-ui/",
+  "description": "SHACL-driven UIs",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "stream-spec",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "https://rdf.js.org/stream-spec/",
+  "description": "RDF/JS: Stream interfaces – A specification of a low level interface definition representing RDF data independent of a serialized format in a JavaScript environment.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ },
+ {
+  "name": "types",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "description": "Authoritative TypeScript typings for all RDFJS specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ]
+  }
+ }
+]
