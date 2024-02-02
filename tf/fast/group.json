@@ -72,5 +72,11 @@
    "href": "https://api.w3.org/groups/tf/fast/chairs"
   }
  },
- "identifier": "tf/fast"
+ "identifier": "tf/fast",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40763",
+   "title": "Mailing List"
+  }
+ ]
 }
