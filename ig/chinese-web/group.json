@@ -46,5 +46,23 @@
  "type": "interest group",
  "start-date": "2018-09-20",
  "end-date": "2024-12-30",
- "identifier": "ig/chinese-web"
+ "identifier": "ig/chinese-web",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/14229",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/14678",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17284",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25915",
+   "title": "Issue Tracking"
+  }
+ ]
 }
