@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "AccessibleChemistry",
+  "owner": {
+   "login": "benetech"
+  },
+  "description": "This Repository is a place where we can experiment with making Chemistry modules, equations, etc. accessible.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chem-web-pub"
+   ]
+  }
+ }
+]
