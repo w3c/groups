@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/rdf-tests"
+ "identifier": "cg/rdf-tests",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6149",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6150",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6151",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6153",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15512",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/rdf-tests",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15512"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15512/groups"
+     }
+    }
+   }
+  }
+ ]
 }
