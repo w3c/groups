@@ -46,5 +46,15 @@
  "type": "interest group",
  "start-date": "2019-05-16",
  "end-date": "2025-12-31",
- "identifier": "ig/web-networks"
+ "identifier": "ig/web-networks",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15607",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15608",
+   "title": "Mailing List"
+  }
+ ]
 }
