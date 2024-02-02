@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/aria-at"
+ "identifier": "cg/aria-at",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15443",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15444",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15445",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15447",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17367",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/aria-at",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17367"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17367/groups"
+     }
+    }
+   }
+  }
+ ]
 }
