@@ -1,5 +1,116 @@
 [
  {
+  "name": "ontologies",
+  "owner": {
+   "login": "hserv"
+  },
+  "homepageUrl": "",
+  "description": "repository for the W3C Human Services Community Group: https://www.w3.org/community/humanservices/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "eric-jahn"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "cbor-ld-spec",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/cbor-ld-spec/",
+  "description": "A CBOR-encoding for Linked Data.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "cborld",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "json-ld-star",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/json-ld-star",
+  "description": "CG Note on JSON-LD*",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld",
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "shortName": "json-ld-star"
+  }
+ },
+ {
+  "name": "minutes",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.org/minutes/",
+  "description": "Teleconference minutes - text and audio logs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld",
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "yaml-ld",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
+  "description": "CG specification for YAML-LD and UCR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld",
+    "cg/json-ld"
+   ],
+   "contacts": [
+    "p20n",
+    "bigbluehat"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "json-ld-api",
   "owner": {
    "login": "w3c"
