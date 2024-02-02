@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2015-10-22",
  "end-date": "2024-07-31",
- "identifier": "wg/aria"
+ "identifier": "wg/aria",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6231",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/6658",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7219",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25893",
+   "title": "Issue Tracking"
+  }
+ ]
 }
