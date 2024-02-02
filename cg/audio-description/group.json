@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/audio-description"
+ "identifier": "cg/audio-description",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13781",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/13782",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/13783",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13785",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15477",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/adpt",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15477"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15477/groups"
+     }
+    }
+   }
+  }
+ ]
 }
