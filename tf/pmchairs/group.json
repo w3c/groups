@@ -71,5 +71,11 @@
    "href": "https://api.w3.org/groups/tf/pmchairs/chairs"
   }
  },
- "identifier": "tf/pmchairs"
+ "identifier": "tf/pmchairs",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40771",
+   "title": "Mailing List"
+  }
+ ]
 }
