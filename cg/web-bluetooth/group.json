@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/web-bluetooth"
+ "identifier": "cg/web-bluetooth",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2064",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/2065",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/2066",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/5962",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/WebBluetoothCG/web-bluetooth",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub Repository for Web Bluetooth CG",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5962"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5962/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5987",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/27751",
+   "title": "Mailing List"
+  }
+ ]
 }
