@@ -46,5 +46,23 @@
  "type": "working group",
  "start-date": "2018-07-25",
  "end-date": "2025-05-31",
- "identifier": "wg/distributed-tracing"
+ "identifier": "wg/distributed-tracing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13858",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15616",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/17355",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25881",
+   "title": "Issue Tracking"
+  }
+ ]
 }
