@@ -75,5 +75,11 @@
    "href": "https://api.w3.org/groups/tf/rqtf/chairs"
   }
  },
- "identifier": "tf/rqtf"
+ "identifier": "tf/rqtf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7943",
+   "title": "Mailing List"
+  }
+ ]
 }
