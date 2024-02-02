@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/av4browsers"
+ "identifier": "cg/av4browsers",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39162",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/39163",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/39164",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/39165",
+   "title": "Mailing List"
+  }
+ ]
 }
