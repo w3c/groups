@@ -75,5 +75,19 @@
    "href": "https://api.w3.org/groups/tf/silver-tf/chairs"
   }
  },
- "identifier": "tf/silver-tf"
+ "identifier": "tf/silver-tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6450",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/6578",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7329",
+   "title": "Mailing List"
+  }
+ ]
 }
