@@ -107,5 +107,11 @@
    "href": "https://api.w3.org/groups/tf/auto-privacy-security/chairs"
   }
  },
- "identifier": "tf/auto-privacy-security"
+ "identifier": "tf/auto-privacy-security",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7759",
+   "title": "Mailing List"
+  }
+ ]
 }
