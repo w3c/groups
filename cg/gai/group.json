@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/gai"
+ "identifier": "cg/gai",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43826",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43827",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43828",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43829",
+   "title": "Mailing List"
+  }
+ ]
 }
