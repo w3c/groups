@@ -46,5 +46,35 @@
  "type": "working group",
  "start-date": "2015-02-03",
  "end-date": "2023-11-30",
- "identifier": "wg/auto"
+ "identifier": "wg/auto",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/736",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7197",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7513",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17261",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/17348",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25742",
+   "title": "Blog"
+  },
+  {
+   "href": "https://api.w3.org/services/25876",
+   "title": "Issue Tracking"
+  }
+ ]
 }
