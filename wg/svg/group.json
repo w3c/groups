@@ -46,5 +46,43 @@
  "type": "working group",
  "start-date": "1998-07-24",
  "end-date": "2024-02-29",
- "identifier": "wg/svg"
+ "identifier": "wg/svg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/99",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/142",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/207",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/290",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/1886",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/14026",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/18328",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25895",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/25966",
+   "title": "Mailing List"
+  }
+ ]
 }
