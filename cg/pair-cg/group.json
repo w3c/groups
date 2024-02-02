@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/pair-cg"
+ "identifier": "cg/pair-cg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25962",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/25963",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/25964",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25965",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43843",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/pair-cg/milopa",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43843"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43843/groups"
+     }
+    }
+   }
+  }
+ ]
 }
