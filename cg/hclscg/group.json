@@ -30,5 +30,63 @@
   }
  },
  "type": "community group",
- "identifier": "cg/hclscg"
+ "identifier": "cg/hclscg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6403",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6404",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6405",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6406",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15478",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/W3C-HCLS",
+    "shortdesc": "HCLS github organization",
+    "longdesc": "HCLS github organization",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15478"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15478/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15480",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/hcls-fhir-rdf",
+    "shortdesc": "HCLS FHIR github repository",
+    "longdesc": "HCLS FHIR github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15480"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15480/groups"
+     }
+    }
+   }
+  }
+ ]
 }
