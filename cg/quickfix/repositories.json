@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "name": "escali-package",
+  "owner": {
+   "login": "schematron-quickfix"
+  },
+  "description": "Escali Package",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/quickfix"
+   ]
+  }
+ },
+ {
+  "name": "sqf",
+  "owner": {
+   "login": "schematron-quickfix"
+  },
+  "description": "Schematron Quick Fixes",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/quickfix"
+   ]
+  }
+ }
+]
