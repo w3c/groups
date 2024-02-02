@@ -1,1 +1,59 @@
-[]
+[
+ {
+  "name": ".github",
+  "owner": {
+   "login": "nostrcg"
+  },
+  "description": ".github",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nostr"
+   ]
+  }
+ },
+ {
+  "name": "devguide",
+  "owner": {
+   "login": "nostrcg"
+  },
+  "description": "developer guide",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nostr"
+   ]
+  }
+ },
+ {
+  "name": "schema",
+  "owner": {
+   "login": "nostrcg"
+  },
+  "homepageUrl": "https://nostrcg.github.io/schema/",
+  "description": "nostr web schema",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nostr"
+   ]
+  }
+ },
+ {
+  "name": "userguide",
+  "owner": {
+   "login": "nostrcg"
+  },
+  "description": "user guide, beginner friendly",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nostr"
+   ]
+  }
+ }
+]
