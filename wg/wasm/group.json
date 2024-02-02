@@ -46,5 +46,19 @@
  "type": "working group",
  "start-date": "2017-08-03",
  "end-date": "2025-11-29",
- "identifier": "wg/wasm"
+ "identifier": "wg/wasm",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6055",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17272",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25912",
+   "title": "Issue Tracking"
+  }
+ ]
 }
