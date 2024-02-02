@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/federated-learning"
+ "identifier": "cg/federated-learning",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33302",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33303",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33304",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33305",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33356",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/federated-learning-cg",
+    "shortdesc": "GitHub repository",
+    "longdesc": "GitHub repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33356"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33356/groups"
+     }
+    }
+   }
+  }
+ ]
 }
