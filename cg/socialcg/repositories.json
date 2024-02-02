@@ -1,1 +1,158 @@
-[]
+[
+ {
+  "name": ".github",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "README for the SocialCG.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "activity-summary",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Send weekly GitHub activity notifications to the CG mailing list.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "activitypub-http-signature",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Repository for a SocialCG report on how HTTP Signature is used with ActivityPub",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "activitypub-webfinger",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "SocialCG report for using ActivityPub with Webfinger",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "activitystreams2-owl",
+  "owner": {
+   "login": "swicg"
+  },
+  "homepageUrl": "https://www.w3.org/ns/activitystreams-owl",
+  "description": "A non-normative turtle-formatted ontology version of the Activity Streams 2.0 vocabulary",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "ap-test-suite-taskforce",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "A repository to track work by the SocialCG ActivityPub Test Suite Taskforce.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "extensions-policy",
+  "owner": {
+   "login": "swicg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "general",
+  "owner": {
+   "login": "swicg"
+  },
+  "homepageUrl": "https://www.w3.org/community/swicg/",
+  "description": "General issue tracker for the group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Meeting notes are archived here",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "processes",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Documentation about group processes, mostly for Chairs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "www",
+  "owner": {
+   "login": "swicg"
+  },
+  "homepageUrl": "https://swicg.io/",
+  "description": "Homepage for SWICG.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ }
+]
