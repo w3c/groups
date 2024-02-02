@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/talent-signal"
+ "identifier": "cg/talent-signal",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15553",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15555",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15557",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15592",
+   "title": "Wiki"
+  }
+ ]
 }
