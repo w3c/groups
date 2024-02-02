@@ -33,5 +33,35 @@
   }
  },
  "type": "business group",
- "identifier": "bg/publishingbg"
+ "identifier": "bg/publishingbg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6549",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/6550",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/6551",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6552",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/6553",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/6554",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/13768",
+   "title": "Other"
+  }
+ ]
 }
