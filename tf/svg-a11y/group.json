@@ -120,5 +120,11 @@
    "href": "https://api.w3.org/groups/tf/svg-a11y/chairs"
   }
  },
- "identifier": "tf/svg-a11y"
+ "identifier": "tf/svg-a11y",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6238",
+   "title": "Mailing List"
+  }
+ ]
 }
