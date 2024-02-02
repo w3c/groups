@@ -1,5 +1,49 @@
 [
  {
+  "name": "vc-api-use-cases",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-api-use-cases/index.html",
+  "description": "Use Cases document in support of the CCG work item, VC-API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-api-use-cases",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "vc-refresh-2021",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-refresh-2021/",
+  "description": "A data model and protocol for refreshing Verifiable Credentials.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "msporny"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "shortName": "vc-refresh-2021"
+  }
+ },
+ {
   "name": "vc-bitstring-status-list",
   "owner": {
    "login": "w3c"
