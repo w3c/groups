@@ -1,1 +1,416 @@
-[]
+[
+ {
+  "name": "1.0-specification",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "",
+  "description": "The 1.0 XProc specification and now abandoned drafts of a 2.0 XML specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "1.0-test-suite",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "The XProc test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "2.0-non-xml-specification",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "",
+  "description": "The currently abandoned non-XML version of XProc 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "3.0-grammar",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "The XProc 3.0 RELAX NG grammar and step library",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "3.0-specification",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "http://spec.xproc.org/",
+  "description": "A community-driven effort to define an XProc 3.0 specification (formerly 1.1)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "3.0-steps",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "",
+  "description": "Repository for change requests to the standard step library and for official extension steps",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "3.0-test-suite",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "https://test-suite.xproc.org/",
+  "description": "The 3.0 test suite.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Vnext",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Assembly point for all issues for a next version of XProc",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2016-09-26",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Fodder for the XProc workshop in Amsterdam, 26 September 2016",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2017-02",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Fodder for a possible XProc workshop in Prague, colocated with XML Prague 2017",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2017-06",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Fodder for a possible XProc workshop in London, colocated with XML London 2017",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2017-09",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "F2F meeting of the XProc 3.0 specification volunteers in Aachen",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2018-02",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "F2F meeting of the XProc 3.0 specification volunteers in Prague",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2018-06",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Repo for the XProc next CG - 11th & 12th June 2018, London GB",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2018-09",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "XProc CG F2F meeting in Leipzig, Sept. 5 & 6",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2019-02",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "",
+  "description": "Repo for the XProc next CG meeting in Prague, Feb. 2019.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2019-06",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Repo for the XProc next CG meeting in London, Jun. 2019. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "Workshop-2019-11",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "XProc community group meeting in Cologne, Nov. 9+10, 2019",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "archive.xproc.org",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "",
+  "description": "Sources for the legacy xproc.org website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "dashboard",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "https://dashboard.xproc.org/",
+  "description": "XProc development dashboard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "exproc.org",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Sources for the exproc.org website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "extensions",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Repository for describing possible extension steps/functions to XProc",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "notes",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Notes and other informal scriblings about XProc",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "showroom",
+  "owner": {
+   "login": "xproc"
+  },
+  "homepageUrl": "",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "tutorial",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "An XProc tutorial",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "xml_prague_2018",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Repo with slides from XML-Prague 2018",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "xproc.org",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "The xproc.org website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "xvrl",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "Extensible Validation Reporting Language",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ },
+ {
+  "name": "xvrl-tools",
+  "owner": {
+   "login": "xproc"
+  },
+  "description": "XSLT for converting SVRL to XVRL, filtering XVRL, etc.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xproc-next"
+   ]
+  }
+ }
+]
