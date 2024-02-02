@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "name": "Specifications",
+  "owner": {
+   "login": "HydraCG"
+  },
+  "homepageUrl": "",
+  "description": "Specifications created by the Hydra W3C Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hydra"
+   ],
+   "contacts": [
+    "lanthaler"
+   ]
+  }
+ }
+]
