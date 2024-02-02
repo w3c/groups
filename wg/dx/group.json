@@ -46,5 +46,31 @@
  "type": "working group",
  "start-date": "2017-05-05",
  "end-date": "2024-06-30",
- "identifier": "wg/dx"
+ "identifier": "wg/dx",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7976",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/8016",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/8765",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17283",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25894",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/25968",
+   "title": "Other"
+  }
+ ]
 }
