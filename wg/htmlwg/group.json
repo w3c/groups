@@ -46,5 +46,15 @@
  "type": "working group",
  "start-date": "2019-06-06",
  "end-date": "2024-06-06",
- "identifier": "wg/htmlwg"
+ "identifier": "wg/htmlwg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17262",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25883",
+   "title": "Issue Tracking"
+  }
+ ]
 }
