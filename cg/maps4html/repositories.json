@@ -1,1 +1,489 @@
-[]
+[
+ {
+  "name": "FiskMississippiMapsStreamCourses",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements/tree/master/examples",
+  "description": "Resources for examples",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "HTML-Map-Element",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Proposed spec for dynamic slippy maps in HTML: https://maps4html.github.io/HTML-Map-Element/spec/",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "HTML-Map-Element-UseCases-Requirements",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/HTML-Map-Element-UseCases-Requirements/",
+  "description": "Use cases and requirements for Maps on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "AmeliaBR",
+    "prushforth"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "MapML",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Map Markup Language is hypertext for Web maps, like HTML is hypertext for Web pages https://maps4html.org/MapML/spec/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "MapML-Proposal",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "description": "This repo contains explainer documents for the scope of the MapML proposal.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
+  "name": "MapMLServer",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Servlet for service-based MapML documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "MapServer-documentation",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://www.mapserver.org/development/rfc/ms-rfc-123.html",
+  "description": "MapML documentation on MapServer",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "Maps4HTML-CG-Charter",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Draft charter for Maps for HTML Community Group https://maps4html.org/Maps4HTML-CG-Charter/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "Maps4HTML-Workshop-2020",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://www.w3.org/2020/maps/",
+  "description": "A public repository to develop the program for a workshop to be held online, at selected times over two weeks, September 21-October 2nd 2020",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth",
+    "AmeliaBR",
+    "tguild"
+   ],
+   "repo-type": [
+    "workshop"
+   ]
+  }
+ },
+ {
+  "name": "Maps4HTML.github.io",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/",
+  "description": "Browseable pages from the W3C Maps for HTML Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
+  "name": "Polymer-Leaflet",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "http://leafletjs.com",
+  "description": " :leaves: JavaScript library for mobile-friendly interactive maps",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "TiledArt-Rousseau",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements/tree/master/examples",
+  "description": "Resource for examples: ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "UCR-MapML-Matrix",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/UCR-MapML-Matrix/mapml-ucrs-fulfillment-matrix.html",
+  "description": "Hosts examples and documents how MapML fulfills the Use Cases and Requirements for Web Maps ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "Web-Map-Custom-Element",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/Web-Map-Custom-Element/",
+  "description": "A custom <mapml-viewer> and <layer-> element suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "chat",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Organization communications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "experiments",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/experiments/",
+  "description": "MapML polyfill experiments https://maps4html.org/experiments/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "geoserver",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://docs.geoserver.org/latest/en/user/extensions/mapml/index.html",
+  "description": "Maps for HTML MapML Extension / plug-in development fork of GeoServer",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "geotools",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "http://geotools.org",
+  "description": "Official GeoTools repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "geowebcache",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "http://geowebcache.org/",
+  "description": "GeoWebCache is a tile caching server implemented in Java that provides various tile caching services like WMS-C, TMS, WMTS, Google Maps, MS Bing and more",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "joint-ogc-osgeo-asf-sprint-2021",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "leaflet-locatecontrol",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://domoritz.github.io/leaflet-locatecontrol/demo/",
+  "description": "A leaflet control to geolocate the user.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "mapml-extension",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/web-map-doc/docs/extension/about",
+  "description": "Source code for the MapML Browser Extension",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "mapml-pgrouting",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "A node application utilizing pgrouting (Dijkstra's algorithm) to find the shortest path between two points using mapml",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "mapserver",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "http://www.mapserver.org",
+  "description": "MapServer RFC 123 work",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "pygeoapi-mapml-formatter",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "description": "MapML Formatter Plugin for pygeoapi ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "sdw",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://www.w3.org/2017/sdwig/",
+  "description": "Repository for the Spatial Data on the Web Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "validator-mapml",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "description": "A clone of validator.nu for Map Markup Language",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "web-map-doc",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Documentation for Web-Map-Custom-Element https://maps4html.org/web-map-doc/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "webwewant.fyi",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://webwewant.fyi/wants/61/",
+  "description": "Web Want for native maps in the browser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ }
+]
