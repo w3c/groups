@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/chem-web-pub"
+ "identifier": "cg/chem-web-pub",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15603",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15604",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15605",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15606",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17307",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/benetech/AccessibleChemistry",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17307"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17307/groups"
+     }
+    }
+   }
+  }
+ ]
 }
