@@ -30,5 +30,47 @@
   }
  },
  "type": "community group",
- "identifier": "cg/ontolex"
+ "identifier": "cg/ontolex",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/384",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/385",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/386",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/388",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15473",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/cimiano/ontolex",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15473"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15473/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17780",
+   "title": "Mailing List"
+  }
+ ]
 }
