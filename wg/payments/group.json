@@ -46,5 +46,35 @@
  "type": "working group",
  "start-date": "2015-10-21",
  "end-date": "2025-07-31",
- "identifier": "wg/payments"
+ "identifier": "wg/payments",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6336",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/7187",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/17269",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/17270",
+   "title": "Other"
+  },
+  {
+   "href": "https://api.w3.org/services/25741",
+   "title": "Blog"
+  },
+  {
+   "href": "https://api.w3.org/services/25903",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/40768",
+   "title": "Other"
+  }
+ ]
 }
