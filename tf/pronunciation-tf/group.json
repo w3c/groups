@@ -75,5 +75,15 @@
    "href": "https://api.w3.org/groups/tf/pronunciation-tf/chairs"
   }
  },
- "identifier": "tf/pronunciation-tf"
+ "identifier": "tf/pronunciation-tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15551",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/16503",
+   "title": "Mailing List"
+  }
+ ]
 }
