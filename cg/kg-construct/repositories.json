@@ -1,1 +1,509 @@
-[]
+[
+ {
+  "name": "awesome-kgc-tools",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Links and description of Knowledge Graphs Construction Tools",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "best-practices",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "challenge-tool",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://kg-construct.github.io/challenge-tool/",
+  "description": "KGCW 2023: Challenge Tool",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "conceptual-test-cases",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Definition and discussion of conceptual test cases for mapping rules",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "dataio-spec",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "eswc-dkg-tutorial-2022",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "",
+  "description": "Moved to tutorials repository",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "exectool",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://kg-construct.github.io/exectool/",
+  "description": "EXEC (EXperiment ExeCutor) is a simple tool to execute benchmarks",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "kg-metadata",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Specification of the KG metadata",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "mappers-docker",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "A collection of dockerized mappers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "mapping-challenges",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Issues for discussion about limitations of current mapping languages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "mapping-rules-corpus",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Shared mapping rules in different specs and languages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "r2rml-atomic-test-cases",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Atomic test-cases for testing the conformance of an R2RML engine",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "r2rml-implementation-report",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "revive & keep alive R2RML implementation report",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "r2rml-test-cases-support",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "",
+  "description": "Python scripts to generate EARL-based report from R2RML test-cases",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "resources",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "",
+  "description": "Resources for KGC: languages/tools/evaluation-systems",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-cc",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/rml/cc/spec",
+  "description": "RML-CC: Collections and Containers definitions for RML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-core",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/rml/core/spec",
+  "description": "RML-Core: Main features for RDF generation with RML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-fnml",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/rml/fnml/spec",
+  "description": "RML-FNML: Transformation functions within RML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-io",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/rml/io/spec",
+  "description": "RML-IO: Input/Output declarations for RML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-jc",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "",
+  "description": "The RML-Joins module",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-lv",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://kg-construct.github.io/rml-lv/dev.html",
+  "description": "Specification repository for logical views in RML.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-questions",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "",
+  "description": "The place for your RML questions and examples",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-resources",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "http://w3id.org/rml/portal",
+  "description": "RML resources e.g. shapes, ontology, resource files, etc.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-star",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/rml/star/spec",
+  "description": "RML-star: RDF-star generation for RML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-star-test-cases",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://github.com/kg-construct/rml-star/tree/main/test-cases",
+  "description": "Archived repository",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-test-cases",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "http://rml.io/test-cases/",
+  "description": "RML conformance test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "rml-test-cases-support",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Python scripts to generate EARL reports for RML engines",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "survey-website",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/kg-construct/survey",
+  "description": "Systematic Literature Review website of Declarative RDF graph generation from heterogeneous (semi-)structured data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "tpac-web",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "website code for the kick-off of the group in the TPAC meetings 2020",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "tutorials",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Public repository with resources of given tutorials",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "use-cases",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Knowledge Graph Construction Use Cases",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "w3id.org",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Website source code for w3id.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "wg-charter",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "The repository for the working group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "workshop",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/kg-construct/workshop/",
+  "description": "Source code for the KG-construct workshop website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
+  "name": "yarrrml-spec",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/kg-construct/yarrrml",
+  "description": " A human readable text-based representation for declarative Linked Data generation rules. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ }
+]
