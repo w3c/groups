@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/inter-cc"
+ "identifier": "cg/inter-cc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40748",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/40749",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/40750",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/40751",
+   "title": "Mailing List"
+  }
+ ]
 }
