@@ -46,5 +46,27 @@
  "type": "working group",
  "start-date": "2012-11-09",
  "end-date": "2025-11-07",
- "identifier": "wg/pointer-events"
+ "identifier": "wg/pointer-events",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1342",
+   "title": "Issue Tracking"
+  },
+  {
+   "href": "https://api.w3.org/services/1896",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13778",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15620",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/15621",
+   "title": "Other"
+  }
+ ]
 }
