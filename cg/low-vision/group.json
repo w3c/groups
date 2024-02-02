@@ -30,5 +30,23 @@
   }
  },
  "type": "community group",
- "identifier": "cg/low-vision"
+ "identifier": "cg/low-vision",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33357",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/33358",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/33359",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/33360",
+   "title": "Mailing List"
+  }
+ ]
 }
