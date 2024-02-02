@@ -1,1 +1,88 @@
-[]
+[
+ {
+  "name": "bikeshed",
+  "owner": {
+   "login": "speced"
+  },
+  "homepageUrl": "https://speced.github.io/bikeshed",
+  "description": ":bike: A preprocessor for anyone writing specifications that converts source files into actual specs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
+  "name": "bikeshed-boilerplate",
+  "owner": {
+   "login": "speced"
+  },
+  "description": "Boilerplate files for Bikeshed specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
+  "name": "bikeshed-data",
+  "owner": {
+   "login": "speced"
+  },
+  "description": "Bikeshed datafiles and scripts to update them.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
+  "name": "spec-dfn-contract",
+  "owner": {
+   "login": "speced"
+  },
+  "description": "Contract for marking up definitions in specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
+  "name": "spec-maintenance",
+  "owner": {
+   "login": "speced"
+  },
+  "homepageUrl": "https://speced.github.io/spec-maintenance/",
+  "description": "Specs and tools to track browser spec maintenance",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
+  "name": "speced-cg",
+  "owner": {
+   "login": "speced"
+  },
+  "description": "Specification Editors CG main repository",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ }
+]
