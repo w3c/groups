@@ -30,5 +30,43 @@
   }
  },
  "type": "community group",
- "identifier": "cg/webvmt-cg"
+ "identifier": "cg/webvmt-cg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15454",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/15455",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/15456",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/15458",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/25944",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/webvmt/community-group/",
+    "shortdesc": "WebVMT GitHub",
+    "longdesc": "Github repository for Web Video Map Tracks (WebVMT)",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25944"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25944/groups"
+     }
+    }
+   }
+  }
+ ]
 }
