@@ -20266,6 +20266,25 @@
   }
  },
  {
+  "name": "immersive-captions-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-captions"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "imsc",
   "owner": {
    "login": "w3c"
