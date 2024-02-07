@@ -22093,6 +22093,25 @@
   }
  },
  {
+  "name": "immersive-captions-cg",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    117874
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "immersive-web-wg-charter",
   "owner": {
    "login": "w3c"
