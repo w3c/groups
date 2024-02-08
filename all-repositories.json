@@ -5038,12 +5038,12 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    83482
+    "wg/webplatform",
+    "cg/wicg"
    ],
    "contacts": [
-    "siusin"
+    "yoavweiss"
    ],
-   "shortName": "webcomponents",
    "repo-type": [
     "others"
    ]
@@ -18391,7 +18391,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    102
+    "wg/media"
    ],
    "contacts": [
     "tidoust"
@@ -33612,6 +33612,9 @@
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
+   "group": [
+    "ig/web-networks"
+   ],
    "contacts": [
     "dontcallmedom"
    ],
