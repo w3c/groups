@@ -1075,6 +1075,19 @@
   }
  },
  {
+  "name": "discourse-archive",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "discourse-wicg-theme",
   "owner": {
    "login": "WICG"
