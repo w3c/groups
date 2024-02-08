@@ -3644,6 +3644,27 @@
   }
  },
  {
+  "name": "webcomponents",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Web Components specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webplatform",
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "webcrypto-secure-curves",
   "owner": {
    "login": "WICG"
