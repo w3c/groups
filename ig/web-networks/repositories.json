@@ -61,5 +61,26 @@
     "homepage"
    ]
   }
+ },
+ {
+  "name": "web-networks-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-networks-charter/",
+  "description": "Towards a Web & Networks Interest Group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/web-networks"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
  }
 ]
