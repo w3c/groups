@@ -2440,6 +2440,19 @@
   }
  },
  {
+  "name": "discourse-archive",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "discourse-wicg-theme",
   "owner": {
    "login": "WICG"
@@ -24144,6 +24157,26 @@
     "caribouW3"
    ],
    "shortName": "screen-capture",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "mediacapture-screen-share-extensions",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    47318
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "caribouW3"
+   ],
    "repo-type": [
     "rec-track"
    ]
