@@ -5038,12 +5038,12 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/webplatform"
+    "wg/webplatform",
+    "cg/wicg"
    ],
    "contacts": [
-    "siusin"
+    "yoavweiss"
    ],
-   "shortName": "webcomponents",
    "repo-type": [
     "others"
    ]
@@ -17387,6 +17387,27 @@
   }
  },
  {
+  "name": "charter-media-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/charter-media-wg/",
+  "description": "Draft charter for a possible Media Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/media"
+   ],
+   "contacts": [
+    "tidoust"
+   ],
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "charter-timed-text",
   "owner": {
    "login": "w3c"
@@ -28163,6 +28184,27 @@
    ],
    "repo-type": [
     "homepage"
+   ]
+  }
+ },
+ {
+  "name": "web-networks-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-networks-charter/",
+  "description": "Towards a Web & Networks Interest Group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/web-networks"
+   ],
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "process"
    ]
   }
  },
