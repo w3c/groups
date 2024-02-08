@@ -9,12 +9,12 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/webplatform"
+    "wg/webplatform",
+    "cg/wicg"
    ],
    "contacts": [
-    "siusin"
+    "yoavweiss"
    ],
-   "shortName": "webcomponents",
    "repo-type": [
     "others"
    ]
