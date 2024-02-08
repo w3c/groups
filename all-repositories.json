@@ -6658,6 +6658,21 @@
   }
  },
  {
+  "name": "wasi-observe",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "",
+  "description": "Observability World for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "wasi-parallel",
   "owner": {
    "login": "WebAssembly"
@@ -22116,7 +22131,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    117874
+    "cg/immersive-captions"
    ],
    "contacts": [
     "ruoxiran"
