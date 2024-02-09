@@ -446,6 +446,20 @@
   }
  },
  {
+  "name": "frozen-values",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "A proposal for introducing freezable GC/global values.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "funclets",
   "owner": {
    "login": "WebAssembly"
