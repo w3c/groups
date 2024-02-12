@@ -62,7 +62,7 @@
   },
   "homepageUrl": "",
   "description": "Implementation report for ACT Rules test cases validated by Axe",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -75,7 +75,7 @@
   "owner": {
    "login": "act-rules"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
