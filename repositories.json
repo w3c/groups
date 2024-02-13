@@ -6889,6 +6889,19 @@
   }
  },
  {
+  "name": "wasi-webgpu",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "wasm-c-api",
   "owner": {
    "login": "WebAssembly"
@@ -14127,6 +14140,20 @@
    "login": "swicg"
   },
   "description": "Send weekly GitHub activity notifications to the CG mailing list.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
+  "name": "activitypub-data-portability",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Repository for data portability report and solutions for ActivityPub",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
