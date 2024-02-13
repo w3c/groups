@@ -28,6 +28,20 @@
   }
  },
  {
+  "name": "activitypub-data-portability",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Repository for data portability report and solutions for ActivityPub",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-http-signature",
   "owner": {
    "login": "swicg"
