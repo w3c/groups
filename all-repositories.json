@@ -9947,7 +9947,7 @@
   },
   "homepageUrl": "",
   "description": "The RML-Joins module",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -18187,7 +18187,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "description": "A machine-readable list of specifications used to build Web browsers",
+  "description": "A machine-readable list of Web specifications",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
