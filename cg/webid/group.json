@@ -33,10 +33,6 @@
  "identifier": "cg/webid",
  "services": [
   {
-   "href": "https://api.w3.org/services/288",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/911",
    "title": "Wiki"
   },
