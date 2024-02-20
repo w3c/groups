@@ -11133,6 +11133,20 @@
   }
  },
  {
+  "name": "harvesting-utils",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Utils library for harvesting RPDE feeds",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "implementation-tracker",
   "owner": {
    "login": "openactive"
