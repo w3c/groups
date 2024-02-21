@@ -1,5 +1,20 @@
 [
  {
+  "name": "CrossSiteCookieAccessCredential",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "homepageUrl": "",
+  "description": "A Work Item of the Federated Identity Community Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
   "name": "admin",
   "owner": {
    "login": "fedidcg"
