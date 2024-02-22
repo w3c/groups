@@ -272,6 +272,19 @@
   }
  },
  {
+  "name": "maregraph-examples",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ]
+  }
+ },
+ {
   "name": "ngsi-ld-source-selection",
   "owner": {
    "login": "TREEcg"
