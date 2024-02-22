@@ -1168,6 +1168,19 @@
   }
  },
  {
+  "name": "maregraph-examples",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ]
+  }
+ },
+ {
   "name": "ngsi-ld-source-selection",
   "owner": {
    "login": "TREEcg"
@@ -7241,6 +7254,20 @@
    "login": "WebView-CG"
   },
   "description": "GitHub Homepage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
+  "name": "Compatibility-Data-Project",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "description": "We are driving an initiative to measure compatibility between WebViews across the ecosystem. This repository is used to track tasks and the current state of the project.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
