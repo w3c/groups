@@ -168,5 +168,48 @@
     "cg/socialcg"
    ]
   }
+ },
+ {
+  "name": "activitypub",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/activitypub/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "activitystreams",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/activitystreams-core/",
+  "description": "Activity Streams 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  }
 ]
