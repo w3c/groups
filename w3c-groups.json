@@ -6871,6 +6871,62 @@
   ]
  },
  {
+  "id": 60884,
+  "name": "Information Architecture Community Group",
+  "is_closed": false,
+  "description": "The W3C Information Architecture community group is for anyone interested in Information Architecture and standards, and to participate, discuss, share, support, develop, and learn about them.",
+  "shortname": "informationarchitecture",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/informationarchitecture"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/informationarchitecture/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/informationarchitecture/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/informationarchitecture/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/informationarchitecture/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/informationarchitecture/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/informationarchitecture/participations"
+   }
+  },
+  "type": "community group",
+  "identifier": "cg/informationarchitecture",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/1378",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/1379",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/1380",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/1455",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/33283",
+    "title": "Wiki"
+   }
+  ]
+ },
+ {
   "id": 143566,
   "name": "Inter-Platform Validation for Confidential Computing Community Group",
   "is_closed": false,
