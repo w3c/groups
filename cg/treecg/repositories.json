@@ -232,7 +232,8 @@
   "owner": {
    "login": "TREEcg"
   },
-  "description": "Emits new or potentially updated members of a TREE collection ",
+  "homepageUrl": "https://github.com/TREEcg/ldes-client",
+  "description": "Deprecated! Use the ldes-client instead",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -263,6 +264,20 @@
   },
   "homepageUrl": "https://treecg.github.io/jQuery-Widget.js/",
   "description": "A jQuery widget to query heterogeneous interfaces using Comunica SPARQL with support for TREE specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ]
+  }
+ },
+ {
+  "name": "ldes-client",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "The new version of the event stream client",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
