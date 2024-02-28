@@ -21771,10 +21771,23 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "the HTML Ruby Specification",
+  "homepageUrl": "https://w3c.github.io/html-ruby/",
+  "description": "HTML Ruby Markup Extensions",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "wg/htmlwg"
+   ],
+   "contacts": [
+    "siusin",
+    "LJwatson",
+    "frivoal"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "html-tools",
