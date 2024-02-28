@@ -1,5 +1,28 @@
 [
  {
+  "name": "html-ruby",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/html-ruby/",
+  "description": "HTML Ruby Markup Extensions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/htmlwg"
+   ],
+   "contacts": [
+    "siusin",
+    "LJwatson",
+    "frivoal"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "htmlwg",
   "owner": {
    "login": "w3c"
