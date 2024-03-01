@@ -5784,6 +5784,20 @@
   }
  },
  {
+  "name": "half-precision",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal to introduce half precision operations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "instrument-tracing",
   "owner": {
    "login": "WebAssembly"
