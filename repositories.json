@@ -31236,6 +31236,20 @@
   }
  },
  {
+  "name": "developer-signals",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Tracking web developer signals for features",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
   "name": "web-features",
   "owner": {
    "login": "web-platform-dx"
