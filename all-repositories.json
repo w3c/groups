@@ -9607,6 +9607,28 @@
   }
  },
  {
+  "name": "json-ld-wg-charter",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/json-ld-wg-charter/",
+  "description": "Draft charter for the W3C JSON-LD WG (forked from w3c/charter-drafts)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    52794
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "json-ld.github.io",
   "owner": {
    "login": "json-ld"
@@ -37165,6 +37187,20 @@
    "login": "web-platform-dx"
   },
   "description": "Development of research on developer needs to inform improvements in Web Platform Developer Experience",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
+  "name": "developer-signals",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Tracking web developer signals for features",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
