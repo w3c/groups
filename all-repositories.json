@@ -1174,7 +1174,7 @@
    "login": "TREEcg"
   },
   "homepageUrl": "https://treecg.github.io/ldes-client/",
-  "description": "The new version of the event stream client",
+  "description": "A reference implementation for the TREE/LDES client, replicating and synchronizing datasets",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2586,7 +2586,7 @@
    "login": "WICG"
   },
   "homepageUrl": "https://screen-share.github.io/element-capture/",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -3676,7 +3676,7 @@
    "login": "WICG"
   },
   "homepageUrl": "https://wicg.github.io/multicapture/",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
