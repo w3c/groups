@@ -66,6 +66,28 @@
   }
  },
  {
+  "name": "json-ld-wg-charter",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/json-ld-wg-charter/",
+  "description": "Draft charter for the W3C JSON-LD WG (forked from w3c/charter-drafts)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "minutes",
   "owner": {
    "login": "json-ld"
