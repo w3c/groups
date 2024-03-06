@@ -9588,6 +9588,28 @@
   }
  },
  {
+  "name": "json-ld-wg-charter",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/json-ld-wg-charter/",
+  "description": "Draft charter for the W3C JSON-LD WG (forked from w3c/charter-drafts)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "json-ld.github.io",
   "owner": {
    "login": "json-ld"
@@ -24250,6 +24272,26 @@
    ],
    "repo-type": [
     "others"
+   ]
+  }
+ },
+ {
+  "name": "rdf-star-wg-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
    ]
   }
  },
