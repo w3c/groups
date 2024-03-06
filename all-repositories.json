@@ -5059,6 +5059,25 @@
   }
  },
  {
+  "name": "web_audio_playout",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webcomponents",
   "owner": {
    "login": "WICG"
