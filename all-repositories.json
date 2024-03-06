@@ -9617,14 +9617,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    52794
+    "wg/json-ld"
    ],
    "contacts": [
-    "wseltzer"
+    "pchampin"
    ],
    "policy": "open",
    "repo-type": [
-    "project"
+    "process"
    ]
   }
  },
@@ -27201,6 +27201,9 @@
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
+   "group": [
+    139681
+   ],
    "contacts": [
     "pchampin"
    ],
