@@ -278,7 +278,7 @@
    "login": "TREEcg"
   },
   "homepageUrl": "https://treecg.github.io/ldes-client/",
-  "description": "The new version of the event stream client",
+  "description": "A reference implementation for the TREE/LDES client, replicating and synchronizing datasets",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
