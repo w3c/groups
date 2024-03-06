@@ -3644,6 +3644,25 @@
   }
  },
  {
+  "name": "web_audio_playout",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webcomponents",
   "owner": {
    "login": "WICG"
