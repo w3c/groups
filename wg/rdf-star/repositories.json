@@ -181,6 +181,26 @@
   }
  },
  {
+  "name": "rdf-star-wg-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "rdf-tests",
   "owner": {
    "login": "w3c"
