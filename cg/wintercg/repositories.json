@@ -105,6 +105,21 @@
   }
  },
  {
+  "name": "proposal-cli-api",
+  "owner": {
+   "login": "wintercg"
+  },
+  "homepageUrl": "",
+  "description": "WinterCG proposal for standardizing CLI APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
   "name": "proposal-common-minimum-api",
   "owner": {
    "login": "wintercg"
