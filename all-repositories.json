@@ -23247,6 +23247,28 @@
   }
  },
  {
+  "name": "long-animation-frames",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Long Animation Frame API specification repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    45211
+   ],
+   "contacts": [
+    "carine"
+   ],
+   "shortName": "long-animation",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "longtasks",
   "owner": {
    "login": "w3c"
