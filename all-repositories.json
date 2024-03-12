@@ -17564,6 +17564,15 @@
   }
  },
  {
+  "name": "ai-web-impact",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "alreq",
   "owner": {
    "login": "w3c"
@@ -23247,7 +23256,7 @@
   }
  },
  {
-  "name": "long-animation-frame",
+  "name": "long-animation-frames",
   "owner": {
    "login": "w3c"
   },
