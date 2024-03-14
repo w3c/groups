@@ -15621,19 +15621,6 @@
   }
  },
  {
-  "name": "vc-di-bbs-test-suite",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "vc-ed",
   "owner": {
    "login": "w3c-ccg"
@@ -26597,6 +26584,27 @@
    "shortName": "vc-di-bbs",
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "vc-di-bbs-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-di-bbs-test-suite",
+  "description": "Interoperability Test Suite for Data Integrity BBS Signatures",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
    ]
   }
  },
