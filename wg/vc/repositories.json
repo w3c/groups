@@ -175,6 +175,27 @@
   }
  },
  {
+  "name": "vc-di-bbs-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-di-bbs-test-suite",
+  "description": "Interoperability Test Suite for Data Integrity BBS Signatures",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
+ },
+ {
   "name": "vc-di-ecdsa",
   "owner": {
    "login": "w3c"
