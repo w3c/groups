@@ -1,0 +1,52 @@
+{
+ "id": 154193,
+ "name": "Accessibility Internationalization Community Group",
+ "is_closed": false,
+ "description": "The mission of the Accessibility Internationalization Community Group is to improve the internationalization of:\r\n<ul>\r\n<li>The Cognitive and Learning Disabilities Accessibility (COGA) Task Force</li>\r\n<li>The Accessibility Guidelines Working Group (AG)</li>\r\n</ul>\r\n\r\nScope\r\nThe Accessibility Internationalization Community Group will include the following efforts:\r\n<ul>\r\n<li>Improve the internationalization of COGA  and AG publications.</li>\r\n<li>Develop criteria and tests for easy-to-understand language in different languages.</li>\r\n<li>Develop criteria and tests for text appearance and semantics in different writing systems</li>\r\n<li>Develop criteria and tests for additional guidance that changes based on additional language, writing system, or culture.</li>\r\n</ul>\r\n\r\nThe community group’s initial focus is to help internationalize two accessibility resources that are currently in development:\r\n<ul>\r\n<li>The next version of Making Content Usable for People with Cognitive and Learning Disabilities </li>\r\n<li>WCAG 3.0, with two guidelines as the top priorities: “Clear Language” and “Text Appearance and Semantics,” which will have tests and criteria in different languages.</li>\r\n</ul>",
+ "shortname": "global-inclusion",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/global-inclusion"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/global-inclusion/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/global-inclusion/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/global-inclusion/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/global-inclusion/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/global-inclusion/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/global-inclusion/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/global-inclusion",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43870",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43871",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43872",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43873",
+   "title": "Mailing List"
+  }
+ ]
+}
