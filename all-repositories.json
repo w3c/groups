@@ -12008,6 +12008,20 @@
   }
  },
  {
+  "name": "status-dashboard",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "The API dashboard found at https://status.openactive.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "status-page-redux",
   "owner": {
    "login": "openactive"
