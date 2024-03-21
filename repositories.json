@@ -11984,6 +11984,20 @@
   }
  },
  {
+  "name": "status-dashboard-conformance-monitor",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A conformance monitor that reports on dataset status, for use in the Status Dashboard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "status-page-redux",
   "owner": {
    "login": "openactive"
