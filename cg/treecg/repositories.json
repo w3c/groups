@@ -86,21 +86,6 @@
   }
  },
  {
-  "name": "LDES-Solid-Server",
-  "owner": {
-   "login": "TREEcg"
-  },
-  "homepageUrl": "",
-  "description": "An implementation of an LDES server built within the Community Solid Server",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/treecg"
-   ]
-  }
- },
- {
   "name": "LDES-timeseries",
   "owner": {
    "login": "TREEcg"
@@ -273,34 +258,6 @@
   }
  },
  {
-  "name": "ldes-client",
-  "owner": {
-   "login": "TREEcg"
-  },
-  "homepageUrl": "https://treecg.github.io/ldes-client/",
-  "description": "A reference implementation for the TREE/LDES client, replicating and synchronizing datasets",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/treecg"
-   ]
-  }
- },
- {
-  "name": "maregraph-examples",
-  "owner": {
-   "login": "TREEcg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/treecg"
-   ]
-  }
- },
- {
   "name": "ngsi-ld-source-selection",
   "owner": {
    "login": "TREEcg"
@@ -334,19 +291,6 @@
   },
   "homepageUrl": "https://treecg.github.io/paper-materializable-interfaces/",
   "description": "A paper on multiple views and materializable interfaces with the TREE spec",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/treecg"
-   ]
-  }
- },
- {
-  "name": "sds-storage-writer-mongo",
-  "owner": {
-   "login": "TREEcg"
-  },
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
