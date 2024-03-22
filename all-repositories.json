@@ -11908,6 +11908,20 @@
   }
  },
  {
+  "name": "skos-compare-action",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "GitHub Action to compare SKOS files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "skos.js",
   "owner": {
    "login": "openactive"
