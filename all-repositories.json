@@ -18787,6 +18787,25 @@
   }
  },
  {
+  "name": "cndid",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cndid"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "cnwa",
   "owner": {
    "login": "w3c"
