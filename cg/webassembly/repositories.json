@@ -282,6 +282,19 @@
   }
  },
  {
+  "name": "custom-page-sizes",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "debugging",
   "owner": {
    "login": "WebAssembly"
