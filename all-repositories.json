@@ -11943,6 +11943,20 @@
   }
  },
  {
+  "name": "skos-vocabulary-workflows",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Publishing workflows for OpenActive SKOS Vocabularies",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "skos.js",
   "owner": {
    "login": "openactive"
