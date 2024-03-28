@@ -134,20 +134,6 @@
   }
  },
  {
-  "name": "activity-list-editor",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Activity List editor code (modified from iqvoc)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "activity-list-xml-json",
   "owner": {
    "login": "openactive"
@@ -1527,6 +1513,20 @@
    "login": "openactive"
   },
   "description": "GitHub Action to compare SKOS files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "skos-vocabulary-editor",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Activity List editor code (modified from iqvoc)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
