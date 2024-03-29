@@ -10269,6 +10269,20 @@
   }
  },
  {
+  "name": "annotation-demos",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "description": "Samples and demos for challenges and approaches to linguistic annotation in RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ]
+  }
+ },
+ {
   "name": "linguistic-annotation",
   "owner": {
    "login": "ld4lt"
@@ -11896,6 +11910,20 @@
    "login": "openactive"
   },
   "description": "Activity List editor code (modified from iqvoc)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
+  "name": "skos-vocabulary-template",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A template for new OpenActive SKOS Vocabulary repositories",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
