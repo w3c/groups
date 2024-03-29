@@ -1536,6 +1536,20 @@
   }
  },
  {
+  "name": "skos-vocabulary-template",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "A template for new OpenActive SKOS Vocabulary repositories",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "skos-vocabulary-workflows",
   "owner": {
    "login": "openactive"
