@@ -14,6 +14,20 @@
   }
  },
  {
+  "name": "annotation-demos",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "description": "Samples and demos for challenges and approaches to linguistic annotation in RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ]
+  }
+ },
+ {
   "name": "linguistic-annotation",
   "owner": {
    "login": "ld4lt"
