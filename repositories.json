@@ -14468,6 +14468,20 @@
   }
  },
  {
+  "name": "miscellany",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Documentation and context for miscellaneous terms used by ActivityPub implementations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "processes",
   "owner": {
    "login": "swicg"
