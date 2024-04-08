@@ -1,5 +1,18 @@
 [
  {
+  "name": "a11y-reviews",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
   "name": "accessibility-questionnaire",
   "owner": {
    "login": "w3ctag"
