@@ -113,6 +113,20 @@
   }
  },
  {
+  "name": "forums",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "ActivityPub based Forums and Threaded Discussions Task Force",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "general",
   "owner": {
    "login": "swicg"
