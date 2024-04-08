@@ -36696,10 +36696,11 @@
   }
  },
  {
-  "name": "a11y-reviews",
+  "name": "accessibility-questionnaire",
   "owner": {
    "login": "w3ctag"
   },
+  "description": "A checklist for whether further accessibility review should be triggered",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -36709,11 +36710,10 @@
   }
  },
  {
-  "name": "accessibility-questionnaire",
+  "name": "accessibility-responses",
   "owner": {
    "login": "w3ctag"
   },
-  "description": "A checklist for whether further accessibility review should be triggered",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
