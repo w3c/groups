@@ -9774,6 +9774,21 @@
   }
  },
  {
+  "name": "KROWN",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://w3id.org/kg-construct/KROWN/",
+  "description": "KROWN 👑: A Benchmark for RDF Graph Materialization",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
   "name": "awesome-kgc-tools",
   "owner": {
    "login": "kg-construct"
