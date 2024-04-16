@@ -2485,6 +2485,25 @@
   }
  },
  {
+  "name": "document-isolation-policy",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "document-picture-in-picture",
   "owner": {
    "login": "WICG"
@@ -33420,8 +33439,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://wai-website.netlify.com/",
-  "description": "This is a repository hosts the new WAI Website.",
+  "homepageUrl": "https://www.w3.org/WAI/",
+  "description": "This repository hosts the WAI Website.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
