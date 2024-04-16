@@ -1146,6 +1146,25 @@
   }
  },
  {
+  "name": "document-isolation-policy",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "document-picture-in-picture",
   "owner": {
    "login": "WICG"
