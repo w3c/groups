@@ -15,6 +15,21 @@
   }
  },
  {
+  "name": "hybrid-ai",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "",
+  "description": "Hybrid AI Exploration 🧪",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "meetings",
   "owner": {
    "login": "webmachinelearning"
