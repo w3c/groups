@@ -15740,21 +15740,6 @@
   }
  },
  {
-  "name": "vc-bitstring-status-list-test-suite",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "homepageUrl": "https://w3c-ccg.github.io/vc-bitstring-status-list-test-suite",
-  "description": "Status List 2021 Credential test suite",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "vc-ed",
   "owner": {
    "login": "w3c-ccg"
