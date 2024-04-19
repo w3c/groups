@@ -15892,21 +15892,6 @@
   }
  },
  {
-  "name": "vc-bitstring-status-list-test-suite",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "homepageUrl": "https://w3c-ccg.github.io/vc-bitstring-status-list-test-suite",
-  "description": "Status List 2021 Credential test suite",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "vc-csl2017",
   "owner": {
    "login": "w3c-ccg"
@@ -30607,6 +30592,17 @@
     "rec-track"
    ]
   }
+ },
+ {
+  "name": "vc-bitstring-status-list-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-bitstring-status-list-test-suite",
+  "description": "Status List 2021 Credential test suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
  },
  {
   "name": "vc-controller-document",
