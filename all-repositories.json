@@ -9793,6 +9793,21 @@
   }
  },
  {
+  "name": "BURP",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "homepageUrl": "https://zenodo.org/doi/10.5281/zenodo.11037711",
+  "description": "A Basic and Unassuming RML Processor",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
   "name": "KROWN",
   "owner": {
    "login": "kg-construct"
