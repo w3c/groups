@@ -27465,7 +27465,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -27643,9 +27643,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/wai-first-aid/plan/interim-repairs/",
-  "description": "Web Accessibility First Aid: Approaches for Interim Repairs",
-  "isArchived": false,
+  "homepageUrl": "",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
