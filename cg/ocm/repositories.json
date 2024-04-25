@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "OCM-API",
+  "owner": {
+   "login": "cs3org"
+  },
+  "description": "OpenCloudMesh API ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ocm"
+   ]
+  }
+ }
+]
