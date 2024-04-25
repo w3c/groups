@@ -47,6 +47,26 @@
   {
    "href": "https://api.w3.org/services/43837",
    "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43877",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/cs3org/ocm-api",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43877"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43877/groups"
+     }
+    }
+   }
   }
  ]
 }
