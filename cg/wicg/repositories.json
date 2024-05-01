@@ -3347,6 +3347,27 @@
   }
  },
  {
+  "name": "translation-api",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "A proposal for a web translation API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "trust-token-api",
   "owner": {
    "login": "WICG"
