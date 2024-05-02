@@ -10531,6 +10531,21 @@
   }
  },
  {
+  "name": "Explore-OpenActive-data-with-R-code",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Example R code to harvest and display open data about opportunities for sport and physical activity. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "OpenActive.DatasetSite.NET",
   "owner": {
    "login": "openactive"
@@ -12810,6 +12825,13 @@
   "w3cjson": {
    "group": [
     "cg/privacycg"
+   ],
+   "contacts": [
+    "arichiv",
+    "johannhof"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -27839,8 +27861,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/wai-org-policies/planning/org-policies/",
-  "description": "Developing Organizational Policies on Web Accessibility",
+  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
