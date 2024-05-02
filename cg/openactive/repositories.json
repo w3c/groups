@@ -44,6 +44,21 @@
   }
  },
  {
+  "name": "Explore-OpenActive-data-with-R-code",
+  "owner": {
+   "login": "openactive"
+  },
+  "homepageUrl": "",
+  "description": "Example R code to harvest and display open data about opportunities for sport and physical activity. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "OpenActive.DatasetSite.NET",
   "owner": {
    "login": "openactive"
