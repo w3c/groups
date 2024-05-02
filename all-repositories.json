@@ -31553,7 +31553,7 @@
   },
   "homepageUrl": "https://wai-involveuserseval.netlify.com",
   "description": "Involving Users in Evaluating Web Accessibility",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -32175,8 +32175,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/wai-eval-report-templates/test-evaluate/report-template/",
-  "isArchived": false,
+  "homepageUrl": "",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -32491,8 +32491,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/wai-intro-linking/standards-guidelines/linking/",
-  "isArchived": false,
+  "homepageUrl": "",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -32508,6 +32508,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -32956,7 +32957,8 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "homepageUrl": "",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -33125,7 +33127,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
