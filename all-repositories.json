@@ -34935,7 +34935,14 @@
   "description": "Meeting page",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "contacts": [
+    "xueyuanjia"
+   ],
+   "repo-type": [
+    "workshop"
+   ]
+  }
  },
  {
   "name": "webex",
