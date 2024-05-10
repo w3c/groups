@@ -2,7 +2,7 @@
  "id": 117488,
  "name": "Decentralized Identifier Working Group",
  "is_closed": false,
- "description": "The mission of the Decentralized Identifier Working Group is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications.",
+ "description": "The mission of the Decentralized Identifier Working Group is two-fold. First, it will maintain the Decentralized Identifiers (DIDs) specification and related Working Group Notes. Second, it will seek consensus around the best way to achieve effective interoperability through common requirements, algorithms, architectural options, and various considerations for the DID resolution and DID URL dereferencing processes.",
  "shortname": "did",
  "discr": "w3cgroup",
  "_links": {
