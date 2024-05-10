@@ -10636,6 +10636,20 @@
   }
  },
  {
+  "name": "activity-list-archive",
+  "owner": {
+   "login": "openactive"
+  },
+  "description": "Temporary store of activity-list history",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ]
+  }
+ },
+ {
   "name": "activity-list-xml-json",
   "owner": {
    "login": "openactive"
