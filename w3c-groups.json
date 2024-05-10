@@ -4601,7 +4601,7 @@
   "id": 117488,
   "name": "Decentralized Identifier Working Group",
   "is_closed": false,
-  "description": "The mission of the Decentralized Identifier Working Group is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications.",
+  "description": "The mission of the Decentralized Identifier Working Group is two-fold. First, it will maintain the Decentralized Identifiers (DIDs) specification and related Working Group Notes. Second, it will seek consensus around the best way to achieve effective interoperability through common requirements, algorithms, architectural options, and various considerations for the DID resolution and DID URL dereferencing processes.",
   "shortname": "did",
   "discr": "w3cgroup",
   "_links": {
@@ -16009,7 +16009,7 @@
   "id": 49309,
   "name": "Web Application Security Working Group",
   "is_closed": false,
-  "description": "The mission of the Web Application Security Working Group is to develop security and policy mechanisms to improve the security of Web Applications, and enable secure cross-site communication.",
+  "description": "The mission of the Web Application Security Working Group is to develop mechanisms and best practices which improve the security of Web Applications.",
   "shortname": "webappsec",
   "discr": "w3cgroup",
   "_links": {
@@ -16137,7 +16137,7 @@
   "id": 87227,
   "name": "Web Authentication Working Group",
   "is_closed": false,
-  "description": "The mission of the Web Authentication Working Group, in the Security Activity is to define a client-side API providing strong authentication functionality to Web Applications.",
+  "description": "The mission of the Web Authentication Working Group is to define a client-side API providing strong authentication functionality to Web Applications.",
   "shortname": "webauthn",
   "discr": "w3cgroup",
   "_links": {
