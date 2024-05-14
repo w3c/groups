@@ -138,8 +138,7 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "https://www.openactive.io/activity-list/",
-  "description": "The OpenActive activity list",
+  "description": "Temporary store of activity-list history",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -149,11 +148,12 @@
   }
  },
  {
-  "name": "activity-list-archive",
+  "name": "activity-list-old",
   "owner": {
    "login": "openactive"
   },
-  "description": "Temporary store of activity-list history",
+  "homepageUrl": "https://www.openactive.io/activity-list/",
+  "description": "The OpenActive activity list",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
