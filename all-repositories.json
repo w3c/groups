@@ -37632,6 +37632,20 @@
   }
  },
  {
+  "name": "awesome-webnn",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "⚡Delightful WebNN resources, curated list of awesome things around WebNN ecosystem.😎",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "charter",
   "owner": {
    "login": "webmachinelearning"
