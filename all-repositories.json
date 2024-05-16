@@ -32910,7 +32910,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -33074,7 +33074,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -37636,6 +37636,7 @@
   "owner": {
    "login": "webmachinelearning"
   },
+  "homepageUrl": "",
   "description": "⚡Delightful WebNN resources, curated list of awesome things around WebNN ecosystem.😎",
   "isArchived": false,
   "isPrivate": false,
