@@ -431,6 +431,28 @@
   }
  },
  {
+  "name": "vc-overview",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-overview/",
+  "description": "Overview note for the VC WG Recommendations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "shortName": "vc-overview"
+  }
+ },
+ {
   "name": "vc-specs-dir",
   "owner": {
    "login": "w3c"
