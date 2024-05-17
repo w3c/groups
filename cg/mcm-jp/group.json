@@ -1,0 +1,52 @@
+{
+ "id": 156178,
+ "name": "Media Content Metadata Japanese Community Group",
+ "is_closed": false,
+ "description": "The mission of this group is sharing use cases, technical challenges, best practices and possible implementations for inter-industry collaboration of media content metadata to improve the interoperability of the metadata and promote media content distribution among various industries. This group facilitates discussion with Japanese companies and organizations from different industries using Japanese language.\r\n\r\nThis group will not publish any specifications.",
+ "shortname": "mcm-jp",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mcm-jp"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/mcm-jp/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mcm-jp/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mcm-jp/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mcm-jp/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mcm-jp/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mcm-jp/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/mcm-jp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43879",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43880",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43881",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43882",
+   "title": "Mailing List"
+  }
+ ]
+}
