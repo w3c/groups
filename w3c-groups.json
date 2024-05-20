@@ -18438,6 +18438,58 @@
   ]
  },
  {
+  "id": 156245,
+  "name": "Webtoon Metadata Community Group",
+  "is_closed": false,
+  "description": "The mission of this group is to share use cases, technical challenges, best practices, and possible implementations for the interoperability of webtoon metadata in order to improve the interoperability of webtoon metadata and enable diverse uses of derivative works.",
+  "shortname": "webtoon-meta",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/webtoon-meta"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/webtoon-meta/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/webtoon-meta/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/webtoon-meta/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/webtoon-meta/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/webtoon-meta/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/webtoon-meta/participations"
+   }
+  },
+  "type": "community group",
+  "identifier": "cg/webtoon-meta",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43883",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/43884",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/43885",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43886",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 53549,
   "name": "XForms Users Community Group",
   "is_closed": false,
