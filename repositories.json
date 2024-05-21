@@ -8502,27 +8502,6 @@
   }
  },
  {
-  "name": "ontologies",
-  "owner": {
-   "login": "hserv"
-  },
-  "homepageUrl": "",
-  "description": "repository for the W3C Human Services Community Group: https://www.w3.org/community/humanservices/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld"
-   ],
-   "contacts": [
-    "eric-jahn"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "WebXR-WebGPU-Binding",
   "owner": {
    "login": "immersive-web"
@@ -32116,20 +32095,6 @@
   "w3cjson": {
    "group": [
     "cg/webtiming"
-   ]
-  }
- },
- {
-  "name": "community-group",
-  "owner": {
-   "login": "webvmt"
-  },
-  "description": "WebVMT Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webvmt-cg"
    ]
   }
  },
