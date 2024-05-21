@@ -5142,62 +5142,6 @@
   ]
  },
  {
-  "id": 108411,
-  "name": "Educational Exercises and Activities Community Group",
-  "is_closed": false,
-  "description": "The mission of the Educational Exercises and Activities Community Group is to develop standards for educational exercises and activities and to make recommendations with regard to other standards.",
-  "shortname": "exercises-and-activities",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/exercises-and-activities"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/exercises-and-activities/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/exercises-and-activities/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/exercises-and-activities/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/exercises-and-activities/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/exercises-and-activities/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/exercises-and-activities/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/exercises-and-activities",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/13809",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/13810",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/13811",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/13813",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/13814",
-    "title": "Wiki"
-   }
-  ]
- },
- {
   "id": 103139,
   "name": "Educational and Occupational Credentials in schema.org Community Group",
   "is_closed": false,
@@ -6436,82 +6380,6 @@
    {
     "href": "https://api.w3.org/services/40747",
     "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 71940,
-  "name": "Human Services Community Group",
-  "is_closed": false,
-  "description": "<h3>Goals</h3>\r\n\r\n<p>The goals of the Community Group on Human Service Data are to:</p>\r\n<ol>\r\n<li> Create an ongoing conversation space around world data standards in the human service sector, involving stakeholders from multiple perspectives including:\r\n<ol type=\"a\">\r\n    <li>government human service agencies, for-profit companies, and NGOs; \r\n\r\n    </li><li>diverse substantive areas, such as welfare benefits eligibility, health interfaces, information and referral services, homelessness, substance abuse, child welfare, aging and disability resources, juvenile justice, etc.; \r\n\r\n    </li><li>diverse stakeholder purposes including exchange of data for operational purposes and collection of data for performance measurement, evaluation and policy research. \r\n</li></ol></li>\r\n<li> Facilitate the development, improvement and convergence of human service data standards, vocabularies, ontologies, and domain models by: <ol type=\"a\">\r\n\r\n<li>Cataloging human services ontologies worldwide, and creating a Linked Open Data directory of the ontologies.  The directory should contain metadata, such as audience, jurisdiction, potential ontology improvements, related ontologies, and other notes.  See Github site linked off the group page for group artifacts.\r\n     \r\n</li><li> Fostering wider recognition of existing efforts and artifacts\r\n\r\n</li><li> Analyzing the strengths, limitations, and areas of overlap, agreement and divergence of existing efforts and artifacts\r\n\r\n</li><li> Identifying areas where standards do not yet exist, but are needed\r\n\r\n</li><li> Convening working groups of diverse composition to develop and improve standards\r\n</li></ol></li>\r\n<li> Promote the adoption of human services standards</li>\r\n</ol>\r\n\r\n\r\n<h3>Scope of Work</h3>\r\n\r\n<p>The boundary of the Community Group’s work is the set of\r\nsubstantive areas which are recognized in the United States\r\nand/or internationally as falling within the human service\r\nsector. This includes but is not limited to information and\r\nreferral services, income support and other welfare benefits,\r\nemployment training, homelessness, substance abuse, mental\r\nhealth, child welfare, juvenile justice, domestic violence, and\r\nsenior services.\r\n\r\n</p><p>The borders between the human service sector on the one hand and\r\nthe health, education and justice sectors on the other hand are\r\nnot firmly defined. The community group will be open to working\r\non any area that is related to the human services and is not\r\nentirely within the boundaries of the health, education or\r\njustice sectors.\r\n\r\n</p><h3>Deliverables</h3>\r\n\r\n<p>To be determined.</p>\r\n",
-  "shortname": "humanservices",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/humanservices"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/humanservices/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/humanservices/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/humanservices/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/humanservices/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/humanservices/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/humanservices/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/humanservices",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/2051",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/2052",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/2053",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/2055",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/2056",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/25922",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/hserv/ontologies",
-     "shortdesc": "GitHub",
-     "longdesc": "GitHub Repo",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/25922"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/25922/groups"
-      }
-     }
-    }
    }
   ]
  },
@@ -13164,7 +13032,7 @@
     "href": "https://api.w3.org/groups/wg/secondscreen/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/secondscreen/charters/456"
+    "href": "https://api.w3.org/groups/wg/secondscreen/charters/503"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/secondscreen/join"
@@ -13178,7 +13046,7 @@
   },
   "type": "working group",
   "start-date": "2014-10-13",
-  "end-date": "2024-04-30",
+  "end-date": "2026-01-31",
   "identifier": "wg/secondscreen",
   "services": [
    {
@@ -15324,7 +15192,7 @@
   },
   "type": "working group",
   "start-date": "2017-04-14",
-  "end-date": "2024-06-30",
+  "end-date": "2025-01-15",
   "identifier": "wg/vc",
   "services": [
    {
@@ -15394,7 +15262,7 @@
     },
     "type": "working group",
     "start-date": "2017-04-14",
-    "end-date": "2024-06-30"
+    "end-date": "2025-01-15"
    }
   ],
   "internal": false,
@@ -15777,62 +15645,6 @@
   "services": [
    {
     "href": "https://api.w3.org/services/13780",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 54291,
-  "name": "WAI-Engage: Web Accessibility Community Group",
-  "is_closed": false,
-  "description": "WAI-Engage is an open forum for responsive development of material supporting web accessibility, including support for Web Accessibility Initiative (WAI) resources.\r\n\r\nDevelopers, designers, project leaders, administrators, scholars, producers and consumers with disabilities, and anyone interested in accessibility -- please join us and share your perspectives to help build resources that will be useful to the broader community.\r\n\r\nWe welcome everyone to this Community. There is no time commitment or experience expected. This is a place to suggest, share, and develop ideas. \r\n\r\nThis group will not publish specifications.",
-  "shortname": "wai-engage",
-  "spec-publisher": false,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/wai-engage"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/wai-engage/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/wai-engage/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/wai-engage/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/wai-engage/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/wai-engage/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/wai-engage/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/wai-engage",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/1084",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/1085",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/1086",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/1087",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1089",
     "title": "Mailing List"
    }
   ]
@@ -17426,78 +17238,6 @@
   ]
  },
  {
-  "id": 111466,
-  "name": "Web Video Map Tracks (WebVMT) Community Group",
-  "is_closed": false,
-  "description": "<p>This group aims to encourage uptake of Web Video Map Tracks (WebVMT) to help establish an online ecosystem of users and developers by providing a forum in which to:</p>\r\n\r\n<ul>\r\n <li>identify &amp; refine use cases;</li>\r\n <li> ensure that the design is fit for purpose;</li>\r\n <li> resolve implementation issues;</li>\r\n  <li> develop supporting documentation &amp; tools;</li>\r\n  <li>  progress towards standardisation.</li>\r\n</ul>\r\n \r\n<p>Participation is welcomed by anyone providing constructive input regarding these topics within the scope of 'synchronising geolocation with video for the web', and by those with relevant expertise in particular.</p>\r\n\r\n<p>See also:</p>\r\n<ul>\r\n <li><a rel=\"nofollow\" href=\"http://www.webvmt.org\">www.webvmt.org</a></li>\r\n <li><a rel=\"nofollow\" href=\"http://w3c.github.io/sdw/proposals/geotagging/webvmt/\">Editor's Draft</a></li>\r\n</ul>\r\n ",
-  "shortname": "webvmt-cg",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/webvmt-cg"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/webvmt-cg/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/webvmt-cg/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/webvmt-cg/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/webvmt-cg/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/webvmt-cg/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/webvmt-cg/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/webvmt-cg",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/15454",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/15455",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/15456",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/15458",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/25944",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/webvmt/community-group/",
-     "shortdesc": "WebVMT GitHub",
-     "longdesc": "Github repository for Web Video Map Tracks (WebVMT)",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/25944"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/25944/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
   "id": 63991,
   "name": "Web of Things Community Group",
   "is_closed": false,
@@ -17602,7 +17342,7 @@
     "href": "https://api.w3.org/groups/ig/wot/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/ig/wot/charters/454"
+    "href": "https://api.w3.org/groups/ig/wot/charters/504"
    },
    "join": {
     "href": "https://www.w3.org/groups/ig/wot/join"
@@ -17616,7 +17356,7 @@
   },
   "type": "interest group",
   "start-date": "2015-01-21",
-  "end-date": "2024-06-30",
+  "end-date": "2026-05-19",
   "identifier": "ig/wot",
   "services": [
    {
