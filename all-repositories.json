@@ -14519,6 +14519,20 @@
   }
  },
  {
+  "name": "activitypub-e2ee",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Coordination of work on end-to-end encryption with ActivityPub",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-http-signature",
   "owner": {
    "login": "swicg"
