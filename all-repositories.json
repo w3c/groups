@@ -37856,6 +37856,20 @@
   }
  },
  {
+  "name": "webnn-types",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🇹🇸 TypeScript Types Declarations for WebNN",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "cg-charter",
   "owner": {
    "login": "webscreens"
