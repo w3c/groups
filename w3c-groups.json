@@ -8301,7 +8301,7 @@
   "is_closed": false,
   "description": "The mission of this group is sharing use cases, technical challenges, best practices and possible implementations for inter-industry collaboration of media content metadata to improve the interoperability of the metadata and promote media content distribution among various industries. This group facilitates discussion with Japanese companies and organizations from different industries using Japanese language.\r\n\r\nThis group will not publish any specifications.",
   "shortname": "mcm-jp",
-  "spec-publisher": true,
+  "spec-publisher": false,
   "discr": "w3cgroup",
   "_links": {
    "self": {
@@ -9940,7 +9940,7 @@
   },
   "type": "interest group",
   "start-date": "1999-07-08",
-  "end-date": "2024-03-31",
+  "end-date": "2024-09-30",
   "identifier": "ig/psig",
   "services": [
    {
@@ -16331,7 +16331,7 @@
   "is_closed": false,
   "description": "This group gathers people interested in the history of the World Wide Web: how it was invented, what was out there that made it possible, and what happened in its early years. Our main goal is to collect and preserve valuable information (software, documents, testimonials) before it is lost. \r\n\r\nThis group will not produce specifications.",
   "shortname": "webhistory",
-  "spec-publisher": true,
+  "spec-publisher": false,
   "discr": "w3cgroup",
   "_links": {
    "self": {
@@ -17747,7 +17747,7 @@
   "is_closed": false,
   "description": "This group helps coordinate research and actions to help with broader adoption of the Web Authentication ecosystem.\r\n\r\nGroup participants will contribute to identifying the obstacles that slow down adoption of WebAuthn - these obstacles may be e.g. technical, business-related, linked to communication or training.\r\n\r\nBased on this analysis, the group participants will work together in addressing these challenges.\r\n\r\nThis group will not produce specifications.",
   "shortname": "webauthn-adoption",
-  "spec-publisher": true,
+  "spec-publisher": false,
   "discr": "w3cgroup",
   "_links": {
    "self": {
