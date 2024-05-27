@@ -551,26 +551,6 @@
   }
  },
  {
-  "name": "compression",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Standard text for CompressionStream and DecompressionStream API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "compression-dictionary-transport",
   "owner": {
    "login": "WICG"
