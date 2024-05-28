@@ -2,9 +2,9 @@
  "id": 62441,
  "name": "Sustainable Web Design Community Group",
  "is_closed": false,
- "description": "A community group dedicated to creating sustainable websites.\r\n\r\nThis group will not publish specifications.",
+ "description": "A community group dedicated to creating sustainable websites.",
  "shortname": "sustyweb",
- "spec-publisher": false,
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
   "self": {
