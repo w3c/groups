@@ -32613,7 +32613,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -32669,8 +32669,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://wai-older-users.netlify.com/",
-  "description": "Older User Resources",
+  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
