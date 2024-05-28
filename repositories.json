@@ -2201,8 +2201,9 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "https://wicg.github.io/custom-state-pseudo-class/",
-  "isArchived": false,
+  "homepageUrl": "",
+  "description": "Former home of the custom state pseudo-class feature",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
