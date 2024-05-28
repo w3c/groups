@@ -1,0 +1,52 @@
+{
+ "id": 156520,
+ "name": "Dataspaces Community Group",
+ "is_closed": false,
+ "description": "Dataspaces gather requirements for seamless and trusted data exchange within specific domains and translate the requirements into technical specifications. \r\nThe W3C already recommends standards for trust, interoperability, and data value. Our goal in this group is to collect scenarios from the dataspaces built by our members and manage best practices for implementing them with W3C specifications. Where those standards are not sufficient, we envision formulating questions to other community and working groups, and providing dataspace-specific normative text for specific scenarios. The Dataspaces Community Group aims to meet every year at the ESWC conference.\r\n",
+ "shortname": "dataspaces",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dataspaces"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/dataspaces/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/dataspaces/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/dataspaces/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/dataspaces/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/dataspaces/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/dataspaces/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/dataspaces",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43891",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43892",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43893",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43894",
+   "title": "Mailing List"
+  }
+ ]
+}
