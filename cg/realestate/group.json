@@ -1,0 +1,52 @@
+{
+ "id": 156502,
+ "name": "Real Estate Community Group",
+ "is_closed": false,
+ "description": "The mission of the Real Estate Community Group is to provide a forum for real estate-related technical discussions to track progress of technology features on the Web within W3C groups, educate on the use of Web technologies by external organizations, and to identify use cases and requirements that existing and/or new specifications need to meet to deliver a more inclusive, robust experiences to the Real Estate ecosystem. ",
+ "shortname": "realestate",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/realestate"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/realestate/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/realestate/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/realestate/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/realestate/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/realestate/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/realestate/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/realestate",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43887",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43888",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43889",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43890",
+   "title": "Mailing List"
+  }
+ ]
+}
