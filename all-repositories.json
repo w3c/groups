@@ -19128,6 +19128,27 @@
   }
  },
  {
+  "name": "controller-document",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/controller-document/",
+  "description": "Controller Documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "cordova-plugin-W3C-aligned",
   "owner": {
    "login": "w3c"
@@ -30666,27 +30687,6 @@
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
- },
- {
-  "name": "vc-controller-document",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/vc-controller-document",
-  "description": "VC Controller Document",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    98922
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
  },
  {
   "name": "vc-data-integrity",
