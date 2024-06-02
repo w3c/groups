@@ -18064,6 +18064,27 @@
   }
  },
  {
+  "name": "controller-document",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/controller-document/",
+  "description": "Controller Documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "core-aam",
   "owner": {
    "login": "w3c"
@@ -26668,27 +26689,6 @@
     "iherman"
    ],
    "shortName": "vc-status-list-2021",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "vc-controller-document",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/vc-controller-document",
-  "description": "VC Controller Document",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "iherman"
-   ],
    "repo-type": [
     "rec-track"
    ]
