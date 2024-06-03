@@ -13984,6 +13984,21 @@
   }
  },
  {
+  "name": "respec-web-services",
+  "owner": {
+   "login": "speced"
+  },
+  "homepageUrl": "https://respec.org/",
+  "description": "ReSpec's website and RESTful APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
   "name": "spec-dfn-contract",
   "owner": {
    "login": "speced"
@@ -27864,17 +27879,6 @@
   "homepageUrl": "",
   "description": "[DEPRECATED] GitHub action to validate a ReSpec document and publish it using Echidna.",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": null
- },
- {
-  "name": "respec-web-services",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://respec.org/",
-  "description": "ReSpec's website and RESTful APIs",
-  "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
  },
