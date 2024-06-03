@@ -13946,6 +13946,21 @@
   }
  },
  {
+  "name": "respec-web-services",
+  "owner": {
+   "login": "speced"
+  },
+  "homepageUrl": "https://respec.org/",
+  "description": "ReSpec's website and RESTful APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
   "name": "spec-dfn-contract",
   "owner": {
    "login": "speced"
