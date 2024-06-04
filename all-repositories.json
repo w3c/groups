@@ -26677,6 +26677,31 @@
   }
  },
  {
+  "name": "process",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/Consortium/Process/Drafts/",
+  "description": "W3C Process Document",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    7756,
+    50503
+   ],
+   "contacts": [
+    "jeffjaffe",
+    "chaals",
+    "dwsinger"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "prof-conneg-testing",
   "owner": {
    "login": "w3c"
@@ -31478,31 +31503,6 @@
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
- },
- {
-  "name": "w3process",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/Consortium/Process/Drafts/",
-  "description": "W3C Process Document",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    7756,
-    50503
-   ],
-   "contacts": [
-    "jeffjaffe",
-    "chaals",
-    "dwsinger"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "process"
-   ]
-  }
  },
  {
   "name": "w3process-obsolete-rescinded",
