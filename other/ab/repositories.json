@@ -92,28 +92,7 @@
   }
  },
  {
-  "name": "standards-track",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/Guide/standards-track/",
-  "description": "Best Practices for Bringing Work to the W3C Recommendation Track",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/ab"
-   ],
-   "contacts": [
-    "koalie"
-   ],
-   "repo-type": [
-    "process"
-   ]
-  }
- },
- {
-  "name": "w3process",
+  "name": "process",
   "owner": {
    "login": "w3c"
   },
@@ -132,6 +111,27 @@
     "dwsinger"
    ],
    "policy": "restricted",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
+  "name": "standards-track",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/Guide/standards-track/",
+  "description": "Best Practices for Bringing Work to the W3C Recommendation Track",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/ab"
+   ],
+   "contacts": [
+    "koalie"
+   ],
    "repo-type": [
     "process"
    ]
