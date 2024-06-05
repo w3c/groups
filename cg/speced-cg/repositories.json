@@ -43,6 +43,21 @@
   }
  },
  {
+  "name": "respec",
+  "owner": {
+   "login": "speced"
+  },
+  "homepageUrl": "https://respec.org/",
+  "description": "A tool for creating technical documents and web standards",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/speced-cg"
+   ]
+  }
+ },
+ {
   "name": "respec-web-services",
   "owner": {
    "login": "speced"
