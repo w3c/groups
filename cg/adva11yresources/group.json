@@ -1,0 +1,72 @@
+{
+ "id": 156781,
+ "name": "Advancing Accessibility Resources Community Group",
+ "is_closed": false,
+ "description": "Our goal is to engage and empower accessibility professionals to advance the W3C WAI mission through community driven initiatives.\r\nThis work could include:\r\n\r\n<ul>\r\n<li>Creating and maintaining a repository of community-built resources that complement WAI</li>\r\n<li>Being a group of active participants that are continually contributing to resources</li>\r\n<li>Vetting and highlighting external resources that relate to and support this group's resources</li>\r\n<li>Being available to W3C Working Groups and Task Forces to assist in writing specifications and resources</li>\r\n</ul>\r\n\r\nThis group will not publish Specifications.",
+ "shortname": "adva11yresources",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/adva11yresources"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/adva11yresources/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/adva11yresources/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/adva11yresources/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/adva11yresources/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/adva11yresources/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/adva11yresources/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/adva11yresources",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43895",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43896",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43897",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43898",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43899",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/aar/",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43899"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43899/groups"
+     }
+    }
+   }
+  }
+ ]
+}
