@@ -303,6 +303,20 @@
   }
  },
  {
+  "name": "rml-io-registry",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Registry of Notes on source descriptions, reference formulations, etc",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
   "name": "rml-jc",
   "owner": {
    "login": "kg-construct"
