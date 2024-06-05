@@ -991,6 +991,78 @@
   ]
  },
  {
+  "id": 156781,
+  "name": "Advancing Accessibility Resources Community Group",
+  "is_closed": false,
+  "description": "Our goal is to engage and empower accessibility professionals to advance the W3C WAI mission through community driven initiatives.\r\nThis work could include:\r\n\r\n<ul>\r\n<li>Creating and maintaining a repository of community-built resources that complement WAI</li>\r\n<li>Being a group of active participants that are continually contributing to resources</li>\r\n<li>Vetting and highlighting external resources that relate to and support this group's resources</li>\r\n<li>Being available to W3C Working Groups and Task Forces to assist in writing specifications and resources</li>\r\n</ul>\r\n\r\nThis group will not publish Specifications.",
+  "shortname": "adva11yresources",
+  "spec-publisher": false,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/adva11yresources"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/adva11yresources/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/adva11yresources/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/adva11yresources/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/adva11yresources/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/adva11yresources/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/adva11yresources/participations"
+   }
+  },
+  "type": "community group",
+  "identifier": "cg/adva11yresources",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43895",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/43896",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/43897",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43898",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43899",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/aar/",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/43899"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/43899/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 7756,
   "name": "Advisory Board",
   "is_closed": false,
@@ -2367,7 +2439,7 @@
   "id": 117993,
   "name": "Bitcoin Hypermedia Community Group",
   "is_closed": false,
-  "description": "We will explore the sui generis nature of the \"bit : coin :: info : creation\" network/system/tree rooted in the Genesis block planted by Satoshi Nakamoto on January 3, 2009 using the seed (hash) value 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f.\n\nThis group may publish specifications, but it is initially focused on the facilitation of focused, collaborative discussions.",
+  "description": "We will explore the sui generis nature of the \"bit : coin :: info : creation\" network/system/tree rooted in the Genesis block planted by Satoshi Nakamoto on January 3, 2009.\r\n\r\nThis group may publish specifications, but it is initially focused on the facilitation of focused, collaborative discussions.",
   "shortname": "bitcoin",
   "spec-publisher": true,
   "discr": "w3cgroup",
@@ -15744,7 +15816,7 @@
   },
   "type": "interest group",
   "start-date": "2001-06-18",
-  "end-date": "2024-06-30",
+  "end-date": "2024-12-31",
   "identifier": "ig/wai",
   "services": [
    {
@@ -17925,7 +17997,7 @@
   "id": 140537,
   "name": "WebDX Community Group",
   "is_closed": false,
-  "description": "The mission of the WebDX Community Group is to facilitate coordinated approaches to improve the overall experience of developing for the Web platform when such coordination provides unique opportunities for these improvements. See its <a rel=\"nofollow\" href=\"https://github.com/web-platform-dx/admin/blob/main/charter.md\">proposed charter</a>.",
+  "description": "The mission of the Web Developer Experience (WebDX) Community Group is to facilitate coordinated approaches to improve the overall experience of developing for the Web platform when such coordination provides unique opportunities for these improvements. Coordinated work includes research on developer needs to inform improvements in Web platform developers experience, and explorations of Web platform features adoptability. See the <a rel=\"nofollow\" href=\"https://github.com/web-platform-dx/admin/blob/main/charter.md\">group's charter</a>.",
   "shortname": "webdx",
   "spec-publisher": true,
   "discr": "w3cgroup",
