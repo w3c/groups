@@ -16434,6 +16434,25 @@
   }
  },
  {
+  "name": "aar",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    156781
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "autoprivacy",
   "owner": {
    "login": "w3c-cg"
