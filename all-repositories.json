@@ -16472,6 +16472,25 @@
   }
  },
  {
+  "name": "cndid",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cndid"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
