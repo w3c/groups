@@ -3412,6 +3412,26 @@
    {
     "href": "https://api.w3.org/services/43874",
     "title": "Other"
+   },
+   {
+    "href": "https://api.w3.org/services/43900",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/cndid",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/43900"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/43900/groups"
+      }
+     }
+    }
    }
   ]
  },
