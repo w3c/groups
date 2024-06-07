@@ -54,5 +54,20 @@
     "cg/webdx"
    ]
   }
+ },
+ {
+  "name": "web-features-explorer",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "homepageUrl": "https://web-platform-dx.github.io/web-features-explorer/",
+  "description": "A visualization of the web-features data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
  }
 ]
