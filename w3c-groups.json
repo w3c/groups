@@ -2689,6 +2689,59 @@
   "services": []
  },
  {
+  "id": 156902,
+  "name": "Board Emergency Committee",
+  "is_closed": false,
+  "description": "<p>The primary purpose of the Committee is to act on behalf of the Board with respect to the affairs of W3C Inc. when time is of the essence, and it is impossible or impractical to convene a meeting of the full Board or conduct an e-vote.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2024/06/bod-emergency.html\">charter</a>.</p>",
+  "shortname": "board-emergency",
+  "members": [
+   {
+    "id": 140563,
+    "name": "Board of Directors",
+    "is_closed": false,
+    "description": "<p>The W3C Board of Directors —first <a href=\"/blog/news/archives/9685\">seated in September 2022</a>— is the governing body of the World Wide Web Consortium public-interest non-profit organization. The Directors have ultimate authority on W3C's strategic direction, have a legal obligation to ensure that W3C implements its mission to lead the Web to its full potential, and have fiduciary responsibility over W3C as a whole.</p>\r\n\r\n<p>Directors are:</p>\r\n<ul>\r\n <li>David Singer, Chair (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n <li>Robin Berjon (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n <li>Gonzalo Camarillo (<a title=\"Board-elected Director\" href=\"#board-elected\">B</a>)</li>\r\n <li>Dominique Hazaël-Massieux (<a title=\"Partner-selected Director\" href=\"#partner-selected\">P</a>)</li>\r\n <li>Chunming Hu (<a title=\"Partner-selected Director\" href=\"#partner-selected\">P</a>)</li>\r\n <li>Koichi Moriyama (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n <li>Jun Murai (<a title=\"Partner-selected Director\" href=\"#partner-selected\">P</a>)</li>\r\n <li>Mark Nottingham (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n <li>Eric Siow (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n <li>Léonie Watson (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n <li>Hongru (Judy) Zhu (<a title=\"Member-elected Director\" href=\"#member-elected\">M</a>)</li>\r\n</ul>\r\n\r\n<p>Non-voting Board meeting participants include:</p>\r\n<ul>\r\n  <li><a href=\"/People/Berners-Lee/\">Tim Berners-Lee</a>, as the Founder Director</li>\r\n  <li><a href=\"/2002/ab/\">Advisory Board</a> liaisons, currently Tantek Çelik and Elika Etimad</li>\r\n</ul>\r\n\r\n<p>The W3C Inc bylaws define three classes of Directors:</p>\r\n<ul>\r\n  <li id=\"member-elected\"><strong>Member-elected (M)</strong>: All Member-elected Directors were <a href=\"/blog/news/archives/9685\">elected by the W3C Membership in September 2022</a> to two-year terms.</li>\r\n  <li id=\"partner-selected\"><strong>Partner-selected (P)</strong>: These Director were elected by their respective Hosts/Partners to one-year terms during the term of their electing Partner's Partnership.</li>\r\n  <li id=\"board-elected\"><strong>Board-elected (B)</strong>: The Board may elect up to two additional Directors for two-year terms. Director Camarillo was elected in November 2022.</li>\r\n</ul>\r\n\r\n<h2 id=\"officers\">Officers</h2>\r\n<ul>\r\n  <li>President: Seth Dobbs</li>\r\n  <li>Secretary: Mark Nottingham</li>\r\n  <li>Treasurer: Gonzalo Camarillo</li>\r\n</ul>\r\n\r\n<h2 id=\"resources\">Board resources</h2>\r\n<ul>\r\n  <li><a href=\"/Member/bod/\">Board home (<em>Member-only</em> info about contact, operations, meetings, etc.</a>)</li>\r\n  <li><a href=\"/2022/10/w3c-bylaws-20221019\">W3C, Inc. Bylaws</a> and <a href=\"/2022/10/w3c-charter-20221019.pdf\">Certificate of Incorporation</a></li>\r\n</ul>",
+    "shortname": "board",
+    "discr": "group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/groups/other/board"
+     },
+     "homepage": {
+      "href": "https://www.w3.org/groups/other/board/"
+     },
+     "users": {
+      "href": "https://api.w3.org/groups/other/board/users"
+     },
+     "services": {
+      "href": "https://api.w3.org/groups/other/board/services"
+     },
+     "chairs": {
+      "href": "https://api.w3.org/groups/other/board/chairs"
+     }
+    }
+   }
+  ],
+  "internal": false,
+  "participants_list_public": true,
+  "discr": "tf",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/tf/board-emergency"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/tf/board-emergency/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/tf/board-emergency/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/tf/board-emergency/chairs"
+   }
+  },
+  "identifier": "tf/board-emergency",
+  "services": []
+ },
+ {
   "id": 141775,
   "name": "Board Finance Committee",
   "is_closed": false,
@@ -18559,7 +18612,7 @@
  },
  {
   "id": 122875,
-  "name": "XSLT Extensions Community Group",
+  "name": "XQuery and XSLT Extensions Community Group",
   "is_closed": false,
   "description": "<p>The group aims to agree extensions to the XSLT 3.0 Recommendation published on 8 June 2017, along with supporting changes to the other specifications (XPath, Functions and Operators) on which it depends. </p>\r\n\r\n<p>A preliminary proposal describing requirements for such extensions can be found in Michael Kay's Proposal for XSLT 4.0 published in the <a rel=\"nofollow\" href=\"https://archive.xmlprague.cz/2020/files/xmlprague-2020-proceedings.pdf#page=121\">Proceedings of XML Prague 2020</a></p>\r\n\r\n<p>It is intended that the group will operate primarily by use of email and forums but may hold a face-to-face meeting to resolve issues prior to final publication of a specification.</p>\r\n\r\n<p>The group may publish specifications.</p>",
   "shortname": "xslt-40",
