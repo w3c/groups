@@ -16198,6 +16198,25 @@
   }
  },
  {
+  "name": "dataspaces",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dataspaces"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
