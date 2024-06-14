@@ -16491,6 +16491,25 @@
   }
  },
  {
+  "name": "dataspaces",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    156520
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
@@ -29743,6 +29762,16 @@
    "login": "w3c"
   },
   "description": "Repository setup to collect and organize breakout session proposals for TPAC 2023",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
+  "name": "tpac2024-breakouts",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository setup to collect and organize breakout session proposals for TPAC 2023 ",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": null
