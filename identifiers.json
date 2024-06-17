@@ -116,10 +116,6 @@
   "identifier": "tf/auto-privacy-security"
  },
  {
-  "id": 61259,
-  "identifier": "bg/autowebplatform"
- },
- {
   "id": 143201,
   "identifier": "cg/webagents"
  },
@@ -134,10 +130,6 @@
  {
   "id": 97665,
   "identifier": "cg/bioschemas"
- },
- {
-  "id": 117993,
-  "identifier": "cg/bitcoin"
  },
  {
   "id": 149084,
@@ -268,10 +260,6 @@
   "identifier": "cg/dpvcg"
  },
  {
-  "id": 143005,
-  "identifier": "cg/dcdr-framework"
- },
- {
   "id": 99375,
   "identifier": "wg/dx"
  },
@@ -282,10 +270,6 @@
  {
   "id": 117488,
   "identifier": "wg/did"
- },
- {
-  "id": 140390,
-  "identifier": "cg/applied-did-and-vc"
  },
  {
   "id": 47948,
@@ -364,10 +348,6 @@
   "identifier": "cg/games"
  },
  {
-  "id": 148246,
-  "identifier": "cg/gai"
- },
- {
   "id": 115520,
   "identifier": "wg/htmlwg"
  },
@@ -412,10 +392,6 @@
   "identifier": "cg/informationarchitecture"
  },
  {
-  "id": 143566,
-  "identifier": "cg/inter-cc"
- },
- {
   "id": 83380,
   "identifier": "cg/interledger"
  },
@@ -456,24 +432,12 @@
   "identifier": "cg/lbd"
  },
  {
-  "id": 68812,
-  "identifier": "cg/sentiment"
- },
- {
   "id": 68293,
   "identifier": "cg/ld4lt"
  },
  {
   "id": 81151,
   "identifier": "tf/low-vision-a11y-tf"
- },
- {
-  "id": 136751,
-  "identifier": "cg/low-vision"
- },
- {
-  "id": 145679,
-  "identifier": "cg/managed-components"
  },
  {
   "id": 70543,
@@ -576,10 +540,6 @@
   "identifier": "ig/psig"
  },
  {
-  "id": 125912,
-  "identifier": "cg/pair-cg"
- },
- {
   "id": 61141,
   "identifier": "cg/perma-id"
  },
@@ -626,10 +586,6 @@
  {
   "id": 145539,
   "identifier": "tf/publ-sc"
- },
- {
-  "id": 69802,
-  "identifier": "cg/quickfix"
  },
  {
   "id": 138751,
@@ -746,10 +702,6 @@
  {
   "id": 138327,
   "identifier": "cg/htmlvoc"
- },
- {
-  "id": 92610,
-  "identifier": "cg/hclscg"
  },
  {
   "id": 101220,
@@ -1072,6 +1024,10 @@
   "identifier": "wg/auto"
  },
  {
+  "id": 61259,
+  "identifier": "bg/autowebplatform"
+ },
+ {
   "id": 110778,
   "identifier": "cg/bdcomacg"
  },
@@ -1142,6 +1098,10 @@
  {
   "id": 120835,
   "identifier": "cg/graphql-rdf"
+ },
+ {
+  "id": 92610,
+  "identifier": "cg/hclscg"
  },
  {
   "id": 127946,
