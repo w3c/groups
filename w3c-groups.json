@@ -1763,8 +1763,8 @@
    {
     "id": 61259,
     "name": "Automotive and Transportation Business Group",
-    "is_closed": false,
-    "description": "<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
+    "is_closed": true,
+    "description": "<p><strong>Group closed 2024-06-17</strong></p>\r\n<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a rel=\"nofollow\" href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
     "shortname": "autowebplatform",
     "spec-publisher": true,
     "discr": "w3cgroup",
@@ -1956,8 +1956,8 @@
    {
     "id": 61259,
     "name": "Automotive and Transportation Business Group",
-    "is_closed": false,
-    "description": "<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
+    "is_closed": true,
+    "description": "<p><strong>Group closed 2024-06-17</strong></p>\r\n<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a rel=\"nofollow\" href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
     "shortname": "autowebplatform",
     "spec-publisher": true,
     "discr": "w3cgroup",
@@ -2061,73 +2061,6 @@
    {
     "href": "https://api.w3.org/services/7759",
     "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 61259,
-  "name": "Automotive and Transportation Business Group",
-  "is_closed": false,
-  "description": "<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
-  "shortname": "autowebplatform",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/bg/autowebplatform"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/autowebplatform/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/bg/autowebplatform/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/bg/autowebplatform/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/bg/autowebplatform/chairs"
-   },
-   "team-contacts": {
-    "href": "https://api.w3.org/groups/bg/autowebplatform/teamcontacts"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/autowebplatform/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
-   }
-  },
-  "type": "business group",
-  "identifier": "bg/autowebplatform",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/1411",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/1412",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/1413",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/1414",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1415",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1416",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/25913",
-    "title": "Issue Tracking"
    }
   ]
  },
@@ -2432,62 +2365,6 @@
    {
     "href": "https://api.w3.org/services/15585",
     "title": "Twitter"
-   }
-  ]
- },
- {
-  "id": 117993,
-  "name": "Bitcoin Hypermedia Community Group",
-  "is_closed": false,
-  "description": "We will explore the sui generis nature of the \"bit : coin :: info : creation\" network/system/tree rooted in the Genesis block planted by Satoshi Nakamoto on January 3, 2009.\r\n\r\nThis group may publish specifications, but it is initially focused on the facilitation of focused, collaborative discussions.",
-  "shortname": "bitcoin",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/bitcoin"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/bitcoin/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/bitcoin/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/bitcoin/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/bitcoin/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/bitcoin/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/bitcoin/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/bitcoin",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/17331",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/17332",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/17333",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/17334",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/17335",
-    "title": "Wiki"
    }
   ]
  },
@@ -4609,90 +4486,6 @@
   ]
  },
  {
-  "id": 143005,
-  "name": "Data-Centric Digital Rights (DCDR) Framework Community Group",
-  "is_closed": false,
-  "description": "Data-Centric Digital Rights (DCDR), is a framework for technologists composed of Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as NextGen Rights Defenders.",
-  "shortname": "dcdr-framework",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/dcdr-framework"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/dcdr-framework/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/dcdr-framework/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/dcdr-framework/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/dcdr-framework/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/dcdr-framework/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/dcdr-framework/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/dcdr-framework",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/40719",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/40720",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/40721",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/40722",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/40729",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://TIOF.Click/DCDRFrameworkRepo",
-     "shortdesc": "GitHub",
-     "longdesc": "GitHub",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/40729"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/40729/groups"
-      }
-     }
-    }
-   },
-   {
-    "href": "https://api.w3.org/services/40730",
-    "title": "Other"
-   },
-   {
-    "href": "https://api.w3.org/services/40731",
-    "title": "Twitter"
-   },
-   {
-    "href": "https://api.w3.org/services/40732",
-    "title": "Other"
-   }
-  ]
- },
- {
   "id": 99375,
   "name": "Dataset Exchange Working Group",
   "is_closed": false,
@@ -4901,58 +4694,6 @@
    {
     "href": "https://api.w3.org/services/25879",
     "title": "Issue Tracking"
-   }
-  ]
- },
- {
-  "id": 140390,
-  "name": "Decentralized Identifier and Verifiable Credentials Applications Community Group",
-  "is_closed": false,
-  "description": "Decentralized Identifier and Verifiable Credentials Applications Community Group follows below charter:\r\n\r\n\r\n1. Promote open, focussed, fair, rich discussions and collaboration towards application of DIDs and VCs in global public and private domains.\r\n\r\n2. Is guided by various W3C Working and Interest Groups, and collaborates with various Industry Implementors for use of DIDs and VCs in Web, IOT, and Edge computing networks.\r\n\r\n3. Publishes unbiased best practices and reference implementations for easy standards-based adoption and application development.\r\n\r\n4. Collect Questions and Discussion Topics, conduct knowledge sharing sessions and publish reports and minutes of such sessions.",
-  "shortname": "applied-did-and-vc",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/applied-did-and-vc"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/applied-did-and-vc/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/applied-did-and-vc/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/applied-did-and-vc/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/applied-did-and-vc/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/applied-did-and-vc/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/applied-did-and-vc/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/applied-did-and-vc",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/39178",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/39179",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/39180",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/39181",
-    "title": "Mailing List"
    }
   ]
  },
@@ -6299,58 +6040,6 @@
   ]
  },
  {
-  "id": 148246,
-  "name": "Generative AI Community Group",
-  "is_closed": false,
-  "description": "This group will explore issues surrounding Generative AI risks, benefits, and best practices. We will document guidelines and potentially begin work on a technical proposal. Charter to come.",
-  "shortname": "gai",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/gai"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/gai/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/gai/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/gai/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/gai/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/gai/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/gai/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/gai",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43826",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/43827",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/43828",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43829",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
   "id": 115520,
   "name": "HTML Working Group",
   "is_closed": false,
@@ -7150,58 +6839,6 @@
   ]
  },
  {
-  "id": 143566,
-  "name": "Inter-Platform Validation for Confidential Computing Community Group",
-  "is_closed": false,
-  "description": "The mission of this group is to discuss and ultimately formalise a communication framework to enable mutual validation and attestation of workloads performed in distinct confidential computing environments. The goal is to empower developers to leverage seamlessly the developing ecosystem of confidential computing solutions agnostically across vendors and opensource. It is not the motivation of this group to publish reports but rather work on testable deliveries, example implementation, user-stories. This group may publish Specifications. Individuals and organisations with intimate knowledge of the confidential computing world and adjacent topics such as cryptography and privacy are most welcome to participate.",
-  "shortname": "inter-cc",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/inter-cc"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/inter-cc/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/inter-cc/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/inter-cc/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/inter-cc/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/inter-cc/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/inter-cc/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/inter-cc",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/40748",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/40749",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/40750",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/40751",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
   "id": 83380,
   "name": "Interledger Payments Community Group",
   "is_closed": false,
@@ -7901,62 +7538,6 @@
   ]
  },
  {
-  "id": 68812,
-  "name": "Linked Data Models for Emotion and Sentiment Analysis Community Group",
-  "is_closed": false,
-  "description": "The Sentiment Analysis Community Group is a forum to promote sentiment analysis research. Topics addressed are:\r\n\r\n-Definition of a Linked Data based vocabulary for emotion and sentiment analysis.\r\n\r\n-Requirements beyond text-based analysis, i.e. emotion/sentiment analysis from images, video, social network analysis, etc.\r\n\r\n-Clarifying requirements and the need for consensus as e.g. systems currently use widely varying features for describing polarity values (1-5, -2/-1/0/1/2, positive/neutral/negative, good/very good etc.).\r\n\r\n-Marl and Onyx are vocabularies for emotion and sentiment analysis that can be taken as a starting point for discussion in the CG.\r\n\r\nThis group will not publish specifications.",
-  "shortname": "sentiment",
-  "spec-publisher": false,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/sentiment"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/sentiment/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/sentiment/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/sentiment/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/sentiment/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/sentiment/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/sentiment/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/sentiment",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/1921",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/1922",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/1923",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/1924",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1926",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
   "id": 68293,
   "name": "Linked Data for Language Technology Community Group",
   "is_closed": false,
@@ -8117,110 +7698,6 @@
    },
    {
     "href": "https://api.w3.org/services/7244",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 136751,
-  "name": "Low Vision Community Group",
-  "is_closed": false,
-  "description": "The mission of the Low Vision Community Group is to work with and support the Low Vision Task Force of the Accessibility Guidelines Working Group to improve web accessibility for people with low vision.",
-  "shortname": "low-vision",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/low-vision"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/low-vision/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/low-vision/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/low-vision/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/low-vision/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/low-vision/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/low-vision/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/low-vision",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/33357",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/33358",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/33359",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/33360",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 145679,
-  "name": "Managed Components Community Group",
-  "is_closed": false,
-  "description": "The Managed Component Community Group aims to standardize the specifications and usage of Managed Components, an open format for loading third-party tools on the Web. Managed Components use a sandboxed server-side environment to run, making them more secure, private and performant than more traditional methods of loading third-party tools online. The group also aims to potentially pursue changes to browser and runtime APIs that will better support the integration of Managed Components.",
-  "shortname": "managed-components",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/managed-components"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/managed-components/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/managed-components/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/managed-components/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/managed-components/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/managed-components/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/managed-components/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/managed-components",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/40777",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/40778",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/40779",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/40780",
     "title": "Mailing List"
    }
   ]
@@ -10193,78 +9670,6 @@
   ]
  },
  {
-  "id": 125912,
-  "name": "Performing Arts Information Representation Community Group",
-  "is_closed": false,
-  "description": "Performing Arts Information Representation (PAIR) is a community group dedicated to advancing the use of shared conceptual models for better data interoperability in the performing arts domain. This domain stands to gain tremendous benefit from using Semantic Web technologies as it relies on the interoperability of information across many fields such as event publishing and discovery, digital archiving, and research (to name a few).  \r\n\r\nThe group’s mission is to support the development and use of semantic vocabularies and common representational frameworks to ensure the meaningful sharing and aggregation of information related to the performing arts. \r\n\r\nThis Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements while bringing together key stakeholders. The group will act as an advocate for representational standardization in the performing arts sector. \r\n\r\nPAIR will strive to develop mutually beneficial collaborations with groups and organizations that are actively working on relevant standards and/or implementations. In particular, the group will work to develop extensions to existing representational standards such as Schema.org and Wikidata so that Performing Arts information can be better understood by search engines and other web applications. \r\n\r\nWhile designing, maintaining and revising vocabularies and foundational specifications for the performing arts, the group will make efforts to involve the performing arts community at large through solicitation of requests, comments and suggestions from non PAIR members. This may take the form of symposiums, workshops, events or community curated open resources. \r\n",
-  "shortname": "pair-cg",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/pair-cg"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/pair-cg/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/pair-cg/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/pair-cg/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/pair-cg/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/pair-cg/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/pair-cg/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/pair-cg",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/25962",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/25963",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/25964",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/25965",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43843",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/pair-cg/milopa",
-     "shortdesc": "GitHub",
-     "longdesc": "GitHub",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/43843"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/43843/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
   "id": 61141,
   "name": "Permanent Identifier Community Group",
   "is_closed": false,
@@ -11233,78 +10638,6 @@
    {
     "href": "https://api.w3.org/services/7563",
     "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 69802,
-  "name": "Quick-fix support for XML Community Group",
-  "is_closed": false,
-  "description": "Sometimes an error reported against an XML document can be fixed automatically, for example if the error refers to an unexpected attribute then an automatic fix will be to delete that unexpected attribute. \r\nWe want to explore the issues related to applying quick fixes (like preserving DOCTYPE declarations, entities, etc.) and determine what actions will be needed be able to apply quick fixes on a document as well as a representation language to describe these actions.\r\n\r\nQuick fixes are especially interesting when we use Schematron for XML validation, as in this case the quick-fix should be specified by the schema author, so we have user-defined quick fixes. Imagine for example a business rule implemented in Schematron that says that a list should contain between 4 and 8 items. If we determine that there are two items then a quick fix will propose to add automatically two more items to the list or if the list has 10 items then a quick fix may propose to delete two items or to split the list in two lists, etc.\r\n\r\n",
-  "shortname": "quickfix",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/quickfix"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/quickfix/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/quickfix/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/quickfix/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/quickfix/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/quickfix/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/quickfix/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/quickfix",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/1967",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/1968",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/1969",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1971",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/15515",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/schematron-quickfix",
-     "shortdesc": "GitHub repositories",
-     "longdesc": "GitHub repositories",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/15515"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/15515/groups"
-      }
-     }
-    }
    }
   ]
  },
@@ -13439,98 +12772,6 @@
   ]
  },
  {
-  "id": 92610,
-  "name": "Semantic Web in Health Care and Life Sciences Community Group",
-  "is_closed": false,
-  "description": "The mission of the Semantic Web Health Care and Life Sciences Community Group (HCLS CG) is to develop, advocate for, and support the use of Semantic Web technologies across health care, life sciences, clinical research and translational medicine.\r\nThese domains stand to gain tremendous benefit from intra- and inter-domain application of Semantic Web technologies as they depend on the interoperability of information from many disciplines.\r\n\r\nThe HCLS CG provides a forum for supporting, developing and applying Semantic Web technologies across healthcare, life sciences, clinical research and the continuum of translational medicine.\r\nWithin these contexts, the HCLS CG focuses on the use of Semantic Web technologies to realize specific use cases which themselves have a specific clinical, research of business values.\r\nAs use cases are developed, HCLS CG can solicit advice on technical matters from other Semantic Web related groups and give feedback on the use of technologies based on the work they do.\r\nThe CG may also develop ongoing and mutually productive liaisons with relevant external organizations in healthcare, life sciences, and clinical research, including organizations that are actively working on relevant standards and/or implementations to which the HCLS’s work might contribute.",
-  "shortname": "hclscg",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/hclscg"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/hclscg/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/hclscg/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/hclscg/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/hclscg/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/hclscg/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/hclscg/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/hclscg",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/6403",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/6404",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/6405",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/6406",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/15478",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/W3C-HCLS",
-     "shortdesc": "HCLS github organization",
-     "longdesc": "HCLS github organization",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/15478"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/15478/groups"
-      }
-     }
-    }
-   },
-   {
-    "href": "https://api.w3.org/services/15480",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/w3c/hcls-fhir-rdf",
-     "shortdesc": "HCLS FHIR github repository",
-     "longdesc": "HCLS FHIR github repository",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/15480"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/15480/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
   "id": 101220,
   "name": "Service Workers Working Group",
   "is_closed": false,
@@ -15147,8 +14388,8 @@
    {
     "id": 61259,
     "name": "Automotive and Transportation Business Group",
-    "is_closed": false,
-    "description": "<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
+    "is_closed": true,
+    "description": "<p><strong>Group closed 2024-06-17</strong></p>\r\n<p>The mission of the Automotive and Transportation Group is to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"/groups/wg/auto/\">W3C Automotive Working Group</a>. The Auto Working Group has since changed to service specifications to expose signals in a broader range of computing environments and bringing this extremely useful telematics information to the cloud.</p>\r\n\r\n<p>Fuller description of current and evolving scope is in <a rel=\"nofollow\" href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
     "shortname": "autowebplatform",
     "spec-publisher": true,
     "discr": "w3cgroup",
@@ -15779,7 +15020,7 @@
     "title": "Version Control",
     "details": {
      "type": "repository",
-     "link": "https://github.com/w3c/w3process/",
+     "link": "https://github.com/w3c/process/",
      "shortdesc": "Github repo",
      "longdesc": "Github repository for revising the W3C process document",
      "external": true,
