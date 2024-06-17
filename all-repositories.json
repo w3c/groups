@@ -1324,21 +1324,6 @@
   }
  },
  {
-  "name": "w3c-ddi",
-  "owner": {
-   "login": "W3C-HCLS"
-  },
-  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
-  "description": "W3C HCLS Drug-Drug Interaction",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ]
-  }
- },
- {
   "name": "ContentPerformancePolicy",
   "owner": {
    "login": "WICG"
@@ -12340,20 +12325,6 @@
   }
  },
  {
-  "name": "milopa",
-  "owner": {
-   "login": "pair-cg"
-  },
-  "description": "Repository for the milopa ontology.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/pair-cg"
-   ]
-  }
- },
- {
   "name": "admin",
   "owner": {
    "login": "patcg"
@@ -13387,34 +13358,6 @@
   "w3cjson": {
    "group": [
     "cg/schemaorg"
-   ]
-  }
- },
- {
-  "name": "escali-package",
-  "owner": {
-   "login": "schematron-quickfix"
-  },
-  "description": "Escali Package",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/quickfix"
-   ]
-  }
- },
- {
-  "name": "sqf",
-  "owner": {
-   "login": "schematron-quickfix"
-  },
-  "description": "Schematron Quick Fixes",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/quickfix"
    ]
   }
  },
@@ -26767,7 +26710,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://www.w3.org/Consortium/Process/Drafts/",
+  "homepageUrl": "https://www.w3.org/policies/process/drafts/",
   "description": "W3C Process Document",
   "isArchived": false,
   "isPrivate": false,
@@ -33469,7 +33412,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
