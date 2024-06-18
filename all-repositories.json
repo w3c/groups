@@ -16454,6 +16454,25 @@
   }
  },
  {
+  "name": "mcm-jp",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    156178
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
