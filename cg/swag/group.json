@@ -1,0 +1,52 @@
+{
+ "id": 157132,
+ "name": "Security Web Application Guidelines Community Group",
+ "is_closed": false,
+ "description": "The mission of this Community Group is to increase the overall security of web application development, thereby making the web a more secure platform for web users. It will accomplish this by writing web developers security best practices and providing a platform for stakeholder collaboration.\r\n\r\nThis group will not publish Specifications.",
+ "shortname": "swag",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/swag"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/swag/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/swag/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/swag/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/swag/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/swag/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/swag/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/swag",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43905",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43906",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43907",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43908",
+   "title": "Mailing List"
+  }
+ ]
+}
