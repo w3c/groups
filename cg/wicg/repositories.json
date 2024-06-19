@@ -58,6 +58,27 @@
   }
  },
  {
+  "name": "Realms-Initialization-Control",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "WIP explainer for RICA (Realms Initialization Control API) proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "ScrollAnchoring",
   "owner": {
    "login": "WICG"
