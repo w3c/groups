@@ -147,5 +147,24 @@
     "cg/fed-id"
    ]
   }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  }
 ]
