@@ -51,6 +51,26 @@
   {
    "href": "https://api.w3.org/services/43875",
    "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43909",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c-fedid",
+    "shortdesc": "Github",
+    "longdesc": "Working Group Github organization",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43909"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43909/groups"
+     }
+    }
+   }
   }
  ]
 }
