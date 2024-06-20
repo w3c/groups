@@ -16591,6 +16591,39 @@
   }
  },
  {
+  "name": "Administration",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "Participation and governance information",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ]
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    132274
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "IFCtoLBD",
   "owner": {
    "login": "w3c-lbd-cg"
