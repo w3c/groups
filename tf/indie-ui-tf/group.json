@@ -3,12 +3,14 @@
  "name": "Independent User Interface Task Force",
  "is_closed": true,
  "shortname": "indie-ui-tf",
+ "closed_date": "2016-03-18",
  "members": [
   {
    "id": 45559,
    "name": "Web Events Working Group",
    "is_closed": true,
    "shortname": "webevents",
+   "closed_date": "2013-11-05",
    "discr": "w3cgroup",
    "_links": {
     "self": {
@@ -58,6 +60,7 @@
    "is_closed": true,
    "description": "The mission of the Indie UI Working Group, part of the WAI Technical Activity, is to develop event models for Application Programming Interfaces (APIs) that facilitate interaction in Web applications that are input method independent, and hence accessible to people with disabilities.",
    "shortname": "indie-ui",
+   "closed_date": "2015-10-22",
    "discr": "w3cgroup",
    "_links": {
     "self": {
