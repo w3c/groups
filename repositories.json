@@ -17555,28 +17555,6 @@
   }
  },
  {
-  "name": "automotive",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "W3C Automotive Working Group Specifications",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/auto"
-   ],
-   "contacts": [
-    "tguild"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "automotive-bg",
   "owner": {
    "login": "w3c"
@@ -21037,25 +21015,6 @@
    "shortName": "input-events",
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "interactive-media-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/interactive-media"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
@@ -27408,27 +27367,6 @@
   }
  },
  {
-  "name": "vsso",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "",
-  "description": "The Vehicle Signal Ontology (VSSo) based on COVESA VSS and making use of the SOSA/SSN modeling patterns",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/auto"
-   ],
-   "contacts": [
-    "caribouW3"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "w3c-waet",
   "owner": {
    "login": "w3c"
@@ -30697,27 +30635,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "xinclude",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/xml-core"
-   ],
-   "contacts": [
-    "liamquin",
-    "ndw"
-   ],
-   "repo-type": [
-    "rec-track",
-    "tests"
    ]
   }
  },
