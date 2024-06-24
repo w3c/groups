@@ -2,8 +2,9 @@
  "id": 125655,
  "name": "Font and Text Community Group",
  "is_closed": true,
- "description": "<p><strong>Group closed 2023-10-16</strong></p>\r\nThe Font and Text Community Group gathers individuals and organizations interested in discussing and developing specifications and implementations for technologies which operate on and at the interface between text encoding and font formats. Examples of such technologies are shaping engines and text layout applications.",
+ "description": "The Font and Text Community Group gathers individuals and organizations interested in discussing and developing specifications and implementations for technologies which operate on and at the interface between text encoding and font formats. Examples of such technologies are shaping engines and text layout applications.",
  "shortname": "font-text",
+ "closed_date": "2023-10-16",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
