@@ -2,8 +2,9 @@
  "id": 61259,
  "name": "Automotive and Transportation Business Group",
  "is_closed": true,
- "description": "<p><strong>Group closed 2024-06-17</strong></p>\r\n<p>The mission of the Automotive and Transportation Group was to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"/groups/wg/auto/\">W3C Automotive Working Group</a> (which closed on 22 February 2024).</p>\r\n\r\n<p>Fuller description of the scope is in <a rel=\"nofollow\" href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
+ "description": "<p>The mission of the Automotive and Transportation Group was to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"/groups/wg/auto/\">W3C Automotive Working Group</a> (which closed on 22 February 2024).</p>\r\n\r\n<p>Fuller description of the scope is in <a rel=\"nofollow\" href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
  "shortname": "autowebplatform",
+ "closed_date": "2024-06-18",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
