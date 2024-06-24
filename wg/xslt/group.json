@@ -4,6 +4,7 @@
  "is_closed": true,
  "description": "The mission of the XSL Working Group is to define and maintain a practical style and transformation language capable of supporting the transformation and presentation of, and interaction with, structured information (e.g., XML documents) for use on servers and clients. The language is designed to build transformations in support of browsing, printing, interactive editing, and transcoding of one XML vocabulary into another XML vocabulary. To enhance accessibility, XSL is able to present information both visually and non-visually. XSL is not intended to replace CSS, but will provide functionality beyond that defined by CSS, for example, element re-ordering.",
  "shortname": "xslt",
+ "closed_date": "2018-10-15",
  "discr": "w3cgroup",
  "_links": {
   "self": {
