@@ -2,8 +2,9 @@
  "id": 131839,
  "name": "Multicast Community Group",
  "is_closed": true,
- "description": "<p><strong>Group closed 2023-12-11</strong></p> \r\nThe mission of the Multicast web community group is to enable multicast IP transport for web traffic to efficiently solve scalability problems in networking and web operations.  Please see the <a rel=\"nofollow\" href=\"https://w3c.github.io/multicast-cg/multicast-cg-charter.html\">charter</a> for details.",
+ "description": "The mission of the Multicast web community group is to enable multicast IP transport for web traffic to efficiently solve scalability problems in networking and web operations.  Please see the <a rel=\"nofollow\" href=\"https://w3c.github.io/multicast-cg/multicast-cg-charter.html\">charter</a> for details.",
  "shortname": "multicast",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
