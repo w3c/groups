@@ -15110,21 +15110,6 @@
   }
  },
  {
-  "name": "did-resolution",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "homepageUrl": "https://w3c-ccg.github.io/did-resolution/",
-  "description": "RELEASED DRAFT: Decentralized Identifier Resolution (DID Resolution) 0.2 Specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "did-resolution-test-suite",
   "owner": {
    "login": "w3c-ccg"
@@ -27916,8 +27901,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://wai-media-guide.netlify.com/",
-  "description": "Making Video and Audio Media Accessible. Preview:",
+  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
