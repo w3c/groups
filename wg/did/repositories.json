@@ -66,6 +66,28 @@
   }
  },
  {
+  "name": "did-resolution",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/did-resolution/",
+  "description": "RELEASED DRAFT: Decentralized Identifier Resolution (DID Resolution) 0.2 Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/did"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "shortName": "did-resolution"
+  }
+ },
+ {
   "name": "did-rubric",
   "owner": {
    "login": "w3c"
