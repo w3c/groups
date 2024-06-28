@@ -4,7 +4,6 @@
  "is_closed": true,
  "description": "The mission of the RDF Data Shapes Working Group is to produce a language for defining structural constraints on RDF graphs. In the same way that SPARQL made it possible to query RDF data, the product of the RDF Data Shapes WG will enable the definition of graph topologies for interface specification, code development, and data verification.",
  "shortname": "data-shapes",
- "closed_date": "2018-10-15",
  "discr": "w3cgroup",
  "_links": {
   "self": {
