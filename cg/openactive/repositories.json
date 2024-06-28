@@ -1,49 +1,5 @@
 [
  {
-  "name": "2015-16.openactive.io",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "ARCHIVE: Content for openactive.io, archived from 2016",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "2016-18.openactive.io",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Content for openactive.io, archived from 2018",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "2018-20.openactive.io",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Content from openactive.io, archived from 2020",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "Explore-OpenActive-data-with-R-code",
   "owner": {
    "login": "openactive"
@@ -1305,21 +1261,6 @@
   }
  },
  {
-  "name": "opportunity-data-primer",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Publishing opportunity data: a primer, from 2017",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "participant-condition-list",
   "owner": {
    "login": "openactive"
@@ -1469,20 +1410,6 @@
    "login": "openactive"
   },
   "description": "Simple Django editor for Routes data entry",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "rpde-sample-azure",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Sample implementation of RPDE in Azure",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1727,21 +1654,6 @@
   },
   "description": "Test JSON files for use in the validator",
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "w3c-cg-example-data",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVED: Example data used to inform development and discussion of the OpenActive specifications. These were referenced in some early discussions and issues but not the main docs (and don't need to be). Mostly of historical interest.",
-  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
