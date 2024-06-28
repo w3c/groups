@@ -1,0 +1,52 @@
+{
+ "id": 157420,
+ "name": "RDF Rust Common Crates Community Group",
+ "is_closed": false,
+ "description": "The mission of the RDF Rust Common Crates Community Group is to develop common crates for working with RDF in Rust. The goal is to improve the interoperability of the RDF ecosystem in Rust.",
+ "shortname": "r2c2",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/r2c2"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/r2c2/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/r2c2/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/r2c2/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/r2c2/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/r2c2/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/r2c2/participations"
+  }
+ },
+ "type": "community group",
+ "identifier": "cg/r2c2",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43910",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/43911",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/43912",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43913",
+   "title": "Mailing List"
+  }
+ ]
+}
