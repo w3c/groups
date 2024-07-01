@@ -29292,6 +29292,25 @@
   }
  },
  {
+  "name": "swag",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    157132
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "swig",
   "owner": {
    "login": "w3c"
