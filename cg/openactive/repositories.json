@@ -104,68 +104,11 @@
   }
  },
  {
-  "name": "api-dashboard",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "https://status.openactive.io",
-  "description": "A dashboard to support OpenActive API users & publishers",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "azure-rpde-proxy",
   "owner": {
    "login": "openactive"
   },
   "description": "RPDE Proxy for Azure",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "booking-api-reference-implementation",
-  "owner": {
-   "login": "openactive"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "booking-order-engine",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "Designs for a broker microservice that lowers the barriers of integration with the Open Booking API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "booking-swagger",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "API specification for the current draft of the Booking API.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -531,21 +474,6 @@
   }
  },
  {
-  "name": "endpoint-analyser",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "https://endpoint-analyser.openactive.io/",
-  "description": "ARCHIVED: Standards adoption stats across current implementers",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "extension-documentation-generator",
   "owner": {
    "login": "openactive"
@@ -607,20 +535,6 @@
    "login": "openactive"
   },
   "description": "Gulp tasks to render ReSpec files",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "harvester",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Harvester for slurping OA feed data, written in Node.js",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -831,21 +745,6 @@
   }
  },
  {
-  "name": "node-openid-client",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "ns-beta",
   "owner": {
    "login": "openactive"
@@ -893,35 +792,6 @@
    "login": "openactive"
   },
   "description": "Documentation for the Open Booking SDK",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "openactive-beta",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Dummy site for redirection",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "openactive-es-example",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "Sample code for harvesting and indexing OpenActive opportunity data using Ruby and ElasticSearch",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1000,53 +870,11 @@
   }
  },
  {
-  "name": "opportunity-api",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Repository for the Opportunity API specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "participant-condition-list",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "A SKOS vocabulary for medical states and conditions affecting accessibility for physical activities",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "permalink.openactive.io",
   "owner": {
    "login": "openactive"
   },
   "description": "OpenActive permalinks registry",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "phase-4-kpis",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Lightweight scripts for simple reporting on GitHub activity",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1330,20 +1158,6 @@
   }
  },
  {
-  "name": "status-page-redux",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Updated OpenActive status page, auto-generated from DCAT data catalogue",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "stripe-extension",
   "owner": {
    "login": "openactive"
@@ -1372,54 +1186,12 @@
   }
  },
  {
-  "name": "validator-embed-mvp",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Quick MVP of validator embed",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "validator-test-json",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Test JSON files for use in the validator",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "w3c-community-group",
   "owner": {
    "login": "openactive"
   },
   "homepageUrl": "https://w3c.openactive.io",
   "description": "OpenActive W3C Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "w3c-video-upload",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "OpenActive W3C Community Group video formatting and upload, using Shotstack",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
