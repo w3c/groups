@@ -10609,36 +10609,6 @@
   }
  },
  {
-  "name": "activity-list-old",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "https://www.openactive.io/activity-list/",
-  "description": "The OpenActive activity list",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "activity-list-xml-json",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVED: Converter from workflowy XML format to OpenActive SKOS serialisation",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "api-dashboard",
   "owner": {
    "login": "openactive"
@@ -10673,20 +10643,6 @@
    "login": "openactive"
   },
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "booking-libs-sketch",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Some sketch work around libraries",
-  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -10782,21 +10738,6 @@
   }
  },
  {
-  "name": "community-members",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "Discussion and directory relating to the OpenActive community",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "community-resources",
   "owner": {
    "login": "openactive"
@@ -10839,69 +10780,12 @@
   }
  },
  {
-  "name": "conformance-profiles",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "JSON Schemas defining OpenActive data profiles",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "conformance-services",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Harvests and normalises OpenActive Opportunity feeds to a common representation",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "conformance-status-page",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Web application displaying data availability and profile conformity of OpenActive endpoints",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "contributor-documentation",
   "owner": {
    "login": "openactive"
   },
   "description": "Documentation for contributors to OpenActive's open source infrastructure",
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "csv_converter",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVED: Scripts to convert json from Open Active API into csv",
-  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -11110,20 +10994,6 @@
   }
  },
  {
-  "name": "datasets",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Directory of datasets published via OpenActive",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "delivering-openactive",
   "owner": {
    "login": "openactive"
@@ -11166,21 +11036,6 @@
   }
  },
  {
-  "name": "developer-microsite",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Microsite for the OpenActive Developer engagement, archived from 2018",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "endpoint-analyser",
   "owner": {
    "login": "openactive"
@@ -11188,21 +11043,6 @@
   "homepageUrl": "https://endpoint-analyser.openactive.io/",
   "description": "ARCHIVED: Standards adoption stats across current implementers",
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "endpoint-validator",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Validator for endpoints implementing OpenActive Real-Time Paged Exchange Standard, archived from 2016",
-  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -11352,21 +11192,6 @@
   }
  },
  {
-  "name": "iqvoc",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "http://iqvoc.net/",
-  "description": "iQvoc - A SKOS(-XL) Vocabulary Management System for the Semantic Web",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "learn",
   "owner": {
    "login": "openactive"
@@ -11396,55 +11221,12 @@
   }
  },
  {
-  "name": "livestream",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "OpenActive Event Live Stream page",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "lorem-fitsum",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Random activity generator",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "maintainer-documentation",
   "owner": {
    "login": "openactive"
   },
   "description": "Documentation for maintainers of OpenActive's open source infrastructure",
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "model-validator",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Schemas and validator for the Modelling Opportunity Data specification, archived from 2017",
-  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -11654,20 +11436,6 @@
   }
  },
  {
-  "name": "openactive-jsonld-redirect",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Simple web app to proxy oa.jsonld if application/ld+json requested",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "openactive-python",
   "owner": {
    "login": "openactive"
@@ -11701,21 +11469,6 @@
   "homepageUrl": "",
   "description": "Test suite for OpenActive implementations",
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "openactive-website-firebase",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "ARCHIVE: Firebase integration for the OpenActive website",
-  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -11871,21 +11624,6 @@
    "login": "openactive"
   },
   "description": "Specification Edition Support Tool",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "rfcs",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "https://webapi-discovery.github.io/rfcs",
-  "description": "w3c WebAPI Discovery Community Group - Request For Comments",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -29292,25 +29030,6 @@
   }
  },
  {
-  "name": "swag",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    157132
-   ],
-   "contacts": [
-    "simoneonofri"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "swig",
   "owner": {
    "login": "w3c"
@@ -31786,8 +31505,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://wai-audiences.netlify.com/",
-  "isArchived": false,
+  "homepageUrl": "",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
