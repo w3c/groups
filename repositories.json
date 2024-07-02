@@ -10812,21 +10812,6 @@
   }
  },
  {
-  "name": "dataset-site-generator",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "Dataset Site",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "dataset-site-template",
   "owner": {
    "login": "openactive"
