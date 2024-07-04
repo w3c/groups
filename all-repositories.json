@@ -15921,6 +15921,25 @@
   }
  },
  {
+  "name": "r2c2",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    157420
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "rdfsurfaces",
   "owner": {
    "login": "w3c-cg"
