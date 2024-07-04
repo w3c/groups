@@ -14304,6 +14304,58 @@
   ]
  },
  {
+  "id": 157595,
+  "name": "Threat Modeling Community Group",
+  "is_closed": false,
+  "description": "The group's purpose is to provide a meeting point for Security, Privacy, and Human Rights experts, along with technology domain experts, to create Threat Models together.",
+  "shortname": "tmcg",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/tmcg"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/tmcg/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/tmcg/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/tmcg/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/tmcg/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/tmcg/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/tmcg/participations"
+   }
+  },
+  "type": "community group",
+  "identifier": "cg/tmcg",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43914",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/43915",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/43916",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43917",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 97249,
   "name": "Tibetan Layout Task Force",
   "is_closed": false,
