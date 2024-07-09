@@ -800,10 +800,6 @@
   "identifier": "wg/timed-text"
  },
  {
-  "id": 67497,
-  "identifier": "cg/touchevents"
- },
- {
   "id": 121208,
   "identifier": "tf/transportation-ont-cc"
  },
@@ -972,10 +968,6 @@
   "identifier": "cg/webextensions"
  },
  {
-  "id": 51933,
-  "identifier": "cg/webid"
- },
- {
   "id": 125908,
   "identifier": "wg/webtransport"
  },
@@ -1026,6 +1018,10 @@
  {
   "id": 36791,
   "identifier": "wg/uaag"
+ },
+ {
+  "id": 51933,
+  "identifier": "cg/webid"
  },
  {
   "id": 100074,
@@ -1182,6 +1178,10 @@
  {
   "id": 66594,
   "identifier": "ig/semweb"
+ },
+ {
+  "id": 67497,
+  "identifier": "cg/touchevents"
  },
  {
   "id": 90021,
