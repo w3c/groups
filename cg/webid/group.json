@@ -1,9 +1,10 @@
 {
  "id": 51933,
  "name": "WebID Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The WebID Community Group is a continuation of the WebID Incubator Group [1]. The Community Group will continue development of a specification for the WebID protocol, build test suites, document use case, issues, and grow the community of implementations.\r\n\r\n[1] http://www.w3.org/2005/Incubator/webid/",
  "shortname": "webid",
+ "closed_date": "2024-07-09",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
@@ -30,47 +31,5 @@
   }
  },
  "type": "community group",
- "identifier": "cg/webid",
- "services": [
-  {
-   "href": "https://api.w3.org/services/911",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/912",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/913",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/914",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/916",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/33168",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/WebID",
-    "shortdesc": "GitHub repo",
-    "longdesc": "GitHub repo",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33168"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33168/groups"
-     }
-    }
-   }
-  }
- ]
+ "identifier": "cg/webid"
 }
