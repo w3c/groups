@@ -10728,7 +10728,7 @@
   },
   "type": "working group",
   "start-date": "2022-07-21",
-  "end-date": "2024-07-20",
+  "end-date": "2024-11-20",
   "identifier": "wg/rch",
   "services": [
    {
@@ -10794,7 +10794,7 @@
     },
     "type": "working group",
     "start-date": "2022-07-21",
-    "end-date": "2024-07-20"
+    "end-date": "2024-11-20"
    }
   ],
   "internal": false,
@@ -14540,82 +14540,6 @@
   ]
  },
  {
-  "id": 67497,
-  "name": "Touch Events Community Group",
-  "is_closed": false,
-  "description": "<p>This group is closed. See the <a rel=\"nofollow\" href=\"https://www.w3.org/community/reports/touchevents/CG-FINAL-touch-events-20240704/\">Final Community Group Report for Touch Events Level 2</a>.</p>\r\n\r\n<p>The Touch Events community group was formed by members of the <a rel=\"nofollow\" href=\"https://www.w3.org/groups/wg/webevents\">Web Events Working Group</a> (responsible for the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/touch-events/\">Touch Events</a> specification) and the <a rel=\"nofollow\" href=\"https://www.w3.org/groups/wg/pointer-events\">Pointer Events Working Group</a> (responsible for the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/pointerevents/\">Pointer Events</a> specification). The group's focus was to determine differences in touch event behavior between browsers.</p>",
-  "shortname": "touchevents",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/touchevents"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/touchevents/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/touchevents/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/touchevents/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/touchevents/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/touchevents/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/touchevents/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/touchevents",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/1725",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/1726",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/1727",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/1728",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1730",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/15469",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/w3c/touch-events",
-     "shortdesc": "Github repository",
-     "longdesc": "Github repository",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/15469"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/15469/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
   "id": 121208,
   "name": "Transportation Ontology Coordination Committee",
   "is_closed": false,
@@ -17730,82 +17654,6 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/33209/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
-  "id": 51933,
-  "name": "WebID Community Group",
-  "is_closed": false,
-  "description": "The WebID Community Group is a continuation of the WebID Incubator Group [1]. The Community Group will continue development of a specification for the WebID protocol, build test suites, document use case, issues, and grow the community of implementations.\r\n\r\n[1] http://www.w3.org/2005/Incubator/webid/",
-  "shortname": "webid",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/webid"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/webid/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/webid/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/webid/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/webid/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/webid/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/webid/participations"
-   }
-  },
-  "type": "community group",
-  "identifier": "cg/webid",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/911",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/912",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/913",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/914",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/916",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/33168",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/w3c/WebID",
-     "shortdesc": "GitHub repo",
-     "longdesc": "GitHub repo",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/33168"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/33168/groups"
       }
      }
     }
