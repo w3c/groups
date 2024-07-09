@@ -1,9 +1,10 @@
 {
  "id": 67497,
  "name": "Touch Events Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "<p>This group is closed. See the <a rel=\"nofollow\" href=\"https://www.w3.org/community/reports/touchevents/CG-FINAL-touch-events-20240704/\">Final Community Group Report for Touch Events Level 2</a>.</p>\r\n\r\n<p>The Touch Events community group was formed by members of the <a rel=\"nofollow\" href=\"https://www.w3.org/groups/wg/webevents\">Web Events Working Group</a> (responsible for the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/touch-events/\">Touch Events</a> specification) and the <a rel=\"nofollow\" href=\"https://www.w3.org/groups/wg/pointer-events\">Pointer Events Working Group</a> (responsible for the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/pointerevents/\">Pointer Events</a> specification). The group's focus was to determine differences in touch event behavior between browsers.</p>",
  "shortname": "touchevents",
+ "closed_date": "2024-07-09",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
@@ -30,47 +31,5 @@
   }
  },
  "type": "community group",
- "identifier": "cg/touchevents",
- "services": [
-  {
-   "href": "https://api.w3.org/services/1725",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1726",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1727",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1728",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/1730",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/15469",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/touch-events",
-    "shortdesc": "Github repository",
-    "longdesc": "Github repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15469"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15469/groups"
-     }
-    }
-   }
-  }
- ]
+ "identifier": "cg/touchevents"
 }
