@@ -1,5 +1,18 @@
 [
  {
+  "name": ".github",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ]
+  }
+ },
+ {
   "name": "Administration",
   "owner": {
    "login": "w3c-fedid"
