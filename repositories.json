@@ -9788,6 +9788,19 @@
   }
  },
  {
+  "name": ".github",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
   "name": "BURP",
   "owner": {
    "login": "kg-construct"
