@@ -4,7 +4,6 @@
  "is_closed": true,
  "description": "Document services are client-local, on-prem, or remote services upon documents, portions of documents, or selections of document content. Examples of document services include: spellchecking, grammar checking, proofreading, fact checking, mathematical proof checking, reasoning checking, argumentation checking, and narrative checking.\r\n \r\nThe Document Services Community Group intends to, in coordination with other groups, create a general-purpose architecture, API's, and protocols for both free and paid-subscription-based document services to convenience document service providers and to equip and empower end-users who will be able to make use of multiple document services simultaneously to better author and review documents.\r\n",
  "shortname": "services",
- "closed_date": "2023-04-07",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
