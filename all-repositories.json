@@ -16755,28 +16755,6 @@
   }
  },
  {
-  "name": "PNG-spec",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/PNG-spec/",
-  "description": "Maintenance of the PNG specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "svgeesus"
-   ],
-   "group": [
-    133210
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "policy": "open"
-  }
- },
- {
   "name": "PWETF",
   "owner": {
    "login": "w3c"
@@ -26101,6 +26079,28 @@
   }
  },
  {
+  "name": "png",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/png/",
+  "description": "Maintenance of the PNG specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "svgeesus"
+   ],
+   "group": [
+    133210
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "png-hdr-pq",
   "owner": {
    "login": "w3c"
@@ -32549,8 +32549,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://wai-quick-start.netlify.com",
-  "description": "Accessibility quick start tips",
+  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
