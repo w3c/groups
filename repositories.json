@@ -5410,6 +5410,20 @@
   }
  },
  {
+  "name": "compact-import-section",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposal repository for compact import sections",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "compilation-hints",
   "owner": {
    "login": "WebAssembly"
