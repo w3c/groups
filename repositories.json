@@ -5420,6 +5420,12 @@
   "w3cjson": {
    "group": [
     "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
