@@ -17332,6 +17332,25 @@
   }
  },
  {
+  "name": "ai-accessibility",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    83907
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "ai-web-impact",
   "owner": {
    "login": "w3c"
