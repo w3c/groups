@@ -224,6 +224,20 @@
   }
  },
  {
+  "name": "gaps",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "What are the big unmet user needs of the web platform?",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
   "name": "jsidl",
   "owner": {
    "login": "w3ctag"
