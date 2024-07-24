@@ -4,6 +4,7 @@
  "is_closed": true,
  "description": "The mission of the CSV on the Web Working Group is to  provide technologies whereby data dependent applications on the Web can  provide higher interoperability when working with datasets using the CSV (Comma-Separated Values) or similar formats. As well as single CSV  files, the group will define mechanisms for interpreting a set of CSVs  as relational data. This will include the definition of a vocabulary for describing tables expressed as CSV and locatable on the web, and the  relationships between them.",
  "shortname": "csv",
+ "closed_date": "2016-02-29",
  "discr": "w3cgroup",
  "_links": {
   "self": {
