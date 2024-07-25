@@ -1,20 +1,5 @@
 [
  {
-  "name": "Explore-OpenActive-data-with-R-code",
-  "owner": {
-   "login": "openactive"
-  },
-  "homepageUrl": "",
-  "description": "Example R code to harvest and display open data about opportunities for sport and physical activity. ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "OpenActive.DatasetSite.NET",
   "owner": {
    "login": "openactive"
@@ -322,20 +307,6 @@
    "login": "openactive"
   },
   "description": "OpenActive Dataset API Discovery Specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
-  "name": "dataset-directory",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "API for list of canonical datasets, traversing DCAT files",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
