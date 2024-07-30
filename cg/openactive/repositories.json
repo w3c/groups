@@ -770,19 +770,6 @@
   }
  },
  {
-  "name": "openactive-python-streamlit",
-  "owner": {
-   "login": "openactive"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "openactive-test-suite",
   "owner": {
    "login": "openactive"
