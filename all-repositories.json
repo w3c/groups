@@ -16041,6 +16041,20 @@
   }
  },
  {
+  "name": "meetings",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "WG meeting agendas and notes",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ]
+  }
+ },
+ {
   "name": "proposals",
   "owner": {
    "login": "w3c-fedid"
