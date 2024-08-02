@@ -31277,7 +31277,7 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -33458,7 +33458,7 @@
   },
   "homepageUrl": "http://www.w3.org/WAI/eval/report-tool/",
   "description": "Interactive Guide to Assist Managing Web Accessibility Evaluations",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
