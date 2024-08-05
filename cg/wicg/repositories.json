@@ -3871,26 +3871,6 @@
   }
  },
  {
-  "name": "capture-all-screens",
-  "owner": {
-   "login": "screen-share"
-  },
-  "homepageUrl": "https://screen-share.github.io/capture-all-screens/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "web-share-target",
   "owner": {
    "login": "w3c"
