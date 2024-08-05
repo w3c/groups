@@ -1,5 +1,25 @@
 [
  {
+  "name": "capture-all-screens",
+  "owner": {
+   "login": "screen-share"
+  },
+  "homepageUrl": "https://screen-share.github.io/capture-all-screens/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/sccg"
+   ],
+   "contacts": [
+    "eladalon1983"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "captured-mouse-events",
   "owner": {
    "login": "screen-share"
