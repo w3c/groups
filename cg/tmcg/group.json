@@ -2,9 +2,9 @@
  "id": 157595,
  "name": "Threat Modeling Community Group",
  "is_closed": false,
- "description": "The group's purpose is to provide a meeting point for Security, Privacy, and Human Rights experts, along with technology domain experts, to create Threat Models together.",
+ "description": "The group's purpose is to provide a meeting point for Security, Privacy, and Human Rights experts, along with technology domain experts, to create Threat Models together.\r\n\r\nThis group will not publish Specifications.",
  "shortname": "tmcg",
- "spec-publisher": true,
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
