@@ -8180,27 +8180,6 @@
   }
  },
  {
-  "name": "FedCM",
-  "owner": {
-   "login": "fedidcg"
-  },
-  "homepageUrl": "https://fedidcg.github.io/FedCM",
-  "description": "A privacy preserving identity exchange Web API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "admin",
   "owner": {
    "login": "fedidcg"
@@ -15766,6 +15745,27 @@
   "w3cjson": {
    "group": [
     "wg/fedid"
+   ]
+  }
+ },
+ {
+  "name": "FedCM",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "https://w3c-fedid.github.io/FedCM/",
+  "description": "A privacy preserving identity exchange Web API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
