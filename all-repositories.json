@@ -13966,6 +13966,19 @@
   }
  },
  {
+  "name": "actvitypub-html-discovery",
+  "owner": {
+   "login": "swicg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "ap-test-suite-taskforce",
   "owner": {
    "login": "swicg"
