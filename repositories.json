@@ -15772,13 +15772,15 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg"
+    "wg/fedid"
    ],
    "contacts": [
-    "cwilso"
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ]
   }
  },
