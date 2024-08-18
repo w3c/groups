@@ -13884,6 +13884,19 @@
   }
  },
  {
+  "name": "activitypub-html-discovery",
+  "owner": {
+   "login": "swicg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-http-signature",
   "owner": {
    "login": "swicg"
@@ -13920,19 +13933,6 @@
   "homepageUrl": "https://www.w3.org/ns/activitystreams-owl",
   "description": "A non-normative turtle-formatted ontology version of the Activity Streams 2.0 vocabulary",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/socialcg"
-   ]
-  }
- },
- {
-  "name": "actvitypub-html-discovery",
-  "owner": {
-   "login": "swicg"
-  },
-  "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
