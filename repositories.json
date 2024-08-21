@@ -488,6 +488,27 @@
   }
  },
  {
+  "name": "MapML.js",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://maps4html.org/MapML.js/",
+  "description": "A custom <mapml-viewer> and <layer-> element suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
   "name": "MapMLServer",
   "owner": {
    "login": "Maps4HTML"
@@ -630,27 +651,6 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
-  }
- },
- {
-  "name": "Web-Map-Custom-Element",
-  "owner": {
-   "login": "Maps4HTML"
-  },
-  "homepageUrl": "https://maps4html.org/Web-Map-Custom-Element/",
-  "description": "A custom <mapml-viewer> and <layer-> element suite",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/maps4html"
-   ],
-   "contacts": [
-    "prushforth"
-   ],
-   "repo-type": [
-    "tool"
    ]
   }
  },
