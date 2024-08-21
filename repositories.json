@@ -447,27 +447,6 @@
   }
  },
  {
-  "name": "MapML",
-  "owner": {
-   "login": "Maps4HTML"
-  },
-  "homepageUrl": "",
-  "description": "Map Markup Language is hypertext for Web maps, like HTML is hypertext for Web pages https://maps4html.org/MapML/spec/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/maps4html"
-   ],
-   "contacts": [
-    "prushforth"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "MapML-Proposal",
   "owner": {
    "login": "Maps4HTML"
@@ -484,6 +463,27 @@
    ],
    "repo-type": [
     "article"
+   ]
+  }
+ },
+ {
+  "name": "MapML-Specification",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "",
+  "description": "Map Markup Language is hypertext for Web maps, like HTML is hypertext for Web pages https://maps4html.org/MapML-Specification/spec/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "contacts": [
+    "prushforth"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
