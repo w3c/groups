@@ -31705,7 +31705,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -32091,6 +32091,7 @@
    "login": "w3c"
   },
   "homepageUrl": "",
+  "description": "This repository is inactive and will soon be archived. The content is now edited in w3c/wai-website repository.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
