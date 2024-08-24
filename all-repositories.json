@@ -30612,6 +30612,28 @@
   }
  },
  {
+  "name": "vc-extensions",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-extensions/",
+  "description": "Verifiable Credential Extensions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "shortName": "vc-extensions"
+  }
+ },
+ {
   "name": "vc-imp-guide",
   "owner": {
    "login": "w3c"
@@ -30760,28 +30782,6 @@
     "note"
    ],
    "shortName": "vc-overview"
-  }
- },
- {
-  "name": "vc-specs-dir",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/vc-specs-dir/",
-  "description": "Verifiable Credential Specifications Directory",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    98922
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "shortName": "vc-spec-directory"
   }
  },
  {
