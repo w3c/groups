@@ -1814,6 +1814,25 @@
   }
  },
  {
+  "name": "canvas-place-element",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "capability-delegation",
   "owner": {
    "login": "WICG"
