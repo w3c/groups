@@ -20529,6 +20529,27 @@
   }
  },
  {
+  "name": "inclusion-2024-simone",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://simoneonofri.github.io/inclusion-2024/",
+  "description": "Slide Deck for Inclusion 2024 Conference",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "indie-ui",
   "owner": {
    "login": "w3c"
