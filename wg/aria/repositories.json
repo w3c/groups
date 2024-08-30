@@ -194,6 +194,27 @@
   }
  },
  {
+  "name": "dpub-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dpub-aria/",
+  "description": "Digital Publishing WAI-ARIA Module",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "graphics-aam",
   "owner": {
    "login": "w3c"
