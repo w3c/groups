@@ -44,6 +44,28 @@
   }
  },
  {
+  "name": "did-extensions",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/did-extensions/",
+  "description": "DID Spec Registry (Note)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/did"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "shortName": "did-spec-registries"
+  }
+ },
+ {
   "name": "did-imp-guide",
   "owner": {
    "login": "w3c"
@@ -107,28 +129,6 @@
     "note"
    ],
    "shortName": "did-rubric"
-  }
- },
- {
-  "name": "did-spec-registries",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/did-spec-registries/",
-  "description": "DID Spec Registry (Note)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/did"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "shortName": "did-spec-registries"
   }
  },
  {
