@@ -18243,7 +18243,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/did-extensions/",
-  "description": "DID Spec Registry (Note)",
+  "description": "Decentralized Identifier Ecosystem Extensions",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -18251,12 +18251,12 @@
     "wg/did"
    ],
    "contacts": [
-    "iherman"
+    "pchampin"
    ],
    "repo-type": [
     "note"
    ],
-   "shortName": "did-spec-registries"
+   "shortName": "did-extensions"
   }
  },
  {
