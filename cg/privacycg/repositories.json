@@ -356,6 +356,21 @@
   }
  },
  {
+  "name": "storage-access-headers",
+  "owner": {
+   "login": "privacycg"
+  },
+  "homepageUrl": "https://cfredric.github.io/storage-access-headers/",
+  "description": "Proposal for HTTP headers related to the Storage Access API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
+   ]
+  }
+ },
+ {
   "name": "storage-partitioning",
   "owner": {
    "login": "privacycg"
