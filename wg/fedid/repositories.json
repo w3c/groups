@@ -54,6 +54,8 @@
   "owner": {
    "login": "w3c-fedid"
   },
+  "homepageUrl": "https://w3c-fedid.github.io/login-status/",
+  "description": "A Web Platform API that allows websites to notify the browser about their users login status",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
