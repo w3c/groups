@@ -3870,6 +3870,27 @@
   }
  },
  {
+  "name": "writing-assistance-apis",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "",
+  "description": "A proposal for writing assistance web APIs: summarizer, writer, and rewriter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "web-share-target",
   "owner": {
    "login": "w3c"
