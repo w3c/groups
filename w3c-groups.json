@@ -4637,7 +4637,7 @@
   "id": 117488,
   "name": "Decentralized Identifier Working Group",
   "is_closed": false,
-  "description": "The mission of the Decentralized Identifier Working Group is two-fold. First, it will maintain the Decentralized Identifiers (DIDs) specification and related Working Group Notes. Second, it will seek consensus around the best way to achieve effective interoperability through common requirements, algorithms, architectural options, and various considerations for the DID resolution and DID URL dereferencing processes.",
+  "description": "<p>The mission of the Decentralized Identifier Working Group is two-fold. First, it will maintain the Decentralized Identifiers (DIDs) specification and related Working Group Notes. Second, it will seek consensus around the best way to achieve effective interoperability through common requirements, algorithms, architectural options, and various considerations for the DID resolution and DID URL dereferencing processes.</p>\r\n\r\n<p>Information about the previous DID Working Group is still available on its <a href=\"https://www.w3.org/2019/did-wg/\">old homepage</a>.</p>",
   "shortname": "did",
   "discr": "w3cgroup",
   "_links": {
@@ -4645,7 +4645,7 @@
     "href": "https://api.w3.org/groups/wg/did"
    },
    "homepage": {
-    "href": "https://www.w3.org/2019/did-wg/"
+    "href": "https://www.w3.org/groups/wg/did/"
    },
    "users": {
     "href": "https://api.w3.org/groups/wg/did/users"
@@ -7637,7 +7637,7 @@
   "id": 81151,
   "name": "Low Vision Accessibility Task Force",
   "is_closed": false,
-  "description": "The Low Vision Accessibility Task Force will identify issues and specify solutions to web accessibility issues specific to users with low vision via WCAG 2.0 techniques, understanding and guidance documents, and as needed to produce extensions to WCAG 2.0.",
+  "description": "The Low Vision Accessibility Task Force addresses barriers and solutions to digital accessibility issues specific to users with low vision. It provides input into WCAG 2 techniques and understanding documents, and into WCAG 3. It may also develop additional low vision guidance resources.",
   "shortname": "low-vision-a11y-tf",
   "members": [
    {
@@ -11362,7 +11362,7 @@
   "id": 143337,
   "name": "RDF-star Semantics",
   "is_closed": false,
-  "description": "A task force to discuss the semantics of RDF-star",
+  "description": "A task force to discuss the semantics of <a href=\"/groups/wg/rdf-star/\">RDF-star</a>.",
   "shortname": "rdf-star-semantics",
   "members": [
    {
