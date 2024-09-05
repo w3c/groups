@@ -8262,7 +8262,7 @@
   }
  },
  {
-  "name": "login-status",
+  "name": "idp-registration",
   "owner": {
    "login": "fedidcg"
   },
@@ -15834,6 +15834,19 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "login-status",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
    ]
   }
  },
