@@ -50,6 +50,19 @@
   }
  },
  {
+  "name": "login-status",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ]
+  }
+ },
+ {
   "name": "meetings",
   "owner": {
    "login": "w3c-fedid"
