@@ -57,19 +57,6 @@
   }
  },
  {
-  "name": "idp-registration",
-  "owner": {
-   "login": "fedidcg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/fed-id"
-   ]
-  }
- },
- {
   "name": "meetings",
   "owner": {
    "login": "fedidcg"
