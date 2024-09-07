@@ -8281,19 +8281,6 @@
   }
  },
  {
-  "name": "idp-registration",
-  "owner": {
-   "login": "fedidcg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/fed-id"
-   ]
-  }
- },
- {
   "name": "meetings",
   "owner": {
    "login": "fedidcg"
@@ -16146,6 +16133,21 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "idp-registration",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "",
+  "description": "A proposal to extend FedCM to allow RPs to accept \"any\" registered IdP",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
    ]
   }
  },
