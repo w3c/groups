@@ -50,6 +50,29 @@
   }
  },
  {
+  "name": "button-mode",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "",
+  "description": "A proposal to extend FedCM to handle logged out users gracefully",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "idp-registration",
   "owner": {
    "login": "w3c-fedid"
@@ -90,6 +113,53 @@
   "w3cjson": {
    "group": [
     "wg/fedid"
+   ]
+  }
+ },
+ {
+  "name": "multi-idp",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "template",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "template for CG-WG Process",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
