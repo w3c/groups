@@ -15867,10 +15867,12 @@
   }
  },
  {
-  "name": "continuation",
+  "name": "custom-requests",
   "owner": {
    "login": "w3c-fedid"
   },
+  "homepageUrl": "",
+  "description": "This is a proposal to extend FedCM to allow RPs to make custom requests to the IdP",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
