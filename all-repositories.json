@@ -9833,6 +9833,20 @@
   }
  },
  {
+  "name": "w3c-tpac-2024-presentations",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "CBOR-LD, YAML-LD, and the JSON-LD Recharter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
   "name": "yaml-ld",
   "owner": {
    "login": "json-ld"
