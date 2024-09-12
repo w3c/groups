@@ -22434,6 +22434,25 @@
   }
  },
  {
+  "name": "immersive-captions",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    83907
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "immersive-captions-cg",
   "owner": {
    "login": "w3c"
