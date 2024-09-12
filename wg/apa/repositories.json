@@ -298,6 +298,8 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "",
+  "description": "https://w3c.github.io/immersive-captions/",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -308,7 +310,7 @@
     "ruoxiran"
    ],
    "repo-type": [
-    "rec-track"
+    "note-track"
    ]
   }
  },
