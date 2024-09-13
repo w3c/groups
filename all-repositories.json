@@ -14023,6 +14023,20 @@
   }
  },
  {
+  "name": "activitypub-trust-and-safety",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "AP Trust and Safety Task Force repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-webfinger",
   "owner": {
    "login": "swicg"
@@ -15952,6 +15966,25 @@
   "w3cjson": {
    "group": [
     156520
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "iacg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    60884
    ],
    "contacts": [
     "ij@w3.org"
