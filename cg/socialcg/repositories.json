@@ -85,6 +85,20 @@
   }
  },
  {
+  "name": "activitypub-trust-and-safety",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "AP Trust and Safety Task Force repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-webfinger",
   "owner": {
    "login": "swicg"
