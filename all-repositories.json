@@ -14051,6 +14051,20 @@
   }
  },
  {
+  "name": "activitypub-website-taskforce",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Volunteer TF to update ActivityPub.rocks website (and related \"landing pages\")",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitystreams2-owl",
   "owner": {
    "login": "swicg"
