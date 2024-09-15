@@ -10533,6 +10533,21 @@
   }
  },
  {
+  "name": "http-schnorr-auth",
+  "owner": {
+   "login": "nostrcg"
+  },
+  "homepageUrl": "https://nostrcg.github.io/http-schnorr-auth/",
+  "description": "http schnorr auth",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nostr"
+   ]
+  }
+ },
+ {
   "name": "schema",
   "owner": {
    "login": "nostrcg"
