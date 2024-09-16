@@ -290,6 +290,21 @@
   }
  },
  {
+  "name": "gcds-components",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://design-system.alpha.canada.ca/",
+  "description": "GC Design System Components is a monorepo managing the web components of the GC Design System. | « GC Design System Components » (Composants de Système de design GC) est un référentiel unique qui gère les composants Web de Système de design GC.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
   "name": "geoserver",
   "owner": {
    "login": "Maps4HTML"
