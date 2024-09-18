@@ -15960,7 +15960,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/fedid"
+    "cg/fed-id"
    ],
    "contacts": [
     "simoneonofri",
@@ -15983,7 +15983,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/fedid"
+    "cg/fed-id"
    ],
    "contacts": [
     "simoneonofri",
@@ -16008,7 +16008,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/fedid"
+    "cg/fed-id"
    ],
    "contacts": [
     "simoneonofri",
@@ -16019,21 +16019,6 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
-  }
- },
- {
-  "name": "login-status",
-  "owner": {
-   "login": "w3c-fedid"
-  },
-  "homepageUrl": "https://w3c-fedid.github.io/login-status/",
-  "description": "A Web Platform API that allows websites to notify the browser about their users login status",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/fedid"
    ]
   }
  },
@@ -16068,7 +16053,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/fedid"
+    "cg/fed-id"
    ],
    "contacts": [
     "simoneonofri",
@@ -16111,7 +16096,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/fedid"
+    "cg/fed-id"
    ],
    "contacts": [
     "simoneonofri",
