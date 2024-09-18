@@ -1,11 +1,12 @@
 {
  "id": 66053,
  "name": "Federated Identities for the Open Web Community Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The mission of this group is to propose new APIs that allow for secure identity federation across domains on the open web.",
  "shortname": "fedid",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/fedid"
@@ -29,5 +30,6 @@
    "href": "https://api.w3.org/groups/cg/fedid/participations"
   }
  },
+ "type": "community group",
  "identifier": "cg/fedid"
 }
