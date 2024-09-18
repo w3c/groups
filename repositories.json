@@ -14020,6 +14020,7 @@
   "owner": {
    "login": "swicg"
   },
+  "homepageUrl": "https://swicg.github.io/activitypub-trust-and-safety/",
   "description": "AP Trust and Safety Task Force repository",
   "isArchived": false,
   "isPrivate": false,
@@ -15691,6 +15692,25 @@
   }
  },
  {
+  "name": "awesome-semantic-shapes",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shacl"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "cndid",
   "owner": {
    "login": "w3c-cg"
@@ -15896,6 +15916,14 @@
   "w3cjson": {
    "group": [
     "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -15910,21 +15938,6 @@
   "w3cjson": {
    "group": [
     "wg/fedid"
-   ]
-  }
- },
- {
-  "name": "FedCM",
-  "owner": {
-   "login": "w3c-fedid"
-  },
-  "homepageUrl": "https://w3c-fedid.github.io/FedCM/",
-  "description": "A privacy preserving identity exchange Web API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/fedid"
    ],
    "contacts": [
     "simoneonofri",
@@ -15932,7 +15945,7 @@
     "wseltzer"
    ],
    "repo-type": [
-    "rec-track"
+    "project"
    ]
   }
  },
@@ -15947,7 +15960,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/fedid"
+    "cg/fedid"
    ],
    "contacts": [
     "simoneonofri",
@@ -15970,7 +15983,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/fedid"
+    "cg/fedid"
    ],
    "contacts": [
     "simoneonofri",
@@ -15995,7 +16008,17 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/fedid"
+    "cg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
@@ -16025,6 +16048,14 @@
   "w3cjson": {
    "group": [
     "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "project"
    ]
   }
  },
@@ -16037,7 +16068,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/fedid"
+    "cg/fedid"
    ],
    "contacts": [
     "simoneonofri",
@@ -16080,7 +16111,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/fedid"
+    "cg/fedid"
    ],
    "contacts": [
     "simoneonofri",
@@ -20802,27 +20833,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "inclusion-2024-simone",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3.org/2024/Talks/inclusion-simone",
-  "description": "Slide Deck for Inclusion 2024 Conference",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/fedid"
-   ],
-   "contacts": [
-    "simoneonofri"
-   ],
-   "repo-type": [
-    "other"
    ]
   }
  },
