@@ -67,6 +67,26 @@
      }
     }
    }
+  },
+  {
+   "href": "https://api.w3.org/services/43931",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/awesome-semantic-shapes",
+    "shortdesc": "GitHub Shapes",
+    "longdesc": "GitHub Awesome Semantic Shapes",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43931"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43931/groups"
+     }
+    }
+   }
   }
  ]
 }
