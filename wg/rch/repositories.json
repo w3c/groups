@@ -40,6 +40,26 @@
   }
  },
  {
+  "name": "rch-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Dataset Canonicalization and Hash (RCG) Working Group's homepage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rch"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "rdf-canon",
   "owner": {
    "login": "w3c"
