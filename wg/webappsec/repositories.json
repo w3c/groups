@@ -293,7 +293,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/webappsec-passkey-endpoints/",
-  "description": "Temporary home for the Passkey Endpoints Well-Known URI spec",
+  "description": "A well-known URL for passkey relying party endpoints",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
