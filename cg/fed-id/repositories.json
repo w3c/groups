@@ -136,6 +136,102 @@
   }
  },
  {
+  "name": "active-mode",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "",
+  "description": "A proposal to extend FedCM to handle logged out users gracefully",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "custom-requests",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "",
+  "description": "This is a proposal to extend FedCM to allow RPs to make custom requests to the IdP",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "idp-registration",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "",
+  "description": "A proposal to extend FedCM to allow RPs to accept \"any\" registered IdP",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "multi-idp",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "proposals",
   "owner": {
    "login": "w3c-fedid"
@@ -148,6 +244,30 @@
    ],
    "contacts": [
     "simoneonofri"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "template",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "template for CG-WG Process",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
    ],
    "repo-type": [
     "cg-report"
