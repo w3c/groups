@@ -16250,7 +16250,20 @@
   "homepageUrl": "https://w3c-fedid.github.io/FedCM/",
   "description": "A privacy preserving identity exchange Web API",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "active-mode",
@@ -16333,7 +16346,20 @@
   "homepageUrl": "https://w3c-fedid.github.io/login-status/",
   "description": "A Web Platform API that allows websites to notify the browser about their users login status",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "meetings",
@@ -21385,7 +21411,17 @@
   "description": "A simple cache for GitHub",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "github-notify-ml-config",
@@ -22565,7 +22601,7 @@
     "ruoxiran"
    ],
    "repo-type": [
-    "note-track"
+    "note"
    ]
   }
  },
@@ -27243,7 +27279,17 @@
   "description": "RDF Dataset Canonicalization and Hash (RCG) Working Group's homepage",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "wg/rch"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
  },
  {
   "name": "rch-wg-charter",
@@ -29658,7 +29704,18 @@
   "description": "Documentation and Management of TPAC plenary day breakouts",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "tpac2016",
@@ -29679,7 +29736,18 @@
   "description": "Repository setup to collect and organize breakout session proposals for TPAC 2023",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "tpac2024-breakouts",
@@ -29690,7 +29758,18 @@
   "description": "Repository set up to collect and organize breakout session proposals for TPAC 2024",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "tr-design",
@@ -31366,7 +31445,17 @@
   "description": "Tracking discussions between W3C and IETF",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "w3c-jekyll-theme",
@@ -31429,7 +31518,17 @@
   "description": "W3C Website feedback and bug reports",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "vivienlacourba"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "w3c-website-frontend",
@@ -31461,7 +31560,17 @@
   "description": "Project documentation for the 2020-21 W3C website redesign project ",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "vivienlacourba"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "w3c-website-redesign-html",
@@ -34608,7 +34717,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/webappsec-passkey-endpoints/",
-  "description": "Temporary home for the Passkey Endpoints Well-Known URI spec",
+  "description": "A well-known URL for passkey relying party endpoints",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
