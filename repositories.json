@@ -15950,6 +15950,29 @@
   }
  },
  {
+  "name": "FedCM",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "https://w3c-fedid.github.io/FedCM/",
+  "description": "A privacy preserving identity exchange Web API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "active-mode",
   "owner": {
    "login": "w3c-fedid"
@@ -16019,6 +16042,29 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "login-status",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "https://w3c-fedid.github.io/login-status/",
+  "description": "A Web Platform API that allows websites to notify the browser about their users login status",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
@@ -20688,7 +20734,7 @@
     "ruoxiran"
    ],
    "repo-type": [
-    "note-track"
+    "note"
    ]
   }
  },
@@ -24289,6 +24335,26 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "rch-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "RDF Dataset Canonicalization and Hash (RCG) Working Group's homepage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rch"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
@@ -29017,7 +29083,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/webappsec-passkey-endpoints/",
-  "description": "Temporary home for the Passkey Endpoints Well-Known URI spec",
+  "description": "A well-known URL for passkey relying party endpoints",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
