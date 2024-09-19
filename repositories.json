@@ -14035,6 +14035,7 @@
   "owner": {
    "login": "swicg"
   },
+  "homepageUrl": "https://swicg.github.io/activitypub-webfinger/",
   "description": "SocialCG report for using ActivityPub with Webfinger",
   "isArchived": false,
   "isPrivate": false,
@@ -31477,6 +31478,20 @@
   "owner": {
    "login": "w3ctag"
   },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "w3ctagbot",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "A github bot and webserver to track and manage TAG activities",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
