@@ -568,6 +568,20 @@
   }
  },
  {
+  "name": "w3ctagbot",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "A github bot and webserver to track and manage TAG activities",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
   "name": "web-https",
   "owner": {
    "login": "w3ctag"
