@@ -31651,7 +31651,17 @@
   "description": "Symfony Bundle containing generic templates for W3C Website",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "vivienlacourba"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "w3c.github.io",
