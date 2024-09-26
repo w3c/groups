@@ -14211,6 +14211,21 @@
   }
  },
  {
+  "name": "potential-charters",
+  "owner": {
+   "login": "swicg"
+  },
+  "homepageUrl": "",
+  "description": "Discussion of potential CG and WG charters",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "processes",
   "owner": {
    "login": "swicg"
