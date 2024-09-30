@@ -11797,6 +11797,58 @@
   ]
  },
  {
+  "id": 160471,
+  "name": "RUM Community Group",
+  "is_closed": false,
+  "description": "<p>The mission of the RUM Community Group is to improve and expand the capabilities of developers and businesses who are using Real User Monitoring (RUM) to measure user experience on the web.</p>\r\n\r\n<p>We are focused on the measurement of performance, errors, logs, tracing, activity, and any other facet that indicates user experience.</p>\r\n\r\n<p>Our deliverables would include: Collaborative research projects (sharing the experimental results and any findings), and generating documents for external consumption (principles, opinions, positions, recommendations to Working Groups and others).</p>",
+  "shortname": "rumcg",
+  "spec-publisher": false,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/rumcg"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/rumcg/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/rumcg/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/rumcg/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/rumcg/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/rumcg/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/rumcg/participations"
+   }
+  },
+  "type": "community group",
+  "identifier": "cg/rumcg",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43936",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/43937",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/43938",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43939",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 156502,
   "name": "Real Estate Community Group",
   "is_closed": false,
