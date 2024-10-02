@@ -16019,6 +16019,8 @@
   "owner": {
    "login": "w3c-cg"
   },
+  "homepageUrl": "",
+  "description": "A curated list of RDF Shape resources",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -18146,7 +18148,18 @@
   "description": "AT Driver defines a protocol for introspection and remote control of assistive technology software, using a bidirectional communication channel.",
   "isArchived": false,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "wg/browser-tools-testing"
+   ],
+   "contacts": [
+    "tidoust",
+    "jugglinmike"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "audio-session",
