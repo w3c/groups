@@ -1,9 +1,10 @@
 {
  "id": 35532,
  "name": "Accessibility Education and Outreach Working Group (EOWG)",
- "is_closed": false,
+ "is_closed": true,
  "description": "The mission of the Accessibility Education and Outreach Working Group is to develop strategies and resources to promote awareness, understanding, implementation, and conformance testing for W3C accessibility standards; and to support the accessibility work of other W3C Groups.",
  "shortname": "eowg",
+ "closed_date": "2024-10-03",
  "discr": "w3cgroup",
  "_links": {
   "self": {
@@ -46,19 +47,5 @@
  "type": "working group",
  "start-date": "1998-03-10",
  "end-date": "2024-06-30",
- "identifier": "wg/eowg",
- "services": [
-  {
-   "href": "https://api.w3.org/services/6068",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/13774",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/25882",
-   "title": "Issue Tracking"
-  }
- ]
+ "identifier": "wg/eowg"
 }
