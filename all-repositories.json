@@ -26779,6 +26779,27 @@
   }
  },
  {
+  "name": "privacywg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/groups/wg/privacy/",
+  "description": "Privacy Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "process",
   "owner": {
    "login": "w3c"
