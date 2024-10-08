@@ -5324,27 +5324,6 @@
   }
  },
  {
-  "name": "128-bit-arithmetic",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/spec/",
-  "description": "WebAssembly proposal for 128-bit arithmetic",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    78073
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "JS-BigInt-integration",
   "owner": {
    "login": "WebAssembly"
@@ -7248,6 +7227,27 @@
   "w3cjson": {
    "group": [
     "cg/webassembly"
+   ]
+  }
+ },
+ {
+  "name": "wide-arithmetic",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/spec/",
+  "description": "WebAssembly proposal for 128-bit arithmetic",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
