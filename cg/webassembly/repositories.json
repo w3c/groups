@@ -1322,6 +1322,19 @@
   }
  },
  {
+  "name": "wasi-config",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "wasi-crypto",
   "owner": {
    "login": "WebAssembly"
@@ -1619,19 +1632,6 @@
    "login": "WebAssembly"
   },
   "description": "Entropy source API for WASI",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ]
-  }
- },
- {
-  "name": "wasi-runtime-config",
-  "owner": {
-   "login": "WebAssembly"
-  },
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
