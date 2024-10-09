@@ -14095,6 +14095,20 @@
   }
  },
  {
+  "name": "activitypub.rocks",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Content for activitypub.rocks website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitystreams2-owl",
   "owner": {
    "login": "swicg"
