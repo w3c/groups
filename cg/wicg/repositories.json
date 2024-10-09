@@ -3193,6 +3193,27 @@
   }
  },
  {
+  "name": "signature-based-sri",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/signature-based-sri/",
+  "description": "Signature-based Resource Loading Restrictions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "sms-one-time-codes",
   "owner": {
    "login": "WICG"
