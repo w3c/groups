@@ -12999,6 +12999,20 @@
   }
  },
  {
+  "name": "is-screen-captured",
+  "owner": {
+   "login": "screen-share"
+  },
+  "description": "An API allowing Web applications to detect when they are subject to an ongoing screen-capture. Intended for fraud-prevention.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/sccg"
+   ]
+  }
+ },
+ {
   "name": "meetings",
   "owner": {
    "login": "screen-share"
