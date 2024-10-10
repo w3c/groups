@@ -2671,6 +2671,25 @@
   }
  },
  {
+  "name": "explicit-javascript-compile-hints-file-based",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "eyedropper-api",
   "owner": {
    "login": "WICG"
