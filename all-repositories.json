@@ -1670,25 +1670,6 @@
   }
  },
  {
-  "name": "audio-focus",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "auxclick",
   "owner": {
    "login": "WICG"
