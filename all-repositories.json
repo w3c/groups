@@ -23752,6 +23752,44 @@
   }
  },
  {
+  "name": "lws-protocol",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    159634
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "lws-ucs",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    159634
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "machine-learning-charter",
   "owner": {
    "login": "w3c"
