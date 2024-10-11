@@ -47,5 +47,10 @@
  "start-date": "2024-10-11",
  "end-date": "2026-10-08",
  "identifier": "wg/privacy",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43949",
+   "title": "Mailing List"
+  }
+ ]
 }
