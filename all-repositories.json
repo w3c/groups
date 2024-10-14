@@ -18233,6 +18233,15 @@
   }
  },
  {
+  "name": "audio-session-detach",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": null
+ },
+ {
   "name": "audiobooks",
   "owner": {
    "login": "w3c"
