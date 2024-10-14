@@ -18233,13 +18233,26 @@
   }
  },
  {
-  "name": "audio-session-detach",
+  "name": "audio-session-fork",
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "homepageUrl": "https://w3c.github.io/audio-session/",
+  "isArchived": true,
   "isPrivate": false,
-  "w3cjson": null
+  "w3cjson": {
+   "group": [
+    "wg/media"
+   ],
+   "contacts": [
+    "tidoust",
+    "marcoscaceres",
+    "chrisn"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
  },
  {
   "name": "audiobooks",
