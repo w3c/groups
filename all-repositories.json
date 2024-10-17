@@ -38637,7 +38637,21 @@
   }
  },
  {
-  "name": "proposal-common-minimum-api",
+  "name": "proposal-functions-api",
+  "owner": {
+   "login": "wintercg"
+  },
+  "description": "Discussing standardizing serverless JS functions",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
+  "name": "proposal-minimum-common-api",
   "owner": {
    "login": "wintercg"
   },
@@ -38653,20 +38667,6 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
-  }
- },
- {
-  "name": "proposal-functions-api",
-  "owner": {
-   "login": "wintercg"
-  },
-  "description": "Discussing standardizing serverless JS functions",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wintercg"
    ]
   }
  },
