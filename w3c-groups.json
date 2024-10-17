@@ -1002,7 +1002,7 @@
   "id": 7756,
   "name": "Advisory Board",
   "is_closed": false,
-  "description": "The <a href=\"https://www.w3.org/Consortium/Process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
+  "description": "The <a href=\"https://www.w3.org/policies/process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
   "shortname": "ab",
   "discr": "group",
   "_links": {
@@ -1040,8 +1040,16 @@
     "title": "Mailing List"
    },
    {
-    "href": "https://api.w3.org/services/34544",
-    "title": "Mailing List"
+    "href": "https://api.w3.org/services/43951",
+    "title": "Issue Tracking"
+   },
+   {
+    "href": "https://api.w3.org/services/43952",
+    "title": "Wiki"
+   },
+   {
+    "href": "https://api.w3.org/services/43953",
+    "title": "Issue Tracking"
    }
   ]
  },
@@ -1056,7 +1064,7 @@
     "id": 7756,
     "name": "Advisory Board",
     "is_closed": false,
-    "description": "The <a href=\"https://www.w3.org/Consortium/Process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
+    "description": "The <a href=\"https://www.w3.org/policies/process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
     "shortname": "ab",
     "discr": "group",
     "_links": {
@@ -1182,12 +1190,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -1338,12 +1346,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -3435,12 +3443,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -5369,12 +5377,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -5449,12 +5457,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -6247,12 +6255,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -6770,12 +6778,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -6987,12 +6995,12 @@
     "href": "https://api.w3.org/groups/ig/i18n/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+    "href": "https://api.w3.org/groups/ig/i18n/charters/518"
    }
   },
   "type": "interest group",
   "start-date": "1998-02-12",
-  "end-date": "2024-09-30",
+  "end-date": "2027-10-16",
   "identifier": "ig/i18n",
   "services": [
    {
@@ -7042,7 +7050,7 @@
     "href": "https://api.w3.org/groups/wg/i18n-core/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/i18n-core/charters/451"
+    "href": "https://api.w3.org/groups/wg/i18n-core/charters/519"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/i18n-core/join"
@@ -7056,7 +7064,7 @@
   },
   "type": "working group",
   "start-date": "1998-02-12",
-  "end-date": "2024-09-30",
+  "end-date": "2027-10-16",
   "identifier": "wg/i18n-core",
   "services": [
    {
@@ -7389,12 +7397,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -8700,12 +8708,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -13752,12 +13760,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -14727,12 +14735,12 @@
       "href": "https://api.w3.org/groups/ig/i18n/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/ig/i18n/charters/450"
+      "href": "https://api.w3.org/groups/ig/i18n/charters/518"
      }
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2024-09-30"
+    "end-date": "2027-10-16"
    }
   ],
   "internal": false,
@@ -15300,7 +15308,7 @@
     "id": 7756,
     "name": "Advisory Board",
     "is_closed": false,
-    "description": "The <a href=\"https://www.w3.org/Consortium/Process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
+    "description": "The <a href=\"https://www.w3.org/policies/process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
     "shortname": "ab",
     "discr": "group",
     "_links": {
