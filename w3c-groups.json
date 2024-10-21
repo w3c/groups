@@ -2380,7 +2380,7 @@
   "id": 149084,
   "name": "Board Audit Committee",
   "is_closed": false,
-  "description": "<p> In accordance with the <a href=\"https://www.w3.org/2022/10/w3c-bylaws-20221019\">W3C, Inc. Bylaws</a>, the Audit Committee shall: </p>\r\n<ol>\r\n<li>recommend to the full Board of Directors for approval the retention and, when appropriate, the  termination of an independent certified public accountant to serve as auditor,</li>\r\n<li>subject to the supervision of the full Board, negotiate the compensation of the auditor on behalf of the Board,</li>\r\n<li>confer with the auditor to satisfy the Audit Committee members that the financial affairs of this corporation are in order,</li>\r\n<li>review and determine whether to accept the audit, and (5) approve performance of any non-audit services provided to this corporation by the auditor's firm.</li>\r\n</ol>",
+  "description": "<p>The purpose of the Committee shall be to serve as an independent and objective party to enable, oversee, and monitor the Audit of the Organization’s finances, and report to the Board.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2023/09/bod-audit.html\">Audit Committee charter</a>.</p.",
   "shortname": "board-audit",
   "members": [
    {
@@ -2452,7 +2452,7 @@
   "id": 152308,
   "name": "Board Development Committee",
   "is_closed": false,
-  "description": "<p>The Board Development Committee enables the Board of Directors to properly discharge its duties, by assuring that its composition is appropriate, that Directors are properly informed, trained, and engaged, and that there is a sufficient, diverse, skilled set of candidates for the Consortium Member Director positions.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2024/01/bod-development.html\">charter</a>.</p>",
+  "description": "<p>The Board Development Committee enables the Board of Directors to properly discharge its duties, by assuring that its composition is appropriate, that Directors are properly informed, trained, and engaged, and that there is a sufficient, diverse, skilled set of candidates for the Consortium Member Director positions.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2024/01/bod-development.html\">Development Committee charter</a>.</p>",
   "shortname": "board-development",
   "members": [
    {
@@ -2577,7 +2577,7 @@
   "id": 156902,
   "name": "Board Emergency Committee",
   "is_closed": false,
-  "description": "<p>The primary purpose of the Committee is to act on behalf of the Board with respect to the affairs of W3C Inc. when time is of the essence, and it is impossible or impractical to convene a meeting of the full Board or conduct an e-vote.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2024/06/bod-emergency.html\">charter</a>.</p>",
+  "description": "<p>The primary purpose of the Committee is to act on behalf of the Board with respect to the affairs of W3C Inc. when time is of the essence, and it is impossible or impractical to convene a meeting of the full Board or conduct an e-vote.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2024/06/bod-emergency.html\">Emergency Committee charter</a>.</p>",
   "shortname": "board-emergency",
   "members": [
    {
@@ -2630,7 +2630,7 @@
   "id": 141775,
   "name": "Board Finance Committee",
   "is_closed": false,
-  "description": "<p>The W3C Board Finance Committee assists the Board in fulfilling its oversight responsibilities to hold the Consortium to account regarding:</p>\r\n<ul>\r\n    <li>On-going financial viability;\r\n    <li>Financial budgets and the availability of all analysis relevant to Consortium finances;\r\n    <li>Internal controls and financial/accounting processes;\r\n    <li>Accuracy and timeliness of financial statements.\r\n</ul>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2022/10/bod-finance.html\">charter</a>.</p>",
+  "description": "<p>The W3C Board Finance Committee assists the Board in fulfilling its oversight responsibilities to hold the Consortium to account regarding:</p>\r\n<ul>\r\n    <li>On-going financial viability;\r\n    <li>Financial budgets and the availability of all analysis relevant to Consortium finances;\r\n    <li>Internal controls and financial/accounting processes;\r\n    <li>Accuracy and timeliness of financial statements.\r\n</ul>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2022/10/bod-finance.html\">Finance Committee charter</a>.</p>",
   "shortname": "board-finance",
   "members": [
    {
@@ -2683,7 +2683,7 @@
   "id": 141774,
   "name": "Board Governance Committee",
   "is_closed": false,
-  "description": "<p>The Governance Committee ensures that the governance structures and processes for the Consortium (including the Board) are appropriate and documented. It oversees the governance of the W3C as a global collaboration between Members, Partners, and other contributors.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2022/10/bod-governance.html\">charter</a>.</p>",
+  "description": "<p>The Governance Committee ensures that the governance structures and processes for the Consortium (including the Board) are appropriate and documented. It oversees the governance of the W3C as a global collaboration between Members, Partners, and other contributors.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2022/10/bod-governance.html\">Governance Committee charter</a>.</p>",
   "shortname": "board-governance",
   "members": [
    {
@@ -2789,7 +2789,7 @@
   "id": 141773,
   "name": "Board Personnel Committee",
   "is_closed": false,
-  "description": "<p>The W3C Board Personnel Committee provides guidance, oversight, and support to W3C management as it develops and implements personnel employment, performance management, and compensation systems.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2022/10/bod-personnel.html\">charter</a>.</p>",
+  "description": "<p>The W3C Board Personnel Committee provides guidance, oversight, and support to W3C management as it develops and implements personnel employment, performance management, and compensation systems.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2022/10/bod-personnel.html\">Personnel Committee charter</a>.</p>",
   "shortname": "board-personnel",
   "members": [
    {
