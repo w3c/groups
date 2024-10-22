@@ -7524,6 +7524,7 @@
   "owner": {
    "login": "WebView-CG"
   },
+  "homepageUrl": "https://webview-cg.github.io/tpac/",
   "description": "TPAC slides & material",
   "isArchived": false,
   "isPrivate": false,
@@ -32102,7 +32103,7 @@
   },
   "homepageUrl": "https://www.npmjs.com/package/@webmachinelearning/webnn-polyfill",
   "description": "🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
