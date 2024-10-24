@@ -447,6 +447,21 @@
   }
  },
  {
+  "name": "Leaflet",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://leafletjs.com",
+  "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
   "name": "MapML-Proposal",
   "owner": {
    "login": "Maps4HTML"
@@ -815,6 +830,21 @@
   },
   "homepageUrl": "http://www.mapserver.org",
   "description": "MapServer RFC 123 work",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
+  "name": "proj4leaflet",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "http://kartena.github.io/Proj4Leaflet/",
+  "description": "Smooth Proj4js integration with Leaflet.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
