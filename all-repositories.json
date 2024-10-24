@@ -12019,6 +12019,28 @@
   }
  },
  {
+  "name": "ppa-api",
+  "owner": {
+   "login": "patcg"
+  },
+  "homepageUrl": "https://patcg.github.io/ppa-api/",
+  "description": "Privacy-Preserving Attribution",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    134161
+   ],
+   "contacts": [
+    "seanturner",
+    "aramzs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "private-measurement",
   "owner": {
    "login": "patcg"
