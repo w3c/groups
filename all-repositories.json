@@ -19537,7 +19537,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    32061
+    "wg/css"
    ],
    "contacts": [
     "svgeesus"
@@ -26974,13 +26974,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    7756,
-    50503
+    "other/ab",
+    "cg/w3process"
    ],
    "contacts": [
-    "jeffjaffe",
-    "chaals",
-    "dwsinger"
+    "plehegar",
+    "fantasai",
+    "frivoal"
    ],
    "policy": "restricted",
    "repo-type": [
