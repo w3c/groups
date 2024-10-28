@@ -142,21 +142,7 @@
   },
   "homepageUrl": "",
   "description": "Blog posts (in progress and published) for W3C's Privacy Interest Group (PING)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
- },
- {
-  "name": "credential-considerations",
-  "owner": {
-   "login": "w3cping"
-  },
-  "description": "User considerations for identity verification and credential presentation on the Web",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -207,28 +193,6 @@
   }
  },
  {
-  "name": "privacy-request",
-  "owner": {
-   "login": "w3cping"
-  },
-  "homepageUrl": "",
-  "description": "tracking privacy reviews of W3C specifications",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tool"
-   ]
-  }
- },
- {
   "name": "privacy-threat-model",
   "owner": {
    "login": "w3cping"
@@ -249,7 +213,7 @@
    "login": "w3cping"
   },
   "description": "W3C Privacy Interest Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -264,7 +228,7 @@
   },
   "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
   "description": "See the w3ctag repo for the published version - and file issues there",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
