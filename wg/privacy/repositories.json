@@ -1,5 +1,25 @@
 [
  {
+  "name": "credential-considerations",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "User considerations for identity verification and credential presentation on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "privacywg",
   "owner": {
    "login": "w3c"
@@ -17,6 +37,28 @@
    ],
    "repo-type": [
     "homepage"
+   ]
+  }
+ },
+ {
+  "name": "privacy-request",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "",
+  "description": "tracking privacy reviews of W3C specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
    ]
   }
  }
