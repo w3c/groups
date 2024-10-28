@@ -18263,6 +18263,26 @@
   }
  },
  {
+  "name": "credential-considerations",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "User considerations for identity verification and credential presentation on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "credweb",
   "owner": {
    "login": "w3c"
@@ -30979,21 +30999,7 @@
   },
   "homepageUrl": "",
   "description": "Blog posts (in progress and published) for W3C's Privacy Interest Group (PING)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
- },
- {
-  "name": "credential-considerations",
-  "owner": {
-   "login": "w3cping"
-  },
-  "description": "User considerations for identity verification and credential presentation on the Web",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -31054,10 +31060,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "ig/privacy"
+    "wg/privacy"
    ],
    "contacts": [
-    "plehegar"
+    "tjwhalen"
    ],
    "policy": "open",
    "repo-type": [
@@ -31086,7 +31092,7 @@
    "login": "w3cping"
   },
   "description": "W3C Privacy Interest Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -31101,7 +31107,7 @@
   },
   "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
   "description": "See the w3ctag repo for the published version - and file issues there",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
