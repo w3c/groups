@@ -2548,6 +2548,25 @@
   }
  },
  {
+  "name": "paymentlink",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "pending-beacon",
   "owner": {
    "login": "WICG"
