@@ -3938,6 +3938,25 @@
   }
  },
  {
+  "name": "paymentlink",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "pending-beacon",
   "owner": {
    "login": "WICG"
