@@ -6749,6 +6749,19 @@
   }
  },
  {
+  "name": "wasi-gfx",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "wasi-grpc",
   "owner": {
    "login": "WebAssembly"
@@ -7123,19 +7136,6 @@
  },
  {
   "name": "wasi-usb",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ]
-  }
- },
- {
-  "name": "wasi-webgpu",
   "owner": {
    "login": "WebAssembly"
   },
