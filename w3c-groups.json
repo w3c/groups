@@ -14366,6 +14366,62 @@
   ]
  },
  {
+  "id": 161076,
+  "name": "Sustainable Web Interest Group",
+  "is_closed": false,
+  "description": "The mission of the Sustainable Web Interest Group is to improve digital sustainability so that the Web works better for all people and the planet.",
+  "shortname": "sustainableweb",
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/groups/ig/sustainableweb/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/services"
+   },
+   "specifications": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/specifications"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/chairs"
+   },
+   "team-contacts": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/teamcontacts"
+   },
+   "charters": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/charters"
+   },
+   "active-charter": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/charters/520"
+   },
+   "join": {
+    "href": "https://www.w3.org/groups/ig/sustainableweb/join"
+   },
+   "pp-status": {
+    "href": "https://www.w3.org/groups/ig/sustainableweb/ipr"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/ig/sustainableweb/participations"
+   }
+  },
+  "type": "interest group",
+  "start-date": "2024-10-29",
+  "end-date": "2026-10-31",
+  "identifier": "ig/sustainableweb",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43954",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 104525,
   "name": "Synchronized Multimedia for Publications Community Group",
   "is_closed": false,
