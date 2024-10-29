@@ -18252,7 +18252,7 @@
     "wg/aria"
    ],
    "contacts": [
-    "michael-n-cooper"
+    "daniel-montalvo"
    ],
    "policy": "restricted",
    "repo-type": [
@@ -23740,6 +23740,27 @@
   }
  },
  {
+  "name": "pdf-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Portable Document Format Accessibility APIs Mapping",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "perf-security-privacy",
   "owner": {
    "login": "w3c"
@@ -25955,6 +25976,26 @@
    ],
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "sustainableweb-ig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repo for the W3C Sustainable Web Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/sustainableweb"
+   ],
+   "contacts": [
+    "tzviya"
+   ],
+   "repo-type": [
+    "article"
    ]
   }
  },
@@ -31171,7 +31212,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "ig/privacy"
+    "wg/privacy"
    ],
    "contacts": [
     "plehegar"
