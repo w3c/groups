@@ -61,5 +61,27 @@
     "tool"
    ]
   }
+ },
+ {
+  "name": "tracking-issues",
+  "owner": {
+   "login": "w3cping"
+  },
+  "homepageUrl": "https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues",
+  "description": "Repo to track PING initiated issues on other standards documents.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tool"
+   ]
+  }
  }
 ]
