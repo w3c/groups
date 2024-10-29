@@ -140,7 +140,7 @@
     "wg/aria"
    ],
    "contacts": [
-    "michael-n-cooper"
+    "daniel-montalvo"
    ],
    "policy": "restricted",
    "repo-type": [
@@ -298,6 +298,27 @@
    "contacts": [
     "michael-n-cooper"
    ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "pdf-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Portable Document Format Accessibility APIs Mapping",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "policy": "restricted",
    "repo-type": [
     "rec-track"
    ]
