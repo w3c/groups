@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "name": "sustainableweb-ig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repo for the W3C Sustainable Web Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/sustainableweb"
+   ],
+   "contacts": [
+    "tzviya"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ }
+]
