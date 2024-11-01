@@ -30627,6 +30627,27 @@
   }
  },
  {
+  "name": "wot-ngsi-ld",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "work area for the liaison between WoT and ETSI ISG CIM on NGSI-LD",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/wot"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "wot-profile",
   "owner": {
    "login": "w3c"
