@@ -318,6 +318,20 @@
   }
  },
  {
+  "name": "ml-markup-tutorial",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "A short tutorial on annotating machine-learning resources with Bioschemas",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
   "name": "schemaorg",
   "owner": {
    "login": "BioSchemas"
