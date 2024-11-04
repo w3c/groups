@@ -13966,6 +13966,32 @@
   }
  },
  {
+  "name": "rsp4j-iswc",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
+  "name": "rsp4j-iswc24",
+  "owner": {
+   "login": "streamreasoning"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rsp"
+   ]
+  }
+ },
+ {
   "name": "rsplab",
   "owner": {
    "login": "streamreasoning"
@@ -29575,13 +29601,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    161076
+    "ig/sustainableweb"
    ],
    "contacts": [
     "tzviya"
    ],
    "repo-type": [
-    "article"
+    "project"
    ]
   }
  },
