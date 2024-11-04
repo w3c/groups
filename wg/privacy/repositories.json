@@ -20,6 +20,52 @@
   }
  },
  {
+  "name": "fingerprinting-guidance",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/fingerprinting-guidance/",
+  "description": "What is browser fingerprinting and how should specification authors address it.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "sandandsnow",
+    "tjwhalen",
+    "npdoty"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "ping-security-questionnaire",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "description": "A security/privacy review questionnaire for W3C specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "plegerar",
+    "sandandsnow",
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "privacywg",
   "owner": {
    "login": "w3c"
