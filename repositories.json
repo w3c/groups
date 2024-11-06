@@ -15699,6 +15699,19 @@
   }
  },
  {
+  "name": "vc-test-suite-api",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "vc-test-suite-implementations",
   "owner": {
    "login": "w3c-ccg"
