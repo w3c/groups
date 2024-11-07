@@ -66,6 +66,27 @@
   }
  },
  {
+  "name": "privacy-considerations",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "plehegar",
+    "sandandsnow",
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "privacywg",
   "owner": {
    "login": "w3c"
