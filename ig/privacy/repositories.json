@@ -1,5 +1,26 @@
 [
  {
+  "name": "adding-permissions",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "",
+  "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/privacy"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "ping",
   "owner": {
    "login": "w3c"
@@ -19,48 +40,6 @@
    ],
    "repo-type": [
     "homepage"
-   ]
-  }
- },
- {
-  "name": "privacy-considerations",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ],
-   "contacts": [
-    "plehegar",
-    "sandandsnow",
-    "tjwhalen"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "adding-permissions",
-  "owner": {
-   "login": "w3cping"
-  },
-  "homepageUrl": "",
-  "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "note"
    ]
   }
  },
@@ -109,7 +88,7 @@
    "login": "w3cping"
   },
   "description": "A system for preventing font fingerprinting",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -123,7 +102,7 @@
    "login": "w3cping"
   },
   "description": "A proposal for preventing font fingerprinting through browser hinting and font-opt-in.",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -137,7 +116,7 @@
    "login": "w3cping"
   },
   "description": "Draft of a possible \"privacy mode\" spec / note.",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -152,7 +131,7 @@
   },
   "homepageUrl": "https://w3cping.github.io/privacy-threat-model",
   "description": "A target privacy threat model for the Web",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -194,7 +173,7 @@
   "owner": {
    "login": "w3cping"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -207,7 +186,7 @@
   "owner": {
    "login": "w3cping"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
