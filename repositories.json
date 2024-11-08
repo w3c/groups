@@ -14307,6 +14307,20 @@
   }
  },
  {
+  "name": "geosocial",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Geosocial Taskforce",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "meetings",
   "owner": {
    "login": "swicg"
