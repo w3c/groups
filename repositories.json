@@ -391,6 +391,19 @@
   }
  },
  {
+  "name": "logo.css",
+  "owner": {
+   "login": "CSS-Next"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/css4"
+   ]
+  }
+ },
+ {
   "name": "Specifications",
   "owner": {
    "login": "HydraCG"
@@ -12997,27 +13010,6 @@
   },
   "homepageUrl": "https://screen-share.github.io/captured-mouse-events/",
   "description": "Captured Mouse Events",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/sccg"
-   ],
-   "contacts": [
-    "eladalon1983"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "captured-surface-control",
-  "owner": {
-   "login": "screen-share"
-  },
-  "homepageUrl": "https://screen-share.github.io/captured-surface-control/",
-  "description": "Web API allowing capturing applications limited control over captured surfaces.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
