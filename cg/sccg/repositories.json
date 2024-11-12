@@ -41,27 +41,6 @@
   }
  },
  {
-  "name": "captured-surface-control",
-  "owner": {
-   "login": "screen-share"
-  },
-  "homepageUrl": "https://screen-share.github.io/captured-surface-control/",
-  "description": "Web API allowing capturing applications limited control over captured surfaces.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/sccg"
-   ],
-   "contacts": [
-    "eladalon1983"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "discuss",
   "owner": {
    "login": "screen-share"
