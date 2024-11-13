@@ -46,6 +46,8 @@
  "type": "interest group",
  "start-date": "2024-08-07",
  "end-date": "2026-07-31",
+ "tr-publisher": true,
+ "group-type": "ig",
  "identifier": "ig/smart-cities",
  "services": [
   {
