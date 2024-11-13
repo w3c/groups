@@ -1683,7 +1683,7 @@
     "href": "https://api.w3.org/groups/wg/audio/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/audio/charters/462"
+    "href": "https://api.w3.org/groups/wg/audio/charters/521"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/audio/join"
@@ -1697,7 +1697,7 @@
   },
   "type": "working group",
   "start-date": "2011-03-25",
-  "end-date": "2024-12-21",
+  "end-date": "2026-11-08",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/audio",
@@ -10356,7 +10356,7 @@
   },
   "type": "interest group",
   "start-date": "1999-07-08",
-  "end-date": "2024-09-30",
+  "end-date": "2024-12-31",
   "tr-publisher": true,
   "group-type": "ig",
   "identifier": "ig/psig",
@@ -11140,6 +11140,64 @@
   ]
  },
  {
+  "id": 161758,
+  "name": "Private Advertising Technology Working Group",
+  "is_closed": false,
+  "description": "The mission of the Private Advertising Technology Working Group, motivated by the W3C TAG Ethical Web Principles, is to specify web features and APIs that support advertising while acting in the interests of users, in particular providing strong privacy assurances using predominantly technical means. The Working Group welcomes participation from browser vendors, OS vendors, mobile application vendors, advertisers, publishers, ad buyers, advertising platforms and intermediaries, privacy advocates, web application developers, and other interested parties.",
+  "shortname": "pat",
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/wg/pat"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/groups/wg/pat/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/wg/pat/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/wg/pat/services"
+   },
+   "specifications": {
+    "href": "https://api.w3.org/groups/wg/pat/specifications"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/wg/pat/chairs"
+   },
+   "team-contacts": {
+    "href": "https://api.w3.org/groups/wg/pat/teamcontacts"
+   },
+   "charters": {
+    "href": "https://api.w3.org/groups/wg/pat/charters"
+   },
+   "active-charter": {
+    "href": "https://api.w3.org/groups/wg/pat/charters/522"
+   },
+   "join": {
+    "href": "https://www.w3.org/groups/wg/pat/join"
+   },
+   "pp-status": {
+    "href": "https://www.w3.org/groups/wg/pat/ipr"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/wg/pat/participations"
+   }
+  },
+  "type": "working group",
+  "start-date": "2024-11-13",
+  "end-date": "2026-11-30",
+  "tr-publisher": true,
+  "group-type": "wg",
+  "identifier": "wg/pat",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43967",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 97159,
   "name": "Publishing Business Group",
   "is_closed": false,
@@ -11573,7 +11631,7 @@
   },
   "type": "working group",
   "start-date": "2022-07-21",
-  "end-date": "2024-11-20",
+  "end-date": "2025-01-20",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/rch",
@@ -11641,7 +11699,7 @@
     },
     "type": "working group",
     "start-date": "2022-07-21",
-    "end-date": "2024-11-20",
+    "end-date": "2025-01-20",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/rch"
