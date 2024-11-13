@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2011-05-05",
  "end-date": "2026-09-30",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/webrtc",
  "services": [
   {
