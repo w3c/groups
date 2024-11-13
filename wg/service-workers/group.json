@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2017-08-03",
  "end-date": "2025-01-31",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/service-workers",
  "services": [
   {
