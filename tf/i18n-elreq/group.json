@@ -43,7 +43,10 @@
    },
    "type": "interest group",
    "start-date": "1998-02-12",
-   "end-date": "2027-10-16"
+   "end-date": "2027-10-16",
+   "tr-publisher": true,
+   "group-type": "ig",
+   "identifier": "ig/i18n"
   }
  ],
  "internal": false,
@@ -66,7 +69,9 @@
    "href": "https://api.w3.org/groups/tf/i18n-elreq/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/i18n-elreq",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/7472",
