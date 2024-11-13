@@ -31,7 +31,10 @@
     "team-contacts": {
      "href": "https://api.w3.org/groups/other/ab/teamcontacts"
     }
-   }
+   },
+   "tr-publisher": true,
+   "group-type": "other",
+   "identifier": "other/ab"
   }
  ],
  "internal": false,
@@ -51,6 +54,8 @@
    "href": "https://api.w3.org/groups/tf/ab-elected/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/ab-elected",
+ "group-type": "tf",
  "services": []
 }
