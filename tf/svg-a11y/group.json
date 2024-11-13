@@ -51,7 +51,10 @@
    },
    "type": "working group",
    "start-date": "1998-07-24",
-   "end-date": "2026-06-30"
+   "end-date": "2026-06-30",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/svg"
   },
   {
    "id": 83726,
@@ -100,7 +103,10 @@
    },
    "type": "working group",
    "start-date": "2015-10-22",
-   "end-date": "2024-12-31"
+   "end-date": "2024-12-31",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/aria"
   }
  ],
  "internal": false,
@@ -120,7 +126,9 @@
    "href": "https://api.w3.org/groups/tf/svg-a11y/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/svg-a11y",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/6238",
