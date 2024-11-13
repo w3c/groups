@@ -52,7 +52,10 @@
    },
    "type": "working group",
    "start-date": "2015-10-22",
-   "end-date": "2025-07-31"
+   "end-date": "2025-07-31",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/apa"
   }
  ],
  "internal": false,
@@ -72,7 +75,9 @@
    "href": "https://api.w3.org/groups/tf/fast/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/fast",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/40763",
