@@ -53,7 +53,10 @@
    },
    "type": "working group",
    "start-date": "1997-02-28",
-   "end-date": "2025-01-12"
+   "end-date": "2025-01-12",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/css"
   },
   {
    "id": 83726,
@@ -102,7 +105,10 @@
    },
    "type": "working group",
    "start-date": "2015-10-22",
-   "end-date": "2024-12-31"
+   "end-date": "2024-12-31",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/aria"
   },
   {
    "id": 83907,
@@ -151,7 +157,10 @@
    },
    "type": "working group",
    "start-date": "2015-10-22",
-   "end-date": "2025-07-31"
+   "end-date": "2025-07-31",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/apa"
   }
  ],
  "internal": false,
@@ -171,5 +180,7 @@
    "href": "https://api.w3.org/groups/tf/css-a11y/chairs"
   }
  },
- "identifier": "tf/css-a11y"
+ "tr-publisher": false,
+ "identifier": "tf/css-a11y",
+ "group-type": "tf"
 }
