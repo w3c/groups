@@ -51,7 +51,10 @@
    },
    "type": "working group",
    "start-date": "2022-07-21",
-   "end-date": "2024-11-20"
+   "end-date": "2024-11-20",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/rch"
   }
  ],
  "internal": false,
@@ -71,6 +74,8 @@
    "href": "https://api.w3.org/groups/tf/rch-wg-chairs/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/rch-wg-chairs",
+ "group-type": "tf",
  "services": []
 }
