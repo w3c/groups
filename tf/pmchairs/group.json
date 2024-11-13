@@ -51,7 +51,10 @@
    },
    "type": "working group",
    "start-date": "2023-06-20",
-   "end-date": "2025-06-30"
+   "end-date": "2025-06-30",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/pm"
   }
  ],
  "internal": false,
@@ -71,7 +74,9 @@
    "href": "https://api.w3.org/groups/tf/pmchairs/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/pmchairs",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/40771",
