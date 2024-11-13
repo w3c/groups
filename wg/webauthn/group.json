@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2016-02-08",
  "end-date": "2026-04-30",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/webauthn",
  "services": [
   {
