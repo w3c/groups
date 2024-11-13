@@ -1,0 +1,22 @@
+[
+ {
+  "name": "patwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Private Advertising Technology Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pat"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ }
+]
