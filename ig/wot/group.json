@@ -46,6 +46,8 @@
  "type": "interest group",
  "start-date": "2015-01-21",
  "end-date": "2026-05-19",
+ "tr-publisher": true,
+ "group-type": "ig",
  "identifier": "ig/wot",
  "services": [
   {
