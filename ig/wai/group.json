@@ -37,6 +37,8 @@
  "type": "interest group",
  "start-date": "2001-06-18",
  "end-date": "2024-12-31",
+ "tr-publisher": true,
+ "group-type": "ig",
  "identifier": "ig/wai",
  "services": [
   {
