@@ -4,7 +4,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "A Work Item of the Federated Identity Community Group.",
   "isArchived": false,
   "isPrivate": false,
@@ -61,7 +60,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "Agenda and minutes of meetings of the Federated Identity Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -83,7 +81,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "New proposals in the Federated Identity Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -98,7 +95,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "protocol use case library",
   "isArchived": false,
   "isPrivate": false,
@@ -140,7 +136,6 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "",
   "description": "A proposal to extend FedCM to handle logged out users gracefully",
   "isArchived": false,
   "isPrivate": false,
@@ -163,7 +158,6 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "",
   "description": "This is a proposal to extend FedCM to allow RPs to make custom requests to the IdP",
   "isArchived": false,
   "isPrivate": false,
@@ -188,7 +182,6 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "",
   "description": "A proposal to extend FedCM to allow RPs to accept \"any\" registered IdP",
   "isArchived": false,
   "isPrivate": false,
