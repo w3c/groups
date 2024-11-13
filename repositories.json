@@ -76,7 +76,6 @@
   "owner": {
    "login": "BioSchemas"
   },
-  "homepageUrl": "",
   "description": "Elixir BioHackathon 2023 report ",
   "isArchived": false,
   "isPrivate": false,
@@ -105,7 +104,6 @@
   "owner": {
    "login": "BioSchemas"
   },
-  "homepageUrl": "",
   "description": "Mock-up to show how bioschemas can be used to expose, collect and integrate metadata about beacon services",
   "isArchived": true,
   "isPrivate": false,
@@ -120,7 +118,6 @@
   "owner": {
    "login": "BioSchemas"
   },
-  "homepageUrl": "",
   "description": "Details of the harvesting of Bioschemas markup from live deployments on the Web.",
   "isArchived": false,
   "isPrivate": false,
@@ -135,7 +132,6 @@
   "owner": {
    "login": "BioSchemas"
   },
-  "homepageUrl": "",
   "description": "scripts for automated maintenance of bioschemas specifications in the Data Discovery Engine",
   "isArchived": false,
   "isPrivate": false,
@@ -234,7 +230,6 @@
   "owner": {
    "login": "BioSchemas"
   },
-  "homepageUrl": "",
   "description": "Web scraper to harvest Data items using Bioschemas specifications markup.",
   "isArchived": true,
   "isPrivate": false,
@@ -263,7 +258,6 @@
   "owner": {
    "login": "BioSchemas"
   },
-  "homepageUrl": "",
   "description": "A repository hosting Bioschemas validation tools",
   "isArchived": false,
   "isPrivate": false,
@@ -408,7 +402,6 @@
   "owner": {
    "login": "HydraCG"
   },
-  "homepageUrl": "",
   "description": "Specifications created by the Hydra W3C Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -441,7 +434,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "Proposed spec for dynamic slippy maps in HTML: https://maps4html.github.io/HTML-Map-Element/spec/",
   "isArchived": true,
   "isPrivate": false,
@@ -513,7 +505,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "Map Markup Language is hypertext for Web maps, like HTML is hypertext for Web pages https://maps4html.org/MapML-Specification/spec/",
   "isArchived": false,
   "isPrivate": false,
@@ -555,7 +546,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "Servlet for service-based MapML documents",
   "isArchived": false,
   "isPrivate": false,
@@ -585,7 +575,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "Draft charter for Maps for HTML Community Group https://maps4html.org/Maps4HTML-CG-Charter/",
   "isArchived": false,
   "isPrivate": false,
@@ -701,7 +690,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "Organization communications",
   "isArchived": false,
   "isPrivate": false,
@@ -840,7 +828,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "A node application utilizing pgrouting (Dijkstra's algorithm) to find the shortest path between two points using mapml",
   "isArchived": false,
   "isPrivate": false,
@@ -914,7 +901,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "A clone of validator.nu for Map Markup Language - needs work / out of date",
   "isArchived": false,
   "isPrivate": false,
@@ -929,7 +915,6 @@
   "owner": {
    "login": "Maps4HTML"
   },
-  "homepageUrl": "",
   "description": "Documentation for Web-Map-Custom-Element https://maps4html.org/web-map-doc/",
   "isArchived": false,
   "isPrivate": false,
@@ -973,7 +958,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Deprecated. Use the LDES-Solid-Server instead",
   "isArchived": true,
   "isPrivate": false,
@@ -1001,7 +985,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Republishes a Linked Data Event Stream or tree:Collection on GitHub Pages using a GitHub Action",
   "isArchived": false,
   "isPrivate": false,
@@ -1029,7 +1012,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Create an extraction of a versioned LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -1044,7 +1026,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Create a snapshot of a versioned LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -1115,7 +1096,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Bucketize Linked Data Event Stream members",
   "isArchived": false,
   "isPrivate": false,
@@ -1130,7 +1110,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "[DEPRECATED] Comunica engine with support for TREE specification - use treecg/treemunica instead",
   "isArchived": false,
   "isPrivate": false,
@@ -1158,7 +1137,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Monorepo for Linked Data Event Stream connectors",
   "isArchived": false,
   "isPrivate": false,
@@ -1420,7 +1398,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "An extension to the DOM event pattern to allow authors to disable support for preventDefault",
   "isArchived": true,
   "isPrivate": false,
@@ -1460,7 +1437,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Introduce security controls to same origin realms in web applications",
   "isArchived": false,
   "isPrivate": false,
@@ -1481,7 +1457,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Spec and explainer for the Scroll Anchoring web platform feature.",
   "isArchived": true,
   "isPrivate": false,
@@ -1496,7 +1471,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "This repository contains the data related to the new proposed Web API -- Managed Device Web API.",
   "isArchived": false,
   "isPrivate": false,
@@ -1596,7 +1570,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": " 👋 Ask your questions here! 👋",
   "isArchived": false,
   "isPrivate": false,
@@ -1636,7 +1609,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Give developers the ability to embed third party HTML documents inside a new and ephemeral context. In return, COEP embedding rules can be relaxed. Thanks to anonymous iframe, developers using COEP can now embed third party content that do not.",
   "isArchived": false,
   "isPrivate": false,
@@ -1829,7 +1801,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Bundles of multiple resources, to improve loading JS and the Web.",
   "isArchived": false,
   "isPrivate": false,
@@ -1870,7 +1841,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1909,7 +1879,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "An API to allow developers transfer the ability to use restricted APIs to any target window in the frame tree.",
   "isArchived": false,
   "isPrivate": false,
@@ -2012,7 +1981,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "https://wicg.github.io/conditional-focus/",
   "isArchived": false,
   "isPrivate": false,
@@ -2033,7 +2001,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "API for constructing CSS stylesheet objects",
   "isArchived": false,
   "isPrivate": false,
@@ -2114,7 +2081,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Customise browser native media controls buttons.",
   "isArchived": false,
   "isPrivate": false,
@@ -2176,7 +2142,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Use cases and requirements for standardizing element queries.",
   "isArchived": true,
   "isPrivate": false,
@@ -2300,7 +2265,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Former home of the custom state pseudo-class feature",
   "isArchived": true,
   "isPrivate": false,
@@ -2438,7 +2402,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2458,7 +2421,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Direct Sockets API for the web platform",
   "isArchived": false,
   "isPrivate": false,
@@ -2669,7 +2631,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A fork of Encrypted Media Extensions to add persistent-usage-record sessions",
   "isArchived": true,
   "isPrivate": false,
@@ -2916,7 +2877,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Moved to https://github.com/w3c/geolocation-sensor",
   "isArchived": true,
   "isPrivate": false,
@@ -3027,7 +2987,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Payment Request proposal",
   "isArchived": true,
   "isPrivate": false,
@@ -3046,7 +3005,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "This repo is being kept for historical purposes. ",
   "isArchived": true,
   "isPrivate": false,
@@ -3078,7 +3036,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A proposal for an idle detection and notification API for the web",
   "isArchived": false,
   "isPrivate": false,
@@ -3178,7 +3135,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Polyfill for the inert attribute and property.",
   "isArchived": false,
   "isPrivate": false,
@@ -3280,7 +3236,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A place for browsers and web developers to collaborate on user agent interventions.",
   "isArchived": true,
   "isPrivate": false,
@@ -3441,7 +3396,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "[On hold] A proposal for an async key/value storage API for the web",
   "isArchived": true,
   "isPrivate": false,
@@ -3456,7 +3410,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Wouldn't it be nice if `Accept-Language` was a client hint?",
   "isArchived": true,
   "isPrivate": false,
@@ -3718,7 +3671,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Experimenting with being explicit about user modality",
   "isArchived": true,
   "isPrivate": false,
@@ -3877,7 +3829,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "[On hold for now] A mechanism for origins to set their origin-wide configuration in a central location",
   "isArchived": false,
   "isPrivate": false,
@@ -3988,7 +3939,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A better beaconing API",
   "isArchived": false,
   "isPrivate": false,
@@ -4023,7 +3973,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "performance.measureMemory API",
   "isArchived": false,
   "isPrivate": false,
@@ -4161,7 +4110,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -4202,7 +4150,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Privacy-Preserving Ads",
   "isArchived": false,
   "isPrivate": false,
@@ -4496,7 +4443,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -4759,7 +4705,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A simple starter kit for incubations",
   "isArchived": false,
   "isPrivate": false,
@@ -4801,7 +4746,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Explainer showcasing a new web storage API, NativeIO",
   "isArchived": false,
   "isPrivate": false,
@@ -4849,7 +4793,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A proposal for translator and language detector APIs",
   "isArchived": false,
   "isPrivate": false,
@@ -4968,7 +4911,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "UUID V4",
   "isArchived": true,
   "isPrivate": false,
@@ -5043,7 +4985,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -5084,7 +5025,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Web App Launch Handler",
   "isArchived": false,
   "isPrivate": false,
@@ -5246,7 +5186,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Web API for accessing Human Interface Devices (HID)",
   "isArchived": false,
   "isPrivate": false,
@@ -5349,7 +5288,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Repository for the website: https://wicg.io (staging site at: https://wicg.github.io/wicg.io)",
   "isArchived": false,
   "isPrivate": false,
@@ -5495,7 +5433,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Optimizer and compiler/toolchain library for WebAssembly",
   "isArchived": false,
   "isPrivate": false,
@@ -5510,7 +5447,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Proposal to add branch hinting functionality to WebAssembly",
   "isArchived": false,
   "isPrivate": false,
@@ -5673,7 +5609,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Constant-time WebAssembly",
   "isArchived": false,
   "isPrivate": false,
@@ -6118,7 +6053,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "WebAssembly meetings (VC or in-person), agendas, and notes",
   "isArchived": false,
   "isPrivate": false,
@@ -6133,7 +6067,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "A proposal to introduce finer grained control of WebAssembly memory.",
   "isArchived": false,
   "isPrivate": false,
@@ -6174,7 +6107,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Proposal for allowing modules to define, import and export modules and instances",
   "isArchived": true,
   "isPrivate": false,
@@ -6506,7 +6438,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "A repository for the stack switching proposal.",
   "isArchived": false,
   "isPrivate": false,
@@ -6630,7 +6561,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "The WebAssembly Binary Toolkit",
   "isArchived": false,
   "isPrivate": false,
@@ -6725,7 +6655,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "WASI Cryptography API Proposal",
   "isArchived": false,
   "isPrivate": false,
@@ -6832,7 +6761,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "I2C API for WASI",
   "isArchived": false,
   "isPrivate": false,
@@ -6847,7 +6775,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "I/O Types proposal for WASI",
   "isArchived": false,
   "isPrivate": false,
@@ -6932,7 +6859,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Messaging proposal for WASI",
   "isArchived": false,
   "isPrivate": false,
@@ -6961,7 +6887,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Observability World for WASI",
   "isArchived": false,
   "isPrivate": false,
@@ -7044,7 +6969,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "WASI-enabled WebAssembly C/C++ toolchain",
   "isArchived": false,
   "isPrivate": false,
@@ -7193,7 +7117,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Standalone VM using LLVM JIT",
   "isArchived": true,
   "isPrivate": false,
@@ -7208,7 +7131,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Library for interpreting / debugging wasm code",
   "isArchived": false,
   "isPrivate": false,
@@ -7223,7 +7145,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "WebAssembly module decoder in C++",
   "isArchived": false,
   "isPrivate": false,
@@ -7287,7 +7208,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Redirect to webassembly.org",
   "isArchived": false,
   "isPrivate": false,
@@ -7317,7 +7237,6 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "homepageUrl": "",
   "description": "Proposed WebAssembly Working Group charter",
   "isArchived": false,
   "isPrivate": false,
@@ -7442,7 +7361,6 @@
   "owner": {
    "login": "WebAudio"
   },
-  "homepageUrl": "",
   "description": "The Web Audio API v2.0, developed by the W3C Audio WG",
   "isArchived": true,
   "isPrivate": false,
@@ -7585,7 +7503,6 @@
   "owner": {
    "login": "WebView-CG"
   },
-  "homepageUrl": "",
   "description": "Agenda and Minutes of WebView Community Group meetings.",
   "isArchived": false,
   "isPrivate": false,
@@ -7636,7 +7553,6 @@
   "owner": {
    "login": "WebView-CG"
   },
-  "homepageUrl": "",
   "description": "Draft questions as PRs and discuss the right audience for surveys in the issues",
   "isArchived": false,
   "isPrivate": false,
@@ -7746,7 +7662,6 @@
   "owner": {
    "login": "act-rules"
   },
-  "homepageUrl": "",
   "description": "Implementation report for ACT Rules test cases validated by Siteimprove",
   "isArchived": true,
   "isPrivate": false,
@@ -7761,7 +7676,6 @@
   "owner": {
    "login": "act-rules"
   },
-  "homepageUrl": "",
   "description": "Implementation report for ACT Rules test cases validated by Axe",
   "isArchived": true,
   "isPrivate": false,
@@ -7929,7 +7843,6 @@
   "owner": {
    "login": "act-rules"
   },
-  "homepageUrl": "",
   "description": "Runner for Auto-WCAG test cases",
   "isArchived": false,
   "isPrivate": false,
@@ -8355,7 +8268,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "A Work Item of the Federated Identity Community Group.",
   "isArchived": false,
   "isPrivate": false,
@@ -8412,7 +8324,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "Agenda and minutes of meetings of the Federated Identity Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -8434,7 +8345,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "New proposals in the Federated Identity Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -8449,7 +8359,6 @@
   "owner": {
    "login": "fedidcg"
   },
-  "homepageUrl": "",
   "description": "protocol use case library",
   "isArchived": false,
   "isPrivate": false,
@@ -8688,7 +8597,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -8709,7 +8617,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "A repo for managing the adminstrative tasks of the Immersive Web Group. ",
   "isArchived": false,
   "isPrivate": false,
@@ -8842,7 +8749,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "A feature repo for exploring computer vision APIs for XR. Feature Lead: Blair MacIntyre",
   "isArchived": false,
   "isPrivate": false,
@@ -8864,7 +8770,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Specification: https://immersive-web.github.io/depth-sensing/ Explainer: https://github.com/immersive-web/depth-sensing/blob/main/explainer.md",
   "isArchived": false,
   "isPrivate": false,
@@ -8886,7 +8791,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Using HTML/CSS to bring elements outside the window in Immersive Web browsers. Feature leads: Dean Jackson  and Ada Rose Cannon",
   "isArchived": false,
   "isPrivate": false,
@@ -8930,7 +8834,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Incubation repository for access to front-facing-camera. Repo contact  Piotr Bialecki and Rik Cabanier",
   "isArchived": false,
   "isPrivate": false,
@@ -8952,7 +8855,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "For work toward a feature in WebXR to geo-align coordinate systems. Feature lead: Blair MacIntyre",
   "isArchived": false,
   "isPrivate": false,
@@ -9168,7 +9070,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Repository for the discussion and research in to navigating from page to page whilst staying in immersive mode. Feature leads: Rik Cabanier and Brandon Jones",
   "isArchived": false,
   "isPrivate": false,
@@ -9190,7 +9091,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -9232,7 +9132,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Cross specification concerns and suggestions for privacy and security for the immersive web (Feature lead: Mounir Lamouri)",
   "isArchived": false,
   "isPrivate": false,
@@ -9254,7 +9153,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Initial proposals for future Immersive Web work (see README)",
   "isArchived": false,
   "isPrivate": false,
@@ -9276,7 +9174,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Spec draft: https://immersive-web.github.io/raw-camera-access/.  Repository for experimentation around exposing raw camera access through WebXR Device API. Feature leads: Piotr Bialecki, Alex Turner, Nicholas Butko",
   "isArchived": false,
   "isPrivate": false,
@@ -9298,7 +9195,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
   "isArchived": false,
   "isPrivate": false,
@@ -9340,7 +9236,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "This repository will list all the semantic labels that can be returned by various WebXR APIs",
   "isArchived": false,
   "isPrivate": false,
@@ -9355,7 +9250,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "A proposal for favicon support for  a new data type. Feature lead: Rik Cabanier",
   "isArchived": false,
   "isPrivate": false,
@@ -9480,7 +9374,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "WebXR Accessibility",
   "isArchived": false,
   "isPrivate": false,
@@ -9593,7 +9486,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "WebXR Layers Polyfill library. Lead: Rik Cabanier.",
   "isArchived": false,
   "isPrivate": false,
@@ -10115,7 +10007,6 @@
   "owner": {
    "login": "kg-construct"
   },
-  "homepageUrl": "",
   "description": "Moved to tutorials repository",
   "isArchived": true,
   "isPrivate": false,
@@ -10229,7 +10120,6 @@
   "owner": {
    "login": "kg-construct"
   },
-  "homepageUrl": "",
   "description": "Python scripts to generate EARL-based report from R2RML test-cases",
   "isArchived": false,
   "isPrivate": false,
@@ -10244,7 +10134,6 @@
   "owner": {
    "login": "kg-construct"
   },
-  "homepageUrl": "",
   "description": "Resources for KGC: languages/tools/evaluation-systems",
   "isArchived": false,
   "isPrivate": false,
@@ -10333,7 +10222,6 @@
   "owner": {
    "login": "kg-construct"
   },
-  "homepageUrl": "",
   "description": "The RML-Joins module",
   "isArchived": true,
   "isPrivate": false,
@@ -10363,7 +10251,6 @@
   "owner": {
    "login": "kg-construct"
   },
-  "homepageUrl": "",
   "description": "The place for your RML questions and examples",
   "isArchived": false,
   "isPrivate": false,
@@ -10595,7 +10482,6 @@
   "owner": {
    "login": "ld4lt"
   },
-  "homepageUrl": "",
   "description": "Towards a consolidated LOD vocabulary for linguistic annotations",
   "isArchived": false,
   "isPrivate": false,
@@ -10710,7 +10596,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": ".NET helper functions to create an OpenActive Dataset Site",
   "isArchived": false,
   "isPrivate": false,
@@ -10725,7 +10610,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Strongly Typed C# Models for OpenActive",
   "isArchived": false,
   "isPrivate": false,
@@ -10740,7 +10624,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": ".NET server library, including an OpenActive Reference Implementation",
   "isArchived": false,
   "isPrivate": false,
@@ -10755,7 +10638,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.",
   "isArchived": false,
   "isPrivate": false,
@@ -10770,7 +10652,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Accessibility Support controlled vocabularies data and documentation",
   "isArchived": false,
   "isPrivate": false,
@@ -10813,7 +10694,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "OpenActive Brand Assets",
   "isArchived": false,
   "isPrivate": false,
@@ -10842,7 +10722,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Cloudflare reverse proxy scripts for OpenActive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -10927,7 +10806,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Repository for discussions broadly related to Customer Accounts",
   "isArchived": false,
   "isPrivate": false,
@@ -11054,7 +10932,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "PHP Classes and resources supporting dataset site creation",
   "isArchived": false,
   "isPrivate": false,
@@ -11083,7 +10960,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Utilities for fetching, parsing and crawling OpenActive data catalogs and dataset sites",
   "isArchived": false,
   "isPrivate": false,
@@ -11224,7 +11100,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Activation Issue Tracker for OpenActive Implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -11480,7 +11355,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Test suite for OpenActive implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -11565,7 +11439,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "Information about joining the OpenActive Community open chat",
   "isArchived": false,
   "isPrivate": false,
@@ -11638,7 +11511,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "",
   "description": "RPDE Validator library, used as a component of validator.openactive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -12129,7 +12001,6 @@
   "owner": {
    "login": "privacycg"
   },
-  "homepageUrl": "",
   "description": "A proposal for a cookie attribute to partition cross-site cookies by top-level site",
   "isArchived": false,
   "isPrivate": false,
@@ -12511,7 +12382,6 @@
   "owner": {
    "login": "privacycg"
   },
-  "homepageUrl": "",
   "description": "Template repository for a CG proposal or work item.",
   "isArchived": false,
   "isPrivate": false,
@@ -12651,7 +12521,6 @@
   "owner": {
    "login": "rdfjs"
   },
-  "homepageUrl": "",
   "description": "🌍 Comunica engine scripts for Web browsers",
   "isArchived": false,
   "isPrivate": false,
@@ -12944,7 +12813,6 @@
   "owner": {
    "login": "schemaorg"
   },
-  "homepageUrl": "",
   "description": "Schemarama is a project exploring standards-based validation for structured data, especially Schema.org.",
   "isArchived": false,
   "isPrivate": false,
@@ -13104,7 +12972,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "The repository for high quality TypeScript type definitions.",
   "isArchived": false,
   "isPrivate": false,
@@ -13232,7 +13099,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "ShEx grammar",
   "isArchived": false,
   "isPrivate": false,
@@ -13289,7 +13155,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "ShEx primer",
   "isArchived": false,
   "isPrivate": false,
@@ -13332,7 +13197,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "ShEx semantics",
   "isArchived": false,
   "isPrivate": false,
@@ -13378,7 +13242,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "shex.io web site",
   "isArchived": false,
   "isPrivate": false,
@@ -13422,7 +13285,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "shexspec.github.io web site",
   "isArchived": false,
   "isPrivate": false,
@@ -13455,7 +13317,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "ShEx specification",
   "isArchived": false,
   "isPrivate": false,
@@ -13487,7 +13348,6 @@
   "owner": {
    "login": "shexSpec"
   },
-  "homepageUrl": "",
   "description": "obsolete ShEx test suite",
   "isArchived": false,
   "isPrivate": false,
@@ -13701,7 +13561,6 @@
   "owner": {
    "login": "streamreasoning"
   },
-  "homepageUrl": "",
   "description": "A home of RSP-QL syntax and semantics discussion",
   "isArchived": false,
   "isPrivate": false,
@@ -13810,7 +13669,6 @@
   "owner": {
    "login": "streamreasoning"
   },
-  "homepageUrl": "",
   "description": "LASS Instance Generator (L1G)",
   "isArchived": false,
   "isPrivate": false,
@@ -13894,7 +13752,6 @@
   "owner": {
    "login": "streamreasoning"
   },
-  "homepageUrl": "",
   "description": "rsp-service implementation for csparql engine.",
   "isArchived": false,
   "isPrivate": false,
@@ -13909,7 +13766,6 @@
   "owner": {
    "login": "streamreasoning"
   },
-  "homepageUrl": "",
   "description": "RSP4J a library for RDF Stream Processing",
   "isArchived": false,
   "isPrivate": false,
@@ -14005,7 +13861,6 @@
   "owner": {
    "login": "streamreasoning"
   },
-  "homepageUrl": "",
   "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
   "isArchived": false,
   "isPrivate": false,
@@ -14345,7 +14200,6 @@
   "owner": {
    "login": "swicg"
   },
-  "homepageUrl": "",
   "description": "Discussion of potential CG and WG charters",
   "isArchived": false,
   "isPrivate": false,
@@ -14404,7 +14258,6 @@
   "owner": {
    "login": "twamarc"
   },
-  "homepageUrl": "",
   "description": "Healthcare Schema Vocabulary ",
   "isArchived": false,
   "isPrivate": false,
@@ -14434,7 +14287,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "This proposal describes a BBS signature suite for Linked Data Proofs using JSON Pointer Normalization to generate verifiable data.",
   "isArchived": false,
   "isPrivate": false,
@@ -14449,7 +14301,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "Creating community group 101 items for new participants.",
   "isArchived": false,
   "isPrivate": false,
@@ -14464,7 +14315,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "Co-operatives building inter-cooperative ecosystems, based on common membership and resource exchanges.",
   "isArchived": false,
   "isPrivate": false,
@@ -14509,7 +14359,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "This is a test new repo for a work item",
   "isArchived": false,
   "isPrivate": false,
@@ -14582,7 +14431,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -14668,7 +14516,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "https://w3c.github.io/vc-data-integrity/",
   "isArchived": false,
   "isPrivate": false,
@@ -14683,7 +14530,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "Library for Data Integrity related test suites",
   "isArchived": false,
   "isPrivate": false,
@@ -14754,7 +14600,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "WORK ITEM: Summer Outreach for DIDs & Verifiable Credentials",
   "isArchived": false,
   "isPrivate": false,
@@ -14829,7 +14674,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "We would like to open up the design process for did:pkh to a more open and consultative/deliberative conversation in the open.",
   "isArchived": false,
   "isPrivate": false,
@@ -14884,11 +14728,25 @@
   }
  },
  {
+  "name": "did-test-suite",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/did-test-suite/implementations/",
+  "description": "The official test suite for the Decentralized Identifiers 1.0 specification",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "did-tz",
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "We would like to open up the design process for did:tz to a more open and consultative/deliberative conversation in the open to better serve the Tezos community.",
   "isArchived": false,
   "isPrivate": false,
@@ -14978,7 +14836,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "description": "WORK ITEM: Drafts and Ideas of Educational and Occupational Verifiable Credentials",
   "isArchived": false,
   "isPrivate": false,
@@ -15794,7 +15651,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -15907,7 +15763,6 @@
   "owner": {
    "login": "w3c-cg"
   },
-  "homepageUrl": "",
   "description": "A curated list of RDF Shape resources",
   "isArchived": false,
   "isPrivate": false,
@@ -16190,7 +16045,6 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "",
   "description": "A proposal to extend FedCM to handle logged out users gracefully",
   "isArchived": false,
   "isPrivate": false,
@@ -16213,7 +16067,6 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "",
   "description": "This is a proposal to extend FedCM to allow RPs to make custom requests to the IdP",
   "isArchived": false,
   "isPrivate": false,
@@ -16238,7 +16091,6 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "",
   "description": "A proposal to extend FedCM to allow RPs to accept \"any\" registered IdP",
   "isArchived": false,
   "isPrivate": false,
@@ -16474,7 +16326,6 @@
   "owner": {
    "login": "w3c-lbd-cg"
   },
-  "homepageUrl": "",
   "description": "This is a repo to serve as a git-based editing possibility of some documents of the W3C LBD CG",
   "isArchived": false,
   "isPrivate": false,
@@ -16520,47 +16371,22 @@
   }
  },
  {
-  "name": "AB-memberonly",
+  "name": "3ds",
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://www.w3.org/2002/ab/",
-  "description": "W3C Advisory Board's Member-visible issues repository",
   "isArchived": false,
-  "isPrivate": true,
+  "isPrivate": false,
   "w3cjson": {
    "group": [
-    "other/ab"
+    "wg/payments"
    ],
    "contacts": [
-    "swickr"
+    "ianbjacobs"
    ],
    "repo-type": [
     "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "AB-private",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/2002/ab/",
-  "description": "W3C Advisory Board's private repository",
-  "isArchived": false,
-  "isPrivate": true,
-  "w3cjson": {
-   "group": [
-    "other/ab"
-   ],
-   "contacts": [
-    "swickr"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -16635,7 +16461,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Making RDF easy enough for most developers",
   "isArchived": false,
   "isPrivate": false,
@@ -16672,7 +16497,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "W3C Incremental Font Transfer",
   "isArchived": false,
   "isPrivate": false,
@@ -16885,7 +16709,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Code repository for tools for the the testing and analysis of potential Progressive Font Enrichment (PFE) solutions.",
   "isArchived": false,
   "isPrivate": false,
@@ -17079,7 +16902,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Horizontal review comments tracking for accessibility",
   "isArchived": false,
   "isPrivate": false,
@@ -17253,7 +17075,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
   "isArchived": false,
   "isPrivate": false,
@@ -17338,7 +17159,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Documenting gaps and requirements for support of Arabic Script languages on the Web and in eBooks.",
   "isArchived": false,
   "isPrivate": false,
@@ -17402,7 +17222,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Enabling the Web for languages of the Americas",
   "isArchived": false,
   "isPrivate": false,
@@ -17446,7 +17265,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "APA WG deliverables have been moved to individual repositories",
   "isArchived": false,
   "isPrivate": false,
@@ -17662,7 +17480,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "W3C Automotive Working Group Specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -17696,6 +17513,27 @@
    "policy": "open",
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "automotive-pay",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://github.com/w3c/automotive-pay/wiki",
+  "description": "Automotive Web Payments Task Force",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "others"
    ]
   }
  },
@@ -17871,29 +17709,6 @@
    "repo-type": [
     "cg-report"
    ]
-  }
- },
- {
-  "name": "board",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/Member/bod/",
-  "description": "Member-visible Board of Directors materials; for persistent references please use the mirror https://www.w3.org/Member/bod/",
-  "isArchived": false,
-  "isPrivate": true,
-  "w3cjson": {
-   "group": [
-    "other/board"
-   ],
-   "contacts": [
-    "rswick",
-    "mnot"
-   ],
-   "repo-type": [
-    "other"
-   ],
-   "exposed": true
   }
  },
  {
@@ -19036,7 +18851,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "https://w3c.github.io/did-wg-charter/",
   "isArchived": false,
   "isPrivate": false,
@@ -19221,7 +19035,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "DPUB Specific Annotation issues",
   "isArchived": true,
   "isPrivate": false,
@@ -19303,7 +19116,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Repository of the W3C DPUB IG on the (Packaged) Web Publications work",
   "isArchived": true,
   "isPrivate": false,
@@ -19601,7 +19413,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "discovery",
   "isArchived": false,
   "isPrivate": false,
@@ -19646,7 +19457,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "This is a repo dedicated to collecting and maintaining the status of bugs found on EPUB reading systems. Bugs may pertain to display, accessibility, and other issues.",
   "isArchived": false,
   "isPrivate": false,
@@ -19668,7 +19478,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Shared workspace for EPUB 3 specifications.",
   "isArchived": false,
   "isPrivate": false,
@@ -20682,7 +20491,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Home pages, charters, style-guides, and similar documents related to the W3C Internationalization Activity.",
   "isArchived": false,
   "isPrivate": false,
@@ -21021,7 +20829,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "https://w3c.github.io/immersive-captions/",
   "isArchived": false,
   "isPrivate": false,
@@ -21614,7 +21421,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "(UNMAINTAINED) Tests for Linked Data Platform (LDP)",
   "isArchived": true,
   "isPrivate": false,
@@ -21678,7 +21484,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Long Animation Frame API specification repository",
   "isArchived": false,
   "isPrivate": false,
@@ -22677,7 +22482,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -22781,6 +22585,25 @@
   }
  },
  {
+  "name": "merchant-validation",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "merchantcg",
   "owner": {
    "login": "w3c"
@@ -22824,7 +22647,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "MiniApps Standardization",
   "isArchived": false,
   "isPrivate": false,
@@ -22978,7 +22800,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Test suites for MiniApp specs",
   "isArchived": false,
   "isPrivate": false,
@@ -23150,7 +22971,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
   "isArchived": false,
   "isPrivate": false,
@@ -23435,7 +23255,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Documenting how capturing network traces and using it to emulate real-world network conditions can be helpful for Web developers",
   "isArchived": false,
   "isPrivate": false,
@@ -23701,7 +23520,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Payment Method: Basic Card",
   "isArchived": true,
   "isPrivate": false,
@@ -23715,6 +23533,27 @@
    "policy": "open",
    "repo-type": [
     "note"
+   ]
+  }
+ },
+ {
+  "name": "payment-method-credit-transfer",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/webpayments-methods-credit-transfer-direct-debit/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "shortName": "webpayments-methods-credit-transfer-direct-debit",
+   "repo-type": [
+    "others"
    ]
   }
  },
@@ -23804,7 +23643,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Information for developers to use the Payment Request API",
   "isArchived": false,
   "isPrivate": false,
@@ -23847,7 +23685,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Performance APIs, Security and Privacy",
   "isArchived": false,
   "isPrivate": false,
@@ -24304,7 +24141,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Not in use",
   "isArchived": false,
   "isPrivate": false,
@@ -24414,7 +24250,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Accessibility related discussions of the Publishing@W3C Groups",
   "isArchived": false,
   "isPrivate": false,
@@ -24602,7 +24437,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Tests for XPath and XQuery",
   "isArchived": false,
   "isPrivate": false,
@@ -24765,7 +24599,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Files used in all specifications of the RDF-star WG",
   "isArchived": false,
   "isPrivate": false,
@@ -25960,6 +25793,25 @@
   }
  },
  {
+  "name": "src",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "standards-track",
   "owner": {
    "login": "w3c"
@@ -26045,7 +25897,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "The subhead element An HTML extension specification",
   "isArchived": false,
   "isPrivate": false,
@@ -26563,7 +26414,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Enhancements for Japanese subtitles",
   "isArchived": false,
   "isPrivate": false,
@@ -26814,7 +26664,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "TTML2 Tests",
   "isArchived": false,
   "isPrivate": false,
@@ -27575,7 +27424,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "List of W3C Verifiable Credentials Implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -27722,7 +27570,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "The Vehicle Signal Ontology (VSSo) based on COVESA VSS and making use of the SOSA/SSN modeling patterns",
   "isArchived": false,
   "isPrivate": false,
@@ -27788,7 +27635,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -27833,7 +27679,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "This repository is inactive and will soon be archived. The content is now edited in w3c/wai-website repository.",
   "isArchived": false,
   "isPrivate": false,
@@ -27879,7 +27724,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -27901,7 +27745,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -27922,7 +27765,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -27965,7 +27807,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -27987,7 +27828,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28008,7 +27848,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28030,7 +27869,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -28053,7 +27891,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28095,7 +27932,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28141,7 +27977,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28180,7 +28015,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28202,7 +28036,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28224,7 +28057,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28287,7 +28119,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28310,7 +28141,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28332,7 +28162,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28353,7 +28182,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "WAI Planning and Implementation materials review",
   "isArchived": false,
   "isPrivate": false,
@@ -28374,7 +28202,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28394,7 +28221,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "WAI Policies",
   "isArchived": false,
   "isPrivate": false,
@@ -28438,7 +28264,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28460,7 +28285,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28523,7 +28347,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28545,7 +28368,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28613,7 +28435,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28679,7 +28500,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28725,7 +28545,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -28771,7 +28590,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "New repository: https://github.com/w3c/screen-wake-lock",
   "isArchived": false,
   "isPrivate": false,
@@ -29025,7 +28843,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Tests for the Web Annotation Working Group's deliverables",
   "isArchived": false,
   "isPrivate": false,
@@ -29724,6 +29541,27 @@
   }
  },
  {
+  "name": "webauthn-pay",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Joint task force of Web Authentication WG and Web Payments WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webauthn",
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "webcodecs",
   "owner": {
    "login": "w3c"
@@ -29838,7 +29676,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
   "isArchived": false,
   "isPrivate": false,
@@ -29906,7 +29743,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Web Media porting spec",
   "isArchived": false,
   "isPrivate": false,
@@ -29969,11 +29805,31 @@
   }
  },
  {
+  "name": "webpayments-crypto",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://github.com/w3c/webpayments-crypto/wiki",
+  "description": "Crypto discussions of the Web Payments Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "Ian"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "webpayments-flows",
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Flows work of the Web Payments Working Group",
   "isArchived": false,
   "isPrivate": false,
@@ -29987,6 +29843,92 @@
    "shortName": "webpayments",
    "repo-type": [
     "others"
+   ]
+  }
+ },
+ {
+  "name": "webpayments-http-api",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/webpayments-http-api/",
+  "description": "Web Payments HTTP APIs for payment app registration, payment requests, and payment responses.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
+  "name": "webpayments-http-messages",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "http://w3c.github.io/webpayments-http-messages/",
+  "description": "W3C Web Payments messages typically passed between the systems that inititate, execute, and finalize Web-based payments.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "shortName": "webpayments-core-messages",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "webpayments-methods-tokenization",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/webpayments-methods-tokenization/index.html",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "shortName": "webpayments-methods-tokenization",
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
+  "name": "webpayments-overview",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/webpayments-overview/",
+  "description": "An overview of the Web Payments ecosystem",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "shortName": "webpayments-overview",
+   "repo-type": [
+    "note"
    ]
   }
  },
@@ -30325,7 +30267,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Moved to https://html.spec.whatwg.org/multipage/webstorage.html",
   "isArchived": true,
   "isPrivate": false,
@@ -30645,7 +30586,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Repository to store the content on Enveloped JSON Signatures spun off from the discussion on WoT Security, e.g., https://github.com/w3c/wot-thing-description/pull/1151",
   "isArchived": false,
   "isPrivate": false,
@@ -30818,7 +30758,6 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "",
   "description": "Repository for the WoT Security Testing Plan document",
   "isArchived": false,
   "isPrivate": false,
@@ -31116,7 +31055,6 @@
   "owner": {
    "login": "w3cping"
   },
-  "homepageUrl": "",
   "description": "repository to track meta-work.  PING webpages are maintained at https://github.com/w3c/ping",
   "isArchived": false,
   "isPrivate": false,
@@ -31140,7 +31078,6 @@
   "owner": {
    "login": "w3cping"
   },
-  "homepageUrl": "",
   "description": "Blog posts (in progress and published) for W3C's Privacy Interest Group (PING)",
   "isArchived": true,
   "isPrivate": false,
@@ -31197,7 +31134,6 @@
   "owner": {
    "login": "w3cping"
   },
-  "homepageUrl": "",
   "description": "tracking privacy reviews of W3C specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -31462,7 +31398,6 @@
   "owner": {
    "login": "w3ctag"
   },
-  "homepageUrl": "",
   "description": "http://www.w3.org/2001/tag/doc/encryption-finding/",
   "isArchived": false,
   "isPrivate": false,
@@ -31563,7 +31498,6 @@
   "owner": {
    "login": "w3ctag"
   },
-  "homepageUrl": "",
   "description": "Minutes of all TAG Meetings and Calls",
   "isArchived": false,
   "isPrivate": false,
@@ -31592,7 +31526,6 @@
   "owner": {
    "login": "w3ctag"
   },
-  "homepageUrl": "",
   "description": "OBSOLETE: Guidance about how to provide packages of information on the web.",
   "isArchived": true,
   "isPrivate": false,
@@ -31938,7 +31871,6 @@
   "owner": {
    "login": "w3ctag"
   },
-  "homepageUrl": "",
   "description": "https://w3ctag.github.io/webcomponents-design-guidelines/ - Guidelines for creating web platform compatible components",
   "isArchived": false,
   "isPrivate": false,
@@ -32095,7 +32027,6 @@
   "owner": {
    "login": "webauthn-adoption"
   },
-  "homepageUrl": "",
   "description": "Proof of Concept for a new CI-friendly conformance testing suite for WebAuthn server-side interactions",
   "isArchived": false,
   "isPrivate": false,
@@ -32110,7 +32041,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "⚡Delightful WebNN resources, curated list of awesome things around WebNN ecosystem.😎",
   "isArchived": false,
   "isPrivate": false,
@@ -32140,7 +32070,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "Hybrid AI Exploration 🧪",
   "isArchived": false,
   "isPrivate": false,
@@ -32155,7 +32084,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "🗒 Agendas, minutes and other meeting material",
   "isArchived": false,
   "isPrivate": false,
@@ -32185,7 +32113,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "🚀 Proposals for future work",
   "isArchived": false,
   "isPrivate": false,
@@ -32200,7 +32127,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "🏋️‍♀️ Reusable model weights and other test data",
   "isArchived": false,
   "isPrivate": false,
@@ -32272,7 +32198,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "🧠🌱 Pure JS implementation of the Web Neural Network API w/o 3rd party deps",
   "isArchived": false,
   "isPrivate": false,
@@ -32287,7 +32212,6 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "homepageUrl": "",
   "description": "🧠⚙️ Standalone native implementation of the Web Neural Network API",
   "isArchived": false,
   "isPrivate": false,
@@ -32507,7 +32431,6 @@
   "owner": {
    "login": "webscreens"
   },
-  "homepageUrl": "",
   "description": "Cross-references database for standards",
   "isArchived": false,
   "isPrivate": false,
@@ -32675,7 +32598,6 @@
   "owner": {
    "login": "wintercg"
   },
-  "homepageUrl": "",
   "description": "The home of the performance workstream.",
   "isArchived": false,
   "isPrivate": false,
@@ -32696,7 +32618,6 @@
   "owner": {
    "login": "wintercg"
   },
-  "homepageUrl": "",
   "description": "WinterCG proposal for standardizing CLI APIs",
   "isArchived": false,
   "isPrivate": false,
@@ -32843,7 +32764,6 @@
   "owner": {
    "login": "xproc"
   },
-  "homepageUrl": "",
   "description": "The 1.0 XProc specification and now abandoned drafts of a 2.0 XML specification",
   "isArchived": false,
   "isPrivate": false,
@@ -32872,7 +32792,6 @@
   "owner": {
    "login": "xproc"
   },
-  "homepageUrl": "",
   "description": "The currently abandoned non-XML version of XProc 2.0",
   "isArchived": false,
   "isPrivate": false,
@@ -32916,7 +32835,6 @@
   "owner": {
    "login": "xproc"
   },
-  "homepageUrl": "",
   "description": "Repository for change requests to the standard step library and for official extension steps",
   "isArchived": false,
   "isPrivate": false,
@@ -33058,7 +32976,6 @@
   "owner": {
    "login": "xproc"
   },
-  "homepageUrl": "",
   "description": "Repo for the XProc next CG meeting in Prague, Feb. 2019.",
   "isArchived": false,
   "isPrivate": false,
@@ -33101,7 +33018,6 @@
   "owner": {
    "login": "xproc"
   },
-  "homepageUrl": "",
   "description": "Sources for the legacy xproc.org website",
   "isArchived": false,
   "isPrivate": false,
@@ -33173,7 +33089,6 @@
   "owner": {
    "login": "xproc"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
