@@ -39,7 +39,10 @@
      "href": "https://api.w3.org/groups/bg/publishingbg/participations"
     }
    },
-   "type": "business group"
+   "type": "business group",
+   "tr-publisher": false,
+   "group-type": "bg",
+   "identifier": "bg/publishingbg"
   },
   {
    "id": 110591,
@@ -72,7 +75,10 @@
      "href": "https://api.w3.org/groups/cg/publishingcg/participations"
     }
    },
-   "type": "community group"
+   "type": "community group",
+   "tr-publisher": false,
+   "group-type": "cg",
+   "identifier": "cg/publishingcg"
   },
   {
    "id": 144835,
@@ -121,7 +127,10 @@
    },
    "type": "working group",
    "start-date": "2023-06-20",
-   "end-date": "2025-06-30"
+   "end-date": "2025-06-30",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/pm"
   }
  ],
  "internal": false,
@@ -141,7 +150,9 @@
    "href": "https://api.w3.org/groups/tf/publ-sc/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/publ-sc",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/6974",
