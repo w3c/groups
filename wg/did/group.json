@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2019-09-05",
  "end-date": "2026-04-28",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/did",
  "services": [
   {
