@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "1998-02-12",
  "end-date": "2027-10-16",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/i18n-core",
  "services": [
   {
