@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2018-07-25",
  "end-date": "2025-05-31",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/distributed-tracing",
  "services": [
   {
