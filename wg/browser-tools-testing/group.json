@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2011-10-12",
  "end-date": "2026-07-08",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/browser-tools-testing",
  "services": [
   {
