@@ -37,6 +37,8 @@
  "type": "interest group",
  "start-date": "1998-02-12",
  "end-date": "2027-10-16",
+ "tr-publisher": true,
+ "group-type": "ig",
  "identifier": "ig/i18n",
  "services": [
   {
