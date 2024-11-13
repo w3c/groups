@@ -46,6 +46,8 @@
  "type": "interest group",
  "start-date": "2018-09-20",
  "end-date": "2024-12-30",
+ "tr-publisher": true,
+ "group-type": "ig",
  "identifier": "ig/chinese-web",
  "services": [
   {
