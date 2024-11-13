@@ -52,7 +52,10 @@
    },
    "type": "working group",
    "start-date": "2015-10-22",
-   "end-date": "2024-12-31"
+   "end-date": "2024-12-31",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/aria"
   }
  ],
  "internal": false,
@@ -75,6 +78,8 @@
    "href": "https://api.w3.org/groups/tf/pdf-aam/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/pdf-aam",
+ "group-type": "tf",
  "services": []
 }
