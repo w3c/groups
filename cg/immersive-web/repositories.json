@@ -4,7 +4,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -115,7 +114,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "A feature repo for exploring computer vision APIs for XR. Feature Lead: Blair MacIntyre",
   "isArchived": false,
   "isPrivate": false,
@@ -137,7 +135,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Using HTML/CSS to bring elements outside the window in Immersive Web browsers. Feature leads: Dean Jackson  and Ada Rose Cannon",
   "isArchived": false,
   "isPrivate": false,
@@ -159,7 +156,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Incubation repository for access to front-facing-camera. Repo contact  Piotr Bialecki and Rik Cabanier",
   "isArchived": false,
   "isPrivate": false,
@@ -181,7 +177,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "For work toward a feature in WebXR to geo-align coordinate systems. Feature lead: Blair MacIntyre",
   "isArchived": false,
   "isPrivate": false,
@@ -289,7 +284,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Repository for the discussion and research in to navigating from page to page whilst staying in immersive mode. Feature leads: Rik Cabanier and Brandon Jones",
   "isArchived": false,
   "isPrivate": false,
@@ -311,7 +305,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -353,7 +346,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Initial proposals for future Immersive Web work (see README)",
   "isArchived": false,
   "isPrivate": false,
@@ -375,7 +367,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Spec draft: https://immersive-web.github.io/raw-camera-access/.  Repository for experimentation around exposing raw camera access through WebXR Device API. Feature leads: Piotr Bialecki, Alex Turner, Nicholas Butko",
   "isArchived": false,
   "isPrivate": false,
@@ -397,7 +388,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
   "isArchived": false,
   "isPrivate": false,
@@ -439,7 +429,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "This repository will list all the semantic labels that can be returned by various WebXR APIs",
   "isArchived": false,
   "isPrivate": false,
@@ -454,7 +443,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "A proposal for favicon support for  a new data type. Feature lead: Rik Cabanier",
   "isArchived": false,
   "isPrivate": false,
@@ -556,7 +544,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "WebXR Accessibility",
   "isArchived": false,
   "isPrivate": false,
@@ -600,7 +587,6 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "",
   "description": "WebXR Layers Polyfill library. Lead: Rik Cabanier.",
   "isArchived": false,
   "isPrivate": false,
