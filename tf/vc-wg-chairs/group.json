@@ -51,7 +51,10 @@
    },
    "type": "working group",
    "start-date": "2017-04-14",
-   "end-date": "2026-10-11"
+   "end-date": "2026-10-11",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/vc"
   }
  ],
  "internal": false,
@@ -71,7 +74,9 @@
    "href": "https://api.w3.org/groups/tf/vc-wg-chairs/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/vc-wg-chairs",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/33951",
