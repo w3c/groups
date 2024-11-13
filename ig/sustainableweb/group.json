@@ -46,6 +46,8 @@
  "type": "interest group",
  "start-date": "2024-10-29",
  "end-date": "2026-10-31",
+ "tr-publisher": true,
+ "group-type": "ig",
  "identifier": "ig/sustainableweb",
  "services": [
   {
