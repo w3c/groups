@@ -311,6 +311,28 @@
   }
  },
  {
+  "name": "mediacapture-surface-control",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/mediacapture-surface-control/",
+  "description": "Web API allowing capturing applications limited control over captured surfaces.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webrtc"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "caribouW3"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "mediacapture-transform",
   "owner": {
    "login": "w3c"
