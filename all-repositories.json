@@ -34837,6 +34837,26 @@
   }
  },
  {
+  "name": "webappsec-standardizing-security-semantics-of-cross-site-cookies",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "A WebAppSec note on standardizing the security semantics of cross-site cookies and proposes standardizing these semantics.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49309
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "webappsec-suborigins",
   "owner": {
    "login": "w3c"
