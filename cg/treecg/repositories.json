@@ -4,7 +4,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Deprecated. Use the LDES-Solid-Server instead",
   "isArchived": true,
   "isPrivate": false,
@@ -32,7 +31,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Republishes a Linked Data Event Stream or tree:Collection on GitHub Pages using a GitHub Action",
   "isArchived": false,
   "isPrivate": false,
@@ -60,7 +58,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Create an extraction of a versioned LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -75,7 +72,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Create a snapshot of a versioned LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -146,7 +142,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Bucketize Linked Data Event Stream members",
   "isArchived": false,
   "isPrivate": false,
@@ -161,7 +156,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "[DEPRECATED] Comunica engine with support for TREE specification - use treecg/treemunica instead",
   "isArchived": false,
   "isPrivate": false,
@@ -189,7 +183,6 @@
   "owner": {
    "login": "TREEcg"
   },
-  "homepageUrl": "",
   "description": "Monorepo for Linked Data Event Stream connectors",
   "isArchived": false,
   "isPrivate": false,
