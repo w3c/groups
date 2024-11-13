@@ -39,7 +39,10 @@
      "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
     }
    },
-   "type": "business group"
+   "type": "business group",
+   "tr-publisher": false,
+   "group-type": "bg",
+   "identifier": "bg/autowebplatform"
   },
   {
    "id": 73816,
@@ -89,7 +92,10 @@
    },
    "type": "interest group",
    "start-date": "2014-10-15",
-   "end-date": "2019-09-14"
+   "end-date": "2019-09-14",
+   "tr-publisher": true,
+   "group-type": "ig",
+   "identifier": "ig/webcommerce"
   }
  ],
  "internal": false,
@@ -109,7 +115,9 @@
    "href": "https://api.w3.org/groups/tf/automotive-pay/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/automotive-pay",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/12441",
