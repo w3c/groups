@@ -1,5 +1,66 @@
 [
  {
+  "id": 152309,
+  "name": "AB Liaisons to the Board of Directors",
+  "is_closed": false,
+  "description": "The people named by the Advisory Board to be liaisons to the W3C Board of Directors.",
+  "shortname": "ab-liaisons-to-bod",
+  "members": [
+   {
+    "id": 7756,
+    "name": "Advisory Board",
+    "is_closed": false,
+    "description": "The <a href=\"https://www.w3.org/policies/process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.",
+    "shortname": "ab",
+    "discr": "group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/groups/other/ab"
+     },
+     "homepage": {
+      "href": "https://www.w3.org/Member/Board/"
+     },
+     "users": {
+      "href": "https://api.w3.org/groups/other/ab/users"
+     },
+     "services": {
+      "href": "https://api.w3.org/groups/other/ab/services"
+     },
+     "chairs": {
+      "href": "https://api.w3.org/groups/other/ab/chairs"
+     },
+     "team-contacts": {
+      "href": "https://api.w3.org/groups/other/ab/teamcontacts"
+     }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/ab"
+   }
+  ],
+  "internal": false,
+  "participants_list_public": true,
+  "discr": "tf",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/tf/ab-liaisons-to-bod"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/tf/ab-liaisons-to-bod/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/tf/ab-liaisons-to-bod/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/tf/ab-liaisons-to-bod/chairs"
+   }
+  },
+  "tr-publisher": false,
+  "identifier": "tf/ab-liaisons-to-bod",
+  "group-type": "tf",
+  "services": []
+ },
+ {
   "id": 114156,
   "name": "ACT Rules Community Group",
   "is_closed": false,
