@@ -28,7 +28,10 @@
     "chairs": {
      "href": "https://api.w3.org/groups/other/board/chairs"
     }
-   }
+   },
+   "tr-publisher": false,
+   "group-type": "other",
+   "identifier": "other/board"
   },
   {
    "id": 152307,
@@ -47,7 +50,10 @@
     "chairs": {
      "href": "https://api.w3.org/groups/other/board-development-guests/chairs"
     }
-   }
+   },
+   "tr-publisher": false,
+   "group-type": "other",
+   "identifier": "other/board-development-guests"
   }
  ],
  "internal": false,
@@ -67,6 +73,8 @@
    "href": "https://api.w3.org/groups/tf/board-development/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/board-development",
+ "group-type": "tf",
  "services": []
 }
