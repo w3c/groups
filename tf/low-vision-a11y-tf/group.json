@@ -52,7 +52,10 @@
    },
    "type": "working group",
    "start-date": "1997-10-06",
-   "end-date": "2025-10-31"
+   "end-date": "2025-10-31",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/ag"
   }
  ],
  "internal": false,
@@ -75,7 +78,9 @@
    "href": "https://api.w3.org/groups/tf/low-vision-a11y-tf/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/low-vision-a11y-tf",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/6146",
