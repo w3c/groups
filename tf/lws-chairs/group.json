@@ -51,7 +51,10 @@
    },
    "type": "working group",
    "start-date": "2024-09-09",
-   "end-date": "2026-09-08"
+   "end-date": "2026-09-08",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/lws"
   }
  ],
  "internal": false,
@@ -71,6 +74,8 @@
    "href": "https://api.w3.org/groups/tf/lws-chairs/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/lws-chairs",
+ "group-type": "tf",
  "services": []
 }
