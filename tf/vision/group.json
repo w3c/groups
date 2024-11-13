@@ -31,7 +31,10 @@
     "team-contacts": {
      "href": "https://api.w3.org/groups/other/ab/teamcontacts"
     }
-   }
+   },
+   "tr-publisher": true,
+   "group-type": "other",
+   "identifier": "other/ab"
   }
  ],
  "internal": false,
@@ -54,6 +57,8 @@
    "href": "https://api.w3.org/groups/tf/vision/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/vision",
+ "group-type": "tf",
  "services": []
 }
