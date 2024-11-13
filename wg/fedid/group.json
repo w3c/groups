@@ -46,6 +46,8 @@
  "type": "working group",
  "start-date": "2024-03-28",
  "end-date": "2026-03-28",
+ "tr-publisher": true,
+ "group-type": "wg",
  "identifier": "wg/fedid",
  "services": [
   {
