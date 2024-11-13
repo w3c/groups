@@ -45,7 +45,6 @@
   "owner": {
    "login": "act-rules"
   },
-  "homepageUrl": "",
   "description": "Implementation report for ACT Rules test cases validated by Siteimprove",
   "isArchived": true,
   "isPrivate": false,
@@ -60,7 +59,6 @@
   "owner": {
    "login": "act-rules"
   },
-  "homepageUrl": "",
   "description": "Implementation report for ACT Rules test cases validated by Axe",
   "isArchived": true,
   "isPrivate": false,
@@ -228,7 +226,6 @@
   "owner": {
    "login": "act-rules"
   },
-  "homepageUrl": "",
   "description": "Runner for Auto-WCAG test cases",
   "isArchived": false,
   "isPrivate": false,
