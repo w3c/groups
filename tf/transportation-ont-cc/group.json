@@ -39,7 +39,10 @@
      "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
     }
    },
-   "type": "business group"
+   "type": "business group",
+   "tr-publisher": false,
+   "group-type": "bg",
+   "identifier": "bg/autowebplatform"
   },
   {
    "id": 76043,
@@ -89,7 +92,10 @@
    },
    "type": "working group",
    "start-date": "2015-02-03",
-   "end-date": "2023-11-30"
+   "end-date": "2023-11-30",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/auto"
   },
   {
    "id": 102593,
@@ -139,7 +145,10 @@
    },
    "type": "interest group",
    "start-date": "2017-10-05",
-   "end-date": "2021-06-30"
+   "end-date": "2021-06-30",
+   "tr-publisher": true,
+   "group-type": "ig",
+   "identifier": "ig/sdw"
   }
  ],
  "internal": false,
@@ -159,7 +168,9 @@
    "href": "https://api.w3.org/groups/tf/transportation-ont-cc/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/transportation-ont-cc",
+ "group-type": "tf",
  "services": [
   {
    "href": "https://api.w3.org/services/27629",
