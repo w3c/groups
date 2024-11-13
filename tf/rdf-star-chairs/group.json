@@ -51,7 +51,10 @@
    },
    "type": "working group",
    "start-date": "2022-08-29",
-   "end-date": "2024-11-28"
+   "end-date": "2024-11-28",
+   "tr-publisher": true,
+   "group-type": "wg",
+   "identifier": "wg/rdf-star"
   }
  ],
  "internal": false,
@@ -71,6 +74,8 @@
    "href": "https://api.w3.org/groups/tf/rdf-star-chairs/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/rdf-star-chairs",
+ "group-type": "tf",
  "services": []
 }
