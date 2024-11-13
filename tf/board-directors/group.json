@@ -28,7 +28,10 @@
     "chairs": {
      "href": "https://api.w3.org/groups/other/board/chairs"
     }
-   }
+   },
+   "tr-publisher": false,
+   "group-type": "other",
+   "identifier": "other/board"
   }
  ],
  "internal": false,
@@ -48,6 +51,8 @@
    "href": "https://api.w3.org/groups/tf/board-directors/chairs"
   }
  },
+ "tr-publisher": false,
  "identifier": "tf/board-directors",
+ "group-type": "tf",
  "services": []
 }
