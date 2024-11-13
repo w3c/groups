@@ -31,6 +31,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/act-r",
   "services": [
    {
@@ -103,6 +105,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/aikr",
   "services": [
    {
@@ -181,7 +185,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2024-12-31"
+    "end-date": "2024-12-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
   ],
   "internal": false,
@@ -204,7 +211,9 @@
     "href": "https://api.w3.org/groups/tf/aria-practices/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/aria-practices",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/12371",
@@ -270,7 +279,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2024-12-31"
+    "end-date": "2024-12-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
   ],
   "internal": false,
@@ -293,7 +305,9 @@
     "href": "https://api.w3.org/groups/tf/aria-editors/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/aria-editors",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/33307",
@@ -333,6 +347,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/aria-at",
   "services": [
    {
@@ -427,7 +443,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
   ],
   "internal": false,
@@ -450,7 +469,9 @@
     "href": "https://api.w3.org/groups/tf/wcag-act/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/wcag-act",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/6408",
@@ -498,6 +519,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/a11y-discov-vocab",
   "services": [
    {
@@ -586,6 +609,8 @@
   "type": "working group",
   "start-date": "1997-10-06",
   "end-date": "2025-10-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/ag",
   "services": [
    {
@@ -638,6 +663,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/global-inclusion",
   "services": [
    {
@@ -690,6 +717,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/arrm",
   "services": [
    {
@@ -742,6 +771,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/a11yedge",
   "services": [
    {
@@ -814,6 +845,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/accessibility4children",
   "services": [
    {
@@ -886,6 +919,8 @@
   "type": "working group",
   "start-date": "2015-10-22",
   "end-date": "2025-07-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/apa",
   "services": [
    {
@@ -958,6 +993,8 @@
   "type": "working group",
   "start-date": "2015-10-22",
   "end-date": "2024-12-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/aria",
   "services": [
    {
@@ -1010,6 +1047,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/adva11yresources",
   "services": [
    {
@@ -1077,6 +1116,8 @@
     "href": "https://api.w3.org/groups/other/ab/teamcontacts"
    }
   },
+  "tr-publisher": true,
+  "group-type": "other",
   "identifier": "other/ab",
   "services": [
    {
@@ -1138,7 +1179,10 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/ab/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/ab"
    }
   ],
   "internal": false,
@@ -1158,7 +1202,9 @@
     "href": "https://api.w3.org/groups/tf/ab-elected/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/ab-elected",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -1182,6 +1228,8 @@
     "href": "https://api.w3.org/groups/other/ac/chairs"
    }
   },
+  "tr-publisher": false,
+  "group-type": "other",
   "identifier": "other/ac",
   "services": [
    {
@@ -1247,7 +1295,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -1270,7 +1321,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-afrlreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-afrlreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/17054",
@@ -1314,6 +1367,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/antifraud",
   "services": [
    {
@@ -1403,7 +1458,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -1426,7 +1484,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-alreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-alreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7411",
@@ -1470,6 +1530,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/audio-comgp",
   "services": [
    {
@@ -1546,6 +1608,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/audio-description",
   "services": [
    {
@@ -1634,6 +1698,8 @@
   "type": "working group",
   "start-date": "2011-03-25",
   "end-date": "2024-12-21",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/audio",
   "services": [
    {
@@ -1682,6 +1748,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/av4browsers",
   "services": [
    {
@@ -1734,6 +1802,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/gao",
   "services": [
    {
@@ -1799,7 +1869,10 @@
       "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/autowebplatform"
    },
    {
     "id": 73816,
@@ -1849,7 +1922,10 @@
     },
     "type": "interest group",
     "start-date": "2014-10-15",
-    "end-date": "2019-09-14"
+    "end-date": "2019-09-14",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/webcommerce"
    }
   ],
   "internal": false,
@@ -1869,7 +1945,9 @@
     "href": "https://api.w3.org/groups/tf/automotive-pay/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/automotive-pay",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/12441",
@@ -1913,6 +1991,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/autoprivacy",
   "services": [
    {
@@ -1994,7 +2074,10 @@
       "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/autowebplatform"
    },
    {
     "id": 76043,
@@ -2044,7 +2127,10 @@
     },
     "type": "working group",
     "start-date": "2015-02-03",
-    "end-date": "2023-11-30"
+    "end-date": "2023-11-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/auto"
    }
   ],
   "internal": false,
@@ -2064,7 +2150,9 @@
     "href": "https://api.w3.org/groups/tf/auto-privacy-security/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/auto-privacy-security",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7759",
@@ -2104,6 +2192,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webagents",
   "services": [
    {
@@ -2176,6 +2266,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/bpmlod",
   "services": [
    {
@@ -2256,6 +2348,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/bibframe2schema",
   "services": [
    {
@@ -2332,6 +2426,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/bioschemas",
   "services": [
    {
@@ -2408,6 +2504,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/bc2",
   "services": [
    {
@@ -2458,7 +2556,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    },
    {
     "id": 149106,
@@ -2477,7 +2578,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board-audit-guests/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board-audit-guests"
    }
   ],
   "internal": false,
@@ -2497,7 +2601,9 @@
     "href": "https://api.w3.org/groups/tf/board-audit/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-audit",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2530,7 +2636,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    },
    {
     "id": 152307,
@@ -2549,7 +2658,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board-development-guests/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board-development-guests"
    }
   ],
   "internal": false,
@@ -2569,7 +2681,9 @@
     "href": "https://api.w3.org/groups/tf/board-development/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-development",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2602,7 +2716,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
   ],
   "internal": false,
@@ -2622,7 +2739,9 @@
     "href": "https://api.w3.org/groups/tf/board-directors/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-directors",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2655,7 +2774,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
   ],
   "internal": false,
@@ -2675,7 +2797,9 @@
     "href": "https://api.w3.org/groups/tf/board-emergency/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-emergency",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2708,7 +2832,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
   ],
   "internal": false,
@@ -2728,7 +2855,9 @@
     "href": "https://api.w3.org/groups/tf/board-finance/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-finance",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2761,7 +2890,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
   ],
   "internal": false,
@@ -2781,7 +2913,9 @@
     "href": "https://api.w3.org/groups/tf/board-governance/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-governance",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2814,7 +2948,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
   ],
   "internal": false,
@@ -2834,7 +2971,9 @@
     "href": "https://api.w3.org/groups/tf/board-officers/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-officers",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2867,7 +3006,10 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
   ],
   "internal": false,
@@ -2887,7 +3029,9 @@
     "href": "https://api.w3.org/groups/tf/board-personnel/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-personnel",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -2914,6 +3058,8 @@
     "href": "https://api.w3.org/groups/other/board/chairs"
    }
   },
+  "tr-publisher": false,
+  "group-type": "other",
   "identifier": "other/board",
   "services": []
  },
@@ -2965,6 +3111,8 @@
   "type": "working group",
   "start-date": "2011-10-12",
   "end-date": "2026-07-08",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/browser-tools-testing",
   "services": [
    {
@@ -3013,6 +3161,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/bdns",
   "services": [
    {
@@ -3085,6 +3235,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/crdt4rdf",
   "services": [
    {
@@ -3137,6 +3289,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/css4",
   "services": [
    {
@@ -3209,6 +3363,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/csvw",
   "services": [
    {
@@ -3297,6 +3453,8 @@
   "type": "working group",
   "start-date": "1997-02-28",
   "end-date": "2025-01-12",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/css",
   "services": [
    {
@@ -3356,7 +3514,9 @@
     "href": "https://api.w3.org/groups/tf/board-ab-tag-chairs/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/board-ab-tag-chairs",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -3391,6 +3551,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/chem-web-pub",
   "services": [
    {
@@ -3463,6 +3625,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/cndid",
   "services": [
    {
@@ -3552,7 +3716,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -3575,7 +3742,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-clreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-clreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7323",
@@ -3635,6 +3804,8 @@
   "type": "interest group",
   "start-date": "2018-09-20",
   "end-date": "2024-12-30",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/chinese-web",
   "services": [
    {
@@ -3687,6 +3858,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/civics",
   "services": [
    {
@@ -3739,6 +3912,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/cogai",
   "services": [
    {
@@ -3811,6 +3986,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/coga-community",
   "services": [
    {
@@ -3885,7 +4062,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    },
    {
     "id": 83907,
@@ -3934,7 +4114,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31"
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
   ],
   "internal": false,
@@ -3957,7 +4140,9 @@
     "href": "https://api.w3.org/groups/tf/cognitive-a11y-tf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/cognitive-a11y-tf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/1771",
@@ -3997,6 +4182,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/colorweb",
   "services": [
    {
@@ -4077,6 +4264,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/council",
   "services": [
    {
@@ -4141,6 +4330,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/computationalicg",
   "services": [
    {
@@ -4193,6 +4384,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/consent",
   "services": [
    {
@@ -4265,6 +4458,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/cns",
   "services": [
    {
@@ -4337,6 +4532,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/credentials",
   "services": [
    {
@@ -4401,6 +4598,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/credibility",
   "services": [
    {
@@ -4499,7 +4698,10 @@
     },
     "type": "working group",
     "start-date": "2017-05-05",
-    "end-date": "2024-12-31"
+    "end-date": "2024-12-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/dx"
    }
   ],
   "internal": false,
@@ -4522,7 +4724,9 @@
     "href": "https://api.w3.org/groups/tf/dx-dcat/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/dx-dcat",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -4557,6 +4761,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/dpvcg",
   "services": [
    {
@@ -4649,6 +4855,8 @@
   "type": "working group",
   "start-date": "2017-05-05",
   "end-date": "2024-12-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/dx",
   "services": [
    {
@@ -4705,6 +4913,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/dataspaces",
   "services": [
    {
@@ -4793,6 +5003,8 @@
   "type": "working group",
   "start-date": "2019-09-05",
   "end-date": "2026-04-28",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/did",
   "services": [
    {
@@ -4841,6 +5053,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/declarative3d",
   "services": [
    {
@@ -4905,6 +5119,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/design-tokens",
   "services": [
    {
@@ -4997,6 +5213,8 @@
   "type": "working group",
   "start-date": "2009-07-03",
   "end-date": "2026-02-28",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/das",
   "services": [
    {
@@ -5065,6 +5283,8 @@
   "type": "working group",
   "start-date": "2018-07-25",
   "end-date": "2025-05-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/distributed-tracing",
   "services": [
    {
@@ -5125,6 +5345,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/epub3",
   "services": [
    {
@@ -5197,6 +5419,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/expath",
   "services": [
    {
@@ -5273,6 +5497,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/eocred-schema",
   "services": [
    {
@@ -5329,6 +5555,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/reconciliation",
   "services": [
    {
@@ -5401,6 +5629,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/equity",
   "services": [
    {
@@ -5486,7 +5716,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -5509,7 +5742,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-elreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-elreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7472",
@@ -5566,7 +5801,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -5589,7 +5827,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-eurlreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-eurlreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/16862",
@@ -5655,7 +5895,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31"
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
   ],
   "internal": false,
@@ -5675,7 +5918,9 @@
     "href": "https://api.w3.org/groups/tf/fast/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/fast",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/40763",
@@ -5715,6 +5960,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/fed-id",
   "services": [
    {
@@ -5803,6 +6050,8 @@
   "type": "working group",
   "start-date": "2024-03-28",
   "end-date": "2026-03-28",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/fedid",
   "services": [
    {
@@ -5863,6 +6112,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/federated-learning",
   "services": [
    {
@@ -5935,6 +6186,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/fibo",
   "services": [
    {
@@ -5995,6 +6248,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/gpu",
   "services": [
    {
@@ -6091,6 +6346,8 @@
   "type": "working group",
   "start-date": "2020-08-20",
   "end-date": "2024-11-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/gpu",
   "services": [
    {
@@ -6147,6 +6404,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/games",
   "services": [
    {
@@ -6223,6 +6482,8 @@
   "type": "working group",
   "start-date": "2019-06-06",
   "end-date": "2024-12-06",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/htmlwg",
   "services": [
    {
@@ -6267,6 +6528,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/schemed",
   "services": [
    {
@@ -6364,7 +6627,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -6387,7 +6653,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-hlreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-hlreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7845",
@@ -6431,6 +6699,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/humancentricai",
   "services": [
    {
@@ -6483,6 +6753,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/hydra",
   "services": [
    {
@@ -6567,6 +6839,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/immersive-captions",
   "services": [
    {
@@ -6639,6 +6913,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/immersive-web",
   "services": [
    {
@@ -6739,6 +7015,8 @@
   "type": "working group",
   "start-date": "2018-09-24",
   "end-date": "2026-09-25",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/immersive-web",
   "services": [
    {
@@ -6798,6 +7076,8 @@
    }
   },
   "type": "business group",
+  "tr-publisher": false,
+  "group-type": "bg",
   "identifier": "bg/web-adv",
   "services": [
    {
@@ -6887,7 +7167,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -6910,7 +7193,9 @@
     "href": "https://api.w3.org/groups/tf/iip/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/iip",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/14161",
@@ -6954,6 +7239,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/informationarchitecture",
   "services": [
    {
@@ -7026,6 +7313,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/interledger",
   "services": [
    {
@@ -7105,6 +7394,8 @@
   "type": "interest group",
   "start-date": "1998-02-12",
   "end-date": "2027-10-16",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/i18n",
   "services": [
    {
@@ -7169,6 +7460,8 @@
   "type": "working group",
   "start-date": "1998-02-12",
   "end-date": "2027-10-16",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/i18n-core",
   "services": [
    {
@@ -7225,6 +7518,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/ixml",
   "services": [
    {
@@ -7297,6 +7592,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/json-ld",
   "services": [
    {
@@ -7393,6 +7690,8 @@
   "type": "working group",
   "start-date": "2018-06-07",
   "end-date": "2025-01-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/json-ld",
   "services": [
    {
@@ -7441,6 +7740,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/jsxml",
   "services": [
    {
@@ -7506,7 +7807,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -7529,7 +7833,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-jlreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-jlreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/13862",
@@ -7577,6 +7883,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/kg-construct",
   "services": [
    {
@@ -7649,6 +7957,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/lbd",
   "services": [
    {
@@ -7725,6 +8035,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/ld4lt",
   "services": [
    {
@@ -7817,6 +8129,8 @@
   "type": "working group",
   "start-date": "2024-09-09",
   "end-date": "2026-09-08",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/lws",
   "services": [
    {
@@ -7882,7 +8196,10 @@
     },
     "type": "working group",
     "start-date": "2024-09-09",
-    "end-date": "2026-09-08"
+    "end-date": "2026-09-08",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/lws"
    }
   ],
   "internal": false,
@@ -7902,7 +8219,9 @@
     "href": "https://api.w3.org/groups/tf/lws-chairs/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/lws-chairs",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -7959,7 +8278,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
   ],
   "internal": false,
@@ -7982,7 +8304,9 @@
     "href": "https://api.w3.org/groups/tf/low-vision-a11y-tf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/low-vision-a11y-tf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/6146",
@@ -8026,6 +8350,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/maps4html",
   "services": [
    {
@@ -8130,6 +8456,8 @@
   "type": "working group",
   "start-date": "2006-06-28",
   "end-date": "2025-10-13",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/math",
   "services": [
    {
@@ -8276,7 +8604,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31"
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
   ],
   "internal": false,
@@ -8299,7 +8630,9 @@
     "href": "https://api.w3.org/groups/tf/maturity/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/maturity",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/39211",
@@ -8339,6 +8672,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/mcm-jp",
   "services": [
    {
@@ -8427,6 +8762,8 @@
   "type": "working group",
   "start-date": "2019-05-23",
   "end-date": "2025-05-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/media",
   "services": [
    {
@@ -8491,6 +8828,8 @@
   "type": "interest group",
   "start-date": "2011-02-07",
   "end-date": "2025-10-31",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/me",
   "services": [
    {
@@ -8563,6 +8902,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/metaverse-interop",
   "services": [
    {
@@ -8635,6 +8976,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/miniapps",
   "services": [
    {
@@ -8723,6 +9066,8 @@
   "type": "working group",
   "start-date": "2021-01-19",
   "end-date": "2025-10-12",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/miniapps",
   "services": [
    {
@@ -8817,7 +9162,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
   ],
   "internal": false,
@@ -8840,7 +9188,9 @@
     "href": "https://api.w3.org/groups/tf/mobile-a11y-tf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/mobile-a11y-tf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/1785",
@@ -8893,7 +9243,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -8916,7 +9269,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-mlreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-mlreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/15112",
@@ -8960,6 +9315,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webtiming",
   "services": [
    {
@@ -9032,6 +9389,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/music-notation",
   "services": [
    {
@@ -9152,6 +9511,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/nordic-accessibility",
   "services": [
    {
@@ -9204,6 +9565,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/smartcity-nordic",
   "services": [
    {
@@ -9256,6 +9619,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/nordic-data",
   "services": [
    {
@@ -9308,6 +9673,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/n3-dev",
   "services": [
    {
@@ -9400,6 +9767,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/odrl",
   "services": [
    {
@@ -9488,6 +9857,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/ontolex",
   "services": [
    {
@@ -9564,6 +9935,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/ocm",
   "services": [
    {
@@ -9636,6 +10009,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/open-ui",
   "services": [
    {
@@ -9708,6 +10083,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/openactive",
   "services": [
    {
@@ -9804,6 +10181,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/opentrack",
   "services": [
    {
@@ -9897,7 +10276,10 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2025-06-30"
+    "end-date": "2025-06-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
   ],
   "internal": false,
@@ -9917,7 +10299,9 @@
     "href": "https://api.w3.org/groups/tf/pmchairs/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/pmchairs",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/40771",
@@ -9973,6 +10357,8 @@
   "type": "interest group",
   "start-date": "1999-07-08",
   "end-date": "2024-09-30",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/psig",
   "services": [
    {
@@ -10013,6 +10399,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/perma-id",
   "services": [
    {
@@ -10105,6 +10493,8 @@
   "type": "working group",
   "start-date": "2012-11-09",
   "end-date": "2025-11-07",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/pointer-events",
   "services": [
    {
@@ -10187,7 +10577,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2024-12-31"
+    "end-date": "2024-12-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
   ],
   "internal": false,
@@ -10210,7 +10603,9 @@
     "href": "https://api.w3.org/groups/tf/pdf-aam/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/pdf-aam",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -10261,6 +10656,8 @@
   "type": "working group",
   "start-date": "2021-09-14",
   "end-date": "2025-10-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/png",
   "services": [
    {
@@ -10313,6 +10710,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/pwe",
   "services": [
    {
@@ -10385,6 +10784,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/privacycg",
   "services": [
    {
@@ -10473,6 +10874,8 @@
   "type": "interest group",
   "start-date": "2012-02-17",
   "end-date": "2024-02-29",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/privacy",
   "services": [
    {
@@ -10561,7 +10964,10 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/tag/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/tag"
    }
   ],
   "internal": false,
@@ -10584,7 +10990,9 @@
     "href": "https://api.w3.org/groups/tf/tag-privacy/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/tag-privacy",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -10635,6 +11043,8 @@
   "type": "working group",
   "start-date": "2024-10-11",
   "end-date": "2026-10-08",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/privacy",
   "services": [
    {
@@ -10679,6 +11089,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/patcg",
   "services": [
    {
@@ -10762,6 +11174,8 @@
    }
   },
   "type": "business group",
+  "tr-publisher": false,
+  "group-type": "bg",
   "identifier": "bg/publishingbg",
   "services": [
    {
@@ -10826,6 +11240,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/publishingcg",
   "services": [
    {
@@ -10914,6 +11330,8 @@
   "type": "working group",
   "start-date": "2023-06-20",
   "end-date": "2025-06-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/pm",
   "services": [
    {
@@ -10983,7 +11401,10 @@
       "href": "https://api.w3.org/groups/bg/publishingbg/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/publishingbg"
    },
    {
     "id": 110591,
@@ -11016,7 +11437,10 @@
       "href": "https://api.w3.org/groups/cg/publishingcg/participations"
      }
     },
-    "type": "community group"
+    "type": "community group",
+    "tr-publisher": false,
+    "group-type": "cg",
+    "identifier": "cg/publishingcg"
    },
    {
     "id": 144835,
@@ -11065,7 +11489,10 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2025-06-30"
+    "end-date": "2025-06-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
   ],
   "internal": false,
@@ -11085,7 +11512,9 @@
     "href": "https://api.w3.org/groups/tf/publ-sc/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/publ-sc",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/6974",
@@ -11145,6 +11574,8 @@
   "type": "working group",
   "start-date": "2022-07-21",
   "end-date": "2024-11-20",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/rch",
   "services": [
    {
@@ -11210,7 +11641,10 @@
     },
     "type": "working group",
     "start-date": "2022-07-21",
-    "end-date": "2024-11-20"
+    "end-date": "2024-11-20",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rch"
    }
   ],
   "internal": false,
@@ -11230,7 +11664,9 @@
     "href": "https://api.w3.org/groups/tf/rch-wg-chairs/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/rch-wg-chairs",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -11265,6 +11701,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/rdfjs",
   "services": [
    {
@@ -11341,6 +11779,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/r2c2",
   "services": [
    {
@@ -11413,6 +11853,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/rsp",
   "services": [
    {
@@ -11489,6 +11931,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/rdfsurfaces",
   "services": [
    {
@@ -11561,6 +12005,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/rdf-tests",
   "services": [
    {
@@ -11633,6 +12079,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/rdf-dev",
   "services": [
    {
@@ -11751,7 +12199,10 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2024-11-28"
+    "end-date": "2024-11-28",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
   ],
   "internal": false,
@@ -11771,7 +12222,9 @@
     "href": "https://api.w3.org/groups/tf/rdf-star-editors/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/rdf-star-editors",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -11828,7 +12281,10 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2024-11-28"
+    "end-date": "2024-11-28",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
   ],
   "internal": false,
@@ -11848,7 +12304,9 @@
     "href": "https://api.w3.org/groups/tf/rdf-star-semantics/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/rdf-star-semantics",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -11905,7 +12363,10 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2024-11-28"
+    "end-date": "2024-11-28",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
   ],
   "internal": false,
@@ -11925,7 +12386,9 @@
     "href": "https://api.w3.org/groups/tf/rdf-star-ucr/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/rdf-star-ucr",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -11981,7 +12444,10 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2024-11-28"
+    "end-date": "2024-11-28",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
   ],
   "internal": false,
@@ -12001,7 +12467,9 @@
     "href": "https://api.w3.org/groups/tf/rdf-star-chairs/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/rdf-star-chairs",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -12052,6 +12520,8 @@
   "type": "working group",
   "start-date": "2022-08-29",
   "end-date": "2024-11-28",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/rdf-star",
   "services": [
    {
@@ -12100,6 +12570,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/rumcg",
   "services": [
    {
@@ -12152,6 +12624,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/realestate",
   "services": [
    {
@@ -12226,7 +12700,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31"
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
   ],
   "internal": false,
@@ -12249,7 +12726,9 @@
     "href": "https://api.w3.org/groups/tf/rqtf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/rqtf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7943",
@@ -12289,6 +12768,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/md-odrl-profile",
   "services": [
    {
@@ -12369,6 +12850,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/shacl",
   "services": [
    {
@@ -12461,6 +12944,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/sparql-dev",
   "services": [
    {
@@ -12562,7 +13047,10 @@
     },
     "type": "working group",
     "start-date": "1998-07-24",
-    "end-date": "2026-06-30"
+    "end-date": "2026-06-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/svg"
    },
    {
     "id": 83726,
@@ -12611,7 +13099,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2024-12-31"
+    "end-date": "2024-12-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
   ],
   "internal": false,
@@ -12631,7 +13122,9 @@
     "href": "https://api.w3.org/groups/tf/svg-a11y/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/svg-a11y",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/6238",
@@ -12687,6 +13180,8 @@
   "type": "working group",
   "start-date": "1998-07-24",
   "end-date": "2026-06-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/svg",
   "services": [
    {
@@ -12755,6 +13250,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/architypes",
   "services": [
    {
@@ -12811,6 +13308,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/schemabibex",
   "services": [
    {
@@ -12867,6 +13366,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/schema-course-extend",
   "services": [
    {
@@ -12923,6 +13424,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/iotschema",
   "services": [
    {
@@ -12975,6 +13478,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/schemaorg",
   "services": [
    {
@@ -13055,6 +13560,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/schemaorg4datasets",
   "services": [
    {
@@ -13111,6 +13618,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/sccg",
   "services": [
    {
@@ -13183,6 +13692,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webscreens",
   "services": [
    {
@@ -13275,6 +13786,8 @@
   "type": "working group",
   "start-date": "2014-10-13",
   "end-date": "2026-01-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/secondscreen",
   "services": [
    {
@@ -13331,6 +13844,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/swag",
   "services": [
    {
@@ -13383,6 +13898,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/htmlvoc",
   "services": [
    {
@@ -13471,6 +13988,8 @@
   "type": "working group",
   "start-date": "2017-08-03",
   "end-date": "2025-01-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/service-workers",
   "services": [
    {
@@ -13523,6 +14042,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/shex",
   "services": [
    {
@@ -13595,6 +14116,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/silver",
   "services": [
    {
@@ -13693,7 +14216,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
   ],
   "internal": false,
@@ -13716,7 +14242,9 @@
     "href": "https://api.w3.org/groups/tf/silver-tf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/silver-tf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/6450",
@@ -13764,6 +14292,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/socialcg",
   "services": [
    {
@@ -13840,6 +14370,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/solid",
   "services": [
    {
@@ -13949,7 +14481,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -13972,7 +14507,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-sealreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-sealreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/14514",
@@ -14032,6 +14569,8 @@
   "type": "working group",
   "start-date": "2015-01-06",
   "end-date": "2024-04-04",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/sdw",
   "services": [
    {
@@ -14100,6 +14639,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/speced-cg",
   "services": [
    {
@@ -14198,7 +14739,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31"
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
   ],
   "internal": false,
@@ -14221,7 +14765,9 @@
     "href": "https://api.w3.org/groups/tf/pronunciation-tf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/pronunciation-tf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/15551",
@@ -14265,6 +14811,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/sport-schema",
   "services": [
    {
@@ -14317,6 +14865,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/sustainability",
   "services": [
    {
@@ -14373,6 +14923,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/sustyweb",
   "services": [
    {
@@ -14465,6 +15017,8 @@
   "type": "interest group",
   "start-date": "2024-10-29",
   "end-date": "2026-10-31",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/sustainableweb",
   "services": [
    {
@@ -14505,6 +15059,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/sync-media-pub",
   "services": [
    {
@@ -14577,6 +15133,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/treecg",
   "services": [
    {
@@ -14649,6 +15207,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/talent-signal",
   "services": [
    {
@@ -14699,6 +15259,8 @@
     "href": "https://api.w3.org/groups/other/tag/teamcontacts"
    }
   },
+  "tr-publisher": true,
+  "group-type": "other",
   "identifier": "other/tag",
   "services": [
    {
@@ -14771,6 +15333,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/tdmrep",
   "services": [
    {
@@ -14843,6 +15407,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/tourismdata",
   "services": [
    {
@@ -14895,6 +15461,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/tmcg",
   "services": [
    {
@@ -14980,7 +15548,10 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
   ],
   "internal": false,
@@ -15003,7 +15574,9 @@
     "href": "https://api.w3.org/groups/tf/i18n-tlreq/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/i18n-tlreq",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/7389",
@@ -15063,6 +15636,8 @@
   "type": "working group",
   "start-date": "2008-08-15",
   "end-date": "2025-04-07",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/timed-text",
   "services": [
    {
@@ -15124,7 +15699,10 @@
       "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/autowebplatform"
    },
    {
     "id": 76043,
@@ -15174,7 +15752,10 @@
     },
     "type": "working group",
     "start-date": "2015-02-03",
-    "end-date": "2023-11-30"
+    "end-date": "2023-11-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/auto"
    },
    {
     "id": 102593,
@@ -15224,7 +15805,10 @@
     },
     "type": "interest group",
     "start-date": "2017-10-05",
-    "end-date": "2021-06-30"
+    "end-date": "2021-06-30",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/sdw"
    }
   ],
   "internal": false,
@@ -15244,7 +15828,9 @@
     "href": "https://api.w3.org/groups/tf/transportation-ont-cc/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/transportation-ont-cc",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/27629",
@@ -15284,6 +15870,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/unhosted",
   "services": [
    {
@@ -15368,6 +15956,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/robotstxt",
   "services": [
    {
@@ -15436,6 +16026,8 @@
   "type": "working group",
   "start-date": "2017-04-14",
   "end-date": "2026-10-11",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/vc",
   "services": [
    {
@@ -15505,7 +16097,10 @@
     },
     "type": "working group",
     "start-date": "2017-04-14",
-    "end-date": "2026-10-11"
+    "end-date": "2026-10-11",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/vc"
    }
   ],
   "internal": false,
@@ -15525,7 +16120,9 @@
     "href": "https://api.w3.org/groups/tf/vc-wg-chairs/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/vc-wg-chairs",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/33951",
@@ -15570,7 +16167,10 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/ab/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/ab"
    }
   ],
   "internal": false,
@@ -15593,7 +16193,9 @@
     "href": "https://api.w3.org/groups/tf/vision/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/vision",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -15628,6 +16230,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/voiceinteraction",
   "services": [
    {
@@ -15700,6 +16304,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/w3process",
   "services": [
    {
@@ -15802,7 +16408,10 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31"
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
   ],
   "internal": false,
@@ -15825,7 +16434,9 @@
     "href": "https://api.w3.org/groups/tf/personalization-tf/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/personalization-tf",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/12215",
@@ -15884,6 +16495,8 @@
   "type": "interest group",
   "start-date": "2001-06-18",
   "end-date": "2024-12-31",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/wai",
   "services": [
    {
@@ -15946,7 +16559,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
   ],
   "internal": false,
@@ -15969,7 +16585,9 @@
     "href": "https://api.w3.org/groups/tf/wcag2x-backlog/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/wcag2x-backlog",
+  "group-type": "tf",
   "services": []
  },
  {
@@ -16026,7 +16644,10 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
   ],
   "internal": false,
@@ -16049,7 +16670,9 @@
     "href": "https://api.w3.org/groups/tf/wcag2ict/chairs"
    }
   },
+  "tr-publisher": false,
   "identifier": "tf/wcag2ict",
+  "group-type": "tf",
   "services": [
    {
     "href": "https://api.w3.org/services/1868",
@@ -16105,6 +16728,8 @@
   "type": "interest group",
   "start-date": "2019-05-16",
   "end-date": "2025-12-31",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/web-networks",
   "services": [
    {
@@ -16165,6 +16790,8 @@
   "type": "working group",
   "start-date": "2011-09-07",
   "end-date": "2026-04-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webappsec",
   "services": [
    {
@@ -16233,6 +16860,8 @@
   "type": "working group",
   "start-date": "2019-05-14",
   "end-date": "2026-02-28",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webapps",
   "services": [
    {
@@ -16293,6 +16922,8 @@
   "type": "working group",
   "start-date": "2016-02-08",
   "end-date": "2026-04-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webauthn",
   "services": [
    {
@@ -16337,6 +16968,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/web-bluetooth",
   "services": [
    {
@@ -16413,6 +17046,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webcomponents",
   "services": [
    {
@@ -16501,6 +17136,8 @@
   "type": "working group",
   "start-date": "2021-06-11",
   "end-date": "2025-09-26",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webediting",
   "services": [
    {
@@ -16557,6 +17194,8 @@
   "type": "working group",
   "start-date": "2010-03-17",
   "end-date": "2025-03-28",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webfonts",
   "services": [
    {
@@ -16605,6 +17244,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webhistory",
   "services": [
    {
@@ -16661,6 +17302,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webmachinelearning",
   "services": [
    {
@@ -16749,6 +17392,8 @@
   "type": "working group",
   "start-date": "2021-04-20",
   "end-date": "2025-04-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webmachinelearning",
   "services": [
    {
@@ -16797,6 +17442,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webmediaapi",
   "services": [
    {
@@ -16909,6 +17556,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/texttracks",
   "services": [
    {
@@ -16993,6 +17642,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/web-nfc",
   "services": [
    {
@@ -17085,6 +17736,8 @@
   "type": "interest group",
   "start-date": "2019-04-17",
   "end-date": "2025-03-14",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/securepay",
   "services": [
    {
@@ -17149,6 +17802,8 @@
   "type": "working group",
   "start-date": "2015-10-21",
   "end-date": "2025-07-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/payments",
   "services": [
    {
@@ -17229,6 +17884,8 @@
   "type": "working group",
   "start-date": "2010-08-18",
   "end-date": "2025-12-01",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webperf",
   "services": [
    {
@@ -17297,6 +17954,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/wicg",
   "services": [
    {
@@ -17389,6 +18048,8 @@
   "type": "working group",
   "start-date": "2011-05-05",
   "end-date": "2026-09-30",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webrtc",
   "services": [
    {
@@ -17445,6 +18106,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/web-thing-protocol",
   "services": [
    {
@@ -17517,6 +18180,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/wot",
   "services": [
    {
@@ -17605,6 +18270,8 @@
   "type": "interest group",
   "start-date": "2015-01-21",
   "end-date": "2026-05-19",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/wot",
   "services": [
    {
@@ -17661,6 +18328,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/wot-jp",
   "services": [
    {
@@ -17749,6 +18418,8 @@
   "type": "working group",
   "start-date": "2016-12-27",
   "end-date": "2025-10-02",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/wot",
   "services": [
    {
@@ -17821,6 +18492,8 @@
   "type": "interest group",
   "start-date": "2024-08-07",
   "end-date": "2026-07-31",
+  "tr-publisher": true,
+  "group-type": "ig",
   "identifier": "ig/smart-cities",
   "services": [
    {
@@ -17865,6 +18538,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/wintercg",
   "services": [
    {
@@ -17941,6 +18616,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webassembly",
   "services": [
    {
@@ -18033,6 +18710,8 @@
   "type": "working group",
   "start-date": "2017-08-03",
   "end-date": "2025-11-29",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/wasm",
   "services": [
    {
@@ -18081,6 +18760,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webauthn-adoption",
   "services": [
    {
@@ -18157,6 +18838,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webdx",
   "services": [
    {
@@ -18229,6 +18912,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webextensions",
   "services": [
    {
@@ -18317,6 +19002,8 @@
   "type": "working group",
   "start-date": "2020-09-08",
   "end-date": "2025-12-31",
+  "tr-publisher": true,
+  "group-type": "wg",
   "identifier": "wg/webtransport",
   "services": [
    {
@@ -18369,6 +19056,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webview",
   "services": [
    {
@@ -18441,6 +19130,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/webtoon-meta",
   "services": [
    {
@@ -18493,6 +19184,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/xformsusers",
   "services": [
    {
@@ -18553,6 +19246,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/xproc-next",
   "services": [
    {
@@ -18625,6 +19320,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/xslt-40",
   "services": [
    {
@@ -18697,6 +19394,8 @@
    }
   },
   "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
   "identifier": "cg/nostr",
   "services": [
    {
