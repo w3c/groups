@@ -23,7 +23,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "An extension to the DOM event pattern to allow authors to disable support for preventDefault",
   "isArchived": true,
   "isPrivate": false,
@@ -63,7 +62,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Introduce security controls to same origin realms in web applications",
   "isArchived": false,
   "isPrivate": false,
@@ -84,7 +82,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Spec and explainer for the Scroll Anchoring web platform feature.",
   "isArchived": true,
   "isPrivate": false,
@@ -99,7 +96,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "This repository contains the data related to the new proposed Web API -- Managed Device Web API.",
   "isArchived": false,
   "isPrivate": false,
@@ -199,7 +195,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": " 👋 Ask your questions here! 👋",
   "isArchived": false,
   "isPrivate": false,
@@ -239,7 +234,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Give developers the ability to embed third party HTML documents inside a new and ephemeral context. In return, COEP embedding rules can be relaxed. Thanks to anonymous iframe, developers using COEP can now embed third party content that do not.",
   "isArchived": false,
   "isPrivate": false,
@@ -432,7 +426,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Bundles of multiple resources, to improve loading JS and the Web.",
   "isArchived": false,
   "isPrivate": false,
@@ -473,7 +466,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -512,7 +504,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "An API to allow developers transfer the ability to use restricted APIs to any target window in the frame tree.",
   "isArchived": false,
   "isPrivate": false,
@@ -615,7 +606,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "https://wicg.github.io/conditional-focus/",
   "isArchived": false,
   "isPrivate": false,
@@ -636,7 +626,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "API for constructing CSS stylesheet objects",
   "isArchived": false,
   "isPrivate": false,
@@ -717,7 +706,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Customise browser native media controls buttons.",
   "isArchived": false,
   "isPrivate": false,
@@ -779,7 +767,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Use cases and requirements for standardizing element queries.",
   "isArchived": true,
   "isPrivate": false,
@@ -903,7 +890,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Former home of the custom state pseudo-class feature",
   "isArchived": true,
   "isPrivate": false,
@@ -1041,7 +1027,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1061,7 +1046,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Direct Sockets API for the web platform",
   "isArchived": false,
   "isPrivate": false,
@@ -1499,7 +1483,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Moved to https://github.com/w3c/geolocation-sensor",
   "isArchived": true,
   "isPrivate": false,
@@ -1610,7 +1593,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Payment Request proposal",
   "isArchived": true,
   "isPrivate": false,
@@ -1629,7 +1611,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "This repo is being kept for historical purposes. ",
   "isArchived": true,
   "isPrivate": false,
@@ -1661,7 +1642,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A proposal for an idle detection and notification API for the web",
   "isArchived": false,
   "isPrivate": false,
@@ -1761,7 +1741,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Polyfill for the inert attribute and property.",
   "isArchived": false,
   "isPrivate": false,
@@ -1863,7 +1842,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A place for browsers and web developers to collaborate on user agent interventions.",
   "isArchived": true,
   "isPrivate": false,
@@ -2024,7 +2002,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "[On hold] A proposal for an async key/value storage API for the web",
   "isArchived": true,
   "isPrivate": false,
@@ -2039,7 +2016,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Wouldn't it be nice if `Accept-Language` was a client hint?",
   "isArchived": true,
   "isPrivate": false,
@@ -2301,7 +2277,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Experimenting with being explicit about user modality",
   "isArchived": true,
   "isPrivate": false,
@@ -2460,7 +2435,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "[On hold for now] A mechanism for origins to set their origin-wide configuration in a central location",
   "isArchived": false,
   "isPrivate": false,
@@ -2571,7 +2545,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A better beaconing API",
   "isArchived": false,
   "isPrivate": false,
@@ -2606,7 +2579,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "performance.measureMemory API",
   "isArchived": false,
   "isPrivate": false,
@@ -2744,7 +2716,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2785,7 +2756,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Privacy-Preserving Ads",
   "isArchived": false,
   "isPrivate": false,
@@ -3079,7 +3049,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -3342,7 +3311,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A simple starter kit for incubations",
   "isArchived": false,
   "isPrivate": false,
@@ -3384,7 +3352,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Explainer showcasing a new web storage API, NativeIO",
   "isArchived": false,
   "isPrivate": false,
@@ -3432,7 +3399,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "A proposal for translator and language detector APIs",
   "isArchived": false,
   "isPrivate": false,
@@ -3551,7 +3517,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "UUID V4",
   "isArchived": true,
   "isPrivate": false,
@@ -3626,7 +3591,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
@@ -3667,7 +3631,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Web App Launch Handler",
   "isArchived": false,
   "isPrivate": false,
@@ -3829,7 +3792,6 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "",
   "description": "Web API for accessing Human Interface Devices (HID)",
   "isArchived": false,
   "isPrivate": false,
