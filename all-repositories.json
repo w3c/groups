@@ -21063,6 +21063,25 @@
   }
  },
  {
+  "name": "fast-data",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    83907
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "federated-learning-cg",
   "owner": {
    "login": "w3c"
