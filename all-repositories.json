@@ -28478,6 +28478,15 @@
   }
  },
  {
+  "name": "securityig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Security Interest Group",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "selection-api",
   "owner": {
    "login": "w3c"
