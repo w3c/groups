@@ -19,5 +19,25 @@
     "project"
    ]
   }
+ },
+ {
+  "name": "sustainableweb-wsg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "home of Web Sustainability Guidelines ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/sustainableweb"
+   ],
+   "contacts": [
+    "tzviya"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  }
 ]
