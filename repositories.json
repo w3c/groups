@@ -19772,6 +19772,25 @@
   }
  },
  {
+  "name": "fast-data",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "federated-learning-cg",
   "owner": {
    "login": "w3c"
@@ -25961,6 +25980,26 @@
   },
   "homepageUrl": "https://www.w3.org/groups/ig/sustainableweb/",
   "description": "Repo for the W3C Sustainable Web Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/sustainableweb"
+   ],
+   "contacts": [
+    "tzviya"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
+  "name": "sustainableweb-wsg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "home of Web Sustainability Guidelines ",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
