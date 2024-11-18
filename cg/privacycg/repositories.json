@@ -84,30 +84,6 @@
   }
  },
  {
-  "name": "gpc-spec",
-  "owner": {
-   "login": "privacycg"
-  },
-  "homepageUrl": "https://privacycg.github.io/gpc-spec/",
-  "description": "Global Privacy Control Specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/privacycg"
-   ],
-   "contacts": [
-    "hober",
-    "martinthomson",
-    "erik-anderson",
-    "weiler"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "is-logged-in",
   "owner": {
    "login": "privacycg"
