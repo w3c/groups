@@ -43,6 +43,27 @@
   }
  },
  {
+  "name": "gpc",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/gpc/",
+  "description": "Global Privacy Control Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "ping-security-questionnaire",
   "owner": {
    "login": "w3c"
