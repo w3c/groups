@@ -2,9 +2,9 @@
  "id": 63991,
  "name": "Web of Things Community Group",
  "is_closed": false,
- "description": "The goal of Web of Things Community Group is to accelerate the community activities around the recommendations and notes published by the WoT Working Group and Interest Group.\r\n",
+ "description": "The goal of Web of Things Community Group is to accelerate the community activities around the recommendations and notes published by the WoT Working Group and Interest Group. This group does not publish Specifications.",
  "shortname": "wot",
- "spec-publisher": true,
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
