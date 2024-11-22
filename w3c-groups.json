@@ -3513,7 +3513,7 @@
   },
   "type": "working group",
   "start-date": "1997-02-28",
-  "end-date": "2025-01-12",
+  "end-date": "2025-03-12",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/css",
@@ -10642,7 +10642,7 @@
   "id": 159734,
   "name": "Portable Document Format (PDF) Accessibility APIs Mapping (AAM)",
   "is_closed": false,
-  "description": "provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
+  "description": "Provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
   "shortname": "pdf-aam",
   "members": [
    {
