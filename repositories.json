@@ -15915,6 +15915,8 @@
   "owner": {
    "login": "w3c-cg"
   },
+  "homepageUrl": "https://www.w3.org/community/tmcg/",
+  "description": "Repository for the W3C Threat Modeling Community Group (TMCG)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -25376,6 +25378,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://www.w3.org/groups/ig/security/",
   "description": "Security Interest Group",
   "isArchived": false,
   "isPrivate": false,
