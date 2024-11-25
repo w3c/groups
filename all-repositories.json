@@ -28484,7 +28484,18 @@
   },
   "description": "Security Interest Group",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49310
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
  },
  {
   "name": "selection-api",
