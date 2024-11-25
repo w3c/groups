@@ -25372,6 +25372,26 @@
   }
  },
  {
+  "name": "securityig",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Security Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
   "name": "selection-api",
   "owner": {
    "login": "w3c"
