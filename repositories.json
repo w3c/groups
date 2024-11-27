@@ -15774,6 +15774,26 @@
   }
  },
  {
+  "name": "consentcg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/consent"
+   ],
+   "contacts": [
+    "coolharsh55",
+    "soheil-human"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "dataspaces",
   "owner": {
    "login": "w3c-cg"
@@ -18030,26 +18050,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "consentcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/consent"
-   ],
-   "contacts": [
-    "coolharsh55",
-    "soheil-human"
-   ],
-   "repo-type": [
-    "cg-report"
    ]
   }
  },
