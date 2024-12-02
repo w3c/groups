@@ -23902,9 +23902,9 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "homepageUrl": "https://www.w3.org/TR/security-privacy-questionnaire/",
   "description": "A security/privacy review questionnaire for W3C specs",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -31778,7 +31778,15 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "other/tag"
+    "other/tag",
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen",
+    "ylafon"
+   ],
+   "repo-type": [
+    "note"
    ]
   }
  },
