@@ -431,7 +431,15 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "other/tag"
+    "other/tag",
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen",
+    "ylafon"
+   ],
+   "repo-type": [
+    "note"
    ]
   }
  },
