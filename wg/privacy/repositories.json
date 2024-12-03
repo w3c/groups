@@ -1,5 +1,25 @@
 [
  {
+  "name": "adding-permissions",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "credential-considerations",
   "owner": {
    "login": "w3c"
