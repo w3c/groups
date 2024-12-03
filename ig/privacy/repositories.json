@@ -1,25 +1,5 @@
 [
  {
-  "name": "adding-permissions",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "ping",
   "owner": {
    "login": "w3c"
