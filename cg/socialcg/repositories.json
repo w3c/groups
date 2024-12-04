@@ -228,6 +228,20 @@
   }
  },
  {
+  "name": "groups",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Repository for the Groups Task Force of the SocialCG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "meetings",
   "owner": {
    "login": "swicg"
