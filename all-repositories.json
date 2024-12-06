@@ -29373,7 +29373,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://www.w3.org/groups/ig/sustainableweb/",
-  "description": "Repo for the W3C Sustainable Web Interest Group",
+  "description": "W3C Sustainable Web Interest Group",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -29393,7 +29393,8 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "home of Web Sustainability Guidelines ",
+  "homepageUrl": "https://w3c.github.io/sustainableweb-wsg/",
+  "description": "Web Sustainability Guidelines (WSG)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
