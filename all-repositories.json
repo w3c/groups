@@ -5576,7 +5576,7 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -5681,7 +5681,7 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -5791,7 +5791,7 @@
    "login": "WebAssembly"
   },
   "homepageUrl": "https://webassembly.github.io/feature-detection/",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -7132,7 +7132,7 @@
    "login": "WebAssembly"
   },
   "description": "Library for interpreting / debugging wasm code",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
