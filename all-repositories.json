@@ -18924,6 +18924,27 @@
   }
  },
  {
+  "name": "cid",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/cid/",
+  "description": "Controllable Identifier Documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "cities",
   "owner": {
    "login": "w3c"
@@ -19098,27 +19119,6 @@
     "siusin"
    ],
    "policy": "restricted"
-  }
- },
- {
-  "name": "controller-document",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/controller-document/",
-  "description": "Controller Documents",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    98922
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
   }
  },
  {
