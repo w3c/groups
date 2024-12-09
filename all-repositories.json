@@ -37070,12 +37070,7 @@
   },
   "description": "Blog posts (in progress and published) for W3C's Privacy Interest Group (PING)",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "font-anti-fingerprinting",
@@ -37084,12 +37079,7 @@
   },
   "description": "A system for preventing font fingerprinting",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "font-fp-protection-browser-hinting",
@@ -37098,12 +37088,7 @@
   },
   "description": "A proposal for preventing font fingerprinting through browser hinting and font-opt-in.",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "privacy-mode",
@@ -37112,12 +37097,7 @@
   },
   "description": "Draft of a possible \"privacy mode\" spec / note.",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "privacy-request",
@@ -37148,12 +37128,7 @@
   "homepageUrl": "https://w3cping.github.io/privacy-threat-model",
   "description": "A target privacy threat model for the Web",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "research",
@@ -37162,12 +37137,7 @@
   },
   "description": "W3C Privacy Interest Group",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "security-questionnaire",
@@ -37177,12 +37147,7 @@
   "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
   "description": "See the w3ctag repo for the published version - and file issues there",
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "server-declaration",
@@ -37190,12 +37155,7 @@
    "login": "w3cping"
   },
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "storage-policy",
@@ -37203,12 +37163,7 @@
    "login": "w3cping"
   },
   "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/privacy"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "tracking-issues",
