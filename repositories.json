@@ -4789,26 +4789,6 @@
   }
  },
  {
-  "name": "translation-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "A proposal for translator and language detector APIs",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "trust-token-api",
   "owner": {
    "login": "WICG"
@@ -5317,27 +5297,6 @@
    ],
    "contacts": [
     "travisleithead"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "writing-assistance-apis",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/writing-assistance-apis/",
-  "description": "A proposal for writing assistance web APIs: summarizer, writer, and rewriter",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
    ],
    "repo-type": [
     "cg-report"
@@ -32139,6 +32098,26 @@
   }
  },
  {
+  "name": "translation-api",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "A proposal for translator and language detector APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webmachinelearning-ethics",
   "owner": {
    "login": "webmachinelearning"
@@ -32264,6 +32243,27 @@
   "w3cjson": {
    "group": [
     "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "writing-assistance-apis",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://wicg.github.io/writing-assistance-apis/",
+  "description": "A proposal for writing assistance web APIs: summarizer, writer, and rewriter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
