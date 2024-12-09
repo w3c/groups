@@ -1,9 +1,10 @@
 {
  "id": 52497,
  "name": "Privacy Interest Group",
- "is_closed": false,
+ "is_closed": true,
  "description": "The mission of the Privacy Interest Group is to improve privacy on the Web by advising groups developing standards on how to avoid and mitigate privacy issues with their technologies. PING also suggests changes to existing standards and technologies to improve the privacy of existing systems. Finally, PING makes recommendations to the W3C Advisory Committee and the W3C TAG about whether a proposed standard would be beneficial or harmful for privacy on the web.",
  "shortname": "privacy",
+ "closed_date": "2024-12-06",
  "discr": "w3cgroup",
  "_links": {
   "self": {
@@ -48,55 +49,5 @@
  "end-date": "2024-02-29",
  "tr-publisher": true,
  "group-type": "ig",
- "identifier": "ig/privacy",
- "services": [
-  {
-   "href": "https://api.w3.org/services/13779",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/17285",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/17286",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3cping/",
-    "shortdesc": "w3cping github",
-    "longdesc": "w3cping github repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17286"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17286/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/25910",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/40764",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/40765",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/43839",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/43840",
-   "title": "Issue Tracking"
-  }
- ]
+ "identifier": "ig/privacy"
 }
