@@ -515,20 +515,6 @@
   }
  },
  {
-  "name": "wg-charter",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "description": "The repository for the working group charter",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ]
-  }
- },
- {
   "name": "workshop",
   "owner": {
    "login": "kg-construct"
