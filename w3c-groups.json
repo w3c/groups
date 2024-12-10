@@ -4414,60 +4414,6 @@
   ]
  },
  {
-  "id": 148595,
-  "name": "Computational Intelligence Community Group",
-  "is_closed": false,
-  "description": "The Computational Intelligence Community Group's main objective is to promote engagement from members of the Computational Intelligence Research and Development community and the broader ecosystem, aiming to mold the Web's foundation for Computational Intelligence as a Service (CIaaS). The group serves as a conduit for dialogue, enabling mutual feedback between the CIaaS community and the W3C.\r\n\r\nThe group's fundamental operation revolves around nurturing the acceptance and ongoing evolution of pertinent W3C Working Groups, such as Machine Learning, Ontology, Dataset, and WoT. The primary collaboration will be creating use cases and adopting emerging technologies related to the CIaaS ecosystem.\r\n\r\nThe Community Group (CG) works closely with members, chapters to support additional operations that help guide the Web to its full potential for CIaaS Services. These operations include events, webinars, training, marketing, and promotional activities.\r\n\r\nThe CG encompasses Product R&amp;D teams, CIaaS service providers, end-users (developers, data scientists, startups, and corporations), regulatory entities overseeing service usage and application; Platforms supplying the infrastructure and tools required to execute CIaaS; Machine learning frameworks that are essential components of the CIaaS; Specific product applications or services available through CIaaS; and the AI and Machine Learning Community.\r\n\r\nThis group aims to release W3C Community Group Reports, suggesting Use Cases and Specifications for integration into existing and forthcoming Standards.",
-  "shortname": "computationalicg",
-  "spec-publisher": false,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/computationalicg"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/computationalicg/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/computationalicg/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/computationalicg/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/computationalicg/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/computationalicg/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/computationalicg/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/computationalicg",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43830",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/43831",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/43832",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43833",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
   "id": 127555,
   "name": "Consent Community Group",
   "is_closed": false,
@@ -4535,80 +4481,6 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/33290/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
-  "id": 135891,
-  "name": "Consent Name System Community Group",
-  "is_closed": false,
-  "description": "Our mission: design and build the 3rd generation of the CNS to be deployed globally as a free commons, a sibling to the DNS.\r\nOur scope: a hyper-cube bitmap that contains 1's and 0's for ALL GLEIF (businesses/agencies), Jurisdictions, and Legal Uses of Data, set initially by jurisdictions, then businesses/agencies, and finally by data subjects.\r\nOur deliverables: essential documents and code to stand-up a working CNS as an open source server. Gen 2 docs and video: https://bit.ly/FalconCNS ",
-  "shortname": "cns",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/cns"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/cns/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/cns/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/cns/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/cns/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/cns/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/cns/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/cns",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/33330",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/33331",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/33332",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/33333",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43851",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/privacycoop/cns-commons",
-     "shortdesc": "CNS GitHub Repo",
-     "longdesc": "CNS GitHub Repo",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/43851"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/43851/groups"
       }
      }
     }
@@ -5133,72 +5005,6 @@
    {
     "href": "https://api.w3.org/services/25879",
     "title": "Issue Tracking"
-   }
-  ]
- },
- {
-  "id": 47948,
-  "name": "Declarative 3D for the Web Architecture Community Group",
-  "is_closed": false,
-  "description": "The mission of the Declarative 3D for the Web Architecture Community Group is to determine the requirements, options, and use cases for an integration of interactive 3D graphics capabilities into the W3C technology stack. This group is aimed to extract core features out of the requirements as foundation to propose feasible technical solutions. These should cover the majority of 3D use cases for the Web - but not necessarily all of them. There are upcoming open (e.g., WebGL) and proprietary (e.g., Adobe) proposals for imperative graphics APIs in the Web context but we are missing an easy way to add interactive high-level declarative 3D objects to the HTML-DOM to allow anyone to easily create, share, and experience interactive 3D graphics - with possibly wide ranging effects similar to those caused by the broad availability of video on the Web. The goal of this CG is to evaluate the necessary requirements for a successful standardization of a declarative approach to interactive 3D graphics as part of HTML documents.",
-  "shortname": "declarative3d",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/declarative3d"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/declarative3d/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/declarative3d/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/declarative3d/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/declarative3d/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/declarative3d/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/declarative3d/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/declarative3d",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/335",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/339",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/341",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/342",
-    "title": "Wiki"
-   },
-   {
-    "href": "https://api.w3.org/services/410",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/1890",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/1891",
-    "title": "Mailing List"
    }
   ]
  },
@@ -7824,60 +7630,6 @@
   ]
  },
  {
-  "id": 152176,
-  "name": "JSX as markup language Community Group",
-  "is_closed": false,
-  "description": "The proposal is that jsx be implemented as a dynamic markup language for the web since just HTML + DOM are still not enough to create applications like the ones we currently build using frameworks.\r\n\r\nWith JSX updating conventional HTML ideas to create better-designed static websites and using dynamic data structures, with repetition loops and adding event hooks more easily, the group's idea would be to bring together people who share the same idea so that together we can do tests in different scenarios and create polyfills if necessary",
-  "shortname": "jsxml",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/jsxml"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/jsxml/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/jsxml/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/jsxml/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/jsxml/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/jsxml/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/jsxml/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/jsxml",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43856",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/43857",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/43858",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43859",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
   "id": 109193,
   "name": "Japanese Layout Task Force | 日本語組版タスクフォース",
   "is_closed": false,
@@ -9702,60 +9454,6 @@
    },
    {
     "href": "https://api.w3.org/services/33355",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
-  "id": 137192,
-  "name": "Nordic Web of Data Community Group",
-  "is_closed": false,
-  "description": "<p>The mission of this group is to provide a forum for discussing challenges and establishing best practices for publishing data in the Nordic region.</p>\r\n<p>The foreseen focus will be on topics like:\r\n</p><ul><li>Metadata profiles within data publishing</li>\r\n<li>Best practices for a national web of data infrastructure</li>\r\n<li>Best practices for domain specific data specifications</li>\r\n<li>How to utilize linked data principles to improve data quality and interoperability</li>\r\n</ul>\r\n<p>Practitioners in data publishing as well as anyone interested in furthering a web of data in both private and public sector are welcome to join.</p>",
-  "shortname": "nordic-data",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/nordic-data"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/nordic-data/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/nordic-data/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/nordic-data/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/nordic-data/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/nordic-data/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/nordic-data/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/nordic-data",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/34801",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/34802",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/34803",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/34804",
     "title": "Mailing List"
    }
   ]
@@ -12676,60 +12374,6 @@
   ]
  },
  {
-  "id": 156502,
-  "name": "Real Estate Community Group",
-  "is_closed": false,
-  "description": "The mission of the Real Estate Community Group is to provide a forum for real estate-related technical discussions to track progress of technology features on the Web within W3C groups, educate on the use of Web technologies by external organizations, and to identify use cases and requirements that existing and/or new specifications need to meet to deliver a more inclusive, robust experiences to the Real Estate ecosystem. ",
-  "shortname": "realestate",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/realestate"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/realestate/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/realestate/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/realestate/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/realestate/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/realestate/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/realestate/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/realestate",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43887",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/43888",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/43889",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43890",
-    "title": "Mailing List"
-   }
-  ]
- },
- {
   "id": 91497,
   "name": "Research Questions Task Force",
   "is_closed": false,
@@ -15103,80 +14747,6 @@
   ]
  },
  {
-  "id": 104525,
-  "name": "Synchronized Multimedia for Publications Community Group",
-  "is_closed": false,
-  "description": "This community group's goal is to propose a way to synchronize audio or video with Web Publications and other document formats being developed by the Publishing Working Group, in order to make the publications accessible to people with different types of reading requirements. The CG may recommend the best way to integrate an existing technology, or it may provide an outline for developing a new format.",
-  "shortname": "sync-media-pub",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/sync-media-pub"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/sync-media-pub/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/sync-media-pub/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/sync-media-pub/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/sync-media-pub/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/sync-media-pub/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/sync-media-pub/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/sync-media-pub",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/12273",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/12274",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/12275",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/12277",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/15476",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/w3c/sync-media-pub",
-     "shortdesc": "Github repository",
-     "longdesc": "Github repository",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/15476"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/15476/groups"
-      }
-     }
-    }
-   }
-  ]
- },
- {
   "id": 143412,
   "name": "TREE hypermedia Community Group",
   "is_closed": false,
@@ -15996,60 +15566,6 @@
       }
      }
     }
-   }
-  ]
- },
- {
-  "id": 152802,
-  "name": "Update robots.txt standards Community Group",
-  "is_closed": false,
-  "description": "Robots.txt is currently based on opting out of what you do not want your website to be a part of. \r\n\r\nThis is hard to maintain (almost a full time job right now) if you do not wish for your websites content to be applied for e.g. training AI, be a part of market research (e.g. price robots), to be a part of non-search engine databases and more.\r\n\r\nThis proposal is to update what type of instructions robots.txt should support to rather be treated as an opt-in, where you can give instructions based on intent of robots rather than a wildcard or in granular detail.\r\n\r\nExample: \r\nAgent-group: searchengines\r\n\r\nApplies to all robots that seeks to update, process or maintain websites for search engine databases. Does not grant permission to apply scraped data for AI purposes (this should have its own Agent-group).\r\n\r\nAlso, the absence of instructions should be treated as not having opted in, and for robots working on behalf of AI, there might need to be additional instructions (e.g. max-snippet and if you require a citation if your content is applied to provide an answer).",
-  "shortname": "robotstxt",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/robotstxt"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/robotstxt/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/robotstxt/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/robotstxt/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/robotstxt/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/robotstxt/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/robotstxt/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/robotstxt",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43865",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/43866",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/43867",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43868",
-    "title": "Mailing List"
    }
   ]
  },
@@ -19179,60 +18695,6 @@
       }
      }
     }
-   }
-  ]
- },
- {
-  "id": 156245,
-  "name": "Webtoon Metadata Community Group",
-  "is_closed": false,
-  "description": "The mission of this group is to share use cases, technical challenges, best practices, and possible implementations for the interoperability of webtoon metadata in order to improve the interoperability of webtoon metadata and enable diverse uses of derivative works.",
-  "shortname": "webtoon-meta",
-  "spec-publisher": true,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/webtoon-meta"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/webtoon-meta/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/webtoon-meta/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/webtoon-meta/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/webtoon-meta/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/webtoon-meta/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/webtoon-meta/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/webtoon-meta",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43883",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/43884",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/43885",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43886",
-    "title": "Mailing List"
    }
   ]
  },
