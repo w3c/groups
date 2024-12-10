@@ -10186,6 +10186,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "homepageUrl": "https://kg-construct.github.io/rml-io-registry/json-path/",
   "description": "Registry of Notes on source descriptions, reference formulations, etc",
   "isArchived": false,
   "isPrivate": false,
@@ -25849,8 +25850,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://www.w3.org/TR/openscreenprotocol/",
-  "description": "Open Screen Protocol",
+  "description": "Open Screen Application Protocol + Open Screen Network Protocol",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
