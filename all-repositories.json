@@ -38043,6 +38043,26 @@
   }
  },
  {
+  "name": "prompt-api",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "A proposal for a web API for prompting browser-provided language models",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    110166
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "proposals",
   "owner": {
    "login": "webmachinelearning"
