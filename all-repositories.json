@@ -10388,12 +10388,20 @@
   "owner": {
    "login": "kg-construct"
   },
-  "description": "The repository for the working group charter",
+  "homepageUrl": "https://kg-construct.github.io/wg-charter/2024/kg-construct-wg/",
+  "description": "Draft charter for a W3C Knowledge Graph Construction WG",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/kg-construct"
+    52794
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "project"
    ]
   }
  },
@@ -12369,20 +12377,6 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
-  }
- },
- {
-  "name": "cns-commons",
-  "owner": {
-   "login": "privacycoop"
-  },
-  "description": "Consent Name System (CNS)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/cns"
    ]
   }
  },
