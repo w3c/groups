@@ -100,6 +100,26 @@
   }
  },
  {
+  "name": "translation-api",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "A proposal for translator and language detector APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webmachinelearning.github.io",
   "owner": {
    "login": "webmachinelearning"
@@ -183,6 +203,27 @@
   "w3cjson": {
    "group": [
     "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
+  "name": "writing-assistance-apis",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/writing-assistance-apis/",
+  "description": "A proposal for writing assistance web APIs: summarizer, writer, and rewriter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  }
