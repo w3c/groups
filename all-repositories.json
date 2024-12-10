@@ -30907,7 +30907,18 @@
   "homepageUrl": "https://w3c.github.io/vc-bitstring-status-list-test-suite/",
   "description": "Bitstring Status List test suite",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ]
+  }
  },
  {
   "name": "vc-data-integrity",
