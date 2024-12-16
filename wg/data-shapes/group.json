@@ -1,17 +1,16 @@
 {
  "id": 73865,
- "name": "RDF Data Shapes Working Group",
- "is_closed": true,
- "description": "The mission of the RDF Data Shapes Working Group is to produce a language for defining structural constraints on RDF graphs. In the same way that SPARQL made it possible to query RDF data, the product of the RDF Data Shapes WG will enable the definition of graph topologies for interface specification, code development, and data verification.",
+ "name": "Data Shapes Working Group",
+ "is_closed": false,
+ "description": "The mission of the Data Shapes Working Group is to update data shapes standards in line with the versions of core Semantic Web standards that cater for RDF-star and to extend the applications of data shapes with new packaging and use specifications.",
  "shortname": "data-shapes",
- "closed_date": "2018-10-15",
  "discr": "w3cgroup",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/data-shapes"
   },
   "homepage": {
-   "href": "https://www.w3.org/2014/data-shapes/"
+   "href": "https://www.w3.org/groups/wg/data-shapes/"
   },
   "users": {
    "href": "https://api.w3.org/groups/wg/data-shapes/users"
@@ -32,7 +31,7 @@
    "href": "https://api.w3.org/groups/wg/data-shapes/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/data-shapes/charters/8"
+   "href": "https://api.w3.org/groups/wg/data-shapes/charters/525"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/data-shapes/join"
@@ -46,8 +45,18 @@
  },
  "type": "working group",
  "start-date": "2014-09-30",
- "end-date": "2018-04-30",
+ "end-date": "2026-12-31",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/data-shapes"
+ "identifier": "wg/data-shapes",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2095",
+   "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/43984",
+   "title": "Mailing List"
+  }
+ ]
 }
