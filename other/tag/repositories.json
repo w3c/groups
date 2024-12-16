@@ -1,5 +1,19 @@
 [
  {
+  "name": ".github",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Github configuration repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
   "name": "accessibility-questionnaire",
   "owner": {
    "login": "w3ctag"
@@ -564,6 +578,20 @@
   "owner": {
    "login": "w3ctag"
   },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "user-agents",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "A Draft Finding on User Agents",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
