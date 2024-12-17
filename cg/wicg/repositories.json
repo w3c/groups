@@ -1231,27 +1231,6 @@
   }
  },
  {
-  "name": "element-timing",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/element-timing/",
-  "description": "A proposal for an Element Timing specification.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "encrypted-media-encryption-scheme",
   "owner": {
    "login": "WICG"
@@ -3864,6 +3843,27 @@
    ],
    "contacts": [
     "travisleithead"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "element-timing",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/element-timing/",
+  "description": "A proposal for an Element Timing specification.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
    ],
    "repo-type": [
     "cg-report"
