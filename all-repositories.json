@@ -2606,27 +2606,6 @@
   }
  },
  {
-  "name": "element-timing",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/element-timing/",
-  "description": "A proposal for an Element Timing specification.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "encrypted-media",
   "owner": {
    "login": "WICG"
@@ -20575,6 +20554,27 @@
   "description": "HTML Editing APIs",
   "isArchived": true,
   "isPrivate": false
+ },
+ {
+  "name": "element-timing",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/element-timing/",
+  "description": "A proposal for an Element Timing specification.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  },
  {
   "name": "elements-of-html",
