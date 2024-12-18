@@ -3265,27 +3265,6 @@
   }
  },
  {
-  "name": "speech-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/speech-api/",
-  "description": "Web Speech API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "starter-kit",
   "owner": {
    "login": "WICG"
@@ -3843,6 +3822,27 @@
    ],
    "contacts": [
     "travisleithead"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "web-speech-api",
+  "owner": {
+   "login": "WebAudio"
+  },
+  "homepageUrl": "https://wicg.github.io/speech-api/",
+  "description": "Web Speech API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "marcoscaceres"
    ],
    "repo-type": [
     "cg-report"
