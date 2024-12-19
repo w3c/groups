@@ -58,7 +58,16 @@
   "tr-publisher": false,
   "identifier": "tf/ab-liaisons-to-bod",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43989",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43996",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 114156,
@@ -1266,7 +1275,12 @@
   "tr-publisher": false,
   "identifier": "tf/ab-elected",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43986",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 33280,
@@ -2665,7 +2679,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-audit",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43988",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 152308,
@@ -2745,7 +2764,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-development",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43990",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 145360,
@@ -2803,7 +2827,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-directors",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43991",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 156902,
@@ -2919,7 +2948,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-finance",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43992",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 141774,
@@ -2977,7 +3011,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-governance",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43993",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 147347,
@@ -3035,7 +3074,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-officers",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43994",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 141773,
@@ -3093,7 +3137,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-personnel",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43995",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 140563,
@@ -3122,7 +3171,16 @@
   "tr-publisher": false,
   "group-type": "other",
   "identifier": "other/board",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/43989",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/43996",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 49799,
@@ -3578,7 +3636,12 @@
   "tr-publisher": false,
   "identifier": "tf/board-ab-tag-chairs",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/26627",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 114998,
@@ -4849,6 +4912,10 @@
    {
     "href": "https://api.w3.org/services/2095",
     "title": "Wiki"
+   },
+   {
+    "href": "https://api.w3.org/services/9373",
+    "title": "Mailing List"
    },
    {
     "href": "https://api.w3.org/services/43984",
@@ -10485,7 +10552,12 @@
   "tr-publisher": false,
   "identifier": "tf/pdf-aam",
   "group-type": "tf",
-  "services": []
+  "services": [
+   {
+    "href": "https://api.w3.org/services/44960",
+    "title": "Mailing List"
+   }
+  ]
  },
  {
   "id": 133210,
@@ -14104,6 +14176,10 @@
    {
     "href": "https://api.w3.org/services/7329",
     "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45056",
+    "title": "Mailing List"
    }
   ]
  },
@@ -16241,6 +16317,10 @@
    {
     "href": "https://api.w3.org/services/43982",
     "title": "Issue Tracking"
+   },
+   {
+    "href": "https://api.w3.org/services/45170",
+    "title": "Mailing List"
    }
   ]
  },
