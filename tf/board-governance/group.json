@@ -54,5 +54,10 @@
  "tr-publisher": false,
  "identifier": "tf/board-governance",
  "group-type": "tf",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43993",
+   "title": "Mailing List"
+  }
+ ]
 }
