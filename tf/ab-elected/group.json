@@ -57,5 +57,10 @@
  "tr-publisher": false,
  "identifier": "tf/ab-elected",
  "group-type": "tf",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43986",
+   "title": "Mailing List"
+  }
+ ]
 }
