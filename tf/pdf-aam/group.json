@@ -81,5 +81,10 @@
  "tr-publisher": false,
  "identifier": "tf/pdf-aam",
  "group-type": "tf",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/44960",
+   "title": "Mailing List"
+  }
+ ]
 }
