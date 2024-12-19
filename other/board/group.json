@@ -25,5 +25,14 @@
  "tr-publisher": false,
  "group-type": "other",
  "identifier": "other/board",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43989",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/43996",
+   "title": "Mailing List"
+  }
+ ]
 }
