@@ -24,5 +24,10 @@
  "tr-publisher": false,
  "identifier": "tf/board-ab-tag-chairs",
  "group-type": "tf",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/26627",
+   "title": "Mailing List"
+  }
+ ]
 }
