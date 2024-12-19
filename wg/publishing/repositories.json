@@ -220,28 +220,6 @@
   }
  },
  {
-  "name": "sync-media-pub",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/sync-media-pub",
-  "description": "Repository of the Work on Synchronized Multimedia, Publishing Maintenance WG",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing",
-    "wg/pm"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "article"
-   ]
-  }
- },
- {
   "name": "wpub",
   "owner": {
    "login": "w3c"
