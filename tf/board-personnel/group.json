@@ -54,5 +54,10 @@
  "tr-publisher": false,
  "identifier": "tf/board-personnel",
  "group-type": "tf",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43995",
+   "title": "Mailing List"
+  }
+ ]
 }
