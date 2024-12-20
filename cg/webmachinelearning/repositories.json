@@ -213,6 +213,20 @@
   }
  },
  {
+  "name": "webnn-samples-test-framework",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "An automation test framework for WebNN samples and demos",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "webnn-types",
   "owner": {
    "login": "webmachinelearning"
