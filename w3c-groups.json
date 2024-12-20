@@ -1199,10 +1199,6 @@
     "title": "Mailing List"
    },
    {
-    "href": "https://api.w3.org/services/26627",
-    "title": "Mailing List"
-   },
-   {
     "href": "https://api.w3.org/services/43951",
     "title": "Issue Tracking"
    },
@@ -3636,12 +3632,7 @@
   "tr-publisher": false,
   "identifier": "tf/board-ab-tag-chairs",
   "group-type": "tf",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/26627",
-    "title": "Mailing List"
-   }
-  ]
+  "services": []
  },
  {
   "id": 114998,
