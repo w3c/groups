@@ -167,6 +167,25 @@
   }
  },
  {
+  "name": "apa-review",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "captcha",
   "owner": {
    "login": "w3c"
