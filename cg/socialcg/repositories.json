@@ -28,6 +28,19 @@
   }
  },
  {
+  "name": "activity-summary-bot",
+  "owner": {
+   "login": "swicg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-data-portability",
   "owner": {
    "login": "swicg"
