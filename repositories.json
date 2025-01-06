@@ -19333,13 +19333,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg"
+    "wg/webperf"
    ],
    "contacts": [
-    "yoavweiss"
+    "caribouW3"
    ],
+   "shortName": "element-timing",
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ]
   }
  },
