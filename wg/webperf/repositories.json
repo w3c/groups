@@ -67,6 +67,28 @@
   }
  },
  {
+  "name": "element-timing",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/element-timing/",
+  "description": "A proposal for an Element Timing specification.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webperf"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "shortName": "element-timing",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "event-timing",
   "owner": {
    "login": "w3c"
