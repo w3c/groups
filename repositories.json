@@ -18460,7 +18460,8 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "RDF Data Shapes WG repo",
+  "homepageUrl": "https://www.w3.org/groups/wg/data-shapes/",
+  "description": "Data Shapes WG repo",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -18468,7 +18469,7 @@
     "wg/data-shapes"
    ],
    "contacts": [
-    "plehegar"
+    "caribouW3"
    ],
    "policy": "open",
    "repo-type": [
