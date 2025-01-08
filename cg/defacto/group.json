@@ -1,0 +1,54 @@
+{
+ "id": 163513,
+ "name": "Decentralized Fact-checking & Provenance Organization (DeFacto) Community Group",
+ "is_closed": false,
+ "description": "<p>The Decentralized Fact-checking &amp; Provenance Working Group (DFCP) is committed to actively researching, developing, building, maintaining, managing, upgrading, and implementing robust amendments for a decentralized fact-checking system and stringent provenance standards for text-based literature and content. We will drive this initiative forward with determination and efficacy.</p>\r\n\r\n<p>DFCP strives to empower societies with tools to identify and mitigate/counter misinformation, disinformation, and Fake News at scale.</p>\r\n\r\n<p>This group will publish Specifications.</p>",
+ "shortname": "defacto",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/defacto"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/defacto/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/defacto/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/defacto/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/defacto/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/defacto/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/defacto/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/defacto",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/45403",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/45404",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/45405",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/45406",
+   "title": "Mailing List"
+  }
+ ]
+}
