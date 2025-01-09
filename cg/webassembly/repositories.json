@@ -1714,6 +1714,20 @@
   }
  },
  {
+  "name": "wasi-tls",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WASI proposal for TLS",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "wasi-tools",
   "owner": {
    "login": "WebAssembly"
