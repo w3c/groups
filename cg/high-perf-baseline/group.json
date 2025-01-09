@@ -1,0 +1,54 @@
+{
+ "id": 163544,
+ "name": "High-Performance Baseline for Web Apps Community Group",
+ "is_closed": false,
+ "description": "<p>The High-Performance Baseline Community Group aims to enhance the diversify the ecosystem of Web user agents by enabling a baseline or subset of standards to increase efficiency and optimize the user experience on Web and WebView-based apps while maintaining compatibility with existing standards. The subsets will allow the implementation of lighter and more efficient user agents for specific purposes (e.g., MiniApps, IoT applications, and cross-platform apps, among others). This forum intends to gather vendors of embedded browsers, hybrid cross-platform app frameworks, JS engines and others interested in providing specific scenarios and use cases to define proper subsets of the specifications and even propose additional activities to existing Working Groups. </p>\n\n<p>This CG expects good alignment with other incubation groups, including WebViews CG and WICG, and standardization groups (e.g., CSS WG, Web Applications WG, and WHATCG, among others). After getting support for this idea, more specific goals and a tentative timeline will be defined in the charter.</p>",
+ "shortname": "high-perf-baseline",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/high-perf-baseline"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/high-perf-baseline/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/high-perf-baseline/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/high-perf-baseline/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/high-perf-baseline/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/high-perf-baseline/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/high-perf-baseline/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/high-perf-baseline",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/45433",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/45434",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/45435",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/45436",
+   "title": "Mailing List"
+  }
+ ]
+}
