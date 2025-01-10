@@ -901,20 +901,6 @@
   }
  },
  {
-  "name": "routes-api",
-  "owner": {
-   "login": "openactive"
-  },
-  "description": "Simple Django editor for Routes data entry",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/openactive"
-   ]
-  }
- },
- {
   "name": "rpde-validator",
   "owner": {
    "login": "openactive"
