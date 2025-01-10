@@ -149,6 +149,29 @@
   }
  },
  {
+  "name": "security-questionnaire",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "description": "A security/privacy review questionnaire for W3C specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag",
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen",
+    "ylafon"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "privacy-request",
   "owner": {
    "login": "w3cping"
@@ -188,29 +211,6 @@
    "policy": "open",
    "repo-type": [
     "tool"
-   ]
-  }
- },
- {
-  "name": "security-questionnaire",
-  "owner": {
-   "login": "w3ctag"
-  },
-  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
-  "description": "A security/privacy review questionnaire for W3C specs",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/tag",
-    "wg/privacy"
-   ],
-   "contacts": [
-    "tjwhalen",
-    "ylafon"
-   ],
-   "repo-type": [
-    "note"
    ]
   }
  }
