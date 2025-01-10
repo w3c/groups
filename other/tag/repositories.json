@@ -1,5 +1,28 @@
 [
  {
+  "name": "security-questionnaire",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
+  "description": "A security/privacy review questionnaire for W3C specs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag",
+    "wg/privacy"
+   ],
+   "contacts": [
+    "tjwhalen",
+    "ylafon"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": ".github",
   "owner": {
    "login": "w3ctag"
@@ -435,29 +458,6 @@
   }
  },
  {
-  "name": "security-questionnaire",
-  "owner": {
-   "login": "w3ctag"
-  },
-  "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
-  "description": "A security/privacy review questionnaire for W3C specs",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/tag",
-    "wg/privacy"
-   ],
-   "contacts": [
-    "tjwhalen",
-    "ylafon"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "societal-impact-questionnaire",
   "owner": {
    "login": "w3ctag"
@@ -598,6 +598,26 @@
   "w3cjson": {
    "group": [
     "other/tag"
+   ]
+  }
+ },
+ {
+  "name": "w3ctag.github.io",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "Redirects links to repositories that have been transferred to other orgs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "contacts": [
+    "ylafon"
+   ],
+   "repo-type": [
+    "homepage"
    ]
   }
  },
