@@ -19,5 +19,26 @@
     "cg/audio-comgp"
    ]
   }
+ },
+ {
+  "name": "web-speech-api",
+  "owner": {
+   "login": "WebAudio"
+  },
+  "homepageUrl": "https://webaudio.github.io/web-speech-api/",
+  "description": "Web Speech API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/audio-comgp"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  }
 ]
