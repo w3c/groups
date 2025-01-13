@@ -311,6 +311,20 @@
   }
  },
  {
+  "name": "specification-template",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Template for a new Report, Note or specification using ReSpec + Markdown.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "www",
   "owner": {
    "login": "swicg"
