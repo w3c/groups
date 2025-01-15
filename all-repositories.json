@@ -16812,26 +16812,6 @@
   }
  },
  {
-  "name": "Guide",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/Guide/",
-  "description": "The Guidebook is the collected wisdom of the W3C Group Chairs, team contacts and other contributors.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "plehegar",
-    "koalie",
-    "xueyuanjia"
-   ],
-   "repo-type": [
-    "article"
-   ]
-  }
- },
- {
   "name": "HTMLSourcingInbandTracks",
   "owner": {
    "login": "w3c"
@@ -21622,6 +21602,26 @@
    "policy": "open",
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "guide",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/guide/",
+  "description": "The Guidebook is the collected wisdom of the W3C Group Chairs, team contacts and other contributors.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "plehegar",
+    "koalie",
+    "xueyuanjia"
+   ],
+   "repo-type": [
+    "article"
    ]
   }
  },
