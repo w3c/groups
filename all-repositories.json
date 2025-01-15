@@ -5669,7 +5669,7 @@
    "login": "WebAssembly"
   },
   "description": "[complete] Proposal for extended constant expressions",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -23816,7 +23816,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://www.w3.org/Guide/manual-of-style/",
+  "homepageUrl": "https://www.w3.org/guide/manual-of-style/",
   "description": "The W3C Manual of Style",
   "isArchived": false,
   "isPrivate": false,
