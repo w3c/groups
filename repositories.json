@@ -25492,14 +25492,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/data-shapes"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
+    "cg/shacl"
    ]
   }
  },
