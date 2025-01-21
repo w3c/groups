@@ -22468,6 +22468,26 @@
   }
  },
  {
+  "name": "ift-encoder",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "the web fonts patch subset client/server implementation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    44556
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
   "name": "ift-server-tests",
   "owner": {
    "login": "w3c"
@@ -26053,26 +26073,6 @@
    "shortName": "paint-timing",
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "patch-subset-incxfer",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "the web fonts patch subset client/server implementation",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    44556
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "tool"
    ]
   }
  },
