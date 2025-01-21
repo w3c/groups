@@ -16018,6 +16018,30 @@
   }
  },
  {
+  "name": "delegation-oriented",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "Delegation-oriented FedCM",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "idp-registration",
   "owner": {
    "login": "w3c-fedid"
