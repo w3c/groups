@@ -18458,6 +18458,27 @@
   "isPrivate": false
  },
  {
+  "name": "breakouts-day-2025",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": " Remote event for the W3C community to share new ideas ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "browser-compat-data",
   "owner": {
    "login": "w3c"
