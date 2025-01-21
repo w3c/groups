@@ -59,26 +59,7 @@
   }
  },
  {
-  "name": "ift-server-tests",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webfonts"
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "tests"
-   ]
-  }
- },
- {
-  "name": "patch-subset-incxfer",
+  "name": "ift-encoder",
   "owner": {
    "login": "w3c"
   },
@@ -94,6 +75,25 @@
    ],
    "repo-type": [
     "tool"
+   ]
+  }
+ },
+ {
+  "name": "ift-server-tests",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webfonts"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "tests"
    ]
   }
  },
