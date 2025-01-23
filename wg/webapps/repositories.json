@@ -133,28 +133,6 @@
   }
  },
  {
-  "name": "html-aria",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/html-aria/",
-  "description": "ARIA in HTML",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webapps"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "html-aria",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "image-resource",
   "owner": {
    "login": "w3c"
