@@ -283,6 +283,28 @@
   }
  },
  {
+  "name": "html-aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/html-aria/",
+  "description": "ARIA in HTML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "shortName": "html-aria",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "mathml-aam",
   "owner": {
    "login": "w3c"
