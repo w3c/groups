@@ -10796,6 +10796,7 @@
   "owner": {
    "login": "openactive"
   },
+  "homepageUrl": "http://openactive.io/data-models/",
   "description": "Data models used to drive OpenActive validator and developer documentation",
   "isArchived": false,
   "isPrivate": false,
@@ -29367,6 +29368,25 @@
    ],
    "repo-type": [
     "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "webappsec-dbsc",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
