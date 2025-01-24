@@ -3830,5 +3830,24 @@
     "cg-report"
    ]
   }
+ },
+ {
+  "name": "webappsec-dbsc",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
  }
 ]
