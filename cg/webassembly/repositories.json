@@ -1718,7 +1718,7 @@
   "owner": {
    "login": "WebAssembly"
   },
-  "description": "WASI proposal for TLS",
+  "description": "SSL/TLS interface for WASI",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
