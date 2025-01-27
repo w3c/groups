@@ -28497,11 +28497,13 @@
   "w3cjson": {
    "group": [
     "other/tag",
-    "wg/privacy"
+    "wg/privacy",
+    "ig/security"
    ],
    "contacts": [
     "tjwhalen",
-    "ylafon"
+    "ylafon",
+    "simoneonofri"
    ],
    "repo-type": [
     "note"
