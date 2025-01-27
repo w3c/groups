@@ -28674,8 +28674,12 @@
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
-   "group": [
-    "cg/shacl"
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "archive"
    ]
   }
  },
