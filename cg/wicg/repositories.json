@@ -87,7 +87,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -281,7 +280,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -959,7 +957,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -1073,7 +1070,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -1452,7 +1448,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -1467,7 +1462,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -1599,7 +1593,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -1974,7 +1967,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2114,7 +2106,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2353,7 +2344,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2431,7 +2421,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2488,7 +2477,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2542,7 +2530,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2576,7 +2563,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2855,7 +2841,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -2871,7 +2856,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -3091,7 +3075,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -3333,7 +3316,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -3347,7 +3329,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -3426,7 +3407,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -3461,7 +3441,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg",
     "cg/wicg"
    ]
   }
@@ -3612,7 +3591,7 @@
   "owner": {
    "login": "WICG"
   },
-  "homepageUrl": "https://wicg.github.io/web-preferences-api/",
+  "homepageUrl": "https://drafts.csswg.org/mediaqueries-5/#auto-pref%E2%91%A0",
   "description": "The Web Preference API aims to provide a way for sites to override the value for a given user preference (e.g. color-scheme preference) in a way that fully integrates with existing Web APIs.",
   "isArchived": false,
   "isPrivate": false,
