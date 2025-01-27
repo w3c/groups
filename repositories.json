@@ -25508,20 +25508,6 @@
   }
  },
  {
-  "name": "shacl",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "SHACL Community Group (Post-REC activitities)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/shacl"
-   ]
-  }
- },
- {
   "name": "silver",
   "owner": {
    "login": "w3c"
