@@ -28740,6 +28740,22 @@
   }
  },
  {
+  "name": "smartagents-workshop",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "ashimura"
+   ],
+   "repo-type": [
+    "workshop"
+   ]
+  }
+ },
+ {
   "name": "smartcities-workshop",
   "owner": {
    "login": "w3c"
