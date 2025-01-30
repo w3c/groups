@@ -234,6 +234,20 @@
   }
  },
  {
+  "name": "explainers",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "A Draft Note explaining how to write explainers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ]
+  }
+ },
+ {
   "name": "extending-html-responsibly",
   "owner": {
    "login": "w3ctag"
