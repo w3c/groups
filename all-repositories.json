@@ -19852,6 +19852,16 @@
   }
  },
  {
+  "name": "did-methods-wg-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html",
+  "description": "DID Methods WG charter",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "did-resolution",
   "owner": {
    "login": "w3c"
