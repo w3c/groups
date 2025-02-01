@@ -14,12 +14,11 @@
   }
  },
  {
-  "name": "Compatibility-Data-Project",
+  "name": "CanIAndroidWebView",
   "owner": {
    "login": "WebView-CG"
   },
-  "homepageUrl": "https://caniwebview.com/",
-  "description": "We are driving an initiative to measure compatibility between WebViews across the ecosystem. This repository is used to track tasks and the current state of the project.",
+  "description": "Test App for Android WebView",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -29,11 +28,26 @@
   }
  },
  {
-  "name": "caniandroidwebview",
+  "name": "CanIWKWebView",
   "owner": {
    "login": "WebView-CG"
   },
-  "description": "Test App for Android WebView",
+  "description": "Test App for WKWebView",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
+  "name": "Compatibility-Data-Project",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "homepageUrl": "https://caniwebview.com/",
+  "description": "We are driving an initiative to measure compatibility between WebViews across the ecosystem. This repository is used to track tasks and the current state of the project.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
