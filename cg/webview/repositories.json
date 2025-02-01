@@ -29,6 +29,20 @@
   }
  },
  {
+  "name": "caniandroidwebview",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "description": "Test App for Android WebView",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
   "name": "charter",
   "owner": {
    "login": "WebView-CG"
