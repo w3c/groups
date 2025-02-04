@@ -11177,7 +11177,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "https://sw-oa-php-test-site.herokuapp.com",
   "description": "A simple PHP app for testing the OA PHP libraries",
   "isArchived": false,
   "isPrivate": false,
@@ -11206,7 +11205,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "https://sw-oa-ruby-test-site.herokuapp.com",
   "description": "A simple Sinatra app for testing the OA Ruby libraries ",
   "isArchived": false,
   "isPrivate": false,
@@ -11832,28 +11830,6 @@
     "others"
    ],
    "policy": "open"
-  }
- },
- {
-  "name": "ppa-api",
-  "owner": {
-   "login": "patcg"
-  },
-  "homepageUrl": "https://patcg.github.io/ppa-api/",
-  "description": "Privacy-Preserving Attribution",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/patcg"
-   ],
-   "contacts": [
-    "seanturner",
-    "aramzs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
   }
  },
  {
@@ -24073,6 +24049,28 @@
     "siusin"
    ],
    "shortName": "pointerlock-2",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "ppa",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ppa/",
+  "description": "Privacy-Preserving Attribution",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pat"
+   ],
+   "contacts": [
+    "seanturner",
+    "aramzs"
+   ],
    "repo-type": [
     "rec-track"
    ]
