@@ -637,7 +637,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "https://sw-oa-php-test-site.herokuapp.com",
   "description": "A simple PHP app for testing the OA PHP libraries",
   "isArchived": false,
   "isPrivate": false,
@@ -666,7 +665,6 @@
   "owner": {
    "login": "openactive"
   },
-  "homepageUrl": "https://sw-oa-ruby-test-site.herokuapp.com",
   "description": "A simple Sinatra app for testing the OA Ruby libraries ",
   "isArchived": false,
   "isPrivate": false,
