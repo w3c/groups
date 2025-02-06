@@ -32668,6 +32668,20 @@
   }
  },
  {
+  "name": "fetch-workstream",
+  "owner": {
+   "login": "wintercg"
+  },
+  "description": "A repo to discuss the requirements of server-side runtimes wrt the WHATWG Fetch spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wintercg"
+   ]
+  }
+ },
+ {
   "name": "import-meta-registry",
   "owner": {
    "login": "wintercg"
