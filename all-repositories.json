@@ -32152,15 +32152,6 @@
   }
  },
  {
-  "name": "wai-authoring-tools-service",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Serves authoring tools for the authoring tools list",
-  "isArchived": false,
-  "isPrivate": false
- },
- {
   "name": "wai-axsdb-services",
   "owner": {
    "login": "w3c"
@@ -32528,26 +32519,6 @@
   }
  },
  {
-  "name": "wai-eo-online-learning",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Accessible Online Learning - WAI EOWG Resources",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    35532
-   ],
-   "contacts": [
-    "slhenry"
-   ],
-   "repo-type": [
-    "article"
-   ]
-  }
- },
- {
   "name": "wai-eval-overview",
   "owner": {
    "login": "w3c"
@@ -32724,24 +32695,6 @@
    ],
    "repo-type": [
     "project"
-   ]
-  }
- },
- {
-  "name": "wai-home",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "WAI Home Page Content",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "slhenry",
-    "yatil"
-   ],
-   "repo-type": [
-    "homepage"
    ]
   }
  },
@@ -33350,7 +33303,7 @@
   },
   "homepageUrl": "http://w3c.github.io/wai-resources/",
   "description": "An overview of the resources on the /WAI/ website.",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -33367,7 +33320,7 @@
    "login": "w3c"
   },
   "description": "Web Accessibility Roles & Responsibilities",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -33574,7 +33527,7 @@
    "login": "w3c"
   },
   "description": "Procuring Tips for Web Accessibility",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -33939,28 +33892,12 @@
   }
  },
  {
-  "name": "wai-website-jekyll-templates",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "yatil"
-   ],
-   "repo-type": [
-    "project"
-   ]
-  }
- },
- {
   "name": "wai-website-personas",
   "owner": {
    "login": "w3c"
   },
   "homepageUrl": "http://w3c.github.io/wai-website-personas/",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
