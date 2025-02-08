@@ -28042,26 +28042,6 @@
   }
  },
  {
-  "name": "wai-eo-online-learning",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Accessible Online Learning - WAI EOWG Resources",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/eowg"
-   ],
-   "contacts": [
-    "slhenry"
-   ],
-   "repo-type": [
-    "article"
-   ]
-  }
- },
- {
   "name": "wai-eval-report-templates",
   "owner": {
    "login": "w3c"
@@ -28442,7 +28422,7 @@
    "login": "w3c"
   },
   "description": "Web Accessibility Roles & Responsibilities",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -28591,7 +28571,7 @@
    "login": "w3c"
   },
   "description": "Procuring Tips for Web Accessibility",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
