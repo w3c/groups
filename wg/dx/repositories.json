@@ -44,6 +44,28 @@
   }
  },
  {
+  "name": "dx-wg-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/dx-wg-charter/",
+  "description": "Dataset Exchange Working Group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "dxwg",
   "owner": {
    "login": "w3c"
