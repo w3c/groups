@@ -2653,6 +2653,7 @@
   "owner": {
    "login": "WICG"
   },
+  "description": "This proposal introduces a new magic comment that signals to browsers that the functions in a JavaScript file are likely to be needed by the website. Spec draft: https://wicg.github.io/explicit-javascript-compile-hints-file-based/",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -34798,13 +34799,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    80485
+    49309
    ],
    "contacts": [
-    "yoavweiss"
+    "yoavweiss",
+    "simoneonofri"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ]
   }
  },
