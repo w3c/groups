@@ -11825,7 +11825,8 @@
    "contacts": [
     "aramzs",
     "seanturner",
-    "wseltzer"
+    "wseltzer",
+    "tjwhalen"
    ],
    "repo-type": [
     "others"
@@ -28358,7 +28359,8 @@
   "owner": {
    "login": "w3c"
   },
-  "description": "WAI Policies",
+  "homepageUrl": "https://www.w3.org/WAI/policies/",
+  "description": "Web Accessibility Laws & Policies",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
