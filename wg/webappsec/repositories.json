@@ -244,6 +244,26 @@
   }
  },
  {
+  "name": "webappsec-dbsc",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "contacts": [
+    "yoavweiss",
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "webappsec-fetch-metadata",
   "owner": {
    "login": "w3c"
