@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "name": "smart-cities",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Work area for the Web-based Digital Twins for Smart Cities IG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/smart-cities"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note",
+    "homepage"
+   ]
+  }
+ }
+]
