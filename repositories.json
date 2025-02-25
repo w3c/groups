@@ -9032,7 +9032,7 @@
    "login": "immersive-web"
   },
   "homepageUrl": "https://immersive-web.github.io/model-element/",
-  "description": "Repository for the <model> tag. Feature leads: Marcos Cáceres and Laszlo Gombos",
+  "description": "Repository for the <model> tag. Feature leads: Brandel Zachernuk and Laszlo Gombos",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -25623,6 +25623,28 @@
    ],
    "shortName": "simple-ruby",
    "policy": "restricted"
+  }
+ },
+ {
+  "name": "smart-cities",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Work area for the Web-based Digital Twins for Smart Cities IG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/smart-cities"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note",
+    "homepage"
+   ]
   }
  },
  {
