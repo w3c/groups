@@ -9032,7 +9032,7 @@
    "login": "immersive-web"
   },
   "homepageUrl": "https://immersive-web.github.io/model-element/",
-  "description": "Repository for the <model> tag. Feature leads: Marcos Cáceres and Laszlo Gombos",
+  "description": "Repository for the <model> tag. Feature leads: Brandel Zachernuk and Laszlo Gombos",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -28827,7 +28827,20 @@
   },
   "description": "Work area for the Web-based Digital Twins for Smart Cities IG",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    158420
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note",
+    "homepage"
+   ]
+  }
  },
  {
   "name": "smartagents-workshop",
@@ -32448,7 +32461,16 @@
   "homepageUrl": "https://www.w3.org/WAI/courses/list/",
   "description": "List of Courses on Web Accessibility",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "shawna-slh",
+    "remibetin"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
  },
  {
   "name": "wai-curricula",
@@ -32670,7 +32692,8 @@
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
-    "slhenry"
+    "shawna-slh",
+    "remibetin"
    ],
    "repo-type": [
     "project"
