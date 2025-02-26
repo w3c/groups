@@ -1662,8 +1662,8 @@
    "login": "WICG"
   },
   "homepageUrl": "https://html.spec.whatwg.org/multipage/webappapis.html#import-maps",
-  "description": "How to control the behavior of JavaScript imports",
-  "isArchived": false,
+  "description": "Former home of import maps (now merged into HTML)",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
