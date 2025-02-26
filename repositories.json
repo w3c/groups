@@ -28398,30 +28398,6 @@
   }
  },
  {
-  "name": "wai-policies-prototype",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/WAI/policies/",
-  "description": "Web Accessibility Laws & Policies",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/eowg"
-   ],
-   "contacts": [
-    "nitedog",
-    "yatil",
-    "slhenry"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "article"
-   ]
-  }
- },
- {
   "name": "wai-policieslist",
   "owner": {
    "login": "w3c"
@@ -28585,28 +28561,6 @@
     "slhenry"
    ],
    "policy": "open",
-   "repo-type": [
-    "article"
-   ]
-  }
- },
- {
-  "name": "wai-statements",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/WAI/planning/statements/",
-  "description": "Accessibility Statements",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/eowg"
-   ],
-   "contacts": [
-    "slhenry",
-    "nitedog"
-   ],
    "repo-type": [
     "article"
    ]
