@@ -14800,6 +14800,26 @@
    {
     "href": "https://api.w3.org/services/33317",
     "title": "Issue Tracking"
+   },
+   {
+    "href": "https://api.w3.org/services/45563",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c/sdw-sosa-ssn",
+     "shortdesc": "GitHub: SOSA SSN repository",
+     "longdesc": "",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45563"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45563/groups"
+      }
+     }
+    }
    }
   ]
  },
