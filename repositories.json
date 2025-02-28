@@ -9944,6 +9944,20 @@
   }
  },
  {
+  "name": "challenge-results",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "Results of the KGC Challenge",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
   "name": "challenge-tool",
   "owner": {
    "login": "kg-construct"
