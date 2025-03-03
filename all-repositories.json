@@ -6399,7 +6399,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/tail-call/",
   "description": "Proposal to add tail calls to WebAssembly",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -15978,26 +15978,6 @@
   "w3cjson": {
    "group": [
     151951
-   ],
-   "contacts": [
-    "ij@w3.org"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "awesome-semantic-shapes",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "description": "A curated list of RDF Shape resources",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    100368
    ],
    "contacts": [
     "ij@w3.org"
