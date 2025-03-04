@@ -698,6 +698,10 @@
    {
     "href": "https://api.w3.org/services/34936",
     "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45565",
+    "title": "Issue Tracking"
    }
   ]
  },
@@ -9398,6 +9402,34 @@
    {
     "href": "https://api.w3.org/services/1785",
     "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45564",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c/matf/",
+     "shortdesc": "GitHub repository",
+     "longdesc": "",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45564"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45564/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45566",
+    "title": "Issue Tracking"
+   },
+   {
+    "href": "https://api.w3.org/services/45572",
+    "title": "Chat"
    }
   ]
  },
