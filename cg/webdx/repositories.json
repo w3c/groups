@@ -28,6 +28,19 @@
   }
  },
  {
+  "name": "bl2bl",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
   "name": "developer-research",
   "owner": {
    "login": "web-platform-dx"
