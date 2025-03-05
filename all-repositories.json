@@ -37548,11 +37548,11 @@
   }
  },
  {
-  "name": "explainers",
+  "name": "explainer-explainer",
   "owner": {
    "login": "w3ctag"
   },
-  "homepageUrl": "https://w3ctag.github.io/explainers/",
+  "homepageUrl": "https://w3ctag.github.io/explainer-explainer/",
   "description": "A Draft Note explaining how to write explainers",
   "isArchived": false,
   "isPrivate": false,
@@ -38094,6 +38094,19 @@
    "login": "web-platform-dx"
   },
   "description": "A Web Component widget displaying Baseline status of a web feature",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
+  "name": "bl2bl",
+  "owner": {
+   "login": "web-platform-dx"
+  },
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
