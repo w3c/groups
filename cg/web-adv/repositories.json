@@ -1,0 +1,23 @@
+[
+ {
+  "name": "web-advertising",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-advertising/dashboard/",
+  "description": "Web Advertising BG - https://www.w3.org/community/web-adv/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-adv"
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ }
+]
