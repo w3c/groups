@@ -14424,6 +14424,20 @@
   }
  },
  {
+  "name": "cg-archiver",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "Archives meetings for a W3C Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "chapi-interop-test-suite",
   "owner": {
    "login": "w3c-ccg"
@@ -20949,11 +20963,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    96810
+    "wg/pm"
    ],
    "contacts": [
-    "iherman",
-    "dauwhe"
+    "iherman"
    ],
    "repo-type": [
     "tool"
@@ -32140,13 +32153,14 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://master--wai-arrm.netlify.app/planning/arrm/",
+  "homepageUrl": "https://www.w3.org/WAI/planning/arrm/",
   "description": "Accessibility Roles and Responsibilities Mapping (ARRM)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
-    "slhenry"
+    "shawna-slh",
+    "remibetin"
    ],
    "repo-type": [
     "project"
