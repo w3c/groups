@@ -132,6 +132,27 @@
   }
  },
  {
+  "name": "epubcheck",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/publishing/epubcheck/",
+  "description": "The conformance checker for EPUB publications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
   "name": "lpf",
   "owner": {
    "login": "w3c"
