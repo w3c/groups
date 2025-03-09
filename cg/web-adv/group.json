@@ -1,0 +1,78 @@
+{
+ "id": 103226,
+ "name": "Improving Web Advertising Community Group",
+ "is_closed": false,
+ "description": "The mission of the Improving Web Advertising Community Group is to identify areas where standards and changes in the Web itself can improve the ecosystem and experience for users, advertisers, publishers, distributors, ad networks, agencies and others, and to oversee liaison with existing Working Groups and to create new Working Groups as needed",
+ "shortname": "web-adv",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-adv"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/web-adv/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-adv/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-adv/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-adv/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-adv/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-adv/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/web-adv",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12239",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/12240",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/12241",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/12243",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/13851",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/web-advertising",
+    "shortdesc": "GitHub Repo",
+    "longdesc": "GitHub Repo for Improving Web Advertising Business Group",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13851"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13851/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25914",
+   "title": "Issue Tracking"
+  }
+ ]
+}
