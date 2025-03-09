@@ -14364,6 +14364,20 @@
   }
  },
  {
+  "name": "cg-archiver",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "Archives meetings for a W3C Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "chapi-interop-test-suite",
   "owner": {
    "login": "w3c-ccg"
@@ -19634,11 +19648,10 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/epub3"
+    "wg/pm"
    ],
    "contacts": [
-    "iherman",
-    "dauwhe"
+    "iherman"
    ],
    "repo-type": [
     "tool"
@@ -28938,7 +28951,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "bg/web-adv"
+    "cg/web-adv"
    ],
    "contacts": [
     "wseltzer"
