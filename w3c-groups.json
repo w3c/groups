@@ -3922,7 +3922,7 @@
   },
   "type": "interest group",
   "start-date": "2018-09-20",
-  "end-date": "2024-12-30",
+  "end-date": "2025-06-30",
   "tr-publisher": true,
   "group-type": "ig",
   "identifier": "ig/chinese-web",
@@ -15097,6 +15097,38 @@
   ]
  },
  {
+  "id": 165434,
+  "name": "TAG Associates",
+  "is_closed": false,
+  "description": "TAG Associates, see https://tag.w3.org/associates/",
+  "shortname": "tag-associates",
+  "members": [],
+  "internal": false,
+  "participants_list_public": true,
+  "discr": "tf",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/tf/tag-associates"
+   },
+   "homepage": {
+    "href": "https://tag.w3.org/associates/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/tf/tag-associates/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/tf/tag-associates/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/tf/tag-associates/chairs"
+   }
+  },
+  "tr-publisher": false,
+  "identifier": "tf/tag-associates",
+  "group-type": "tf",
+  "services": []
+ },
+ {
   "id": 143412,
   "name": "TREE hypermedia Community Group",
   "is_closed": false,
@@ -17331,7 +17363,7 @@
     "href": "https://api.w3.org/groups/wg/webmachinelearning/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/webmachinelearning/charters/479"
+    "href": "https://api.w3.org/groups/wg/webmachinelearning/charters/532"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/webmachinelearning/join"
@@ -17345,7 +17377,7 @@
   },
   "type": "working group",
   "start-date": "2021-04-20",
-  "end-date": "2025-04-30",
+  "end-date": "2027-04-30",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/webmachinelearning",
