@@ -18211,6 +18211,23 @@
   }
  },
  {
+  "name": "authentic-web-workshop",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Repository for materials associated with the authentic web mini-workshop series",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom,tzviya"
+   ],
+   "repo-type": [
+    "workshop"
+   ]
+  }
+ },
+ {
   "name": "automotive",
   "owner": {
    "login": "w3c"
