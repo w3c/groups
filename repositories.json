@@ -15724,6 +15724,25 @@
   }
  },
  {
+  "name": "cloud-edge-client",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cloud-edge-client"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "cndid",
   "owner": {
    "login": "w3c-cg"
@@ -15872,6 +15891,25 @@
    ],
    "contacts": [
     "p20n"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "rum",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rumcg"
+   ],
+   "contacts": [
+    "ij@w3.org"
    ],
    "repo-type": [
     "cg-report"
