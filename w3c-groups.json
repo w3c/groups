@@ -4104,6 +4104,26 @@
    {
     "href": "https://api.w3.org/services/43976",
     "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45580",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/cloud-edge-client",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45580"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45580/groups"
+      }
+     }
+    }
    }
   ]
  },
@@ -5462,7 +5482,7 @@
   "id": 96810,
   "name": "EPUB 3 Community Group",
   "is_closed": false,
-  "description": "The EPUB 3 Community Group is a forum for ongoing technical development of EPUB 3 and related extension specifications and ancillary deliverables.\r\nThe <a rel=\"nofollow\" href=\"http://www.w3.org/2017/02/EPUB3CGcharter\">EPUB 3 Community Group charter</a> contains full details.\r\n",
+  "description": "The EPUB 3 Community Group was a forum for the technical development of EPUB 3 and related extension specifications and ancillary deliverables. That work has been transferred to the  \r\n<a href=\"https://www.w3.org/groups/wg/pm/\">Publishing Maintenance Working Group</a> for standardization (see the <a href=\"https://github.com/w3c/epub-specs/\">GitHub Repository for EPUB 3</a>). For other technical discussions, please join the <a href=\"https://www.w3.org/community/publishingcg/\">Publishing Community Group</a>.\r\n\r\nThe <a rel=\"nofollow\" href=\"http://www.w3.org/2017/02/EPUB3CGcharter\">EPUB 3 Community Group charter</a> contains details about this CG's original scope.",
   "shortname": "epub3",
   "spec-publisher": true,
   "discr": "w3cgroup",
@@ -12806,6 +12826,26 @@
    {
     "href": "https://api.w3.org/services/43939",
     "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45581",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/rum",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45581"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45581/groups"
+      }
+     }
+    }
    }
   ]
  },
