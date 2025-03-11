@@ -49,6 +49,26 @@
   {
    "href": "https://api.w3.org/services/43939",
    "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/45581",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/rum",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45581"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45581/groups"
+     }
+    }
+   }
   }
  ]
 }
