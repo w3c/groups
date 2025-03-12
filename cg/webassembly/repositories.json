@@ -299,10 +299,11 @@
   }
  },
  {
-  "name": "custom-page-sizes",
+  "name": "custom-descriptors",
   "owner": {
    "login": "WebAssembly"
   },
+  "description": "Custom RTTs and JS interop for Wasm GC structs",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -318,11 +319,10 @@
   }
  },
  {
-  "name": "custom-rtts",
+  "name": "custom-page-sizes",
   "owner": {
    "login": "WebAssembly"
   },
-  "description": "Custom RTTs and JS interop for Wasm GC structs",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
