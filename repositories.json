@@ -32066,6 +32066,20 @@
   }
  },
  {
+  "name": "baseline-browser-mapping",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "baseline-browser-mapping exposes arrays of browsers compatible with Baseline Widely Available and specified Baseline year feature sets.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ]
+  }
+ },
+ {
   "name": "baseline-status",
   "owner": {
    "login": "web-platform-dx"
