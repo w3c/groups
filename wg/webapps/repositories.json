@@ -66,6 +66,29 @@
   }
  },
  {
+  "name": "ServiceWorker",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ServiceWorker/",
+  "description": "Service Workers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webapps"
+   ],
+   "contacts": [
+    "siusin",
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "policy": "open"
+  }
+ },
+ {
   "name": "badging",
   "owner": {
    "login": "w3c"
