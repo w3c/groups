@@ -1,28 +1,5 @@
 [
  {
-  "name": "ServiceWorker",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/ServiceWorker/",
-  "description": "Service Workers",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/service-workers"
-   ],
-   "contacts": [
-    "ylafon",
-    "sideshowbarker"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "policy": "open"
-  }
- },
- {
   "name": "service-workers-wg",
   "owner": {
    "login": "w3c"
