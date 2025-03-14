@@ -1048,10 +1048,6 @@
   "identifier": "wg/social"
  },
  {
-  "id": 101220,
-  "identifier": "wg/service-workers"
- },
- {
   "id": 36791,
   "identifier": "wg/uaag"
  },
@@ -1206,6 +1202,10 @@
  {
   "id": 84855,
   "identifier": "cg/scholarlyhtml"
+ },
+ {
+  "id": 101220,
+  "identifier": "wg/service-workers"
  },
  {
   "id": 34665,
