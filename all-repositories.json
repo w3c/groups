@@ -23200,6 +23200,15 @@
   }
  },
  {
+  "name": "jlreq-image-sources",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Image source files for the Requirements for Japanese Text Layout document",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "json-ld-api",
   "owner": {
    "login": "w3c"
@@ -28816,7 +28825,7 @@
    "login": "w3c"
   },
   "description": "SHACL Community Group (Post-REC activitities)",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
