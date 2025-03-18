@@ -6629,6 +6629,7 @@
   "owner": {
    "login": "WebAssembly"
   },
+  "description": "GPIO interface for WASI",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
