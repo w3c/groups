@@ -1340,19 +1340,6 @@
   }
  },
  {
-  "name": "wasi-digital-io",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ]
-  }
- },
- {
   "name": "wasi-distributed-lock-service",
   "owner": {
    "login": "WebAssembly"
@@ -1381,6 +1368,19 @@
  },
  {
   "name": "wasi-gfx",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
+  "name": "wasi-gpio",
   "owner": {
    "login": "WebAssembly"
   },
