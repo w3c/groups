@@ -280,6 +280,27 @@
   }
  },
  {
+  "name": "model-element-samples",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Working model-element samples ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "navigation",
   "owner": {
    "login": "immersive-web"
