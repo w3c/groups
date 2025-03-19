@@ -9050,6 +9050,27 @@
   }
  },
  {
+  "name": "model-element-samples",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Working model-element samples ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    87846
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "navigation",
   "owner": {
    "login": "immersive-web"
@@ -33894,7 +33915,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://wai-wcag-quickref.netlify.com",
+  "homepageUrl": "https://www.w3.org/WAI/WCAG22/quickref/",
   "description": "How to Meet WCAG (Quick Reference)",
   "isArchived": false,
   "isPrivate": false,
