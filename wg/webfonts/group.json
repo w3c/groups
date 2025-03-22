@@ -10,7 +10,7 @@
    "href": "https://api.w3.org/groups/wg/webfonts"
   },
   "homepage": {
-   "href": "https://www.w3.org/Fonts/WG/"
+   "href": "https://www.w3.org/groups/wg/webfonts/"
   },
   "users": {
    "href": "https://api.w3.org/groups/wg/webfonts/users"
@@ -31,7 +31,7 @@
    "href": "https://api.w3.org/groups/wg/webfonts/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/webfonts/charters/478"
+   "href": "https://api.w3.org/groups/wg/webfonts/charters/534"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/webfonts/join"
@@ -45,7 +45,7 @@
  },
  "type": "working group",
  "start-date": "2010-03-17",
- "end-date": "2025-03-28",
+ "end-date": "2027-03-21",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webfonts",
