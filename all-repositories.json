@@ -14446,6 +14446,20 @@
   }
  },
  {
+  "name": "ccg-archival-bot",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "Meeting summary and archival bot for W3C CCG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "cg-archiver",
   "owner": {
    "login": "w3c-ccg"
