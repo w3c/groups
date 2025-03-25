@@ -26042,6 +26042,15 @@
   }
  },
  {
+  "name": "ns-iana",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Code to populate https://www.w3.org/ns/iana/",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "odrl",
   "owner": {
    "login": "w3c"
