@@ -18127,7 +18127,7 @@
     "tf/cognitive-a11y-tf"
    ],
    "contacts": [
-    "michael-n-cooper"
+    "ruoxiran"
    ],
    "policy": "restricted",
    "repo-type": [
@@ -21914,7 +21914,8 @@
     "wg/ag"
    ],
    "contacts": [
-    "ruoxiran"
+    "ruoxiran",
+    "iadawn"
    ],
    "repo-type": [
     "note"
@@ -28739,6 +28740,26 @@
   }
  },
  {
+  "name": "wai-wcag-em",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/ag"
+   ],
+   "contacts": [
+    "iadawn"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "wai-wcag-em-report-tool",
   "owner": {
    "login": "w3c"
@@ -28845,30 +28866,6 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
-  }
- },
- {
-  "name": "wcag",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/wcag/guidelines/22/",
-  "description": "Web Content Accessibility Guidelines",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/ag"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "note",
-    "rec-track",
-    "tool"
    ]
   }
  },
@@ -29011,7 +29008,8 @@
     "wg/ag"
    ],
    "contacts": [
-    "iadawn"
+    "iadawn",
+    "kfranqueiro"
    ],
    "repo-type": [
     "rec-track"
