@@ -19160,7 +19160,7 @@
     67703
    ],
    "contacts": [
-    "michael-n-cooper"
+    "ruoxiran"
    ],
    "policy": "restricted",
    "repo-type": [
@@ -24103,7 +24103,8 @@
     35422
    ],
    "contacts": [
-    "ruoxiran"
+    "ruoxiran",
+    "iadawn"
    ],
    "repo-type": [
     "note"
@@ -33892,6 +33893,26 @@
   }
  },
  {
+  "name": "wai-wcag-em",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    35422
+   ],
+   "contacts": [
+    "iadawn"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "wai-wcag-em-overview",
   "owner": {
    "login": "w3c"
@@ -34228,21 +34249,7 @@
   "homepageUrl": "https://w3c.github.io/wcag/guidelines/22/",
   "description": "Web Content Accessibility Guidelines",
   "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    35422
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "note",
-    "rec-track",
-    "tool"
-   ]
-  }
+  "isPrivate": false
  },
  {
   "name": "wcag-act",
@@ -34410,7 +34417,8 @@
     "wg/ag"
    ],
    "contacts": [
-    "iadawn"
+    "iadawn",
+    "kfranqueiro"
    ],
    "repo-type": [
     "rec-track"
