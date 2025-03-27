@@ -14,7 +14,7 @@
     "tf/cognitive-a11y-tf"
    ],
    "contacts": [
-    "michael-n-cooper"
+    "ruoxiran"
    ],
    "policy": "restricted",
    "repo-type": [
@@ -55,7 +55,8 @@
     "wg/ag"
    ],
    "contacts": [
-    "ruoxiran"
+    "ruoxiran",
+    "iadawn"
    ],
    "repo-type": [
     "note"
@@ -85,12 +86,10 @@
   }
  },
  {
-  "name": "wcag",
+  "name": "wai-wcag-em",
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/wcag/guidelines/22/",
-  "description": "Web Content Accessibility Guidelines",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -98,13 +97,11 @@
     "wg/ag"
    ],
    "contacts": [
-    "michael-n-cooper"
+    "iadawn"
    ],
-   "policy": "restricted",
+   "policy": "open",
    "repo-type": [
-    "note",
-    "rec-track",
-    "tool"
+    "note"
    ]
   }
  },
@@ -223,7 +220,8 @@
     "wg/ag"
    ],
    "contacts": [
-    "iadawn"
+    "iadawn",
+    "kfranqueiro"
    ],
    "repo-type": [
     "rec-track"
