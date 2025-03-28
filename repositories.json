@@ -24481,6 +24481,26 @@
   }
  },
  {
+  "name": "publ-a11y-display-guide-localizations",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Localizations of the Accessibility Metadata Display Guide for Digital Publications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/publishing"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
+ },
+ {
   "name": "publ-bg",
   "owner": {
    "login": "w3c"
