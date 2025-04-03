@@ -42,6 +42,20 @@
   }
  },
  {
+  "name": "CanIWebView2",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "description": "Test app for Microsoft Edge WebView2.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
   "name": "Compatibility-Data-Project",
   "owner": {
    "login": "WebView-CG"
