@@ -14387,21 +14387,6 @@
   }
  },
  {
-  "name": "DID-Linked-Resources",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "homepageUrl": "https://w3c-ccg.github.io/DID-Linked-Resources/",
-  "description": "DID-Linked Resources Specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "Merkle-Disclosure-2021",
   "owner": {
    "login": "w3c-ccg"
@@ -14742,6 +14727,21 @@
   },
   "homepageUrl": "https://w3c-ccg.github.io/did-key-test-suite/",
   "description": "Interoperability test suite for did:key",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
+  "name": "did-linked-resources",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/DID-Linked-Resources/",
+  "description": "DID-Linked Resources Specification",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -32473,7 +32473,7 @@
    "login": "w3c"
   },
   "description": "Repository for the Better Web Browsing resource",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
