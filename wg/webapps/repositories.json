@@ -44,28 +44,6 @@
   }
  },
  {
-  "name": "IntersectionObserver",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/intersection-observer/",
-  "description": "Intersection Observer",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webapps"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "IntersectionObserver",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "ServiceWorker",
   "owner": {
    "login": "w3c"
