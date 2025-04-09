@@ -1,5 +1,27 @@
 [
  {
+  "name": "IntersectionObserver",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/TR/intersection-observer/",
+  "description": "Intersection Observer",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "shortName": "IntersectionObserver",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "css-a11y",
   "owner": {
    "login": "w3c"
