@@ -5479,6 +5479,60 @@
   ]
  },
  {
+  "id": 166442,
+  "name": "Documentation Community Group",
+  "is_closed": false,
+  "description": "<p>The mission of the W3C Documentation Community Group (W3C Docs CG) is to ensure web developers and designers worldwide have the best information available so they can build things on the web platform.</p>\r\n\r\n<p>See its <a href=\"https://github.com/w3c-cg/charter-proposals/pull/1\">proposed charter</a>. </p>\r\n<p>This group will not publish Specifications.</p>",
+  "shortname": "docs-cg",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/docs-cg"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/docs-cg/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/docs-cg/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/docs-cg/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/docs-cg/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/docs-cg/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/docs-cg/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/docs-cg",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45611",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/45612",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/45613",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45614",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 165773,
   "name": "EPUB Annotation Task Force",
   "is_closed": false,
