@@ -30791,6 +30791,27 @@
   }
  },
  {
+  "name": "wot-binding-templates-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/wot"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "shortName": "wot-binding-templates-registry",
+   "repo-type": [
+    "registry"
+   ]
+  }
+ },
+ {
   "name": "wot-cg",
   "owner": {
    "login": "w3c"
