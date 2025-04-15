@@ -29421,6 +29421,15 @@
   }
  },
  {
+  "name": "spec-maintenance",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Coordinated long-term maintenance of specs published by the W3C and related orgs",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "spec-prod",
   "owner": {
    "login": "w3c"
