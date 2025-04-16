@@ -5523,10 +5523,6 @@
     "title": "RSS"
    },
    {
-    "href": "https://api.w3.org/services/45612",
-    "title": "Chat"
-   },
-   {
     "href": "https://api.w3.org/services/45613",
     "title": "Mailing List"
    },
@@ -5553,6 +5549,10 @@
       }
      }
     }
+   },
+   {
+    "href": "https://api.w3.org/services/45653",
+    "title": "Discussion Forum"
    }
   ]
  },
