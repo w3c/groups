@@ -2358,27 +2358,6 @@
   }
  },
  {
-  "name": "digital-credentials",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/digital-credentials/",
-  "description": "Digital Credentials, like driver's licenses",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "digital-goods",
   "owner": {
    "login": "WICG"
@@ -16200,6 +16179,29 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "digital-credentials",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "https://wicg.github.io/digital-credentials/",
+  "description": "Digital Credentials, like driver's licenses",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "rec-track"
    ]
   }
  },
