@@ -66,6 +66,29 @@
   }
  },
  {
+  "name": "digital-credentials",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "homepageUrl": "https://wicg.github.io/digital-credentials/",
+  "description": "Digital Credentials, like driver's licenses",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/fedid"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "login-status",
   "owner": {
    "login": "w3c-fedid"
