@@ -983,27 +983,6 @@
   }
  },
  {
-  "name": "digital-credentials",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/digital-credentials/",
-  "description": "Digital Credentials, like driver's licenses",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "digital-goods",
   "owner": {
    "login": "WICG"
