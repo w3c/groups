@@ -19914,6 +19914,27 @@
   }
  },
  {
+  "name": "exploration-ig",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/groups/ig/exploration/",
+  "description": "Exploration Interest Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/exploration"
+   ],
+   "contacts": [
+    "xueyuanjia"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "fast",
   "owner": {
    "login": "w3c"
