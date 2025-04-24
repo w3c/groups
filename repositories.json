@@ -31548,7 +31548,7 @@
   },
   "homepageUrl": "https://w3ctag.github.io/client-certificates",
   "description": "TAG spec review on keygen and use of client certificates in the web platform.",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -31613,7 +31613,7 @@
    "login": "w3ctag"
   },
   "description": "TAG opinion on EME",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -32163,7 +32163,7 @@
    "login": "w3ctag"
   },
   "description": "a discussion of proposals related to w3ctag/design-reviews#76",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
