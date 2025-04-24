@@ -27848,6 +27848,26 @@
   }
  },
  {
+  "name": "vc-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Working home repository of the W3C Verifiable Credentials WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "vc-wg-charter",
   "owner": {
    "login": "w3c"
