@@ -53,6 +53,26 @@
   {
    "href": "https://api.w3.org/services/39161",
    "title": "Wiki"
+  },
+  {
+   "href": "https://api.w3.org/services/45662",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/sustainability",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45662"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45662/groups"
+     }
+    }
+   }
   }
  ]
 }
