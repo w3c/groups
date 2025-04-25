@@ -5279,7 +5279,7 @@
   },
   "homepageUrl": "https://WebAssembly.github.io/annotations/",
   "description": "Proposal for Custom Annotation Syntax in the Text Format",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -5631,7 +5631,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/exception-handling/",
   "description": "Proposal to add exception handling to WebAssembly",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -5766,7 +5766,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/function-references/",
   "description": "Proposal for Typed Function References",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -5787,7 +5787,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/gc/",
   "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -6028,7 +6028,7 @@
   },
   "homepageUrl": "https://webassembly.github.io/multi-memory/",
   "description": "Multiple per-module memories for Wasm",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
