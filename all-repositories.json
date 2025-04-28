@@ -31898,9 +31898,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/verifiable-credentials/",
   "description": "W3C Verifiable Credentials Working Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
