@@ -30371,6 +30371,26 @@
   }
  },
  {
+  "name": "tpac2025-meetings",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "groups": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "tr-design",
   "owner": {
    "login": "w3c"
