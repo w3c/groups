@@ -38351,6 +38351,27 @@
   }
  },
  {
+  "name": "web-no-papers",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "description": "This is for the \"The Web Must Never Demand your 'Papers'\" Finding",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    53154
+   ],
+   "contacts": [
+    "yourGHusername"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "web-without-3p-cookies",
   "owner": {
    "login": "w3ctag"
