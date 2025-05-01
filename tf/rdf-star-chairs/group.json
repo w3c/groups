@@ -6,9 +6,9 @@
  "members": [
   {
    "id": 139681,
-   "name": "RDF-star Working Group",
+   "name": "RDF & SPARQL Working Group",
    "is_closed": false,
-   "description": "The mission of the RDF-star Working Group is to extend a set of RDF and SPARQL related recommendations, with the ability to concisely represent and query statements about statements.",
+   "description": "The mission of the RDF & SPARQL Working Group is to update and maintain the set of RDF and SPARQL related recommendations, extending them with the ability to concisely represent and query statements about statements.",
    "shortname": "rdf-star",
    "discr": "w3cgroup",
    "_links": {
@@ -37,7 +37,7 @@
      "href": "https://api.w3.org/groups/wg/rdf-star/charters"
     },
     "active-charter": {
-     "href": "https://api.w3.org/groups/wg/rdf-star/charters/467"
+     "href": "https://api.w3.org/groups/wg/rdf-star/charters/537"
     },
     "join": {
      "href": "https://www.w3.org/groups/wg/rdf-star/join"
@@ -51,7 +51,7 @@
    },
    "type": "working group",
    "start-date": "2022-08-29",
-   "end-date": "2025-04-30",
+   "end-date": "2027-04-30",
    "tr-publisher": true,
    "group-type": "wg",
    "identifier": "wg/rdf-star"
