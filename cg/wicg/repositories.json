@@ -481,25 +481,6 @@
   }
  },
  {
-  "name": "canvas-place-element",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "capability-delegation",
   "owner": {
    "login": "WICG"
@@ -1574,6 +1555,25 @@
   "w3cjson": {
    "group": [
     "cg/wicg"
+   ]
+  }
+ },
+ {
+  "name": "html-in-canvas",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
