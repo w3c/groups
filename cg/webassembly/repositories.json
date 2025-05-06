@@ -798,6 +798,19 @@
   }
  },
  {
+  "name": "more-array-constructors",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "multi-memory",
   "owner": {
    "login": "WebAssembly"
