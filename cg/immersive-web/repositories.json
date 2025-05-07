@@ -637,20 +637,5 @@
     "cg/immersive-web"
    ]
   }
- },
- {
-  "name": "webxr-samples",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "homepageUrl": "https://immersive-web.github.io/webxr-samples/",
-  "description": "Samples to demonstrate use of the WebXR Device API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/immersive-web"
-   ]
-  }
  }
 ]
