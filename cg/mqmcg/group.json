@@ -2,10 +2,10 @@
  "id": 100410,
  "name": "Multidimensional Quality Metrics (MQM) Community Group",
  "is_closed": false,
- "description": "The Multidimensional Quality Metrics (MQM) Community Group fosters the development of MQM for translation and localization quality assessment and its interoperability with W3C’s Internationalization Tag Set (ITS) 2.0 recommendation. Membership is open to parties interested in contributing to or implementing MQM.",
+ "description": "The MQM CG’s purposes are to:\r\n<ol>\r\n<li>further develop the Multidimensional Quality Metrics (MQM) error typology and corresponding scoring models for evaluating translation quality;</li>\r\n<li>ensure that MQM is updated to reflect the effects of generative AI, such as large language models;</li>\r\n<li>create web-compatible markup formats for MQM; and</li>\r\n<li>promote interoperability with existing W3C recommendations – particularly ITS 2.0 – including extensions to enable them to support MQM. It publishes Specifications to support these activities.</li>\r\n</ol>\r\n\r\nIn addition, the MQM CG facilitates discussion about best practices for using MQM for evaluating the quality of human, machine translation, and generative AI translation and applying the error types and their definitions. It also supports the addition of language- and content type-specific extensions to MQM and serve as a clearing house for declaring error type selections for different use cases. The MQM CG works in tandem with the <a href=\"http://www.themqm.org\">MQM Council</a> to support its mission and promote MQM.",
  "shortname": "mqmcg",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/cg/mqmcg"
@@ -29,5 +29,26 @@
    "href": "https://api.w3.org/groups/cg/mqmcg/participations"
   }
  },
- "identifier": "cg/mqmcg"
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mqmcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/9381",
+   "title": "RSS"
+  },
+  {
+   "href": "https://api.w3.org/services/9382",
+   "title": "Chat"
+  },
+  {
+   "href": "https://api.w3.org/services/9383",
+   "title": "Mailing List"
+  },
+  {
+   "href": "https://api.w3.org/services/9385",
+   "title": "Mailing List"
+  }
+ ]
 }
