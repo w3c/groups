@@ -9557,7 +9557,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/immersive-web"
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "tool"
    ]
   }
  },
