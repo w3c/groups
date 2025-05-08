@@ -144,6 +144,60 @@
   ]
  },
  {
+  "id": 167263,
+  "name": "AI Agent Protocol Community Group",
+  "is_closed": false,
+  "description": "<p>The mission of the AI Agent Protocol Community Group is to develop open, interoperable protocols that enable AI agents to discover, identify, and collaborate efficiently across the Web. As AI agents increasingly participate in Web-based activities, there is a growing need for standardized mechanisms to support secure, reliable, and scalable interactions. This group aims to establish the technical foundations for the emerging Agentic Web. The AI Agent Protocol Community Group would like to bring together industry and academia stakeholders interested in standardizing agent communication.</p>\r\n\r\n<h4>Scope of Work</h4>\r\n\r\n<p>This Community Group will explore and define:</p>\r\n\r\n<ul>\r\n<li>Inter-agent communication protocols: Mechanisms that allow agents to discover one another, exchange intent and capability information, negotiate roles, and dynamically establish or dissolve collaborations in an open Web environment.</li>\r\n<li>Agent identity models: An identity framework for AI agents, based on open standards, to support secure, interoperable authentication between agents across domains.</li>\r\n<li>Standardized metadata formats: Structured descriptions of agent capabilities, interfaces, goals, and states, based on Web-native formats to enable automated reasoning, composition, and orchestration of agent behavior.</li>\r\n<li>Security and privacy mechanisms: Cross-origin communication security models for agents, including authentication, authorization, verifiable credential-based trust, and end-to-end encryption, to safeguard the integrity and confidentiality of agent interactions.</li>\r\n<li>Protocol interoperability: Compatibility layers and best practices that allow agent-based systems to leverage existing Web protocols and standards for integration and collaboration.</li>\r\n</ul>\r\n\r\nThis group will publish Specifications.\r\n\r\n<p>This group welcomes participation from AI platform developers, protocol designers, browser vendors, Web application developers, academic researchers, and other stakeholders interested in advancing the open standards that will enable a trusted, collaborative Web of agents.</p>\r\n\r\n<h4>Who Should Join</h4>\r\n\r\n<p>We welcome participation from individuals and organizations in the following areas:</p>\r\n\r\n<ul>\r\n<li>Developers of AI platforms and agent-based applications</li>\r\n<li>Enterprise software and infrastructure providers</li>\r\n<li>Academic and research institutions</li>\r\n<li>Standards bodies and open source organizations</li>\r\n<li>Policymakers and regulatory agencies</li>\r\n</ul>\r\n\r\n<p>Join the AI Agent Protocol Web Community Group to co-develop open technologies that enhance the interoperability and security of AI agents—and help build a trustworthy, collaborative, and global agent network for the Web.</p>",
+  "shortname": "agentprotocol",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/agentprotocol"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/agentprotocol/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/agentprotocol/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/agentprotocol/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/agentprotocol/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/agentprotocol/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/agentprotocol/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/agentprotocol",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45694",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/45695",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/45696",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45697",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 108226,
   "name": "AI KR (Artificial Intelligence Knowledge Representation) Community Group",
   "is_closed": false,
@@ -12828,6 +12882,10 @@
       }
      }
     }
+   },
+   {
+    "href": "https://api.w3.org/services/45693",
+    "title": "Mailing List"
    }
   ]
  },
