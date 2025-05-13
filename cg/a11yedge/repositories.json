@@ -1,5 +1,19 @@
 [
  {
+  "name": "capabilities",
+  "owner": {
+   "login": "a11yedge"
+  },
+  "description": "Inventory of edge capabilities",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/a11yedge"
+   ]
+  }
+ },
+ {
   "name": "community",
   "owner": {
    "login": "a11yedge"
