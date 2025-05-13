@@ -16065,6 +16065,25 @@
   }
  },
  {
+  "name": "ai-agent-protocol",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    167263
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "autoprivacy",
   "owner": {
    "login": "w3c-cg"
