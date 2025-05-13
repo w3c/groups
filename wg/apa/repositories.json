@@ -1,25 +1,5 @@
 [
  {
-  "name": "capabilities",
-  "owner": {
-   "login": "a11yedge"
-  },
-  "description": "Inventory of edge capabilities",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/apa"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
   "name": "overlays",
   "owner": {
    "login": "a11yedge"
