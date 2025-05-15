@@ -17385,6 +17385,60 @@
   ]
  },
  {
+  "id": 167533,
+  "name": "Web AI for Time Series Community Group",
+  "is_closed": false,
+  "description": "<p>The Web AI for Time Series (WAITS) Community Group advances real-time analysis of time-dependent data — including financial transactions, behavioral logs, and sensor streams — while ensuring the security and integrity of deployed AI models, the protection of incoming data streams, and the confidentiality of both usage and users. </p>\r\n\r\n<p>By leveraging web-native technologies such as WebAssembly, WebGPU, WebNN, and WebRTC, the group promotes open standards for decentralized, browser-based inference on time series data, supporting both federated and edge AI scenarios. The group explores various time series AI architectures including LSTM networks, temporal transformers, and state-space models, focusing on their efficient implementation in web environments.</p>\r\n\r\n<p>The group focuses on identifying real-world use cases, exploring architectural patterns, and drafting guidelines to support decentralized, privacy-preserving AI on time series data. As part of this effort, its initial objective is to map existing Web APIs that could serve as a foundation for time series AI workflows, while ensuring interoperability with related standards such as WebGPU, WebNN, ONNX Runtime Web, and the Generic Sensor API.</p>\r\n\r\n<p>Special attention is given to model security mechanisms including secure model loading, runtime integrity verification, and protection against model extraction attacks. Should concrete standardization needs emerge from these efforts, the group may consider rechartering or contributing to relevant W3C Working Groups.</p>\r\n\r\n<p>This group will publish Specifications.</p>",
+  "shortname": "waits",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/waits"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/waits/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/waits/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/waits/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/waits/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/waits/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/waits/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/waits",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45743",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/45744",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/45745",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45746",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 49309,
   "name": "Web Application Security Working Group",
   "is_closed": false,
