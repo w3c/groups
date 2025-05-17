@@ -6299,6 +6299,60 @@
   ]
  },
  {
+  "id": 167586,
+  "name": "FAIR Data Point Community Group",
+  "is_closed": false,
+  "description": "<p>The FAIR Data Point (FDP) aims to guide application and data source developers in providing metadata about their available resources conforming to the FAIR principles. The FAIR Data Point specifications define behaviours and protocols to allow a common publication and consumption of semantically rich metadata. The FDP metadata approach is based on W3C DCAT.</p>\r\n<p>This group will publish Specifications.</p>",
+  "shortname": "fdp",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/fdp"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/fdp/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/fdp/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/fdp/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/fdp/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/fdp/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/fdp/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/fdp",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45757",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/45758",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/45759",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45760",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 144058,
   "name": "FAST Task Force",
   "is_closed": false,
