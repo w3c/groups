@@ -46,6 +46,25 @@
   }
  },
  {
+  "name": "epub",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "other"
+   ]
+  }
+ },
+ {
   "name": "epub-specs",
   "owner": {
    "login": "w3c"
