@@ -15357,8 +15357,8 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "https://w3c-ccg.github.io/vc-api",
-  "description": "A specification for an HTTP API used to issue and verify Verifiable Credentials.",
+  "homepageUrl": "https://w3c-ccg.github.io/vc-api/",
+  "description": "An HTTP API for performing credential lifecycle management for Verifiable Credentials.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
