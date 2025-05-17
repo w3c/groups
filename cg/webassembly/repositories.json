@@ -380,20 +380,6 @@
   }
  },
  {
-  "name": "dynamic-array-constructors",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "New array allocation instructions for dynamic heterogeneous content",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ]
-  }
- },
- {
   "name": "esm-integration",
   "owner": {
    "login": "WebAssembly"
