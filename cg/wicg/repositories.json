@@ -3061,6 +3061,25 @@
   }
  },
  {
+  "name": "service-worker-auto-preload",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "service-worker-static-routing-api",
   "owner": {
    "login": "WICG"
