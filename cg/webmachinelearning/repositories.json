@@ -92,6 +92,20 @@
   }
  },
  {
+  "name": "proofreader-api",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "Proposal for Proofreader API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "proposals",
   "owner": {
    "login": "webmachinelearning"
