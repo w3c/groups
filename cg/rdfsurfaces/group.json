@@ -69,6 +69,26 @@
      }
     }
    }
+  },
+  {
+   "href": "https://api.w3.org/services/45785",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/eyereasoner/rdfsurfaces-tests",
+    "shortdesc": "Repo for Tests",
+    "longdesc": "Repo for Tests",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45785"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45785/groups"
+     }
+    }
+   }
   }
  ]
 }
