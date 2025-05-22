@@ -8286,6 +8286,20 @@
   }
  },
  {
+  "name": "rdfsurfaces-tests",
+  "owner": {
+   "login": "eyereasoner"
+  },
+  "description": "A test kit for RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ]
+  }
+ },
+ {
   "name": "LightweightFedCM",
   "owner": {
    "login": "fedidcg"
