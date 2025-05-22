@@ -1,5 +1,19 @@
 [
  {
+  "name": "rdfsurfaces-tests",
+  "owner": {
+   "login": "eyereasoner"
+  },
+  "description": "A test kit for RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ]
+  }
+ },
+ {
   "name": "rdfsurfaces",
   "owner": {
    "login": "w3c-cg"
