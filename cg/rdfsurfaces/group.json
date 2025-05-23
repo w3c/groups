@@ -89,6 +89,46 @@
      }
     }
    }
+  },
+  {
+   "href": "https://api.w3.org/services/45788",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/KNowledgeOnWebScale/birthday",
+    "shortdesc": "Repo for Birthday Experiment",
+    "longdesc": "Repo for Birthday Experiment",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45788"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45788/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45789",
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/KNowledgeOnWebScale/n3s-policy-consistency-checker",
+    "shortdesc": "Repo for Policy Checker Experiment",
+    "longdesc": "Repo for Policy Checker Experiment",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45789"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45789/groups"
+     }
+    }
+   }
   }
  ]
 }
