@@ -415,6 +415,35 @@
   }
  },
  {
+  "name": "birthday",
+  "owner": {
+   "login": "KNowledgeOnWebScale"
+  },
+  "description": "A deontic reasoner for team policies (trying to solve the birthday use-case)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ]
+  }
+ },
+ {
+  "name": "n3s-policy-consistency-checker",
+  "owner": {
+   "login": "KNowledgeOnWebScale"
+  },
+  "homepageUrl": "https://knowledgeonwebscale.github.io/n3s-policy-consistency-checker/",
+  "description": "A policy consistency checker implemented witn N3 and RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ]
+  }
+ },
+ {
   "name": "FiskMississippiMapsStreamCourses",
   "owner": {
    "login": "Maps4HTML"
