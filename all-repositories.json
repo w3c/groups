@@ -14637,20 +14637,6 @@
   }
  },
  {
-  "name": "confidence-method-spec",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "description": "W3C VCDM extension for confidence method",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "create-repo",
   "owner": {
    "login": "w3c-ccg"
@@ -15669,6 +15655,20 @@
   },
   "homepageUrl": "https://w3c-ccg.github.io/vc-barcodes/",
   "description": "Securing optical barcodes using Verifiable Credentials.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
+  "name": "vc-confidence-method",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "W3C VCDM extension for confidence method",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
