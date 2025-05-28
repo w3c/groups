@@ -7593,6 +7593,27 @@
   }
  },
  {
+  "name": "webview-definition",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "homepageUrl": "https://webview-cg.github.io/webview-definition/",
+  "description": "WebView explainer",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ],
+   "contacts": [
+    "dontcallmeDom"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webview-market-share",
   "owner": {
    "login": "WebView-CG"
@@ -36903,7 +36924,7 @@
   }
  },
  {
-  "name": "wot-binding-templates-registry",
+  "name": "wot-bindings-registry",
   "owner": {
    "login": "w3c"
   },
