@@ -14,6 +14,21 @@
   }
  },
  {
+  "name": "cborld-registry",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/cborld-registry/",
+  "description": "CBOR-LD compression table registry",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ]
+  }
+ },
+ {
   "name": "charter",
   "owner": {
    "login": "json-ld"
