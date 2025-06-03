@@ -5,7 +5,7 @@
    "login": "webauthn-adoption"
   },
   "description": "Repo to host tracking and discussions of items not related to other repos of the group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -20,7 +20,7 @@
   },
   "homepageUrl": "https://webauthn.how",
   "description": "Showing and telling how to deploy WebAuthn / FIDO2 across several languages and frameworks",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -34,7 +34,7 @@
    "login": "webauthn-adoption"
   },
   "description": "Proof of Concept for a new CI-friendly conformance testing suite for WebAuthn server-side interactions",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
