@@ -2133,7 +2133,7 @@
    "login": "WICG"
   },
   "description": "WICG draft for COOP with popups proposal",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -32546,49 +32546,6 @@
   "w3cjson": {
    "group": [
     "cg/webdx"
-   ]
-  }
- },
- {
-  "name": "admin",
-  "owner": {
-   "login": "webauthn-adoption"
-  },
-  "description": "Repo to host tracking and discussions of items not related to other repos of the group",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webauthn-adoption"
-   ]
-  }
- },
- {
-  "name": "practical-webauthn",
-  "owner": {
-   "login": "webauthn-adoption"
-  },
-  "homepageUrl": "https://webauthn.how",
-  "description": "Showing and telling how to deploy WebAuthn / FIDO2 across several languages and frameworks",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webauthn-adoption"
-   ]
-  }
- },
- {
-  "name": "webauthn-conformance",
-  "owner": {
-   "login": "webauthn-adoption"
-  },
-  "description": "Proof of Concept for a new CI-friendly conformance testing suite for WebAuthn server-side interactions",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webauthn-adoption"
    ]
   }
  },
