@@ -16426,7 +16426,7 @@
     "href": "https://api.w3.org/groups/wg/timed-text/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/timed-text/charters/480"
+    "href": "https://api.w3.org/groups/wg/timed-text/charters/538"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/timed-text/join"
@@ -16440,7 +16440,7 @@
   },
   "type": "working group",
   "start-date": "2008-08-15",
-  "end-date": "2025-07-07",
+  "end-date": "2027-06-03",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/timed-text",
@@ -19469,84 +19469,6 @@
    {
     "href": "https://api.w3.org/services/25912",
     "title": "Issue Tracking"
-   }
-  ]
- },
- {
-  "id": 122873,
-  "name": "WebAuthn Adoption Community Group",
-  "is_closed": false,
-  "description": "This group helped coordinate research and actions to help with broader adoption of the Web Authentication ecosystem. For continued discussions and help on these topics, see, for example:\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/orgs/passkeydeveloper/discussions\">passkeys.dev discussions</a></li>\r\n<li><a href=\"https://groups.google.com/a/fidoalliance.org/g/fido-dev\">fido-dev mailing list</a></li>\r\n</ul>",
-  "shortname": "webauthn-adoption",
-  "spec-publisher": false,
-  "discr": "w3cgroup",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/cg/webauthn-adoption"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/community/webauthn-adoption/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/cg/webauthn-adoption/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/cg/webauthn-adoption/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/cg/webauthn-adoption/chairs"
-   },
-   "join": {
-    "href": "https://www.w3.org/community/webauthn-adoption/join"
-   },
-   "participations": {
-    "href": "https://api.w3.org/groups/cg/webauthn-adoption/participations"
-   }
-  },
-  "type": "community group",
-  "tr-publisher": false,
-  "group-type": "cg",
-  "identifier": "cg/webauthn-adoption",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/25808",
-    "title": "RSS"
-   },
-   {
-    "href": "https://api.w3.org/services/25809",
-    "title": "Chat"
-   },
-   {
-    "href": "https://api.w3.org/services/25810",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/25811",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/25829",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/webauthn-adoption/",
-     "shortdesc": "Github repositories",
-     "longdesc": "Github repositories",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/25829"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/25829/groups"
-      }
-     }
-    }
-   },
-   {
-    "href": "https://api.w3.org/services/25830",
-    "title": "Wiki"
    }
   ]
  },
