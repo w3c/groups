@@ -32776,6 +32776,20 @@
   }
  },
  {
+  "name": "webnn-docs",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "WebNN Developer Documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "webnn-native",
   "owner": {
    "login": "webmachinelearning"
