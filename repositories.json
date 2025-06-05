@@ -759,6 +759,21 @@
   }
  },
  {
+  "name": "gdal",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "homepageUrl": "https://gdal.org",
+  "description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ]
+  }
+ },
+ {
   "name": "geoserver",
   "owner": {
    "login": "Maps4HTML"
