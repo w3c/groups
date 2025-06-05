@@ -16177,25 +16177,6 @@
   }
  },
  {
-  "name": "autoprivacy",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    151951
-   ],
-   "contacts": [
-    "ij@w3.org"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "cloud-edge-client",
   "owner": {
    "login": "w3c-cg"
@@ -16227,26 +16208,6 @@
    ],
    "contacts": [
     "ruoxiran"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "consentcg",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    127555
-   ],
-   "contacts": [
-    "coolharsh55",
-    "soheil-human"
    ],
    "repo-type": [
     "cg-report"
