@@ -17161,6 +17161,25 @@
   }
  },
  {
+  "name": "a11y-longituidinal-tracking",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "a11y-request",
   "owner": {
    "login": "w3c"
@@ -17562,25 +17581,6 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "apa-longituidinal-tracking",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/apa"
-   ],
-   "contacts": [
-    "ruoxiran"
-   ],
-   "repo-type": [
-    "rec-track"
    ]
   }
  },
