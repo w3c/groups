@@ -30267,6 +30267,15 @@
   }
  },
  {
+  "name": "threat-model-web",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "A Threat Model for the Web",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "time-series-and-spatial-data",
   "owner": {
    "login": "w3c"
@@ -30505,6 +30514,26 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
+  "name": "tpac2025-breakouts",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "groups": [
     106
    ],
    "contacts": [
