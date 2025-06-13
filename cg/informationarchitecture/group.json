@@ -2,9 +2,9 @@
  "id": 60884,
  "name": "Information Architecture Community Group",
  "is_closed": false,
- "description": "The W3C Information Architecture community group is for anyone interested in Information Architecture and standards, and to participate, discuss, share, support, develop, and learn about them.",
+ "description": "The W3C Information Architecture community group is for anyone interested in Information Architecture and standards, and to participate, discuss, share, support, develop, and learn about them. \r\n\r\nThis group does not publish Specifications.",
  "shortname": "informationarchitecture",
- "spec-publisher": true,
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
   "self": {
