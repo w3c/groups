@@ -14182,6 +14182,20 @@
   }
  },
  {
+  "name": "activitypub-remix",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "Remixing and Aggregation Task force of the Social Web Incubator Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-trust-and-safety",
   "owner": {
    "login": "swicg"
