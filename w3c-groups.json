@@ -8705,6 +8705,60 @@
   "services": []
  },
  {
+  "id": 168436,
+  "name": "Loading & Control API for Web Games Community Group",
+  "is_closed": false,
+  "description": "<p>In the industry of web games, there are many different web game portals across which game developers distribute their games. While these game portals all share common design patterns in their SDKs,  game developers lack a common/unified API pattern that they can target to support the various portals. Instead, developers are often forced to write their own libraries to aggregate the management of the portal’s SDKs. The mission of this Community Group is to define a Micro-API outlining a boundary between a web game and the page in which it is embedded. We propose that web game portals can simplify the lives of game developers, game engines and game portals by aligning on a minimum viable API. For more information about the intended scope of work see the <a href=\"https://docs.google.com/document/d/1RL4hTFJcuSGjeWNxzz3g2P7K8GyIx2YXX2XOZyuxSfs/edit?tab=t.0#heading=h.jankgi9l5x99\">draft charter</a> (which will be moved to a GitHub repo upon creation of the group).</p>",
+  "shortname": "loading-control-games",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/loading-control-games"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/loading-control-games/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/loading-control-games/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/loading-control-games/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/loading-control-games/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/loading-control-games/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/loading-control-games/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/loading-control-games",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45826",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/45827",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/45828",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45829",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 81151,
   "name": "Low Vision Accessibility Task Force",
   "is_closed": false,
