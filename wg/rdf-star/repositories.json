@@ -40,6 +40,26 @@
   }
  },
  {
+  "name": "rdf-interop",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/rdf-interop/spec/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "rdf-n-quads",
   "owner": {
    "login": "w3c"
