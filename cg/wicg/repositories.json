@@ -2014,6 +2014,26 @@
   }
  },
  {
+  "name": "local-network-access",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "A proposal to restrict sites from accessing a users' local network without permission",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "local-peer-to-peer",
   "owner": {
    "login": "WICG"
