@@ -2327,6 +2327,25 @@
   }
  },
  {
+  "name": "declarative-partial-updates",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "deprecation-reporting",
   "owner": {
    "login": "WICG"
@@ -20169,19 +20188,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
-  }
- },
- {
-  "name": "federated-learning-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/federated-learning"
    ]
   }
  },
