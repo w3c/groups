@@ -283,6 +283,20 @@
   }
  },
  {
+  "name": "bioschemas_specification_releases",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "Repository archiving types and profiles files as released on Bioschemas website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
   "name": "governance",
   "owner": {
    "login": "BioSchemas"
