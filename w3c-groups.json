@@ -58,16 +58,7 @@
   "tr-publisher": false,
   "identifier": "tf/ab-liaisons-to-bod",
   "group-type": "tf",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/43989",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/43996",
-    "title": "Mailing List"
-   }
-  ]
+  "services": []
  },
  {
   "id": 114156,
@@ -13865,10 +13856,6 @@
    },
    {
     "href": "https://api.w3.org/services/14026",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/18328",
     "title": "Mailing List"
    },
    {
