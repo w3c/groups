@@ -3823,7 +3823,23 @@
    },
    {
     "href": "https://api.w3.org/services/43874",
-    "title": "Other"
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c/cndid/",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub repo",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/43874"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/43874/groups"
+      }
+     }
+    }
    },
    {
     "href": "https://api.w3.org/services/43900",
@@ -11657,7 +11673,23 @@
    },
    {
     "href": "https://api.w3.org/services/6552",
-    "title": "Other"
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c/publ-bg",
+     "shortdesc": "Github repository",
+     "longdesc": "Github repository",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/6552"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/6552/groups"
+      }
+     }
+    }
    },
    {
     "href": "https://api.w3.org/services/6553",
@@ -11911,7 +11943,23 @@
    },
    {
     "href": "https://api.w3.org/services/40775",
-    "title": "Other"
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/w3c/pm-wg",
+     "shortdesc": "WG GitHub repository",
+     "longdesc": "",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/40775"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/40775/groups"
+      }
+     }
+    }
    }
   ]
  },
