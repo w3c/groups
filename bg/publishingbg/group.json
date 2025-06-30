@@ -51,7 +51,23 @@
   },
   {
    "href": "https://api.w3.org/services/6552",
-   "title": "Other"
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/publ-bg",
+    "shortdesc": "Github repository",
+    "longdesc": "Github repository",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6552"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6552/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6553",
