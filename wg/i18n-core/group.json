@@ -51,10 +51,6 @@
  "identifier": "wg/i18n-core",
  "services": [
   {
-   "href": "https://api.w3.org/services/113",
-   "title": "Wiki"
-  },
-  {
    "href": "https://api.w3.org/services/283",
    "title": "Mailing List"
   },
