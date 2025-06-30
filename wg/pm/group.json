@@ -72,7 +72,23 @@
   },
   {
    "href": "https://api.w3.org/services/40775",
-   "title": "Other"
+   "title": "Version Control",
+   "details": {
+    "type": "repository",
+    "link": "https://github.com/w3c/pm-wg",
+    "shortdesc": "WG GitHub repository",
+    "longdesc": "",
+    "external": true,
+    "closed": false,
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40775"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40775/groups"
+     }
+    }
+   }
   }
  ]
 }
