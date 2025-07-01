@@ -10239,6 +10239,60 @@
   ]
  },
  {
+  "id": 168829,
+  "name": "Ontology for Agents, Systems, and Integration of Services Community Group",
+  "is_closed": false,
+  "description": "<p>Semantic representation is a fundamental enabler across various application domains, including multi-agent systems. The OASIS ontology (Ontology for Agents, Systems, and Integration of Services) offers a formal and shared framework for modeling agents, interactions, processes, procedures, and events. Developed over several years, OASIS has found applications in areas such as e-commerce and blockchain technologies. The mission of this group is to advance its formalization by leveraging Semantic Web technologies.</p>",
+  "shortname": "oasis",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/oasis"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/oasis/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/oasis/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/oasis/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/oasis/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/oasis/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/oasis/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/oasis",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45874",
+    "title": "RSS"
+   },
+   {
+    "href": "https://api.w3.org/services/45875",
+    "title": "Chat"
+   },
+   {
+    "href": "https://api.w3.org/services/45876",
+    "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45877",
+    "title": "Mailing List"
+   }
+  ]
+ },
+ {
   "id": 48038,
   "name": "Ontology-Lexica Community Group",
   "is_closed": false,
