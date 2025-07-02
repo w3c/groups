@@ -8390,6 +8390,19 @@
   }
  },
  {
+  "name": "OASIS",
+  "owner": {
+   "login": "dfsantamaria"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/oasis"
+   ]
+  }
+ },
+ {
   "name": "expath-cg",
   "owner": {
    "login": "expath"
@@ -16418,7 +16431,7 @@
   "owner": {
    "login": "w3c-fedid"
   },
-  "homepageUrl": "https://w3c-fedid.github.io/digital-credentials/",
+  "homepageUrl": "https://www.w3.org/TR/digital-credentials/latest/",
   "description": "Digital Credentials API",
   "isArchived": false,
   "isPrivate": false,
