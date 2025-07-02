@@ -10289,6 +10289,26 @@
    {
     "href": "https://api.w3.org/services/45877",
     "title": "Mailing List"
+   },
+   {
+    "href": "https://api.w3.org/services/45882",
+    "title": "Version Control",
+    "details": {
+     "type": "repository",
+     "link": "https://github.com/dfsantamaria/OASIS",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub",
+     "external": true,
+     "closed": false,
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45882"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45882/groups"
+      }
+     }
+    }
    }
   ]
  },
