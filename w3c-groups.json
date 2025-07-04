@@ -3822,26 +3822,6 @@
     "title": "Mailing List"
    },
    {
-    "href": "https://api.w3.org/services/43874",
-    "title": "Version Control",
-    "details": {
-     "type": "repository",
-     "link": "https://github.com/w3c/cndid/",
-     "shortdesc": "GitHub",
-     "longdesc": "GitHub repo",
-     "external": true,
-     "closed": false,
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/43874"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/43874/groups"
-      }
-     }
-    }
-   },
-   {
     "href": "https://api.w3.org/services/43900",
     "title": "Version Control",
     "details": {
@@ -6567,10 +6547,6 @@
    {
     "href": "https://api.w3.org/services/6535",
     "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/6537",
-    "title": "Other"
    },
    {
     "href": "https://api.w3.org/services/6548",
