@@ -78,10 +78,5 @@
  "tr-publisher": false,
  "identifier": "tf/fast",
  "group-type": "tf",
- "services": [
-  {
-   "href": "https://api.w3.org/services/40763",
-   "title": "Mailing List"
-  }
- ]
+ "services": []
 }
