@@ -7682,6 +7682,19 @@
   }
  },
  {
+  "name": "webview-handbook",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
   "name": "webview-market-share",
   "owner": {
    "login": "WebView-CG"
