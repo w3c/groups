@@ -1264,10 +1264,6 @@
     "title": "Mailing List"
    },
    {
-    "href": "https://api.w3.org/services/18008",
-    "title": "Mailing List"
-   },
-   {
     "href": "https://api.w3.org/services/27124",
     "title": "Mailing List"
    },
@@ -2093,10 +2089,6 @@
   "identifier": "tf/automotive-pay",
   "group-type": "tf",
   "services": [
-   {
-    "href": "https://api.w3.org/services/12441",
-    "title": "Mailing List"
-   },
    {
     "href": "https://api.w3.org/services/13980",
     "title": "Mailing List"
@@ -6279,12 +6271,7 @@
   "tr-publisher": false,
   "identifier": "tf/fast",
   "group-type": "tf",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/40763",
-    "title": "Mailing List"
-   }
-  ]
+  "services": []
  },
  {
   "id": 132274,
@@ -6567,10 +6554,6 @@
       }
      }
     }
-   },
-   {
-    "href": "https://api.w3.org/services/13771",
-    "title": "Mailing List"
    },
    {
     "href": "https://api.w3.org/services/25938",
@@ -8225,10 +8208,6 @@
    {
     "href": "https://api.w3.org/services/14997",
     "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/26230",
-    "title": "Mailing List"
    }
   ]
  },
@@ -9792,10 +9771,6 @@
    },
    {
     "href": "https://api.w3.org/services/9383",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/9385",
     "title": "Mailing List"
    }
   ]
@@ -13562,10 +13537,6 @@
     "title": "Mailing List"
    },
    {
-    "href": "https://api.w3.org/services/26186",
-    "title": "Mailing List"
-   },
-   {
     "href": "https://api.w3.org/services/26880",
     "title": "Mailing List"
    }
@@ -14255,10 +14226,6 @@
     }
    },
    {
-    "href": "https://api.w3.org/services/33238",
-    "title": "Mailing List"
-   },
-   {
     "href": "https://api.w3.org/services/40709",
     "title": "Other"
    }
@@ -14929,10 +14896,6 @@
       }
      }
     }
-   },
-   {
-    "href": "https://api.w3.org/services/18395",
-    "title": "Mailing List"
    },
    {
     "href": "https://api.w3.org/services/18407",
@@ -16658,10 +16621,6 @@
   "identifier": "tf/vc-wg-chairs",
   "group-type": "tf",
   "services": [
-   {
-    "href": "https://api.w3.org/services/33951",
-    "title": "Mailing List"
-   },
    {
     "href": "https://api.w3.org/services/34737",
     "title": "Mailing List"
@@ -19181,10 +19140,6 @@
    },
    {
     "href": "https://api.w3.org/services/12190",
-    "title": "Mailing List"
-   },
-   {
-    "href": "https://api.w3.org/services/26885",
     "title": "Mailing List"
    }
   ]
