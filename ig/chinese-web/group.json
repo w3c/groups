@@ -52,19 +52,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/14229",
-   "title": "Mailing List"
+   "title": "member-chinese-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/14678",
-   "title": "Mailing List"
+   "title": "public-chinese-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17284",
-   "title": "Other"
+   "title": "Meetings (Other)"
   },
   {
    "href": "https://api.w3.org/services/25915",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
