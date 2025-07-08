@@ -83,40 +83,24 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/1785",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/39177",
-   "title": "Discussion Forum"
+   "href": "https://api.w3.org/services/45566",
+   "title": "GitHub Issues (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/45564",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/matf/",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45564"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45564/groups"
-     }
-    }
-   }
+   "title": "GitHub repository (Version Control)"
   },
   {
-   "href": "https://api.w3.org/services/45566",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/1785",
+   "title": "public-mobile-a11y-tf (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/45916",
+   "title": "W3C Community Slack channel (Slack)"
   },
   {
    "href": "https://api.w3.org/services/45572",
-   "title": "Chat"
+   "title": "webirc.w3.org channel #matf (Chat)"
   }
  ]
 }
