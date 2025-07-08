@@ -74,12 +74,12 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/17054",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/27068",
+   "title": "public-afrlreq-admin (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/27068",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17054",
+   "title": "public-i18n-africa (Mailing List)"
   }
  ]
 }
