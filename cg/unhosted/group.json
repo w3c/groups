@@ -35,52 +35,36 @@
  "identifier": "cg/unhosted",
  "services": [
   {
-   "href": "https://api.w3.org/services/569",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/570",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/572",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/574",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/18379",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40718",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/40716",
-   "title": "Discussion Forum"
+   "title": "Google Group (Discussion Forum)"
+  },
+  {
+   "href": "https://api.w3.org/services/574",
+   "title": "internal-unhosted (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/18379",
+   "title": "internal-unhosted-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/572",
+   "title": "public-unhosted (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40717",
-   "title": "Discussion Forum"
+   "title": "Remote Storage (Discussion Forum)"
   },
   {
-   "href": "https://api.w3.org/services/40718",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/remotestorage/spec",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40718"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40718/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/570",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/569",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
