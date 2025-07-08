@@ -35,20 +35,20 @@
  "identifier": "cg/global-inclusion",
  "services": [
   {
-   "href": "https://api.w3.org/services/43870",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/43873",
+   "title": "internal-global-inclusion (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43871",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43872",
-   "title": "Mailing List"
+   "title": "public-global-inclusion (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43873",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43870",
+   "title": "RSS (RSS)"
   }
  ]
 }
