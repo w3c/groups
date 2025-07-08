@@ -35,40 +35,24 @@
  "identifier": "cg/adva11yresources",
  "services": [
   {
-   "href": "https://api.w3.org/services/43895",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43896",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43897",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43899",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43898",
-   "title": "Mailing List"
+   "title": "internal-adva11yresources (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43899",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/aar/",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43899"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43899/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43896",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43897",
+   "title": "public-adva11yresources (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43895",
+   "title": "RSS (RSS)"
   }
  ]
 }
