@@ -35,68 +35,36 @@
  "identifier": "cg/rdf-dev",
  "services": [
   {
-   "href": "https://api.w3.org/services/15412",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15413",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15414",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15505",
+   "title": "EasierRDF GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15416",
-   "title": "Mailing List"
+   "title": "internal-rdf-dev (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15505",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/EasierRDF",
-    "shortdesc": "EasierRDF GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15505"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15505/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15413",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15414",
+   "title": "public-rdf-dev (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17496",
-   "title": "Mailing List"
+   "title": "public-rdf-star (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25974",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/rdf-star",
-    "shortdesc": "RDF* GitHub Repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25974"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25974/groups"
-     }
-    }
-   }
+   "title": "RDF* GitHub Repository (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/15412",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/45693",
-   "title": "Mailing List"
+   "title": "semantic-web (Mailing List)"
   }
  ]
 }
