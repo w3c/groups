@@ -42,16 +42,16 @@
  "identifier": "ig/i18n",
  "services": [
   {
-   "href": "https://api.w3.org/services/13776",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45913",
+   "title": "I18n activity X (X)"
   },
   {
    "href": "https://api.w3.org/services/25905",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/25919",
-   "title": "X"
+   "href": "https://api.w3.org/services/13776",
+   "title": "www-international (Mailing List)"
   }
  ]
 }
