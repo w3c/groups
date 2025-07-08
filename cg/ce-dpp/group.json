@@ -35,20 +35,20 @@
  "identifier": "cg/ce-dpp",
  "services": [
   {
-   "href": "https://api.w3.org/services/45505",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45508",
+   "title": "internal-ce-dpp (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45506",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45507",
-   "title": "Mailing List"
+   "title": "public-ce-dpp (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45508",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45505",
+   "title": "RSS (RSS)"
   }
  ]
 }
