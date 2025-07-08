@@ -84,11 +84,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43982",
-   "title": "Issue Tracking"
+   "title": "GitHub Issues List (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/45170",
-   "title": "Mailing List"
+   "title": "public-wcag2-issues (Mailing List)"
   }
  ]
 }
