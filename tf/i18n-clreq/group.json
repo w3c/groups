@@ -74,12 +74,12 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/7323",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/27753",
+   "title": "public-clreq-admin (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/27753",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/7323",
+   "title": "public-i18n-cjk (Mailing List)"
   }
  ]
 }
