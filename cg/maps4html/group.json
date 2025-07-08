@@ -35,52 +35,36 @@
  "identifier": "cg/maps4html",
  "services": [
   {
-   "href": "https://api.w3.org/services/2002",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/15577",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/2003",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/2004",
-   "title": "Mailing List"
+   "title": "Gitter (Chat)"
   },
   {
    "href": "https://api.w3.org/services/2006",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/2007",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/6242",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/15577",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/maps4html",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15577"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15577/groups"
-     }
-    }
-   }
+   "title": "internal-maps4html (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/39200",
-   "title": "Other"
+   "title": "Mastodon (Mastodon)"
+  },
+  {
+   "href": "https://api.w3.org/services/2004",
+   "title": "public-maps4html (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/2002",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/2007",
+   "title": "Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/6242",
+   "title": "Resources (Other)"
   }
  ]
 }
