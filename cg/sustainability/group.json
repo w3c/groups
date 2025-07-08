@@ -35,44 +35,28 @@
  "identifier": "cg/sustainability",
  "services": [
   {
-   "href": "https://api.w3.org/services/34809",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/34810",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/34811",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45662",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/34812",
-   "title": "Mailing List"
+   "title": "internal-sustainability (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/34810",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/34811",
+   "title": "public-sustainability (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/34809",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/39161",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/45662",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/sustainability",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45662"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45662/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
