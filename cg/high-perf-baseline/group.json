@@ -35,20 +35,20 @@
  "identifier": "cg/high-perf-baseline",
  "services": [
   {
-   "href": "https://api.w3.org/services/45433",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45436",
+   "title": "internal-high-perf-baseline (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45434",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45435",
-   "title": "Mailing List"
+   "title": "public-high-perf-baseline (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45436",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45433",
+   "title": "RSS (RSS)"
   }
  ]
 }
