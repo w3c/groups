@@ -51,16 +51,16 @@
  "identifier": "wg/did",
  "services": [
   {
-   "href": "https://api.w3.org/services/17318",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17471",
+   "title": "member-did-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17471",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17318",
+   "title": "public-did-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25879",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
