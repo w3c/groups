@@ -35,44 +35,28 @@
  "identifier": "cg/rdfjs",
  "services": [
   {
-   "href": "https://api.w3.org/services/1670",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1671",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1672",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1673",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15485",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/1675",
-   "title": "Mailing List"
+   "title": "internal-rdfjs (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15485",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/rdfjs",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15485"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15485/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/1672",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/1673",
+   "title": "public-rdfjs (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/1671",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/1670",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
