@@ -51,12 +51,12 @@
  "identifier": "wg/webapps",
  "services": [
   {
-   "href": "https://api.w3.org/services/677",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25899",
+   "title": "Dashboard (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/25899",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/45899",
+   "title": "public-webapps (Mailing List)"
   }
  ]
 }
