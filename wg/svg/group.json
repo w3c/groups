@@ -51,32 +51,32 @@
  "identifier": "wg/svg",
  "services": [
   {
-   "href": "https://api.w3.org/services/99",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/142",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/207",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/290",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/1886",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25966",
+   "title": "General SVG discussion list (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/14026",
-   "title": "Mailing List"
+   "title": "group-svg-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/25966",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/142",
+   "title": "svg (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/1886",
+   "title": "w3c-svg-wg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/290",
+   "title": "public-svg-issues (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/99",
+   "title": "fxtf (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/207",
+   "title": "public-svg-wg (Mailing List)"
   }
  ]
 }
