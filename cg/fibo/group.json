@@ -35,28 +35,28 @@
  "identifier": "cg/fibo",
  "services": [
   {
-   "href": "https://api.w3.org/services/6204",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6208",
+   "title": "internal-fibo (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6205",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6206",
-   "title": "Mailing List"
+   "title": "public-fibo (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6207",
-   "title": "Mailing List"
+   "title": "public-fibo-contrib (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6208",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6204",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6257",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
