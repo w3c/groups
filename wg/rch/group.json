@@ -51,12 +51,12 @@
  "identifier": "wg/rch",
  "services": [
   {
-   "href": "https://api.w3.org/services/39159",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/39160",
+   "title": "member-rch-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/39160",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/39159",
+   "title": "public-rch-wg (Mailing List)"
   }
  ]
 }
