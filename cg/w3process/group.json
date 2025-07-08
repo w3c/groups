@@ -35,48 +35,32 @@
  "identifier": "cg/w3process",
  "services": [
   {
-   "href": "https://api.w3.org/services/758",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/759",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/760",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/761",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/763",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/12221",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/process/",
-    "shortdesc": "GitHub repo",
-    "longdesc": "GitHub repository for revising the W3C process document",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/12221"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/12221/groups"
-     }
-    }
-   }
+   "title": "internal-w3process (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17737",
-   "title": "Mailing List"
+   "title": "internal-w3process-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/760",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/761",
+   "title": "public-w3process (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/759",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/758",
+   "title": "Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/12221",
+   "title": "GitHub repo (Version Control)"
   }
  ]
 }
