@@ -35,40 +35,24 @@
  "identifier": "cg/css4",
  "services": [
   {
-   "href": "https://api.w3.org/services/25759",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/25760",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/25761",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43849",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25762",
-   "title": "Mailing List"
+   "title": "internal-css4 (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43849",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/CSS-Next",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43849"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43849/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/25760",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/25761",
+   "title": "public-css4 (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/25759",
+   "title": "RSS (RSS)"
   }
  ]
 }
