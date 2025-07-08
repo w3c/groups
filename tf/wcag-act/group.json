@@ -83,16 +83,16 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/6408",
-   "title": "Wiki"
-  },
-  {
    "href": "https://api.w3.org/services/6711",
-   "title": "Mailing List"
+   "title": "public-wcag-act (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/7643",
-   "title": "Mailing List"
+   "title": "public-wcag-act-comments (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6408",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
