@@ -51,12 +51,12 @@
  "identifier": "ig/web-networks",
  "services": [
   {
-   "href": "https://api.w3.org/services/15607",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15608",
+   "title": "member-networks-ig (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15608",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15607",
+   "title": "public-networks-ig (Mailing List)"
   }
  ]
 }
