@@ -35,44 +35,28 @@
  "identifier": "cg/opentrack",
  "services": [
   {
-   "href": "https://api.w3.org/services/6501",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6502",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6503",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45790",
+   "title": "Discussion forum (Discussion Forum)"
   },
   {
    "href": "https://api.w3.org/services/6505",
-   "title": "Mailing List"
+   "title": "internal-opentrack (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6502",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6503",
+   "title": "public-opentrack (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6501",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6555",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/opentrack-cg",
-    "shortdesc": "GitHub repo",
-    "longdesc": "OpenTrack CG GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6555"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6555/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/45790",
-   "title": "Discussion Forum"
+   "title": "GitHub repo (Version Control)"
   }
  ]
 }
