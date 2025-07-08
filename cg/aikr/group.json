@@ -35,24 +35,24 @@
  "identifier": "cg/aikr",
  "services": [
   {
-   "href": "https://api.w3.org/services/13804",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/13808",
+   "title": "internal-aikr (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/13805",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/13806",
-   "title": "Mailing List"
+   "title": "public-aikr (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/13808",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/13804",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/13840",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
