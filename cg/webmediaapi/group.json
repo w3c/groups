@@ -35,80 +35,32 @@
  "identifier": "cg/webmediaapi",
  "services": [
   {
-   "href": "https://api.w3.org/services/6409",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6413",
+   "title": "internal-webmediaapi (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6410",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6411",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/6413",
-   "title": "Mailing List"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6414",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/webmediaapi/",
-    "shortdesc": "Media API GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6414"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6414/groups"
-     }
-    }
-   }
+   "title": "Media API GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15510",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/webmediaguidelines/",
-    "shortdesc": "Media Guidelines GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15510"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15510/groups"
-     }
-    }
-   }
+   "title": "Media Guidelines GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15522",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/webmediaporting",
-    "shortdesc": "Media Porting GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15522"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15522/groups"
-     }
-    }
-   }
+   "title": "Media Porting GitHub repository (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/6411",
+   "title": "public-webmediaapi (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6409",
+   "title": "RSS (RSS)"
   }
  ]
 }
