@@ -35,24 +35,24 @@
  "identifier": "cg/webhistory",
  "services": [
   {
-   "href": "https://api.w3.org/services/1167",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1168",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/1172",
+   "title": "internal-webhistory (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1169",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1170",
-   "title": "Mailing List"
+   "title": "public-webhistory (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/1172",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1168",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/1167",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
