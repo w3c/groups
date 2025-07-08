@@ -35,24 +35,24 @@
  "identifier": "cg/schema-course-extend",
  "services": [
   {
-   "href": "https://api.w3.org/services/6252",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6256",
+   "title": "internal-schema-course-extend (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6253",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6254",
-   "title": "Mailing List"
+   "title": "public-schema-course-extend (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6256",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6252",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6280",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
