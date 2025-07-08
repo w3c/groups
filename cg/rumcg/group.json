@@ -35,40 +35,24 @@
  "identifier": "cg/rumcg",
  "services": [
   {
-   "href": "https://api.w3.org/services/43936",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43937",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43938",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45581",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43939",
-   "title": "Mailing List"
+   "title": "internal-rumcg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45581",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/rum",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45581"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45581/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43937",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43938",
+   "title": "public-rumcg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43936",
+   "title": "RSS (RSS)"
   }
  ]
 }
