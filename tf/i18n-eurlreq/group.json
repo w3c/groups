@@ -74,12 +74,12 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/16862",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/26973",
+   "title": "public-eurlreq-admin (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/26973",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/16862",
+   "title": "public-i18n-europe (Mailing List)"
   }
  ]
 }
