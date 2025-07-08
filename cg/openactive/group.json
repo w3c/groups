@@ -35,64 +35,48 @@
  "identifier": "cg/openactive",
  "services": [
   {
-   "href": "https://api.w3.org/services/6316",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6463",
+   "title": "Charter (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/6317",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6318",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/6321",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/6322",
-   "title": "X"
-  },
-  {
-   "href": "https://api.w3.org/services/6323",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/openactive",
-    "shortdesc": "GitHub",
-    "longdesc": "Openactive's GitHub",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6323"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6323/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/6463",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/13753",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/13755",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/13757",
-   "title": "Other"
+   "title": "Chat (Chat)"
   },
   {
    "href": "https://api.w3.org/services/27351",
-   "title": "Mailing List"
+   "title": "internal-openactive (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6318",
+   "title": "public-openactive (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6316",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/13753",
+   "title": "Meeting calendar (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/13755",
+   "title": "Meeting recordings (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/13757",
+   "title": "API Dashboard (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/6323",
+   "title": "GitHub (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/6321",
+   "title": "Website (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/6322",
+   "title": "X (X)"
   }
  ]
 }
