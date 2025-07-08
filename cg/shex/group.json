@@ -35,40 +35,24 @@
  "identifier": "cg/shex",
  "services": [
   {
-   "href": "https://api.w3.org/services/6477",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6478",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6479",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15465",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6481",
-   "title": "Mailing List"
+   "title": "internal-shex (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15465",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/shexSpec",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15465"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15465/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/6479",
+   "title": "public-shex (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6477",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/6478",
+   "title": "gitter (Chat)"
   }
  ]
 }
