@@ -24,20 +24,20 @@
  "identifier": "other/ac",
  "services": [
   {
-   "href": "https://api.w3.org/services/26290",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45915",
+   "title": "w3c-ac-members (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/27124",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/26290",
+   "title": "w3c-members (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43927",
-   "title": "Other"
+   "title": "AC Calendar (Other)"
   },
   {
    "href": "https://api.w3.org/services/43928",
-   "title": "Other"
+   "title": "TPAC Calendar (Other)"
   }
  ]
 }
