@@ -35,20 +35,20 @@
  "identifier": "cg/semantic-construction",
  "services": [
   {
-   "href": "https://api.w3.org/services/45801",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45804",
+   "title": "internal-semantic-construction (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45802",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45803",
-   "title": "Mailing List"
+   "title": "public-semantic-construction (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45804",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45801",
+   "title": "RSS (RSS)"
   }
  ]
 }
