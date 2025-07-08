@@ -35,100 +35,36 @@
  "identifier": "cg/rdfsurfaces",
  "services": [
   {
-   "href": "https://api.w3.org/services/39201",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/39202",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/39203",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/39205",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/39204",
-   "title": "Mailing List"
+   "title": "internal-rdfsurfaces (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/39205",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/rdfsurfaces",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39205"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39205/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/39202",
+   "title": "IRC (Chat)"
   },
   {
-   "href": "https://api.w3.org/services/45785",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/eyereasoner/rdfsurfaces-tests",
-    "shortdesc": "Repo for Tests",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45785"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45785/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/39203",
+   "title": "public-rdfsurfaces (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45788",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/KNowledgeOnWebScale/birthday",
-    "shortdesc": "Repo for Birthday Experiment",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45788"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45788/groups"
-     }
-    }
-   }
+   "title": "Repo for Birthday Experiment (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/45789",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/KNowledgeOnWebScale/n3s-policy-consistency-checker",
-    "shortdesc": "Repo for Policy Checker Experiment",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45789"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45789/groups"
-     }
-    }
-   }
+   "title": "Repo for Policy Checker Experiment (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/45785",
+   "title": "Repo for Tests (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/39201",
+   "title": "RSS (RSS)"
   }
  ]
 }
