@@ -35,48 +35,32 @@
  "identifier": "cg/colorweb",
  "services": [
   {
-   "href": "https://api.w3.org/services/6495",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6496",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6497",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/6498",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/27436",
+   "title": "group-colorweb (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6499",
-   "title": "Mailing List"
+   "title": "internal-colorweb (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6496",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6497",
+   "title": "public-colorweb (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6498",
+   "title": "public-colorweb-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6495",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6500",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/ColorWeb-CG",
-    "shortdesc": "GitHub",
-    "longdesc": "Color on the Web CG GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6500"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6500/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/27436",
-   "title": "Mailing List"
+   "title": "GitHub (Version Control)"
   }
  ]
 }
