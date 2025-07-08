@@ -51,16 +51,16 @@
  "identifier": "wg/lws",
  "services": [
   {
-   "href": "https://api.w3.org/services/43925",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43950",
+   "title": "member-lws-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43950",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43925",
+   "title": "public-lws-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43978",
-   "title": "Issue Tracking"
+   "title": "Working Group dashboard (Issue Tracking)"
   }
  ]
 }
