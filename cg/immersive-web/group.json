@@ -35,52 +35,36 @@
  "identifier": "cg/immersive-web",
  "services": [
   {
-   "href": "https://api.w3.org/services/6294",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6295",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6296",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/6298",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/6350",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/immersive-web/",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6350"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6350/groups"
-     }
-    }
-   }
+   "title": "GitHub repositories (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/45907",
+   "title": "internal-immersive-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15259",
-   "title": "Mailing List"
+   "title": "internal-webvr (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/25917",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/6295",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6296",
+   "title": "public-immersive-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/26565",
-   "title": "Mailing List"
+   "title": "public-webvr (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6294",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/25917",
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
