@@ -35,40 +35,24 @@
  "identifier": "cg/a11yedge",
  "services": [
   {
-   "href": "https://api.w3.org/services/34821",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/34824",
+   "title": "internal-a11yedge (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/34822",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/34823",
-   "title": "Mailing List"
+   "title": "public-a11yedge (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/34824",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/34821",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/43845",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/a11yedge/",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub repositories",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43845"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43845/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
