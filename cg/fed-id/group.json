@@ -35,40 +35,24 @@
  "identifier": "cg/fed-id",
  "services": [
   {
-   "href": "https://api.w3.org/services/33234",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/33235",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/33236",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/33239",
+   "title": "GitHub Repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/33237",
-   "title": "Mailing List"
+   "title": "internal-fed-id (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/33239",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/fedidcg",
-    "shortdesc": "GitHub Repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33239"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33239/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/33235",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/33236",
+   "title": "public-fed-id (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/33234",
+   "title": "RSS (RSS)"
   }
  ]
 }
