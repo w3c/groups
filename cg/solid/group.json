@@ -35,64 +35,32 @@
  "identifier": "cg/solid",
  "services": [
   {
-   "href": "https://api.w3.org/services/15400",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/15404",
+   "title": "internal-solid (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15401",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/15402",
-   "title": "Mailing List"
+   "title": "public-solid (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15404",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/15410",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/15579",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/solid/specification",
-    "shortdesc": "Solid Specifications",
-    "longdesc": "Solid Specifications on GitHub",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15579"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15579/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15400",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/43844",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/solid",
-    "shortdesc": "Solid CG on GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43844"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43844/groups"
-     }
-    }
-   }
+   "title": "Solid CG on GitHub (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/15410",
+   "title": "Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/15579",
+   "title": "Solid Specifications (Version Control)"
   }
  ]
 }
