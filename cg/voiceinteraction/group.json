@@ -35,40 +35,24 @@
  "identifier": "cg/voiceinteraction",
  "services": [
   {
-   "href": "https://api.w3.org/services/6364",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6365",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6366",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15490",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6368",
-   "title": "Mailing List"
+   "title": "internal-voiceinteraction (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15490",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/voiceinteraction/",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15490"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15490/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/6365",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6366",
+   "title": "public-voiceinteraction (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6364",
+   "title": "RSS (RSS)"
   }
  ]
 }
