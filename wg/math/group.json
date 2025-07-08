@@ -51,88 +51,40 @@
  "identifier": "wg/math",
  "services": [
   {
-   "href": "https://api.w3.org/services/1870",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/33170",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/33171",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/33178",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/mathml",
-    "shortdesc": "MathML repo",
-    "longdesc": "MathML GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33178"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33178/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/33219",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/mathml-core",
-    "shortdesc": "MathML Core repo",
-    "longdesc": "MathML Core GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33219"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33219/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/33220",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/xml-entities",
-    "shortdesc": "XML Entities repo",
-    "longdesc": "XML Entities GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33220"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33220/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/33320",
+   "title": "Agenda issues (Other)"
   },
   {
    "href": "https://api.w3.org/services/33231",
-   "title": "Chat"
+   "title": "IRC channel #math (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33319",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/33320",
-   "title": "Other"
+   "href": "https://api.w3.org/services/33219",
+   "title": "MathML Core repo (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/33178",
+   "title": "MathML repo (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/1870",
+   "title": "member-math (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/33171",
+   "title": "News feed for the public mailing list (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/33170",
+   "title": "www-math (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/33220",
+   "title": "XML Entities repo (Version Control)"
   }
  ]
 }
