@@ -35,16 +35,16 @@
  "identifier": "cg/mqmcg",
  "services": [
   {
-   "href": "https://api.w3.org/services/9381",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/9382",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/9383",
-   "title": "Mailing List"
+   "title": "public-mqmcg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/9381",
+   "title": "RSS (RSS)"
   }
  ]
 }
