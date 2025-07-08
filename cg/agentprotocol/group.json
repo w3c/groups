@@ -35,40 +35,24 @@
  "identifier": "cg/agentprotocol",
  "services": [
   {
-   "href": "https://api.w3.org/services/45694",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/45695",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/45696",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45733",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/45697",
-   "title": "Mailing List"
+   "title": "internal-agentprotocol (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45733",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/ai-agent-protocol",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45733"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45733/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/45695",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/45696",
+   "title": "public-agentprotocol (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/45694",
+   "title": "RSS (RSS)"
   }
  ]
 }
