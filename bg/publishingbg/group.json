@@ -38,48 +38,32 @@
  "identifier": "bg/publishingbg",
  "services": [
   {
-   "href": "https://api.w3.org/services/6549",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6550",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6551",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/6552",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/publ-bg",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6552"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6552/groups"
-     }
-    }
-   }
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6553",
-   "title": "Mailing List"
+   "title": "internal-publishingbg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6550",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6551",
+   "title": "public-publishingbg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6549",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6554",
-   "title": "Wiki"
+   "title": "Wiki home (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/13768",
-   "title": "Other"
+   "title": "Google Drive (Other)"
   }
  ]
 }
