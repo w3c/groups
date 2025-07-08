@@ -35,20 +35,20 @@
  "identifier": "cg/swag",
  "services": [
   {
-   "href": "https://api.w3.org/services/43905",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/43908",
+   "title": "internal-swag (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43906",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43907",
-   "title": "Mailing List"
+   "title": "public-swag (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43908",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43905",
+   "title": "RSS (RSS)"
   }
  ]
 }
