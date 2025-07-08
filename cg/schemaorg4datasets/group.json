@@ -35,24 +35,24 @@
  "identifier": "cg/schemaorg4datasets",
  "services": [
   {
-   "href": "https://api.w3.org/services/6467",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6471",
+   "title": "internal-schemaorg4datasets (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6468",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6469",
-   "title": "Mailing List"
+   "title": "public-schemaorg4datasets (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6470",
-   "title": "Mailing List"
+   "title": "public-schemaorg4datasets-contrib (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6471",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6467",
+   "title": "RSS (RSS)"
   }
  ]
 }
