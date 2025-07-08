@@ -52,15 +52,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/16916",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/25908",
-   "title": "Issue Tracking"
+   "title": "member-wpsig (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40767",
-   "title": "Wiki"
+   "title": "WPSIG Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/25908",
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
