@@ -83,12 +83,12 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/15551",
-   "title": "Wiki"
+   "href": "https://api.w3.org/services/16503",
+   "title": "public-pronunciation (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/16503",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15551",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
