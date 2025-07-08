@@ -35,44 +35,28 @@
  "identifier": "cg/web-nfc",
  "services": [
   {
-   "href": "https://api.w3.org/services/5951",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/5952",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/5953",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/5954",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/5961",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/5955",
-   "title": "Mailing List"
+   "title": "internal-web-nfc (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/5961",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/web-nfc",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5961"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5961/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/5952",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/5953",
+   "title": "public-web-nfc (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/5954",
+   "title": "public-web-nfc-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/5951",
+   "title": "RSS (RSS)"
   }
  ]
 }
