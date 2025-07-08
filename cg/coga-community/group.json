@@ -35,20 +35,20 @@
  "identifier": "cg/coga-community",
  "services": [
   {
-   "href": "https://api.w3.org/services/33240",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/33243",
+   "title": "internal-coga-community (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33241",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33242",
-   "title": "Mailing List"
+   "title": "public-coga-community (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/33243",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/33240",
+   "title": "RSS (RSS)"
   }
  ]
 }
