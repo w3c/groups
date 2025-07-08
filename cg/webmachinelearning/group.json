@@ -35,40 +35,24 @@
  "identifier": "cg/webmachinelearning",
  "services": [
   {
-   "href": "https://api.w3.org/services/15405",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15406",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15407",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15411",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15409",
-   "title": "Mailing List"
+   "title": "internal-webmachinelearning (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15411",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/webmachinelearning",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15411"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15411/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15406",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15407",
+   "title": "public-webmachinelearning (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15405",
+   "title": "RSS (RSS)"
   }
  ]
 }
