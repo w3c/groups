@@ -35,20 +35,20 @@
  "identifier": "cg/humancentricai",
  "services": [
   {
-   "href": "https://api.w3.org/services/40744",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/40747",
+   "title": "internal-humancentricai (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40745",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/40746",
-   "title": "Mailing List"
+   "title": "public-humancentricai (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/40747",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40744",
+   "title": "RSS (RSS)"
   }
  ]
 }
