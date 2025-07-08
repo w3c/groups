@@ -35,40 +35,24 @@
  "identifier": "cg/csvw",
  "services": [
   {
-   "href": "https://api.w3.org/services/6265",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6266",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6267",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15495",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6269",
-   "title": "Mailing List"
+   "title": "internal-csvw (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15495",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/csvw",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15495"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15495/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/6266",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6267",
+   "title": "public-csvw (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6265",
+   "title": "RSS (RSS)"
   }
  ]
 }
