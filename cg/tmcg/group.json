@@ -35,40 +35,24 @@
  "identifier": "cg/tmcg",
  "services": [
   {
-   "href": "https://api.w3.org/services/43914",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43915",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43916",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43919",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43917",
-   "title": "Mailing List"
+   "title": "internal-tmcg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43919",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/threat-modeling",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43919"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43919/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43915",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43916",
+   "title": "public-tmcg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43914",
+   "title": "RSS (RSS)"
   }
  ]
 }
