@@ -51,12 +51,12 @@
  "identifier": "wg/pat",
  "services": [
   {
-   "href": "https://api.w3.org/services/43967",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43968",
+   "title": "Issue tracking (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/43968",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/43967",
+   "title": "public-patwg (Mailing List)"
   }
  ]
 }
