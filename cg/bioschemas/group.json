@@ -35,44 +35,28 @@
  "identifier": "cg/bioschemas",
  "services": [
   {
-   "href": "https://api.w3.org/services/6556",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6557",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6558",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6581",
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6560",
-   "title": "Mailing List"
+   "title": "internal-bioschemas (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6581",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/bioschemas",
-    "shortdesc": "GitHub Repo",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6581"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6581/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/6557",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6558",
+   "title": "public-bioschemas (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6556",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/15585",
-   "title": "X"
+   "title": "X (X)"
   }
  ]
 }
