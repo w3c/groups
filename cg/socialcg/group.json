@@ -35,40 +35,24 @@
  "identifier": "cg/socialcg",
  "services": [
   {
-   "href": "https://api.w3.org/services/6457",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6458",
-   "title": "Chat"
+   "href": "https://api.w3.org/services/26009",
+   "title": "Forum (Discussion Forum)"
   },
   {
    "href": "https://api.w3.org/services/6462",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/swicg",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6462"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6462/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/6458",
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/18407",
-   "title": "Mailing List"
+   "title": "public-swicg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/26009",
-   "title": "Discussion Forum"
+   "href": "https://api.w3.org/services/6457",
+   "title": "RSS (RSS)"
   }
  ]
 }
