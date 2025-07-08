@@ -51,16 +51,16 @@
  "identifier": "wg/webfonts",
  "services": [
   {
-   "href": "https://api.w3.org/services/102",
-   "title": "Wiki"
+   "href": "https://api.w3.org/services/217",
+   "title": "public-webfonts-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/217",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/102",
+   "title": "fonts (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25901",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
