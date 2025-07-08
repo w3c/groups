@@ -52,27 +52,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/13858",
-   "title": "Mailing List"
+   "title": "public-trace-context (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15616",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/17355",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/25881",
-   "title": "Issue Tracking"
+   "title": "Slack (Slack)"
   },
   {
    "href": "https://api.w3.org/services/43869",
-   "title": "Chat"
+   "title": "Slack invite (Slack)"
   },
   {
    "href": "https://api.w3.org/services/43929",
-   "title": "Other"
+   "title": "Chair dashboard (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/25881",
+   "title": "Dashboard (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/17355",
+   "title": "Agenda and Notes (Other)"
   }
  ]
 }
