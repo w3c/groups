@@ -35,20 +35,20 @@
  "identifier": "cg/sync-on-the-web",
  "services": [
   {
-   "href": "https://api.w3.org/services/45387",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45390",
+   "title": "internal-sync-on-the-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45388",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45389",
-   "title": "Mailing List"
+   "title": "public-sync-on-the-web (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45390",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45387",
+   "title": "RSS (RSS)"
   }
  ]
 }
