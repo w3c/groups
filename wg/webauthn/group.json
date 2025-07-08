@@ -52,11 +52,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6352",
-   "title": "Mailing List"
+   "title": "public-webauthn (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25900",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
