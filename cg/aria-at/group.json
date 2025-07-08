@@ -35,40 +35,24 @@
  "identifier": "cg/aria-at",
  "services": [
   {
-   "href": "https://api.w3.org/services/15443",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15444",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15445",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17367",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15447",
-   "title": "Mailing List"
+   "title": "internal-aria-at (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17367",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/aria-at",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17367"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17367/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15444",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15445",
+   "title": "public-aria-at (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15443",
+   "title": "RSS (RSS)"
   }
  ]
 }
