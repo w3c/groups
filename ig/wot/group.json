@@ -51,24 +51,24 @@
  "identifier": "ig/wot",
  "services": [
   {
-   "href": "https://api.w3.org/services/5920",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/7191",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25744",
+   "title": "Blog (Blog)"
   },
   {
    "href": "https://api.w3.org/services/7308",
-   "title": "Mailing List"
+   "title": "member-wot-ig (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/25744",
-   "title": "Blog"
+   "href": "https://api.w3.org/services/7191",
+   "title": "public-wot-ig (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/5920",
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25907",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
