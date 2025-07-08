@@ -35,40 +35,24 @@
  "identifier": "cg/cloud-edge-client",
  "services": [
   {
-   "href": "https://api.w3.org/services/43973",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43974",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43975",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45580",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43976",
-   "title": "Mailing List"
+   "title": "internal-cloud-edge-client (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45580",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/cloud-edge-client",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45580"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45580/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43974",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43975",
+   "title": "public-cloud-edge-client (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43973",
+   "title": "RSS (RSS)"
   }
  ]
 }
