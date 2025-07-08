@@ -51,44 +51,28 @@
  "identifier": "wg/pm",
  "services": [
   {
-   "href": "https://api.w3.org/services/40769",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/40770",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/40771",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/40772",
-   "title": "Wiki"
-  },
-  {
    "href": "https://api.w3.org/services/40774",
-   "title": "Other"
+   "title": "Meeting Minutes (Other)"
   },
   {
    "href": "https://api.w3.org/services/40775",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/pm-wg",
-    "shortdesc": "WG GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40775"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40775/groups"
-     }
-    }
-   }
+   "title": "WG GitHub repository (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/40772",
+   "title": "Wiki Pages (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/40769",
+   "title": "member-pm-wg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/40770",
+   "title": "public-pm-wg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/40771",
+   "title": "group-pm-wg-chairs (Mailing List)"
   }
  ]
 }
