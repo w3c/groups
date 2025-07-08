@@ -35,40 +35,24 @@
  "identifier": "cg/dataspaces",
  "services": [
   {
-   "href": "https://api.w3.org/services/43891",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43892",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43893",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43903",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43894",
-   "title": "Mailing List"
+   "title": "internal-dataspaces (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43903",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/dataspaces",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43903"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43903/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43892",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43893",
+   "title": "public-dataspaces (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43891",
+   "title": "RSS (RSS)"
   }
  ]
 }
