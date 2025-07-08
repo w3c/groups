@@ -35,20 +35,20 @@
  "identifier": "cg/idai",
  "services": [
   {
-   "href": "https://api.w3.org/services/45395",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45398",
+   "title": "internal-idai (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45396",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45397",
-   "title": "Mailing List"
+   "title": "public-idai (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45398",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45395",
+   "title": "RSS (RSS)"
   }
  ]
 }
