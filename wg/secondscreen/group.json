@@ -51,24 +51,24 @@
  "identifier": "wg/secondscreen",
  "services": [
   {
-   "href": "https://api.w3.org/services/1741",
-   "title": "Chat"
-  },
-  {
    "href": "https://api.w3.org/services/2307",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/17274",
-   "title": "Other"
+   "title": "public-secondscreen (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17278",
-   "title": "Other"
+   "title": "cg (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/17274",
+   "title": "Meetings (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/45901",
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/25889",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
