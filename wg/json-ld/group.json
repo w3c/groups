@@ -51,16 +51,16 @@
  "identifier": "wg/json-ld",
  "services": [
   {
-   "href": "https://api.w3.org/services/13802",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15221",
+   "title": "member-json-ld-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15221",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/13802",
+   "title": "public-json-ld-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25886",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
