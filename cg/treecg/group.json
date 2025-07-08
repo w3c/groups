@@ -35,40 +35,24 @@
  "identifier": "cg/treecg",
  "services": [
   {
-   "href": "https://api.w3.org/services/40740",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/40743",
+   "title": "internal-treecg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40741",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/40742",
-   "title": "Mailing List"
+   "title": "public-treecg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/40743",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40740",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/43847",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/TREEcg",
-    "shortdesc": "GitHub ",
-    "longdesc": "GitHub repositories ",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43847"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43847/groups"
-     }
-    }
-   }
+   "title": "GitHub  (Version Control)"
   }
  ]
 }
