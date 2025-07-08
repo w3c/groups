@@ -35,20 +35,20 @@
  "identifier": "cg/av4browsers",
  "services": [
   {
-   "href": "https://api.w3.org/services/39162",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/39165",
+   "title": "internal-av4browsers (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/39163",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/39164",
-   "title": "Mailing List"
+   "title": "public-av4browsers (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/39165",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/39162",
+   "title": "RSS (RSS)"
   }
  ]
 }
