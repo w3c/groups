@@ -35,40 +35,24 @@
  "identifier": "cg/reconciliation",
  "services": [
   {
-   "href": "https://api.w3.org/services/17287",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/17288",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/17289",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17301",
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/17290",
-   "title": "Mailing List"
+   "title": "internal-reconciliation (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17301",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/reconciliation-api",
-    "shortdesc": "GitHub Repo",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17301"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17301/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/17288",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/17289",
+   "title": "public-reconciliation (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/17287",
+   "title": "RSS (RSS)"
   }
  ]
 }
