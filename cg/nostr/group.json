@@ -35,40 +35,24 @@
  "identifier": "cg/nostr",
  "services": [
   {
-   "href": "https://api.w3.org/services/40757",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/40758",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/40759",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40762",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/40760",
-   "title": "Mailing List"
+   "title": "internal-nostr (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/40762",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/nostrcg",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40762"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40762/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/40758",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/40759",
+   "title": "public-nostr (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/40757",
+   "title": "RSS (RSS)"
   }
  ]
 }
