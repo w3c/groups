@@ -35,20 +35,20 @@
  "identifier": "cg/loading-control-games",
  "services": [
   {
-   "href": "https://api.w3.org/services/45826",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45829",
+   "title": "internal-loading-control-games (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45827",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45828",
-   "title": "Mailing List"
+   "title": "public-loading-control-games (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45829",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45826",
+   "title": "RSS (RSS)"
   }
  ]
 }
