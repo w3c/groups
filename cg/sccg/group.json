@@ -35,40 +35,24 @@
  "identifier": "cg/sccg",
  "services": [
   {
-   "href": "https://api.w3.org/services/39206",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/39207",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/39208",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40734",
+   "title": "GitHub repos (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/39209",
-   "title": "Mailing List"
+   "title": "internal-sccg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/40734",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/screen-share/",
-    "shortdesc": "GitHub repos",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40734"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40734/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/39207",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/39208",
+   "title": "public-sccg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/39206",
+   "title": "RSS (RSS)"
   }
  ]
 }
