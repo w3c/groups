@@ -35,28 +35,28 @@
  "identifier": "cg/xformsusers",
  "services": [
   {
-   "href": "https://api.w3.org/services/166",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1009",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1010",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/1014",
+   "title": "internal-xformsusers (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1011",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1012",
-   "title": "Mailing List"
+   "title": "public-xformsusers (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/1014",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1010",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/1009",
+   "title": "Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/166",
+   "title": "forms (Wiki)"
   }
  ]
 }
