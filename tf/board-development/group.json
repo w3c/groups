@@ -78,12 +78,12 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/43990",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45793",
+   "title": "board-appointee-suggestion (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45793",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43990",
+   "title": "board-development (Mailing List)"
   }
  ]
 }
