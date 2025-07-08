@@ -35,44 +35,28 @@
  "identifier": "cg/credibility",
  "services": [
   {
-   "href": "https://api.w3.org/services/12228",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/12230",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15518",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/12232",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/12254",
-   "title": "Wiki"
+   "title": "internal-credibility (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15461",
-   "title": "Chat"
+   "title": "Meeting Link (Chat)"
   },
   {
-   "href": "https://api.w3.org/services/15518",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/credweb/",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15518"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15518/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/12230",
+   "title": "public-credibility (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/12228",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/12254",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
