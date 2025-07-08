@@ -51,40 +51,24 @@
  "identifier": "wg/miniapps",
  "services": [
   {
-   "href": "https://api.w3.org/services/27783",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/27812",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/miniapp/",
-    "shortdesc": "GitHub Repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27812"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27812/groups"
-     }
-    }
-   }
+   "title": "GitHub Repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/28075",
-   "title": "Mailing List"
+   "title": "member-miniapps-wg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/27783",
+   "title": "public-miniapps-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33322",
-   "title": "Other"
+   "title": "Agenda issues (Other)"
   },
   {
    "href": "https://api.w3.org/services/33323",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
