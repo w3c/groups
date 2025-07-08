@@ -51,32 +51,32 @@
  "identifier": "wg/payments",
  "services": [
   {
-   "href": "https://api.w3.org/services/6336",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25741",
+   "title": "Blog (Blog)"
   },
   {
    "href": "https://api.w3.org/services/7187",
-   "title": "Mailing List"
+   "title": "member-payments-wg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17269",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/17270",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/25741",
-   "title": "Blog"
-  },
-  {
-   "href": "https://api.w3.org/services/25903",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/6336",
+   "title": "public-payments-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40768",
-   "title": "Other"
+   "title": "Work mode (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/17270",
+   "title": "Meetings (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/25903",
+   "title": "Dashboard (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/17269",
+   "title": "Group wiki (Wiki)"
   }
  ]
 }
