@@ -35,40 +35,24 @@
  "identifier": "cg/cndid",
  "services": [
   {
-   "href": "https://api.w3.org/services/43822",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43823",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43824",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43900",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43825",
-   "title": "Mailing List"
+   "title": "internal-cndid (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43900",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/cndid",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43900"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43900/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43823",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43824",
+   "title": "public-cndid (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43822",
+   "title": "RSS (RSS)"
   }
  ]
 }
