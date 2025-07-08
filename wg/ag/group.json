@@ -51,24 +51,24 @@
  "identifier": "wg/ag",
  "services": [
   {
-   "href": "https://api.w3.org/services/171",
-   "title": "Wiki"
+   "href": "https://api.w3.org/services/34936",
+   "title": "public-ag-admin (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/272",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/25891",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/34936",
-   "title": "Mailing List"
+   "title": "w3c-wai-gl (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45565",
-   "title": "Issue Tracking"
+   "title": "WCAG 2 Issues (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/25891",
+   "title": "WCAG 3 Issues (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/171",
+   "title": "Group wiki (Wiki)"
   }
  ]
 }
