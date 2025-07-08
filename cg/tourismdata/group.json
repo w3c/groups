@@ -35,20 +35,20 @@
  "identifier": "cg/tourismdata",
  "services": [
   {
-   "href": "https://api.w3.org/services/6247",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6251",
+   "title": "internal-tourismdata (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6248",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6249",
-   "title": "Mailing List"
+   "title": "public-tourismdata (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6251",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6247",
+   "title": "RSS (RSS)"
   }
  ]
 }
