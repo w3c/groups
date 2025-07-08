@@ -51,16 +51,16 @@
  "identifier": "wg/privacy",
  "services": [
   {
-   "href": "https://api.w3.org/services/43949",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45589",
+   "title": "Live meeting notes (Other)"
   },
   {
    "href": "https://api.w3.org/services/43959",
-   "title": "Issue Tracking"
+   "title": "issues (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/45589",
-   "title": "Other"
+   "href": "https://api.w3.org/services/43949",
+   "title": "public-privacy (Mailing List)"
   }
  ]
 }
