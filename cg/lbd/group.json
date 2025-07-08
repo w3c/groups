@@ -35,44 +35,28 @@
  "identifier": "cg/lbd",
  "services": [
   {
-   "href": "https://api.w3.org/services/2057",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/2059",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/2060",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15468",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/2061",
-   "title": "Mailing List"
+   "title": "internal-lbd (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/2059",
+   "title": "public-lbd (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/2060",
+   "title": "public-lbd-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/2057",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/5935",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/15468",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-lbd-cg/",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15468"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15468/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
