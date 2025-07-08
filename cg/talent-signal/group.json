@@ -35,20 +35,20 @@
  "identifier": "cg/talent-signal",
  "services": [
   {
-   "href": "https://api.w3.org/services/15553",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/15557",
+   "title": "internal-talent-signal (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15555",
-   "title": "Mailing List"
+   "title": "public-talent-signal (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15557",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15553",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/15592",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
