@@ -35,40 +35,24 @@
  "identifier": "cg/cogai",
  "services": [
   {
-   "href": "https://api.w3.org/services/17362",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/17363",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/17364",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17368",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/17365",
-   "title": "Mailing List"
+   "title": "internal-cogai (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17368",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/cogai",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17368"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17368/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/17363",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/17364",
+   "title": "public-cogai (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/17362",
+   "title": "RSS (RSS)"
   }
  ]
 }
