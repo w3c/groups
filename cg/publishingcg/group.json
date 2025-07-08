@@ -35,40 +35,24 @@
  "identifier": "cg/publishingcg",
  "services": [
   {
-   "href": "https://api.w3.org/services/15417",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15418",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15419",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15597",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15421",
-   "title": "Mailing List"
+   "title": "internal-publishingcg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15597",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/publishingcg/",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15597"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15597/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15418",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15419",
+   "title": "public-publishingcg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15417",
+   "title": "RSS (RSS)"
   }
  ]
 }
