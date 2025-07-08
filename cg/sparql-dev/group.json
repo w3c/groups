@@ -35,48 +35,32 @@
  "identifier": "cg/sparql-dev",
  "services": [
   {
-   "href": "https://api.w3.org/services/15580",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15581",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15582",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/15583",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/15584",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/sparql-dev/",
-    "shortdesc": "GitHub Repo",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15584"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15584/groups"
-     }
-    }
-   }
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/40791",
-   "title": "Mailing List"
+   "title": "internal-sparql-12 (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15583",
+   "title": "internal-sparql-dev-cg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15581",
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/41889",
-   "title": "Mailing List"
+   "title": "public-sparql-12 (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15582",
+   "title": "public-sparql-dev-cg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15580",
+   "title": "RSS (RSS)"
   }
  ]
 }
