@@ -35,40 +35,24 @@
  "identifier": "cg/gpu",
  "services": [
   {
-   "href": "https://api.w3.org/services/6533",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6534",
-   "title": "Wiki"
+   "href": "https://api.w3.org/services/6548",
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6535",
-   "title": "Mailing List"
+   "title": "public-gpu (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6548",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/gpuweb/",
-    "shortdesc": "GitHub Repo",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6548"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6548/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/6533",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/6534",
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25938",
-   "title": "Mailing List"
+   "title": "internal-gpu (Mailing List)"
   }
  ]
 }
