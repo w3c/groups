@@ -35,40 +35,24 @@
  "identifier": "cg/act-r",
  "services": [
   {
-   "href": "https://api.w3.org/services/15587",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15588",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15589",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17366",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15590",
-   "title": "Mailing List"
+   "title": "internal-act-r (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17366",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/act-rules/",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17366"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17366/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15588",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15589",
+   "title": "public-act-r (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15587",
+   "title": "RSS (RSS)"
   }
  ]
 }
