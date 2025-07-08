@@ -35,40 +35,24 @@
  "identifier": "cg/r2c2",
  "services": [
   {
-   "href": "https://api.w3.org/services/43910",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43911",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43912",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43918",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43913",
-   "title": "Mailing List"
+   "title": "internal-r2c2 (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43918",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/r2c2",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43918"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43918/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/43911",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/43912",
+   "title": "public-r2c2 (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/43910",
+   "title": "RSS (RSS)"
   }
  ]
 }
