@@ -51,20 +51,20 @@
  "identifier": "wg/i18n-core",
  "services": [
   {
-   "href": "https://api.w3.org/services/283",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25919",
+   "title": "I18n activity X (X)"
   },
   {
    "href": "https://api.w3.org/services/1895",
-   "title": "Mailing List"
+   "title": "member-i18n-core (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/283",
+   "title": "public-i18n-core (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25885",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/25919",
-   "title": "X"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
