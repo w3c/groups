@@ -51,16 +51,16 @@
  "identifier": "wg/vc",
  "services": [
   {
-   "href": "https://api.w3.org/services/6957",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/8136",
-   "title": "Mailing List"
+   "title": "member-vc-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25897",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/6957",
+   "title": "public-vc-wg (Mailing List)"
   }
  ]
 }
