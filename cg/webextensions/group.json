@@ -35,40 +35,24 @@
  "identifier": "cg/webextensions",
  "services": [
   {
-   "href": "https://api.w3.org/services/33205",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/33208",
+   "title": "internal-webextensions (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33206",
-   "title": "Chat"
+   "title": "Matrix (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33207",
-   "title": "Mailing List"
+   "title": "public-webextensions (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/33208",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/33205",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/33209",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/webextensions",
-    "shortdesc": "GitHub repo",
-    "longdesc": "GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33209"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33209/groups"
-     }
-    }
-   }
+   "title": "GitHub repo (Version Control)"
   }
  ]
 }
