@@ -74,12 +74,12 @@
  "group-type": "tf",
  "services": [
   {
-   "href": "https://api.w3.org/services/7845",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/27204",
+   "title": "public-hlreq-admin (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/27204",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/7845",
+   "title": "public-i18n-hebrew (Mailing List)"
   }
  ]
 }
