@@ -35,44 +35,28 @@
  "identifier": "cg/md-odrl-profile",
  "services": [
   {
-   "href": "https://api.w3.org/services/25780",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/25804",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25781",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/25782",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/25804",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/market-data-odrl-profile",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25804"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25804/groups"
-     }
-    }
-   }
+   "title": "public-md-odrl-profile (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25806",
-   "title": "Mailing List"
+   "title": "public-md-odrl-profile-contrib (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/26880",
-   "title": "Mailing List"
+   "title": "public-md-ordrl-profile (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/25780",
+   "title": "RSS (RSS)"
   }
  ]
 }
