@@ -51,20 +51,20 @@
  "identifier": "wg/das",
  "services": [
   {
-   "href": "https://api.w3.org/services/95",
-   "title": "Wiki"
+   "href": "https://api.w3.org/services/1791",
+   "title": "member-device-apis (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/216",
-   "title": "Mailing List"
+   "title": "public-device-apis (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/1791",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/95",
+   "title": "dap (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25880",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
