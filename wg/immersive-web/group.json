@@ -52,23 +52,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6298",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/15398",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/17281",
-   "title": "Other"
-  },
-  {
-   "href": "https://api.w3.org/services/25884",
-   "title": "Issue Tracking"
+   "title": "internal-immersive-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33246",
-   "title": "Other"
+   "title": "Specification status (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/15398",
+   "title": "public-immersive-web-wg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/17281",
+   "title": "Meetings (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/25884",
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
