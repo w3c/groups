@@ -35,24 +35,24 @@
  "identifier": "cg/architypes",
  "services": [
   {
-   "href": "https://api.w3.org/services/6110",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6114",
+   "title": "internal-architypes (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6111",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6112",
-   "title": "Mailing List"
+   "title": "public-architypes (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6114",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6110",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6132",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
