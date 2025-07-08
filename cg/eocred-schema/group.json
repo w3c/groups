@@ -35,24 +35,24 @@
  "identifier": "cg/eocred-schema",
  "services": [
   {
-   "href": "https://api.w3.org/services/12233",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/12237",
+   "title": "internal-eocred-schema (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/12234",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/12235",
-   "title": "Mailing List"
+   "title": "public-eocred-schema (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/12237",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/12233",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/12238",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
