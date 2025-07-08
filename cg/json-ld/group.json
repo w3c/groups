@@ -35,48 +35,32 @@
  "identifier": "cg/json-ld",
  "services": [
   {
-   "href": "https://api.w3.org/services/553",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/554",
-   "title": "Chat"
+   "href": "https://api.w3.org/services/15474",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/557",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/560",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/15474",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/json-ld",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15474"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15474/groups"
-     }
-    }
-   }
+   "title": "internal-json-ld (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/18769",
-   "title": "Mailing List"
+   "title": "internal-json-ld-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/554",
+   "title": "irc (Chat)"
   },
   {
    "href": "https://api.w3.org/services/27309",
-   "title": "Mailing List"
+   "title": "public-json-ld (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/553",
+   "title": "rss (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/560",
+   "title": "public-linked-json (Mailing List)"
   }
  ]
 }
