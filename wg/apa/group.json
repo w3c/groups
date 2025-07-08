@@ -51,24 +51,24 @@
  "identifier": "wg/apa",
  "services": [
   {
-   "href": "https://api.w3.org/services/6245",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/6726",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/6846",
-   "title": "Mailing List"
+   "title": "public-apa-admin (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/25892",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/6245",
+   "title": "Group Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/33315",
-   "title": "Other"
+   "title": "Agenda issues (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/25892",
+   "title": "Dashboard (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/6726",
+   "title": "public-apa (Mailing List)"
   }
  ]
 }
