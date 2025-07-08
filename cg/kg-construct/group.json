@@ -35,40 +35,24 @@
  "identifier": "cg/kg-construct",
  "services": [
   {
-   "href": "https://api.w3.org/services/15526",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15527",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15528",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25779",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15530",
-   "title": "Mailing List"
+   "title": "internal-kg-construct (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/25779",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/kg-construct",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25779"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25779/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15527",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15528",
+   "title": "public-kg-construct (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15526",
+   "title": "RSS (RSS)"
   }
  ]
 }
