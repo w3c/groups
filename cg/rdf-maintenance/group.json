@@ -35,40 +35,24 @@
  "identifier": "cg/rdf-maintenance",
  "services": [
   {
-   "href": "https://api.w3.org/services/45413",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/45414",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/45415",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45684",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/45416",
-   "title": "Mailing List"
+   "title": "internal-rdf-maintenance (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45684",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/rdf-notes",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45684"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45684/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/45414",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/45415",
+   "title": "public-rdf-maintenance (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/45413",
+   "title": "RSS (RSS)"
   }
  ]
 }
