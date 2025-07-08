@@ -35,40 +35,24 @@
  "identifier": "cg/open-ui",
  "services": [
   {
-   "href": "https://api.w3.org/services/25788",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/25789",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/25790",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/27793",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25791",
-   "title": "Mailing List"
+   "title": "internal-open-ui (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/27793",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/openui",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27793"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27793/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/25789",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/25790",
+   "title": "public-open-ui (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/25788",
+   "title": "RSS (RSS)"
   }
  ]
 }
