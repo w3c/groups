@@ -35,20 +35,20 @@
  "identifier": "cg/sport-schema",
  "services": [
   {
-   "href": "https://api.w3.org/services/6092",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6096",
+   "title": "internal-sport-schema (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6093",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6094",
-   "title": "Mailing List"
+   "title": "public-sport-schema (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6096",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6092",
+   "title": "RSS (RSS)"
   }
  ]
 }
