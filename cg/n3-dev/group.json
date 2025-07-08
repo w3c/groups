@@ -35,60 +35,28 @@
  "identifier": "cg/n3-dev",
  "services": [
   {
-   "href": "https://api.w3.org/services/15437",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15438",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15439",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15521",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15441",
-   "title": "Mailing List"
+   "title": "internal-n3-dev (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15521",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/N3",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15521"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15521/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15438",
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/40756",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/n3Builtins",
-    "shortdesc": "n3Builtins GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40756"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40756/groups"
-     }
-    }
-   }
+   "title": "n3Builtins GitHub (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/15439",
+   "title": "public-n3-dev (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15437",
+   "title": "RSS (RSS)"
   }
  ]
 }
