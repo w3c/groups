@@ -51,12 +51,12 @@
  "identifier": "wg/htmlwg",
  "services": [
   {
-   "href": "https://api.w3.org/services/17262",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/25883",
+   "title": "Dashboard (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/25883",
-   "title": "Issue Tracking"
+   "href": "https://api.w3.org/services/17262",
+   "title": "public-html (Mailing List)"
   }
  ]
 }
