@@ -35,20 +35,20 @@
  "identifier": "cg/arrm",
  "services": [
   {
-   "href": "https://api.w3.org/services/43963",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/43966",
+   "title": "internal-arrm (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43964",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43965",
-   "title": "Mailing List"
+   "title": "public-arrm (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43966",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43963",
+   "title": "RSS (RSS)"
   }
  ]
 }
