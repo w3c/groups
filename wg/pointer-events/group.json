@@ -51,28 +51,28 @@
  "identifier": "wg/pointer-events",
  "services": [
   {
-   "href": "https://api.w3.org/services/1342",
-   "title": "Issue Tracking"
-  },
-  {
    "href": "https://api.w3.org/services/1896",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/13778",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/15620",
-   "title": "Wiki"
+   "title": "member-pointer-events (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15621",
-   "title": "Other"
+   "title": "Meetings (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/1342",
+   "title": "GitHub issues (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/43930",
-   "title": "Other"
+   "title": "Chair dashboard (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/13778",
+   "title": "public-pointer-events (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15620",
+   "title": "wiki (Wiki)"
   }
  ]
 }
