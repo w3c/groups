@@ -35,48 +35,32 @@
  "identifier": "cg/patcg",
  "services": [
   {
-   "href": "https://api.w3.org/services/33275",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/33278",
+   "title": "internal-patcg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33276",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33277",
-   "title": "Mailing List"
+   "title": "public-patcg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/33278",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/33284",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/patcg",
-    "shortdesc": "PATCG GitHub",
-    "longdesc": "PATCG GitHub repositories",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33284"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33284/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/33285",
-   "title": "Other"
+   "href": "https://api.w3.org/services/33275",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/39174",
-   "title": "Discussion Forum"
+   "title": "Slack (Slack)"
+  },
+  {
+   "href": "https://api.w3.org/services/33285",
+   "title": "PATCG homepage (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/33284",
+   "title": "PATCG GitHub (Version Control)"
   }
  ]
 }
