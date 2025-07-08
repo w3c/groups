@@ -35,44 +35,28 @@
  "identifier": "cg/webscreens",
  "services": [
   {
-   "href": "https://api.w3.org/services/1739",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1740",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1741",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1742",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1914",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/1744",
-   "title": "Mailing List"
+   "title": "internal-webscreens (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/1914",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/webscreens/",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1914"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1914/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/1742",
+   "title": "public-webscreens (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/1740",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/1739",
+   "title": "Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/1741",
+   "title": "IRC (Chat)"
   }
  ]
 }
