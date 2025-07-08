@@ -35,44 +35,28 @@
  "identifier": "cg/web-adv",
  "services": [
   {
-   "href": "https://api.w3.org/services/12239",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/12243",
+   "title": "internal-web-adv (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/12240",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/12241",
-   "title": "Mailing List"
+   "title": "public-web-adv (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/12243",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/12239",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/13851",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/web-advertising",
-    "shortdesc": "GitHub Repo",
-    "longdesc": "GitHub Repo for Improving Web Advertising Business Group",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13851"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13851/groups"
-     }
-    }
-   }
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25914",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
