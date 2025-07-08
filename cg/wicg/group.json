@@ -35,44 +35,28 @@
  "identifier": "cg/wicg",
  "services": [
   {
-   "href": "https://api.w3.org/services/6097",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6098",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6099",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6102",
+   "title": "GitHub Repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6101",
-   "title": "Mailing List"
+   "title": "internal-wicg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6102",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/wicg/",
-    "shortdesc": "GitHub Repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6102"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6102/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/6098",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/6099",
+   "title": "public-wicg (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6097",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/25874",
-   "title": "Other"
+   "title": "Status (Other)"
   }
  ]
 }
