@@ -35,28 +35,28 @@
  "identifier": "cg/games",
  "services": [
   {
-   "href": "https://api.w3.org/services/669",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/670",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/671",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/672",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/674",
-   "title": "Mailing List"
+   "title": "internal-games (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/18099",
-   "title": "Mailing List"
+   "title": "internal-games-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/671",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/672",
+   "title": "public-games (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/670",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/669",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
