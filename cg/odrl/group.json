@@ -35,56 +35,40 @@
  "identifier": "cg/odrl",
  "services": [
   {
-   "href": "https://api.w3.org/services/356",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/357",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/358",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/359",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1577",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/360",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/401",
-   "title": "X"
-  },
-  {
-   "href": "https://api.w3.org/services/807",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/1577",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/odrl/",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1577"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1577/groups"
-     }
-    }
-   }
+   "title": "internal-odrl (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1864",
-   "title": "Mailing List"
+   "title": "internal-odrl-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/807",
+   "title": "Issues Tracker (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/358",
+   "title": "public-odrl (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/359",
+   "title": "public-odrl-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/356",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/357",
+   "title": "Wiki (Wiki)"
+  },
+  {
+   "href": "https://api.w3.org/services/401",
+   "title": "X (X)"
   }
  ]
 }
