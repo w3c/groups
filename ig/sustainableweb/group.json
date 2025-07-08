@@ -51,16 +51,16 @@
  "identifier": "ig/sustainableweb",
  "services": [
   {
-   "href": "https://api.w3.org/services/43954",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/43970",
-   "title": "Other"
+   "title": "Dashboard (Other)"
   },
   {
    "href": "https://api.w3.org/services/43971",
-   "title": "Issue Tracking"
+   "title": "Issues (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/43954",
+   "title": "public-sustainableweb (Mailing List)"
   }
  ]
 }
