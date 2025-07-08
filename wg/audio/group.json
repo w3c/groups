@@ -51,16 +51,16 @@
  "identifier": "wg/audio",
  "services": [
   {
-   "href": "https://api.w3.org/services/220",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1861",
+   "title": "member-audio (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/1861",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/220",
+   "title": "public-audio (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25875",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
