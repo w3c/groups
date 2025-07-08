@@ -35,40 +35,24 @@
  "identifier": "cg/privacycg",
  "services": [
   {
-   "href": "https://api.w3.org/services/17369",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/17372",
+   "title": "internal-privacycg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17370",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/17371",
-   "title": "Mailing List"
+   "title": "public-privacycg (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17372",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17369",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/17373",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/privacycg",
-    "shortdesc": "GitHub Repository",
-    "longdesc": "PrivacyCG GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17373"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17373/groups"
-     }
-    }
-   }
+   "title": "GitHub Repository (Version Control)"
   }
  ]
 }
