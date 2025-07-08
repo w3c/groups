@@ -35,48 +35,32 @@
  "identifier": "cg/bpmlod",
  "services": [
   {
-   "href": "https://api.w3.org/services/1490",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1491",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1492",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1493",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/1494",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15484",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/1495",
-   "title": "Mailing List"
+   "title": "internal-bpmlod (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15484",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/bpmlod",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15484"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15484/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/1492",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/1493",
+   "title": "public-bpmlod (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/1494",
+   "title": "public-bpmlod-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/1491",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/1490",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
