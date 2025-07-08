@@ -35,32 +35,32 @@
  "identifier": "cg/council",
  "services": [
   {
-   "href": "https://api.w3.org/services/400",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/577",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/578",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/579",
-   "title": "Chat"
-  },
-  {
    "href": "https://api.w3.org/services/581",
-   "title": "Mailing List"
+   "title": "internal-council (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17680",
-   "title": "Mailing List"
+   "title": "internal-council-contrib (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/579",
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/25976",
-   "title": "Issue Tracking"
+   "title": "Issue Tracking (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/400",
+   "title": "public-council (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/578",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/577",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
