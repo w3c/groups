@@ -35,40 +35,24 @@
  "identifier": "cg/pwe",
  "services": [
   {
-   "href": "https://api.w3.org/services/13852",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/13853",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/13854",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/13860",
+   "title": "GitHub Repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/13856",
-   "title": "Mailing List"
+   "title": "internal-pwe (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/13860",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/PWETF",
-    "shortdesc": "GitHub Repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13860"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13860/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/13853",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/13854",
+   "title": "public-pwe (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/13852",
+   "title": "RSS (RSS)"
   }
  ]
 }
