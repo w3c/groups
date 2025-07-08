@@ -51,56 +51,24 @@
  "identifier": "wg/sdw",
  "services": [
   {
-   "href": "https://api.w3.org/services/7353",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45563",
+   "title": "GitHub: SOSA SSN repository (Version Control)"
   },
   {
-   "href": "https://api.w3.org/services/7621",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/sdw",
-    "shortdesc": "GitHub",
-    "longdesc": "w3c/sdw GitHub Repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7621"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7621/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/7353",
+   "title": "member-sdw-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33268",
-   "title": "Mailing List"
+   "title": "public-sdw-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33317",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   },
   {
-   "href": "https://api.w3.org/services/45563",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/sdw-sosa-ssn",
-    "shortdesc": "GitHub: SOSA SSN repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45563"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45563/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/7621",
+   "title": "GitHub (Version Control)"
   }
  ]
 }
