@@ -51,20 +51,20 @@
  "identifier": "wg/rdf-star",
  "services": [
   {
+   "href": "https://api.w3.org/services/40724",
+   "title": "Summary of meeting minutes (Other)"
+  },
+  {
    "href": "https://api.w3.org/services/39168",
-   "title": "Mailing List"
+   "title": "member-rdf-star-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/39169",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/40724",
-   "title": "Other"
+   "title": "public-rdf-star-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43980",
-   "title": "Issue Tracking"
+   "title": "WG dashboard (Issue Tracking)"
   }
  ]
 }
