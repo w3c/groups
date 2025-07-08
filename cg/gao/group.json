@@ -35,24 +35,24 @@
  "identifier": "cg/gao",
  "services": [
   {
-   "href": "https://api.w3.org/services/6063",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/6067",
+   "title": "internal-gao (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6064",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6065",
-   "title": "Mailing List"
+   "title": "public-gao (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/6067",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/6063",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6329",
-   "title": "Wiki"
+   "title": "Wiki (Wiki)"
   }
  ]
 }
