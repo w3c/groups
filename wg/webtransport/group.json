@@ -51,20 +51,20 @@
  "identifier": "wg/webtransport",
  "services": [
   {
-   "href": "https://api.w3.org/services/25967",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/25980",
-   "title": "Issue Tracking"
-  },
-  {
    "href": "https://api.w3.org/services/27444",
-   "title": "Mailing List"
+   "title": "member-webtransport (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/25967",
+   "title": "public-webtransport (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/27800",
-   "title": "Other"
+   "title": "Agenda (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/25980",
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
