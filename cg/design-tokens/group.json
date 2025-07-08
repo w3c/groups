@@ -35,44 +35,28 @@
  "identifier": "cg/design-tokens",
  "services": [
   {
-   "href": "https://api.w3.org/services/17308",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/17309",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/17310",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17312",
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/17311",
-   "title": "Mailing List"
+   "title": "internal-design-tokens (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17312",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/design-tokens/community-group",
-    "shortdesc": "GitHub repository",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17312"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17312/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/17309",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/17310",
+   "title": "public-design-tokens (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/17308",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/17337",
-   "title": "X"
+   "title": "X (X)"
   }
  ]
 }
