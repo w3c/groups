@@ -35,52 +35,36 @@
  "identifier": "cg/hydra",
  "services": [
   {
-   "href": "https://api.w3.org/services/1522",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1523",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/1527",
+   "title": "internal-hydra (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1524",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1525",
-   "title": "Mailing List"
+   "title": "public-hydra (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/1527",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1523",
+   "title": "RSS (RSS)"
   },
   {
-   "href": "https://api.w3.org/services/6464",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/6465",
-   "title": "X"
+   "href": "https://api.w3.org/services/1522",
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/6466",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/HydraCG/Specifications",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub repository for Hydra CG specifications",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6466"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6466/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/6464",
+   "title": "public-hydra-logs (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/6465",
+   "title": "X (X)"
   }
  ]
 }
