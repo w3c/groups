@@ -35,44 +35,28 @@
  "identifier": "cg/perma-id",
  "services": [
   {
-   "href": "https://api.w3.org/services/1397",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1398",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1399",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1400",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15481",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/1402",
-   "title": "Mailing List"
+   "title": "internal-perma-id (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15481",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/perma-id",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15481"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15481/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/1399",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/1400",
+   "title": "public-perma-id (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/1398",
+   "title": "RSS (RSS)"
+  },
+  {
+   "href": "https://api.w3.org/services/1397",
+   "title": "Wiki (Wiki)"
   }
  ]
 }
