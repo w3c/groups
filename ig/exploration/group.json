@@ -51,20 +51,20 @@
  "identifier": "ig/exploration",
  "services": [
   {
-   "href": "https://api.w3.org/services/45607",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/45627",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/45659",
-   "title": "Other"
+   "title": "Dashboard (Other)"
   },
   {
    "href": "https://api.w3.org/services/45660",
-   "title": "Issue Tracking"
+   "title": "Issues (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/45627",
+   "title": "member-exploration-ig (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/45607",
+   "title": "public-exploration-ig (Mailing List)"
   }
  ]
 }
