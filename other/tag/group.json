@@ -33,40 +33,24 @@
  "identifier": "other/tag",
  "services": [
   {
-   "href": "https://api.w3.org/services/1829",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/25743",
-   "title": "Blog"
-  },
-  {
-   "href": "https://api.w3.org/services/33313",
-   "title": "Issue Tracking"
-  },
-  {
-   "href": "https://api.w3.org/services/33314",
-   "title": "Other"
+   "title": "Blog (Blog)"
   },
   {
    "href": "https://api.w3.org/services/43860",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3ctag",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43860"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43860/groups"
-     }
-    }
-   }
+   "title": "GitHub repositories (Version Control)"
+  },
+  {
+   "href": "https://api.w3.org/services/1829",
+   "title": "tag (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/33314",
+   "title": "Agenda issues (Other)"
+  },
+  {
+   "href": "https://api.w3.org/services/33313",
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
