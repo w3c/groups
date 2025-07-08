@@ -35,40 +35,24 @@
  "identifier": "cg/miniapps",
  "services": [
   {
-   "href": "https://api.w3.org/services/17327",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/17330",
+   "title": "internal-miniapps (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17328",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/17329",
-   "title": "Mailing List"
+   "title": "public-miniapps (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17330",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17327",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/17347",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/miniapp",
-    "shortdesc": "GitHub",
-    "longdesc": "MiniApp Standardization",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17347"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17347/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
