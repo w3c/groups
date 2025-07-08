@@ -35,40 +35,24 @@
  "identifier": "cg/webcomponents",
  "services": [
   {
-   "href": "https://api.w3.org/services/26005",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/26008",
+   "title": "internal-webcomponents (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/26006",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/26007",
-   "title": "Mailing List"
+   "title": "public-webcomponents (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/26008",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/26005",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/26010",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c/webcomponents-cg",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/26010"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/26010/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
