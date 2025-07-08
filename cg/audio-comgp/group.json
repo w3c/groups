@@ -35,44 +35,28 @@
  "identifier": "cg/audio-comgp",
  "services": [
   {
-   "href": "https://api.w3.org/services/15422",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/15423",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/15424",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/15552",
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15426",
-   "title": "Mailing List"
+   "title": "internal-audio-comgp (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/15552",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/WebAudio/web-audio-cg/",
-    "shortdesc": "GitHub Repo",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15552"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15552/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/15423",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/15424",
+   "title": "public-audio-comgp (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/15422",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/25916",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
