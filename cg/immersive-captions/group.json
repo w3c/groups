@@ -35,40 +35,24 @@
  "identifier": "cg/immersive-captions",
  "services": [
   {
-   "href": "https://api.w3.org/services/17319",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/17322",
+   "title": "internal-immersive-captions (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17320",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/17321",
-   "title": "Mailing List"
+   "title": "public-immersive-captions (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/17322",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/17319",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/43850",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/michael-n-cooper/immersive-captions-cg",
-    "shortdesc": "GitHub repo",
-    "longdesc": "GitHub repository",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43850"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43850/groups"
-     }
-    }
-   }
+   "title": "GitHub repo (Version Control)"
   }
  ]
 }
