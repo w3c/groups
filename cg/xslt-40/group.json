@@ -35,40 +35,24 @@
  "identifier": "cg/xslt-40",
  "services": [
   {
-   "href": "https://api.w3.org/services/25816",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/25817",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/25818",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43841",
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25819",
-   "title": "Mailing List"
+   "title": "internal-xslt-40 (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43841",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/qt4cg",
-    "shortdesc": "GitHub repositories",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43841"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43841/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/25817",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/25818",
+   "title": "public-xslt-40 (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/25816",
+   "title": "RSS (RSS)"
   }
  ]
 }
