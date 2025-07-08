@@ -35,40 +35,24 @@
  "identifier": "cg/bdns",
  "services": [
   {
-   "href": "https://api.w3.org/services/19038",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/19039",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/19040",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40715",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/19041",
-   "title": "Mailing List"
+   "title": "internal-bdns (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/40715",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/theodi/BDNS",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40715"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40715/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/19039",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/19040",
+   "title": "public-bdns (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/19038",
+   "title": "RSS (RSS)"
   }
  ]
 }
