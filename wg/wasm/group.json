@@ -51,16 +51,16 @@
  "identifier": "wg/wasm",
  "services": [
   {
-   "href": "https://api.w3.org/services/6055",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45905",
+   "title": "public-webassembly (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17272",
-   "title": "Other"
+   "title": "cg (Other)"
   },
   {
    "href": "https://api.w3.org/services/25912",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
