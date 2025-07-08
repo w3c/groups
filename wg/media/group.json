@@ -52,15 +52,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15625",
-   "title": "Mailing List"
+   "title": "public-media-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25887",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/27801",
-   "title": "Other"
+   "title": "Meetings (Other)"
   }
  ]
 }
