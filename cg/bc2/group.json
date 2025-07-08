@@ -35,20 +35,20 @@
  "identifier": "cg/bc2",
  "services": [
   {
-   "href": "https://api.w3.org/services/43932",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/43935",
+   "title": "internal-bc2 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43933",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43934",
-   "title": "Mailing List"
+   "title": "public-bc2 (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43935",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43932",
+   "title": "RSS (RSS)"
   }
  ]
 }
