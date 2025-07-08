@@ -35,40 +35,24 @@
  "identifier": "cg/informationarchitecture",
  "services": [
   {
-   "href": "https://api.w3.org/services/1378",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1379",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1380",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43926",
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/1455",
-   "title": "Mailing List"
+   "title": "internal-informationarchitecture (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/43926",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/iacg",
-    "shortdesc": "GitHub",
-    "longdesc": "",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43926"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43926/groups"
-     }
-    }
-   }
+   "href": "https://api.w3.org/services/1379",
+   "title": "IRC (Chat)"
+  },
+  {
+   "href": "https://api.w3.org/services/1380",
+   "title": "public-informationarchitecture (Mailing List)"
+  },
+  {
+   "href": "https://api.w3.org/services/1378",
+   "title": "RSS (RSS)"
   }
  ]
 }
