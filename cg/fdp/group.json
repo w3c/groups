@@ -35,20 +35,20 @@
  "identifier": "cg/fdp",
  "services": [
   {
-   "href": "https://api.w3.org/services/45757",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45760",
+   "title": "internal-fdp (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45758",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45759",
-   "title": "Mailing List"
+   "title": "public-fdp (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45760",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45757",
+   "title": "RSS (RSS)"
   }
  ]
 }
