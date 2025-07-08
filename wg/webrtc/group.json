@@ -51,24 +51,24 @@
  "identifier": "wg/webrtc",
  "services": [
   {
-   "href": "https://api.w3.org/services/175",
-   "title": "Wiki"
-  },
-  {
    "href": "https://api.w3.org/services/1839",
-   "title": "Mailing List"
+   "title": "member-webrtc (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1852",
-   "title": "Mailing List"
+   "title": "public-webrtc (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25904",
-   "title": "Issue Tracking"
+   "title": "Dashboard (Issue Tracking)"
+  },
+  {
+   "href": "https://api.w3.org/services/175",
+   "title": "webrtc (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25918",
-   "title": "Other"
+   "title": "YouTube Channel (Other)"
   }
  ]
 }
