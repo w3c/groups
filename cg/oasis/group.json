@@ -35,40 +35,24 @@
  "identifier": "cg/oasis",
  "services": [
   {
-   "href": "https://api.w3.org/services/45874",
-   "title": "RSS"
+   "href": "https://api.w3.org/services/45877",
+   "title": "internal-oasis (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45875",
-   "title": "Chat"
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45876",
-   "title": "Mailing List"
+   "title": "public-oasis (Mailing List)"
   },
   {
-   "href": "https://api.w3.org/services/45877",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/45874",
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/45882",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/dfsantamaria/OASIS",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45882"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45882/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
