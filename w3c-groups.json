@@ -7181,8 +7181,12 @@
   "identifier": "ig/i18n",
   "services": [
    {
+    "href": "https://api.w3.org/services/45918",
+    "title": "W3C Internationalization on Mastodon (Mastodon)"
+   },
+   {
     "href": "https://api.w3.org/services/45913",
-    "title": "I18n activity X (X)"
+    "title": "W3C Internationalization on X (X)"
    },
    {
     "href": "https://api.w3.org/services/25905",
@@ -7247,16 +7251,20 @@
   "identifier": "wg/i18n-core",
   "services": [
    {
-    "href": "https://api.w3.org/services/25919",
-    "title": "I18n activity X (X)"
-   },
-   {
     "href": "https://api.w3.org/services/1895",
     "title": "member-i18n-core (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/283",
     "title": "public-i18n-core (Mailing List)"
+   },
+   {
+    "href": "https://api.w3.org/services/45919",
+    "title": "W3C Internationalization on Mastodon (Mastodon)"
+   },
+   {
+    "href": "https://api.w3.org/services/25919",
+    "title": "W3C Internationalization on X (X)"
    },
    {
     "href": "https://api.w3.org/services/25885",
