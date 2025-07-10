@@ -4392,6 +4392,15 @@
   "isPrivate": false
  },
  {
+  "name": "js-primitive-builtins",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Additional JS primitive builtins",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "js-promise-integration",
   "owner": {
    "login": "WebAssembly"
