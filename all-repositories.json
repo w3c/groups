@@ -22613,7 +22613,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    106
+    122803
    ],
    "contacts": [
     "deniak"
@@ -22692,7 +22692,18 @@
   },
   "description": "Frontend website for w3.org",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    122803
+   ],
+   "contacts": [
+    "vivienlacourba"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "w3c-website-redesign-design-system",
