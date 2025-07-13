@@ -482,6 +482,26 @@
   }
  },
  {
+  "name": "js-primitive-builtins",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Additional JS primitive builtins",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "js-promise-integration",
   "owner": {
    "login": "WebAssembly"
