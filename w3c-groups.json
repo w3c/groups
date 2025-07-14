@@ -4566,6 +4566,10 @@
   "identifier": "wg/data-shapes",
   "services": [
    {
+    "href": "https://api.w3.org/services/45920",
+    "title": "public-shacl (Mailing List)"
+   },
+   {
     "href": "https://api.w3.org/services/45533",
     "title": "IRC chat (Chat)"
    }
