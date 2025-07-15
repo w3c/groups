@@ -314,6 +314,25 @@
   }
  },
  {
+  "name": "audio-context-playout-stats",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "auxclick",
   "owner": {
    "login": "WICG"
@@ -3585,25 +3604,6 @@
    "login": "WICG"
   },
   "description": "Repository for the Web Smart Card Explainer",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
-  "name": "web_audio_playout",
-  "owner": {
-   "login": "WICG"
-  },
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
