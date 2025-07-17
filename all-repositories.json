@@ -23239,7 +23239,7 @@
   },
   "homepageUrl": "https://www.w3.org/blog/wai-components-gallery/",
   "description": "Accessible UI Components List",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -23399,7 +23399,7 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -23495,9 +23495,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "http://w3c.github.io/wai-eval-tools/",
   "description": "WAI Accessibility Evaluation Tools",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -23609,7 +23608,7 @@
    "login": "w3c"
   },
   "homepageUrl": "http://w3c.github.io/wai-gh-training-2015-06-29",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -23836,9 +23835,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/wai-wcag-supporting-documents-redesign/",
   "description": "Repository for work regarding the redesign of the supporting documents of WCAG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
@@ -24050,7 +24048,7 @@
    "login": "w3c"
   },
   "description": "WAI Planning and Implementation materials review",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -24266,7 +24264,7 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -24747,7 +24745,7 @@
   },
   "homepageUrl": "https://wai-wcag-videos.netlify.app/overview/",
   "description": "Short Videos Explaining WCAG 2 Requirements",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
@@ -25074,7 +25072,7 @@
    "login": "w3c"
   },
   "description": "Temporary repository to preview WCAG redesign work",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
