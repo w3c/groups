@@ -155,7 +155,7 @@
   },
   "homepageUrl": "https://www.w3.org/blog/wai-components-gallery/",
   "description": "Accessible UI Components List",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -237,7 +237,7 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -301,9 +301,8 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "http://w3c.github.io/wai-eval-tools/",
   "description": "WAI Accessibility Evaluation Tools",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -531,7 +530,7 @@
    "login": "w3c"
   },
   "description": "WAI Planning and Implementation materials review",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -652,7 +651,7 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
