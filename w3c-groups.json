@@ -2189,10 +2189,6 @@
     "title": "public-bpmlod (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/1494",
-    "title": "public-bpmlod-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/1491",
     "title": "RSS (RSS)"
    },
@@ -4175,10 +4171,6 @@
     "title": "public-colorweb (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/6498",
-    "title": "public-colorweb-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/6495",
     "title": "RSS (RSS)"
    },
@@ -4227,10 +4219,6 @@
    {
     "href": "https://api.w3.org/services/581",
     "title": "internal-council (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/17680",
-    "title": "internal-council-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/579",
@@ -5966,10 +5954,6 @@
     "title": "public-fibo (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/6207",
-    "title": "public-fibo-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/6204",
     "title": "RSS (RSS)"
    },
@@ -6152,10 +6136,6 @@
     "title": "internal-games (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/18099",
-    "title": "internal-games-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/671",
     "title": "IRC (Chat)"
    },
@@ -6286,10 +6266,6 @@
    {
     "href": "https://api.w3.org/services/6074",
     "title": "public-schemed (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/6075",
-    "title": "public-schemed-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/6072",
@@ -7379,10 +7355,6 @@
     "title": "internal-json-ld (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/18769",
-    "title": "internal-json-ld-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/554",
     "title": "irc (Chat)"
    },
@@ -7656,10 +7628,6 @@
    {
     "href": "https://api.w3.org/services/2059",
     "title": "public-lbd (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/2060",
-    "title": "public-lbd-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/2057",
@@ -9196,20 +9164,12 @@
     "title": "internal-odrl (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/1864",
-    "title": "internal-odrl-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/807",
     "title": "Issues Tracker (Issue Tracking)"
    },
    {
     "href": "https://api.w3.org/services/358",
     "title": "public-odrl (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/359",
-    "title": "public-odrl-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/356",
@@ -9326,10 +9286,6 @@
    {
     "href": "https://api.w3.org/services/388",
     "title": "internal-ontolex (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/17780",
-    "title": "internal-ontolex-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/386",
@@ -12149,14 +12105,6 @@
     "title": "public-md-odrl-profile (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/25806",
-    "title": "public-md-odrl-profile-contrib (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/26880",
-    "title": "public-md-ordrl-profile (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/25780",
     "title": "RSS (RSS)"
    }
@@ -12866,10 +12814,6 @@
    {
     "href": "https://api.w3.org/services/6469",
     "title": "public-schemaorg4datasets (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/6470",
-    "title": "public-schemaorg4datasets-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/6467",
@@ -14786,10 +14730,6 @@
     "title": "internal-unhosted (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/18379",
-    "title": "internal-unhosted-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/572",
     "title": "public-unhosted (Mailing List)"
    },
@@ -15120,10 +15060,6 @@
    {
     "href": "https://api.w3.org/services/763",
     "title": "internal-w3process (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/17737",
-    "title": "internal-w3process-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/760",
@@ -16329,20 +16265,12 @@
     "title": "internal-texttracks (Mailing List)"
    },
    {
-    "href": "https://api.w3.org/services/17559",
-    "title": "internal-texttracks-contrib (Mailing List)"
-   },
-   {
     "href": "https://api.w3.org/services/680",
     "title": "IRC (Chat)"
    },
    {
     "href": "https://api.w3.org/services/681",
     "title": "public-texttracks (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/682",
-    "title": "public-texttracks-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/679",
@@ -16409,10 +16337,6 @@
    {
     "href": "https://api.w3.org/services/5953",
     "title": "public-web-nfc (Mailing List)"
-   },
-   {
-    "href": "https://api.w3.org/services/5954",
-    "title": "public-web-nfc-contrib (Mailing List)"
    },
    {
     "href": "https://api.w3.org/services/5951",
