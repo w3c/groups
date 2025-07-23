@@ -344,10 +344,6 @@
   "identifier": "cg/fdp"
  },
  {
-  "id": 144058,
-  "identifier": "tf/fast"
- },
- {
   "id": 132274,
   "identifier": "cg/fed-id"
  },
@@ -358,6 +354,10 @@
  {
   "id": 84521,
   "identifier": "cg/fibo"
+ },
+ {
+  "id": 144058,
+  "identifier": "tf/fast"
  },
  {
   "id": 96877,
@@ -576,6 +576,10 @@
   "identifier": "cg/opentrack"
  },
  {
+  "id": 159734,
+  "identifier": "tf/pdf-aam"
+ },
+ {
   "id": 145018,
   "identifier": "tf/pmchairs"
  },
@@ -590,10 +594,6 @@
  {
   "id": 59096,
   "identifier": "wg/pointer-events"
- },
- {
-  "id": 159734,
-  "identifier": "tf/pdf-aam"
  },
  {
   "id": 133210,
@@ -862,10 +862,6 @@
  {
   "id": 34314,
   "identifier": "wg/timed-text"
- },
- {
-  "id": 121208,
-  "identifier": "tf/transportation-ont-cc"
  },
  {
   "id": 49276,
