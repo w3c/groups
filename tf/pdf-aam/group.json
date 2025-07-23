@@ -1,6 +1,6 @@
 {
  "id": 159734,
- "name": "Portable Document Format (PDF) Accessibility APIs Mapping (AAM)",
+ "name": "PDF Accessibility APIs Mapping (PDF-AAM) Task Force",
  "is_closed": false,
  "description": "Provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
  "shortname": "pdf-aam",
@@ -66,7 +66,7 @@
    "href": "https://api.w3.org/groups/tf/pdf-aam"
   },
   "homepage": {
-   "href": "https://www.w3.org/groups/tf/pdf-aam/"
+   "href": "https://www.w3.org/WAI/about/groups/task-forces/pdf-aam/"
   },
   "users": {
    "href": "https://api.w3.org/groups/tf/pdf-aam/users"
