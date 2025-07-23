@@ -1,6 +1,6 @@
 {
  "id": 144058,
- "name": "FAST Task Force",
+ "name": "Framework for Accessible Specification of Technologies Task Force",
  "is_closed": false,
  "description": "FAST TF is to develop the FAST to collect user and functional needs, develop guidance to meet those needs in technologies and work with other groups to develop this guidance for content developers.",
  "shortname": "fast",
@@ -64,6 +64,9 @@
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/tf/fast"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/WAI/about/groups/task-forces/fast/"
   },
   "users": {
    "href": "https://api.w3.org/groups/tf/fast/users"
