@@ -302,7 +302,7 @@
     "href": "https://api.w3.org/groups/tf/aria-practices"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/ARIA/task-forces/practices/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/practices/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/aria-practices/users"
@@ -394,9 +394,6 @@
   "_links": {
    "self": {
     "href": "https://api.w3.org/groups/tf/aria-editors"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/WAI/ARIA/editors/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/aria-editors/users"
@@ -544,7 +541,7 @@
     "href": "https://api.w3.org/groups/tf/wcag-act"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/GL/task-forces/conformance-testing/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/conformance-testing/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/wcag-act/users"
@@ -1313,7 +1310,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -1460,7 +1457,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -3562,7 +3559,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -4096,7 +4093,7 @@
     "href": "https://api.w3.org/groups/tf/cognitive-a11y-tf"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/GL/task-forces/coga/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/coga/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/cognitive-a11y-tf/users"
@@ -4420,9 +4417,6 @@
   "_links": {
    "self": {
     "href": "https://api.w3.org/groups/tf/dx-dcat"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/groups/wg/dx/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/dx-dcat/users"
@@ -5150,9 +5144,6 @@
    "self": {
     "href": "https://api.w3.org/groups/tf/pm-ann"
    },
-   "homepage": {
-    "href": "https://www.w3.org/groups/wg/pm/"
-   },
    "users": {
     "href": "https://api.w3.org/groups/tf/pm-ann/users"
    },
@@ -5428,7 +5419,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -5513,7 +5504,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -5704,88 +5695,6 @@
   ]
  },
  {
-  "id": 144058,
-  "name": "FAST Task Force",
-  "is_closed": false,
-  "description": "FAST TF is to develop the FAST to collect user and functional needs, develop guidance to meet those needs in technologies and work with other groups to develop this guidance for content developers.",
-  "shortname": "fast",
-  "members": [
-   {
-    "id": 83907,
-    "name": "Accessible Platform Architectures Working Group",
-    "is_closed": false,
-    "description": "The mission of the Accessible Platform Architectures Working Group (APA WG, formerly part of the Protocols and Formats Working Group) is to ensure W3C specifications provide support for accessibility to people with disabilities. The group advances this mission through review of W3C specifications, development of technical support materials, collaboration with other Working Groups, and coordination of harmonized accessibility strategies within W3C.",
-    "shortname": "apa",
-    "discr": "w3cgroup",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/groups/wg/apa"
-     },
-     "homepage": {
-      "href": "https://www.w3.org/WAI/about/groups/apawg/"
-     },
-     "users": {
-      "href": "https://api.w3.org/groups/wg/apa/users"
-     },
-     "services": {
-      "href": "https://api.w3.org/groups/wg/apa/services"
-     },
-     "specifications": {
-      "href": "https://api.w3.org/groups/wg/apa/specifications"
-     },
-     "chairs": {
-      "href": "https://api.w3.org/groups/wg/apa/chairs"
-     },
-     "team-contacts": {
-      "href": "https://api.w3.org/groups/wg/apa/teamcontacts"
-     },
-     "charters": {
-      "href": "https://api.w3.org/groups/wg/apa/charters"
-     },
-     "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
-     },
-     "join": {
-      "href": "https://www.w3.org/groups/wg/apa/join"
-     },
-     "pp-status": {
-      "href": "https://www.w3.org/groups/wg/apa/ipr"
-     },
-     "participations": {
-      "href": "https://api.w3.org/groups/wg/apa/participations"
-     }
-    },
-    "type": "working group",
-    "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
-    "tr-publisher": true,
-    "group-type": "wg",
-    "identifier": "wg/apa"
-   }
-  ],
-  "internal": false,
-  "participants_list_public": true,
-  "discr": "tf",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/tf/fast"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/tf/fast/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/tf/fast/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/tf/fast/chairs"
-   }
-  },
-  "tr-publisher": false,
-  "identifier": "tf/fast",
-  "group-type": "tf",
-  "services": []
- },
- {
   "id": 132274,
   "name": "Federated Identity Community Group",
   "is_closed": false,
@@ -5962,6 +5871,91 @@
     "title": "Wiki (Wiki)"
    }
   ]
+ },
+ {
+  "id": 144058,
+  "name": "Framework for Accessible Specification of Technologies Task Force",
+  "is_closed": false,
+  "description": "FAST TF is to develop the FAST to collect user and functional needs, develop guidance to meet those needs in technologies and work with other groups to develop this guidance for content developers.",
+  "shortname": "fast",
+  "members": [
+   {
+    "id": 83907,
+    "name": "Accessible Platform Architectures Working Group",
+    "is_closed": false,
+    "description": "The mission of the Accessible Platform Architectures Working Group (APA WG, formerly part of the Protocols and Formats Working Group) is to ensure W3C specifications provide support for accessibility to people with disabilities. The group advances this mission through review of W3C specifications, development of technical support materials, collaboration with other Working Groups, and coordination of harmonized accessibility strategies within W3C.",
+    "shortname": "apa",
+    "discr": "w3cgroup",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/groups/wg/apa"
+     },
+     "homepage": {
+      "href": "https://www.w3.org/WAI/about/groups/apawg/"
+     },
+     "users": {
+      "href": "https://api.w3.org/groups/wg/apa/users"
+     },
+     "services": {
+      "href": "https://api.w3.org/groups/wg/apa/services"
+     },
+     "specifications": {
+      "href": "https://api.w3.org/groups/wg/apa/specifications"
+     },
+     "chairs": {
+      "href": "https://api.w3.org/groups/wg/apa/chairs"
+     },
+     "team-contacts": {
+      "href": "https://api.w3.org/groups/wg/apa/teamcontacts"
+     },
+     "charters": {
+      "href": "https://api.w3.org/groups/wg/apa/charters"
+     },
+     "active-charter": {
+      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+     },
+     "join": {
+      "href": "https://www.w3.org/groups/wg/apa/join"
+     },
+     "pp-status": {
+      "href": "https://www.w3.org/groups/wg/apa/ipr"
+     },
+     "participations": {
+      "href": "https://api.w3.org/groups/wg/apa/participations"
+     }
+    },
+    "type": "working group",
+    "start-date": "2015-10-22",
+    "end-date": "2025-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
+   }
+  ],
+  "internal": false,
+  "participants_list_public": true,
+  "discr": "tf",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/tf/fast"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/fast/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/tf/fast/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/tf/fast/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/tf/fast/chairs"
+   }
+  },
+  "tr-publisher": false,
+  "identifier": "tf/fast",
+  "group-type": "tf",
+  "services": []
  },
  {
   "id": 96877,
@@ -6300,7 +6294,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -6881,7 +6875,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -7129,7 +7123,7 @@
     "href": "https://api.w3.org/groups/ig/i18n"
    },
    "homepage": {
-    "href": "https://www.w3.org/International/ig/"
+    "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
    },
    "users": {
     "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -7457,7 +7451,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -7970,7 +7964,7 @@
     "href": "https://api.w3.org/groups/tf/low-vision-a11y-tf"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/low-vision-a11y-tf/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/low-vision-a11y-tf/users"
@@ -8224,7 +8218,7 @@
     "href": "https://api.w3.org/groups/tf/maturity"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/APA/task-forces/maturity-model/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/maturity-model/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/maturity/users"
@@ -8702,7 +8696,7 @@
     "href": "https://api.w3.org/groups/tf/mobile-a11y-tf"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/GL/task-forces/matf"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/matf/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/mobile-a11y-tf/users"
@@ -8759,7 +8753,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -9562,6 +9556,96 @@
   ]
  },
  {
+  "id": 159734,
+  "name": "PDF Accessibility APIs Mapping (PDF-AAM) Task Force",
+  "is_closed": false,
+  "description": "Provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
+  "shortname": "pdf-aam",
+  "members": [
+   {
+    "id": 83726,
+    "name": "Accessible Rich Internet Applications Working Group",
+    "is_closed": false,
+    "description": "The mission of the Accessible Rich Internet Applications Working Group is to enhance the accessibility of web content through the development of supplemental attributes, including roles, states, and other properties, that can be applied to native host language elements and exposed via platform accessibility APIs.",
+    "shortname": "aria",
+    "discr": "w3cgroup",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/groups/wg/aria"
+     },
+     "homepage": {
+      "href": "https://www.w3.org/WAI/about/groups/ariawg/"
+     },
+     "users": {
+      "href": "https://api.w3.org/groups/wg/aria/users"
+     },
+     "services": {
+      "href": "https://api.w3.org/groups/wg/aria/services"
+     },
+     "specifications": {
+      "href": "https://api.w3.org/groups/wg/aria/specifications"
+     },
+     "chairs": {
+      "href": "https://api.w3.org/groups/wg/aria/chairs"
+     },
+     "team-contacts": {
+      "href": "https://api.w3.org/groups/wg/aria/teamcontacts"
+     },
+     "charters": {
+      "href": "https://api.w3.org/groups/wg/aria/charters"
+     },
+     "active-charter": {
+      "href": "https://api.w3.org/groups/wg/aria/charters/524"
+     },
+     "join": {
+      "href": "https://www.w3.org/groups/wg/aria/join"
+     },
+     "pp-status": {
+      "href": "https://www.w3.org/groups/wg/aria/ipr"
+     },
+     "participations": {
+      "href": "https://api.w3.org/groups/wg/aria/participations"
+     }
+    },
+    "type": "working group",
+    "start-date": "2015-10-22",
+    "end-date": "2027-01-01",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
+   }
+  ],
+  "internal": false,
+  "participants_list_public": true,
+  "discr": "tf",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/tf/pdf-aam"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/pdf-aam/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/tf/pdf-aam/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/tf/pdf-aam/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/tf/pdf-aam/chairs"
+   }
+  },
+  "tr-publisher": false,
+  "identifier": "tf/pdf-aam",
+  "group-type": "tf",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/44960",
+    "title": "public-pdf-aam (Mailing List)"
+   }
+  ]
+ },
+ {
   "id": 145018,
   "name": "PM Working Group Chairs",
   "is_closed": false,
@@ -9842,96 +9926,6 @@
    {
     "href": "https://api.w3.org/services/15620",
     "title": "wiki (Wiki)"
-   }
-  ]
- },
- {
-  "id": 159734,
-  "name": "Portable Document Format (PDF) Accessibility APIs Mapping (AAM)",
-  "is_closed": false,
-  "description": "Provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
-  "shortname": "pdf-aam",
-  "members": [
-   {
-    "id": 83726,
-    "name": "Accessible Rich Internet Applications Working Group",
-    "is_closed": false,
-    "description": "The mission of the Accessible Rich Internet Applications Working Group is to enhance the accessibility of web content through the development of supplemental attributes, including roles, states, and other properties, that can be applied to native host language elements and exposed via platform accessibility APIs.",
-    "shortname": "aria",
-    "discr": "w3cgroup",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/groups/wg/aria"
-     },
-     "homepage": {
-      "href": "https://www.w3.org/WAI/about/groups/ariawg/"
-     },
-     "users": {
-      "href": "https://api.w3.org/groups/wg/aria/users"
-     },
-     "services": {
-      "href": "https://api.w3.org/groups/wg/aria/services"
-     },
-     "specifications": {
-      "href": "https://api.w3.org/groups/wg/aria/specifications"
-     },
-     "chairs": {
-      "href": "https://api.w3.org/groups/wg/aria/chairs"
-     },
-     "team-contacts": {
-      "href": "https://api.w3.org/groups/wg/aria/teamcontacts"
-     },
-     "charters": {
-      "href": "https://api.w3.org/groups/wg/aria/charters"
-     },
-     "active-charter": {
-      "href": "https://api.w3.org/groups/wg/aria/charters/524"
-     },
-     "join": {
-      "href": "https://www.w3.org/groups/wg/aria/join"
-     },
-     "pp-status": {
-      "href": "https://www.w3.org/groups/wg/aria/ipr"
-     },
-     "participations": {
-      "href": "https://api.w3.org/groups/wg/aria/participations"
-     }
-    },
-    "type": "working group",
-    "start-date": "2015-10-22",
-    "end-date": "2027-01-01",
-    "tr-publisher": true,
-    "group-type": "wg",
-    "identifier": "wg/aria"
-   }
-  ],
-  "internal": false,
-  "participants_list_public": true,
-  "discr": "tf",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/tf/pdf-aam"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/groups/tf/pdf-aam/"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/tf/pdf-aam/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/tf/pdf-aam/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/tf/pdf-aam/chairs"
-   }
-  },
-  "tr-publisher": false,
-  "identifier": "tf/pdf-aam",
-  "group-type": "tf",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/44960",
-    "title": "public-pdf-aam (Mailing List)"
    }
   ]
  },
@@ -10662,9 +10656,6 @@
   "_links": {
    "self": {
     "href": "https://api.w3.org/groups/tf/pm-dc"
-   },
-   "homepage": {
-    "href": "https://www.w3.org/groups/wg/pm/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/pm-dc/users"
@@ -12034,7 +12025,7 @@
     "href": "https://api.w3.org/groups/tf/rqtf"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/APA/task-forces/research-questions/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/research-questions/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/rqtf/users"
@@ -12374,6 +12365,9 @@
   "_links": {
    "self": {
     "href": "https://api.w3.org/groups/tf/svg-a11y"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/WAI/PF/svg-a11y-tf/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/svg-a11y/users"
@@ -13444,7 +13438,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -13714,7 +13708,7 @@
     "href": "https://api.w3.org/groups/tf/pronunciation-tf"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/APA/task-forces/pronunciation/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/spoken-presentation/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/pronunciation-tf/users"
@@ -14365,7 +14359,7 @@
       "href": "https://api.w3.org/groups/ig/i18n"
      },
      "homepage": {
-      "href": "https://www.w3.org/International/ig/"
+      "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
      },
      "users": {
       "href": "https://api.w3.org/groups/ig/i18n/users"
@@ -14498,186 +14492,6 @@
    {
     "href": "https://api.w3.org/services/17357",
     "title": "Upcoming meetings (Other)"
-   }
-  ]
- },
- {
-  "id": 121208,
-  "name": "Transportation Ontology Coordination Committee",
-  "is_closed": false,
-  "shortname": "transportation-ont-cc",
-  "members": [
-   {
-    "id": 61259,
-    "name": "Automotive and Transportation Business Group",
-    "is_closed": true,
-    "description": "<p>The mission of the Automotive and Transportation Group was to act as an incubator of ideas for standardization for connected vehicles and the broader transportation data space. It had produced some early draft specifications for making vehicle signals available in a browser runtime as a first class object. Those specifications were the basis for launching the <a rel=\"nofollow\" href=\"/groups/wg/auto/\">W3C Automotive Working Group</a> (which closed on 22 February 2024).</p>\r\n\r\n<p>Fuller description of the scope is in <a rel=\"nofollow\" href=\"/2020/auto-transportation-charter\">the charter</a>.</p>",
-    "shortname": "autowebplatform",
-    "closed_date": "2024-06-18",
-    "spec-publisher": true,
-    "discr": "w3cgroup",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/groups/bg/autowebplatform"
-     },
-     "homepage": {
-      "href": "https://www.w3.org/community/autowebplatform/"
-     },
-     "users": {
-      "href": "https://api.w3.org/groups/bg/autowebplatform/users"
-     },
-     "services": {
-      "href": "https://api.w3.org/groups/bg/autowebplatform/services"
-     },
-     "chairs": {
-      "href": "https://api.w3.org/groups/bg/autowebplatform/chairs"
-     },
-     "team-contacts": {
-      "href": "https://api.w3.org/groups/bg/autowebplatform/teamcontacts"
-     },
-     "join": {
-      "href": "https://www.w3.org/community/autowebplatform/join"
-     },
-     "participations": {
-      "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
-     }
-    },
-    "type": "business group",
-    "tr-publisher": false,
-    "group-type": "bg",
-    "identifier": "bg/autowebplatform"
-   },
-   {
-    "id": 76043,
-    "name": "Automotive Working Group",
-    "is_closed": true,
-    "description": "The mission of the Automotive Working Group was to develop specifications for exposing information services for in-vehicle and cloud based uses.",
-    "shortname": "auto",
-    "closed_date": "2024-02-22",
-    "discr": "w3cgroup",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/groups/wg/auto"
-     },
-     "homepage": {
-      "href": "https://www.w3.org/groups/wg/auto/"
-     },
-     "users": {
-      "href": "https://api.w3.org/groups/wg/auto/users"
-     },
-     "services": {
-      "href": "https://api.w3.org/groups/wg/auto/services"
-     },
-     "specifications": {
-      "href": "https://api.w3.org/groups/wg/auto/specifications"
-     },
-     "chairs": {
-      "href": "https://api.w3.org/groups/wg/auto/chairs"
-     },
-     "team-contacts": {
-      "href": "https://api.w3.org/groups/wg/auto/teamcontacts"
-     },
-     "charters": {
-      "href": "https://api.w3.org/groups/wg/auto/charters"
-     },
-     "active-charter": {
-      "href": "https://api.w3.org/groups/wg/auto/charters/437"
-     },
-     "join": {
-      "href": "https://www.w3.org/groups/wg/auto/join"
-     },
-     "pp-status": {
-      "href": "https://www.w3.org/groups/wg/auto/ipr"
-     },
-     "participations": {
-      "href": "https://api.w3.org/groups/wg/auto/participations"
-     }
-    },
-    "type": "working group",
-    "start-date": "2015-02-03",
-    "end-date": "2023-11-30",
-    "tr-publisher": true,
-    "group-type": "wg",
-    "identifier": "wg/auto"
-   },
-   {
-    "id": 102593,
-    "name": "Spatial Data on the Web Interest Group",
-    "is_closed": true,
-    "description": "The Spatial Data on the Web Interest Group develops and maintains vocabularies and best practices that encourage better sharing of spatial data on the Web; and identify areas where standards should be developed jointly by both W3C and OGC.",
-    "shortname": "sdw",
-    "closed_date": "2021-10-20",
-    "discr": "w3cgroup",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/groups/ig/sdw"
-     },
-     "homepage": {
-      "href": "https://www.w3.org/2017/sdwig/"
-     },
-     "users": {
-      "href": "https://api.w3.org/groups/ig/sdw/users"
-     },
-     "services": {
-      "href": "https://api.w3.org/groups/ig/sdw/services"
-     },
-     "specifications": {
-      "href": "https://api.w3.org/groups/ig/sdw/specifications"
-     },
-     "chairs": {
-      "href": "https://api.w3.org/groups/ig/sdw/chairs"
-     },
-     "team-contacts": {
-      "href": "https://api.w3.org/groups/ig/sdw/teamcontacts"
-     },
-     "charters": {
-      "href": "https://api.w3.org/groups/ig/sdw/charters"
-     },
-     "active-charter": {
-      "href": "https://api.w3.org/groups/ig/sdw/charters/348"
-     },
-     "join": {
-      "href": "https://www.w3.org/groups/ig/sdw/join"
-     },
-     "pp-status": {
-      "href": "https://www.w3.org/groups/ig/sdw/ipr"
-     },
-     "participations": {
-      "href": "https://api.w3.org/groups/ig/sdw/participations"
-     }
-    },
-    "type": "interest group",
-    "start-date": "2017-10-05",
-    "end-date": "2021-06-30",
-    "tr-publisher": true,
-    "group-type": "ig",
-    "identifier": "ig/sdw"
-   }
-  ],
-  "internal": false,
-  "participants_list_public": false,
-  "discr": "tf",
-  "_links": {
-   "self": {
-    "href": "https://api.w3.org/groups/tf/transportation-ont-cc"
-   },
-   "users": {
-    "href": "https://api.w3.org/groups/tf/transportation-ont-cc/users"
-   },
-   "services": {
-    "href": "https://api.w3.org/groups/tf/transportation-ont-cc/services"
-   },
-   "chairs": {
-    "href": "https://api.w3.org/groups/tf/transportation-ont-cc/chairs"
-   }
-  },
-  "tr-publisher": false,
-  "identifier": "tf/transportation-ont-cc",
-  "group-type": "tf",
-  "services": [
-   {
-    "href": "https://api.w3.org/services/27629",
-    "title": "public-transportation-data (Mailing List)"
    }
   ]
  },
@@ -15151,7 +14965,7 @@
     "href": "https://api.w3.org/groups/tf/personalization-tf"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/APA/task-forces/adapt/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/adapt/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/personalization-tf/users"
@@ -15197,7 +15011,7 @@
     "href": "https://api.w3.org/groups/ig/wai"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/IG/"
+    "href": "https://www.w3.org/WAI/about/groups/waiig/"
    },
    "users": {
     "href": "https://api.w3.org/groups/ig/wai/users"
@@ -15306,7 +15120,7 @@
     "href": "https://api.w3.org/groups/tf/wcag2x-backlog"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/GL/task-forces/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/wcag2x-backlog/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/wcag2x-backlog/users"
@@ -15400,7 +15214,7 @@
     "href": "https://api.w3.org/groups/tf/wcag2ict"
    },
    "homepage": {
-    "href": "https://www.w3.org/WAI/about/groups/task-forces/wcag2ict/work-statement/"
+    "href": "https://www.w3.org/WAI/about/groups/task-forces/wcag2ict/"
    },
    "users": {
     "href": "https://api.w3.org/groups/tf/wcag2ict/users"
@@ -16846,7 +16660,7 @@
     "href": "https://api.w3.org/groups/ig/wot"
    },
    "homepage": {
-    "href": "https://www.w3.org/WoT/IG/"
+    "href": "https://www.w3.org/WoT/ig/"
    },
    "users": {
     "href": "https://api.w3.org/groups/ig/wot/users"
