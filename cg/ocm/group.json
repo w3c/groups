@@ -36,19 +36,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43877",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/cs3org/ocm-api",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43877"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43877/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43837",
-   "title": "internal-ocm (Mailing List)"
+   "title": "internal-ocm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ocm/",
+    "shortdesc": "internal-ocm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43837"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43837/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45923",
-   "title": "Matrix (Discussion Forum)"
+   "title": "Matrix (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://app.gitter.im/#/room/%23cs3org_OCM%3Agitter.im",
+    "shortdesc": "Matrix",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45923"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45923/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43836",
-   "title": "public-ocm (Mailing List)"
+   "title": "public-ocm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ocm/",
+    "shortdesc": "public-ocm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43836"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43836/groups"
+     }
+    }
+   }
   }
  ]
 }
