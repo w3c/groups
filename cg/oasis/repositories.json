@@ -1,1 +1,15 @@
-[]
+[
+ {
+  "name": "OASIS",
+  "owner": {
+   "login": "dfsantamaria"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/oasis"
+   ]
+  }
+ }
+]
