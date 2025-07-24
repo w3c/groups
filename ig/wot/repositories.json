@@ -1,5 +1,26 @@
 [
  {
+  "name": "wot-usecases",
+  "owner": {
+   "login": "w3c-lbd-cg"
+  },
+  "description": "Repository of the WoT IG to discuss possible WoT use cases",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/wot"
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "wot",
   "owner": {
    "login": "w3c"
