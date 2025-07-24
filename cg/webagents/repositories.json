@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "name": "webagents",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://www.w3.org/community/webagents/",
+  "description": "Autonomous Agents on the Web (WebAgents) Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webagents"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
