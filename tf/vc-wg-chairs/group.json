@@ -80,7 +80,21 @@
  "services": [
   {
    "href": "https://api.w3.org/services/34737",
-   "title": "group-vc-wg-chairs (Mailing List)"
+   "title": "group-vc-wg-chairs (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-vc-wg-chairs/",
+    "shortdesc": "group-vc-wg-chairs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34737"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34737/groups"
+     }
+    }
+   }
   }
  ]
 }
