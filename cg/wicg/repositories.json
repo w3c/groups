@@ -78,6 +78,20 @@
   }
  },
  {
+  "name": "ScrollAnchoring",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Spec and explainer for the Scroll Anchoring web platform feature.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "WebApiDevice",
   "owner": {
    "login": "WICG"
@@ -253,6 +267,20 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "aspect-ratio",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "This is a repo to explore, and hopefully define a way to maintain aspect ratio",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ]
   }
  },
@@ -939,6 +967,20 @@
   }
  },
  {
+  "name": "device-memory",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Redirection repo to the real spec",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "devtools-protocol",
   "owner": {
    "login": "WICG"
@@ -1015,6 +1057,19 @@
     "aliams"
    ],
    "shortName": "directory-upload"
+  }
+ },
+ {
+  "name": "discourse-archive",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
   }
  },
  {
@@ -1383,6 +1438,34 @@
   }
  },
  {
+  "name": "geolocation-sensor",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Moved to https://github.com/w3c/geolocation-sensor",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
+  "name": "gesture-delegation",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Gesture Delegation API proposal",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "get-installed-related-apps",
   "owner": {
    "login": "WICG"
@@ -1498,6 +1581,19 @@
     "msporny"
    ],
    "shortName": "web-payments-browser-api"
+  }
+ },
+ {
+  "name": "hsts-priming",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
   }
  },
  {
@@ -1880,6 +1976,20 @@
   }
  },
  {
+  "name": "kv-storage",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "[On hold] A proposal for an async key/value storage API for the web",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "lang-client-hint",
   "owner": {
    "login": "WICG"
@@ -2020,6 +2130,21 @@
    "shortName": "logical-sizing-properties",
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "longtasks",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://github.com/w3c/longtasks",
+  "description": "This repo has moved to the W3C org!",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ]
   }
  },
@@ -2247,6 +2372,21 @@
   }
  },
  {
+  "name": "network-error-logging",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://w3c.github.io/network-error-logging/",
+  "description": "This repo has moved to the W3C org!",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "observable",
   "owner": {
    "login": "WICG"
@@ -2310,6 +2450,20 @@
   }
  },
  {
+  "name": "overscroll-behavior",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "CSS property to control scroll chaining",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "overscroll-scrollend-events",
   "owner": {
    "login": "WICG"
@@ -2348,6 +2502,20 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "paint-timing",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Redirection repo to the real spec",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ]
   }
  },
@@ -2392,6 +2560,20 @@
   }
  },
  {
+  "name": "performance-entry",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "A proposal for a Custom Performance Entry specification.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "performance-measure-memory",
   "owner": {
    "login": "WICG"
@@ -2408,6 +2590,19 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "performance-memory",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ]
   }
  },
@@ -2676,6 +2871,35 @@
   }
  },
  {
+  "name": "reducing-memory-copies",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Reducing memory copies in web-platform APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
+  "name": "reporting",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://github.com/w3c/reporting",
+  "description": "This repo has moved to the W3C org!",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "request-post-animation-frame",
   "owner": {
    "login": "WICG"
@@ -2878,6 +3102,19 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "server-timing",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ]
   }
  },
@@ -3128,6 +3365,33 @@
   }
  },
  {
+  "name": "time-to-interactive",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Repository for hosting TTI specification and discussions around it.",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
+  "name": "transfer-size",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "trust-token-api",
   "owner": {
    "login": "WICG"
@@ -3191,6 +3455,21 @@
   }
  },
  {
+  "name": "user-gesture-nav",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "http://wicg.github.io/user-gesture-nav",
+  "description": "API to control user gesture navigations (swipe to navigate, pull-to-refresh)",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ]
+  }
+ },
+ {
   "name": "user-preference-media-features-headers",
   "owner": {
    "login": "WICG"
@@ -3207,6 +3486,20 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "uuid",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "UUID V4",
+  "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ]
   }
  },
