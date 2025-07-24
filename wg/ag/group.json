@@ -52,23 +52,94 @@
  "services": [
   {
    "href": "https://api.w3.org/services/34936",
-   "title": "public-ag-admin (Mailing List)"
+   "title": "public-ag-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ag-admin/",
+    "shortdesc": "public-ag-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34936"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34936/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/272",
-   "title": "w3c-wai-gl (Mailing List)"
+   "title": "w3c-wai-gl (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/w3c-wai-gl/",
+    "shortdesc": "w3c-wai-gl",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/272"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/272/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45565",
-   "title": "WCAG 2 Issues (Issue Tracking)"
+   "title": "WCAG 2 Issues (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/wcag2/issues",
+    "shortdesc": "WCAG 2 Issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45565"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45565/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25891",
-   "title": "WCAG 3 Issues (Issue Tracking)"
+   "title": "WCAG 3 Issues (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/wcag3/issues",
+    "shortdesc": "WCAG 3 Issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25891"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25891/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/171",
-   "title": "Group wiki (Wiki)"
+   "title": "Group wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/GL/wiki",
+    "shortdesc": "Group wiki",
+    "longdesc": "Accessibility Guidelines Working Group wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/171"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/171/groups"
+     }
+    }
+   }
   }
  ]
 }
