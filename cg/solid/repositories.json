@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "name": "specification",
+  "owner": {
+   "login": "solid"
+  },
+  "homepageUrl": "https://solidproject.org/TR/",
+  "description": "Solid Technical Reports",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/solid"
+   ]
+  }
+ },
+ {
+  "name": "solid",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://www.w3.org/groups/cg/solid/",
+  "description": "W3C Solid Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/solid"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ }
+]
