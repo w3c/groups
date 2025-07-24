@@ -43,11 +43,40 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45554",
-   "title": "Public list for W3C announcements to the WAI Interest Group (Mailing List)"
+   "title": "Public list for W3C announcements to the WAI Interest Group (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wai-announce/",
+    "shortdesc": "Public list for W3C announcements to the WAI Interest Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45554"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45554/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/13780",
-   "title": "w3c-wai-ig (Mailing List)"
+   "title": "w3c-wai-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/w3c-wai-ig/",
+    "shortdesc": "w3c-wai-ig",
+    "longdesc": "Public mailing list for discussions through the WAI Interest Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13780"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13780/groups"
+     }
+    }
+   }
   }
  ]
 }
