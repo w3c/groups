@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "name": "expath-cg",
+  "owner": {
+   "login": "expath"
+  },
+  "description": "Repository for the W3C EXPath Community Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/expath"
+   ]
+  }
+ }
+]
