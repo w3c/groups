@@ -52,11 +52,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43972",
-   "title": "Dashboard (Other)"
+   "title": "Dashboard (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security",
+    "shortdesc": "Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43972"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43972/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/16589",
-   "title": "public-security (Mailing List)"
+   "title": "public-security (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-security/",
+    "shortdesc": "public-security",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/16589"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/16589/groups"
+     }
+    }
+   }
   }
  ]
 }
