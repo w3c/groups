@@ -1,5 +1,19 @@
 [
  {
+  "name": ".github",
+  "owner": {
+   "login": "privacycg"
+  },
+  "description": "Default community health files of the Privacy Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
+   ]
+  }
+ },
+ {
   "name": "CHIPS",
   "owner": {
    "login": "privacycg"
@@ -313,6 +327,21 @@
    ],
    "repo-type": [
     "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "storage-access-headers",
+  "owner": {
+   "login": "privacycg"
+  },
+  "homepageUrl": "https://privacycg.github.io/storage-access-headers/",
+  "description": "Proposal for HTTP headers related to the Storage Access API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/privacycg"
    ]
   }
  },
