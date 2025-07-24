@@ -52,7 +52,21 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1851",
-   "title": "member-psig (Mailing List)"
+   "title": "member-psig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-psig/",
+    "shortdesc": "member-psig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1851"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1851/groups"
+     }
+    }
+   }
   }
  ]
 }
