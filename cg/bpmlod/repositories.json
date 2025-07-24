@@ -1,1 +1,216 @@
-[]
+[
+ {
+  "name": "Bilingual_Dictionaries_Report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "description": "Working repository for the Bilingual Dictionary Working report",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Corpora_annotation_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Crosslingual_linking_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "description": "Working repository for the cross lingual recommendation report",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "LLOD_aware_services_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "LLOD_for_Under-resourced_languages_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Lexicographic_LLOD_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Licensing_and_metadata_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Multimodal_data_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "NIF_Based_NLP_Services_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Neuro-symbolic_LLOD_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Sign_language_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Terminology_Generation_Report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "description": "Working repository for the terminology generation recommendation document",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "Wordnets_report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "bpmlod-draft",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "description": "Best Practices for Multilingual Linked (Open) Data - Draft Document",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "draft",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "description": "Best Practices for Multilingual Linked Open Data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ },
+ {
+  "name": "report",
+  "owner": {
+   "login": "bpmlod"
+  },
+  "description": "Best Practices for Multilingual Linked (Open) Data - Report",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bpmlod"
+   ]
+  }
+ }
+]
