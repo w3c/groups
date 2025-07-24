@@ -52,11 +52,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15608",
-   "title": "member-networks-ig (Mailing List)"
+   "title": "member-networks-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-networks-ig/",
+    "shortdesc": "member-networks-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15608"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15608/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15607",
-   "title": "public-networks-ig (Mailing List)"
+   "title": "public-networks-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-networks-ig/",
+    "shortdesc": "public-networks-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15607"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15607/groups"
+     }
+    }
+   }
   }
  ]
 }
