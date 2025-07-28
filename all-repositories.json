@@ -2154,27 +2154,6 @@
   }
  },
  {
-  "name": "cookie-store",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/cookie-store/",
-  "description": "Asynchronous access to cookies from JavaScript",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "coop-restrict-properties",
   "owner": {
    "login": "WICG"
@@ -18392,7 +18371,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    83726
+    83726,
+    85121
    ],
    "contacts": [
     "daniel-montalvo"
