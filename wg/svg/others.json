@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "name": "aria",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/aria/",
+  "description": "Accessible Rich Internet Applications (WAI-ARIA)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria",
+    "tf/svg-a11y"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ }
+]
