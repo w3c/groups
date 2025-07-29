@@ -16668,6 +16668,25 @@
       }
      }
     }
+   },
+   {
+    "href": "https://api.w3.org/services/45925",
+    "title": "GitHub (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/Nordic-Accessibility-Community-Group",
+     "shortdesc": "GitHub",
+     "longdesc": "GitHub",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45925"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45925/groups"
+      }
+     }
+    }
    }
   ]
  },
