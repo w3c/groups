@@ -1719,7 +1719,7 @@
     "href": "https://api.w3.org/groups/wg/apa/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/apa/charters/484"
+    "href": "https://api.w3.org/groups/wg/apa/charters/540"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/apa/join"
@@ -1733,7 +1733,7 @@
   },
   "type": "working group",
   "start-date": "2015-10-22",
-  "end-date": "2025-07-31",
+  "end-date": "2027-07-31",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/apa",
@@ -7217,7 +7217,7 @@
       "href": "https://api.w3.org/groups/wg/apa/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+      "href": "https://api.w3.org/groups/wg/apa/charters/540"
      },
      "join": {
       "href": "https://www.w3.org/groups/wg/apa/join"
@@ -7231,7 +7231,7 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
+    "end-date": "2027-07-31",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/apa"
@@ -10676,7 +10676,7 @@
       "href": "https://api.w3.org/groups/wg/apa/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+      "href": "https://api.w3.org/groups/wg/apa/charters/540"
      },
      "join": {
       "href": "https://www.w3.org/groups/wg/apa/join"
@@ -10690,7 +10690,7 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
+    "end-date": "2027-07-31",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/apa"
@@ -15129,7 +15129,7 @@
       "href": "https://api.w3.org/groups/wg/apa/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+      "href": "https://api.w3.org/groups/wg/apa/charters/540"
      },
      "join": {
       "href": "https://www.w3.org/groups/wg/apa/join"
@@ -15143,7 +15143,7 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
+    "end-date": "2027-07-31",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/apa"
@@ -22099,7 +22099,7 @@
       "href": "https://api.w3.org/groups/wg/apa/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+      "href": "https://api.w3.org/groups/wg/apa/charters/540"
      },
      "join": {
       "href": "https://www.w3.org/groups/wg/apa/join"
@@ -22113,7 +22113,7 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
+    "end-date": "2027-07-31",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/apa"
@@ -25337,7 +25337,7 @@
       "href": "https://api.w3.org/groups/wg/apa/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+      "href": "https://api.w3.org/groups/wg/apa/charters/540"
      },
      "join": {
       "href": "https://www.w3.org/groups/wg/apa/join"
@@ -25351,7 +25351,7 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
+    "end-date": "2027-07-31",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/apa"
@@ -27652,7 +27652,7 @@
       "href": "https://api.w3.org/groups/wg/apa/charters"
      },
      "active-charter": {
-      "href": "https://api.w3.org/groups/wg/apa/charters/484"
+      "href": "https://api.w3.org/groups/wg/apa/charters/540"
      },
      "join": {
       "href": "https://www.w3.org/groups/wg/apa/join"
@@ -27666,7 +27666,7 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2025-07-31",
+    "end-date": "2027-07-31",
     "tr-publisher": true,
     "group-type": "wg",
     "identifier": "wg/apa"
@@ -27775,7 +27775,7 @@
   "id": 72669,
   "name": "WAI Interest Group",
   "is_closed": false,
-  "description": "The mission of the WAI Interest Group (WAI IG) is to promote awareness of, and engagement in, accessibility-related work throughout W3C. This includes augmenting wide reviews of WAI deliverables, and augmenting APA WG's review and discussion of accessibility aspects of deliverables being developed in W3C groups, including specifications, research topics, and educational materials; exploring web accessibility issues and solutions; and sharing information about web accessibility activities around the world.",
+  "description": "The mission of the Web Accessibility Initiative Interest Group (WAI IG) is to promote awareness of W3C accessibility work and publications, encourage engagement in W3C accessibility work, and provide an open public forum for sharing information related to web accessibility.",
   "shortname": "wai",
   "discr": "w3cgroup",
   "_links": {
@@ -27804,12 +27804,12 @@
     "href": "https://api.w3.org/groups/ig/wai/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/ig/wai/charters/428"
+    "href": "https://api.w3.org/groups/ig/wai/charters/541"
    }
   },
   "type": "interest group",
   "start-date": "2001-06-18",
-  "end-date": "2024-12-31",
+  "end-date": "2027-07-31",
   "tr-publisher": true,
   "group-type": "ig",
   "identifier": "ig/wai",
