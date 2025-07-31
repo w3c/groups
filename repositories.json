@@ -14683,6 +14683,21 @@
   }
  },
  {
+  "name": "cel-spec",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/cel-spec/",
+  "description": "A specification for cryptographic event logs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "cg-archiver",
   "owner": {
    "login": "w3c-ccg"
@@ -15895,6 +15910,21 @@
   "homepageUrl": "https://w3c-ccg.github.io/vc-http-api/",
   "description": "A specification for an HTTP API used to verify Verifiable Credentials.",
   "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
+  "name": "vc-wireless",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vc-wireless/",
+  "description": "Wireless transmission of verifiable credentials over NFC and Bluetooth",
+  "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
