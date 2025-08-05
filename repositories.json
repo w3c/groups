@@ -26115,6 +26115,26 @@
   }
  },
  {
+  "name": "shacl-ressources",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/data-shapes"
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tools"
+   ]
+  }
+ },
+ {
   "name": "silver",
   "owner": {
    "login": "w3c"
