@@ -27294,7 +27294,7 @@
   "is_closed": false,
   "description": "Examine the way W3C works. Propose improvements to the formal processes. These will be given to the Advisory Board, which currently manages that process.",
   "shortname": "w3process",
-  "spec-publisher": true,
+  "spec-publisher": false,
   "discr": "w3cgroup",
   "_links": {
    "self": {
