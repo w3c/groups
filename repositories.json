@@ -32935,6 +32935,20 @@
   }
  },
  {
+  "name": "webmodelcontext",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "Web Model Context API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ]
+  }
+ },
+ {
   "name": "webnn",
   "owner": {
    "login": "webmachinelearning"
