@@ -29361,6 +29361,26 @@
   }
  },
  {
+  "name": "shacl-ressources",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    73865
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "tools"
+   ]
+  }
+ },
+ {
   "name": "share-psi",
   "owner": {
    "login": "w3c"
