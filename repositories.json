@@ -17911,6 +17911,28 @@
   }
  },
  {
+  "name": "attribution",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ppa/",
+  "description": "Privacy-Preserving Attribution",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/pat"
+   ],
+   "contacts": [
+    "seanturner",
+    "aramzs"
+   ],
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "audio-session",
   "owner": {
    "login": "w3c"
@@ -24623,28 +24645,6 @@
     "siusin"
    ],
    "shortName": "pointerlock-2",
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
-  "name": "ppa",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/ppa/",
-  "description": "Privacy-Preserving Attribution",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/pat"
-   ],
-   "contacts": [
-    "seanturner",
-    "aramzs"
-   ],
    "repo-type": [
     "rec-track"
    ]
