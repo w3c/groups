@@ -5182,6 +5182,27 @@
   }
  },
  {
+  "name": "webcrypto-modern-algos",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/webcrypto-modern-algos/",
+  "description": "Proposal for the addition of various modern algorithms to the Web Cryptography API, as well as feature detection for algorithm support",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webcrypto-secure-curves",
   "owner": {
    "login": "WICG"
