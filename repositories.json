@@ -10215,53 +10215,12 @@
   }
  },
  {
-  "name": "best-practices",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ]
-  }
- },
- {
-  "name": "challenge-results",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "description": "Results of the KGC Challenge",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ]
-  }
- },
- {
   "name": "challenge-tool",
   "owner": {
    "login": "kg-construct"
   },
   "homepageUrl": "https://kg-construct.github.io/challenge-tool/",
   "description": "KGCW 2023-2024: Challenge Tool",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ]
-  }
- },
- {
-  "name": "conceptual-test-cases",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "description": "Definition and discussion of conceptual test cases for mapping rules",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -10346,34 +10305,6 @@
    "login": "kg-construct"
   },
   "description": "Issues for discussion about limitations of current mapping languages",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ]
-  }
- },
- {
-  "name": "mapping-rules-corpus",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "description": "Shared mapping rules in different specs and languages",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ]
-  }
- },
- {
-  "name": "r2rml-atomic-test-cases",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "description": "Atomic test-cases for testing the conformance of an R2RML engine",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -17915,7 +17846,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/ppa/",
+  "homepageUrl": "https://w3c.github.io/attribution/",
   "description": "Privacy-Preserving Attribution",
   "isArchived": false,
   "isPrivate": false,
