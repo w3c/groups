@@ -29837,7 +29837,7 @@
   "owner": {
    "login": "w3c"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -29846,7 +29846,6 @@
    "contacts": [
     "plehegar"
    ],
-   "policy": "open",
    "repo-type": [
     "project"
    ]
