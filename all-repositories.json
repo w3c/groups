@@ -15551,6 +15551,34 @@
   }
  },
  {
+  "name": "mocha-test-suite-template",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "Test suite template for creating Mocha/Chai based interop test suites.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
+  "name": "mocha-w3c-interop-reporter",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "Mocha W3C Interoperability Test Suite reporter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "multibase",
   "owner": {
    "login": "w3c-ccg"
