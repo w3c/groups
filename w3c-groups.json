@@ -27458,7 +27458,7 @@
     "details": {
      "closed": false,
      "type": "chat",
-     "link": "irc://irc.w3.org/#w3process",
+     "link": "https://webirc.w3.org/#/connect?channels=w3process",
      "shortdesc": "IRC",
      "_links": {
       "self": {
@@ -27502,6 +27502,42 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/759/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45932",
+    "title": "Slack (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "https://w3ccommunity.slack.com/#process",
+     "shortdesc": "Slack",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45932"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45932/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45933",
+    "title": "Slack invite (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "https://www.w3.org/slack-w3ccommunity-invite#process",
+     "shortdesc": "Slack invite",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45933"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45933/groups"
       }
      }
     }
