@@ -9197,6 +9197,116 @@
   ]
  },
  {
+  "id": 170068,
+  "name": "Dynamic Configuration Management Community Group",
+  "is_closed": false,
+  "description": "<p>The mission of this Community Group is to explore and define technologies, best practices, and tools for managing dynamic configuration data in the domains where dynamic updates and validation are primary concerns.</p>",
+  "shortname": "dcm",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/dcm"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/dcm/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/dcm/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/dcm/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/dcm/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/dcm/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/dcm/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/dcm",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45937",
+    "title": "internal-dcm (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-dcm/",
+     "shortdesc": "internal-dcm",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45937"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45937/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45935",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#dcm",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45935"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45935/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45936",
+    "title": "public-dcm (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-dcm/",
+     "shortdesc": "public-dcm",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45936"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45936/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45934",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/dcm/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45934"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45934/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 165773,
   "name": "EPUB Annotation Task Force",
   "is_closed": false,
