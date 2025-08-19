@@ -2006,7 +2006,7 @@
   },
   "homepageUrl": "https://html.spec.whatwg.org/multipage/interaction.html#close-requests-and-close-watchers",
   "description": "A web API proposal for watching for close requests (e.g. Esc, Android back button, ...)",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -35190,7 +35190,7 @@
     "dontcallmedom"
    ],
    "repo-type": [
-    "homepage"
+    "others"
    ]
   }
  },
