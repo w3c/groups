@@ -5,8 +5,8 @@
   "is_closed": false,
   "description": "The people named by the Advisory Board to be liaisons to the W3C Board of Directors.",
   "shortname": "ab-liaisons-to-bod",
-  "members": {
-   "7756": {
+  "members": [
+   {
     "id": 7756,
     "name": "Advisory Board",
     "is_closed": false,
@@ -32,9 +32,12 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/ab/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/ab"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -447,8 +450,8 @@
   "is_closed": false,
   "description": "The ARIA Authoring Practices task force to develop WAI-ARIA Authoring Practices, which describes considerations that might not be evident to most authors from the WAI-ARIA specification alone and recommends approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles, states, and properties.",
   "shortname": "aria-practices",
-  "members": {
-   "83726": {
+  "members": [
+   {
     "id": 83726,
     "name": "Accessible Rich Internet Applications Working Group",
     "is_closed": false,
@@ -495,9 +498,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-01-01"
+    "end-date": "2027-01-01",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -567,8 +573,8 @@
   "is_closed": false,
   "description": "Coordination for editors of ARIA specifications",
   "shortname": "aria-editors",
-  "members": {
-   "83726": {
+  "members": [
+   {
     "id": 83726,
     "name": "Accessible Rich Internet Applications Working Group",
     "is_closed": false,
@@ -615,9 +621,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-01-01"
+    "end-date": "2027-01-01",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -793,8 +802,8 @@
   "is_closed": false,
   "description": "The objective of the Accessibility Conformance Testing (ACT) Task Force is to evolve and maintain a repository of ACT Rules for WCAG 2, to promote a unified interpretation among different web accessibility test tools and methodologies. ACT Rules conform to the ACT Rules Format 1.0 to document different testing practices. The ACT TF reviews ACT Rules, and present them to AGWG when they meet stringent quality criteria. AGWG may publish such ACT Rules as non-normative W3C resources, as part of the supplemental guidance for WCAG 2.",
   "shortname": "wcag-act",
-  "members": {
-   "35422": {
+  "members": [
+   {
     "id": 35422,
     "name": "Accessibility Guidelines Working Group",
     "is_closed": false,
@@ -841,9 +850,12 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -2209,8 +2221,8 @@
   "is_closed": false,
   "description": "Elected members of the Advisory Board",
   "shortname": "ab-elected",
-  "members": {
-   "7756": {
+  "members": [
+   {
     "id": 7756,
     "name": "Advisory Board",
     "is_closed": false,
@@ -2236,9 +2248,12 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/ab/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/ab"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -2387,8 +2402,8 @@
   "is_closed": false,
   "description": "This task force explores gaps in African language support on the Web and in eBooks, and documents requirements.",
   "shortname": "i18n-afrlreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -2426,9 +2441,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -2644,8 +2662,8 @@
   "is_closed": false,
   "description": "This task force explores gaps in Arabic and Persian language support on the Web and in eBooks, and documents requirements.",
   "shortname": "i18n-alreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -2683,9 +2701,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -3376,8 +3397,8 @@
   "name": "Automotive Payments Task Force",
   "is_closed": false,
   "shortname": "automotive-pay",
-  "members": {
-   "61259": {
+  "members": [
+   {
     "id": 61259,
     "name": "Automotive and Transportation Business Group",
     "is_closed": true,
@@ -3412,9 +3433,12 @@
       "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/autowebplatform"
    },
-   "73816": {
+   {
     "id": 73816,
     "name": "Web Commerce Interest Group",
     "is_closed": true,
@@ -3462,9 +3486,12 @@
     },
     "type": "interest group",
     "start-date": "2014-10-15",
-    "end-date": "2019-09-14"
+    "end-date": "2019-09-14",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/webcommerce"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -3511,8 +3538,8 @@
   "name": "Automotive Privacy and Security Task Force",
   "is_closed": false,
   "shortname": "auto-privacy-security",
-  "members": {
-   "61259": {
+  "members": [
+   {
     "id": 61259,
     "name": "Automotive and Transportation Business Group",
     "is_closed": true,
@@ -3547,9 +3574,12 @@
       "href": "https://api.w3.org/groups/bg/autowebplatform/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/autowebplatform"
    },
-   "76043": {
+   {
     "id": 76043,
     "name": "Automotive Working Group",
     "is_closed": true,
@@ -3597,9 +3627,12 @@
     },
     "type": "working group",
     "start-date": "2015-02-03",
-    "end-date": "2023-11-30"
+    "end-date": "2023-11-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/auto"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4434,8 +4467,8 @@
   "is_closed": false,
   "description": "<p>The purpose of the Committee shall be to serve as an independent and objective party to enable, oversee, and monitor the Audit of the Organization’s finances, and report to the Board.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2023/09/bod-audit.html\">Audit Committee charter</a>.</p.",
   "shortname": "board-audit",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4458,9 +4491,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    },
-   "149106": {
+   {
     "id": 149106,
     "name": "Board Audit Committee Guest participants",
     "is_closed": false,
@@ -4477,9 +4513,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board-audit-guests/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board-audit-guests"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4527,8 +4566,8 @@
   "is_closed": false,
   "description": "<p>The Board Development Committee enables the Board of Directors to properly discharge its duties, by assuring that its composition is appropriate, that Directors are properly informed, trained, and engaged, and that there is a sufficient, diverse, skilled set of candidates for the Consortium Member Director positions.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2024/01/bod-development.html\">Development Committee charter</a>.</p>",
   "shortname": "board-development",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4551,9 +4590,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    },
-   "152307": {
+   {
     "id": 152307,
     "name": "Board Development Committee Guest participants",
     "is_closed": false,
@@ -4570,9 +4612,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board-development-guests/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board-development-guests"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4638,8 +4683,8 @@
   "is_closed": false,
   "description": "W3C Board Directors. This group only includes the Directors (i.e. without the Officers or support staff).",
   "shortname": "board-directors",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4662,9 +4707,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4712,8 +4760,8 @@
   "is_closed": false,
   "description": "<p>The primary purpose of the Committee is to act on behalf of the Board with respect to the affairs of W3C Inc. when time is of the essence, and it is impossible or impractical to convene a meeting of the full Board or conduct an e-vote.</p>\r\n<p>Learn more in its <a href=\"https://www.w3.org/2024/06/bod-emergency.html\">Emergency Committee charter</a>.</p>",
   "shortname": "board-emergency",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4736,9 +4784,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4767,8 +4818,8 @@
   "is_closed": false,
   "description": "<p>The W3C Board Finance Committee assists the Board in fulfilling its oversight responsibilities to hold the Consortium to account regarding:</p>\r\n<ul>\r\n    <li>On-going financial viability;\r\n    <li>Financial budgets and the availability of all analysis relevant to Consortium finances;\r\n    <li>Internal controls and financial/accounting processes;\r\n    <li>Accuracy and timeliness of financial statements.\r\n</ul>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2022/10/bod-finance.html\">Finance Committee charter</a>.</p>",
   "shortname": "board-finance",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4791,9 +4842,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4841,8 +4895,8 @@
   "is_closed": false,
   "description": "<p>The Governance Committee ensures that the governance structures and processes for the Consortium (including the Board) are appropriate and documented. It oversees the governance of the W3C as a global collaboration between Members, Partners, and other contributors.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2022/10/bod-governance.html\">Governance Committee charter</a>.</p>",
   "shortname": "board-governance",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4865,9 +4919,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4915,8 +4972,8 @@
   "is_closed": false,
   "description": "W3C Board Officers. This group only includes the Officers, including the President, Treasurer, and Secretary of the Board.",
   "shortname": "board-officers",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -4939,9 +4996,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -4989,8 +5049,8 @@
   "is_closed": false,
   "description": "<p>The W3C Board Personnel Committee provides guidance, oversight, and support to W3C management as it develops and implements personnel employment, performance management, and compensation systems.</p>\r\n<p>Learn more in the <a href=\"https://www.w3.org/2022/10/bod-personnel.html\">Personnel Committee charter</a>.</p>",
   "shortname": "board-personnel",
-  "members": {
-   "140563": {
+  "members": [
+   {
     "id": 140563,
     "name": "Board of Directors",
     "is_closed": false,
@@ -5013,9 +5073,12 @@
      "chairs": {
       "href": "https://api.w3.org/groups/other/board/chairs"
      }
-    }
+    },
+    "tr-publisher": false,
+    "group-type": "other",
+    "identifier": "other/board"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -6241,8 +6304,8 @@
   "is_closed": false,
   "description": "This group allows a network of experts to share information about gaps and requirements for support of Simplified and Traditional Chinese on the Web and in eBooks.\r\n\r\n本小组探讨在网页和电子书中使用简体、繁体中文时的各语言、文种支持的需求以及目前差距。",
   "shortname": "i18n-clreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -6280,9 +6343,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -7065,8 +7131,8 @@
   "is_closed": false,
   "description": "The Cognitive and Learning Disabilities Accessibility Task Force will develop draft proposed guidance and techniques to make web content, content authoring, and user agent implementation accessible and more useable by people with cognitive and learning disabilities.",
   "shortname": "cognitive-a11y-tf",
-  "members": {
-   "35422": {
+  "members": [
+   {
     "id": 35422,
     "name": "Accessibility Guidelines Working Group",
     "is_closed": false,
@@ -7113,9 +7179,12 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    },
-   "83907": {
+   {
     "id": 83907,
     "name": "Accessible Platform Architectures Working Group",
     "is_closed": false,
@@ -7162,9 +7231,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-07-31"
+    "end-date": "2027-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -7746,8 +7818,8 @@
   "is_closed": false,
   "description": "DCAT sub-meetings",
   "shortname": "dx-dcat",
-  "members": {
-   "99375": {
+  "members": [
+   {
     "id": 99375,
     "name": "Dataset Exchange Working Group",
     "is_closed": false,
@@ -7794,9 +7866,12 @@
     },
     "type": "working group",
     "start-date": "2017-05-05",
-    "end-date": "2025-06-30"
+    "end-date": "2025-06-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/dx"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -9127,8 +9202,8 @@
   "is_closed": false,
   "description": "Working on a standard annotation facility for EPUB Publications",
   "shortname": "pm-ann",
-  "members": {
-   "144835": {
+  "members": [
+   {
     "id": 144835,
     "name": "Publishing Maintenance Working Group",
     "is_closed": false,
@@ -9175,9 +9250,12 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2027-02-05"
+    "end-date": "2027-02-05",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -9755,8 +9833,8 @@
   "is_closed": false,
   "description": "This task force explores gaps in Ethiopic script support on the Web and in eBooks, and documents requirements.",
   "shortname": "i18n-elreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -9794,9 +9872,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -9865,8 +9946,8 @@
   "is_closed": false,
   "description": "This task force explores gaps in European language support on the Web and in eBooks, and documents requirements.",
   "shortname": "i18n-eurlreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -9904,9 +9985,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -10558,8 +10642,8 @@
   "is_closed": false,
   "description": "FAST TF is to develop the FAST to collect user and functional needs, develop guidance to meet those needs in technologies and work with other groups to develop this guidance for content developers.",
   "shortname": "fast",
-  "members": {
-   "83907": {
+  "members": [
+   {
     "id": 83907,
     "name": "Accessible Platform Architectures Working Group",
     "is_closed": false,
@@ -10606,9 +10690,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-07-31"
+    "end-date": "2027-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -11301,8 +11388,8 @@
   "is_closed": false,
   "description": "This group exists to explore gaps and requirements for support of languages using the Hebrew script on the Web and in eBooks.",
   "shortname": "i18n-hlreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -11340,9 +11427,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -12533,8 +12623,8 @@
   "is_closed": false,
   "description": "This task force explores gaps in Indian language support on the Web and in eBooks, and documents requirements.",
   "shortname": "iip",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -12572,9 +12662,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -13657,8 +13750,8 @@
   "is_closed": false,
   "description": "This group allows a network of experts to share information about gaps and requirements for support of Japanese on the Web and in eBooks.\r\n\r\nJLReq タスクフォースは、Web や eBook で日本語をサポートするための要件と現実のギャップ (gap) や要件 (requirements) 自体について、エキスパートの人たちが知識を交換・共有するために作りました。",
   "shortname": "i18n-jlreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -13696,9 +13789,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -14277,8 +14373,8 @@
   "name": "Linked Web Storage chairs",
   "is_closed": false,
   "shortname": "lws-chairs",
-  "members": {
-   "159634": {
+  "members": [
+   {
     "id": 159634,
     "name": "Linked Web Storage Working Group",
     "is_closed": false,
@@ -14325,9 +14421,12 @@
     },
     "type": "working group",
     "start-date": "2024-09-09",
-    "end-date": "2026-09-08"
+    "end-date": "2026-09-08",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/lws"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -14466,8 +14565,8 @@
   "is_closed": false,
   "description": "The Low Vision Accessibility Task Force addresses barriers and solutions to digital accessibility issues specific to users with low vision. It provides input into WCAG 2 techniques and understanding documents, and into WCAG 3. It may also develop additional low vision guidance resources.",
   "shortname": "low-vision-a11y-tf",
-  "members": {
-   "35422": {
+  "members": [
+   {
     "id": 35422,
     "name": "Accessibility Guidelines Working Group",
     "is_closed": false,
@@ -14514,9 +14613,12 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -14993,8 +15095,8 @@
   "is_closed": false,
   "description": "The Maturity Model Task Force is to craft an Accessibility Maturity Model (AMM) narrative and assessment tool in support of W3C standards and other related guidance, such as Web Content Accessibility Guidelines (WCAG) and Accessibility Rich Internet Applications (ARIA), in consultation with the APA Working Group. Specifically, the MMTF Accessibility Maturity Model will assist organizations in building capacity to develop, and maintain, accessible products or services.",
   "shortname": "maturity",
-  "members": {
-   "83907": {
+  "members": [
+   {
     "id": 83907,
     "name": "Accessible Platform Architectures Working Group",
     "is_closed": false,
@@ -15041,9 +15143,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-07-31"
+    "end-date": "2027-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -15881,8 +15986,8 @@
   "is_closed": false,
   "description": "The Mobile Accessibility Task Force (MATF) produces resources for applying WCAG to Android and iOS apps. In addition, the task force ensures that mobile is considered in new accessibility guidelines.",
   "shortname": "mobile-a11y-tf",
-  "members": {
-   "35422": {
+  "members": [
+   {
     "id": 35422,
     "name": "Accessibility Guidelines Working Group",
     "is_closed": false,
@@ -15929,9 +16034,12 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -16054,8 +16162,8 @@
   "is_closed": false,
   "description": "This group explores gaps and requirements for support of languages using the traditional Mongolian script on the Web and in Digital Publications.",
   "shortname": "i18n-mlreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -16093,9 +16201,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -17889,8 +18000,8 @@
   "is_closed": false,
   "description": "Provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
   "shortname": "pdf-aam",
-  "members": {
-   "83726": {
+  "members": [
+   {
     "id": 83726,
     "name": "Accessible Rich Internet Applications Working Group",
     "is_closed": false,
@@ -17937,9 +18048,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-01-01"
+    "end-date": "2027-01-01",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -17989,8 +18103,8 @@
   "name": "PM Working Group Chairs",
   "is_closed": false,
   "shortname": "pmchairs",
-  "members": {
-   "144835": {
+  "members": [
+   {
     "id": 144835,
     "name": "Publishing Maintenance Working Group",
     "is_closed": false,
@@ -18037,9 +18151,12 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2027-02-05"
+    "end-date": "2027-02-05",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -18860,8 +18977,8 @@
   "is_closed": false,
   "description": "The purpose of the Privacy Model Task Force is to bring together a small group of people to draft a set of privacy principles for the web.",
   "shortname": "tag-privacy",
-  "members": {
-   "34270": {
+  "members": [
+   {
     "id": 34270,
     "name": "Technical Architecture Group",
     "is_closed": false,
@@ -18890,9 +19007,12 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/tag/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/tag"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -19291,8 +19411,8 @@
   "is_closed": false,
   "description": "Exploring and improving further accessibility issues related to EPUB 3 publications.",
   "shortname": "pm-a11y",
-  "members": {
-   "144835": {
+  "members": [
+   {
     "id": 144835,
     "name": "Publishing Maintenance Working Group",
     "is_closed": false,
@@ -19339,9 +19459,12 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2027-02-05"
+    "end-date": "2027-02-05",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -19685,8 +19808,8 @@
   "is_closed": false,
   "description": "Define and/or improve the publications of different forms of digital comics (Mangas, Bandes dessinées, Continuously scrolled comics a.k.a. Webtoons, etc.) in EPUB, including their accessibility features.",
   "shortname": "pm-dc",
-  "members": {
-   "144835": {
+  "members": [
+   {
     "id": 144835,
     "name": "Publishing Maintenance Working Group",
     "is_closed": false,
@@ -19733,9 +19856,12 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2027-02-05"
+    "end-date": "2027-02-05",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -19948,8 +20074,8 @@
   "is_closed": false,
   "description": "Task force set up for the Publishing Steering Committee",
   "shortname": "publ-sc",
-  "members": {
-   "97159": {
+  "members": [
+   {
     "id": 97159,
     "name": "Publishing Business Group",
     "is_closed": false,
@@ -19983,9 +20109,12 @@
       "href": "https://api.w3.org/groups/bg/publishingbg/participations"
      }
     },
-    "type": "business group"
+    "type": "business group",
+    "tr-publisher": false,
+    "group-type": "bg",
+    "identifier": "bg/publishingbg"
    },
-   "110591": {
+   {
     "id": 110591,
     "name": "Publishing Community Group",
     "is_closed": false,
@@ -20016,9 +20145,12 @@
       "href": "https://api.w3.org/groups/cg/publishingcg/participations"
      }
     },
-    "type": "community group"
+    "type": "community group",
+    "tr-publisher": false,
+    "group-type": "cg",
+    "identifier": "cg/publishingcg"
    },
-   "144835": {
+   {
     "id": 144835,
     "name": "Publishing Maintenance Working Group",
     "is_closed": false,
@@ -20065,9 +20197,12 @@
     },
     "type": "working group",
     "start-date": "2023-06-20",
-    "end-date": "2027-02-05"
+    "end-date": "2027-02-05",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/pm"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -20353,8 +20488,8 @@
   "name": "RDF Dataset Canonicalization and Hash Working Group Chairs",
   "is_closed": false,
   "shortname": "rch-wg-chairs",
-  "members": {
-   "138751": {
+  "members": [
+   {
     "id": 138751,
     "name": "RDF Dataset Canonicalization and Hash Working Group",
     "is_closed": false,
@@ -20401,9 +20536,12 @@
     },
     "type": "working group",
     "start-date": "2022-07-21",
-    "end-date": "2026-12-18"
+    "end-date": "2026-12-18",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rch"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": false,
   "discr": "tf",
@@ -21472,8 +21610,8 @@
   "is_closed": false,
   "description": "A task force to coordinate among editors of the deliberables of the RDF-star WG",
   "shortname": "rdf-star-editors",
-  "members": {
-   "139681": {
+  "members": [
+   {
     "id": 139681,
     "name": "RDF & SPARQL Working Group",
     "is_closed": false,
@@ -21520,9 +21658,12 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2027-04-30"
+    "end-date": "2027-04-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -21551,8 +21692,8 @@
   "is_closed": false,
   "description": "A task force to discuss the semantics of <a href=\"/groups/wg/rdf-star/\">RDF-star</a>.",
   "shortname": "rdf-star-semantics",
-  "members": {
-   "139681": {
+  "members": [
+   {
     "id": 139681,
     "name": "RDF & SPARQL Working Group",
     "is_closed": false,
@@ -21599,9 +21740,12 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2027-04-30"
+    "end-date": "2027-04-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -21630,8 +21774,8 @@
   "is_closed": false,
   "description": "A task force for collecting Use Cases for RDF-star / RDF 1.2",
   "shortname": "rdf-star-ucr",
-  "members": {
-   "139681": {
+  "members": [
+   {
     "id": 139681,
     "name": "RDF & SPARQL Working Group",
     "is_closed": false,
@@ -21678,9 +21822,12 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2027-04-30"
+    "end-date": "2027-04-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -21708,8 +21855,8 @@
   "name": "RDF-star WG chairs",
   "is_closed": false,
   "shortname": "rdf-star-chairs",
-  "members": {
-   "139681": {
+  "members": [
+   {
     "id": 139681,
     "name": "RDF & SPARQL Working Group",
     "is_closed": false,
@@ -21756,9 +21903,12 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2027-04-30"
+    "end-date": "2027-04-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": false,
   "discr": "tf",
@@ -21915,8 +22065,8 @@
   "is_closed": false,
   "description": "The Research Questions Task Force (RQTF) works to identify accessibility knowledge gaps and barriers in emerging and future web technologies, and to identify research findings, researchers, and research opportunities to inform and fill those gaps where possible.",
   "shortname": "rqtf",
-  "members": {
-   "83907": {
+  "members": [
+   {
     "id": 83907,
     "name": "Accessible Platform Architectures Working Group",
     "is_closed": false,
@@ -21963,9 +22113,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-07-31"
+    "end-date": "2027-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -22125,8 +22278,8 @@
   "name": "SPARQL Task Force",
   "is_closed": false,
   "shortname": "rdf-star-sparql",
-  "members": {
-   "139681": {
+  "members": [
+   {
     "id": 139681,
     "name": "RDF & SPARQL Working Group",
     "is_closed": false,
@@ -22173,9 +22326,12 @@
     },
     "type": "working group",
     "start-date": "2022-08-29",
-    "end-date": "2027-04-30"
+    "end-date": "2027-04-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/rdf-star"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -22367,8 +22523,8 @@
   "name": "SVG Accessibility Task Force",
   "is_closed": false,
   "shortname": "svg-a11y",
-  "members": {
-   "19480": {
+  "members": [
+   {
     "id": 19480,
     "name": "SVG Working Group",
     "is_closed": false,
@@ -22415,9 +22571,12 @@
     },
     "type": "working group",
     "start-date": "1998-07-24",
-    "end-date": "2026-06-30"
+    "end-date": "2026-06-30",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/svg"
    },
-   "83726": {
+   {
     "id": 83726,
     "name": "Accessible Rich Internet Applications Working Group",
     "is_closed": false,
@@ -22464,9 +22623,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-01-01"
+    "end-date": "2027-01-01",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/aria"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -24736,8 +24898,8 @@
   "is_closed": false,
   "description": "This task force explores gaps in Southeast Asian language support on the Web and in eBooks, and documents requirements.",
   "shortname": "i18n-sealreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -24775,9 +24937,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -25138,8 +25303,8 @@
   "is_closed": false,
   "description": "The Spoken Presentation Task Force will develop normative specifications and best practices guidance collaborating with other W3C groups as appropriate, to provide for proper pronunciation in HTML content when using text to speech (TTS) synthesis.",
   "shortname": "pronunciation-tf",
-  "members": {
-   "83907": {
+  "members": [
+   {
     "id": 83907,
     "name": "Accessible Platform Architectures Working Group",
     "is_closed": false,
@@ -25186,9 +25351,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-07-31"
+    "end-date": "2027-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -26496,8 +26664,8 @@
   "is_closed": false,
   "description": "This group is planned, but not yet active. It will exist to explore gaps and requirements for support of languages using the Tibetan script on the Web and in eBooks.",
   "shortname": "i18n-tlreq",
-  "members": {
-   "72665": {
+  "members": [
+   {
     "id": 72665,
     "name": "Internationalization Interest Group",
     "is_closed": false,
@@ -26535,9 +26703,12 @@
     },
     "type": "interest group",
     "start-date": "1998-02-12",
-    "end-date": "2027-10-16"
+    "end-date": "2027-10-16",
+    "tr-publisher": true,
+    "group-type": "ig",
+    "identifier": "ig/i18n"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -27117,8 +27288,8 @@
   "name": "Verifiable Credentials Working Group Chairs",
   "is_closed": false,
   "shortname": "vc-wg-chairs",
-  "members": {
-   "98922": {
+  "members": [
+   {
     "id": 98922,
     "name": "Verifiable Credentials Working Group",
     "is_closed": false,
@@ -27165,9 +27336,12 @@
     },
     "type": "working group",
     "start-date": "2017-04-14",
-    "end-date": "2026-10-11"
+    "end-date": "2026-10-11",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/vc"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": false,
   "discr": "tf",
@@ -27215,8 +27389,8 @@
   "is_closed": false,
   "description": "Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth over falsehood, people over profits, humanity over hate.",
   "shortname": "vision",
-  "members": {
-   "7756": {
+  "members": [
+   {
     "id": 7756,
     "name": "Advisory Board",
     "is_closed": false,
@@ -27242,9 +27416,12 @@
      "team-contacts": {
       "href": "https://api.w3.org/groups/other/ab/teamcontacts"
      }
-    }
+    },
+    "tr-publisher": true,
+    "group-type": "other",
+    "identifier": "other/ab"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -27587,8 +27764,8 @@
   "is_closed": false,
   "description": "The Personalization Task Force changed its name to WAI Adapt.",
   "shortname": "personalization-tf",
-  "members": {
-   "83907": {
+  "members": [
+   {
     "id": 83907,
     "name": "Accessible Platform Architectures Working Group",
     "is_closed": false,
@@ -27635,9 +27812,12 @@
     },
     "type": "working group",
     "start-date": "2015-10-22",
-    "end-date": "2027-07-31"
+    "end-date": "2027-07-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/apa"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -27825,8 +28005,8 @@
   "is_closed": false,
   "description": "The objective of the WCAG 2 Task Force is to maintain up-to-date versions of the normative and informative materials associated with versions 2.0, 2.1, and 2.2 of the Web Content Accessibility Guidelines, and to document considerations for WCAG 3.0 which cannot be readily addressed within the existing normative language of the 2.x specification.",
   "shortname": "wcag2x-backlog",
-  "members": {
-   "35422": {
+  "members": [
+   {
     "id": 35422,
     "name": "Accessibility Guidelines Working Group",
     "is_closed": false,
@@ -27873,9 +28053,12 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -27944,8 +28127,8 @@
   "is_closed": false,
   "description": "Develops documentation describing how WCAG 2.x and its principles, guidelines, and success criteria could apply to non-Web Information and Communications Technologies (ICT).",
   "shortname": "wcag2ict",
-  "members": {
-   "35422": {
+  "members": [
+   {
     "id": 35422,
     "name": "Accessibility Guidelines Working Group",
     "is_closed": false,
@@ -27992,9 +28175,12 @@
     },
     "type": "working group",
     "start-date": "1997-10-06",
-    "end-date": "2025-10-31"
+    "end-date": "2025-10-31",
+    "tr-publisher": true,
+    "group-type": "wg",
+    "identifier": "wg/ag"
    }
-  },
+  ],
   "internal": false,
   "participants_list_public": true,
   "discr": "tf",
@@ -28051,7 +28237,7 @@
     "href": "https://api.w3.org/groups/ig/web-networks"
    },
    "homepage": {
-    "href": "https://www.w3.org/web-networks/"
+    "href": "https://www.w3.org/groups/ig/web-networks/"
    },
    "users": {
     "href": "https://api.w3.org/groups/ig/web-networks/users"
