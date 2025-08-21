@@ -171,6 +171,26 @@
   }
  },
  {
+  "name": "webmcp",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🤖 WebMCP 🧪",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "contacts": [
+    "anssiko"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "webnn-baseline",
   "owner": {
    "login": "webmachinelearning"
