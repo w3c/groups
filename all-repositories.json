@@ -25623,6 +25623,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://www.w3.org/groups/wg/miniapps/",
   "description": "MiniApps Standardization",
   "isArchived": false,
   "isPrivate": false,
@@ -28971,7 +28972,7 @@
   },
   "homepageUrl": "https://w3c.github.io/scribejs/BrowserView/",
   "description": "Converter of RRSAgent IRC logs into minutes in markdown",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
