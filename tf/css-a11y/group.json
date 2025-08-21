@@ -18,7 +18,7 @@
      "href": "https://api.w3.org/groups/wg/css"
     },
     "homepage": {
-     "href": "https://www.w3.org/Style/CSS/"
+     "href": "https://www.w3.org/groups/wg/css/"
     },
     "users": {
      "href": "https://api.w3.org/groups/wg/css/users"
@@ -70,7 +70,7 @@
      "href": "https://api.w3.org/groups/wg/aria"
     },
     "homepage": {
-     "href": "https://www.w3.org/WAI/ARIA/"
+     "href": "https://www.w3.org/WAI/about/groups/ariawg/"
     },
     "users": {
      "href": "https://api.w3.org/groups/wg/aria/users"
@@ -122,7 +122,7 @@
      "href": "https://api.w3.org/groups/wg/apa"
     },
     "homepage": {
-     "href": "https://www.w3.org/WAI/APA/"
+     "href": "https://www.w3.org/WAI/about/groups/apawg/"
     },
     "users": {
      "href": "https://api.w3.org/groups/wg/apa/users"
@@ -143,7 +143,7 @@
      "href": "https://api.w3.org/groups/wg/apa/charters"
     },
     "active-charter": {
-     "href": "https://api.w3.org/groups/wg/apa/charters/484"
+     "href": "https://api.w3.org/groups/wg/apa/charters/540"
     },
     "join": {
      "href": "https://www.w3.org/groups/wg/apa/join"
@@ -157,7 +157,7 @@
    },
    "type": "working group",
    "start-date": "2015-10-22",
-   "end-date": "2025-07-31",
+   "end-date": "2027-07-31",
    "tr-publisher": true,
    "group-type": "wg",
    "identifier": "wg/apa"
