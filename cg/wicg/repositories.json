@@ -547,7 +547,7 @@
   },
   "homepageUrl": "https://html.spec.whatwg.org/multipage/interaction.html#close-requests-and-close-watchers",
   "description": "A web API proposal for watching for close requests (e.g. Esc, Android back button, ...)",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -587,7 +587,7 @@
   "owner": {
    "login": "WICG"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -2235,7 +2235,7 @@
   "owner": {
    "login": "WICG"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -3568,7 +3568,7 @@
   },
   "homepageUrl": "https://wicg.github.io/visual-viewport/",
   "description": "A proposal to add explicit APIs to the Web for querying and setting the visual viewport",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -3700,6 +3700,27 @@
    ],
    "repo-type": [
     "others"
+   ]
+  }
+ },
+ {
+  "name": "webcrypto-modern-algos",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/webcrypto-modern-algos/",
+  "description": "Proposal for the addition of various modern algorithms to the Web Cryptography API, as well as feature detection for algorithm support",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
    ]
   }
  },
