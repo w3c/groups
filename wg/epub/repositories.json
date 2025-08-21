@@ -1,26 +1,5 @@
 [
  {
-  "name": "epub-specs",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Shared workspace for EPUB 3 specifications.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/epub",
-    "wg/pm"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "epub-structural-tests",
   "owner": {
    "login": "w3c"
