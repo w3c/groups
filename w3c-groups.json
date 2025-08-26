@@ -17563,7 +17563,7 @@
   "id": 148948,
   "name": "Open Cloud Mesh Community Group",
   "is_closed": false,
-  "description": "This community group is equivalent to the loose \"Open Cloud Mesh\" collaboration which started at individual vendors such as https://oc.owncloud.com/opencloudmesh.html, then moved to Géant\r\nhttps://wiki.geant.org/display/OCM/Open+Cloud+Mesh\r\nand most recently found a home within the CS3 community https://github.com/cs3org/OCM-API\r\n\r\nAs of september 2023, work on OCM is co-funded by NLnet, CERN, and individual implementers.\r\n\r\nBy creating this W3C CG we want to make our ongoing work more visible to the wider web standards community.",
+  "description": "Open Cloud Mesh (OCM) is a server federation protocol used to notify a Receiving Party that they have been granted access to some Resource. A core use case of OCM is when a user (e.g., Alice on System A) wishes to share a resource (e.g., a file) with another user (e.g., Bob on System B) without transferring the resource itself or requiring Bob to log in to System A.\r\n\r\nThis Community Group hosted the OCM collaboration and protocol specification effort, which is being developed by the <a href=\"https://www.cs3community.org\">CS3 Community</a>.\r\n\r\nIn July 2025, work in this group was transferred to the IETF with the objective to initiate their Standardization Process. OCM discussions now take place on an <a href=\"https://mailman3.ietf.org/mailman3/lists/ocm.ietf.org/\">IETF Mailing list</a> with the expectation to form a Working Group.",
   "shortname": "ocm",
   "spec-publisher": true,
   "discr": "w3cgroup",
