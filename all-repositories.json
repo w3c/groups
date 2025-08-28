@@ -37160,6 +37160,29 @@
   "isPrivate": false
  },
  {
+  "name": "wot-binding-registry",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wot-binding-registry/",
+  "description": "Web of Things (WoT) Bindings Registry",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    95969
+   ],
+   "contacts": [
+    "ashimura"
+   ],
+   "policy": "open",
+   "shortName": "wot-binding-registry",
+   "repo-type": [
+    "registry"
+   ]
+  }
+ },
+ {
   "name": "wot-binding-templates",
   "owner": {
    "login": "w3c"
@@ -37178,29 +37201,6 @@
    "shortName": "wot-binding-templates",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "wot-bindings-registry",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/wot-bindings-registry/",
-  "description": "Web of Things (WoT) Bindings Registry",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    95969
-   ],
-   "contacts": [
-    "ashimura"
-   ],
-   "policy": "open",
-   "shortName": "wot-bindings-registry",
-   "repo-type": [
-    "registry"
    ]
   }
  },
