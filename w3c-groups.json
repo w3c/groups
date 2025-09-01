@@ -27420,6 +27420,116 @@
   ]
  },
  {
+  "id": 170455,
+  "name": "Universal DID-Native Addressing (UDNA) Community Group",
+  "is_closed": false,
+  "description": "The mission of this group is to explore,  develop, and promote Universal DID-Native Addressing (UDNA)—a framework that treats decentralized identifiers (DIDs) as first-class network primitives. UDNA enables identity-native communication, privacy-preserving routing, and secure self-sovereign interactions across decentralized systems. Through UDNA, this group aims to unlock secure, decentralized, and privacy-preserving communications at scale, laying the foundation for the next generation of Internet-native identities.\r\n\r\n<p>Scope:</p>\r\n\r\n<ul>\r\n<li>Defining UDNA specifications for DID-based network addressing.</li>\r\n<li>Developing protocols for secure, verifiable, and rotatable identity resolution.</li>\r\n<li>Exploring integration with existing Internet protocols and decentralized networks.</li>\r\n<li>Enabling zero-trust and capability-based access control models.</li>\r\n<li>Investigating privacy-preserving communication and anti-abuse mechanisms.</li>\r\n<li>Providing reference implementations and interoperability guidance.</li>\r\n</ul>\r\n\r\n<p>Expected Outcomes:</p>\r\n\r\n<ul>\r\n<li>A set of specifications and guidelines for UDNA adoption.</li\r\n<li>Reference architectures and implementation examples.</li>\r\n<li>Recommendations for integrating identity-native addressing into decentralized applications and protocols.</li>\r\n<li>A community of researchers, developers, and organizations collaborating on identity-native networking technologies.</li>\r\n</ul>",
+  "shortname": "did-native-addr",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/did-native-addr"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/did-native-addr/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/did-native-addr/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/did-native-addr/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/did-native-addr/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/did-native-addr/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/did-native-addr/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/did-native-addr",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45941",
+    "title": "internal-did-native-addr (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-did-native-addr/",
+     "shortdesc": "internal-did-native-addr",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45941"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45941/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45939",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#did-native-addr",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45939"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45939/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45940",
+    "title": "public-did-native-addr (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-did-native-addr/",
+     "shortdesc": "public-did-native-addr",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45940"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45940/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45938",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/did-native-addr/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45938"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45938/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 98922,
   "name": "Verifiable Credentials Working Group",
   "is_closed": false,
