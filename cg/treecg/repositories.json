@@ -170,7 +170,7 @@
   "owner": {
    "login": "TREEcg"
   },
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -212,7 +212,7 @@
   },
   "homepageUrl": "https://github.com/rdf-connect/ldes-client",
   "description": "Deprecated! Use the rdf-connect/ldes-client instead",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
