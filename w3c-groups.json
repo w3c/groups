@@ -27526,6 +27526,25 @@
       }
      }
     }
+   },
+   {
+    "href": "https://api.w3.org/services/45942",
+    "title": "GitHub Repo (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/udna",
+     "shortdesc": "GitHub Repo",
+     "longdesc": "GitHub repo",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45942"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45942/groups"
+      }
+     }
+    }
    }
   ]
  },
