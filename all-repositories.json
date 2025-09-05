@@ -14204,6 +14204,20 @@
   }
  },
  {
+  "name": "activitypub-api",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "ActivityPub API Task Force repository.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "activitypub-data-portability",
   "owner": {
    "login": "swicg"
