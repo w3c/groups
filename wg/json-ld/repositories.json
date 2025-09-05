@@ -22,6 +22,29 @@
   }
  },
  {
+  "name": "json-ld-charter-2025",
+  "owner": {
+   "login": "json-ld"
+  },
+  "homepageUrl": "https://json-ld.github.io/json-ld-charter-2025/",
+  "description": "JSON-LD WG charter, 2025 version",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld"
+   ],
+   "contacts": [
+    "pchampin",
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "json-ld-star",
   "owner": {
    "login": "json-ld"
@@ -85,29 +108,6 @@
    ],
    "repo-type": [
     "others"
-   ]
-  }
- },
- {
-  "name": "wg-charter-2025",
-  "owner": {
-   "login": "json-ld"
-  },
-  "homepageUrl": "https://json-ld.github.io/wg-charter-2025/",
-  "description": "JSON-LD WG charter, 2025 version",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld"
-   ],
-   "contacts": [
-    "pchampin",
-    "iherman"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "process"
    ]
   }
  },
