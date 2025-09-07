@@ -15635,9 +15635,9 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "homepageUrl": "https://w3c-ccg.github.io/vc-api/",
-  "description": "An HTTP API for performing credential lifecycle management for Verifiable Credentials.",
-  "isArchived": false,
+  "homepageUrl": "https://w3c-ccg.github.io/vcalm/",
+  "description": "Redirection to VCALM spec",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -15942,6 +15942,21 @@
   },
   "homepageUrl": "https://w3c-ccg.github.io/vc-wireless/",
   "description": "Wireless transmission of verifiable credentials over NFC and Bluetooth",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
+  "name": "vcalm",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/vcalm/",
+  "description": "An HTTP API for performing credential lifecycle management for Verifiable Credentials.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
