@@ -424,10 +424,6 @@
   "identifier": "tf/iip"
  },
  {
-  "id": 170097,
-  "identifier": "tf/infrules"
- },
- {
   "id": 60884,
   "identifier": "cg/informationarchitecture"
  },
@@ -718,6 +714,10 @@
  {
   "id": 121942,
   "identifier": "cg/md-odrl-profile"
+ },
+ {
+  "id": 170097,
+  "identifier": "tf/infrules"
  },
  {
   "id": 170126,
