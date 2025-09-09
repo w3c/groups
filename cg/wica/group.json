@@ -1,0 +1,110 @@
+{
+ "id": 170693,
+ "name": "Web Identity & Credentials Adoption Community Group",
+ "is_closed": false,
+ "description": "<p>The mission of the Web Identity &amp; Credentials Adoption Community Group is to accelerate the adoption and improve the developer experience of emerging web identity and credentialing technologies. The group will achieve this by creating best-practice guidance, developing targeted educational content, and fostering a collaborative environment for developers and ecosystem stakeholders. Our goal is to help build a more secure, private, and user-friendly web by making powerful identity standards easier to understand and implement.</p>",
+ "shortname": "wica",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wica"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/wica/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/wica/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/wica/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/wica/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/wica/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/wica/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/wica",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/45947",
+   "title": "internal-wica (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-wica/",
+    "shortdesc": "internal-wica",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45947"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45947/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45945",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#wica",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45945"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45945/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45946",
+   "title": "public-wica (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wica/",
+    "shortdesc": "public-wica",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45946"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45946/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45944",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/wica/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45944"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45944/groups"
+     }
+    }
+   }
+  }
+ ]
+}
