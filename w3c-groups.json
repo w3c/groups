@@ -13930,6 +13930,24 @@
   "group-type": "tf",
   "services": [
    {
+    "href": "https://api.w3.org/services/45948",
+    "title": "Charter (Other)",
+    "details": {
+     "closed": false,
+     "type": "other",
+     "link": "https://www.w3.org/International/jlreq/charter/",
+     "shortdesc": "Charter",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45948"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45948/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/13862",
     "title": "public-i18n-japanese (Mailing List)",
     "details": {
