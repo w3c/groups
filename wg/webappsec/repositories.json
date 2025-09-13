@@ -1,5 +1,42 @@
 [
  {
+  "name": "federated-credentials",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "shortName": "credential-management-1",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "password-credentials",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webappsec"
+   ],
+   "shortName": "password-credentials",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "permissions",
   "owner": {
    "login": "w3c"
