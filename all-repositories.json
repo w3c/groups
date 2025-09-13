@@ -21714,6 +21714,26 @@
   }
  },
  {
+  "name": "federated-credentials",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49309
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "shortName": "credential-management-1",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "federated-learning-cg",
   "owner": {
    "login": "w3c"
@@ -26838,6 +26858,23 @@
     "yoavweiss"
    ],
    "shortName": "paint-timing",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
+  "name": "password-credentials",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49309
+   ],
+   "shortName": "password-credentials",
    "repo-type": [
     "rec-track"
    ]
