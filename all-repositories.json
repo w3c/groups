@@ -6826,6 +6826,7 @@
   "owner": {
    "login": "WebAssembly"
   },
+  "description": "A collection of interfaces for sending and receiving HTTP requests and responses",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
