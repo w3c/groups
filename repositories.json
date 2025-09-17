@@ -32321,6 +32321,29 @@
   }
  },
  {
+  "name": "prevent-credential-abuse",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "homepageUrl": "https://w3ctag.github.io/prevent-credential-abuse/",
+  "description": "This is for the \"Preventing the Abuse of Digital Identities\" Finding",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "contacts": [
+    "torgo",
+    "martinthomson"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "privacy-principles",
   "owner": {
    "login": "w3ctag"
@@ -32596,29 +32619,6 @@
   "w3cjson": {
    "group": [
     "other/tag"
-   ]
-  }
- },
- {
-  "name": "web-no-papers",
-  "owner": {
-   "login": "w3ctag"
-  },
-  "homepageUrl": "https://w3ctag.github.io/web-no-papers/",
-  "description": "This is for the \"Preventing the Abuse of Digital Identities\" Finding",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/tag"
-   ],
-   "contacts": [
-    "torgo",
-    "martinthomson"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
    ]
   }
  },
