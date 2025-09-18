@@ -26586,27 +26586,6 @@
   }
  },
  {
-  "name": "ns-OBSOLETE",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "https://www.w3.org/ns",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    106
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "ns-iana",
   "owner": {
    "login": "w3c"
