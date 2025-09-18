@@ -1615,6 +1615,25 @@
   }
  },
  {
+  "name": "iframe-media-pausing",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "image-output",
   "owner": {
    "login": "WICG"
