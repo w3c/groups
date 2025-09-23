@@ -7602,6 +7602,19 @@
   }
  },
  {
+  "name": "CanITauriVersoWebView",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ]
+  }
+ },
+ {
   "name": "CanIWKWebView",
   "owner": {
    "login": "WebView-CG"
