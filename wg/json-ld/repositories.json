@@ -49,9 +49,9 @@
   "owner": {
    "login": "json-ld"
   },
-  "homepageUrl": "https://json-ld.github.io/json-ld-wg-charter/",
-  "description": "Draft charter for the W3C JSON-LD WG (forked from w3c/charter-drafts)",
-  "isArchived": false,
+  "homepageUrl": "https://github.com/w3c/json-ld-charter-2025",
+  "description": "Work moved to https://github.com/w3c/json-ld-charter-2025",
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
