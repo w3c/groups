@@ -21219,7 +21219,7 @@
     "wg/i18n-core"
    ],
    "contacts": [
-    "rishida"
+    "xfq"
    ],
    "repo-type": [
     "article"
@@ -21333,6 +21333,27 @@
     "process",
     "homepage",
     "others"
+   ],
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "i18n-videos",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Internationalization-related video metadata and assets",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "article"
    ],
    "policy": "restricted"
   }
