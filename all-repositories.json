@@ -14523,6 +14523,20 @@
   }
  },
  {
+  "name": "test.activitypub.rocks",
+  "owner": {
+   "login": "swicg"
+  },
+  "description": "A dummy web site that redirects to a page on activitypub.rocks.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ]
+  }
+ },
+ {
   "name": "www",
   "owner": {
    "login": "swicg"
