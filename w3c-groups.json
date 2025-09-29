@@ -8005,6 +8005,116 @@
   "services": []
  },
  {
+  "id": 171262,
+  "name": "Data Façades Community Group",
+  "is_closed": false,
+  "description": "<p>The group's primary goal is to foster the long-term stability and broader adoption of the approach for accessing heterogeneous web data using data façades, by decoupling it from its original implementation in the SPARQL Anything project. This would involve creating a vendor-neutral, interoperable technology that can be implemented by various developers and organisations, including graph database vendors.</p>\r\n\r\n<p>The key activities of the Community Group include:</p>\r\n\r\n<ul>\r\n<li>Developing the Façade-X Method: Defining the core principles of the method and specifications of Façade-X as a \"homogeneous view over heterogeneous data sources\"</li>\r\n<li>Creating Standard Mappings (Profiles): Developing mappings for Façade-X to various data formats.</li>\r\n<li>Establishing a Process for New Formats: Creating a transparent and monitored process to add new data formats to the technology over time.</li>\r\n<li>Developing the SPARQL Dialect: Addressing the specific conventions and functions used by SPARQL Anything to make them part of the technology, including SERVICE IRIs, BGPs, and magic properties.</li>\r\n<li>Collaborating with Other W3C Groups: Building connections with other relevant W3C efforts, such as the RDF &amp; SPARQL and Data Shapes WGs, to ensure consistency and integration within the broader web standards ecosystem.</li>\r\n<li>Fostering Community and Business Engagement: Encouraging collaboration among developers, businesses, and adopters to gather ideas, feedback, and support for the technology.</li>\r\n<li>Supporting the Development of Implementations: While SPARQL Anything could remain as a reference implementation, the group would encourage and support implementations for other platforms/vendors, and expand the web data façades approach to other languages (e.g. SHACL).</li>\r\n</ul>",
+  "shortname": "fx",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/fx"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/fx/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/fx/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/fx/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/fx/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/fx/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/fx/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/fx",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45963",
+    "title": "internal-fx (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-fx/",
+     "shortdesc": "internal-fx",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45963"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45963/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45961",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#fx",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45961"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45961/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45962",
+    "title": "public-fx (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-fx/",
+     "shortdesc": "public-fx",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45962"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45962/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45960",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/fx/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45960"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45960/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 107442,
   "name": "Data Privacy Vocabularies and Controls Community Group",
   "is_closed": false,
