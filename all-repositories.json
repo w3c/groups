@@ -29178,6 +29178,15 @@
   }
  },
  {
+  "name": "scxml",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "State Chart XML (SCXML): State Machine Notation for Control Abstraction",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "sdw",
   "owner": {
    "login": "w3c"
