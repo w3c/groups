@@ -19272,7 +19272,25 @@
   }
  },
  {
-  "name": "cg-council",
+  "name": "cg-monitor",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/cg-monitor/",
+  "description": "Dashboard of activity from Community Groups",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
+  "name": "cg-program",
   "owner": {
    "login": "w3c"
   },
@@ -19288,24 +19306,6 @@
    ],
    "group": [
     49289
-   ]
-  }
- },
- {
-  "name": "cg-monitor",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/cg-monitor/",
-  "description": "Dashboard of activity from Community Groups",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "tool"
    ]
   }
  },
