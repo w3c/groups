@@ -8042,12 +8042,12 @@
   "services": [
    {
     "href": "https://api.w3.org/services/45963",
-    "title": "internal-fx (Mailing List)",
+    "title": "internal-facade-x (Mailing List)",
     "details": {
      "closed": false,
      "type": "lists",
-     "link": "https://lists.w3.org/Archives/Member/internal-fx/",
-     "shortdesc": "internal-fx",
+     "link": "https://lists.w3.org/Archives/Member/internal-facade-x/",
+     "shortdesc": "internal-facade-x",
      "_links": {
       "self": {
        "href": "https://api.w3.org/services/45963"
@@ -8064,7 +8064,7 @@
     "details": {
      "closed": false,
      "type": "chat",
-     "link": "irc://irc.w3.org/#fx",
+     "link": "irc://irc.w3.org/#facade-x",
      "shortdesc": "IRC",
      "_links": {
       "self": {
@@ -8078,12 +8078,12 @@
    },
    {
     "href": "https://api.w3.org/services/45962",
-    "title": "public-fx (Mailing List)",
+    "title": "public-facade-x (Mailing List)",
     "details": {
      "closed": false,
      "type": "lists",
-     "link": "https://lists.w3.org/Archives/Public/public-fx/",
-     "shortdesc": "public-fx",
+     "link": "https://lists.w3.org/Archives/Public/public-facade-x/",
+     "shortdesc": "public-facade-x",
      "_links": {
       "self": {
        "href": "https://api.w3.org/services/45962"
