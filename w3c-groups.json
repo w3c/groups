@@ -8009,36 +8009,36 @@
   "name": "Data Façades Community Group",
   "is_closed": false,
   "description": "<p>The group's primary goal is to foster the long-term stability and broader adoption of the approach for accessing heterogeneous web data using data façades, by decoupling it from its original implementation in the SPARQL Anything project. This would involve creating a vendor-neutral, interoperable technology that can be implemented by various developers and organisations, including graph database vendors.</p>\r\n\r\n<p>The key activities of the Community Group include:</p>\r\n\r\n<ul>\r\n<li>Developing the Façade-X Method: Defining the core principles of the method and specifications of Façade-X as a \"homogeneous view over heterogeneous data sources\"</li>\r\n<li>Creating Standard Mappings (Profiles): Developing mappings for Façade-X to various data formats.</li>\r\n<li>Establishing a Process for New Formats: Creating a transparent and monitored process to add new data formats to the technology over time.</li>\r\n<li>Developing the SPARQL Dialect: Addressing the specific conventions and functions used by SPARQL Anything to make them part of the technology, including SERVICE IRIs, BGPs, and magic properties.</li>\r\n<li>Collaborating with Other W3C Groups: Building connections with other relevant W3C efforts, such as the RDF &amp; SPARQL and Data Shapes WGs, to ensure consistency and integration within the broader web standards ecosystem.</li>\r\n<li>Fostering Community and Business Engagement: Encouraging collaboration among developers, businesses, and adopters to gather ideas, feedback, and support for the technology.</li>\r\n<li>Supporting the Development of Implementations: While SPARQL Anything could remain as a reference implementation, the group would encourage and support implementations for other platforms/vendors, and expand the web data façades approach to other languages (e.g. SHACL).</li>\r\n</ul>",
-  "shortname": "fx",
+  "shortname": "facade-x",
   "spec-publisher": true,
   "discr": "w3cgroup",
   "_links": {
    "self": {
-    "href": "https://api.w3.org/groups/cg/fx"
+    "href": "https://api.w3.org/groups/cg/facade-x"
    },
    "homepage": {
-    "href": "https://www.w3.org/community/fx/"
+    "href": "https://www.w3.org/community/facade-x/"
    },
    "users": {
-    "href": "https://api.w3.org/groups/cg/fx/users"
+    "href": "https://api.w3.org/groups/cg/facade-x/users"
    },
    "services": {
-    "href": "https://api.w3.org/groups/cg/fx/services"
+    "href": "https://api.w3.org/groups/cg/facade-x/services"
    },
    "chairs": {
-    "href": "https://api.w3.org/groups/cg/fx/chairs"
+    "href": "https://api.w3.org/groups/cg/facade-x/chairs"
    },
    "join": {
-    "href": "https://www.w3.org/community/fx/join"
+    "href": "https://www.w3.org/community/facade-x/join"
    },
    "participations": {
-    "href": "https://api.w3.org/groups/cg/fx/participations"
+    "href": "https://api.w3.org/groups/cg/facade-x/participations"
    }
   },
   "type": "community group",
   "tr-publisher": false,
   "group-type": "cg",
-  "identifier": "cg/fx",
+  "identifier": "cg/facade-x",
   "services": [
    {
     "href": "https://api.w3.org/services/45963",
@@ -8100,7 +8100,7 @@
     "details": {
      "closed": false,
      "type": "rss",
-     "link": "https://www.w3.org/community/fx/feed/",
+     "link": "https://www.w3.org/community/facade-x/feed/",
      "shortdesc": "RSS",
      "_links": {
       "self": {
