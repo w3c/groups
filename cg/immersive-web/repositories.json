@@ -280,6 +280,20 @@
   }
  },
  {
+  "name": "model-element-polyfill",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "A polyfill for the HTML Model Element ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ]
+  }
+ },
+ {
   "name": "model-element-samples",
   "owner": {
    "login": "immersive-web"
