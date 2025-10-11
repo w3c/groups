@@ -17569,6 +17569,116 @@
   ]
  },
  {
+  "id": 171612,
+  "name": "Ontologies and Knowledge Graphs in Industry Community Group",
+  "is_closed": false,
+  "description": "<p>We are building the foundation for the next generation of industrial interoperability. Our mission is to transform industry standards into shared, machine-readable knowledge—making it easier for companies, systems, and people to communicate seamlessly. By turning standards such as ISO 81346 into ontologies and structured vocabularies, we aim to enable true data interoperability, automation, and AI readiness across sectors like energy, aerospace, and manufacturing.</p>\r\n\r\n<p>We believe that connecting the world’s industrial data through transparent, open, and reusable semantics is key to driving innovation, efficiency, and competitiveness in the digital age.</p>\r\n\r\n<p>\r\nThe group will establish a unified and transparent framework for developing, implementing, and maintaining industrial designation systems as ontologies. Our focus includes:</p>\r\n\r\n<ul>\r\n<li>Capturing the logic and relationships within standards like ISO 81346,</li>\r\n<li>Supporting classification and profiling of equipment, functions, locations, and services, and</li>\r\n<li>Providing a shared reference point for interoperable data models across industries.</li>\r\n</ul>\r\n\r\n<p>We will act as a governance and coordination hub for semantic assets—ontologies, controlled vocabularies, and methodologies—while defining best practices for their lifecycle management, registration, and integration into industrial data ecosystems.</p>\r\n\r\n<p>Members will collaborate on tangible, high-impact outputs, including:</p>\r\n\r\n<ul>\r\n<li>Use cases and requirements drawn from real industrial scenarios.</li>\r\n<li>A Common Data Model architecture enabling cross-sector interoperability through ontologies and knowledge graphs.</li>\r\n<li>A network of aligned ontologies that supports this model.</li>\r\n<li>A test suite and implementation report validating our specifications.</li>\r\n<li>Primer and best practice guides** for developers building semantic and web-based industrial applications.</li>\r\n</ul>\r\n\r\n<p>These deliverables will serve as practical tools for organizations seeking to harmonize data across standards and systems.</p>\r\n\r\n<p>By joining, you’ll become part of an interdisciplinary community shaping the semantic backbone of the future industrial web. Members will:</p>\r\n\r\n<ul>\r\n<li> Collaborate with industry experts, standards bodies, and academic researchers.</li>\r\n<li>Contribute to real-world interoperability solutions and reference implementations.</li>\r\n<li>Influence the semantic representation of key standards.</li>\r\n<li>Participate in workshops, webinars, and cross-group collaborations within the W3C ecosystem.</li>\r\n</ul>\r\n\r\n<p>Together, we will define the blueprint for industrial knowledge interoperability, laying the groundwork for further activities and broad industry adoption.</p>",
+  "shortname": "oki",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/oki"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/oki/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/oki/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/oki/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/oki/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/oki/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/oki/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/oki",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45972",
+    "title": "internal-oki (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-oki/",
+     "shortdesc": "internal-oki",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45972"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45972/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45970",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#oki",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45970"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45970/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45971",
+    "title": "public-oki (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-oki/",
+     "shortdesc": "public-oki",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45971"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45971/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45969",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/oki/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45969"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45969/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 168829,
   "name": "Ontology for Agents, Systems, and Integration of Services Community Group",
   "is_closed": false,
