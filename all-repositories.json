@@ -15935,20 +15935,6 @@
   }
  },
  {
-  "name": "vc-confidence-method",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "description": "W3C VCDM extension for confidence method",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
   "name": "vc-csl2017",
   "owner": {
    "login": "w3c-ccg"
@@ -16099,21 +16085,6 @@
   "owner": {
    "login": "w3c-ccg"
   },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ]
-  }
- },
- {
-  "name": "vc-render-method",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "homepageUrl": "https://w3c-ccg.github.io/vc-render-method/",
-  "description": "Rendering methods for Verifiable Credentials",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -32052,6 +32023,28 @@
   }
  },
  {
+  "name": "vc-confidence-method",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-confidence-method/",
+  "description": "W3C VCDM extension for confidence method",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-confidence-method",
+   "repo-type": [
+    "rec-track"
+   ]
+  }
+ },
+ {
   "name": "vc-data-integrity",
   "owner": {
    "login": "w3c"
@@ -32436,6 +32429,28 @@
     "note"
    ],
    "shortName": "vc-overview"
+  }
+ },
+ {
+  "name": "vc-render-method",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-render-method/",
+  "description": "Rendering methods for Verifiable Credentials",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-render-method",
+   "repo-type": [
+    "rec-track"
+   ]
   }
  },
  {
