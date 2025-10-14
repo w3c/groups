@@ -2648,6 +2648,26 @@
   }
  },
  {
+  "name": "email-verification-protocol",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "verified autofill ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "encrypted-media",
   "owner": {
    "login": "WICG"
