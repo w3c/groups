@@ -20256,6 +20256,27 @@
   }
  },
  {
+  "name": "das-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/das/",
+  "description": "Devices and Sensors Working Group website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    43696
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "data-shapes",
   "owner": {
    "login": "w3c"
@@ -20411,27 +20432,6 @@
     "rec-track"
    ],
    "policy": "open"
-  }
- },
- {
-  "name": "devicesensors-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/das/",
-  "description": "Devices and Sensors Working Group website",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    43696
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "homepage"
-   ]
   }
  },
  {
