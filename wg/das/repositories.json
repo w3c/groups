@@ -133,6 +133,27 @@
   }
  },
  {
+  "name": "das-wg",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/das/",
+  "description": "Devices and Sensors Working Group website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "device-posture",
   "owner": {
    "login": "w3c"
@@ -176,27 +197,6 @@
     "rec-track"
    ],
    "policy": "open"
-  }
- },
- {
-  "name": "devicesensors-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/das/",
-  "description": "Devices and Sensors Working Group website",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/das"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "homepage"
-   ]
   }
  },
  {
