@@ -16369,6 +16369,21 @@
   }
  },
  {
+  "name": "w3c-ccg.org",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.org/",
+  "description": "The W3C Credentials Community Group website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "webkms",
   "owner": {
    "login": "w3c-ccg"
@@ -16385,21 +16400,6 @@
    "shortName": "data-hubs",
    "repo-type": [
     "cg-report"
-   ]
-  }
- },
- {
-  "name": "website",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "homepageUrl": "https://w3c-ccg.org/",
-  "description": "The W3C Credentials Community Group website",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
    ]
   }
  },
