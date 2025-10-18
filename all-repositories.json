@@ -29382,7 +29382,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/security-disclosure/",
-  "description": "Guidelines for Security Disclosures",
+  "description": "W3C Standards Vulnerability Disclosure & Handling Process and Policy",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -29390,7 +29390,7 @@
     102
    ],
    "contacts": [
-    "plehegar"
+    "sonofri"
    ],
    "policy": "open",
    "repo-type": [
