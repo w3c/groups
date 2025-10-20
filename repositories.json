@@ -10604,6 +10604,20 @@
   }
  },
  {
+  "name": "rml-wg-charter",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "The RML W3C Working Group Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ]
+  }
+ },
+ {
   "name": "survey-website",
   "owner": {
    "login": "kg-construct"
