@@ -35,6 +35,24 @@
  "identifier": "cg/council",
  "services": [
   {
+   "href": "https://api.w3.org/services/45978",
+   "title": "#cg-program on Slack (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://w3ccommunity.slack.com/archives/C09HRJAMHV1",
+    "shortdesc": "#cg-program on Slack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45978"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45978/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/581",
    "title": "internal-council (Mailing List)",
    "details": {
@@ -58,7 +76,7 @@
    "details": {
     "closed": false,
     "type": "chat",
-    "link": "irc://irc.w3.org/#council",
+    "link": "irc://irc.w3.org/#cg-program",
     "shortdesc": "IRC",
     "_links": {
      "self": {
