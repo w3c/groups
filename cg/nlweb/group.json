@@ -105,6 +105,24 @@
      }
     }
    }
+  },
+  {
+   "href": "https://api.w3.org/services/45977",
+   "title": "The main repo for NLWeb, implemented in Python. (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/nlweb-ai/NLWeb",
+    "shortdesc": "The main repo for NLWeb, implemented in Python.",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45977"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45977/groups"
+     }
+    }
+   }
   }
  ]
 }
