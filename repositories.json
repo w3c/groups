@@ -10608,6 +10608,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "homepageUrl": "https://kg-construct.github.io/rml-wg-charter/",
   "description": "The RML W3C Working Group Charter",
   "isArchived": false,
   "isPrivate": false,
@@ -10785,6 +10786,20 @@
   "w3cjson": {
    "group": [
     "cg/immersive-captions"
+   ]
+  }
+ },
+ {
+  "name": "NLWeb",
+  "owner": {
+   "login": "nlweb-ai"
+  },
+  "description": "The main repo for NLWeb, implemented in Python.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nlweb"
    ]
   }
  },
