@@ -2,6 +2,7 @@
  "id": 163544,
  "name": "High-Performance Baseline for Web Apps Community Group",
  "is_closed": false,
+ "creation-date": "2025-01-09",
  "description": "<p>The High-Performance Baseline Community Group aims to enhance the diversify the ecosystem of Web user agents by enabling a baseline or subset of standards to increase efficiency and optimize the user experience on Web and WebView-based apps while maintaining compatibility with existing standards. The subsets will allow the implementation of lighter and more efficient user agents for specific purposes (e.g., MiniApps, IoT applications, and cross-platform apps, among others). This forum intends to gather vendors of embedded browsers, hybrid cross-platform app frameworks, JS engines and others interested in providing specific scenarios and use cases to define proper subsets of the specifications and even propose additional activities to existing Working Groups. </p>\n\n<p>This CG expects good alignment with other incubation groups, including WebViews CG and WICG, and standardization groups (e.g., CSS WG, Web Applications WG, and WHATCG, among others). After getting support for this idea, more specific goals and a tentative timeline will be defined in the charter.</p>",
  "shortname": "high-perf-baseline",
  "spec-publisher": true,
