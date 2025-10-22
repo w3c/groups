@@ -2,6 +2,7 @@
  "id": 170168,
  "name": "SHACL UI",
  "is_closed": false,
+ "creation-date": "2025-08-22",
  "description": "SHACL UI TF from the Data Shapes WG",
  "shortname": "shacl-ui",
  "members": [
@@ -9,6 +10,7 @@
    "id": 73865,
    "name": "Data Shapes Working Group",
    "is_closed": false,
+   "creation-date": "2014-09-26",
    "description": "The mission of the Data Shapes Working Group is to update data shapes standards in line with the versions of core Semantic Web standards that cater for RDF-star and to extend the applications of data shapes with new packaging and use specifications.",
    "shortname": "data-shapes",
    "discr": "w3cgroup",
