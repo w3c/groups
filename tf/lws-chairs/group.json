@@ -2,12 +2,14 @@
  "id": 161216,
  "name": "Linked Web Storage chairs",
  "is_closed": false,
+ "creation-date": "2024-10-22",
  "shortname": "lws-chairs",
  "members": [
   {
    "id": 159634,
    "name": "Linked Web Storage Working Group",
    "is_closed": false,
+   "creation-date": "2024-09-06",
    "description": "The mission of the Linked Web Storage Working Group is to enable the development of web applications where data storage, entity authentication, access control, and application provider are all loosely coupled, as opposed to the web of today where these are typically all tightly coupled and changing one requires changing all, sometimes at the price of all past data. This will be achieved by identifying a set of relevant <a href=\"https://github.com/w3c/lws-ucs\">use-cases</a>, and standardizing a <a href=\"https://github.com/w3c/lws-protocol\">protocol</a> between applications, on the one hand, and identity and storage servers, on the other hand.",
    "shortname": "lws",
    "discr": "w3cgroup",
