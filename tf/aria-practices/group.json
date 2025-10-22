@@ -2,6 +2,7 @@
  "id": 102172,
  "name": "ARIA Authoring Practices Task Force",
  "is_closed": false,
+ "creation-date": "2017-09-15",
  "description": "The ARIA Authoring Practices task force to develop WAI-ARIA Authoring Practices, which describes considerations that might not be evident to most authors from the WAI-ARIA specification alone and recommends approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles, states, and properties.",
  "shortname": "aria-practices",
  "members": [
@@ -9,6 +10,7 @@
    "id": 83726,
    "name": "Accessible Rich Internet Applications Working Group",
    "is_closed": false,
+   "creation-date": "2015-10-15",
    "description": "The mission of the Accessible Rich Internet Applications Working Group is to enhance the accessibility of web content through the development of supplemental attributes, including roles, states, and other properties, that can be applied to native host language elements and exposed via platform accessibility APIs.",
    "shortname": "aria",
    "discr": "w3cgroup",
