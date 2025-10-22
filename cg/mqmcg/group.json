@@ -2,6 +2,7 @@
  "id": 100410,
  "name": "Multidimensional Quality Metrics (MQM) Community Group",
  "is_closed": false,
+ "creation-date": "2017-06-22",
  "description": "The MQM CG’s purposes are to:\r\n<ol>\r\n<li>further develop the Multidimensional Quality Metrics (MQM) error typology and corresponding scoring models for evaluating translation quality;</li>\r\n<li>ensure that MQM is updated to reflect the effects of generative AI, such as large language models;</li>\r\n<li>create web-compatible markup formats for MQM; and</li>\r\n<li>promote interoperability with existing W3C recommendations – particularly ITS 2.0 – including extensions to enable them to support MQM. It publishes Specifications to support these activities.</li>\r\n</ol>\r\n\r\nIn addition, the MQM CG facilitates discussion about best practices for using MQM for evaluating the quality of human, machine translation, and generative AI translation and applying the error types and their definitions. It also supports the addition of language- and content type-specific extensions to MQM and serve as a clearing house for declaring error type selections for different use cases. The MQM CG works in tandem with the <a href=\"http://www.themqm.org\">MQM Council</a> to support its mission and promote MQM.",
  "shortname": "mqmcg",
  "spec-publisher": true,
