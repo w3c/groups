@@ -2,6 +2,7 @@
  "id": 159734,
  "name": "PDF Accessibility APIs Mapping (PDF-AAM) Task Force",
  "is_closed": false,
+ "creation-date": "2024-09-09",
  "description": "Provide reliable and robust accessibility mappings for semantic elements defined within the PDF specification.",
  "shortname": "pdf-aam",
  "members": [
@@ -9,6 +10,7 @@
    "id": 83726,
    "name": "Accessible Rich Internet Applications Working Group",
    "is_closed": false,
+   "creation-date": "2015-10-15",
    "description": "The mission of the Accessible Rich Internet Applications Working Group is to enhance the accessibility of web content through the development of supplemental attributes, including roles, states, and other properties, that can be applied to native host language elements and exposed via platform accessibility APIs.",
    "shortname": "aria",
    "discr": "w3cgroup",
