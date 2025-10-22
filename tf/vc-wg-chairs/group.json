@@ -2,12 +2,14 @@
  "id": 133097,
  "name": "Verifiable Credentials Working Group Chairs",
  "is_closed": false,
+ "creation-date": "2021-08-18",
  "shortname": "vc-wg-chairs",
  "members": [
   {
    "id": 98922,
    "name": "Verifiable Credentials Working Group",
    "is_closed": false,
+   "creation-date": "2017-04-13",
    "description": "The mission of the Verifiable Credentials Working Group is to maintain the Verifiable Credentials Data Model specification and related Working Group Notes.",
    "shortname": "vc",
    "discr": "w3cgroup",
