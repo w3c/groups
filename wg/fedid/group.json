@@ -2,6 +2,7 @@
  "id": 154550,
  "name": "Federated Identity Working Group",
  "is_closed": false,
+ "creation-date": "2024-03-25",
  "description": "The mission of the Federated Identity Working Group is to develop specifications to allow a website to request a federated identity credential or assertion with the purpose of authenticating a user and/or requesting a set of claims in a compatible way to OIDC or SAML.",
  "shortname": "fedid",
  "discr": "w3cgroup",
