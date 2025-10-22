@@ -2,6 +2,7 @@
  "id": 141415,
  "name": "RDF Surfaces Community Group",
  "is_closed": false,
+ "creation-date": "2022-12-14",
  "description": "The RDF Surfaces sets out to create a sublanguage of Notation3 in order to implement classical first-order logic with negation in RDF as envisioned by Pat Hayes in his 2009 ISWC Invited Talk: BLOGIC",
  "shortname": "rdfsurfaces",
  "spec-publisher": true,
