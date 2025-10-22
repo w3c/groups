@@ -2,6 +2,7 @@
  "id": 125908,
  "name": "WebTransport Working Group",
  "is_closed": false,
+ "creation-date": "2020-09-03",
  "description": "The mission of the WebTransport Working Group is to develop APIs that enable data transfer between browsers and servers with support for multiple data flows, unidirectional data flows, out-of-order delivery, variable reliability and pluggable protocols.",
  "shortname": "webtransport",
  "discr": "w3cgroup",
