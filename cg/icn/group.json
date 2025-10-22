@@ -2,6 +2,7 @@
  "id": 167297,
  "name": "Information Centric Networking Community Group",
  "is_closed": false,
+ "creation-date": "2025-05-09",
  "description": "<p>Information-centric networking (ICN) is an approach to architecting the future Internet around data rather than endpoints, addressing the major issues we've suffered with Internet Protocol (TCP/IP). Focusing on content over specific connections can minimize the barriers to content distribution and eliminate dependency on centralized cloud services &amp; content delivery networks. This promotes decentralization &amp; local-first computing over monopoly and consolidation, simplifies both the network stack &amp; topology, improves speed &amp; reliability with native multicast, and integrates security into all data packet transmission. </p>\r\n\r\n<p>These properties perfectly accommodate ad-hoc networks, censorship-resistance, and the burgeoning Internet of Things (IoT). It moves infrastructure away from a delicate host-centric paradigm towards a data-centric view of accessing information securely, no matter where it may originate from. Named Data Networking (NDN) is the primary architecture and set of protocols, formed as the successor to Content Centric Networking (CCNx), and a new web is already being built upon it!</p>\r\n\r\n<p>This group will not publish Specifications.</p>",
  "shortname": "icn",
  "spec-publisher": false,
