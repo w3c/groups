@@ -2,6 +2,7 @@
  "id": 141517,
  "name": "Maturity Model Task Force",
  "is_closed": false,
+ "creation-date": "2022-12-21",
  "description": "The Maturity Model Task Force is to craft an Accessibility Maturity Model (AMM) narrative and assessment tool in support of W3C standards and other related guidance, such as Web Content Accessibility Guidelines (WCAG) and Accessibility Rich Internet Applications (ARIA), in consultation with the APA Working Group. Specifically, the MMTF Accessibility Maturity Model will assist organizations in building capacity to develop, and maintain, accessible products or services.",
  "shortname": "maturity",
  "members": [
@@ -9,6 +10,7 @@
    "id": 83907,
    "name": "Accessible Platform Architectures Working Group",
    "is_closed": false,
+   "creation-date": "2015-10-21",
    "description": "The mission of the Accessible Platform Architectures Working Group (APA WG, formerly part of the Protocols and Formats Working Group) is to ensure W3C specifications provide support for accessibility to people with disabilities. The group advances this mission through review of W3C specifications, development of technical support materials, collaboration with other Working Groups, and coordination of harmonized accessibility strategies within W3C.",
    "shortname": "apa",
    "discr": "w3cgroup",
