@@ -2,12 +2,14 @@
  "id": 145018,
  "name": "PM Working Group Chairs",
  "is_closed": false,
+ "creation-date": "2023-06-14",
  "shortname": "pmchairs",
  "members": [
   {
    "id": 144835,
    "name": "Publishing Maintenance Working Group",
    "is_closed": false,
+   "creation-date": "2023-06-07",
    "description": "The mission of the Publishing Maintenance Working is to maintain the W3C Recommendations, as well as related Notes, in the area of Digital Publishing published by the Audiobooks and the EPUB Working Groups.",
    "shortname": "pm",
    "discr": "w3cgroup",
