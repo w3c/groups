@@ -26217,6 +26217,25 @@
   }
  },
  {
+  "name": "security-guidelines-cryptography",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "security-questionnaire",
   "owner": {
    "login": "w3c"
@@ -26892,7 +26911,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/sustainableweb-wsg/",
+  "homepageUrl": "https://www.w3.org/TR/web-sustainability-guidelines/",
   "description": "Web Sustainability Guidelines (WSG)",
   "isArchived": false,
   "isPrivate": false,
