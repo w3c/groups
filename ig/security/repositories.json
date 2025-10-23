@@ -1,5 +1,24 @@
 [
  {
+  "name": "security-guidelines-cryptography",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "security-questionnaire",
   "owner": {
    "login": "w3c"
