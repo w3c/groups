@@ -1,0 +1,111 @@
+{
+ "id": 171912,
+ "name": "Cybernetic Avatar Community Group",
+ "is_closed": false,
+ "creation-date": "2025-10-23",
+ "description": "<p>The Cybernetic Avatar Community Group aims to discuss and define technologies, architectures, and data standards for the Cybernetic Avatar — a networked embodiment that digitally extends and transmits human physical, perceptual, and cognitive capabilities on the Web.</p>\n\n<p>A Cybernetic Avatar may appear as a tele-operated robot, a virtual body in an augmented space, or a hybrid embodiment connected to human sensorimotor and cognitive data streams.</p>\n\n<p>The group explores how such embodiment can be realized in browsers and web-based environments to enable inclusive participation in social, creative, and professional activities across distance and time.</p>\n\n<p>The mission is to establish open and interoperable specifications for transmitting and synchronizing multimodal human data — motion, vision, audio, haptics, and cognitive states — between human, avatar, and environments on the Web.</p>",
+ "shortname": "cacg",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cacg"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/cacg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cacg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cacg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cacg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cacg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cacg/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cacg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/45982",
+   "title": "internal-cacg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-cacg/",
+    "shortdesc": "internal-cacg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45982"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45982/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45980",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cacg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45980"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45980/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45981",
+   "title": "public-cacg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cacg/",
+    "shortdesc": "public-cacg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45981"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45981/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45979",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cacg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45979"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45979/groups"
+     }
+    }
+   }
+  }
+ ]
+}
