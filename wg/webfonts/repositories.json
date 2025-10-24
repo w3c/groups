@@ -80,6 +80,26 @@
   }
  },
  {
+  "name": "ift-encoder-data",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Unicode codepoint frequency data, for use by Incremental Font Transfer (IFT) encoders",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webfonts"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
+ },
+ {
   "name": "ift-server-tests",
   "owner": {
    "login": "w3c"
