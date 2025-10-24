@@ -16580,6 +16580,25 @@
   }
  },
  {
+  "name": "loading-control-games",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    168436
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "mcm-jp",
   "owner": {
    "login": "w3c-cg"
