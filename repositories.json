@@ -18412,7 +18412,7 @@
     "wg/i18n-core"
    ],
    "contacts": [
-    "r12a"
+    "xfq"
    ],
    "policy": "open",
    "repo-type": [
@@ -21277,7 +21277,7 @@
     "wg/i18n-core"
    ],
    "contacts": [
-    "rishida"
+    "xfq"
    ],
    "repo-type": [
     "process",
@@ -26268,6 +26268,7 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://w3c.github.io/security-guidelines-cryptography/",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -26883,7 +26884,7 @@
     "wg/i18n-core"
    ],
    "contacts": [
-    "rishida"
+    "xfq"
    ],
    "repo-type": [
     "note"
