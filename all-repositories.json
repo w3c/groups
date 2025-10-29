@@ -6052,6 +6052,27 @@
   }
  },
  {
+  "name": "jit-interface",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/spec/",
+  "description": "WebAssembly specification, reference interpreter, and test suite for the jit-interfaces proposal.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "js-primitive-builtins",
   "owner": {
    "login": "WebAssembly"
