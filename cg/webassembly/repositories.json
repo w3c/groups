@@ -900,6 +900,19 @@
   }
  },
  {
+  "name": "multibyte-array-access",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "mutable-global",
   "owner": {
    "login": "WebAssembly"
