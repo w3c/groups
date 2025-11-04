@@ -72,7 +72,7 @@
   },
   "homepageUrl": "https://w3c.github.io/trace-context-amqp/",
   "description": "Trace Context: AMQP protocol",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -94,7 +94,7 @@
   },
   "homepageUrl": "https://w3c.github.io/trace-context-binary/",
   "description": "Trace Context: binary protocol",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -116,7 +116,7 @@
   },
   "homepageUrl": "https://w3c.github.io/trace-context-mqtt/",
   "description": "Trace Context: MQTT protocol",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
