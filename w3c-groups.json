@@ -8344,6 +8344,117 @@
   ]
  },
  {
+  "id": 172308,
+  "name": "Data Interoperating Architecture Community Group",
+  "is_closed": false,
+  "creation-date": "2025-11-05",
+  "description": "<p>The Data Interoperating Architecture (DIA) Community Group aims to define an open and trustworthy framework for secure cross-domain data interoperability. It is dedicated to decoupling data from applications and supporting verifiable ownership and privacy-preserving data interconnectivity between heterogeneous systems.</p>\n\n<p>This initiative builds upon existing Web and Internet standards and extends them into a data-centric Internet architecture, enabling data to flow securely and autonomously between organizations and platforms. The Community Group will focus on developing interoperability specifications for data identification, authentication, data authorization, and security compliance, thereby building a protocol-level architecture to facilitate the development and construction of next-generation Internet infrastructure.</p>\n\n<p>The Community Group welcomes contributions from academia, industry, and standards bodies to jointly advance global interoperability practices. It will continuously evolve through iterative development and open collaboration, releasing reference specifications, best practices, and implementation guidelines to support the construction of a secure and trustworthy Internet.</p>",
+  "shortname": "dia",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/dia"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/dia/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/dia/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/dia/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/dia/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/dia/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/dia/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/dia",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45988",
+    "title": "internal-dia (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-dia/",
+     "shortdesc": "internal-dia",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45988"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45988/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45986",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#dia",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45986"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45986/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45987",
+    "title": "public-dia (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-dia/",
+     "shortdesc": "public-dia",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45987"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45987/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45985",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/dia/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45985"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45985/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 107442,
   "name": "Data Privacy Vocabularies and Controls Community Group",
   "is_closed": false,
@@ -14287,7 +14398,7 @@
   },
   "type": "working group",
   "start-date": "2018-06-07",
-  "end-date": "2025-11-30",
+  "end-date": "2026-05-30",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/json-ld",
@@ -19381,7 +19492,7 @@
   },
   "type": "working group",
   "start-date": "2012-11-09",
-  "end-date": "2025-11-07",
+  "end-date": "2026-05-07",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/pointer-events",
