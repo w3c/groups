@@ -1358,7 +1358,7 @@
    "login": "WICG"
   },
   "homepageUrl": "https://wicg.github.io/first-party-sets/",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -3434,7 +3434,7 @@
   },
   "homepageUrl": "https://wicg.github.io/turtledove/",
   "description": "TURTLEDOVE",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
