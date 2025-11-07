@@ -8233,6 +8233,117 @@
   "services": []
  },
  {
+  "id": 172364,
+  "name": "Data Documentation Community Group",
+  "is_closed": false,
+  "creation-date": "2025-11-07",
+  "description": "<p>This Community Group will serve as an incubator for the work described in the <a href=\"https://w3c.github.io/dx-wg-charter/\">draft charter of the Dataset Exchange Working Group</a>.</p>\r\n\r\n<p>All people interested in the topic of describing data and data structure in relation to W3C standards are welcome to contribute.</p>\r\n\r\n<p>This group may publish Specifications.</p>",
+  "shortname": "datadoc",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/datadoc"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/datadoc/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/datadoc/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/datadoc/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/datadoc/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/datadoc/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/datadoc/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/datadoc",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45992",
+    "title": "internal-datadoc (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-datadoc/",
+     "shortdesc": "internal-datadoc",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45992"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45992/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45990",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#datadoc",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45990"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45990/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45991",
+    "title": "public-datadoc (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-datadoc/",
+     "shortdesc": "public-datadoc",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45991"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45991/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45989",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/datadoc/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45989"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45989/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 171262,
   "name": "Data Façades Community Group",
   "is_closed": false,
