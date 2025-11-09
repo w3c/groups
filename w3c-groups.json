@@ -13552,6 +13552,117 @@
   ]
  },
  {
+  "id": 172410,
+  "name": "Infinite Canvas Community Group",
+  "is_closed": false,
+  "creation-date": "2025-11-09",
+  "description": "<p>The Infinite Canvas Community Group explores the needs of infinite canvas tools—including spatial canvas applications, whiteboarding platforms, and collaborative design environments—in relation to the web standards platform. Building on the Open Canvas Working Group's development of the Open Canvas Interchange Format (OCIF), this group will:</p>\r\n<ul>\r\n<li>Identify web platform requirements for infinite canvas applications</li>\r\n<li>Develop interoperability standards for infinite canvas data exchange</li>\r\n<li>Explore integration points with existing W3C specifications (SVG, Canvas APIs, Web Components, etc.)</li>\r\n</ul>\r\n\r\n<p>The group aims to establish how existing web standards can better support infinite canvas use cases and where new standardization efforts may be beneficial, fostering an ecosystem where different infinite canvas tools can interoperate seamlessly on the web platform.</p>",
+  "shortname": "infinite-canvas",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/infinite-canvas"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/infinite-canvas/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/infinite-canvas/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/infinite-canvas/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/infinite-canvas/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/infinite-canvas/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/infinite-canvas/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/infinite-canvas",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/45996",
+    "title": "internal-infinite-canvas (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-infinite-canvas/",
+     "shortdesc": "internal-infinite-canvas",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45996"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45996/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45994",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#infinite-canvas",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45994"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45994/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45995",
+    "title": "public-infinite-canvas (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-infinite-canvas/",
+     "shortdesc": "public-infinite-canvas",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45995"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45995/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/45993",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/infinite-canvas/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45993"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45993/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 60884,
   "name": "Information Architecture Community Group",
   "is_closed": false,
