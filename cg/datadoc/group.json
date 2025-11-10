@@ -36,6 +36,24 @@
  "identifier": "cg/datadoc",
  "services": [
   {
+   "href": "https://api.w3.org/services/45997",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/datadoc",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45997"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45997/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/45992",
    "title": "internal-datadoc (Mailing List)",
    "details": {
