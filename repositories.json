@@ -22963,6 +22963,25 @@
   }
  },
  {
+  "name": "me-next-generation-audio",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/me"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "me-vision",
   "owner": {
    "login": "w3c"
