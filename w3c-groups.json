@@ -714,6 +714,24 @@
   "identifier": "cg/aria-at",
   "services": [
    {
+    "href": "https://api.w3.org/services/45999",
+    "title": "GitHub (Issue Tracking)",
+    "details": {
+     "closed": false,
+     "type": "tracker",
+     "link": "https://github.com/w3c/aria-at/",
+     "shortdesc": "GitHub",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45999"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45999/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/17367",
     "title": "GitHub repository (Version Control)",
     "details": {
