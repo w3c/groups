@@ -3113,6 +3113,26 @@
   }
  },
  {
+  "name": "idrefs",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Fixing HTML element references (IDREFS) on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "iframe-media-pausing",
   "owner": {
    "login": "WICG"
@@ -16564,6 +16584,25 @@
   "w3cjson": {
    "group": [
     167263
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "atag",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    170714
    ],
    "contacts": [
     "ij@w3.org"
