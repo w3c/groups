@@ -3326,6 +3326,24 @@
   "identifier": "cg/atag",
   "services": [
    {
+    "href": "https://api.w3.org/services/45998",
+    "title": "GitHub (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/atag",
+     "shortdesc": "GitHub",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/45998"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/45998/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/45952",
     "title": "internal-atag (Mailing List)",
     "details": {
