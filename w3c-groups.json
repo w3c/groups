@@ -25845,6 +25845,117 @@
   ]
  },
  {
+  "id": 172564,
+  "name": "Semantic Agent Communication Community Group",
+  "is_closed": false,
+  "creation-date": "2025-11-13",
+  "description": "<p>The group develops ontology and semantic structures for communication between AI agents operating as delegated and accountable technical principals. </p>\n\n<p>Work focuses on schemas for identity binding, capability disclosure, semantic intent modeling, structured delegation chains, and verifiable execution accountability that connect Web semantics with operating-system contexts and hardware-anchored trust elements. </p>\n\n<p>The objective is to establish a coherent semantic layer capable of supporting interoperable agent-to-agent communication across heterogeneous computational environments.</p>\n\n<p>This work extends Semantic Web foundations—including RDF, Linked Data, DID, and Verifiable Credentials. </p>\n\n<p>Toward agent-native interaction models. Outputs may include conceptual frameworks, shared vocabularies, data schemas, delegation ontologies, and draft interaction structures that may inform future standardization</p>",
+  "shortname": "s-agent-comm",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/s-agent-comm"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/s-agent-comm/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/s-agent-comm/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/s-agent-comm/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/s-agent-comm/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/s-agent-comm/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/s-agent-comm/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/s-agent-comm",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46003",
+    "title": "internal-s-agent-comm (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-s-agent-comm/",
+     "shortdesc": "internal-s-agent-comm",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46003"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46003/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46001",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#s-agent-comm",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46001"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46001/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46002",
+    "title": "public-s-agent-comm (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-s-agent-comm/",
+     "shortdesc": "public-s-agent-comm",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46002"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46002/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46000",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/s-agent-comm/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46000"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46000/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 168235,
   "name": "Semantic Construction Product Data Community Group",
   "is_closed": false,
