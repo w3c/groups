@@ -1,0 +1,111 @@
+{
+ "id": 172606,
+ "name": "Agentic Arbitration Protocol Community Group",
+ "is_closed": false,
+ "creation-date": "2025-11-14",
+ "description": "<p>The mission of this group is to develop machine-readable dispute resolution formats, enabling autonomous agents to file, defend, and resolve conflicts without human intervention. The group expects to publish interoperable JSON-LD schemas, data models, and protocols for arbitration that are machine-native, discoverable, auditable, and enforceable.</p>",
+ "shortname": "agentic-arbitration",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agentic-arbitration"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/agentic-arbitration/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/agentic-arbitration/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/agentic-arbitration/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/agentic-arbitration/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/agentic-arbitration/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/agentic-arbitration/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/agentic-arbitration",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46007",
+   "title": "internal-agentic-arbitration (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-agentic-arbitration/",
+    "shortdesc": "internal-agentic-arbitration",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46007"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46007/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46005",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#agentic-arbitration",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46005"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46005/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46006",
+   "title": "public-agentic-arbitration (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-agentic-arbitration/",
+    "shortdesc": "public-agentic-arbitration",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46006"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46006/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46004",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/agentic-arbitration/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46004"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46004/groups"
+     }
+    }
+   }
+  }
+ ]
+}
