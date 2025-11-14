@@ -1,0 +1,111 @@
+{
+ "id": 172648,
+ "name": "Autofill Community Group",
+ "is_closed": false,
+ "creation-date": "2025-11-14",
+ "description": "<p>Every day on the web, millions of users enter information into forms to complete journeys ranging from e-commerce, to account creation and log-in, to government services, and more. Given the onerous nature of re-typing information, many user agents and other \"Autofill implementors\" (e.g., browser extensions) provide \"Autofill\" services to aid the user in easily filling in forms. However today, Autofill Implementors have a wide range of capabilities and behaviours, such that both users and websites are faced with different experiences depending on the Autofill implementor being used.</p>\r\n\r\n<p>The mission of this group is to provide a forum for Autofill implementors to: develop a common understanding of Autofill and its interaction with the web; discuss and share known issues; and develop joint proposals to improve the experience of Autofill for users and website developers.</p>\r\n\r\n<p>This group may publish Specifications.</p>",
+ "shortname": "autofill",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/cg/autofill"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/community/autofill/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/autofill/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/autofill/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/autofill/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/autofill/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/autofill/participations"
+  }
+ },
+ "type": "community group",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/autofill",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46012",
+   "title": "internal-autofill (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-autofill/",
+    "shortdesc": "internal-autofill",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46012"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46012/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46010",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#autofill",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46010"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46010/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46011",
+   "title": "public-autofill (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-autofill/",
+    "shortdesc": "public-autofill",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46011"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46011/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46009",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/autofill/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46009"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46009/groups"
+     }
+    }
+   }
+  }
+ ]
+}
