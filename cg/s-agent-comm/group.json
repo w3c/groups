@@ -3,7 +3,7 @@
  "name": "Semantic Agent Communication Community Group",
  "is_closed": false,
  "creation-date": "2025-11-13",
- "description": "<p>The group develops ontology and semantic structures for communication between AI agents operating as delegated and accountable technical principals. </p>\n\n<p>Work focuses on schemas for identity binding, capability disclosure, semantic intent modeling, structured delegation chains, and verifiable execution accountability that connect Web semantics with operating-system contexts and hardware-anchored trust elements. </p>\n\n<p>The objective is to establish a coherent semantic layer capable of supporting interoperable agent-to-agent communication across heterogeneous computational environments.</p>\n\n<p>This work extends Semantic Web foundations—including RDF, Linked Data, DID, and Verifiable Credentials. </p>\n\n<p>Toward agent-native interaction models. Outputs may include conceptual frameworks, shared vocabularies, data schemas, delegation ontologies, and draft interaction structures that may inform future standardization</p>",
+ "description": "<p>The group develops ontology and semantic structures for communication between AI agents operating as delegated and accountable technical principals. The work focuses on schemas for identity binding, capability disclosure, semantic intent modeling, structured delegation chains, and verifiable execution accountability that connect Web semantics with operating-system contexts and hardware-anchored trust elements. </p>\r\n\r\n<p>The objective is to establish a coherent semantic layer capable of supporting interoperable agent-to-agent communication across heterogeneous computational environments.</p>\r\n\r\n<p>This work extends Semantic Web foundations —including RDF, Linked Data, DID, and Verifiable Credentials— toward agent-native interaction models. Outputs may include conceptual frameworks, shared vocabularies, data schemas, delegation ontologies, and draft interaction structures that may inform future standardization.</p>",
  "shortname": "s-agent-comm",
  "spec-publisher": true,
  "discr": "w3cgroup",
@@ -35,6 +35,24 @@
  "group-type": "cg",
  "identifier": "cg/s-agent-comm",
  "services": [
+  {
+   "href": "https://api.w3.org/services/46008",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/s-agent-comm",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46008"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46008/groups"
+     }
+    }
+   }
+  },
   {
    "href": "https://api.w3.org/services/46003",
    "title": "internal-s-agent-comm (Mailing List)",
