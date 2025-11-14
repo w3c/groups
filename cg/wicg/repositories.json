@@ -2094,6 +2094,7 @@
   "owner": {
    "login": "WICG"
   },
+  "homepageUrl": "https://wicg.github.io/local-network-access/",
   "description": "A proposal to restrict sites from accessing a users' local network without permission",
   "isArchived": false,
   "isPrivate": false,
