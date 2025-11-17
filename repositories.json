@@ -2081,6 +2081,25 @@
   }
  },
  {
+  "name": "connection-allowlists",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "construct-stylesheets",
   "owner": {
    "login": "WICG"
