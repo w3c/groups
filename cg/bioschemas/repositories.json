@@ -30,6 +30,20 @@
   }
  },
  {
+  "name": "LearningPath-sandbox",
+  "owner": {
+   "login": "BioSchemas"
+  },
+  "description": "A sandbox for designing and annotating Learning Paths",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bioschemas"
+   ]
+  }
+ },
+ {
   "name": "ProfileGenerator",
   "owner": {
    "login": "BioSchemas"
