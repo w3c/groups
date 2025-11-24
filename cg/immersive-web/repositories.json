@@ -386,7 +386,8 @@
   "owner": {
    "login": "immersive-web"
   },
-  "description": "Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
+  "homepageUrl": "https://immersive-web.github.io/plane-detection/",
+  "description": "Additions to WebXR Device API for exposing detected planes.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
