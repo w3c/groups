@@ -626,6 +626,7 @@
   "owner": {
    "login": "WICG"
   },
+  "homepageUrl": "https://wicg.github.io/connection-allowlists/",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1838,6 +1839,26 @@
   },
   "description": "Specification for exposing input events to workers",
   "isArchived": true,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "install-element",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "An `<install>` element might be nice.",
+  "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
