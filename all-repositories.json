@@ -6833,7 +6833,7 @@
    "login": "WebAssembly"
   },
   "description": "Command-Line Interface (CLI) World for WASI",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -6847,7 +6847,7 @@
    "login": "WebAssembly"
   },
   "description": "Clocks API for WASI",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -6914,7 +6914,7 @@
    "login": "WebAssembly"
   },
   "description": "Filesystem API for WASI",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -6981,7 +6981,7 @@
    "login": "WebAssembly"
   },
   "description": "A collection of interfaces for sending and receiving HTTP requests and responses",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -7009,7 +7009,7 @@
    "login": "WebAssembly"
   },
   "description": "I/O Types proposal for WASI",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -7189,7 +7189,7 @@
    "login": "WebAssembly"
   },
   "description": "Entropy source API for WASI",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -7217,7 +7217,7 @@
    "login": "WebAssembly"
   },
   "description": "WASI API proposal for managing sockets",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
