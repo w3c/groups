@@ -1,0 +1,91 @@
+{
+ "id": 172982,
+ "name": "Web & AI Interest Group",
+ "is_closed": false,
+ "creation-date": "2025-11-27",
+ "description": "The mission of the Web & AI Interest Group is to provide a forum to explore and discuss how emerging Artificial Intelligence (AI) related technologies are impacting and intersecting with Web technologies and consider how the community could collaborate to shape these evolutions for the benefit of web users.",
+ "shortname": "webai",
+ "discr": "w3cgroup",
+ "_links": {
+  "self": {
+   "href": "https://api.w3.org/groups/ig/webai"
+  },
+  "homepage": {
+   "href": "https://www.w3.org/groups/ig/webai/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/ig/webai/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/ig/webai/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/ig/webai/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/ig/webai/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/ig/webai/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/ig/webai/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/ig/webai/charters/546"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/ig/webai/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/ig/webai/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/ig/webai/participations"
+  }
+ },
+ "type": "interest group",
+ "start-date": "2025-11-27",
+ "end-date": "2027-11-27",
+ "tr-publisher": true,
+ "group-type": "ig",
+ "identifier": "ig/webai",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46015",
+   "title": "issue tracking (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/webai/issues",
+    "shortdesc": "issue tracking",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46015"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46015/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46013",
+   "title": "public-webai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webai/",
+    "shortdesc": "public-webai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46013"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46013/groups"
+     }
+    }
+   }
+  }
+ ]
+}
