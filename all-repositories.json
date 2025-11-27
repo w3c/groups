@@ -36002,6 +36002,26 @@
   "isPrivate": false
  },
  {
+  "name": "webai",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "This repo used by Web & AI IG.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/webai"
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "webappsec",
   "owner": {
    "login": "w3c"
