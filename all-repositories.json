@@ -28225,7 +28225,19 @@
   },
   "description": "Documenting a11y extended descriptions, with an emphasis on digital publishing",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    100074,
+    "wg/pm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "article"
+   ]
+  }
  },
  {
   "name": "publ-bg",
