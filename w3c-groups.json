@@ -449,6 +449,117 @@
   ]
  },
  {
+  "id": 173028,
+  "name": "AI-Driven Web Standards Specification Community Group",
+  "is_closed": false,
+  "creation-date": "2025-11-28",
+  "description": "<p>The mission of this group is to develop AI-driven tools and methodologies to support the creation, evaluation, and publication of web standards specifications. This initiative emerges from a TPAC 2025 breakout session and builds upon foundational work by the <a href=\"https://www.w3.org/groups/cg/aikr/\">AI Knowledge Representation Community Group (AI KR CG)</a>, recognizing that the evolution of web standards development processes can benefit from thoughtful integration of artificial intelligence capabilities.</p>\r\n\r\n<p>The web standards development process has evolved organically over three decades, relying primarily on human expertise, collaborative discussion, and iterative refinement. While this approach has successfully produced robust standards, it faces several contemporary challenges. Artificial intelligence systems have demonstrated capabilities in natural language understanding, technical documentation generation, pattern recognition, and systematic evaluation that could augment human expertise in standards development. This group plans to explore how AI can serve as a collaborative tool while preserving the essential human judgment, domain expertise, and community consensus that define legitimate standards work.</p>\r\n\r\n<p>Vision: To develop open, transparent AI systems that augment human capability in web standards specification development, making the process more efficient, accessible, and robust while maintaining the integrity and consensus-driven nature of W3C standards.</p>",
+  "shortname": "aiwss",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/aiwss"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/aiwss/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/aiwss/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/aiwss/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/aiwss/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/aiwss/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/aiwss/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/aiwss",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46020",
+    "title": "internal-aiwss (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-aiwss/",
+     "shortdesc": "internal-aiwss",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46020"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46020/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46018",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#aiwss",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46018"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46018/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46019",
+    "title": "public-aiwss (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-aiwss/",
+     "shortdesc": "public-aiwss",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46019"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46019/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46017",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/aiwss/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46017"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46017/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 102172,
   "name": "ARIA Authoring Practices Task Force",
   "is_closed": false,
