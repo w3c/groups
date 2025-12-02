@@ -7130,6 +7130,20 @@
   }
  },
  {
+  "name": "wasi-otel",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "OpenTelemetry API for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ]
+  }
+ },
+ {
   "name": "wasi-parallel",
   "owner": {
    "login": "WebAssembly"
