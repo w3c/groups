@@ -52,6 +52,24 @@
  "identifier": "ig/webai",
  "services": [
   {
+   "href": "https://api.w3.org/services/46022",
+   "title": "IRC Channel (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://webirc.w3.org/?channels=webai",
+    "shortdesc": "IRC Channel",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46022"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46022/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46015",
    "title": "issue tracking (Issue Tracking)",
    "details": {
@@ -83,6 +101,24 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/46013/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46021",
+   "title": "Slack of Web& AI IG (Slack)",
+   "details": {
+    "closed": false,
+    "type": "slack",
+    "link": "https://w3ccommunity.slack.com/archives/C0A137BSSF6",
+    "shortdesc": "Slack of Web& AI IG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46021"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46021/groups"
      }
     }
    }
