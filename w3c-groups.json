@@ -22667,12 +22667,12 @@
   "services": [
    {
     "href": "https://api.w3.org/services/15493",
-    "title": "GitHub repositories (Version Control)",
+    "title": "GitHub repository (Version Control)",
     "details": {
      "closed": false,
      "type": "repository",
-     "link": "https://github.com/streamreasoning",
-     "shortdesc": "GitHub repositories",
+     "link": "https://github.com/w3c-cg/rsp",
+     "shortdesc": "GitHub repository",
      "_links": {
       "self": {
        "href": "https://api.w3.org/services/15493"
