@@ -9328,6 +9328,28 @@
   }
  },
  {
+  "name": "image-tracking",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/marker-tracking/",
+  "description": "Additions to the WebXR Device API for Marker Tracking. Repo contacts Rik Cabanier and Piotr Bialecki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    87846
+   ],
+   "contacts": [
+    "dontcallmedom",
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "immersive-web-weekly",
   "owner": {
    "login": "immersive-web"
@@ -9439,20 +9461,12 @@
   "owner": {
    "login": "immersive-web"
   },
-  "homepageUrl": "https://immersive-web.github.io/marker-tracking/",
-  "description": "Additions to the WebXR Device API for Marker Tracking. Repo contacts Rik Cabanier and Piotr Bialecki",
+  "description": "This feature is for adding the capability of tracking markers like QRCodes to WebXR",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    87846
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "cg-report"
+    "cg/immersive-web"
    ]
   }
  },
@@ -30654,6 +30668,14 @@
   },
   "homepageUrl": "https://w3c.github.io/threat-model-web/",
   "description": "A Threat Model for the Web",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "name": "threat-modeling-guide",
+  "owner": {
+   "login": "w3c"
+  },
   "isArchived": false,
   "isPrivate": false
  },
