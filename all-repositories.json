@@ -2418,6 +2418,25 @@
   }
  },
  {
+  "name": "delayed-message-timing",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "deprecation-reporting",
   "owner": {
    "login": "WICG"
@@ -28816,7 +28835,7 @@
     45211
    ],
    "contacts": [
-    "plehegar"
+    "carine"
    ],
    "shortName": "navigation-timing",
    "policy": "open",
