@@ -945,6 +945,25 @@
   }
  },
  {
+  "name": "delayed-message-timing",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "deprecation-reporting",
   "owner": {
    "login": "WICG"
