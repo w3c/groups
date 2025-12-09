@@ -30696,7 +30696,18 @@
    "login": "w3c"
   },
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49310
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
  },
  {
   "name": "time-series-and-spatial-data",
