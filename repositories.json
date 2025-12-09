@@ -26996,6 +26996,25 @@
   }
  },
  {
+  "name": "threat-modeling-guide",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "timed-text-dashboard",
   "owner": {
    "login": "w3c"
