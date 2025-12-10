@@ -27946,6 +27946,29 @@
   }
  },
  {
+  "name": "vc-charter-2026",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/vc-charter-2026/",
+  "description": "Charter proposal for the VC WG 2026",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc"
+   ],
+   "contacts": [
+    "pchampin",
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "process"
+   ]
+  }
+ },
+ {
   "name": "vc-confidence-method",
   "owner": {
    "login": "w3c"
