@@ -16247,6 +16247,8 @@
   "owner": {
    "login": "w3c-cg"
   },
+  "homepageUrl": "https://w3c-cg.github.io/s-agent-comm/",
+  "description": "Semantic Agent Communication Community Group",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -16254,7 +16256,8 @@
     "cg/s-agent-comm"
    ],
    "contacts": [
-    "ij@w3.org"
+    "ij@w3.org",
+    "w3c@slashlife.ai"
    ],
    "repo-type": [
     "cg-report"
