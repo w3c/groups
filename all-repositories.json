@@ -22754,11 +22754,12 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/htmlwg"
+    "wg/i18n-core"
    ],
    "contacts": [
-    "siusin",
-    "LJwatson",
+    "r12a",
+    "xfq",
+    "aphillips",
     "frivoal"
    ],
    "repo-type": [
