@@ -1,28 +1,5 @@
 [
  {
-  "name": "html-ruby",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/html-ruby-extensions/",
-  "description": "HTML Ruby Markup Extensions",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/htmlwg"
-   ],
-   "contacts": [
-    "siusin",
-    "LJwatson",
-    "frivoal"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "htmlwg",
   "owner": {
    "login": "w3c"
