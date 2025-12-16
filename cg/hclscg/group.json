@@ -90,25 +90,7 @@
    }
   },
   {
-   "href": "https://api.w3.org/services/6404",
-   "title": "public-hclscg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-hclscg/",
-    "shortdesc": "public-hclscg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6404"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6404/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/6405",
+   "href": "https://api.w3.org/services/46032",
    "title": "public-hclscg-contrib (Mailing List)",
    "details": {
     "closed": false,
@@ -117,10 +99,10 @@
     "shortdesc": "public-hclscg-contrib",
     "_links": {
      "self": {
-      "href": "https://api.w3.org/services/6405"
+      "href": "https://api.w3.org/services/46032"
      },
      "groups": {
-      "href": "https://api.w3.org/services/6405/groups"
+      "href": "https://api.w3.org/services/46032/groups"
      }
     }
    }
