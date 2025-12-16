@@ -1,11 +1,10 @@
 {
  "id": 92610,
  "name": "Semantic Web in Health Care and Life Sciences Community Group",
- "is_closed": true,
+ "is_closed": false,
  "creation-date": "2016-07-27",
  "description": "The mission of the Semantic Web Health Care and Life Sciences Community Group (HCLS CG) is to develop, advocate for, and support the use of Semantic Web technologies across health care, life sciences, clinical research and translational medicine.\r\nThese domains stand to gain tremendous benefit from intra- and inter-domain application of Semantic Web technologies as they depend on the interoperability of information from many disciplines.\r\n\r\nThe HCLS CG provides a forum for supporting, developing and applying Semantic Web technologies across healthcare, life sciences, clinical research and the continuum of translational medicine.\r\nWithin these contexts, the HCLS CG focuses on the use of Semantic Web technologies to realize specific use cases which themselves have a specific clinical, research of business values.\r\nAs use cases are developed, HCLS CG can solicit advice on technical matters from other Semantic Web related groups and give feedback on the use of technologies based on the work they do.\r\nThe CG may also develop ongoing and mutually productive liaisons with relevant external organizations in healthcare, life sciences, and clinical research, including organizations that are actively working on relevant standards and/or implementations to which the HCLS’s work might contribute.",
  "shortname": "hclscg",
- "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
@@ -34,5 +33,115 @@
  "type": "community group",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/hclscg"
+ "identifier": "cg/hclscg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15480",
+   "title": "HCLS FHIR GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/hcls-fhir-rdf",
+    "shortdesc": "HCLS FHIR GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15480"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15480/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15478",
+   "title": "HCLS GitHub organization (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/W3C-HCLS",
+    "shortdesc": "HCLS GitHub organization",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15478"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15478/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6403",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#hclscg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6403"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6403/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6404",
+   "title": "public-hclscg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-hclscg/",
+    "shortdesc": "public-hclscg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6404"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6404/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6405",
+   "title": "public-hclscg-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-hclscg-contrib/",
+    "shortdesc": "public-hclscg-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6405"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6405/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46031",
+   "title": "public-semweb-lifesci (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semweb-lifesci/",
+    "shortdesc": "public-semweb-lifesci",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46031"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46031/groups"
+     }
+    }
+   }
+  }
+ ]
 }
