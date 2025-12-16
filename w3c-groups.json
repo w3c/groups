@@ -18188,7 +18188,7 @@
   "name": "Nordic Accessibility Community Group",
   "is_closed": false,
   "creation-date": "2022-02-03",
-  "description": "The Nordic Accessibility Community Group serves as an open forum to discuss challenges, network with accessibility professionals, and promote the importance of digital accessibility and inclusive design in the Nordic region.",
+  "description": "The Nordic Accessibility Community Group brings together participants from across the Nordic region to exchange knowledge, discuss accessibility challenges, and collaborate on improving digital inclusion. The group provides a neutral space for sharing practical experience, comparing approaches across countries, and learning from the diverse perspectives of people working with accessibility in different roles and sectors.\r\n\r\nPeople may join as representatives of a company or organisation, but participation must stay focused on supporting the group’s discussions and activities. Per the CG Process, advertising, product promotion, and sales-driven contributions are not allowed.",
   "shortname": "nordic-accessibility",
   "spec-publisher": true,
   "discr": "w3cgroup",
@@ -26638,25 +26638,7 @@
     }
    },
    {
-    "href": "https://api.w3.org/services/6404",
-    "title": "public-hclscg (Mailing List)",
-    "details": {
-     "closed": false,
-     "type": "lists",
-     "link": "https://lists.w3.org/Archives/Public/public-hclscg/",
-     "shortdesc": "public-hclscg",
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/6404"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/6404/groups"
-      }
-     }
-    }
-   },
-   {
-    "href": "https://api.w3.org/services/6405",
+    "href": "https://api.w3.org/services/46032",
     "title": "public-hclscg-contrib (Mailing List)",
     "details": {
      "closed": false,
@@ -26665,10 +26647,10 @@
      "shortdesc": "public-hclscg-contrib",
      "_links": {
       "self": {
-       "href": "https://api.w3.org/services/6405"
+       "href": "https://api.w3.org/services/46032"
       },
       "groups": {
-       "href": "https://api.w3.org/services/6405/groups"
+       "href": "https://api.w3.org/services/46032/groups"
       }
      }
     }
