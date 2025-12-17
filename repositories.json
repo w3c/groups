@@ -8342,6 +8342,20 @@
   }
  },
  {
+  "name": "pact",
+  "owner": {
+   "login": "antifraudcg"
+  },
+  "description": "Design and implementation of PACT",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/antifraud"
+   ]
+  }
+ },
+ {
   "name": "proposals",
   "owner": {
    "login": "antifraudcg"
