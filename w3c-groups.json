@@ -10159,7 +10159,7 @@
   "creation-date": "2025-04-10",
   "description": "<p>The mission of the W3C Documentation Community Group (W3C Docs CG) is to ensure web developers and designers worldwide have the best information available so they can build things on the web platform.</p>\r\n\r\n<p>See its <a href=\"https://github.com/w3c-cg/webdocs/blob/main/charter.md\">charter</a>.</p>\r\n<p>This group will not publish Specifications.</p>",
   "shortname": "docs-cg",
-  "spec-publisher": true,
+  "spec-publisher": false,
   "discr": "w3cgroup",
   "_links": {
    "self": {
