@@ -616,6 +616,19 @@
   }
  },
  {
+  "name": "webxr-face-tracking-1",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ]
+  }
+ },
+ {
   "name": "webxr-input-profiles",
   "owner": {
    "login": "immersive-web"
