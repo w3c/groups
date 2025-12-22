@@ -599,20 +599,6 @@
   }
  },
  {
-  "name": "MapMLServer",
-  "owner": {
-   "login": "Maps4HTML"
-  },
-  "description": "Servlet for service-based MapML documents",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/maps4html"
-   ]
-  }
- },
- {
   "name": "MapServer-documentation",
   "owner": {
    "login": "Maps4HTML"
