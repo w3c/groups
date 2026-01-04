@@ -29009,7 +29009,28 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/ruby-t2s-req/",
+  "description": "New repository: https://github.com/w3c/ruby-tts-req",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    109193
+   ],
+   "contacts": [
+    "rishida",
+    "himorin",
+    "xfq"
+   ],
+   "shortName": "ruby-tts-req",
+   "policy": "restricted"
+  }
+ },
+ {
+  "name": "ruby-tts-req",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/ruby-tts-req/",
   "description": "Text to Speech of Electronic Documents Containing Ruby: User Requirements",
   "isArchived": false,
   "isPrivate": false,
@@ -29019,9 +29040,10 @@
    ],
    "contacts": [
     "rishida",
-    "himorin"
+    "himorin",
+    "xfq"
    ],
-   "shortName": "ruby-tts-reqs",
+   "shortName": "ruby-tts-req",
    "policy": "restricted"
   }
  },
