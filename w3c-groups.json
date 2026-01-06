@@ -13732,6 +13732,117 @@
   ]
  },
  {
+  "id": 173846,
+  "name": "India Digital Accessibility Advocacy Network (IDAAN) Community Group",
+  "is_closed": false,
+  "creation-date": "2026-01-06",
+  "description": "<p>India Digital Accessibility Advocacy Network (IDAAN) is a national platform dedicated to advancing digital accessibility and inclusive technology practices across the country. The network focuses on creating awareness, building capacity, promoting compliance with WCAG and Indian accessibility requirements, and strengthening advocacy for equal digital access. By bringing together government bodies, industry leaders, academic institutions, developers, and the disability community, the initiative works to drive measurable impact, encourage widespread adoption of accessible digital solutions, and support a barrier-free digital ecosystem for all.</p>",
+  "shortname": "idaan",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/idaan"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/idaan/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/idaan/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/idaan/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/idaan/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/idaan/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/idaan/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/idaan",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46037",
+    "title": "internal-idaan (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-idaan/",
+     "shortdesc": "internal-idaan",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46037"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46037/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46035",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#idaan",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46035"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46035/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46036",
+    "title": "public-idaan (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-idaan/",
+     "shortdesc": "public-idaan",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46036"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46036/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46034",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/idaan/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46034"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46034/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 163512,
   "name": "India Digital Accessibility Initiative Community Group",
   "is_closed": false,
@@ -15011,7 +15122,7 @@
     "href": "https://api.w3.org/groups/wg/json-ld/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/json-ld/charters/475"
+    "href": "https://api.w3.org/groups/wg/json-ld/charters/548"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/json-ld/join"
@@ -15025,7 +15136,7 @@
   },
   "type": "working group",
   "start-date": "2018-06-07",
-  "end-date": "2026-05-30",
+  "end-date": "2028-01-31",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/json-ld",
@@ -34859,7 +34970,7 @@
   },
   "type": "working group",
   "start-date": "2020-09-08",
-  "end-date": "2025-12-31",
+  "end-date": "2026-06-30",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/webtransport",
