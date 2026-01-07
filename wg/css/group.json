@@ -51,24 +51,6 @@
  "identifier": "wg/css",
  "services": [
   {
-   "href": "https://api.w3.org/services/26011",
-   "title": "CSSWG X (X)",
-   "details": {
-    "closed": false,
-    "type": "x",
-    "link": "https://x.com/csswg",
-    "shortdesc": "CSSWG X",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/26011"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/26011/groups"
-     }
-    }
-   }
-  },
-  {
    "href": "https://api.w3.org/services/15623",
    "title": "current-work (Other)",
    "details": {
