@@ -1,10 +1,11 @@
 {
  "id": 115035,
  "name": "Web & Networks Interest Group",
- "is_closed": false,
+ "is_closed": true,
  "creation-date": "2019-05-15",
  "description": "The mission of the Web &amp; Networks Interest Group is to explore solutions for web applications to leverage network capabilities in order to achieve better performance and resources allocation, both on the device and network.",
  "shortname": "web-networks",
+ "closed_date": "2026-01-12",
  "discr": "w3cgroup",
  "_links": {
   "self": {
@@ -49,43 +50,5 @@
  "end-date": "2025-12-31",
  "tr-publisher": true,
  "group-type": "ig",
- "identifier": "ig/web-networks",
- "services": [
-  {
-   "href": "https://api.w3.org/services/15608",
-   "title": "member-networks-ig (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-networks-ig/",
-    "shortdesc": "member-networks-ig",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15608"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15608/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/15607",
-   "title": "public-networks-ig (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-networks-ig/",
-    "shortdesc": "public-networks-ig",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15607"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15607/groups"
-     }
-    }
-   }
-  }
- ]
+ "identifier": "ig/web-networks"
 }
