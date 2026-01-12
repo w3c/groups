@@ -29832,6 +29832,26 @@
   }
  },
  {
+  "name": "socialwebwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Social Web Working Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/socialweb"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "homepage"
+   ]
+  }
+ },
+ {
   "name": "sparql-concepts",
   "owner": {
    "login": "w3c"
