@@ -1646,25 +1646,6 @@
   }
  },
  {
-  "name": "address-autofill",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "admin",
   "owner": {
    "login": "WICG"
@@ -1810,6 +1791,26 @@
    ],
    "contacts": [
     "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "autofill-event",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/autofill-event/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
    ],
    "repo-type": [
     "cg-report"
@@ -19097,6 +19098,26 @@
   }
  },
  {
+  "name": "breakouts-day-2026",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "groups": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ]
+  }
+ },
+ {
   "name": "browser-compat-data",
   "owner": {
    "login": "w3c"
@@ -29416,7 +29437,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    102
+    "ig/security"
    ],
    "contacts": [
     "sonofri"
@@ -36096,7 +36117,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/webappsec-passkey-endpoints/",
+  "homepageUrl": "https://www.w3.org/TR/passkey-endpoints/",
   "description": "A well-known URL for passkey relying party endpoints",
   "isArchived": false,
   "isPrivate": false,
