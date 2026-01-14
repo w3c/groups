@@ -1,5 +1,27 @@
 [
  {
+  "name": "security-disclosure",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/security-disclosure/",
+  "description": "W3C Standards Vulnerability Disclosure & Handling Process and Policy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "sonofri"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "security-guidelines-cryptography",
   "owner": {
    "login": "w3c"
