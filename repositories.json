@@ -1646,25 +1646,6 @@
   }
  },
  {
-  "name": "address-autofill",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ]
-  }
- },
- {
   "name": "admin",
   "owner": {
    "login": "WICG"
@@ -1810,6 +1791,26 @@
    ],
    "contacts": [
     "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
+  "name": "autofill-event",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/autofill-event/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
    ],
    "repo-type": [
     "cg-report"
@@ -26209,6 +26210,28 @@
   }
  },
  {
+  "name": "security-disclosure",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/security-disclosure/",
+  "description": "W3C Standards Vulnerability Disclosure & Handling Process and Policy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "sonofri"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "security-guidelines-cryptography",
   "owner": {
    "login": "w3c"
@@ -30365,7 +30388,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/webappsec-passkey-endpoints/",
+  "homepageUrl": "https://www.w3.org/TR/passkey-endpoints/",
   "description": "A well-known URL for passkey relying party endpoints",
   "isArchived": false,
   "isPrivate": false,
