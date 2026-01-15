@@ -1,18 +1,17 @@
 {
  "id": 72531,
  "name": "Social Web Working Group",
- "is_closed": true,
+ "is_closed": false,
  "creation-date": "2014-07-16",
- "description": "The mission of the Social Web Working Group, part of the  Social Activity, is to define the techical protocols, vocabularies, and  APIs to facilitate access to social functionality as part of the Open  Web Platform. These technologies should allow communication between  indepedent systems, federation (also called \"decentralization\") being  part of the design.",
+ "description": "The mission of the Social Web Working Group is to maintain the W3C Recommendations, as well as related Notes, in the area of the Social Web and may also adopt tentative deliverables.",
  "shortname": "social",
- "closed_date": "2018-02-13",
  "discr": "w3cgroup",
  "_links": {
   "self": {
    "href": "https://api.w3.org/groups/wg/social"
   },
   "homepage": {
-   "href": "https://www.w3.org/Social/WG"
+   "href": "https://www.w3.org/groups/wg/social/"
   },
   "users": {
    "href": "https://api.w3.org/groups/wg/social/users"
@@ -33,7 +32,7 @@
    "href": "https://api.w3.org/groups/wg/social/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/social/charters/127"
+   "href": "https://api.w3.org/groups/wg/social/charters/549"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/social/join"
@@ -47,8 +46,28 @@
  },
  "type": "working group",
  "start-date": "2014-07-21",
- "end-date": "2018-01-31",
+ "end-date": "2028-01-31",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/social"
+ "identifier": "wg/social",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2897",
+   "title": "public-socialweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-socialweb/",
+    "shortdesc": "public-socialweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2897"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2897/groups"
+     }
+    }
+   }
+  }
+ ]
 }
