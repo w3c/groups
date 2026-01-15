@@ -845,6 +845,27 @@
   }
  },
  {
+  "name": "cross-origin-storage",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://wicg.github.io/cross-origin-storage/",
+  "description": "Explainer for the Cross-Origin Storage (COS) API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ]
+  }
+ },
+ {
   "name": "csp-next",
   "owner": {
    "login": "WICG"
