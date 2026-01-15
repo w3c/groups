@@ -27046,6 +27046,79 @@
   ]
  },
  {
+  "id": 72531,
+  "name": "Social Web Working Group",
+  "is_closed": false,
+  "creation-date": "2014-07-16",
+  "description": "The mission of the Social Web Working Group is to maintain the W3C Recommendations, as well as related Notes, in the area of the Social Web and may also adopt tentative deliverables.",
+  "shortname": "social",
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/wg/social"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/groups/wg/social/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/wg/social/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/wg/social/services"
+   },
+   "specifications": {
+    "href": "https://api.w3.org/groups/wg/social/specifications"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/wg/social/chairs"
+   },
+   "team-contacts": {
+    "href": "https://api.w3.org/groups/wg/social/teamcontacts"
+   },
+   "charters": {
+    "href": "https://api.w3.org/groups/wg/social/charters"
+   },
+   "active-charter": {
+    "href": "https://api.w3.org/groups/wg/social/charters/549"
+   },
+   "join": {
+    "href": "https://www.w3.org/groups/wg/social/join"
+   },
+   "pp-status": {
+    "href": "https://www.w3.org/groups/wg/social/ipr"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/wg/social/participations"
+   }
+  },
+  "type": "working group",
+  "start-date": "2014-07-21",
+  "end-date": "2028-01-31",
+  "tr-publisher": true,
+  "group-type": "wg",
+  "identifier": "wg/social",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/2897",
+    "title": "public-socialweb (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-socialweb/",
+     "shortdesc": "public-socialweb",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/2897"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/2897/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 110151,
   "name": "Solid Community Group",
   "is_closed": false,
