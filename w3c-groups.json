@@ -27099,6 +27099,24 @@
   "identifier": "wg/social",
   "services": [
    {
+    "href": "https://api.w3.org/services/46038",
+    "title": "Group issues (Issue Tracking)",
+    "details": {
+     "closed": false,
+     "type": "tracker",
+     "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/social",
+     "shortdesc": "Group issues",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46038"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46038/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/2897",
     "title": "public-socialweb (Mailing List)",
     "details": {
