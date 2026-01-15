@@ -29874,16 +29874,17 @@
   }
  },
  {
-  "name": "socialwebwg",
+  "name": "socialwg",
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://www.w3.org/groups/wg/social/",
   "description": "Social Web Working Group",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/socialweb"
+    "wg/social"
    ],
    "contacts": [
     "plehegar"
@@ -35170,7 +35171,15 @@
    "login": "w3c"
   },
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "remibetin"
+   ],
+   "repo-type": [
+    "others"
+   ]
+  }
  },
  {
   "name": "wai-website-theme",
