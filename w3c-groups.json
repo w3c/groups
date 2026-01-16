@@ -15829,10 +15829,10 @@
  },
  {
   "id": 161216,
-  "name": "Linked Web Storage chairs",
+  "name": "Linked Web Storage Working Group Chairs",
   "is_closed": false,
   "creation-date": "2024-10-22",
-  "shortname": "lws-chairs",
+  "shortname": "lws-wg-chairs",
   "members": [
    {
     "id": 159634,
@@ -15893,20 +15893,23 @@
   "discr": "tf",
   "_links": {
    "self": {
-    "href": "https://api.w3.org/groups/tf/lws-chairs"
+    "href": "https://api.w3.org/groups/tf/lws-wg-chairs"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/groups/tf/lws-wg-chairs/"
    },
    "users": {
-    "href": "https://api.w3.org/groups/tf/lws-chairs/users"
+    "href": "https://api.w3.org/groups/tf/lws-wg-chairs/users"
    },
    "services": {
-    "href": "https://api.w3.org/groups/tf/lws-chairs/services"
+    "href": "https://api.w3.org/groups/tf/lws-wg-chairs/services"
    },
    "chairs": {
-    "href": "https://api.w3.org/groups/tf/lws-chairs/chairs"
+    "href": "https://api.w3.org/groups/tf/lws-wg-chairs/chairs"
    }
   },
   "tr-publisher": false,
-  "identifier": "tf/lws-chairs",
+  "identifier": "tf/lws-wg-chairs",
   "group-type": "tf",
   "services": []
  },
@@ -23635,10 +23638,10 @@
  },
  {
   "id": 143171,
-  "name": "RDF-star WG chairs",
+  "name": "RDF-star Working Group Chairs",
   "is_closed": false,
   "creation-date": "2023-03-17",
-  "shortname": "rdf-star-chairs",
+  "shortname": "rdf-star-wg-chairs",
   "members": [
    {
     "id": 139681,
@@ -23699,20 +23702,23 @@
   "discr": "tf",
   "_links": {
    "self": {
-    "href": "https://api.w3.org/groups/tf/rdf-star-chairs"
+    "href": "https://api.w3.org/groups/tf/rdf-star-wg-chairs"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/groups/tf/rdf-star-wg-chairs/"
    },
    "users": {
-    "href": "https://api.w3.org/groups/tf/rdf-star-chairs/users"
+    "href": "https://api.w3.org/groups/tf/rdf-star-wg-chairs/users"
    },
    "services": {
-    "href": "https://api.w3.org/groups/tf/rdf-star-chairs/services"
+    "href": "https://api.w3.org/groups/tf/rdf-star-wg-chairs/services"
    },
    "chairs": {
-    "href": "https://api.w3.org/groups/tf/rdf-star-chairs/chairs"
+    "href": "https://api.w3.org/groups/tf/rdf-star-wg-chairs/chairs"
    }
   },
   "tr-publisher": false,
-  "identifier": "tf/rdf-star-chairs",
+  "identifier": "tf/rdf-star-wg-chairs",
   "group-type": "tf",
   "services": []
  },
@@ -31192,7 +31198,7 @@
     "href": "https://api.w3.org/groups/wg/webapps/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/webapps/charters/497"
+    "href": "https://api.w3.org/groups/wg/webapps/charters/550"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/webapps/join"
@@ -31206,7 +31212,7 @@
   },
   "type": "working group",
   "start-date": "2019-05-14",
-  "end-date": "2026-02-28",
+  "end-date": "2028-01-31",
   "tr-publisher": true,
   "group-type": "wg",
   "identifier": "wg/webapps",
@@ -32961,7 +32967,7 @@
     "href": "https://api.w3.org/groups/wg/payments"
    },
    "homepage": {
-    "href": "https://www.w3.org/Payments/WG/"
+    "href": "https://www.w3.org/groups/wg/payments/"
    },
    "users": {
     "href": "https://api.w3.org/groups/wg/payments/users"
@@ -33007,7 +33013,7 @@
     "details": {
      "closed": false,
      "type": "blog",
-     "link": "https://www.w3.org/blog/wpwg/",
+     "link": "https://www.w3.org/blog/tags/web-payments/",
      "shortdesc": "Blog",
      "_links": {
       "self": {
