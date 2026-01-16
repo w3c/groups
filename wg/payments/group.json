@@ -11,7 +11,7 @@
    "href": "https://api.w3.org/groups/wg/payments"
   },
   "homepage": {
-   "href": "https://www.w3.org/Payments/WG/"
+   "href": "https://www.w3.org/groups/wg/payments/"
   },
   "users": {
    "href": "https://api.w3.org/groups/wg/payments/users"
@@ -57,7 +57,7 @@
    "details": {
     "closed": false,
     "type": "blog",
-    "link": "https://www.w3.org/blog/wpwg/",
+    "link": "https://www.w3.org/blog/tags/web-payments/",
     "shortdesc": "Blog",
     "_links": {
      "self": {
