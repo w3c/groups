@@ -14808,6 +14808,21 @@
   }
  },
  {
+  "name": "did-cel-spec",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "homepageUrl": "https://w3c-ccg.github.io/did-cel-spec/",
+  "description": "A DID Method using Cryptographic event logs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ]
+  }
+ },
+ {
   "name": "did-explainer",
   "owner": {
    "login": "w3c-ccg"
