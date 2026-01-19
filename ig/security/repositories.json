@@ -86,6 +86,26 @@
   }
  },
  {
+  "name": "threat-model-decentralized-credentials",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/threat-model-decentralized-credentials/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
+ },
+ {
   "name": "threat-modeling-guide",
   "owner": {
    "login": "w3c"
