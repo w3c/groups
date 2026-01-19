@@ -22091,6 +22091,8 @@
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://w3c.github.io/generic-sensor-demos/",
+  "description": "Demos for Generic Sensor API",
   "isArchived": false,
   "isPrivate": false
  },
@@ -30855,7 +30857,18 @@
   },
   "homepageUrl": "https://w3c.github.io/threat-model-decentralized-credentials/",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49310
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ]
+  }
  },
  {
   "name": "threat-model-web",
