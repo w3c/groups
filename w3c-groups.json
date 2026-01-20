@@ -29351,6 +29351,117 @@
   ]
  },
  {
+  "id": 174140,
+  "name": "User Journey Graph (UJG) Community Group",
+  "is_closed": false,
+  "creation-date": "2026-01-20",
+  "description": "<p><strong>Problem:</strong> User journeys are often documented as diagrams and narratives, but they rarely get implemented as designed. Design and Product lack a precise artifact they can follow 1:1, and Engineering lacks a clear way to validate whether the implementation matches the intended journey.</p>\n\n<p><strong>Mission:</strong> The User Journey Graph (UJG) Community Group will define an interoperable, machine-readable representation of user journeys so that design, PM, and engineering can share the same explicit “source of truth” and verify alignment over time.</p>\n\n<p><strong>Scope:</strong> Define the core UJG model and modular specifications (e.g., serialization), plus guidance and examples for exchanging, reviewing, versioning, and validating journeys across tools.</p>\n\n<ul>\n  <li><strong>Editor’s drafts:</strong> <a href=\"https://ujg.specs.openuji.org/\">https://ujg.specs.openuji.org/</a></li>\n  <li><strong>Repository:</strong> <a href=\"https://github.com/openuji/spec-ujg\">https://github.com/openuji/spec-ujg</a></li>\n</ul>\n\n<p><strong>Who should participate:</strong> People building journey/UX tooling, product analytics, workflow/process mining, graph data, and interoperability formats.</p>\n\n<p>This group may publish Specifications.</p>",
+  "shortname": "ujg",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/ujg"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/ujg/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/ujg/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/ujg/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/ujg/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/ujg/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/ujg/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/ujg",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46043",
+    "title": "internal-ujg (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-ujg/",
+     "shortdesc": "internal-ujg",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46043"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46043/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46041",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#ujg",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46041"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46041/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46042",
+    "title": "public-ujg (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-ujg/",
+     "shortdesc": "public-ujg",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46042"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46042/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46040",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/ujg/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46040"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46040/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 98922,
   "name": "Verifiable Credentials Working Group",
   "is_closed": false,
