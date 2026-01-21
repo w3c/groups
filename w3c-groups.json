@@ -29356,45 +29356,45 @@
   "is_closed": false,
   "creation-date": "2026-01-21",
   "description": "<p>The mission of this group is to define a universal, modular, and interoperable set of data schemas for health information. Our goal is to enable the aggregation and utilization of data for medical research and AI training through privacy-enhancing technologies (PETs) like Zero-Knowledge Proofs (ZKPs), while ensuring patient control and consent via Verifiable Credentials (VCs).</p>\r\n\r\n<h4>Scope and Problem Statement</h4>\r\n\r\n<p>The development of robust medical AI is hampered by siloed, non-standardized, and sensitive health data. Current data formats are incompatible across institutions, and privacy regulations prevent the sharing of raw data, creating a significant barrier to collaborative research. This group will address this by creating schemas that transform health data into standardized, verifiable, and privacy-preserving assets.</p>\r\n\r\n<h4>Key Deliverables</h4>\r\n\r\n<ul>\r\n<li>A core set of modular, extensible Verifiable Credential schemas for common medical data types (e.g., lab results, imaging reports, prescriptions, diagnoses)</li>\r\n<li>Best practice guidelines for issuing these VCs from trusted sources (e.g., hospitals, clinics)</li>\r\n<li>Specifications for generating Zero-Knowledge Proofs from these VCs to enable privacy-preserving queries and analytics</li>\r\n<li>Use cases and implementation patterns for federated learning and AI model training using the proposed schemas and ZKP protocols</li>\r\n</ul>",
-  "shortname": "sirraya-uhds",
+  "shortname": "uhds",
   "spec-publisher": true,
   "discr": "w3cgroup",
   "_links": {
    "self": {
-    "href": "https://api.w3.org/groups/cg/sirraya-uhds"
+    "href": "https://api.w3.org/groups/cg/uhds"
    },
    "homepage": {
-    "href": "https://www.w3.org/community/sirraya-uhds/"
+    "href": "https://www.w3.org/community/uhds/"
    },
    "users": {
-    "href": "https://api.w3.org/groups/cg/sirraya-uhds/users"
+    "href": "https://api.w3.org/groups/cg/uhds/users"
    },
    "services": {
-    "href": "https://api.w3.org/groups/cg/sirraya-uhds/services"
+    "href": "https://api.w3.org/groups/cg/uhds/services"
    },
    "chairs": {
-    "href": "https://api.w3.org/groups/cg/sirraya-uhds/chairs"
+    "href": "https://api.w3.org/groups/cg/uhds/chairs"
    },
    "join": {
-    "href": "https://www.w3.org/community/sirraya-uhds/join"
+    "href": "https://www.w3.org/community/uhds/join"
    },
    "participations": {
-    "href": "https://api.w3.org/groups/cg/sirraya-uhds/participations"
+    "href": "https://api.w3.org/groups/cg/uhds/participations"
    }
   },
   "type": "community group",
   "tr-publisher": false,
   "group-type": "cg",
-  "identifier": "cg/sirraya-uhds",
+  "identifier": "cg/uhds",
   "services": [
    {
     "href": "https://api.w3.org/services/46047",
-    "title": "internal-sirraya-uhds (Mailing List)",
+    "title": "internal-uhds (Mailing List)",
     "details": {
      "closed": false,
      "type": "lists",
-     "link": "https://lists.w3.org/Archives/Member/internal-sirraya-uhds/",
-     "shortdesc": "internal-sirraya-uhds",
+     "link": "https://lists.w3.org/Archives/Member/internal-uhds/",
+     "shortdesc": "internal-uhds",
      "_links": {
       "self": {
        "href": "https://api.w3.org/services/46047"
@@ -29411,7 +29411,7 @@
     "details": {
      "closed": false,
      "type": "chat",
-     "link": "irc://irc.w3.org/#sirraya-uhds",
+     "link": "irc://irc.w3.org/#uhds",
      "shortdesc": "IRC",
      "_links": {
       "self": {
@@ -29425,12 +29425,12 @@
    },
    {
     "href": "https://api.w3.org/services/46046",
-    "title": "public-sirraya-uhds (Mailing List)",
+    "title": "public-uhds (Mailing List)",
     "details": {
      "closed": false,
      "type": "lists",
-     "link": "https://lists.w3.org/Archives/Public/public-sirraya-uhds/",
-     "shortdesc": "public-sirraya-uhds",
+     "link": "https://lists.w3.org/Archives/Public/public-uhds/",
+     "shortdesc": "public-uhds",
      "_links": {
       "self": {
        "href": "https://api.w3.org/services/46046"
@@ -29447,7 +29447,7 @@
     "details": {
      "closed": false,
      "type": "rss",
-     "link": "https://www.w3.org/community/sirraya-uhds/feed/",
+     "link": "https://www.w3.org/community/uhds/feed/",
      "shortdesc": "RSS",
      "_links": {
       "self": {
