@@ -1028,7 +1028,7 @@
   },
   "homepageUrl": "https://wicg.github.io/devtools-protocol/specification/docs/domains/",
   "description": "DevTools Protocol",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
@@ -3769,7 +3769,7 @@
   },
   "homepageUrl": "https://drafts.csswg.org/mediaqueries-5/#auto-pref%E2%91%A0",
   "description": "The Web Preference API aims to provide a way for sites to override the value for a given user preference (e.g. color-scheme preference) in a way that fully integrates with existing Web APIs.",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false,
   "w3cjson": {
    "group": [
