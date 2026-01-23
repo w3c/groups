@@ -200,6 +200,27 @@
   }
  },
  {
+  "name": "generic-sensor-demos",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/generic-sensor-demos/",
+  "description": "Demos for Generic Sensor API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/das"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
+ },
+ {
   "name": "geolocation",
   "owner": {
    "login": "w3c"
