@@ -22094,7 +22094,18 @@
   "homepageUrl": "https://w3c.github.io/generic-sensor-demos/",
   "description": "Demos for Generic Sensor API",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    43696
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "tool"
+   ]
+  }
  },
  {
   "name": "geofencing-api",
@@ -29846,7 +29857,7 @@
   "isPrivate": false,
   "w3cjson": {
    "contacts": [
-    "ashimura"
+    "plehegar"
    ],
    "repo-type": [
     "workshop"
