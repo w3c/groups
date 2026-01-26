@@ -18,7 +18,8 @@
    "shortName": "wot-architecture",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -41,7 +42,8 @@
    "shortName": "wot-binding-registry",
    "repo-type": [
     "registry"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
    "shortName": "wot-binding-templates",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -85,7 +88,8 @@
    "shortName": "wot-discovery",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -106,7 +110,8 @@
    "shortName": "wot-ejs",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -127,7 +132,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -149,7 +155,8 @@
    "shortName": "wot-scripting-api",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -171,7 +178,8 @@
    "shortName": "wot-security",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -193,7 +201,8 @@
    "shortName": "wot-security-best-practices",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -214,7 +223,8 @@
    "shortName": "wot-security-testing-plan",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -236,7 +246,8 @@
    "shortName": "wot-thing-description",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -258,7 +269,8 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
