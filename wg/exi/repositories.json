@@ -16,8 +16,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -38,8 +37,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
