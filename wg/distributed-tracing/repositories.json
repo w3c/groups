@@ -18,7 +18,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -40,7 +41,8 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -62,7 +64,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -84,7 +87,8 @@
    "policy": "open",
    "repo-type": [
     "registry"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -106,7 +110,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -128,7 +133,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -150,7 +156,8 @@
    "policy": "open",
    "repo-type": [
     "registry"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
