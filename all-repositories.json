@@ -17237,22 +17237,25 @@
   "isPrivate": false
  },
  {
-  "name": "3ds",
+  "name": "AB-memberonly",
   "owner": {
    "login": "w3c"
   },
+  "homepageUrl": "https://www.w3.org/2002/ab/",
+  "description": "W3C Advisory Board's Member-visible issues repository",
   "isArchived": false,
-  "isPrivate": false,
+  "isPrivate": true,
   "w3cjson": {
    "group": [
-    83744
+    7756
    ],
    "contacts": [
-    "ianbjacobs"
+    "swickr"
    ],
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -17264,6 +17267,28 @@
   "description": "AB Members over time",
   "isArchived": false,
   "isPrivate": false
+ },
+ {
+  "name": "AB-private",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/2002/ab/",
+  "description": "W3C Advisory Board's private repository",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    7756
+   ],
+   "contacts": [
+    "swickr"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
  },
  {
   "name": "AB-public",
@@ -18871,27 +18896,6 @@
   }
  },
  {
-  "name": "automotive-pay",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://github.com/w3c/automotive-pay/wiki",
-  "description": "Automotive Web Payments Task Force",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "automotive-viss2",
   "owner": {
    "login": "w3c"
@@ -19079,6 +19083,29 @@
    "repo-type": [
     "cg-report"
    ]
+  }
+ },
+ {
+  "name": "board",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/Member/bod/",
+  "description": "Member-visible Board of Directors materials; for persistent references please use the mirror https://www.w3.org/Member/bod/",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    "other/board"
+   ],
+   "contacts": [
+    "rswick",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "other"
+   ],
+   "exposed": true
   }
  },
  {
@@ -25805,25 +25832,6 @@
   "isPrivate": false
  },
  {
-  "name": "merchant-validation",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
- },
- {
   "name": "merchantcg",
   "owner": {
    "login": "w3c"
@@ -27126,27 +27134,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
-  }
- },
- {
-  "name": "payment-method-credit-transfer",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webpayments-methods-credit-transfer-direct-debit/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-methods-credit-transfer-direct-debit",
-   "repo-type": [
-    "others"
    ]
   }
  },
@@ -29727,24 +29714,6 @@
   "isPrivate": false
  },
  {
-  "name": "shacl",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "SHACL Community Group (Post-REC activitities)",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "caribouW3"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "archive"
-   ]
-  }
- },
- {
   "name": "shacl-resources",
   "owner": {
    "login": "w3c"
@@ -30361,25 +30330,6 @@
   "description": "HTML Fork Management",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "name": "src",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "rec-track"
-   ]
-  }
  },
  {
   "name": "stackoverflow",
@@ -36467,27 +36417,6 @@
   }
  },
  {
-  "name": "webauthn-pay",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Joint task force of Web Authentication WG and Web Payments WG",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87227,
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "project"
-   ]
-  }
- },
- {
   "name": "webcodecs",
   "owner": {
    "login": "w3c"
@@ -36785,27 +36714,6 @@
   }
  },
  {
-  "name": "webpayments-crypto",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://github.com/w3c/webpayments-crypto/wiki",
-  "description": "Crypto discussions of the Web Payments Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "Ian"
-   ],
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "webpayments-flows",
   "owner": {
    "login": "w3c"
@@ -36827,49 +36735,6 @@
   }
  },
  {
-  "name": "webpayments-http-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webpayments-http-api/",
-  "description": "Web Payments HTTP APIs for payment app registration, payment requests, and payment responses.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "note"
-   ]
-  }
- },
- {
-  "name": "webpayments-http-messages",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webpayments-http-messages/",
-  "description": "W3C Web Payments messages typically passed between the systems that inititate, execute, and finalize Web-based payments.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-core-messages",
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
   "name": "webpayments-ig",
   "owner": {
    "login": "w3c"
@@ -36877,49 +36742,6 @@
   "description": "Web Payments Interest Group",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "name": "webpayments-methods-tokenization",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/webpayments-methods-tokenization/index.html",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-methods-tokenization",
-   "repo-type": [
-    "others"
-   ]
-  }
- },
- {
-  "name": "webpayments-overview",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/webpayments-overview/",
-  "description": "An overview of the Web Payments ecosystem",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    83744
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "webpayments-overview",
-   "repo-type": [
-    "note"
-   ]
-  }
  },
  {
   "name": "webperf-dashboard",
@@ -38119,67 +37941,6 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
-  }
- },
- {
-  "name": "wp-theme-css",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/blog/CSS/",
-  "description": "Wordpress theme for CSS",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    122803
-   ],
-   "contacts": [
-    "jean-gui"
-   ],
-   "repo-type": [
-    "tool"
-   ]
-  }
- },
- {
-  "name": "wp-theme-i18n",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/blog/International/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    122803
-   ],
-   "contacts": [
-    "jean-gui"
-   ],
-   "repo-type": [
-    "tool"
-   ]
-  }
- },
- {
-  "name": "wp-theme-w3c",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/blog/wpwg/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    122803
-   ],
-   "contacts": [
-    "jean-gui"
-   ],
-   "repo-type": [
-    "tool"
    ]
   }
  },
