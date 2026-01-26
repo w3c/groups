@@ -15,8 +15,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -39,8 +38,7 @@
     "homepage",
     "cg-report"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  }
 ]
