@@ -17,8 +17,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -39,8 +38,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -62,8 +60,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -85,8 +82,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -108,8 +104,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -132,8 +127,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -154,8 +148,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -176,8 +169,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -200,8 +192,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -225,8 +216,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -248,8 +238,7 @@
    "repo-type": [
     "others"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -272,8 +261,7 @@
     "homepage",
     "others"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -295,8 +283,7 @@
    "repo-type": [
     "tool"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -317,8 +304,7 @@
    "repo-type": [
     "article"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -339,8 +325,7 @@
    "repo-type": [
     "article"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -362,8 +347,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -384,8 +368,7 @@
    "repo-type": [
     "others"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -407,8 +390,7 @@
    "repo-type": [
     "process"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -430,8 +412,7 @@
    "repo-type": [
     "tests"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -454,8 +435,7 @@
     "homepage",
     "others"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -476,8 +456,7 @@
    "repo-type": [
     "article"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -501,8 +480,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -524,8 +502,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -549,8 +526,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -572,8 +548,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -594,8 +569,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -615,8 +589,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -638,8 +611,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -661,8 +633,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -686,8 +657,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -708,8 +678,7 @@
    ],
    "group": [
     "wg/i18n-core"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -732,8 +701,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -755,8 +723,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -777,8 +744,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -798,8 +764,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -820,8 +785,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -845,8 +809,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -868,8 +831,7 @@
    "repo-type": [
     "others"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -891,8 +853,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -914,8 +875,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  }
 ]
