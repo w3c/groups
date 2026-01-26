@@ -11,7 +11,8 @@
    "group": [
     "tf/indie-ui-tf"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  }
 ]
