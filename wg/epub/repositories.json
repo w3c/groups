@@ -17,8 +17,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -40,8 +39,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -63,30 +61,7 @@
    ],
    "repo-type": [
     "translation"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "epub-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/publishing/groups/epub-wg/",
-  "description": "Home page of the EPUB 3 Working Group",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/epub"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
