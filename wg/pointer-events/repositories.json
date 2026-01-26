@@ -19,7 +19,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -40,7 +41,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
