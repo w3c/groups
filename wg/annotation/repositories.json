@@ -17,7 +17,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -36,7 +37,8 @@
    "contacts": [
     "iherman"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -57,7 +59,8 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
