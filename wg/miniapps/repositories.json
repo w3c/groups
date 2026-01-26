@@ -18,7 +18,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -40,7 +41,8 @@
    "shortName": "miniapp-addressing",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -62,7 +64,8 @@
    "shortName": "miniapp-lifecycle",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -84,7 +87,8 @@
    "shortName": "miniapp-lifecycle",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -106,7 +110,8 @@
    "shortName": "miniapp-packaging",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -126,7 +131,8 @@
    ],
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -148,7 +154,8 @@
    "shortName": "mini-app-white-paper",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -167,7 +174,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
