@@ -18,7 +18,8 @@
    "shortName": "DOM-Parsing",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -40,7 +41,8 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -59,7 +61,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "XMLHttpRequest"
+   "shortName": "XMLHttpRequest",
+   "exposed": true
   }
  },
  {
@@ -76,7 +79,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "filesystem-api"
+   "shortName": "filesystem-api",
+   "exposed": true
   }
  },
  {
@@ -95,7 +99,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "html"
+   "shortName": "html",
+   "exposed": true
   }
  },
  {
@@ -116,7 +121,8 @@
    "shortName": "html-extension",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -134,7 +140,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "html-landscape"
+   "shortName": "html-landscape",
+   "exposed": true
   }
  },
  {
@@ -153,7 +160,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -173,7 +181,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -190,7 +199,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "ime-api"
+   "shortName": "ime-api",
+   "exposed": true
   }
  },
  {
@@ -207,7 +217,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "manifest-csp"
+   "shortName": "manifest-csp",
+   "exposed": true
   }
  },
  {
@@ -227,7 +238,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -245,7 +257,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "packaged-webapps"
+   "shortName": "packaged-webapps",
+   "exposed": true
   }
  },
  {
@@ -262,7 +275,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "quota-api"
+   "shortName": "quota-api",
+   "exposed": true
   }
  },
  {
@@ -279,7 +293,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "streams-api"
+   "shortName": "streams-api",
+   "exposed": true
   }
  },
  {
@@ -299,7 +314,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -321,7 +337,8 @@
    "policy": "open",
    "repo-type": [
     "project"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -339,7 +356,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "webstorage"
+   "shortName": "webstorage",
+   "exposed": true
   }
  },
  {
@@ -356,7 +374,8 @@
    "contacts": [
     "siusin"
    ],
-   "shortName": "workers"
+   "shortName": "workers",
+   "exposed": true
   }
  }
 ]
