@@ -19,7 +19,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -42,7 +43,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -65,7 +67,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -86,7 +89,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -108,7 +112,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -129,7 +134,8 @@
    ],
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -150,7 +156,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -173,7 +180,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -196,7 +204,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -217,7 +226,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -239,7 +249,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -261,7 +272,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -284,7 +296,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -305,7 +318,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -328,7 +342,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -349,7 +364,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -372,7 +388,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -395,7 +412,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -418,7 +436,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -441,7 +460,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -463,7 +483,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -484,7 +505,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -505,7 +527,8 @@
    "policy": "open",
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
