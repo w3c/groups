@@ -17,7 +17,8 @@
    ],
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -37,7 +38,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
