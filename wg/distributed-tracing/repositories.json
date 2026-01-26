@@ -18,8 +18,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -41,8 +40,7 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -64,77 +62,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "trace-context-amqp",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/trace-context-amqp/",
-  "description": "Trace Context: AMQP protocol",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/distributed-tracing"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "trace-context-binary",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/trace-context-binary/",
-  "description": "Trace Context: binary protocol",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/distributed-tracing"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "trace-context-mqtt",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/trace-context-mqtt/",
-  "description": "Trace Context: MQTT protocol",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/distributed-tracing"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -156,8 +84,7 @@
    "policy": "open",
    "repo-type": [
     "registry"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -179,8 +106,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -202,8 +128,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -225,8 +150,7 @@
    "policy": "open",
    "repo-type": [
     "registry"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
