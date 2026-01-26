@@ -15,7 +15,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -35,7 +36,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -54,7 +56,8 @@
     "liamquin"
    ],
    "shortName": "html-alt-techniques",
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  }
 ]
