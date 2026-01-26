@@ -18,7 +18,8 @@
    "shortName": "IntersectionObserver",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -41,7 +42,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -86,7 +89,8 @@
    "policy": "open",
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -108,7 +112,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -131,7 +136,8 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -153,7 +159,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  }
 ]
