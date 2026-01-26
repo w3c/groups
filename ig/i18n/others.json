@@ -19,8 +19,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -44,8 +43,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -69,8 +67,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -92,8 +89,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -114,8 +110,7 @@
     "xfq"
    ],
    "shortName": "ruby-tts-req",
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -137,8 +132,7 @@
     "xfq"
    ],
    "shortName": "ruby-tts-req",
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -160,8 +154,7 @@
     "himorin"
    ],
    "shortName": "simple-ruby",
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -185,8 +178,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -209,8 +201,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -234,8 +225,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  }
 ]
