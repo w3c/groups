@@ -19,8 +19,7 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -39,8 +38,7 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -62,31 +60,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "w3c-waet",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://www.w3.org/TR/WAET/",
-  "description": "Repository for the Developers' Guide to Features of Web Accessibility Evaluation Tools",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/ag"
-   ],
-   "contacts": [
-    "nitedog"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "policy": "restricted",
-   "exposed": true
+   ]
   }
  },
  {
@@ -107,8 +81,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -129,8 +102,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -152,47 +124,7 @@
    "repo-type": [
     "tests"
    ],
-   "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "name": "wcag-eo",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Repository for EO editorial work on WCAG",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/ag"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "wcag21",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/wcag/21/guidelines/",
-  "description": "Repository used during WCAG 2.1 development. New issues, Technique ideas, and comments should be filed at the WCAG repository at https://github.com/w3c/wcag.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/ag"
-   ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -214,8 +146,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
