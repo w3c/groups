@@ -17,8 +17,7 @@
    "repo-type": [
     "tests"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  },
  {
@@ -39,8 +38,7 @@
    "repo-type": [
     "tests"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  },
  {
@@ -62,8 +60,7 @@
    "repo-type": [
     "note"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  },
  {
@@ -84,8 +81,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -107,8 +103,7 @@
    "repo-type": [
     "tests"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  }
 ]
