@@ -65,8 +65,7 @@
    "repo-type": [
     "note",
     "article"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -89,8 +88,7 @@
    ],
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -115,8 +113,7 @@
    "policy": "restricted",
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -137,32 +134,7 @@
    ],
    "repo-type": [
     "process"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "w3process-obsolete-rescinded",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/Guide/process/obsolete-rescinded-supserseded.html",
-  "description": "Superseded, Obsolete, Rescinded",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/ab"
-   ],
-   "contacts": [
-    "jeffjaffe",
-    "dwsinger"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "process"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
