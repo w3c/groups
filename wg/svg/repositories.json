@@ -18,7 +18,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -39,7 +40,8 @@
    "shortName": "svgwg",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -60,7 +62,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
