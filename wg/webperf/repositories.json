@@ -19,7 +19,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -41,7 +42,8 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
    "shortName": "device-memory",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -85,7 +88,8 @@
    "shortName": "element-timing",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -106,7 +110,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -129,7 +134,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -150,7 +156,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -171,7 +178,8 @@
    "shortName": "long-animation-frames",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -193,7 +201,8 @@
    "shortName": "longtasks",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -216,7 +225,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -238,7 +248,8 @@
    "shortName": "network-error-logging",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -261,7 +272,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -283,7 +295,8 @@
    "shortName": "paint-timing",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -304,7 +317,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -326,7 +340,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -349,7 +364,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -371,7 +387,8 @@
    "shortName": "reporting",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -394,7 +411,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -417,7 +435,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -440,7 +459,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -464,7 +484,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -486,7 +507,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -510,7 +532,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -532,7 +555,8 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -554,7 +578,8 @@
    "policy": "open",
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
