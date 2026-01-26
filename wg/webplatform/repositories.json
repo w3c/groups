@@ -18,130 +18,7 @@
    "shortName": "DOM-Parsing",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "WebPlatformWG",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/WebPlatform/WG/",
-  "description": "Web Platform Working Group pages",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "XMLHttpRequest",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://xhr.spec.whatwg.org/",
-  "description": "XMLHttpRequest - Retired",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "XMLHttpRequest",
-   "exposed": true
-  }
- },
- {
-  "name": "filesystem-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "filesystem-api",
-   "exposed": true
-  }
- },
- {
-  "name": "html",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/html/",
-  "description": "Deliverables of the HTML Working Group until October 2018",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "html",
-   "exposed": true
-  }
- },
- {
-  "name": "html-extensions",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "HTML Extension Specifications",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "html-extension",
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "html-landscape",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Differences between HTML specifications",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "html-landscape",
-   "exposed": true
+   ]
   }
  },
  {
@@ -160,8 +37,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -181,44 +57,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "ime-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "ime-api",
-   "exposed": true
-  }
- },
- {
-  "name": "manifest-csp",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "manifest-csp",
-   "exposed": true
+   ]
   }
  },
  {
@@ -238,63 +77,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "packaged-webapps",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "All packaged web apps deliverables",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "packaged-webapps",
-   "exposed": true
-  }
- },
- {
-  "name": "quota-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "quota-api",
-   "exposed": true
-  }
- },
- {
-  "name": "streams-api",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "streams-api",
-   "exposed": true
+   ]
   }
  },
  {
@@ -314,8 +97,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -337,45 +119,7 @@
    "policy": "open",
    "repo-type": [
     "project"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "webstorage",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Moved to https://html.spec.whatwg.org/multipage/webstorage.html",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "webstorage",
-   "exposed": true
-  }
- },
- {
-  "name": "workers",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webplatform"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "workers",
-   "exposed": true
+   ]
   }
  }
 ]
