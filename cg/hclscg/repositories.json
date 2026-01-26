@@ -32,7 +32,8 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -54,7 +55,8 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -75,7 +77,8 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -96,7 +99,8 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  }
 ]
