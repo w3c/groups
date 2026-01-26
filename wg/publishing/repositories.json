@@ -18,8 +18,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -43,31 +42,7 @@
    "shortName": "dpub-pwp-ucr",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "epub4",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/epub4/",
-  "description": "W3C EPUB4",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "shortName": "epub4",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -89,8 +64,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -112,8 +86,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -136,8 +109,7 @@
    "repo-type": [
     "tool",
     "article"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -158,8 +130,7 @@
    ],
    "repo-type": [
     "article"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -179,8 +150,7 @@
    ],
    "repo-type": [
     "article"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -201,8 +171,7 @@
    ],
    "repo-type": [
     "article"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -224,30 +193,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "publ-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/publishing/groups/publ-wg/",
-  "description": "Home page of the Audiobooks Working Group",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -268,8 +214,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -291,8 +236,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -314,8 +258,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
