@@ -18,8 +18,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "shortName": "did-core",
-   "exposed": true
+   "shortName": "did-core"
   }
  },
  {
@@ -41,8 +40,7 @@
    "repo-type": [
     "note"
    ],
-   "shortName": "did-cbor",
-   "exposed": true
+   "shortName": "did-cbor"
   }
  },
  {
@@ -64,8 +62,7 @@
    "repo-type": [
     "note"
    ],
-   "shortName": "did-extensions",
-   "exposed": true
+   "shortName": "did-extensions"
   }
  },
  {
@@ -87,8 +84,7 @@
    "repo-type": [
     "note"
    ],
-   "shortName": "did-imp-guide",
-   "exposed": true
+   "shortName": "did-imp-guide"
   }
  },
  {
@@ -110,8 +106,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "shortName": "did-resolution",
-   "exposed": true
+   "shortName": "did-resolution"
   }
  },
  {
@@ -133,8 +128,7 @@
    "repo-type": [
     "note"
    ],
-   "shortName": "did-rubric",
-   "exposed": true
+   "shortName": "did-rubric"
   }
  },
  {
@@ -156,8 +150,7 @@
    "repo-type": [
     "note"
    ],
-   "shortName": "did-test-suite",
-   "exposed": true
+   "shortName": "did-test-suite"
   }
  },
  {
@@ -179,8 +172,7 @@
    "repo-type": [
     "note"
    ],
-   "shortName": "did-use-cases",
-   "exposed": true
+   "shortName": "did-use-cases"
   }
  },
  {
@@ -201,8 +193,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -223,8 +214,7 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
