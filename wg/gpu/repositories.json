@@ -20,8 +20,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -46,30 +45,7 @@
    "repo-type": [
     "cg-report",
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "gpuweb-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/2020/gpu/",
-  "description": "Home page of the GPU for the Web Working Group",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/gpu"
-   ],
-   "contacts": [
-    "tidoust"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
