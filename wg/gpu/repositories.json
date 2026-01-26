@@ -20,7 +20,8 @@
    ],
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -45,7 +46,8 @@
    "repo-type": [
     "cg-report",
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
