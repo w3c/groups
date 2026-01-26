@@ -19,7 +19,8 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -37,7 +38,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
