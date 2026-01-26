@@ -11,7 +11,8 @@
    "group": [
     "wg/pf"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  }
 ]
