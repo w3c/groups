@@ -1,28 +1,5 @@
 [
  {
-  "name": "math-aam",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/math-aam/",
-  "description": "Accessibility API Mappings for Math ARIA module",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathonwebpages"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "math-aria",
   "owner": {
    "login": "w3c"
@@ -41,8 +18,7 @@
    "policy": "restricted",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -66,8 +42,7 @@
     "homepage",
     "cg-report",
     "article"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
