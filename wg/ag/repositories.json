@@ -19,7 +19,8 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -38,7 +39,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -60,7 +62,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -82,7 +85,8 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -103,7 +107,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -124,7 +129,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -146,7 +152,8 @@
    "repo-type": [
     "tests"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -167,7 +174,8 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -183,7 +191,8 @@
    "group": [
     "wg/ag"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -205,7 +214,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
