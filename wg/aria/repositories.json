@@ -18,7 +18,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -39,7 +40,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -58,7 +60,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -81,7 +84,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -102,7 +106,8 @@
    "policy": "restricted",
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -124,7 +129,8 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -146,7 +152,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -169,7 +176,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -191,7 +199,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -212,7 +221,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -234,7 +244,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -256,7 +267,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -280,7 +292,8 @@
    "shortName": "html-aam-1.0",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -302,7 +315,8 @@
    "shortName": "html-aria",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -324,7 +338,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -346,7 +361,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
