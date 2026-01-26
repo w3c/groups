@@ -20,7 +20,8 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -42,7 +43,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
     "xfq"
    ],
    "shortName": "ruby-tts-req",
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -85,7 +88,8 @@
     "xfq"
    ],
    "shortName": "ruby-tts-req",
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -107,7 +111,8 @@
     "himorin"
    ],
    "shortName": "simple-ruby",
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  }
 ]
