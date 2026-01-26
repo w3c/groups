@@ -16,7 +16,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -36,7 +37,8 @@
    ],
    "repo-type": [
     "project"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -59,7 +61,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -80,7 +83,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -101,7 +105,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -122,7 +127,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -145,7 +151,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -166,7 +173,8 @@
    "policy": "open",
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -188,7 +196,8 @@
    "policy": "open",
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
