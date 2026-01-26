@@ -16,7 +16,8 @@
    ],
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -38,7 +39,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -61,7 +63,8 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -84,7 +87,8 @@
    "shortName": "danmaku",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -106,7 +110,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
