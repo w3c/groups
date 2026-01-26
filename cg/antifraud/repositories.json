@@ -31,7 +31,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -51,7 +52,8 @@
    "repo-type": [
     "homepage"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -72,7 +74,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -107,7 +110,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -128,7 +132,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -150,7 +155,8 @@
    "repo-type": [
     "others"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  }
 ]
