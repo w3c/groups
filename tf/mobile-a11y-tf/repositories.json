@@ -16,7 +16,8 @@
     "nitedog"
    ],
    "shortName": "mobile-accessibility-extension",
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  },
  {
@@ -39,7 +40,8 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
