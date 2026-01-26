@@ -18,7 +18,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -42,7 +43,8 @@
    "shortName": "dpub-pwp-ucr",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -61,7 +63,8 @@
    ],
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -81,7 +84,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -102,7 +106,8 @@
    ],
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -124,7 +129,8 @@
    ],
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -146,7 +152,8 @@
    ],
    "repo-type": [
     "translation"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -167,7 +174,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -189,7 +197,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -210,7 +219,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -232,7 +242,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -255,7 +266,8 @@
    "repo-type": [
     "tool",
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -276,7 +288,8 @@
    ],
    "repo-type": [
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -297,7 +310,8 @@
    ],
    "repo-type": [
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -319,7 +333,8 @@
    "repo-type": [
     "process"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -341,7 +356,8 @@
    ],
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -362,7 +378,8 @@
    ],
    "repo-type": [
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -384,7 +401,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -406,7 +424,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
