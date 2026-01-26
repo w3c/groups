@@ -15,27 +15,6 @@
   }
  },
  {
-  "name": "hcls",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
- },
- {
   "name": "hcls-ccda-rdf",
   "owner": {
    "login": "w3c"
@@ -53,8 +32,7 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  },
  {
@@ -76,8 +54,7 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  },
  {
@@ -98,8 +75,7 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  },
  {
@@ -120,8 +96,7 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  }
 ]
