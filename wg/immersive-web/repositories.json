@@ -17,8 +17,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -39,8 +38,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -61,8 +59,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -84,8 +81,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -106,8 +102,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -129,8 +124,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -152,8 +146,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -175,8 +168,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -197,8 +189,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -219,8 +210,7 @@
    ],
    "repo-type": [
     "others"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -243,8 +233,7 @@
    "shortName": "webxr",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -267,8 +256,7 @@
    "shortName": "webxr-ar-module",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -291,8 +279,7 @@
    "shortName": "webxr-gamepads-module",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -315,8 +302,7 @@
    "shortName": "webxr-hand-input",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -337,8 +323,7 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -360,8 +345,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
