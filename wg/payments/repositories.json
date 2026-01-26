@@ -17,7 +17,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -38,7 +39,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -59,7 +61,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -80,7 +83,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -98,7 +102,8 @@
    ],
    "contacts": [
     "ianbjacobs"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -119,7 +124,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -140,7 +146,8 @@
    "policy": "open",
    "repo-type": [
     "project"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -161,7 +168,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -183,7 +191,8 @@
    "shortName": "webpayments",
    "repo-type": [
     "project"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -204,7 +213,8 @@
    "shortName": "webpayments",
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
