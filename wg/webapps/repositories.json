@@ -18,7 +18,8 @@
    "shortName": "FileAPI",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -40,7 +41,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -86,7 +89,8 @@
    "shortName": "badging",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -108,7 +112,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -130,7 +135,8 @@
    "shortName": "gamepad",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -152,7 +158,8 @@
    "shortName": "image-resource",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -174,7 +181,8 @@
    "shortName": "manifest",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -196,7 +204,8 @@
    "shortName": "manifest-app-info",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -218,7 +227,8 @@
    "shortName": "pointerlock-2",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -240,7 +250,8 @@
    "shortName": "push-api",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -262,7 +273,8 @@
    "shortName": "screen-orientation",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -284,7 +296,8 @@
    "shortName": "uievents",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -306,7 +319,8 @@
    "shortName": "uievents-code",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -328,7 +342,8 @@
    "shortName": "uievents-key",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -351,7 +366,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -373,7 +389,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -397,7 +414,8 @@
    "shortName": "web-share",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -419,7 +437,8 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
