@@ -18,30 +18,7 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "annotation-aria",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://github.com/w3c/aria/",
-  "description": "This repository has been archived and work moved to the w3c/aria repository.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/aria"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -60,8 +37,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -84,8 +60,7 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -106,8 +81,7 @@
    "policy": "restricted",
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -129,8 +103,7 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -152,8 +125,7 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -176,8 +148,7 @@
    "repo-type": [
     "others"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -199,8 +170,7 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -221,8 +191,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -244,8 +213,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -267,8 +235,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -292,8 +259,7 @@
    "shortName": "html-aam-1.0",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -315,8 +281,7 @@
    "shortName": "html-aria",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -338,8 +303,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -361,8 +325,7 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
