@@ -18,7 +18,8 @@
    "policy": "restricted",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
