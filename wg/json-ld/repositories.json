@@ -18,7 +18,8 @@
    "shortName": "cborld",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -41,7 +42,8 @@
    "repo-type": [
     "cg-report"
    ],
-   "shortName": "json-ld-star"
+   "shortName": "json-ld-star",
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
    ],
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -86,7 +89,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -107,7 +111,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -129,7 +134,8 @@
    "repo-type": [
     "note"
    ],
-   "short-name": "json-ld11-bp"
+   "short-name": "json-ld11-bp",
+   "exposed": true
   }
  },
  {
@@ -150,7 +156,8 @@
    ],
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -171,7 +178,8 @@
    ],
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -192,7 +200,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -214,7 +223,8 @@
    "repo-type": [
     "note"
    ],
-   "short-name": "json-ld-streaming"
+   "short-name": "json-ld-streaming",
+   "exposed": true
   }
  },
  {
@@ -236,7 +246,8 @@
    "shortName": "json-ld-syntax",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -257,7 +268,8 @@
    ],
    "repo-type": [
     "homepage"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
