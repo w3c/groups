@@ -89,8 +89,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -154,8 +153,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -178,7 +176,8 @@
   "owner": {
    "login": "webmachinelearning"
   },
-  "description": "🤖 WebMCP 🧪",
+  "homepageUrl": "https://webmachinelearning.github.io/webmcp/",
+  "description": "🤖 WebMCP",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -190,8 +189,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -313,8 +311,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
