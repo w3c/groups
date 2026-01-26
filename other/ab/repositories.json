@@ -65,7 +65,8 @@
    "repo-type": [
     "note",
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -88,7 +89,8 @@
    ],
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -113,7 +115,8 @@
    "policy": "restricted",
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -134,7 +137,8 @@
    ],
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
