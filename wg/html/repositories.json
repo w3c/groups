@@ -1,25 +1,5 @@
 [
  {
-  "name": "encrypted-media",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "A fork of Encrypted Media Extensions to add persistent-usage-record sessions",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/html"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "shortName": "encrypted-media",
-   "policy": "open",
-   "exposed": true
-  }
- },
- {
   "name": "wicg.github.io",
   "owner": {
    "login": "WICG"
@@ -35,8 +15,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -56,8 +35,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -76,8 +54,7 @@
     "liamquin"
    ],
    "shortName": "html-alt-techniques",
-   "policy": "open",
-   "exposed": true
+   "policy": "open"
   }
  }
 ]
