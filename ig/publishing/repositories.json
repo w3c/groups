@@ -16,7 +16,8 @@
    ],
    "repo-type": [
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -31,7 +32,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -46,7 +48,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -61,7 +64,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -76,7 +80,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -91,7 +96,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -106,7 +112,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -122,7 +129,8 @@
     "ig/publishing"
    ],
    "shortName": "dpub-pwp-arch",
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -138,7 +146,8 @@
     "ig/publishing"
    ],
    "shortName": "dpub-pwp-loc",
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -162,7 +171,8 @@
    "shortName": "dpub-pwp-ucr",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -177,7 +187,8 @@
    "group": [
     "ig/publishing"
    ],
-   "policy": "open"
+   "policy": "open",
+   "exposed": true
   }
  },
  {
@@ -198,7 +209,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
