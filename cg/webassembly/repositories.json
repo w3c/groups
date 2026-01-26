@@ -14,28 +14,6 @@
   }
  },
  {
-  "name": "JS-BigInt-integration",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/JS-BigInt-integration/js-api/index.html",
-  "description": "JavaScript BigInt to WebAssembly i64 integration",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "WASI",
   "owner": {
    "login": "WebAssembly"
@@ -47,28 +25,6 @@
    "group": [
     "cg/webassembly"
    ]
-  }
- },
- {
-  "name": "annotations",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://WebAssembly.github.io/annotations/",
-  "description": "Proposal for Custom Annotation Syntax in the Text Format",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -116,30 +72,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "bulk-memory-operations",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/bulk-memory-operations/",
-  "description": "Bulk memory operations",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -158,8 +91,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -194,8 +126,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -215,8 +146,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -231,26 +161,6 @@
    "group": [
     "cg/webassembly"
    ]
-  }
- },
- {
-  "name": "conditional-sections",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -284,8 +194,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -304,8 +213,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -325,8 +233,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -345,8 +252,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -409,51 +315,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "exception-handling",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/exception-handling/",
-  "description": "Proposal to add exception handling to WebAssembly",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "extended-const",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "[complete] Proposal for extended constant expressions",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -472,29 +334,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "feature-detection",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/feature-detection/",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -515,8 +355,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -536,8 +375,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -552,50 +390,6 @@
    "group": [
     "cg/webassembly"
    ]
-  }
- },
- {
-  "name": "function-references",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/function-references/",
-  "description": "Proposal for Typed Function References",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "gc",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/gc/",
-  "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -614,8 +408,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -635,8 +428,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -656,8 +448,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -691,8 +482,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -712,8 +502,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -733,8 +522,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -754,8 +542,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -775,8 +562,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -824,50 +610,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "memory64",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "Memory with 64-bit indexes",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "module-linking",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "Proposal for allowing modules to define, import and export modules and instances",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -886,52 +629,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "multi-memory",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/multi-memory/",
-  "description": "Multiple per-module memories for Wasm",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "multi-value",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/multi-value/",
-  "description": "Proposal to add multi-values to WebAssembly",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -950,8 +648,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -966,27 +663,6 @@
    "group": [
     "cg/webassembly"
    ]
-  }
- },
- {
-  "name": "nontrapping-float-to-int-conversions",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "Proposal to add non-trapping float-to-int conversions to WebAssembly",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -1007,8 +683,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1028,8 +703,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1044,28 +718,6 @@
    "group": [
     "cg/webassembly"
    ]
-  }
- },
- {
-  "name": "reference-types",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/reference-types/",
-  "description": "Proposal for adding basic reference types (anyref)",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -1084,8 +736,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1105,8 +756,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1126,8 +776,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1146,8 +795,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1167,50 +815,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "sign-extension-ops",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "Sign-extension opcodes",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "simd",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "description": "Branch of the spec repo scoped to discussion of SIMD in WebAssembly ",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1231,8 +836,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1252,8 +856,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1272,30 +875,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "tail-call",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "homepageUrl": "https://webassembly.github.io/tail-call/",
-  "description": "Proposal to add tail calls to WebAssembly",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1344,8 +924,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2007,8 +1586,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2101,8 +1679,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
