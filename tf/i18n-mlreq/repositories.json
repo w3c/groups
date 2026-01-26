@@ -20,7 +20,8 @@
    "repo-type": [
     "note"
    ],
-   "policy": "restricted"
+   "policy": "restricted",
+   "exposed": true
   }
  }
 ]
