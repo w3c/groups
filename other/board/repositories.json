@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "name": "board",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://www.w3.org/Member/bod/",
+  "description": "Member-visible Board of Directors materials; for persistent references please use the mirror https://www.w3.org/Member/bod/",
+  "isArchived": false,
+  "isPrivate": true,
+  "w3cjson": {
+   "group": [
+    "other/board"
+   ],
+   "contacts": [
+    "rswick",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "other"
+   ],
+   "exposed": true
+  }
+ }
+]
