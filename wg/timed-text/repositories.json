@@ -16,8 +16,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -37,8 +36,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -58,31 +56,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "adpt",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/adpt/",
-  "description": "Audio Description Profile of TTML2",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/timed-text"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -104,8 +78,7 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -126,8 +99,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -148,8 +120,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -169,8 +140,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -192,8 +162,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -214,8 +183,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -236,8 +204,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -259,8 +226,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -282,8 +248,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -305,8 +270,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -327,8 +291,7 @@
    "policy": "open",
    "repo-type": [
     "others"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -348,8 +311,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -368,8 +330,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -390,8 +351,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -412,8 +372,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -432,8 +391,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -452,8 +410,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -475,8 +432,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -498,8 +454,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -521,8 +476,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -544,8 +498,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -566,8 +519,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -589,8 +541,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -611,8 +562,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -634,8 +584,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -656,8 +605,7 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -678,8 +626,7 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -705,8 +652,7 @@
    ],
    "shortname": [
     "webvtt"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
