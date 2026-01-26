@@ -18,8 +18,7 @@
    "shortName": "cborld",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -42,31 +41,7 @@
    "repo-type": [
     "cg-report"
    ],
-   "shortName": "json-ld-star",
-   "exposed": true
-  }
- },
- {
-  "name": "json-ld-wg-charter",
-  "owner": {
-   "login": "json-ld"
-  },
-  "homepageUrl": "https://github.com/w3c/json-ld-charter-2025",
-  "description": "Work moved to https://github.com/w3c/json-ld-charter-2025",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld"
-   ],
-   "contacts": [
-    "pchampin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "process"
-   ],
-   "exposed": true
+   "shortName": "json-ld-star"
   }
  },
  {
@@ -88,8 +63,7 @@
    ],
    "repo-type": [
     "others"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -112,8 +86,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -134,8 +107,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -157,8 +129,7 @@
    "repo-type": [
     "note"
    ],
-   "short-name": "json-ld11-bp",
-   "exposed": true
+   "short-name": "json-ld11-bp"
   }
  },
  {
@@ -179,32 +150,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "json-ld-charter-2025",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/json-ld-charter-2025/",
-  "description": "JSON-LD WG charter, 2025 version",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld"
-   ],
-   "contacts": [
-    "pchampin",
-    "iherman"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -225,8 +171,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -247,8 +192,7 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -270,8 +214,7 @@
    "repo-type": [
     "note"
    ],
-   "short-name": "json-ld-streaming",
-   "exposed": true
+   "short-name": "json-ld-streaming"
   }
  },
  {
@@ -293,8 +236,7 @@
    "shortName": "json-ld-syntax",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -315,8 +257,7 @@
    ],
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
