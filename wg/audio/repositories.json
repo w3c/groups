@@ -16,29 +16,7 @@
    ],
    "repo-type": [
     "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "demo-list",
-  "owner": {
-   "login": "WebAudio"
-  },
-  "description": "A list of Web Audio API demos and applications",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/audio"
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "project"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -59,29 +37,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "web-audio-api-v2",
-  "owner": {
-   "login": "WebAudio"
-  },
-  "description": "The Web Audio API v2.0, developed by the W3C Audio WG",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/audio"
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -102,8 +58,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
