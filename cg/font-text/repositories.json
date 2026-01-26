@@ -1,27 +1,5 @@
 [
  {
-  "name": "font-text-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/font-text-cg/",
-  "description": "GitHub Pages",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/font-text"
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "process"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "font-text-cg-temp",
   "owner": {
    "login": "w3c"
@@ -38,8 +16,7 @@
    ],
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
