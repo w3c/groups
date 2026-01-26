@@ -1,44 +1,5 @@
 [
  {
-  "name": "ContentPerformancePolicy",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "http://wicg.github.io/ContentPerformancePolicy/",
-  "description": "A set of policies that a site guarantees to adhere to, browsers enforce, and embedders can count on.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "ContentPerformancePolicy",
-   "exposed": true
-  }
- },
- {
-  "name": "EventListenerOptions",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "An extension to the DOM event pattern to allow authors to disable support for preventDefault",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "EventListenerOptions",
-   "exposed": true
-  }
- },
- {
   "name": "PEPC",
   "owner": {
    "login": "WICG"
@@ -56,8 +17,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -77,8 +37,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -112,8 +71,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -133,29 +91,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "accessible-loading-and-searching-of-content",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Enable ATs to recognize and account for virtualized content when navigating a web page.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "travisleithead"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -175,8 +111,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -196,28 +131,7 @@
    ],
    "repo-type": [
     "process"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "animation-worklet",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://drafts.css-houdini.org/css-animationworklet/",
-  "description": "🚫 Old repository for AnimationWorklet specification ➡️ New repository: https://github.com/w3c/css-houdini-drafts",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "animation-worklet",
-   "exposed": true
+   ]
   }
  },
  {
@@ -237,8 +151,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -259,8 +172,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -275,25 +187,6 @@
    "group": [
     "cg/wicg"
    ]
-  }
- },
- {
-  "name": "async-append",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "A way to create DOM and add it to the document without blocking the main thread.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "async-append",
-   "exposed": true
   }
  },
  {
@@ -314,8 +207,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -334,8 +226,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -355,27 +246,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "auxclick",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Description for non-primary button click event",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "auxclick",
-   "exposed": true
+   ]
   }
  },
  {
@@ -396,8 +267,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -418,8 +288,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -438,28 +307,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "budget-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/budget-api/",
-  "description": "Proposal for a Budget API",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "shortName": "budget-api",
-   "exposed": true
+   ]
   }
  },
  {
@@ -479,29 +327,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "canvas-color-space",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Proposed web platform feature to add color management, wide gamut and high bit-depth support to the <canvas> element.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "junov"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -520,8 +346,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -541,8 +366,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -563,30 +387,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "close-watcher",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://html.spec.whatwg.org/multipage/interaction.html#close-requests-and-close-watchers",
-  "description": "A web API proposal for watching for close requests (e.g. Esc, Android back button, ...)",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -607,49 +408,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "compression-dictionary-transport",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "conditional-focus",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "https://wicg.github.io/conditional-focus/",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -669,8 +428,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -690,28 +448,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "container-queries",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -732,8 +469,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -753,8 +489,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -774,50 +509,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "coop-restrict-properties",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "WICG draft for COOP with popups proposal",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "cq-usecases",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Use cases and requirements for standardizing element queries.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -838,51 +530,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "credentiallessness",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "`COEP: x-bikeshed-credentialless-unless-cors`",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "cross-origin-embedder-policy",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/cross-origin-embedder-policy/",
-  "description": "CORPP (https://github.com/whatwg/html/issues/4175)",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -903,8 +551,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -925,8 +572,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -946,29 +592,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "custom-state-pseudo-class",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Former home of the custom state pseudo-class feature",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -989,8 +613,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1009,8 +632,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1030,8 +652,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1052,8 +673,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1068,28 +688,6 @@
    "group": [
     "cg/wicg"
    ]
-  }
- },
- {
-  "name": "devtools-protocol",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/devtools-protocol/specification/docs/domains/",
-  "description": "DevTools Protocol",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -1108,8 +706,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1129,28 +726,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "directory-upload",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/directory-upload/proposal.html",
-  "description": "This spec aims to enable directory uploading by allowing a developer to read directory contents (files and sub-directories) asynchronously and be able to identify the directory structure. ",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "aliams"
-   ],
-   "shortName": "directory-upload",
-   "exposed": true
+   ]
   }
  },
  {
@@ -1182,49 +758,7 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "display-locking",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "A repository for the Display Locking spec",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "display-override",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1243,8 +777,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1264,8 +797,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1285,29 +817,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "element-capture",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://screen-share.github.io/element-capture/",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1327,30 +837,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "encrypted-media-encryption-scheme",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/encrypted-media-encryption-scheme/",
-  "description": "Proposal to add encryption scheme support to Encrypted Media Extensions.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1372,8 +859,7 @@
    "shortName": "entries-api",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1393,8 +879,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1413,8 +898,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1435,8 +919,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1456,8 +939,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1478,51 +960,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "first-party-sets",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/first-party-sets/",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "floc",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://github.com/patcg-individual-drafts/topics",
-  "description": "This proposal has been replaced by the Topics API.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1544,30 +982,7 @@
    "shortName": "modality",
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "frame-timing",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/frame-timing/",
-  "description": "Frame Timing API",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1617,8 +1032,7 @@
    "shortName": "get-installed-related-apps",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1639,87 +1053,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "hdcp-detection",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/hdcp-detection/",
-  "description": "Incubation for HDCP detection feature in EME",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "historical-a11yapi",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Accessibility API",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "shortName": "a11yapi",
-   "exposed": true
-  }
- },
- {
-  "name": "historical-paymentrequest",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Payment Request proposal",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "Paymentrequest",
-   "exposed": true
-  }
- },
- {
-  "name": "historical-web-payments-browser-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "This repo is being kept for historical purposes. ",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "msporny"
-   ],
-   "shortName": "web-payments-browser-api",
-   "exposed": true
+   ]
   }
  },
  {
@@ -1751,8 +1085,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1772,8 +1105,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1793,8 +1125,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1813,91 +1144,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "image-output",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Proposal for controlling output of `input` elements, focusing on images.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "img-conversion",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Asynchronously convert between HTMLImageElement, ImageData, and Blob. ",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "img-conversion",
-   "exposed": true
-  }
- },
- {
-  "name": "import-maps",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://html.spec.whatwg.org/multipage/webappapis.html#import-maps",
-  "description": "Former home of import maps (now merged into HTML)",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "indexed-db-observers",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Prototyping and discussion around indexeddb observers.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1917,8 +1164,7 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1937,8 +1183,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -1959,29 +1204,7 @@
    "shortName": "InputDeviceCapabilities",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "input-for-workers",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Specification for exposing input events to workers",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2001,8 +1224,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2023,51 +1245,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "interventions",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "A place for browsers and web developers to collaborate on user agent interventions.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "interventions",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "intrinsicsize-attribute",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Proposal to add an intrinsicsize attribute to media elements",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2087,8 +1265,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2108,26 +1285,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "isolation",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "isolation",
-   "exposed": true
+   ]
   }
  },
  {
@@ -2147,8 +1305,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2169,8 +1326,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2191,8 +1347,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2207,27 +1362,6 @@
    "group": [
     "cg/wicg"
    ]
-  }
- },
- {
-  "name": "lang-client-hint",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Wouldn't it be nice if `Accept-Language` was a client hint?",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -2248,8 +1382,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2270,8 +1403,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2292,8 +1424,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2314,51 +1445,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "lock-screen",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Lock screen API",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "logical-sizing-properties",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Specification for defining logical sizing in CSS",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "shortName": "logical-sizing-properties",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2394,8 +1481,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2416,8 +1502,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2436,112 +1521,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "media-source",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/media-source/",
-  "description": "Media Source Extensions (vNext incubations on branches)",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "memory-pressure",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Proposal to expose memory pressure events to the Web.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "shortName": "memory-pressure",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "mobile-document-request-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "modality",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Experimenting with being explicit about user modality",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "modality",
-   "exposed": true
-  }
- },
- {
-  "name": "multicapture",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/multicapture/",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2562,8 +1542,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2584,8 +1563,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2606,8 +1584,7 @@
    "shortName": "netinfo",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2643,30 +1620,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "origin-agent-cluster",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://html.spec.whatwg.org/multipage/origin.html#origin-keyed-agent-clusters",
-  "description": "A proposal for allowing web applications to origin-key their agent clusters. Now archived, as this specification has been merged into the HTML Standard. Formerly known as \"origin isolation\".",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2687,8 +1641,7 @@
    "shortName": "origin-policy",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2723,8 +1676,7 @@
    "shortName": "overscroll-scrollend-events",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2745,8 +1697,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2779,8 +1730,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2801,8 +1751,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2836,8 +1785,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2871,8 +1819,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2893,8 +1840,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2915,8 +1861,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2936,8 +1881,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2958,8 +1902,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -2978,30 +1921,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "priority-hints",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/priority-hints/",
-  "description": "A browser API to enable developers signal the priorities of the resources they need to download.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3021,8 +1941,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3043,8 +1962,7 @@
    "shortName": "cors-rfc1918",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3065,8 +1983,7 @@
    ],
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3085,8 +2002,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3105,29 +2021,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "raw-clipboard-access",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "An explainer for the Raw Clipboard Access feature",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3160,50 +2054,6 @@
   }
  },
  {
-  "name": "request-post-animation-frame",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "spec proposal for new web API: window.requestPostAnimationFrame",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "resize-observer",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://github.com/w3c/csswg-drafts/tree/master/resize-observer-1",
-  "description": "This repository is no longer active. ResizeObserver has moved out of WICG into ",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "ResizeObserver",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "responsive-image-client-hints",
   "owner": {
    "login": "WICG"
@@ -3221,8 +2071,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3242,8 +2091,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3264,8 +2112,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3286,8 +2133,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3306,29 +2152,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "scroll-animations",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "shortName": "scroll-animations",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3348,8 +2172,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3371,8 +2194,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3404,8 +2226,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3425,8 +2246,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3447,8 +2267,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3468,8 +2287,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3490,8 +2308,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3514,8 +2331,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3536,8 +2352,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3556,8 +2371,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3575,8 +2389,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3596,8 +2409,7 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3618,8 +2430,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3639,8 +2450,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3688,30 +2498,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "turtledove",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/turtledove/",
-  "description": "TURTLEDOVE",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3732,8 +2519,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3768,8 +2554,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3784,26 +2569,6 @@
    "group": [
     "cg/wicg"
    ]
-  }
- },
- {
-  "name": "video-editing",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
   }
  },
  {
@@ -3824,8 +2589,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3845,50 +2609,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "virtual-scroller",
-  "owner": {
-   "login": "WICG"
-  },
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "visual-viewport",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/visual-viewport/",
-  "description": "A proposal to add explicit APIs to the Web for querying and setting the visual viewport",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "bokand"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3908,8 +2629,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3930,30 +2650,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "web-preferences-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://drafts.csswg.org/mediaqueries-5/#auto-pref%E2%91%A0",
-  "description": "The Web Preference API aims to provide a way for sites to override the value for a given user preference (e.g. color-scheme preference) in a way that fully integrates with existing Web APIs.",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3972,8 +2669,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -3993,8 +2689,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4014,8 +2709,7 @@
    ],
    "repo-type": [
     "others"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4036,8 +2730,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4058,8 +2751,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4079,8 +2771,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4101,8 +2792,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4122,8 +2812,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4145,8 +2834,7 @@
    "shortName": "webusb",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4166,8 +2854,7 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -4189,8 +2876,7 @@
    "shortName": "web-share-target",
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
