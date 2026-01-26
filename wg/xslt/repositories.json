@@ -19,7 +19,8 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -41,7 +42,8 @@
    "contacts": [
     "michaelhkay",
     "caribouW3"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -63,7 +65,8 @@
    "policy": "open",
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -85,7 +88,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -105,7 +109,8 @@
    "contacts": [
     "michaelhkay",
     "caribouW3"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
