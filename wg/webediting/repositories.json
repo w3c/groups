@@ -18,8 +18,7 @@
    "shortName": "clipboard-apis",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -37,8 +36,7 @@
    "contacts": [
     "siusin"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -59,8 +57,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -81,8 +78,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -105,8 +101,7 @@
    "shortName": "input-events",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -128,8 +123,7 @@
    "shortName": "selection-api",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -150,8 +144,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
