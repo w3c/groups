@@ -18,7 +18,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -40,7 +41,8 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -62,7 +64,8 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -84,7 +87,8 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -103,7 +107,8 @@
    ],
    "repo-type": [
     "tests"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -123,7 +128,8 @@
    ],
    "repo-type": [
     "registry"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
