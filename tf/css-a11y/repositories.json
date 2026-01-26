@@ -14,7 +14,8 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
