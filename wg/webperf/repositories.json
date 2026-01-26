@@ -19,8 +19,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -42,8 +41,7 @@
    "policy": "open",
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -65,8 +63,7 @@
    "shortName": "device-memory",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -88,8 +85,7 @@
    "shortName": "element-timing",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -110,8 +106,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -134,8 +129,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -156,8 +150,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -178,8 +171,7 @@
    "shortName": "long-animation-frames",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -201,8 +193,7 @@
    "shortName": "longtasks",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -225,8 +216,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -248,32 +238,7 @@
    "shortName": "network-error-logging",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "page-visibility",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/TR/page-visibility-2/",
-  "description": "Page Visibility",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webperf"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "shortName": "navigation-timing",
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -295,8 +260,7 @@
    "shortName": "paint-timing",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -317,8 +281,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -340,8 +303,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -364,8 +326,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -387,8 +348,7 @@
    "shortName": "reporting",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -411,32 +371,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "resource-hints",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/resource-hints/",
-  "description": "Resource Hints",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webperf"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "shortName": "resource-hints",
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -459,8 +394,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -484,8 +418,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -507,8 +440,7 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -532,8 +464,7 @@
    "policy": "open",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -555,31 +486,7 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "webperf-dashboard",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://w3c.github.io/webperf-dashboard/",
-  "description": "W3C webperf issue tracker",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webperf"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "tool"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
