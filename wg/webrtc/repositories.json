@@ -18,8 +18,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -41,32 +40,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "mediacapture-depth",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/mediacapture-depth/",
-  "description": "the Media Capture Depth Stream Extensions specification",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webrtc"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "caribouW3"
-   ],
-   "shortName": "mediacapture-depth",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -88,8 +62,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -112,8 +85,7 @@
    "shortName": "mediacapture-fromelement",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -134,8 +106,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -158,8 +129,7 @@
    "shortName": "image-capture",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -182,8 +152,7 @@
    "shortName": "mediacapture-streams",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -206,8 +175,7 @@
    "shortName": "audio-output",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -230,8 +198,7 @@
    "shortName": "mediastream-recording",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -253,30 +220,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "mediacapture-scenarios",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "MediaStream Capture Scenarios",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webrtc"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "caribouW3"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -299,8 +243,7 @@
    "shortName": "screen-capture",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -320,8 +263,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -343,8 +285,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -366,8 +307,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -389,29 +329,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "mediacapture-worker",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "MediaStream with worker",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webrtc"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -433,8 +351,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -456,8 +373,7 @@
    ],
    "repo-type": [
     "process"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -479,8 +395,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -502,8 +417,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -525,8 +439,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -548,8 +461,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -571,8 +483,7 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -594,8 +505,7 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -618,8 +528,7 @@
    "shortName": "webrtc",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -641,8 +550,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -663,30 +571,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "webrtc-respec-ci",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Script to run continuous integration on a respec-based spec",
-  "isArchived": true,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webrtc"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "caribouW3"
-   ],
-   "repo-type": [
-    "tool"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -708,8 +593,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -732,8 +616,7 @@
    "shortName": "webrtc-stats",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  },
  {
@@ -755,8 +638,7 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
