@@ -15,7 +15,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "ContentPerformancePolicy"
+   "shortName": "ContentPerformancePolicy",
+   "exposed": true
   }
  },
  {
@@ -33,7 +34,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "EventListenerOptions"
+   "shortName": "EventListenerOptions",
+   "exposed": true
   }
  },
  {
@@ -54,7 +56,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -74,7 +77,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -108,7 +112,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -128,7 +133,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -148,7 +154,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -168,7 +175,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -188,7 +196,8 @@
    ],
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -207,7 +216,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "animation-worklet"
+   "shortName": "animation-worklet",
+   "exposed": true
   }
  },
  {
@@ -227,7 +237,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -248,7 +259,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -280,7 +292,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "async-append"
+   "shortName": "async-append",
+   "exposed": true
   }
  },
  {
@@ -301,7 +314,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -320,7 +334,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -340,7 +355,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -358,7 +374,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "auxclick"
+   "shortName": "auxclick",
+   "exposed": true
   }
  },
  {
@@ -379,7 +396,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -400,7 +418,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -419,7 +438,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -438,7 +458,8 @@
    "contacts": [
     "marcoscaceres"
    ],
-   "shortName": "budget-api"
+   "shortName": "budget-api",
+   "exposed": true
   }
  },
  {
@@ -458,7 +479,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -478,7 +500,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -497,7 +520,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -517,7 +541,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -538,7 +563,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -559,7 +585,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -580,7 +607,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -599,7 +627,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -619,7 +648,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -639,7 +669,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -659,7 +690,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -678,7 +710,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -699,7 +732,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -719,7 +753,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -739,7 +774,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -759,7 +795,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -779,7 +816,8 @@
    ],
    "repo-type": [
     "article"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -800,7 +838,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -820,7 +859,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -841,7 +881,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -862,7 +903,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -883,7 +925,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -903,7 +946,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -923,7 +967,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -944,7 +989,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -963,7 +1009,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -983,7 +1030,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1004,7 +1052,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1039,7 +1088,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1058,7 +1108,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1078,7 +1129,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1097,7 +1149,8 @@
    "contacts": [
     "aliams"
    ],
-   "shortName": "directory-upload"
+   "shortName": "directory-upload",
+   "exposed": true
   }
  },
  {
@@ -1129,7 +1182,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1149,7 +1203,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1168,7 +1223,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1187,7 +1243,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1207,7 +1264,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1227,7 +1285,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1247,7 +1306,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1267,7 +1327,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1288,7 +1349,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1310,7 +1372,8 @@
    "shortName": "entries-api",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1330,7 +1393,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1349,7 +1413,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1370,7 +1435,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1390,7 +1456,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1411,7 +1478,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1431,7 +1499,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1452,7 +1521,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1474,7 +1544,8 @@
    "shortName": "modality",
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1495,7 +1566,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1545,7 +1617,8 @@
    "shortName": "get-installed-related-apps",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1566,7 +1639,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1587,7 +1661,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1605,7 +1680,8 @@
    "contacts": [
     "marcoscaceres"
    ],
-   "shortName": "a11yapi"
+   "shortName": "a11yapi",
+   "exposed": true
   }
  },
  {
@@ -1623,7 +1699,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "Paymentrequest"
+   "shortName": "Paymentrequest",
+   "exposed": true
   }
  },
  {
@@ -1641,7 +1718,8 @@
    "contacts": [
     "msporny"
    ],
-   "shortName": "web-payments-browser-api"
+   "shortName": "web-payments-browser-api",
+   "exposed": true
   }
  },
  {
@@ -1673,7 +1751,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1693,7 +1772,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1713,7 +1793,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1732,7 +1813,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1752,7 +1834,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1770,7 +1853,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "img-conversion"
+   "shortName": "img-conversion",
+   "exposed": true
   }
  },
  {
@@ -1791,7 +1875,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1811,7 +1896,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1831,7 +1917,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1850,7 +1937,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1871,7 +1959,8 @@
    "shortName": "InputDeviceCapabilities",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1891,7 +1980,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1911,7 +2001,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1932,7 +2023,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1953,7 +2045,8 @@
    "shortName": "interventions",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1973,7 +2066,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -1993,7 +2087,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2013,7 +2108,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2030,7 +2126,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "isolation"
+   "shortName": "isolation",
+   "exposed": true
   }
  },
  {
@@ -2050,7 +2147,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2071,7 +2169,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2092,7 +2191,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2126,7 +2226,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2147,7 +2248,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2168,7 +2270,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2189,7 +2292,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2210,7 +2314,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2230,7 +2335,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2251,7 +2357,8 @@
    "shortName": "logical-sizing-properties",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2287,7 +2394,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2308,7 +2416,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2327,7 +2436,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2348,7 +2458,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2369,7 +2480,8 @@
    "shortName": "memory-pressure",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2388,7 +2500,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2406,7 +2519,8 @@
    "contacts": [
     "yoavweiss"
    ],
-   "shortName": "modality"
+   "shortName": "modality",
+   "exposed": true
   }
  },
  {
@@ -2426,7 +2540,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2447,7 +2562,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2468,7 +2584,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2489,7 +2606,8 @@
    "shortName": "netinfo",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2525,7 +2643,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2546,7 +2665,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2567,7 +2687,8 @@
    "shortName": "origin-policy",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2602,7 +2723,8 @@
    "shortName": "overscroll-scrollend-events",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2623,7 +2745,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2656,7 +2779,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2677,7 +2801,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2711,7 +2836,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2745,7 +2871,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2766,7 +2893,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2787,7 +2915,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2807,7 +2936,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2828,7 +2958,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2847,7 +2978,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2868,7 +3000,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2888,7 +3021,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2909,7 +3043,8 @@
    "shortName": "cors-rfc1918",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2930,7 +3065,8 @@
    ],
    "repo-type": [
     "process"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2949,7 +3085,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2968,7 +3105,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -2988,7 +3126,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3037,7 +3176,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3059,7 +3199,8 @@
    "shortName": "ResizeObserver",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3080,7 +3221,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3100,7 +3242,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3121,7 +3264,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3142,7 +3286,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3161,7 +3306,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3181,7 +3327,8 @@
    "shortName": "scroll-animations",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3201,7 +3348,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3223,7 +3371,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3255,7 +3404,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3275,7 +3425,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3296,7 +3447,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3316,7 +3468,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3337,7 +3490,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3360,7 +3514,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3381,7 +3536,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3400,7 +3556,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3418,7 +3575,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3438,7 +3596,8 @@
    ],
    "repo-type": [
     "tool"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3459,7 +3618,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3479,7 +3639,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3527,7 +3688,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3548,7 +3710,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3569,7 +3732,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3604,7 +3768,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3637,7 +3802,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3658,7 +3824,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3678,7 +3845,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3697,7 +3865,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3718,7 +3887,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3738,7 +3908,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3759,7 +3930,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3780,7 +3952,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3799,7 +3972,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3819,7 +3993,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3839,7 +4014,8 @@
    ],
    "repo-type": [
     "others"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3860,7 +4036,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3881,7 +4058,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3901,7 +4079,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3922,7 +4101,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3942,7 +4122,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3964,7 +4145,8 @@
    "shortName": "webusb",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -3984,7 +4166,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
@@ -4006,7 +4189,8 @@
    "shortName": "web-share-target",
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
