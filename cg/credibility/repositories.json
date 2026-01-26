@@ -17,8 +17,7 @@
    "repo-type": [
     "cg-report"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -41,8 +40,7 @@
     "homepage",
     "cg-report"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  }
 ]
