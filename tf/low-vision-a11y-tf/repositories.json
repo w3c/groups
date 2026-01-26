@@ -18,8 +18,7 @@
    "repo-type": [
     "rec-track"
    ],
-   "policy": "restricted",
-   "exposed": true
+   "policy": "restricted"
   }
  },
  {
@@ -41,8 +40,7 @@
    "shortName": "low-vision-a11y-tf",
    "repo-type": [
     "others"
-   ],
-   "exposed": true
+   ]
   }
  }
 ]
