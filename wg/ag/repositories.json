@@ -89,6 +89,32 @@
   }
  },
  {
+  "name": "wcag",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/wcag/guidelines/22/",
+  "description": "Web Content Accessibility Guidelines",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/ag"
+   ],
+   "contacts": [
+    "iadawn",
+    "kfranqueiro"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "note",
+    "rec-track",
+    "tool"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "wcag-act",
   "owner": {
    "login": "w3c"
