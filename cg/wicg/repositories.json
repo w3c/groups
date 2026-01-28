@@ -2854,28 +2854,6 @@
   }
  },
  {
-  "name": "webcrypto-secure-curves",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/webcrypto-secure-curves/",
-  "description": "Proposal for the addition of Curve25519 and Curve448 to the Web Cryptography API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "webhid",
   "owner": {
    "login": "WICG"
