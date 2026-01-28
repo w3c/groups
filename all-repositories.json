@@ -4338,28 +4338,6 @@
   }
  },
  {
-  "name": "webcrypto-secure-curves",
-  "owner": {
-   "login": "WICG"
-  },
-  "homepageUrl": "https://wicg.github.io/webcrypto-secure-curves/",
-  "description": "Proposal for the addition of Curve25519 and Curve448 to the Web Cryptography API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "webhid",
   "owner": {
    "login": "WICG"
@@ -31630,7 +31608,23 @@
   "homepageUrl": "https://w3c.github.io/wcag/guidelines/22/",
   "description": "Web Content Accessibility Guidelines",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    35422
+   ],
+   "contacts": [
+    "iadawn",
+    "kfranqueiro"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "note",
+    "rec-track",
+    "tool"
+   ],
+   "exposed": true
+  }
  },
  {
   "name": "wcag-act",
