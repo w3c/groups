@@ -2371,27 +2371,6 @@
   }
  },
  {
-  "name": "shared-storage",
-  "owner": {
-   "login": "WICG"
-  },
-  "description": "Explainer for proposed web platform Shared Storage API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "signature-based-sri",
   "owner": {
    "login": "WICG"
