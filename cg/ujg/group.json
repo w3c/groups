@@ -36,6 +36,24 @@
  "identifier": "cg/ujg",
  "services": [
   {
+   "href": "https://api.w3.org/services/46054",
+   "title": "GitHub repo (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/openuji/spec-ujg",
+    "shortdesc": "GitHub repo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46054"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46054/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46043",
    "title": "internal-ujg (Mailing List)",
    "details": {
