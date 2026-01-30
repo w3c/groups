@@ -31483,25 +31483,6 @@
   }
  },
  {
-  "name": "wai-website-data",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Shared data used for the W3C WAI website",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "shawna-slh",
-    "remibetin"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "wai-website-design",
   "owner": {
    "login": "w3c"
