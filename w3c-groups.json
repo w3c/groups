@@ -12404,6 +12404,117 @@
   ]
  },
  {
+  "id": 174368,
+  "name": "Generative UI Community Group",
+  "is_closed": false,
+  "creation-date": "2026-01-30",
+  "description": "<h3>Background</h3>\r\nRecent progress in large language models and agent-based systems has enabled Generative UI, in which user interfaces are synthesized at runtime based on intent, context, and user needs rather than being pre-authored. As noted in the Web &amp; AI Interest Group(Issue #3), this evolution raises new questions for the Web around interoperability, performance, accessibility, and alignment with existing concepts of the Web platform, motivating exploratory work within W3C to scope and better understand the associated design space.</p>\r\n\r\n<h3> Scope</h3>\r\nThe Generative UI Community Group will conduct exploratory work in the following areas:\r\n\r\n<ul>\r\n<li>Evaluation and performance: Explore how latency, responsiveness, and output quality of Generative UI can be characterized and assessed in Web-based environments, and identify potential gaps in existing W3C work.</li>\r\n<li>Validation and testing: Study validation and testing approaches for Generative UI that go beyond traditional end-to-end testing, including the use of structured test cases and reference implementations.</li>\r\n<li>Intermediate representations: Investigate the potential value of lightweight, cross-vendor intermediate representations or protocols for Generative UI to improve interoperability and model compatibility.</li>\r\n<li>Alignment with the Web platform: Examine whether Generative UI systems benefit from a constrained or lightweight subset of Web technologies aligned with existing Web principles.</li>\r\n</ul>\r\n\r\nThis group may publish Specifications.",
+  "shortname": "gen-ui",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/gen-ui"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/gen-ui/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/gen-ui/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/gen-ui/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/gen-ui/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/gen-ui/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/gen-ui/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/gen-ui",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46058",
+    "title": "internal-gen-ui (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-gen-ui/",
+     "shortdesc": "internal-gen-ui",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46058"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46058/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46056",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#gen-ui",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46056"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46056/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46057",
+    "title": "public-gen-ui (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-gen-ui/",
+     "shortdesc": "public-gen-ui",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46057"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46057/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46055",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/gen-ui/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46055"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46055/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 115520,
   "name": "HTML Working Group",
   "is_closed": false,
