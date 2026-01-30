@@ -28,6 +28,19 @@
   }
  },
  {
+  "name": "declarative-semantic-login",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
+  }
+ },
+ {
   "name": "fedcm-testing",
   "owner": {
    "login": "fedidcg"
@@ -75,6 +88,19 @@
     "cg-report"
    ],
    "exposed": true
+  }
+ },
+ {
+  "name": "native-app-idps",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ]
   }
  },
  {
