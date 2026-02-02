@@ -21280,24 +21280,6 @@
   }
  },
  {
-  "name": "http-headers-py",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Online service to show HTTP headers sent from a given URL",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "tool"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "i-slide",
   "owner": {
    "login": "w3c"
@@ -24925,24 +24907,6 @@
   "w3cjson": {
    "contacts": [
     "caribouW3"
-   ],
-   "repo-type": [
-    "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "online-spellchecker-py",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Online spellchecker",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "dontcallmedom"
    ],
    "repo-type": [
     "tool"
