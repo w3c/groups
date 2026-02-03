@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "name": "datadoc",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://w3c-cg.github.io/datadoc/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/datadoc"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
