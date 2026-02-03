@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "name": "threat-modeling",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://www.w3.org/community/tmcg/",
+  "description": "Repository for the W3C Threat Modeling Community Group (TMCG)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/tmcg"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
