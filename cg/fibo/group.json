@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6208",
-   "title": "internal-fibo (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-fibo/",
-    "shortdesc": "internal-fibo",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6208"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6208/groups"
-     }
-    }
-   }
+   "title": "internal-fibo (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6205",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#fibo",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6205"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6205/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6206",
-   "title": "public-fibo (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-fibo/",
-    "shortdesc": "public-fibo",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6206"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6206/groups"
-     }
-    }
-   }
+   "title": "public-fibo (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6204",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/fibo/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6204"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6204/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6257",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/fibo/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6257"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6257/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
