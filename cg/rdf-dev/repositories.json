@@ -1,5 +1,20 @@
 [
  {
+  "name": "EasierRDF",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "Making RDF easy enough for most developers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdf-dev"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "rdf-star",
   "owner": {
    "login": "w3c"
