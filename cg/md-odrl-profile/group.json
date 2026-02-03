@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25804",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c/market-data-odrl-profile",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25804"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25804/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25781",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#md-odrl-profile",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25781"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25781/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/25782",
-   "title": "public-md-odrl-profile (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-md-odrl-profile/",
-    "shortdesc": "public-md-odrl-profile",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25782"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25782/groups"
-     }
-    }
-   }
+   "title": "public-md-odrl-profile (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25780",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/md-odrl-profile/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25780"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25780/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
