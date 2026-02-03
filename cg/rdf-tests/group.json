@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15512",
-   "title": "GitHub repository (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c/rdf-tests",
-    "shortdesc": "GitHub repository",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15512"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15512/groups"
-     }
-    }
-   }
+   "title": "GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6153",
-   "title": "internal-rdf-tests (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-rdf-tests/",
-    "shortdesc": "internal-rdf-tests",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6153"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6153/groups"
-     }
-    }
-   }
+   "title": "internal-rdf-tests (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6150",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#rdf-tests",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6150"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6150/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6151",
-   "title": "public-rdf-tests (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-rdf-tests/",
-    "shortdesc": "public-rdf-tests",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6151"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6151/groups"
-     }
-    }
-   }
+   "title": "public-rdf-tests (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6149",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/rdf-tests/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6149"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6149/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
