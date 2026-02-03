@@ -37,94 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/39186",
-   "title": "GitHub repos (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/web-platform-dx",
-    "shortdesc": "GitHub repos",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39186"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39186/groups"
-     }
-    }
-   }
+   "title": "GitHub repos (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/39185",
-   "title": "internal-webdx (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-webdx/",
-    "shortdesc": "internal-webdx",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39185"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39185/groups"
-     }
-    }
-   }
+   "title": "internal-webdx (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/39184",
-   "title": "public-webdx (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webdx/",
-    "shortdesc": "public-webdx",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39184"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39184/groups"
-     }
-    }
-   }
+   "title": "public-webdx (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/39182",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webdx/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39182"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39182/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/39183",
-   "title": "Matrix (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "https://matrix.to/#/#web-platform-dx:matrix.org",
-    "shortdesc": "Matrix",
-    "longdesc": "Matrix channel",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39183"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39183/groups"
-     }
-    }
-   }
+   "title": "Matrix (Chat)"
   }
  ]
 }
