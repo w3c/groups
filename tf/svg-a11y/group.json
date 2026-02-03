@@ -137,22 +137,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6238",
-   "title": "public-svg-a11y (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-svg-a11y/",
-    "shortdesc": "public-svg-a11y",
-    "longdesc": "SVG Accessibility Task Force Mailing List",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6238"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6238/groups"
-     }
-    }
-   }
+   "title": "public-svg-a11y (Mailing List)"
   }
  ]
 }
