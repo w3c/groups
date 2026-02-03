@@ -37,31 +37,129 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40718",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/remotestorage/spec",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40718"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40718/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40716",
-   "title": "Google Group (Discussion Forum)"
+   "title": "Google Group (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://groups.google.com/g/unhosted?pli=1",
+    "shortdesc": "Google Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40716"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40716/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/574",
-   "title": "internal-unhosted (Mailing List)"
+   "title": "internal-unhosted (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-unhosted/",
+    "shortdesc": "internal-unhosted",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/574"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/574/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/572",
-   "title": "public-unhosted (Mailing List)"
+   "title": "public-unhosted (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-unhosted/",
+    "shortdesc": "public-unhosted",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/572"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/572/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40717",
-   "title": "Remote Storage (Discussion Forum)"
+   "title": "Remote Storage (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://community.remotestorage.io/",
+    "shortdesc": "Remote Storage",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40717"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40717/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/570",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/unhosted/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/570"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/570/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/569",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/unhosted/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/569"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/569/groups"
+     }
+    }
+   }
   }
  ]
 }
