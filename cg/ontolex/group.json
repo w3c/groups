@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15473",
-   "title": "GitHub repository (Version Control)"
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/cimiano/ontolex",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15473"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15473/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/388",
-   "title": "internal-ontolex (Mailing List)"
+   "title": "internal-ontolex (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ontolex/",
+    "shortdesc": "internal-ontolex",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/388"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/388/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/386",
-   "title": "public-ontolex (Mailing List)"
+   "title": "public-ontolex (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ontolex/",
+    "shortdesc": "public-ontolex",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/386"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/386/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/385",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ontolex/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/385"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/385/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/384",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/ontolex/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/384"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/384/groups"
+     }
+    }
+   }
   }
  ]
 }
