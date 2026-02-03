@@ -1,5 +1,26 @@
 [
  {
+  "name": "overlays",
+  "owner": {
+   "login": "a11yedge"
+  },
+  "description": "Overlays as examined by the W3C Accessibility at the Edge Community Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/apa"
+   ],
+   "contacts": [
+    "michael-n-cooper"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "a11y-longitudinal-tracking",
   "owner": {
    "login": "w3c"
