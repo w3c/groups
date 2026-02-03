@@ -37,94 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33208",
-   "title": "internal-webextensions (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-webextensions/",
-    "shortdesc": "internal-webextensions",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33208"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33208/groups"
-     }
-    }
-   }
+   "title": "internal-webextensions (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33206",
-   "title": "Matrix (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "https://matrix.to/#/#wecg:mozilla.org",
-    "shortdesc": "Matrix",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33206"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33206/groups"
-     }
-    }
-   }
+   "title": "Matrix (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33207",
-   "title": "public-webextensions (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webextensions/",
-    "shortdesc": "public-webextensions",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33207"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33207/groups"
-     }
-    }
-   }
+   "title": "public-webextensions (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33205",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webextensions/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33205"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33205/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/33209",
-   "title": "GitHub repo (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c/webextensions",
-    "shortdesc": "GitHub repo",
-    "longdesc": "GitHub repository",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33209"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33209/groups"
-     }
-    }
-   }
+   "title": "GitHub repo (Version Control)"
   }
  ]
 }
