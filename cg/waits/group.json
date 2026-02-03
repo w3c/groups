@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45746",
-   "title": "internal-waits (Mailing List)"
+   "title": "internal-waits (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-waits/",
+    "shortdesc": "internal-waits",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45746"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45746/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45744",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#waits",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45744"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45744/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45745",
-   "title": "public-waits (Mailing List)"
+   "title": "public-waits (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-waits/",
+    "shortdesc": "public-waits",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45745"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45745/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45743",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/waits/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45743"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45743/groups"
+     }
+    }
+   }
   }
  ]
 }
