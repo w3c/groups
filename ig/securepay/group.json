@@ -53,58 +53,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/16916",
-   "title": "member-wpsig (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-wpsig/",
-    "shortdesc": "member-wpsig",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/16916"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/16916/groups"
-     }
-    }
-   }
+   "title": "member-wpsig (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40767",
-   "title": "WPSIG Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/securepay/wiki/Main_Page",
-    "shortdesc": "WPSIG Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40767"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40767/groups"
-     }
-    }
-   }
+   "title": "WPSIG Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25908",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=113649",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25908"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25908/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
