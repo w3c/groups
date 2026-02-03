@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40715",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/theodi/BDNS",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40715"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40715/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/19041",
-   "title": "internal-bdns (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-bdns/",
-    "shortdesc": "internal-bdns",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/19041"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/19041/groups"
-     }
-    }
-   }
+   "title": "internal-bdns (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/19039",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#bdns",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/19039"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/19039/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/19040",
-   "title": "public-bdns (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-bdns/",
-    "shortdesc": "public-bdns",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/19040"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/19040/groups"
-     }
-    }
-   }
+   "title": "public-bdns (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/19038",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/bdns/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/19038"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/19038/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
