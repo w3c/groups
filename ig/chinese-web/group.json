@@ -53,19 +53,77 @@
  "services": [
   {
    "href": "https://api.w3.org/services/14229",
-   "title": "member-chinese-web (Mailing List)"
+   "title": "member-chinese-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-chinese-web/",
+    "shortdesc": "member-chinese-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/14229"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/14229/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/14678",
-   "title": "public-chinese-web (Mailing List)"
+   "title": "public-chinese-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-chinese-web/",
+    "shortdesc": "public-chinese-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/14678"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/14678/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17284",
-   "title": "Meetings (Other)"
+   "title": "Meetings (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/w3c/chinese-ig/blob/master/Meetings.md",
+    "shortdesc": "Meetings",
+    "longdesc": "Information on Meetings",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17284"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17284/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25915",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=109611",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25915"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25915/groups"
+     }
+    }
+   }
   }
  ]
 }
