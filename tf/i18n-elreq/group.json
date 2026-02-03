@@ -76,11 +76,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27711",
-   "title": "public-elreq-admin (Mailing List)"
+   "title": "public-elreq-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-elreq-admin/",
+    "shortdesc": "public-elreq-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27711"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27711/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7472",
-   "title": "public-i18n-ethiopic (Mailing List)"
+   "title": "public-i18n-ethiopic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-ethiopic/",
+    "shortdesc": "public-i18n-ethiopic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7472"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7472/groups"
+     }
+    }
+   }
   }
  ]
 }
