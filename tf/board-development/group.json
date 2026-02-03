@@ -82,11 +82,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45793",
-   "title": "board-appointee-suggestion (Mailing List)"
+   "title": "board-appointee-suggestion (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Board/board-appointee-suggestion/",
+    "shortdesc": "board-appointee-suggestion",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45793"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45793/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43990",
-   "title": "board-development (Mailing List)"
+   "title": "board-development (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Board/board-development/",
+    "shortdesc": "board-development",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43990"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43990/groups"
+     }
+    }
+   }
   }
  ]
 }
