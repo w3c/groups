@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6256",
-   "title": "internal-schema-course-extend (Mailing List)"
+   "title": "internal-schema-course-extend (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-schema-course-extend/",
+    "shortdesc": "internal-schema-course-extend",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6256"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6256/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6253",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#schema-course-extend",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6253"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6253/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6254",
-   "title": "public-schema-course-extend (Mailing List)"
+   "title": "public-schema-course-extend (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-schema-course-extend/",
+    "shortdesc": "public-schema-course-extend",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6254"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6254/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6252",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/schema-course-extend/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6252"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6252/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6280",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/schema-course-extend/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6280"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6280/groups"
+     }
+    }
+   }
   }
  ]
 }
