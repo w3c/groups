@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "name": "webdocs",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://www.w3.org/community/docs-cg/",
+  "description": "Repository for the W3C Docs Community Group. This group is an open community with the mission to ensure web developers and designers worldwide have the best information available so they can build things on the web platform.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/docs-cg"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
