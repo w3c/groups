@@ -53,97 +53,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7594",
-   "title": "member-wot-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-wot-wg/",
-    "shortdesc": "member-wot-wg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7594"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7594/groups"
-     }
-    }
-   }
+   "title": "member-wot-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17280",
-   "title": "cg (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/community/wot/",
-    "shortdesc": "cg",
-    "longdesc": "Community Group",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17280"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17280/groups"
-     }
-    }
-   }
+   "title": "cg (Other)"
   },
   {
    "href": "https://api.w3.org/services/17273",
-   "title": "Meetings (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/WoT/IG/wiki/Main_Page#WebConf_Meetings",
-    "shortdesc": "Meetings",
-    "longdesc": "Information on Meetings",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17273"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17273/groups"
-     }
-    }
-   }
+   "title": "Meetings (Other)"
   },
   {
    "href": "https://api.w3.org/services/25902",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=95969",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25902"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25902/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/6487",
-   "title": "public-wot-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-wot-wg/",
-    "shortdesc": "public-wot-wg",
-    "longdesc": "This is the archive of the public email list for the W3C Web of Things Working Group. ",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6487"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6487/groups"
-     }
-    }
-   }
+   "title": "public-wot-wg (Mailing List)"
   }
  ]
 }
