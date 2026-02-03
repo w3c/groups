@@ -37,23 +37,94 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45877",
-   "title": "internal-oasis (Mailing List)"
+   "title": "internal-oasis (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-oasis/",
+    "shortdesc": "internal-oasis",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45877"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45877/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45875",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#oasis",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45875"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45875/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45876",
-   "title": "public-oasis (Mailing List)"
+   "title": "public-oasis (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-oasis/",
+    "shortdesc": "public-oasis",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45876"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45876/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45874",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/oasis/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45874"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45874/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45882",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/dfsantamaria/OASIS",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45882"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45882/groups"
+     }
+    }
+   }
   }
  ]
 }
