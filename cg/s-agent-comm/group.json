@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46008",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/s-agent-comm",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46008"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46008/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/46003",
-   "title": "internal-s-agent-comm (Mailing List)"
+   "title": "internal-s-agent-comm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-s-agent-comm/",
+    "shortdesc": "internal-s-agent-comm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46003"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46003/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/46001",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#s-agent-comm",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46001"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46001/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/46002",
-   "title": "public-s-agent-comm (Mailing List)"
+   "title": "public-s-agent-comm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-s-agent-comm/",
+    "shortdesc": "public-s-agent-comm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46002"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46002/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/46000",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/s-agent-comm/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46000"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46000/groups"
+     }
+    }
+   }
   }
  ]
 }
