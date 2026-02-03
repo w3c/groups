@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40747",
-   "title": "internal-humancentricai (Mailing List)"
+   "title": "internal-humancentricai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-humancentricai/",
+    "shortdesc": "internal-humancentricai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40747"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40747/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40745",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#humancentricai",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40745"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40745/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40746",
-   "title": "public-humancentricai (Mailing List)"
+   "title": "public-humancentricai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-humancentricai/",
+    "shortdesc": "public-humancentricai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40746"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40746/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40744",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/humancentricai/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40744"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40744/groups"
+     }
+    }
+   }
   }
  ]
 }
