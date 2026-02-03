@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6471",
-   "title": "internal-schemaorg4datasets (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-schemaorg4datasets/",
-    "shortdesc": "internal-schemaorg4datasets",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6471"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6471/groups"
-     }
-    }
-   }
+   "title": "internal-schemaorg4datasets (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6468",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#schemaorg4datasets",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6468"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6468/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6469",
-   "title": "public-schemaorg4datasets (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-schemaorg4datasets/",
-    "shortdesc": "public-schemaorg4datasets",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6469"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6469/groups"
-     }
-    }
-   }
+   "title": "public-schemaorg4datasets (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6467",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/schemaorg4datasets/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6467"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6467/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
