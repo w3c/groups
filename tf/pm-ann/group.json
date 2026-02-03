@@ -83,21 +83,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45586",
-   "title": "group-pm-ann (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Group/group-pm-ann/",
-    "shortdesc": "group-pm-ann",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45586"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45586/groups"
-     }
-    }
-   }
+   "title": "group-pm-ann (Mailing List)"
   }
  ]
 }
