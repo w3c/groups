@@ -76,39 +76,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27753",
-   "title": "public-clreq-admin (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-clreq-admin/",
-    "shortdesc": "public-clreq-admin",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27753"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27753/groups"
-     }
-    }
-   }
+   "title": "public-clreq-admin (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/7323",
-   "title": "public-i18n-cjk (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-i18n-cjk/",
-    "shortdesc": "public-i18n-cjk",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7323"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7323/groups"
-     }
-    }
-   }
+   "title": "public-i18n-cjk (Mailing List)"
   }
  ]
 }
