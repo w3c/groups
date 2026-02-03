@@ -1,17 +1,1 @@
-[
- {
-  "name": "community-group",
-  "owner": {
-   "login": "design-tokens"
-  },
-  "homepageUrl": "https://www.designtokens.org/TR/drafts/",
-  "description": "This is the official DTCG repository for the design tokens site and specification.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/design-tokens"
-   ]
-  }
- }
-]
+[]
