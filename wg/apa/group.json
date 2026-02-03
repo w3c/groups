@@ -53,97 +53,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6846",
-   "title": "public-apa-admin (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-apa-admin/",
-    "shortdesc": "public-apa-admin",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6846"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6846/groups"
-     }
-    }
-   }
+   "title": "public-apa-admin (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6245",
-   "title": "Group Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/WAI/APA/wiki",
-    "shortdesc": "Group Wiki",
-    "longdesc": "Accessible Platform Architectures Working Group Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6245"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6245/groups"
-     }
-    }
-   }
+   "title": "Group Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/33315",
-   "title": "Agenda issues (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/apa",
-    "shortdesc": "Agenda issues",
-    "longdesc": "GitHub Agenda Issues",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33315"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33315/groups"
-     }
-    }
-   }
+   "title": "Agenda issues (Other)"
   },
   {
    "href": "https://api.w3.org/services/25892",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/apa",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25892"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25892/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/6726",
-   "title": "public-apa (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-apa/",
-    "shortdesc": "public-apa",
-    "longdesc": "main list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6726"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6726/groups"
-     }
-    }
-   }
+   "title": "public-apa (Mailing List)"
   }
  ]
 }
