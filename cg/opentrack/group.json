@@ -37,112 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45790",
-   "title": "Discussion forum (Discussion Forum)",
-   "details": {
-    "closed": false,
-    "type": "forum",
-    "link": "https://forum.openathletics.net/",
-    "shortdesc": "Discussion forum",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45790"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45790/groups"
-     }
-    }
-   }
+   "title": "Discussion forum (Discussion Forum)"
   },
   {
    "href": "https://api.w3.org/services/6505",
-   "title": "internal-opentrack (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-opentrack/",
-    "shortdesc": "internal-opentrack",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6505"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6505/groups"
-     }
-    }
-   }
+   "title": "internal-opentrack (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6502",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#opentrack",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6502"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6502/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6503",
-   "title": "public-opentrack (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-opentrack/",
-    "shortdesc": "public-opentrack",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6503"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6503/groups"
-     }
-    }
-   }
+   "title": "public-opentrack (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6501",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/opentrack/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6501"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6501/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6555",
-   "title": "GitHub repo (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c/opentrack-cg",
-    "shortdesc": "GitHub repo",
-    "longdesc": "OpenTrack CG GitHub repository",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6555"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6555/groups"
-     }
-    }
-   }
+   "title": "GitHub repo (Version Control)"
   }
  ]
 }
