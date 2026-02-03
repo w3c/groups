@@ -37,23 +37,94 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15465",
-   "title": "GitHub repositories (Version Control)"
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/shexSpec",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15465"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15465/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6481",
-   "title": "internal-shex (Mailing List)"
+   "title": "internal-shex (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-shex/",
+    "shortdesc": "internal-shex",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6481"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6481/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6479",
-   "title": "public-shex (Mailing List)"
+   "title": "public-shex (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-shex/",
+    "shortdesc": "public-shex",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6479"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6479/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6477",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/shex/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6477"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6477/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6478",
-   "title": "gitter (Chat)"
+   "title": "gitter (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://gitter.im/shapeExpressions/Lobby",
+    "shortdesc": "gitter",
+    "longdesc": "The main gitter channel for all things ShEx. There are other gitter channels for sub-topics.",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6478"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6478/groups"
+     }
+    }
+   }
   }
  ]
 }
