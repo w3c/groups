@@ -86,39 +86,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/16503",
-   "title": "public-pronunciation (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-pronunciation/",
-    "shortdesc": "public-pronunciation",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/16503"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/16503/groups"
-     }
-    }
-   }
+   "title": "public-pronunciation (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15551",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/WAI/APA/task-forces/pronunciation/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15551"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15551/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
