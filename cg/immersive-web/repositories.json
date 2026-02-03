@@ -21,6 +21,21 @@
   }
  },
  {
+  "name": "ar-common",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "A repo for discussing and capturing information about cross-API aspects of augmented reality ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "body-tracking",
   "owner": {
    "login": "immersive-web"
@@ -58,6 +73,22 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "cardboard-vr-display",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://immersive-web.github.io/cardboard-vr-display",
+  "description": "A JavaScript implementation of a WebVR 1.1 VRDisplay",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
    ],
    "exposed": true
   }
@@ -235,6 +266,21 @@
    ],
    "repo-type": [
     "homepage"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "marker-tracking",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "This feature is for adding the capability of tracking markers like QRCodes to WebXR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
    ],
    "exposed": true
   }
@@ -458,6 +504,21 @@
   }
  },
  {
+  "name": "semantic-labels",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "This repository will list all the semantic labels that can be returned by various WebXR APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "spatial-favicons",
   "owner": {
    "login": "immersive-web"
@@ -548,6 +609,22 @@
   }
  },
  {
+  "name": "webvrrocks",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "homepageUrl": "https://webvr.rocks/",
+  "description": "Your guide to Virtual Reality in the browser.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "webxr-accessibility",
   "owner": {
    "login": "immersive-web"
@@ -565,6 +642,20 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webxr-face-tracking-1",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
    ],
    "exposed": true
   }
@@ -610,6 +701,21 @@
    ],
    "repo-type": [
     "tool"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webxr-polyfill",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "description": "Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
    ],
    "exposed": true
   }
