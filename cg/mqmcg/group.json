@@ -37,15 +37,57 @@
  "services": [
   {
    "href": "https://api.w3.org/services/9382",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mqmcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9382"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9382/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/9383",
-   "title": "public-mqmcg (Mailing List)"
+   "title": "public-mqmcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mqmcg/",
+    "shortdesc": "public-mqmcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9383"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9383/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/9381",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mqmcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9381"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9381/groups"
+     }
+    }
+   }
   }
  ]
 }
