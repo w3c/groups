@@ -53,57 +53,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43950",
-   "title": "member-lws-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-lws-wg/",
-    "shortdesc": "member-lws-wg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43950"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43950/groups"
-     }
-    }
-   }
+   "title": "member-lws-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43925",
-   "title": "public-lws-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-lws-wg/",
-    "shortdesc": "public-lws-wg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43925"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43925/groups"
-     }
-    }
-   }
+   "title": "public-lws-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43978",
-   "title": "Working Group dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://github.com/orgs/w3c/projects/153/",
-    "shortdesc": "Working Group dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43978"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43978/groups"
-     }
-    }
-   }
+   "title": "Working Group dashboard (Issue Tracking)"
   }
  ]
 }
