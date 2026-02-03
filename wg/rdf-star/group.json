@@ -53,19 +53,78 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40724",
-   "title": "Past meetings and resolutions (Other)"
+   "title": "Past meetings and resolutions (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/2024/list-resolutions/?g=rdf-star&a=on",
+    "shortdesc": "Past meetings and resolutions",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40724"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40724/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39168",
-   "title": "member-rdf-star-wg (Mailing List)"
+   "title": "member-rdf-star-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-rdf-star-wg/",
+    "shortdesc": "member-rdf-star-wg",
+    "longdesc": "Member confidential mailing list for the RDF-star WG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39168"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39168/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39169",
-   "title": "public-rdf-star-wg (Mailing List)"
+   "title": "public-rdf-star-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rdf-star-wg/",
+    "shortdesc": "public-rdf-star-wg",
+    "longdesc": "Public mailing list for the RDF-star WG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39169"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39169/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43980",
-   "title": "WG dashboard (Issue Tracking)"
+   "title": "WG dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/orgs/w3c/projects/20/",
+    "shortdesc": "WG dashboard",
+    "longdesc": "Working Group dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43980"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43980/groups"
+     }
+    }
+   }
   }
  ]
 }
