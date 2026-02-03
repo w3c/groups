@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45931",
-   "title": "internal-uispec (Mailing List)"
+   "title": "internal-uispec (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-uispec/",
+    "shortdesc": "internal-uispec",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45931"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45931/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45929",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#uispec",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45929"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45929/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45930",
-   "title": "public-uispec (Mailing List)"
+   "title": "public-uispec (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-uispec/",
+    "shortdesc": "public-uispec",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45930"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45930/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45928",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/uispec/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45928"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45928/groups"
+     }
+    }
+   }
   }
  ]
 }
