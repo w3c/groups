@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45996",
-   "title": "internal-infinite-canvas (Mailing List)"
+   "title": "internal-infinite-canvas (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-infinite-canvas/",
+    "shortdesc": "internal-infinite-canvas",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45996"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45996/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45994",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#infinite-canvas",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45994"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45994/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45995",
-   "title": "public-infinite-canvas (Mailing List)"
+   "title": "public-infinite-canvas (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-infinite-canvas/",
+    "shortdesc": "public-infinite-canvas",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45995"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45995/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45993",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/infinite-canvas/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45993"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45993/groups"
+     }
+    }
+   }
   }
  ]
 }
