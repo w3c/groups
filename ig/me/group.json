@@ -52,95 +52,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33169",
-   "title": "GitHub repo (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c/media-and-entertainment/",
-    "shortdesc": "GitHub repo",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33169"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33169/groups"
-     }
-    }
-   }
+   "title": "GitHub repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/1804",
-   "title": "member-web-and-tv (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-web-and-tv/",
-    "shortdesc": "member-web-and-tv",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1804"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1804/groups"
-     }
-    }
-   }
+   "title": "member-web-and-tv (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1457",
-   "title": "public-web-and-tv (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-web-and-tv/",
-    "shortdesc": "public-web-and-tv",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1457"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1457/groups"
-     }
-    }
-   }
+   "title": "public-web-and-tv (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25906",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=46300",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25906"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25906/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/178",
-   "title": "webtv (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/2011/webtv/wiki",
-    "shortdesc": "webtv",
-    "longdesc": "Web and TV IG",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/178"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/178/groups"
-     }
-    }
-   }
+   "title": "webtv (Wiki)"
   }
  ]
 }
