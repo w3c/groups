@@ -53,31 +53,132 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25741",
-   "title": "Blog (Blog)"
+   "title": "Blog (Blog)",
+   "details": {
+    "closed": false,
+    "type": "blog",
+    "link": "https://www.w3.org/blog/tags/web-payments/",
+    "shortdesc": "Blog",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25741"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25741/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7187",
-   "title": "member-payments-wg (Mailing List)"
+   "title": "member-payments-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-payments-wg/",
+    "shortdesc": "member-payments-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7187"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7187/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6336",
-   "title": "public-payments-wg (Mailing List)"
+   "title": "public-payments-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-payments-wg/",
+    "shortdesc": "public-payments-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6336"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6336/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40768",
-   "title": "Work mode (Other)"
+   "title": "Work mode (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/w3c/webpayments/wiki/How-the-Working-Group-works",
+    "shortdesc": "Work mode",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40768"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40768/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17270",
-   "title": "Meetings (Other)"
+   "title": "Meetings (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/w3c/webpayments/wiki/Meetings",
+    "shortdesc": "Meetings",
+    "longdesc": "Information on Meetings",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17270"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17270/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25903",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83744",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25903"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25903/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17269",
-   "title": "Group wiki (Wiki)"
+   "title": "Group wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://github.com/w3c/webpayments/wiki",
+    "shortdesc": "Group wiki",
+    "longdesc": "Working Group wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17269"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17269/groups"
+     }
+    }
+   }
   }
  ]
 }
