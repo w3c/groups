@@ -29,39 +29,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43996",
-   "title": "board (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Board/board/",
-    "shortdesc": "board",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43996"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43996/groups"
-     }
-    }
-   }
+   "title": "board (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43989",
-   "title": "board-contact (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Board/board-contact/",
-    "shortdesc": "board-contact",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43989"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43989/groups"
-     }
-    }
-   }
+   "title": "board-contact (Mailing List)"
   }
  ]
 }
