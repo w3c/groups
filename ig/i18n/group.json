@@ -43,19 +43,77 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45918",
-   "title": "W3C Internationalization on Mastodon (Mastodon)"
+   "title": "W3C Internationalization on Mastodon (Mastodon)",
+   "details": {
+    "closed": false,
+    "type": "mastodon",
+    "link": "https://w3c.social/@webi18n",
+    "shortdesc": "W3C Internationalization on Mastodon",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45918"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45918/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45913",
-   "title": "W3C Internationalization on X (X)"
+   "title": "W3C Internationalization on X (X)",
+   "details": {
+    "closed": false,
+    "type": "x",
+    "link": "https://x.com/webi18n",
+    "shortdesc": "W3C Internationalization on X",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45913"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45913/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25905",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=72665",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25905"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25905/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/13776",
-   "title": "www-international (Mailing List)"
+   "title": "www-international (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/www-international/",
+    "shortdesc": "www-international",
+    "longdesc": "Public mailing list for the Internationalization Interest Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13776"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13776/groups"
+     }
+    }
+   }
   }
  ]
 }
