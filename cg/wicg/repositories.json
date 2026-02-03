@@ -722,6 +722,20 @@
   }
  },
  {
+  "name": "discourse-archive",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "discourse-wicg-theme",
   "owner": {
    "login": "WICG"
@@ -1915,6 +1929,21 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "reducing-memory-copies",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "Reducing memory copies in web-platform APIs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
    ],
    "exposed": true
   }
