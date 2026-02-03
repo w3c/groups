@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46012",
-   "title": "internal-autofill (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-autofill/",
-    "shortdesc": "internal-autofill",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46012"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46012/groups"
-     }
-    }
-   }
+   "title": "internal-autofill (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46010",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#autofill",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46010"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46010/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/46011",
-   "title": "public-autofill (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-autofill/",
-    "shortdesc": "public-autofill",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46011"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46011/groups"
-     }
-    }
-   }
+   "title": "public-autofill (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46009",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/autofill/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46009"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46009/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
