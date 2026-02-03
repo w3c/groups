@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27788",
-   "title": "GitHub repository (Version Control)"
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/tdm-reservation-protocol",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27788"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27788/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/27787",
-   "title": "internal-tdmrep (Mailing List)"
+   "title": "internal-tdmrep (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-tdmrep/",
+    "shortdesc": "internal-tdmrep",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27787"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27787/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/27785",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#tdmrep",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27785"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27785/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/27786",
-   "title": "public-tdmrep (Mailing List)"
+   "title": "public-tdmrep (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tdmrep/",
+    "shortdesc": "public-tdmrep",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27786"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27786/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/27784",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/tdmrep/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27784"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27784/groups"
+     }
+    }
+   }
   }
  ]
 }
