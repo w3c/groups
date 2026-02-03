@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15557",
-   "title": "internal-talent-signal (Mailing List)"
+   "title": "internal-talent-signal (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-talent-signal/",
+    "shortdesc": "internal-talent-signal",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15557"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15557/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15555",
-   "title": "public-talent-signal (Mailing List)"
+   "title": "public-talent-signal (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-talent-signal/",
+    "shortdesc": "public-talent-signal",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15555"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15555/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15553",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/talent-signal/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15553"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15553/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15592",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/talent-signal/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15592"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15592/groups"
+     }
+    }
+   }
   }
  ]
 }
