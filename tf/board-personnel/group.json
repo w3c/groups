@@ -59,7 +59,21 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43995",
-   "title": "board-personnel (Mailing List)"
+   "title": "board-personnel (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Board/board-personnel/",
+    "shortdesc": "board-personnel",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43995"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43995/groups"
+     }
+    }
+   }
   }
  ]
 }
