@@ -86,76 +86,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/12718",
-   "title": "public-adapt (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-adapt/",
-    "shortdesc": "public-adapt",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/12718"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/12718/groups"
-     }
-    }
-   }
+   "title": "public-adapt (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15517",
-   "title": "Tracker (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://github.com/w3c/adapt/issues",
-    "shortdesc": "Tracker",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15517"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15517/groups"
-     }
-    }
-   }
+   "title": "Tracker (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/12215",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://github.com/w3c/adapt/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/12215"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/12215/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/35068",
-   "title": "public-personalization-tf (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-personalization-tf/",
-    "shortdesc": "public-personalization-tf",
-    "longdesc": "public-personalization-tf : (Personalization Task Force changed its name to WAI Adapt. This list is no longer being used, instead, use public-adapt@w3.org. Archives previous to May 20th, 2022, please find them here, if you want to find them after May 20th, 2022, please find them at public-adapt@w3.org)",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/35068"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/35068/groups"
-     }
-    }
-   }
+   "title": "public-personalization-tf (Mailing List)"
   }
  ]
 }
