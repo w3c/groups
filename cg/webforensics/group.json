@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45967",
-   "title": "internal-webforensics (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-webforensics/",
-    "shortdesc": "internal-webforensics",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45967"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45967/groups"
-     }
-    }
-   }
+   "title": "internal-webforensics (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45965",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#webforensics",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45965"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45965/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45966",
-   "title": "public-webforensics (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webforensics/",
-    "shortdesc": "public-webforensics",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45966"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45966/groups"
-     }
-    }
-   }
+   "title": "public-webforensics (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45964",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webforensics/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45964"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45964/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
