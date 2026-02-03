@@ -52,77 +52,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7973",
-   "title": "member-tt (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-tt/",
-    "shortdesc": "member-tt",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7973"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7973/groups"
-     }
-    }
-   }
+   "title": "member-tt (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1905",
-   "title": "public-tt (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-tt/",
-    "shortdesc": "public-tt",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1905"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1905/groups"
-     }
-    }
-   }
+   "title": "public-tt (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25896",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=34314",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25896"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25896/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/17357",
-   "title": "Upcoming meetings (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://github.com/w3c/ttwg/issues?q=is%3Aissue+is%3Aopen+label%3Aagenda",
-    "shortdesc": "Upcoming meetings",
-    "longdesc": "Teleconferences and face-to-face meetings",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17357"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17357/groups"
-     }
-    }
-   }
+   "title": "Upcoming meetings (Other)"
   }
  ]
 }
