@@ -85,11 +85,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7244",
-   "title": "public-low-vision-a11y-tf (Mailing List)"
+   "title": "public-low-vision-a11y-tf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-low-vision-a11y-tf/",
+    "shortdesc": "public-low-vision-a11y-tf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7244"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7244/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6146",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6146"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6146/groups"
+     }
+    }
+   }
   }
  ]
 }
