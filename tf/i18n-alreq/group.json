@@ -76,39 +76,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/26380",
-   "title": "public-alreq-admin (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-alreq-admin/",
-    "shortdesc": "public-alreq-admin",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/26380"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/26380/groups"
-     }
-    }
-   }
+   "title": "public-alreq-admin (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/7411",
-   "title": "public-i18n-arabic (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-i18n-arabic/",
-    "shortdesc": "public-i18n-arabic",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7411"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7411/groups"
-     }
-    }
-   }
+   "title": "public-i18n-arabic (Mailing List)"
   }
  ]
 }
