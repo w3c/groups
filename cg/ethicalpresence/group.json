@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46053",
-   "title": "internal-ethicalpresence (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-ethicalpresence/",
-    "shortdesc": "internal-ethicalpresence",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46053"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46053/groups"
-     }
-    }
-   }
+   "title": "internal-ethicalpresence (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46051",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#ethicalpresence",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46051"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46051/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/46052",
-   "title": "public-ethicalpresence (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-ethicalpresence/",
-    "shortdesc": "public-ethicalpresence",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46052"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46052/groups"
-     }
-    }
-   }
+   "title": "public-ethicalpresence (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46050",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/ethicalpresence/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46050"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46050/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
