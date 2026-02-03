@@ -37,35 +37,148 @@
  "services": [
   {
    "href": "https://api.w3.org/services/763",
-   "title": "internal-w3process (Mailing List)"
+   "title": "internal-w3process (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-w3process/",
+    "shortdesc": "internal-w3process",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/763"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/763/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/760",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://webirc.w3.org/#/connect?channels=w3process",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/760"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/760/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/761",
-   "title": "public-w3process (Mailing List)"
+   "title": "public-w3process (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-w3process/",
+    "shortdesc": "public-w3process",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/761"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/761/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/759",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/w3process/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/759"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/759/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45932",
-   "title": "Slack (Chat)"
+   "title": "Slack (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://w3ccommunity.slack.com/#process",
+    "shortdesc": "Slack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45932"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45932/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45933",
-   "title": "Slack invite (Chat)"
+   "title": "Slack invite (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://www.w3.org/slack-w3ccommunity-invite#process",
+    "shortdesc": "Slack invite",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45933"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45933/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/758",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/w3process/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/758"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/758/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12221",
-   "title": "GitHub repo (Version Control)"
+   "title": "GitHub repo (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/process/",
+    "shortdesc": "GitHub repo",
+    "longdesc": "GitHub repository for revising the W3C process document",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12221"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12221/groups"
+     }
+    }
+   }
   }
  ]
 }
