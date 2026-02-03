@@ -52,58 +52,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1861",
-   "title": "member-audio (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-audio/",
-    "shortdesc": "member-audio",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1861"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1861/groups"
-     }
-    }
-   }
+   "title": "member-audio (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/220",
-   "title": "public-audio (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-audio/",
-    "shortdesc": "public-audio",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/220"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/220/groups"
-     }
-    }
-   }
+   "title": "public-audio (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25875",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=46884",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25875"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25875/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
