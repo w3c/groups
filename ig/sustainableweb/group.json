@@ -53,15 +53,57 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43970",
-   "title": "Dashboard (Other)"
+   "title": "Dashboard (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/chairboard.html?gid=ig/sustainableweb",
+    "shortdesc": "Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43970"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43970/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43971",
-   "title": "Issues (Issue Tracking)"
+   "title": "Issues (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=ig/sustainableweb",
+    "shortdesc": "Issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43971"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43971/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43954",
-   "title": "public-sustainableweb (Mailing List)"
+   "title": "public-sustainableweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sustainableweb/",
+    "shortdesc": "public-sustainableweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43954"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43954/groups"
+     }
+    }
+   }
   }
  ]
 }
