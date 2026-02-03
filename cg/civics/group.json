@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40755",
-   "title": "internal-civics (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-civics/",
-    "shortdesc": "internal-civics",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40755"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40755/groups"
-     }
-    }
-   }
+   "title": "internal-civics (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40753",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#civics",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40753"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40753/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/40754",
-   "title": "public-civics (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-civics/",
-    "shortdesc": "public-civics",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40754"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40754/groups"
-     }
-    }
-   }
+   "title": "public-civics (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40752",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/civics/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40752"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40752/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
