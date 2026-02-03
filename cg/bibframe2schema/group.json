@@ -37,111 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43842",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/RichardWallis/bibframe2schema",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43842"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43842/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15452",
-   "title": "internal-bibframe2schema (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-bibframe2schema/",
-    "shortdesc": "internal-bibframe2schema",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15452"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15452/groups"
-     }
-    }
-   }
+   "title": "internal-bibframe2schema (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15449",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#bibframe2schema",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15449"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15449/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/15450",
-   "title": "public-bibframe2schema (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-bibframe2schema/",
-    "shortdesc": "public-bibframe2schema",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15450"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15450/groups"
-     }
-    }
-   }
+   "title": "public-bibframe2schema (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15448",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/bibframe2schema/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15448"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15448/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/15453",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/bibframe2schema/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15453"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15453/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
