@@ -1,1 +1,352 @@
-[]
+[
+ {
+  "name": "LightweightFedCM",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "A Work Item of the Federated Identity Community Group.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "admin",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "Administrivia for the Federated ID Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "fedcm-testing",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "federation-element",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "fedidcg.github.io",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "homepageUrl": "https://fedidcg.github.io",
+  "description": "Website and charter of the Federated Identity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "idp-initiated",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "Agenda and minutes of meetings of the Federated Identity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "wseltzer",
+    "weiler"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "native-app-idps",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "New proposals in the Federated Identity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "protocol-library",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "protocol use case library",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "template",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "description": "Template repository for a CG proposal or work item.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "use-case-library",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "active-mode",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "A proposal to extend FedCM to handle logged out users gracefully",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "custom-requests",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "This is a proposal to extend FedCM to allow RPs to make custom requests to the IdP",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "delegation",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "Delegation-oriented FedCM",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "idp-registration",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "A proposal to extend FedCM to allow RPs to accept \"any\" registered IdP",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "multi-idp",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "template",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "description": "template for CG-WG Process",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
