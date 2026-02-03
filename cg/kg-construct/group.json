@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25779",
-   "title": "GitHub repositories (Version Control)"
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/kg-construct",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25779"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25779/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15530",
-   "title": "internal-kg-construct (Mailing List)"
+   "title": "internal-kg-construct (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-kg-construct/",
+    "shortdesc": "internal-kg-construct",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15530"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15530/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15527",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#kg-construct",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15527"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15527/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15528",
-   "title": "public-kg-construct (Mailing List)"
+   "title": "public-kg-construct (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-kg-construct/",
+    "shortdesc": "public-kg-construct",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15528"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15528/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15526",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/kg-construct/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15526"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15526/groups"
+     }
+    }
+   }
   }
  ]
 }
