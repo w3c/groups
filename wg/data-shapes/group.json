@@ -53,11 +53,40 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45920",
-   "title": "public-shacl (Mailing List)"
+   "title": "public-shacl (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-shacl/",
+    "shortdesc": "public-shacl",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45920"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45920/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45533",
-   "title": "IRC chat (Chat)"
+   "title": "IRC chat (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://irc.w3.org/?join=%23data-shapes",
+    "shortdesc": "IRC chat",
+    "longdesc": "W3C IRC channel #data-shapes",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45533"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45533/groups"
+     }
+    }
+   }
   }
  ]
 }
