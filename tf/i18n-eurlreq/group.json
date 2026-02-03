@@ -76,39 +76,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/26973",
-   "title": "public-eurlreq-admin (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-eurlreq-admin/",
-    "shortdesc": "public-eurlreq-admin",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/26973"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/26973/groups"
-     }
-    }
-   }
+   "title": "public-eurlreq-admin (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/16862",
-   "title": "public-i18n-europe (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-i18n-europe/",
-    "shortdesc": "public-i18n-europe",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/16862"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/16862/groups"
-     }
-    }
-   }
+   "title": "public-i18n-europe (Mailing List)"
   }
  ]
 }
