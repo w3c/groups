@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15545",
-   "title": "internal-iotschema (Mailing List)"
+   "title": "internal-iotschema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-iotschema/",
+    "shortdesc": "internal-iotschema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15545"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15545/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15542",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#iotschema",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15542"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15542/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15543",
-   "title": "public-iotschema (Mailing List)"
+   "title": "public-iotschema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-iotschema/",
+    "shortdesc": "public-iotschema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15543"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15543/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15541",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/iotschema/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15541"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15541/groups"
+     }
+    }
+   }
   }
  ]
 }
