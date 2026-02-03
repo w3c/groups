@@ -34,23 +34,95 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25743",
-   "title": "Blog (Blog)"
+   "title": "Blog (Blog)",
+   "details": {
+    "closed": false,
+    "type": "blog",
+    "link": "https://www.w3.org/blog/TAG/",
+    "shortdesc": "Blog",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25743"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25743/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43860",
-   "title": "GitHub repositories (Version Control)"
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3ctag",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43860"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43860/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1829",
-   "title": "tag (Mailing List)"
+   "title": "tag (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/tag/",
+    "shortdesc": "tag",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1829"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1829/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33314",
-   "title": "Agenda issues (Other)"
+   "title": "Agenda issues (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/agenda.html?gid=other/tag",
+    "shortdesc": "Agenda issues",
+    "longdesc": "GitHub Agenda Issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33314"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33314/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33313",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=other/tag",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33313"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33313/groups"
+     }
+    }
+   }
   }
  ]
 }
