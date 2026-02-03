@@ -53,11 +53,41 @@
  "services": [
   {
    "href": "https://api.w3.org/services/39160",
-   "title": "member-rch-wg (Mailing List)"
+   "title": "member-rch-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-rch-wg/",
+    "shortdesc": "member-rch-wg",
+    "longdesc": "Member-confidential mailing list for the RCH WG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39160"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39160/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39159",
-   "title": "public-rch-wg (Mailing List)"
+   "title": "public-rch-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rch-wg/",
+    "shortdesc": "public-rch-wg",
+    "longdesc": "Public mailing list for the RCH WG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39159"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39159/groups"
+     }
+    }
+   }
   }
  ]
 }
