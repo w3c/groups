@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45760",
-   "title": "internal-fdp (Mailing List)"
+   "title": "internal-fdp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-fdp/",
+    "shortdesc": "internal-fdp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45760"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45760/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45758",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#fdp",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45758"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45758/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45759",
-   "title": "public-fdp (Mailing List)"
+   "title": "public-fdp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-fdp/",
+    "shortdesc": "public-fdp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45759"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45759/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45757",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/fdp/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45757"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45757/groups"
+     }
+    }
+   }
   }
  ]
 }
