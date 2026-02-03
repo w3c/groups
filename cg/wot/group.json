@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1517",
-   "title": "Discord (Chat)"
+   "title": "Discord (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://discord.gg/RJNYJsEgnb",
+    "shortdesc": "Discord",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1517"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1517/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/34817",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/wot-cg",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34817"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34817/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1518",
-   "title": "public-web-of-things (Mailing List)"
+   "title": "public-web-of-things (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-of-things/",
+    "shortdesc": "public-web-of-things",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1518"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1518/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1516",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/wot/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1516"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1516/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1515",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://github.com/w3c/wot-cg/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1515"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1515/groups"
+     }
+    }
+   }
   }
  ]
 }
