@@ -53,11 +53,41 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25883",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=115520",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25883"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25883/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17262",
-   "title": "public-html (Mailing List)"
+   "title": "public-html (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html/",
+    "shortdesc": "public-html",
+    "longdesc": "Main list of the Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17262"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17262/groups"
+     }
+    }
+   }
   }
  ]
 }
