@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "name": "spec-ujg",
+  "owner": {
+   "login": "openuji"
+  },
+  "homepageUrl": "http://ujg.specs.openuji.org/",
+  "description": "User Journey Graph Spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ujg"
+   ],
+   "exposed": true
+  }
+ }
+]
