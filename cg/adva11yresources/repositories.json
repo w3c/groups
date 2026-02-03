@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "name": "aar",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://w3c-cg.github.io/aar/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/adva11yresources"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
