@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46007",
-   "title": "internal-agentic-arbitration (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-agentic-arbitration/",
-    "shortdesc": "internal-agentic-arbitration",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46007"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46007/groups"
-     }
-    }
-   }
+   "title": "internal-agentic-arbitration (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46005",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#agentic-arbitration",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46005"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46005/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/46006",
-   "title": "public-agentic-arbitration (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-agentic-arbitration/",
-    "shortdesc": "public-agentic-arbitration",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46006"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46006/groups"
-     }
-    }
-   }
+   "title": "public-agentic-arbitration (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46004",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/agentic-arbitration/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46004"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46004/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
