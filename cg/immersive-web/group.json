@@ -37,35 +37,148 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6350",
-   "title": "GitHub repositories (Version Control)"
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/immersive-web/",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6350"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6350/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45907",
-   "title": "internal-immersive-web (Mailing List)"
+   "title": "internal-immersive-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-immersive-web/",
+    "shortdesc": "internal-immersive-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45907"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45907/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15259",
-   "title": "internal-webvr (Mailing List)"
+   "title": "internal-webvr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-webvr/",
+    "shortdesc": "internal-webvr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15259"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15259/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6295",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webvr",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6295"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6295/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6296",
-   "title": "public-immersive-web (Mailing List)"
+   "title": "public-immersive-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-immersive-web/",
+    "shortdesc": "public-immersive-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6296"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6296/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/26565",
-   "title": "public-webvr (Mailing List)"
+   "title": "public-webvr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webvr/",
+    "shortdesc": "public-webvr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/26565"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/26565/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6294",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/immersive-web/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6294"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6294/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25917",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=87846",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25917"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25917/groups"
+     }
+    }
+   }
   }
  ]
 }
