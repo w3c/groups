@@ -37,39 +37,165 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15524",
-   "title": "GitHub repository (Version Control)"
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/smufl",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15524"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15524/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6138",
-   "title": "internal-music-notation (Mailing List)"
+   "title": "internal-music-notation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-music-notation/",
+    "shortdesc": "internal-music-notation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6138"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6138/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6135",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#music-notation",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6135"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6135/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15463",
-   "title": "MNX GitHub repository (Version Control)"
+   "title": "MNX GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/mnx",
+    "shortdesc": "MNX GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15463"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15463/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15462",
-   "title": "MusicXML GitHub repository (Version Control)"
+   "title": "MusicXML GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/musicxml",
+    "shortdesc": "MusicXML GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15462"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15462/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6136",
-   "title": "public-music-notation (Mailing List)"
+   "title": "public-music-notation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-music-notation/",
+    "shortdesc": "public-music-notation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6136"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6136/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6137",
-   "title": "public-music-notation-contrib (Mailing List)"
+   "title": "public-music-notation-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-music-notation-contrib/",
+    "shortdesc": "public-music-notation-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6137"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6137/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6134",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/music-notation/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6134"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6134/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6139",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/music-notation/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6139"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6139/groups"
+     }
+    }
+   }
   }
  ]
 }
