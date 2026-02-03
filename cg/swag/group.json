@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43908",
-   "title": "internal-swag (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-swag/",
-    "shortdesc": "internal-swag",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43908"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43908/groups"
-     }
-    }
-   }
+   "title": "internal-swag (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43906",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#swag",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43906"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43906/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43907",
-   "title": "public-swag (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-swag/",
-    "shortdesc": "public-swag",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43907"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43907/groups"
-     }
-    }
-   }
+   "title": "public-swag (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43905",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/swag/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43905"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43905/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
