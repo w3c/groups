@@ -53,23 +53,95 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27812",
-   "title": "GitHub Repositories (Version Control)"
+   "title": "GitHub Repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/miniapp/",
+    "shortdesc": "GitHub Repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27812"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27812/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/28075",
-   "title": "member-miniapps-wg (Mailing List)"
+   "title": "member-miniapps-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-miniapps-wg/",
+    "shortdesc": "member-miniapps-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/28075"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/28075/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/27783",
-   "title": "public-miniapps-wg (Mailing List)"
+   "title": "public-miniapps-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-miniapps-wg/",
+    "shortdesc": "public-miniapps-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27783"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27783/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33322",
-   "title": "Agenda issues (Other)"
+   "title": "Agenda issues (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/miniapps",
+    "shortdesc": "Agenda issues",
+    "longdesc": "GitHub Agenda Issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33322"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33322/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33323",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/miniapps",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33323"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33323/groups"
+     }
+    }
+   }
   }
  ]
 }
