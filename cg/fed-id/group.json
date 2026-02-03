@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33239",
-   "title": "GitHub Repository (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/fedidcg",
-    "shortdesc": "GitHub Repository",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33239"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33239/groups"
-     }
-    }
-   }
+   "title": "GitHub Repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/33237",
-   "title": "internal-fed-id (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-fed-id/",
-    "shortdesc": "internal-fed-id",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33237"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33237/groups"
-     }
-    }
-   }
+   "title": "internal-fed-id (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33235",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#fed-id",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33235"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33235/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33236",
-   "title": "public-fed-id (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-fed-id/",
-    "shortdesc": "public-fed-id",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33236"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33236/groups"
-     }
-    }
-   }
+   "title": "public-fed-id (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33234",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/fed-id/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33234"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33234/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
