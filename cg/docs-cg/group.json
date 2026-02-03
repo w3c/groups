@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45648",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/webdocs",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45648"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45648/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45614",
-   "title": "internal-docs-cg (Mailing List)"
+   "title": "internal-docs-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-docs-cg/",
+    "shortdesc": "internal-docs-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45614"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45614/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45613",
-   "title": "public-docs-cg (Mailing List)"
+   "title": "public-docs-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-docs-cg/",
+    "shortdesc": "public-docs-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45613"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45613/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45611",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/docs-cg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45611"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45611/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45653",
-   "title": "Slack (Slack)"
+   "title": "Slack (Slack)",
+   "details": {
+    "closed": false,
+    "type": "slack",
+    "link": "https://w3ccommunity.slack.com/archives/C08KNG3GFEF",
+    "shortdesc": "Slack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45653"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45653/groups"
+     }
+    }
+   }
   }
  ]
 }
