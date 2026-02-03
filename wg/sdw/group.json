@@ -53,23 +53,95 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45563",
-   "title": "GitHub: SOSA SSN repository (Version Control)"
+   "title": "GitHub: SOSA SSN repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/sdw-sosa-ssn",
+    "shortdesc": "GitHub: SOSA SSN repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45563"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45563/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7353",
-   "title": "member-sdw-wg (Mailing List)"
+   "title": "member-sdw-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-sdw-wg/",
+    "shortdesc": "member-sdw-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7353"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7353/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33268",
-   "title": "public-sdw-wg (Mailing List)"
+   "title": "public-sdw-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sdw-wg/",
+    "shortdesc": "public-sdw-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33268"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33268/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33317",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/sdw",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dasbboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33317"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33317/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7621",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/sdw",
+    "shortdesc": "GitHub",
+    "longdesc": "w3c/sdw GitHub Repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7621"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7621/groups"
+     }
+    }
+   }
   }
  ]
 }
