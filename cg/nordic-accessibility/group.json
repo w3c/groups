@@ -37,23 +37,94 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33351",
-   "title": "internal-nordic-accessibility (Mailing List)"
+   "title": "internal-nordic-accessibility (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-nordic-accessibility/",
+    "shortdesc": "internal-nordic-accessibility",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33351"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33351/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33350",
-   "title": "public-nordic-accessibility (Mailing List)"
+   "title": "public-nordic-accessibility (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-nordic-accessibility/",
+    "shortdesc": "public-nordic-accessibility",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33350"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33350/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33348",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/nordic-accessibility/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33348"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33348/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39177",
-   "title": "W3C Community Slack channel (Slack)"
+   "title": "W3C Community Slack channel (Slack)",
+   "details": {
+    "closed": false,
+    "type": "slack",
+    "link": "https://www.w3.org/slack-w3ccommunity-invite",
+    "shortdesc": "W3C Community Slack channel",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39177"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39177/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45925",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/Nordic-Accessibility-Community-Group",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45925"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45925/groups"
+     }
+    }
+   }
   }
  ]
 }
