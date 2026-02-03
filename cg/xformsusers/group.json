@@ -37,112 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1014",
-   "title": "internal-xformsusers (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-xformsusers/",
-    "shortdesc": "internal-xformsusers",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1014"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1014/groups"
-     }
-    }
-   }
+   "title": "internal-xformsusers (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1011",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#xformsusers",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1011"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1011/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1012",
-   "title": "public-xformsusers (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-xformsusers/",
-    "shortdesc": "public-xformsusers",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1012"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1012/groups"
-     }
-    }
-   }
+   "title": "public-xformsusers (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1010",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/xformsusers/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1010"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1010/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/1009",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/xformsusers/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1009"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1009/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/166",
-   "title": "forms (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/MarkUp/Forms/wiki",
-    "shortdesc": "forms",
-    "longdesc": "W3C XForms Group Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/166"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/166/groups"
-     }
-    }
-   }
+   "title": "forms (Wiki)"
   }
  ]
 }
