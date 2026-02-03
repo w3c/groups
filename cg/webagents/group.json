@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40761",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/webagents",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40761"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40761/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/40728",
-   "title": "internal-webagents (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-webagents/",
-    "shortdesc": "internal-webagents",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40728"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40728/groups"
-     }
-    }
-   }
+   "title": "internal-webagents (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40726",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#webagents",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40726"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40726/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/40727",
-   "title": "public-webagents (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webagents/",
-    "shortdesc": "public-webagents",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40727"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40727/groups"
-     }
-    }
-   }
+   "title": "public-webagents (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40725",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webagents/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40725"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40725/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
