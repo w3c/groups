@@ -37,94 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6089",
-   "title": "GitHub repositories (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/webassembly",
-    "shortdesc": "GitHub repositories",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6089"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6089/groups"
-     }
-    }
-   }
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6054",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#webassembly",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6054"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6054/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6055",
-   "title": "public-webassembly (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webassembly/",
-    "shortdesc": "public-webassembly",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6055"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6055/groups"
-     }
-    }
-   }
+   "title": "public-webassembly (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6053",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webassembly/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6053"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6053/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/12190",
-   "title": "public-webassembly-announce (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webassembly-announce/",
-    "shortdesc": "public-webassembly-announce",
-    "longdesc": "public-webassembly-users: mailing list for announcements from the webassembly CG",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/12190"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/12190/groups"
-     }
-    }
-   }
+   "title": "public-webassembly-announce (Mailing List)"
   }
  ]
 }
