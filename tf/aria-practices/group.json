@@ -86,11 +86,40 @@
  "services": [
   {
    "href": "https://api.w3.org/services/12371",
-   "title": "public-aria-practices (Mailing List)"
+   "title": "public-aria-practices (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-aria-practices/",
+    "shortdesc": "public-aria-practices",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12371"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12371/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/34825",
-   "title": "Minutes (Other)"
+   "title": "Minutes (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/WAI/ARIA/task-forces/practices/minutes",
+    "shortdesc": "Minutes",
+    "longdesc": "Minutes of Authoring Practices Task Force meetings",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34825"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34825/groups"
+     }
+    }
+   }
   }
  ]
 }
