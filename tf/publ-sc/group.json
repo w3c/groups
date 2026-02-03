@@ -160,11 +160,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7563",
-   "title": "member-publishing-sc (Mailing List)"
+   "title": "member-publishing-sc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-publishing-sc/",
+    "shortdesc": "member-publishing-sc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7563"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7563/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6974",
-   "title": "public-publishing-sc (Mailing List)"
+   "title": "public-publishing-sc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-publishing-sc/",
+    "shortdesc": "public-publishing-sc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6974"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6974/groups"
+     }
+    }
+   }
   }
  ]
 }
