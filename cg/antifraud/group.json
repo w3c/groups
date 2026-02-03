@@ -37,112 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33296",
-   "title": "GitHub org (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/antifraudcg",
-    "shortdesc": "GitHub org",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33296"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33296/groups"
-     }
-    }
-   }
+   "title": "GitHub org (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/33295",
-   "title": "internal-antifraud (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-antifraud/",
-    "shortdesc": "internal-antifraud",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33295"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33295/groups"
-     }
-    }
-   }
+   "title": "internal-antifraud (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33293",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#antifraud",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33293"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33293/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/33294",
-   "title": "public-antifraud (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-antifraud/",
-    "shortdesc": "public-antifraud",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33294"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33294/groups"
-     }
-    }
-   }
+   "title": "public-antifraud (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33292",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/antifraud/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33292"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33292/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/33338",
-   "title": "Slack (Slack)",
-   "details": {
-    "closed": false,
-    "type": "slack",
-    "link": "https://w3ccommunity.slack.com/archives/C02QY5HPAJG",
-    "shortdesc": "Slack",
-    "longdesc": "W3C slack instance #anti-fraud",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33338"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33338/groups"
-     }
-    }
-   }
+   "title": "Slack (Slack)"
   }
  ]
 }
