@@ -86,21 +86,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/39211",
-   "title": "public-maturity (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-maturity/",
-    "shortdesc": "public-maturity",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39211"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39211/groups"
-     }
-    }
-   }
+   "title": "public-maturity (Mailing List)"
   }
  ]
 }
