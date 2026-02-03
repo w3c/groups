@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43958",
-   "title": "internal-crdt4rdf (Mailing List)"
+   "title": "internal-crdt4rdf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-crdt4rdf/",
+    "shortdesc": "internal-crdt4rdf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43958"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43958/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43956",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#crdt4rdf",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43956"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43956/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43957",
-   "title": "public-crdt4rdf (Mailing List)"
+   "title": "public-crdt4rdf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-crdt4rdf/",
+    "shortdesc": "public-crdt4rdf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43957"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43957/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43955",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/crdt4rdf/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43955"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43955/groups"
+     }
+    }
+   }
   }
  ]
 }
