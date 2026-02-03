@@ -82,7 +82,21 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43988",
-   "title": "board-audit (Mailing List)"
+   "title": "board-audit (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Board/board-audit/",
+    "shortdesc": "board-audit",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43988"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43988/groups"
+     }
+    }
+   }
   }
  ]
 }
