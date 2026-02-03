@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43873",
-   "title": "internal-global-inclusion (Mailing List)"
+   "title": "internal-global-inclusion (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-global-inclusion/",
+    "shortdesc": "internal-global-inclusion",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43873"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43873/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43871",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://irc.w3.org/?channels=%23global-inclusion",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43871"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43871/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43872",
-   "title": "public-global-inclusion (Mailing List)"
+   "title": "public-global-inclusion (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-global-inclusion/",
+    "shortdesc": "public-global-inclusion",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43872"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43872/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43870",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/global-inclusion/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43870"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43870/groups"
+     }
+    }
+   }
   }
  ]
 }
