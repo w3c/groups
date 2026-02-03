@@ -59,21 +59,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43992",
-   "title": "board-finance (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Board/board-finance/",
-    "shortdesc": "board-finance",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43992"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43992/groups"
-     }
-    }
-   }
+   "title": "board-finance (Mailing List)"
   }
  ]
 }
