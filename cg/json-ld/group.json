@@ -37,112 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15474",
-   "title": "GitHub repositories (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/json-ld",
-    "shortdesc": "GitHub repositories",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15474"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15474/groups"
-     }
-    }
-   }
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/557",
-   "title": "internal-json-ld (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/archives/member/internal-json-ld/",
-    "shortdesc": "internal-json-ld",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/557"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/557/groups"
-     }
-    }
-   }
+   "title": "internal-json-ld (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/554",
-   "title": "irc (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#json-ld",
-    "shortdesc": "irc",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/554"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/554/groups"
-     }
-    }
-   }
+   "title": "irc (Chat)"
   },
   {
    "href": "https://api.w3.org/services/27309",
-   "title": "public-json-ld (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-json-ld/",
-    "shortdesc": "public-json-ld",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27309"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27309/groups"
-     }
-    }
-   }
+   "title": "public-json-ld (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/553",
-   "title": "rss (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/json-ld/feed/",
-    "shortdesc": "rss",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/553"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/553/groups"
-     }
-    }
-   }
+   "title": "rss (RSS)"
   },
   {
    "href": "https://api.w3.org/services/560",
-   "title": "public-linked-json (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-linked-json/",
-    "shortdesc": "public-linked-json",
-    "longdesc": "Previous group list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/560"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/560/groups"
-     }
-    }
-   }
+   "title": "public-linked-json (Mailing List)"
   }
  ]
 }
