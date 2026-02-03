@@ -53,40 +53,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6352",
-   "title": "public-webauthn (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webauthn/",
-    "shortdesc": "public-webauthn",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6352"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6352/groups"
-     }
-    }
-   }
+   "title": "public-webauthn (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25900",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=87227",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25900"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25900/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
