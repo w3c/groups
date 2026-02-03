@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45963",
-   "title": "internal-facade-x (Mailing List)"
+   "title": "internal-facade-x (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-facade-x/",
+    "shortdesc": "internal-facade-x",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45963"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45963/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45961",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#facade-x",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45961"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45961/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45962",
-   "title": "public-facade-x (Mailing List)"
+   "title": "public-facade-x (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-facade-x/",
+    "shortdesc": "public-facade-x",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45962"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45962/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45960",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/facade-x/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45960"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45960/groups"
+     }
+    }
+   }
   }
  ]
 }
