@@ -37,207 +37,47 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6463",
-   "title": "Charter (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.openactive.io/openactive-w3c-cg/charter.html",
-    "shortdesc": "Charter",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6463"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6463/groups"
-     }
-    }
-   }
+   "title": "Charter (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/6317",
-   "title": "Chat (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "https://openactive.io/public-chat/",
-    "shortdesc": "Chat",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6317"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6317/groups"
-     }
-    }
-   }
+   "title": "Chat (Chat)"
   },
   {
    "href": "https://api.w3.org/services/27351",
-   "title": "internal-openactive (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-openactive/",
-    "shortdesc": "internal-openactive",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27351"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27351/groups"
-     }
-    }
-   }
+   "title": "internal-openactive (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6318",
-   "title": "public-openactive (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-openactive/",
-    "shortdesc": "public-openactive",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6318"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6318/groups"
-     }
-    }
-   }
+   "title": "public-openactive (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6316",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/openactive/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6316"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6316/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/13753",
-   "title": "Meeting calendar (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://calendar.google.com/calendar/embed?src=openactive.io_645khi45bjhce06osqdls9u900%40group.calendar.google.com&ctz=Europe%2FLondon",
-    "shortdesc": "Meeting calendar",
-    "longdesc": "Meeting calendar on Google Calendar",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13753"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13753/groups"
-     }
-    }
-   }
+   "title": "Meeting calendar (Other)"
   },
   {
    "href": "https://api.w3.org/services/13755",
-   "title": "Meeting recordings (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.youtube.com/watch?v=pDYIXVFpaSM&list=PLVWjdeMZoXg58QRB_GPT3PGFYgp1IU8ja",
-    "shortdesc": "Meeting recordings",
-    "longdesc": "Meeting recordings on Youtube",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13755"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13755/groups"
-     }
-    }
-   }
+   "title": "Meeting recordings (Other)"
   },
   {
    "href": "https://api.w3.org/services/13757",
-   "title": "API Dashboard (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://status.openactive.io/",
-    "shortdesc": "API Dashboard",
-    "longdesc": "OpenActive API Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13757"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13757/groups"
-     }
-    }
-   }
+   "title": "API Dashboard (Other)"
   },
   {
    "href": "https://api.w3.org/services/6323",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/openactive",
-    "shortdesc": "GitHub",
-    "longdesc": "Openactive's GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6323"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6323/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6321",
-   "title": "Website (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.openactive.io",
-    "shortdesc": "Website",
-    "longdesc": "OpenActive's Website",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6321"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6321/groups"
-     }
-    }
-   }
+   "title": "Website (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/6322",
-   "title": "X (X)",
-   "details": {
-    "closed": false,
-    "type": "x",
-    "link": "https://x.com/openactiveio",
-    "shortdesc": "X",
-    "longdesc": "Openactive's X",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6322"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6322/groups"
-     }
-    }
-   }
+   "title": "X (X)"
   }
  ]
 }
