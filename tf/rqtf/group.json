@@ -86,21 +86,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7943",
-   "title": "public-rqtf (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-rqtf/",
-    "shortdesc": "public-rqtf",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7943"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7943/groups"
-     }
-    }
-   }
+   "title": "public-rqtf (Mailing List)"
   }
  ]
 }
