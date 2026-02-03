@@ -53,21 +53,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33210",
-   "title": "public-editing-tf (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-editing-tf/",
-    "shortdesc": "public-editing-tf",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33210"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33210/groups"
-     }
-    }
-   }
+   "title": "public-editing-tf (Mailing List)"
   }
  ]
 }
