@@ -52,23 +52,96 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1839",
-   "title": "member-webrtc (Mailing List)"
+   "title": "member-webrtc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-webrtc/",
+    "shortdesc": "member-webrtc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1839"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1839/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1852",
-   "title": "public-webrtc (Mailing List)"
+   "title": "public-webrtc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webrtc/",
+    "shortdesc": "public-webrtc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1852"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1852/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25904",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=47318",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25904"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25904/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/175",
-   "title": "webrtc (Wiki)"
+   "title": "webrtc (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2011/04/webrtc/wiki",
+    "shortdesc": "webrtc",
+    "longdesc": "Web Real-Time Communications Working Group Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/175"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/175/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25918",
-   "title": "YouTube Channel (Other)"
+   "title": "YouTube Channel (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.youtube.com/channel/UC45Ezme8vyES52e0Wgu-IVw",
+    "shortdesc": "YouTube Channel",
+    "longdesc": "YouTube Channel (records of meetings)",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25918"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25918/groups"
+     }
+    }
+   }
   }
  ]
 }
