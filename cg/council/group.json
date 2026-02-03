@@ -37,129 +37,31 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45978",
-   "title": "#cg-program on Slack (Discussion Forum)",
-   "details": {
-    "closed": false,
-    "type": "forum",
-    "link": "https://w3ccommunity.slack.com/archives/C09HRJAMHV1",
-    "shortdesc": "#cg-program on Slack",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45978"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45978/groups"
-     }
-    }
-   }
+   "title": "#cg-program on Slack (Discussion Forum)"
   },
   {
    "href": "https://api.w3.org/services/581",
-   "title": "internal-council (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-council/",
-    "shortdesc": "internal-council",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/581"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/581/groups"
-     }
-    }
-   }
+   "title": "internal-council (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/579",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#cg-program",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/579"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/579/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/25976",
-   "title": "Issue Tracking (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://github.com/w3c/cg-program/issues",
-    "shortdesc": "Issue Tracking",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25976"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25976/groups"
-     }
-    }
-   }
+   "title": "Issue Tracking (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/400",
-   "title": "public-council (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-council/",
-    "shortdesc": "public-council",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/400"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/400/groups"
-     }
-    }
-   }
+   "title": "public-council (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/578",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/council/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/578"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/578/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/577",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/council/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/577"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/577/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
