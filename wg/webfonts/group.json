@@ -52,15 +52,59 @@
  "services": [
   {
    "href": "https://api.w3.org/services/217",
-   "title": "public-webfonts-wg (Mailing List)"
+   "title": "public-webfonts-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webfonts-wg/",
+    "shortdesc": "public-webfonts-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/217"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/217/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/102",
-   "title": "fonts (Wiki)"
+   "title": "fonts (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/Fonts/WG/wiki",
+    "shortdesc": "fonts",
+    "longdesc": "Fonts WG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/102"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/102/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25901",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=44556",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25901"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25901/groups"
+     }
+    }
+   }
   }
  ]
 }
