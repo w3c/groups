@@ -52,31 +52,132 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25966",
-   "title": "General SVG discussion list (Mailing List)"
+   "title": "General SVG discussion list (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/www-svg/",
+    "shortdesc": "General SVG discussion list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25966"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25966/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/14026",
-   "title": "group-svg-wg (Mailing List)"
+   "title": "group-svg-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-svg-wg/",
+    "shortdesc": "group-svg-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/14026"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/14026/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/142",
-   "title": "svg (Wiki)"
+   "title": "svg (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/Graphics/SVG/WG/wiki",
+    "shortdesc": "svg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/142"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/142/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1886",
-   "title": "w3c-svg-wg (Mailing List)"
+   "title": "w3c-svg-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-svg-wg/",
+    "shortdesc": "w3c-svg-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1886"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1886/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/290",
-   "title": "public-svg-issues (Mailing List)"
+   "title": "public-svg-issues (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-svg-issues/",
+    "shortdesc": "public-svg-issues",
+    "longdesc": "archiving issues on the SVG WG GitHub repo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/290"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/290/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/99",
-   "title": "fxtf (Wiki)"
+   "title": "fxtf (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/Graphics/fx/wiki",
+    "shortdesc": "fxtf",
+    "longdesc": "Effects Task Force",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/99"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/99/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/207",
-   "title": "public-svg-wg (Mailing List)"
+   "title": "public-svg-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-svg-wg/",
+    "shortdesc": "public-svg-wg",
+    "longdesc": "main list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/207"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/207/groups"
+     }
+    }
+   }
   }
  ]
 }
