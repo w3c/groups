@@ -86,21 +86,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/44960",
-   "title": "public-pdf-aam (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-pdf-aam/",
-    "shortdesc": "public-pdf-aam",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/44960"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/44960/groups"
-     }
-    }
-   }
+   "title": "public-pdf-aam (Mailing List)"
   }
  ]
 }
