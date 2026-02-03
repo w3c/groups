@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1259",
-   "title": "internal-schemabibex (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-schemabibex/",
-    "shortdesc": "internal-schemabibex",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1259"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1259/groups"
-     }
-    }
-   }
+   "title": "internal-schemabibex (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1256",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#schemabibex",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1256"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1256/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1257",
-   "title": "public-schemabibex (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-schemabibex/",
-    "shortdesc": "public-schemabibex",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1257"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1257/groups"
-     }
-    }
-   }
+   "title": "public-schemabibex (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1255",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/schemabibex/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1255"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1255/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/1254",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/schemabibex/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1254"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1254/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
