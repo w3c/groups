@@ -83,21 +83,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33307",
-   "title": "public-aria-editors (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-aria-editors/",
-    "shortdesc": "public-aria-editors",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33307"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33307/groups"
-     }
-    }
-   }
+   "title": "public-aria-editors (Mailing List)"
   }
  ]
 }
