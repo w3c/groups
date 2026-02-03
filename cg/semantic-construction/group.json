@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45804",
-   "title": "internal-semantic-construction (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-semantic-construction/",
-    "shortdesc": "internal-semantic-construction",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45804"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45804/groups"
-     }
-    }
-   }
+   "title": "internal-semantic-construction (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45802",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#semantic-construction",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45802"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45802/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45803",
-   "title": "public-semantic-construction (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-semantic-construction/",
-    "shortdesc": "public-semantic-construction",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45803"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45803/groups"
-     }
-    }
-   }
+   "title": "public-semantic-construction (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45801",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/semantic-construction/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45801"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45801/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
