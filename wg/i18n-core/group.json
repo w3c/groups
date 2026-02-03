@@ -52,94 +52,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1895",
-   "title": "member-i18n-core (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-i18n-core/",
-    "shortdesc": "member-i18n-core",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1895"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1895/groups"
-     }
-    }
-   }
+   "title": "member-i18n-core (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/283",
-   "title": "public-i18n-core (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-i18n-core/",
-    "shortdesc": "public-i18n-core",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/283"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/283/groups"
-     }
-    }
-   }
+   "title": "public-i18n-core (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45919",
-   "title": "W3C Internationalization on Mastodon (Mastodon)",
-   "details": {
-    "closed": false,
-    "type": "mastodon",
-    "link": "https://w3c.social/@webi18n",
-    "shortdesc": "W3C Internationalization on Mastodon",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45919"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45919/groups"
-     }
-    }
-   }
+   "title": "W3C Internationalization on Mastodon (Mastodon)"
   },
   {
    "href": "https://api.w3.org/services/25919",
-   "title": "W3C Internationalization on X (X)",
-   "details": {
-    "closed": false,
-    "type": "x",
-    "link": "https://x.com/webi18n",
-    "shortdesc": "W3C Internationalization on X",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25919"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25919/groups"
-     }
-    }
-   }
+   "title": "W3C Internationalization on X (X)"
   },
   {
    "href": "https://api.w3.org/services/25885",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=32113",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25885"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25885/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
