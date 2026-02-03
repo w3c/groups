@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45988",
-   "title": "internal-dia (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-dia/",
-    "shortdesc": "internal-dia",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45988"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45988/groups"
-     }
-    }
-   }
+   "title": "internal-dia (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45986",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#dia",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45986"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45986/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45987",
-   "title": "public-dia (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-dia/",
-    "shortdesc": "public-dia",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45987"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45987/groups"
-     }
-    }
-   }
+   "title": "public-dia (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45985",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/dia/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45985"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45985/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
