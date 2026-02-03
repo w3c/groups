@@ -1,5 +1,27 @@
 [
  {
+  "name": "htmlvoc",
+  "owner": {
+   "login": "floresbakker"
+  },
+  "homepageUrl": "https://floresbakker.github.io/htmlvoc/",
+  "description": "A RDF-based representation of the HTML Living Standard to express HTML-documents in RDF. HTML documents can thus be represented, queried, generated, validated, analysed, transformed and reused as semantic objects themselves.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webextensions"
+   ],
+   "contacts": [
+    "floresbakker"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "webextensions",
   "owner": {
    "login": "w3c"
