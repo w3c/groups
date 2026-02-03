@@ -1,1 +1,70 @@
-[]
+[
+ {
+  "name": "birthday",
+  "owner": {
+   "login": "KNowledgeOnWebScale"
+  },
+  "description": "A deontic reasoner for team policies (trying to solve the birthday use-case)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "n3s-policy-consistency-checker",
+  "owner": {
+   "login": "KNowledgeOnWebScale"
+  },
+  "homepageUrl": "https://knowledgeonwebscale.github.io/n3s-policy-consistency-checker/",
+  "description": "A policy consistency checker implemented witn N3 and RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "rdfsurfaces-tests",
+  "owner": {
+   "login": "eyereasoner"
+  },
+  "description": "A test kit for RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "rdfsurfaces",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "homepageUrl": "https://w3c-cg.github.io/rdfsurfaces/",
+  "description": "RDF Surfaces is classical first-order logic with negation in RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ],
+   "contacts": [
+    "p20n"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
