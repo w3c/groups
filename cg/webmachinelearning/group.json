@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15411",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/webmachinelearning",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15411"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15411/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/15409",
-   "title": "internal-webmachinelearning (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-webmachinelearning/",
-    "shortdesc": "internal-webmachinelearning",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15409"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15409/groups"
-     }
-    }
-   }
+   "title": "internal-webmachinelearning (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15406",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#webmachinelearning",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15406"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15406/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/15407",
-   "title": "public-webmachinelearning (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webmachinelearning/",
-    "shortdesc": "public-webmachinelearning",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15407"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15407/groups"
-     }
-    }
-   }
+   "title": "public-webmachinelearning (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15405",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webmachinelearning/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15405"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15405/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
