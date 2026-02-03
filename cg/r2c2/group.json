@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43918",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/r2c2",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43918"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43918/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43913",
-   "title": "internal-r2c2 (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-r2c2/",
-    "shortdesc": "internal-r2c2",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43913"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43913/groups"
-     }
-    }
-   }
+   "title": "internal-r2c2 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43911",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#r2c2",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43911"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43911/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43912",
-   "title": "public-r2c2 (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-r2c2/",
-    "shortdesc": "public-r2c2",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43912"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43912/groups"
-     }
-    }
-   }
+   "title": "public-r2c2 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43910",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/r2c2/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43910"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43910/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
