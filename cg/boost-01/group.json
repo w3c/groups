@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45668",
-   "title": "internal-boost-01 (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-boost-01/",
-    "shortdesc": "internal-boost-01",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45668"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45668/groups"
-     }
-    }
-   }
+   "title": "internal-boost-01 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45666",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#boost-01",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45666"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45666/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/45667",
-   "title": "public-boost-01 (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-boost-01/",
-    "shortdesc": "public-boost-01",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45667"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45667/groups"
-     }
-    }
-   }
+   "title": "public-boost-01 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/45665",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/boost-01/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45665"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45665/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
