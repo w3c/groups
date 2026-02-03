@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45508",
-   "title": "internal-ce-dpp (Mailing List)"
+   "title": "internal-ce-dpp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ce-dpp/",
+    "shortdesc": "internal-ce-dpp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45508"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45508/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45506",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ce-dpp",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45506"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45506/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45507",
-   "title": "public-ce-dpp (Mailing List)"
+   "title": "public-ce-dpp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ce-dpp/",
+    "shortdesc": "public-ce-dpp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45507"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45507/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45505",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ce-dpp/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45505"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45505/groups"
+     }
+    }
+   }
   }
  ]
 }
