@@ -53,116 +53,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/13858",
-   "title": "public-trace-context (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-trace-context/",
-    "shortdesc": "public-trace-context",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13858"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13858/groups"
-     }
-    }
-   }
+   "title": "public-trace-context (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/15616",
-   "title": "Slack (Slack)",
-   "details": {
-    "closed": false,
-    "type": "slack",
-    "link": "https://w3ccommunity.slack.com/#distributed-tracing",
-    "shortdesc": "Slack",
-    "longdesc": " W3C Community slack #distributed-tracing",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15616"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15616/groups"
-     }
-    }
-   }
+   "title": "Slack (Slack)"
   },
   {
    "href": "https://api.w3.org/services/43869",
-   "title": "Slack invite (Slack)",
-   "details": {
-    "closed": false,
-    "type": "slack",
-    "link": "https://www.w3.org/slack-w3ccommunity-invite#distributed-tracing",
-    "shortdesc": "Slack invite",
-    "longdesc": "Get a Slack invite",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43869"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43869/groups"
-     }
-    }
-   }
+   "title": "Slack invite (Slack)"
   },
   {
    "href": "https://api.w3.org/services/43929",
-   "title": "Chair dashboard (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/PM/Groups/chairboard.html?gid=wg/distributed-tracing",
-    "shortdesc": "Chair dashboard",
-    "longdesc": "Information for Group Chairs",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43929"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43929/groups"
-     }
-    }
-   }
+   "title": "Chair dashboard (Other)"
   },
   {
    "href": "https://api.w3.org/services/25881",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/distributed-tracing",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25881"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25881/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/17355",
-   "title": "Agenda and Notes (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://docs.google.com/document/d/1EaY1zhmlOut4qZzpFue4vLc96_GrRWMtmzXYLfd1Ehc/edit",
-    "shortdesc": "Agenda and Notes",
-    "longdesc": "Meeting notes",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17355"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17355/groups"
-     }
-    }
-   }
+   "title": "Agenda and Notes (Other)"
   }
  ]
 }
