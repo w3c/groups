@@ -37,113 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/5972",
-   "title": "internal-schemaorg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-schemaorg/",
-    "shortdesc": "internal-schemaorg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5972"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5972/groups"
-     }
-    }
-   }
+   "title": "internal-schemaorg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/5970",
-   "title": "public-schemaorg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-schemaorg/",
-    "shortdesc": "public-schemaorg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5970"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5970/groups"
-     }
-    }
-   }
+   "title": "public-schemaorg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/5968",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/schemaorg/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5968"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5968/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/40709",
-   "title": "Schema.org blog (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://blog.schema.org/",
-    "shortdesc": "Schema.org blog",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40709"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40709/groups"
-     }
-    }
-   }
+   "title": "Schema.org blog (Other)"
   },
   {
    "href": "https://api.w3.org/services/5973",
-   "title": "Issues (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://github.com/schemaorg/schemaorg/issues",
-    "shortdesc": "Issues",
-    "longdesc": "Issues on GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5973"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5973/groups"
-     }
-    }
-   }
+   "title": "Issues (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/5974",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/schemaorg/",
-    "shortdesc": "GitHub",
-    "longdesc": "Schema.org on GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5974"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5974/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
