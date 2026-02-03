@@ -52,31 +52,135 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25831",
-   "title": "Dashboard (Other)"
+   "title": "Dashboard (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/chairboard.html?gid=45211",
+    "shortdesc": "Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25831"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25831/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15617",
-   "title": "Issues (Issue Tracking)"
+   "title": "Issues (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=45211",
+    "shortdesc": "Issues",
+    "longdesc": "Dashboard for specifications issues and pull request",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15617"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15617/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15618",
-   "title": "agenda (Other)"
+   "title": "agenda (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://docs.google.com/document/d/10dz_7QM5XCNsGeI63R864lF9gFqlqQD37B4q8Q46LMM/edit#heading=h.47h6tzdi5d55",
+    "shortdesc": "agenda",
+    "longdesc": "Group agenda",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15618"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15618/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6121",
-   "title": "public-web-perf (Mailing List)"
+   "title": "public-web-perf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-perf/",
+    "shortdesc": "public-web-perf",
+    "longdesc": "Group maliing list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6121"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6121/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17295",
-   "title": "Status (Other)"
+   "title": "Status (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/webperf/status.html",
+    "shortdesc": "Status",
+    "longdesc": "Status of the Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17295"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17295/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15646",
-   "title": "video (Other)"
+   "title": "video (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://meet.google.com/agz-fbji-spp",
+    "shortdesc": "video",
+    "longdesc": "Video conferencing",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15646"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15646/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15645",
-   "title": "video playlist (Other)"
+   "title": "video playlist (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky",
+    "shortdesc": "video playlist",
+    "longdesc": "Video recording of Group calls",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15645"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15645/groups"
+     }
+    }
+   }
   }
  ]
 }
