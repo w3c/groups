@@ -59,21 +59,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43993",
-   "title": "board-governance (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Board/board-governance/",
-    "shortdesc": "board-governance",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43993"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43993/groups"
-     }
-    }
-   }
+   "title": "board-governance (Mailing List)"
   }
  ]
 }
