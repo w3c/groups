@@ -52,77 +52,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1791",
-   "title": "member-device-apis (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-device-apis/",
-    "shortdesc": "member-device-apis",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1791"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1791/groups"
-     }
-    }
-   }
+   "title": "member-device-apis (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/216",
-   "title": "public-device-apis (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-device-apis/",
-    "shortdesc": "public-device-apis",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/216"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/216/groups"
-     }
-    }
-   }
+   "title": "public-device-apis (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/95",
-   "title": "dap (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/wiki/DAS",
-    "shortdesc": "dap",
-    "longdesc": "DAP WG Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/95"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/95/groups"
-     }
-    }
-   }
+   "title": "dap (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25880",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=43696",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25880"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25880/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
