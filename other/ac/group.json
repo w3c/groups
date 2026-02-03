@@ -25,77 +25,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45915",
-   "title": "w3c-ac-members (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/w3c-ac-members/",
-    "shortdesc": "w3c-ac-members",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45915"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45915/groups"
-     }
-    }
-   }
+   "title": "w3c-ac-members (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/26290",
-   "title": "w3c-members (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/w3c-members/",
-    "shortdesc": "w3c-members",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/26290"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/26290/groups"
-     }
-    }
-   }
+   "title": "w3c-members (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43927",
-   "title": "AC Calendar (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/events/ac/",
-    "shortdesc": "AC Calendar",
-    "longdesc": "Advisory Committee Meetings Calendar (Spring)",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43927"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43927/groups"
-     }
-    }
-   }
+   "title": "AC Calendar (Other)"
   },
   {
    "href": "https://api.w3.org/services/43928",
-   "title": "TPAC Calendar (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/events/tpac/",
-    "shortdesc": "TPAC Calendar",
-    "longdesc": "Technical Plenary and Advisory Committee Meetings Calendar (Fall)",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43928"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43928/groups"
-     }
-    }
-   }
+   "title": "TPAC Calendar (Other)"
   }
  ]
 }
