@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45398",
-   "title": "internal-idai (Mailing List)"
+   "title": "internal-idai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-idai/",
+    "shortdesc": "internal-idai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45398"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45398/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45396",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#idai",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45396"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45396/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45397",
-   "title": "public-idai (Mailing List)"
+   "title": "public-idai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-idai/",
+    "shortdesc": "public-idai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45397"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45397/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45395",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/idai/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45395"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45395/groups"
+     }
+    }
+   }
   }
  ]
 }
