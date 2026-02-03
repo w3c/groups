@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6251",
-   "title": "internal-tourismdata (Mailing List)"
+   "title": "internal-tourismdata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-tourismdata/",
+    "shortdesc": "internal-tourismdata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6251"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6251/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6248",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#tourismdata",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6248"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6248/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6249",
-   "title": "public-tourismdata (Mailing List)"
+   "title": "public-tourismdata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tourismdata/",
+    "shortdesc": "public-tourismdata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6249"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6249/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6247",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/tourismdata/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6247"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6247/groups"
+     }
+    }
+   }
   }
  ]
 }
