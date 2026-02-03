@@ -36,6 +36,24 @@
  "identifier": "cg/uhds",
  "services": [
   {
+   "href": "https://api.w3.org/services/46063",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/uhds",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46063"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46063/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46047",
    "title": "internal-uhds (Mailing List)",
    "details": {
