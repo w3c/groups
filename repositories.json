@@ -1901,6 +1901,27 @@
   }
  },
  {
+  "name": "cpu-performance",
+  "owner": {
+   "login": "WICG"
+  },
+  "description": "An API that exposes some information about how powerful the user device is.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "crash-reporting",
   "owner": {
    "login": "WICG"
