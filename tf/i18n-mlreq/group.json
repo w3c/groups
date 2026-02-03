@@ -76,11 +76,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15112",
-   "title": "public-i18n-mongolian (Mailing List)"
+   "title": "public-i18n-mongolian (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-mongolian/",
+    "shortdesc": "public-i18n-mongolian",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15112"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15112/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/26231",
-   "title": "public-mlreq-admin (Mailing List)"
+   "title": "public-mlreq-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mlreq-admin/",
+    "shortdesc": "public-mlreq-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/26231"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/26231/groups"
+     }
+    }
+   }
   }
  ]
 }
