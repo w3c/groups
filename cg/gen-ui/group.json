@@ -37,75 +37,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46058",
-   "title": "internal-gen-ui (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-gen-ui/",
-    "shortdesc": "internal-gen-ui",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46058"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46058/groups"
-     }
-    }
-   }
+   "title": "internal-gen-ui (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46056",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#gen-ui",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46056"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46056/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/46057",
-   "title": "public-gen-ui (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-gen-ui/",
-    "shortdesc": "public-gen-ui",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46057"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46057/groups"
-     }
-    }
-   }
+   "title": "public-gen-ui (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/46055",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/gen-ui/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46055"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46055/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
