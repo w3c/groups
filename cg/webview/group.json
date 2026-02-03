@@ -37,23 +37,94 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33364",
-   "title": "internal-webview (Mailing List)"
+   "title": "internal-webview (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-webview/",
+    "shortdesc": "internal-webview",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33364"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33364/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33362",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webview",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33362"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33362/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33363",
-   "title": "public-webview (Mailing List)"
+   "title": "public-webview (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webview/",
+    "shortdesc": "public-webview",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33363"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33363/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33361",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webview/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33361"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33361/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33365",
-   "title": "GitHub org (Version Control)"
+   "title": "GitHub org (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/WebView-CG",
+    "shortdesc": "GitHub org",
+    "longdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33365"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33365/groups"
+     }
+    }
+   }
   }
  ]
 }
