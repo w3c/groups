@@ -320,6 +320,117 @@
   ]
  },
  {
+  "id": 174458,
+  "name": "AI Content Disclosure Community Group",
+  "is_closed": false,
+  "creation-date": "2026-02-03",
+  "description": "<p>The intent of this group is to discuss possible structured syntax for expressing the degree to which content (especially textual content) has been authored by generative AI models, ranging from attesting that a portion of a page has been entirely human-authored, to AI-assisted, to AI-authored but human reviewed, to entirely automatically created with no human oversight. The intent is to assist authors and services in complying with the EU AI Act Article 50.</p>",
+  "shortname": "ai-content-disclosure",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "self": {
+    "href": "https://api.w3.org/groups/cg/ai-content-disclosure"
+   },
+   "homepage": {
+    "href": "https://www.w3.org/community/ai-content-disclosure/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/ai-content-disclosure/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/ai-content-disclosure/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/ai-content-disclosure/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/ai-content-disclosure/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/ai-content-disclosure/participations"
+   }
+  },
+  "type": "community group",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/ai-content-disclosure",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46062",
+    "title": "internal-ai-content-disclosure (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-ai-content-disclosure/",
+     "shortdesc": "internal-ai-content-disclosure",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46062"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46062/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46060",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#ai-content-disclosure",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46060"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46060/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46061",
+    "title": "public-ai-content-disclosure (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-ai-content-disclosure/",
+     "shortdesc": "public-ai-content-disclosure",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46061"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46061/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46059",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/ai-content-disclosure/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46059"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46059/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 108226,
   "name": "AI KR (Artificial Intelligence Knowledge Representation) Community Group",
   "is_closed": false,
@@ -29645,6 +29756,24 @@
   "group-type": "cg",
   "identifier": "cg/uhds",
   "services": [
+   {
+    "href": "https://api.w3.org/services/46063",
+    "title": "GitHub (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/uhds",
+     "shortdesc": "GitHub",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46063"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46063/groups"
+      }
+     }
+    }
+   },
    {
     "href": "https://api.w3.org/services/46047",
     "title": "internal-uhds (Mailing List)",
