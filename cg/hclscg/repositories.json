@@ -1,5 +1,21 @@
 [
  {
+  "name": "w3c-ddi",
+  "owner": {
+   "login": "W3C-HCLS"
+  },
+  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
+  "description": "W3C HCLS Drug-Drug Interaction",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hclscg"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "hcls-ccda-rdf",
   "owner": {
    "login": "w3c"
