@@ -37,27 +37,111 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15518",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/credweb/",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15518"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15518/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12232",
-   "title": "internal-credibility (Mailing List)"
+   "title": "internal-credibility (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-credibility/",
+    "shortdesc": "internal-credibility",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12232"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12232/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15461",
-   "title": "Meeting Link (Chat)"
+   "title": "Meeting Link (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://meet.w3c-ccg.org/weekly",
+    "shortdesc": "Meeting Link",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15461"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15461/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12230",
-   "title": "public-credibility (Mailing List)"
+   "title": "public-credibility (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-credibility/",
+    "shortdesc": "public-credibility",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12230"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12230/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12228",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/credibility/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12228"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12228/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12254",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/credibility/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12254"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12254/groups"
+     }
+    }
+   }
   }
  ]
 }
