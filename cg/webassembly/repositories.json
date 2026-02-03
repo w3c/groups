@@ -1,5 +1,65 @@
 [
  {
+  "name": ".github",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Default community health files for all WebAssembly repos",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "WASI",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WebAssembly System Interface",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "benchmarks",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Resources for collaborative benchmarking",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "binaryen",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Optimizer and compiler/toolchain library for WebAssembly",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "branch-hinting",
   "owner": {
    "login": "WebAssembly"
@@ -36,6 +96,22 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "cg-charter",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.github.io/cg-charter/index.html",
+  "description": "Proposed WebAssembly Community Group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
    ],
    "exposed": true
   }
@@ -78,6 +154,21 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "component-model",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Repository for design and specification of the Component Model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
    ],
    "exposed": true
   }
@@ -160,6 +251,37 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "debugging",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Design documents and discussions about debug support in WebAssembly",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "design",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "http://webassembly.org",
+  "description": "WebAssembly Design Documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
    ],
    "exposed": true
   }
@@ -418,6 +540,21 @@
   }
  },
  {
+  "name": "meetings",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WebAssembly meetings (VC or in-person), agendas, and notes",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "memory-control",
   "owner": {
    "login": "WebAssembly"
@@ -517,6 +654,21 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Tracking WebAssembly proposals",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
    ],
    "exposed": true
   }
@@ -688,6 +840,36 @@
   }
  },
  {
+  "name": "testsuite",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Mirror of the spec testsuite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "testsuite-js",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WebAssembly testsuite tests converted to single-file JavaScript tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "threads",
   "owner": {
    "login": "WebAssembly"
@@ -705,6 +887,473 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "tool-conventions",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Conventions supporting interoperatibility between tools working with WebAssembly.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wabt",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "The WebAssembly Binary Toolkit",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-blobstore",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-cloud-core",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-config",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-crypto",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WASI Cryptography API Proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-distributed-lock-service",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-gfx",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-gpio",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "GPIO interface for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-grpc",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-i2c",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "I2C API for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-keyvalue",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-libc",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://wasi.dev",
+  "description": "WASI libc implementation for WebAssembly",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-logging",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WASI logging API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-messaging",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Messaging proposal for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-nn",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Neural Network proposal for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-observe",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Observability World for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-otel",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "OpenTelemetry API for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-parallel",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": " wasi-parallel is a proposal to add a parallel for construct to WASI. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-pattern-match",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-proposal-template",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Starter template for proposing a new WASI API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-sdk",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WASI-enabled WebAssembly C/C++ toolchain",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-spi",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-sql",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-sql-embed",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-testsuite",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WASI Testsuite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-threads",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-tls",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "SSL/TLS interface for WASI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-url",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasi-usb",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasm-c-api",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Wasm C API prototype",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wasp",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "WebAssembly module decoder in C++",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
    ],
    "exposed": true
   }
@@ -731,6 +1380,68 @@
   }
  },
  {
+  "name": "web-assembly-logo",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://github.com/WebAssembly/design/issues/980#issuecomment-278086797",
+  "description": "Web Assembly (WASM) logo proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webassembly.github.io",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Redirect to webassembly.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "website",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "homepageUrl": "https://webassembly.org",
+  "description": "WebAssembly website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wg-charter",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "description": "Proposed WebAssembly Working Group charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "wide-arithmetic",
   "owner": {
    "login": "WebAssembly"
@@ -748,6 +1459,20 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wit-abi-up-to-date",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
    ],
    "exposed": true
   }
