@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33355",
-   "title": "internal-smartcity-nordic (Mailing List)"
+   "title": "internal-smartcity-nordic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-smartcity-nordic/",
+    "shortdesc": "internal-smartcity-nordic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33355"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33355/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33353",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#smartcity-nordic",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33353"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33353/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33354",
-   "title": "public-smartcity-nordic (Mailing List)"
+   "title": "public-smartcity-nordic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-smartcity-nordic/",
+    "shortdesc": "public-smartcity-nordic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33354"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33354/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33352",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/smartcity-nordic/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33352"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33352/groups"
+     }
+    }
+   }
   }
  ]
 }
