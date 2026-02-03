@@ -53,59 +53,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45589",
-   "title": "Live meeting notes (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://pad.w3.org/p/privacywg-live-minutes",
-    "shortdesc": "Live meeting notes",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45589"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45589/groups"
-     }
-    }
-   }
+   "title": "Live meeting notes (Other)"
   },
   {
    "href": "https://api.w3.org/services/43959",
-   "title": "issues (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/privacy",
-    "shortdesc": "issues",
-    "longdesc": "Open issues of the Working Group",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43959"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43959/groups"
-     }
-    }
-   }
+   "title": "issues (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/43949",
-   "title": "public-privacy (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-privacy/",
-    "shortdesc": "public-privacy",
-    "longdesc": "Public mailing list for the Privacy Working Group",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43949"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43949/groups"
-     }
-    }
-   }
+   "title": "public-privacy (Mailing List)"
   }
  ]
 }
