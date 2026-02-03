@@ -59,21 +59,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43994",
-   "title": "board-officers (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Board/board-officers/",
-    "shortdesc": "board-officers",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43994"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43994/groups"
-     }
-    }
-   }
+   "title": "board-officers (Mailing List)"
   }
  ]
 }
