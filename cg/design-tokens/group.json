@@ -37,27 +37,112 @@
  "services": [
   {
    "href": "https://api.w3.org/services/17312",
-   "title": "GitHub repository (Version Control)"
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/design-tokens/community-group",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17312"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17312/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17311",
-   "title": "internal-design-tokens (Mailing List)"
+   "title": "internal-design-tokens (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-design-tokens/",
+    "shortdesc": "internal-design-tokens",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17311"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17311/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17309",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#design-tokens",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17309"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17309/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17310",
-   "title": "public-design-tokens (Mailing List)"
+   "title": "public-design-tokens (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-design-tokens/",
+    "shortdesc": "public-design-tokens",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17310"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17310/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17308",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/design-tokens/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17308"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17308/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17337",
-   "title": "X (X)"
+   "title": "X (X)",
+   "details": {
+    "closed": false,
+    "type": "x",
+    "link": "https://x.com/DesignTokens",
+    "shortdesc": "X",
+    "longdesc": "@DesignTokens on X",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17337"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17337/groups"
+     }
+    }
+   }
   }
  ]
 }
