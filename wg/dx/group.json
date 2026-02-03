@@ -53,96 +53,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/8016",
-   "title": "member-dxwg-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-dxwg-wg/",
-    "shortdesc": "member-dxwg-wg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/8016"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/8016/groups"
-     }
-    }
-   }
+   "title": "member-dxwg-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/8765",
-   "title": "public-dxwg-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-dxwg-wg/",
-    "shortdesc": "public-dxwg-wg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/8765"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/8765/groups"
-     }
-    }
-   }
+   "title": "public-dxwg-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17283",
-   "title": "Meetings (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/2017/dxwg/wiki/Meetings",
-    "shortdesc": "Meetings",
-    "longdesc": "Information on Meetings",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17283"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17283/groups"
-     }
-    }
-   }
+   "title": "Meetings (Other)"
   },
   {
    "href": "https://api.w3.org/services/25894",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/dx",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25894"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25894/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/7976",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/2017/dxwg/wiki",
-    "shortdesc": "Wiki",
-    "longdesc": "Working Group wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/7976"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/7976/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
