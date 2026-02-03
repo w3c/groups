@@ -76,11 +76,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7389",
-   "title": "public-i18n-tibetan (Mailing List)"
+   "title": "public-i18n-tibetan (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-tibetan/",
+    "shortdesc": "public-i18n-tibetan",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7389"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7389/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/27715",
-   "title": "public-tlreq-admin (Mailing List)"
+   "title": "public-tlreq-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tlreq-admin/",
+    "shortdesc": "public-tlreq-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27715"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27715/groups"
+     }
+    }
+   }
   }
  ]
 }
