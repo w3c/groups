@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "name": "BDNS",
+  "owner": {
+   "login": "theodi"
+  },
+  "homepageUrl": "https://theodi.github.io/BDNS/",
+  "description": "Building Device Naming Standards initiative",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/bdns"
+   ],
+   "exposed": true
+  }
+ }
+]
