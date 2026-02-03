@@ -53,23 +53,96 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25983",
-   "title": "Implementation status and other resources (Other)"
+   "title": "Implementation status and other resources (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://webgpu.io/",
+    "shortdesc": "Implementation status and other resources",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25983"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25983/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45909",
-   "title": "public-gpu (Mailing List)"
+   "title": "public-gpu (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-gpu/",
+    "shortdesc": "public-gpu",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45909"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45909/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6537",
-   "title": "cg (Other)"
+   "title": "cg (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/community/gpu/",
+    "shortdesc": "cg",
+    "longdesc": "Community Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6537"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6537/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25978",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=125519",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25978"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25978/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45914",
-   "title": "internal-gpu (Mailing List)"
+   "title": "internal-gpu (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-gpu/",
+    "shortdesc": "internal-gpu",
+    "longdesc": "Member-only mailing-list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45914"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45914/groups"
+     }
+    }
+   }
   }
  ]
 }
