@@ -40,31 +40,130 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6552",
-   "title": "GitHub repository (Version Control)"
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/publ-bg",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6552"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6552/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6553",
-   "title": "internal-publishingbg (Mailing List)"
+   "title": "internal-publishingbg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-publishingbg/",
+    "shortdesc": "internal-publishingbg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6553"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6553/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6550",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#pbg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6550"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6550/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6551",
-   "title": "public-publishingbg (Mailing List)"
+   "title": "public-publishingbg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-publishingbg/",
+    "shortdesc": "public-publishingbg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6551"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6551/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6549",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/publishingbg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6549"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6549/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6554",
-   "title": "Wiki home (Wiki)"
+   "title": "Wiki home (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://github.com/w3c/publ-bg/wiki",
+    "shortdesc": "Wiki home",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6554"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6554/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/13768",
-   "title": "Google Drive (Other)"
+   "title": "Google Drive (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://drive.google.com/drive/folders/1tQf56giFynYlWKm5DmrxTUbYUwpzQAmI",
+    "shortdesc": "Google Drive",
+    "longdesc": "Google Drive folder for PWG Documents",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13768"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13768/groups"
+     }
+    }
+   }
   }
  ]
 }
