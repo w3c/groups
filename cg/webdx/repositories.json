@@ -1,1 +1,152 @@
-[]
+[
+ {
+  "name": "admin",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Repo for administrative documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "baseline-browser-mapping",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "baseline-browser-mapping exposes arrays of browsers compatible with Baseline Widely Available and specified Baseline year feature sets.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "baseline-status",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "A Web Component widget displaying Baseline status of a web feature",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "bl2bl",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "browserslist-config-baseline",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "developer-research",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Development of research on developer needs to inform improvements in Web Platform Developer Experience",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "developer-signals",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Tracking web developer signals for features",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "web-features",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "homepageUrl": "https://web-platform-dx.github.io/web-features/",
+  "description": "Exploring how to present Web platform features adoptability",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "web-features-explorer",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "homepageUrl": "https://web-platform-dx.github.io/web-features-explorer/",
+  "description": "A visualization of the web-features data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "web-features-mappings",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "description": "Data files that map various external data sources to web-features",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ }
+]
