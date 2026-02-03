@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6114",
-   "title": "internal-architypes (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-architypes/",
-    "shortdesc": "internal-architypes",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6114"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6114/groups"
-     }
-    }
-   }
+   "title": "internal-architypes (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6111",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#architypes",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6111"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6111/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6112",
-   "title": "public-architypes (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-architypes/",
-    "shortdesc": "public-architypes",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6112"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6112/groups"
-     }
-    }
-   }
+   "title": "public-architypes (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6110",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/architypes/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6110"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6110/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6132",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/architypes/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6132"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6132/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
