@@ -52,27 +52,116 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1896",
-   "title": "member-pointer-events (Mailing List)"
+   "title": "member-pointer-events (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-pointer-events/",
+    "shortdesc": "member-pointer-events",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1896"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1896/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15621",
-   "title": "Meetings (Other)"
+   "title": "Meetings (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/wiki/PointerEvents/Meetings",
+    "shortdesc": "Meetings",
+    "longdesc": "General information about the group meetings",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15621"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15621/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1342",
-   "title": "GitHub issues (Issue Tracking)"
+   "title": "GitHub issues (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/pointerevents/issues",
+    "shortdesc": "GitHub issues",
+    "longdesc": "Git issues and pull requests",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1342"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1342/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43930",
-   "title": "Chair dashboard (Other)"
+   "title": "Chair dashboard (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/chairboard.html?gid=wg/pointer-events",
+    "shortdesc": "Chair dashboard",
+    "longdesc": "Information for Group Chairs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43930"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43930/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/13778",
-   "title": "public-pointer-events (Mailing List)"
+   "title": "public-pointer-events (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-pointer-events/",
+    "shortdesc": "public-pointer-events",
+    "longdesc": "Public mailing list for the Pointer Events Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13778"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13778/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15620",
-   "title": "wiki (Wiki)"
+   "title": "wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/wiki/PointerEvents/",
+    "shortdesc": "wiki",
+    "longdesc": "Top-level wiki of the W3C's Pointer Events Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15620"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15620/groups"
+     }
+    }
+   }
   }
  ]
 }
