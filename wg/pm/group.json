@@ -53,114 +53,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/40774",
-   "title": "Meeting Minutes (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://w3c.github.io/pm-wg/minutes/index.html",
-    "shortdesc": "Meeting Minutes",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40774"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40774/groups"
-     }
-    }
-   }
+   "title": "Meeting Minutes (Other)"
   },
   {
    "href": "https://api.w3.org/services/40775",
-   "title": "WG GitHub repository (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c/pm-wg",
-    "shortdesc": "WG GitHub repository",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40775"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40775/groups"
-     }
-    }
-   }
+   "title": "WG GitHub repository (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/40772",
-   "title": "Wiki Pages (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://github.com/w3c/pm-wg/wiki",
-    "shortdesc": "Wiki Pages",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40772"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40772/groups"
-     }
-    }
-   }
+   "title": "Wiki Pages (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/40769",
-   "title": "member-pm-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-pm-wg/",
-    "shortdesc": "member-pm-wg",
-    "longdesc": "Member Mailing list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40769"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40769/groups"
-     }
-    }
-   }
+   "title": "member-pm-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40770",
-   "title": "public-pm-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-pm-wg/",
-    "shortdesc": "public-pm-wg",
-    "longdesc": "Public mailing list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40770"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40770/groups"
-     }
-    }
-   }
+   "title": "public-pm-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/40771",
-   "title": "group-pm-wg-chairs (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Group/group-pm-wg-chairs/",
-    "shortdesc": "group-pm-wg-chairs",
-    "longdesc": "WG Chairs' mailing list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/40771"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/40771/groups"
-     }
-    }
-   }
+   "title": "group-pm-wg-chairs (Mailing List)"
   }
  ]
 }
