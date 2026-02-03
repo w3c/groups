@@ -53,11 +53,41 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25899",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=114929",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25899"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25899/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45899",
-   "title": "public-webapps (Mailing List)"
+   "title": "public-webapps (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webapps/",
+    "shortdesc": "public-webapps",
+    "longdesc": "main list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45899"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45899/groups"
+     }
+    }
+   }
   }
  ]
 }
