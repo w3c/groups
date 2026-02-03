@@ -53,59 +53,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45905",
-   "title": "public-webassembly (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webassembly/",
-    "shortdesc": "public-webassembly",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45905"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45905/groups"
-     }
-    }
-   }
+   "title": "public-webassembly (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17272",
-   "title": "cg (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/community/webassembly/",
-    "shortdesc": "cg",
-    "longdesc": "Community Group",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17272"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17272/groups"
-     }
-    }
-   }
+   "title": "cg (Other)"
   },
   {
    "href": "https://api.w3.org/services/25912",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=101196",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25912"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25912/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
