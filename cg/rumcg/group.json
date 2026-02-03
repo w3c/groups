@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45581",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/rum",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45581"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45581/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/43939",
-   "title": "internal-rumcg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-rumcg/",
-    "shortdesc": "internal-rumcg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43939"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43939/groups"
-     }
-    }
-   }
+   "title": "internal-rumcg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43937",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#rumcg",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43937"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43937/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/43938",
-   "title": "public-rumcg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-rumcg/",
-    "shortdesc": "public-rumcg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43938"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43938/groups"
-     }
-    }
-   }
+   "title": "public-rumcg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43936",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/rumcg/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43936"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43936/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
