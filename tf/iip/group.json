@@ -76,11 +76,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/14161",
-   "title": "public-i18n-indic (Mailing List)"
+   "title": "public-i18n-indic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-indic/",
+    "shortdesc": "public-i18n-indic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/14161"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/14161/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/26670",
-   "title": "public-iip-admin (Mailing List)"
+   "title": "public-iip-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-iip-admin/",
+    "shortdesc": "public-iip-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/26670"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/26670/groups"
+     }
+    }
+   }
   }
  ]
 }
