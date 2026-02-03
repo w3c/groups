@@ -37,112 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1912",
-   "title": "internal-ld4lt (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-ld4lt/",
-    "shortdesc": "internal-ld4lt",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1912"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1912/groups"
-     }
-    }
-   }
+   "title": "internal-ld4lt (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1909",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#ld4lt",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1909"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1909/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1910",
-   "title": "public-ld4lt (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-ld4lt/",
-    "shortdesc": "public-ld4lt",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1910"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1910/groups"
-     }
-    }
-   }
+   "title": "public-ld4lt (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1908",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/ld4lt/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1908"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1908/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/1907",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/ld4lt/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1907"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1907/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/43846",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/ld4lt",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub repositories ",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43846"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43846/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
