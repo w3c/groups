@@ -37,35 +37,148 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15577",
-   "title": "GitHub repositories (Version Control)"
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/maps4html",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15577"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15577/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/2003",
-   "title": "Gitter (Chat)"
+   "title": "Gitter (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://gitter.im/Maps4HTML",
+    "shortdesc": "Gitter",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2003"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2003/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/2006",
-   "title": "internal-maps4html (Mailing List)"
+   "title": "internal-maps4html (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-maps4html/",
+    "shortdesc": "internal-maps4html",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2006"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2006/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39200",
-   "title": "Mastodon (Mastodon)"
+   "title": "Mastodon (Mastodon)",
+   "details": {
+    "closed": false,
+    "type": "mastodon",
+    "link": "https://mapstodon.space/@maps4html",
+    "shortdesc": "Mastodon",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39200"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39200/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/2004",
-   "title": "public-maps4html (Mailing List)"
+   "title": "public-maps4html (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-maps4html/",
+    "shortdesc": "public-maps4html",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2004"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2004/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/2002",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/maps4html/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2002"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2002/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/2007",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/maps4html/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2007"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2007/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6242",
-   "title": "Resources (Other)"
+   "title": "Resources (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://maps4html.github.io/",
+    "shortdesc": "Resources",
+    "longdesc": "Group projects and resources",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6242"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6242/groups"
+     }
+    }
+   }
   }
  ]
 }
