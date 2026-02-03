@@ -76,11 +76,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27068",
-   "title": "public-afrlreq-admin (Mailing List)"
+   "title": "public-afrlreq-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-afrlreq-admin/",
+    "shortdesc": "public-afrlreq-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27068"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27068/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17054",
-   "title": "public-i18n-africa (Mailing List)"
+   "title": "public-i18n-africa (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-africa/",
+    "shortdesc": "public-i18n-africa",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17054"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17054/groups"
+     }
+    }
+   }
   }
  ]
 }
