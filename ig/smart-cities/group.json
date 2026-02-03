@@ -53,39 +53,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43920",
-   "title": "Member list for the Web-based Digital Twins for Smart Cities IG (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-smart-cities/",
-    "shortdesc": "Member list for the Web-based Digital Twins for Smart Cities IG",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43920"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43920/groups"
-     }
-    }
-   }
+   "title": "Member list for the Web-based Digital Twins for Smart Cities IG (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43921",
-   "title": "Public list for the Web-based Digital Twins for Smart Cities IG (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-smart-cities/",
-    "shortdesc": "Public list for the Web-based Digital Twins for Smart Cities IG",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43921"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43921/groups"
-     }
-    }
-   }
+   "title": "Public list for the Web-based Digital Twins for Smart Cities IG (Mailing List)"
   }
  ]
 }
