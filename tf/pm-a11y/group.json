@@ -83,21 +83,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45600",
-   "title": "group-pm-a11y (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Group/group-pm-a11y/",
-    "shortdesc": "group-pm-a11y",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45600"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45600/groups"
-     }
-    }
-   }
+   "title": "group-pm-a11y (Mailing List)"
   }
  ]
 }
