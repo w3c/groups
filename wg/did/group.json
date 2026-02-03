@@ -53,15 +53,58 @@
  "services": [
   {
    "href": "https://api.w3.org/services/17471",
-   "title": "member-did-wg (Mailing List)"
+   "title": "member-did-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-did-wg/",
+    "shortdesc": "member-did-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17471"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17471/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17318",
-   "title": "public-did-wg (Mailing List)"
+   "title": "public-did-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-did-wg/",
+    "shortdesc": "public-did-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17318"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17318/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25879",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=117488",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25879"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25879/groups"
+     }
+    }
+   }
   }
  ]
 }
