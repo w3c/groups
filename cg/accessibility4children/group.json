@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/17361",
-   "title": "internal-accessibility4children (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-accessibility4children/",
-    "shortdesc": "internal-accessibility4children",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17361"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17361/groups"
-     }
-    }
-   }
+   "title": "internal-accessibility4children (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17359",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#accessibility4children",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17359"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17359/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/17360",
-   "title": "public-accessibility4children (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-accessibility4children/",
-    "shortdesc": "public-accessibility4children",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17360"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17360/groups"
-     }
-    }
-   }
+   "title": "public-accessibility4children (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17358",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/accessibility4children/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17358"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17358/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/33230",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/accessibility4children/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33230"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33230/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
