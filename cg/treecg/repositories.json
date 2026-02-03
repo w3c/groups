@@ -1,1 +1,423 @@
-[]
+[
+ {
+  "name": "Blue-Bike-to-OSLO",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "LDES-Action",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Republishes a Linked Data Event Stream or tree:Collection on GitHub Pages using a GitHub Action",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "LDES-Announcements",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "LDES-Extractor",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Create an extraction of a versioned LDES",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "LDES-Snapshot",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Create a snapshot of a versioned LDES",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "LDES-timeseries",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "SmartDataStreams-Spec",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://w3id.org/sds/specification",
+  "description": "The Smart Data Specification for Semantically Describing Streams",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "TREE-Guided-Link-Traversal-Query-Processing-Evaluation",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "TREE-LDES-visualizer",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://treecg.github.io/TREE-LDES-visualizer/",
+  "description": "A visualisation and verification tool for TREE and LDES fragmented datasets.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "bucketizers",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Bucketize Linked Data Event Stream members",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "comunica-feature-tree",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "[DEPRECATED] Comunica engine with support for TREE specification - use treecg/treemunica instead",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "connectors",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Monorepo for Linked Data Event Stream connectors",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "demo_data",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "extract-cbd-shape",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://treecg.github.io/extract-cbd-shape/",
+  "description": "Get all RDF triples/quads related to an entity based on CBD and a SHACL shape",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "hamburg-SensorThingsAPI2LDES",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "RDF-connect pipeline to convert SensorThings API to LDES for Hamburg traffic data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "jQuery-Widget.js",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://treecg.github.io/jQuery-Widget.js/",
+  "description": "A jQuery widget to query heterogeneous interfaces using Comunica SPARQL with support for TREE specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "ngsi-ld-source-selection",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "ngsi-ldes",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Open data API for NGSI-LD data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "paper-materializable-interfaces",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://treecg.github.io/paper-materializable-interfaces/",
+  "description": "A paper on multiple views and materializable interfaces with the TREE spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "site",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://tree.linkeddatafragments.org",
+  "description": "Website for TREE",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "specification",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://w3id.org/tree/specification",
+  "description": "RDF vocabulary and hypermedia specification to publish your Linked Data using search trees ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "substring_fragmenter",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "tree-metadata-extraction",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Metadata extraction lib for TREE metadata from RDF files.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "tree_index",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "Index your trees using trees",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "treemunica",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://comunica.dev",
+  "description": "📬 A Web querying framework for JavaScript",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "treemunica_typeahead_demo",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "homepageUrl": "https://treecg.github.io/treemunica_typeahead_demo/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "types",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "TypeScript types for working with TREE/LDES",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "version-materialize-rdf.js",
+  "owner": {
+   "login": "TREEcg"
+  },
+  "description": "JS library to version materialize an Array<Quad>",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/treecg"
+   ],
+   "exposed": true
+  }
+ }
+]
