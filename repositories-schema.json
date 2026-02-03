@@ -52,7 +52,8 @@
         "w3cjson": {
           "type": "object",
           "required": [
-            "group"
+            "group",
+            "exposed"
           ],
           "group": {
             "type": "array",
@@ -71,6 +72,10 @@
               "pattern": "\\w+(-\\w+)*"
             },
             "description": "List of repository types."
+          },
+          "exposed": {
+            "type": "boolean",
+            "description": "Indicates whether the repository is exposed on w3.org."
           }
         }
       }
