@@ -37,150 +37,35 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1527",
-   "title": "internal-hydra (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-hydra/",
-    "shortdesc": "internal-hydra",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1527"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1527/groups"
-     }
-    }
-   }
+   "title": "internal-hydra (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1524",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#hydra",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1524"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1524/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1525",
-   "title": "public-hydra (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-hydra/",
-    "shortdesc": "public-hydra",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1525"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1525/groups"
-     }
-    }
-   }
+   "title": "public-hydra (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1523",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/hydra/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1523"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1523/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/1522",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/hydra/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1522"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1522/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/6466",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/HydraCG/Specifications",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub repository for Hydra CG specifications",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6466"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6466/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6464",
-   "title": "public-hydra-logs (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-hydra-logs/",
-    "shortdesc": "public-hydra-logs",
-    "longdesc": "list for automatic notifications over GitHub activity",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6464"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6464/groups"
-     }
-    }
-   }
+   "title": "public-hydra-logs (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6465",
-   "title": "X (X)",
-   "details": {
-    "closed": false,
-    "type": "x",
-    "link": "https://x.com/HydraCG",
-    "shortdesc": "X",
-    "longdesc": "X @HydraCG",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6465"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6465/groups"
-     }
-    }
-   }
+   "title": "X (X)"
   }
  ]
 }
