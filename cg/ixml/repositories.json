@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "name": "dashboard",
+  "owner": {
+   "login": "invisibleXML"
+  },
+  "description": "Invisible XML development dashboard",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ixml"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "ixml",
+  "owner": {
+   "login": "invisibleXML"
+  },
+  "description": "Invisible XML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ixml"
+   ],
+   "exposed": true
+  }
+ }
+]
