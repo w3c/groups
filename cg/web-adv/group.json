@@ -37,27 +37,113 @@
  "services": [
   {
    "href": "https://api.w3.org/services/12243",
-   "title": "internal-web-adv (Mailing List)"
+   "title": "internal-web-adv (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-web-adv/",
+    "shortdesc": "internal-web-adv",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12243"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12243/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12240",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#web-adv",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12240"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12240/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12241",
-   "title": "public-web-adv (Mailing List)"
+   "title": "public-web-adv (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-adv/",
+    "shortdesc": "public-web-adv",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12241"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12241/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12239",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/web-adv/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12239"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12239/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/13851",
-   "title": "GitHub Repo (Version Control)"
+   "title": "GitHub Repo (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/web-advertising",
+    "shortdesc": "GitHub Repo",
+    "longdesc": "GitHub Repo for Improving Web Advertising Business Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13851"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13851/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25914",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://w3c.github.io/web-advertising/dashboard/",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25914"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25914/groups"
+     }
+    }
+   }
   }
  ]
 }
