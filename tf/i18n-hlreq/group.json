@@ -76,11 +76,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27204",
-   "title": "public-hlreq-admin (Mailing List)"
+   "title": "public-hlreq-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-hlreq-admin/",
+    "shortdesc": "public-hlreq-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/27204"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/27204/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7845",
-   "title": "public-i18n-hebrew (Mailing List)"
+   "title": "public-i18n-hebrew (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-hebrew/",
+    "shortdesc": "public-i18n-hebrew",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7845"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7845/groups"
+     }
+    }
+   }
   }
  ]
 }
