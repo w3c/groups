@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1172",
-   "title": "internal-webhistory (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-webhistory/",
-    "shortdesc": "internal-webhistory",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1172"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1172/groups"
-     }
-    }
-   }
+   "title": "internal-webhistory (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1169",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#webhistory",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1169"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1169/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/1170",
-   "title": "public-webhistory (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webhistory/",
-    "shortdesc": "public-webhistory",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1170"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1170/groups"
-     }
-    }
-   }
+   "title": "public-webhistory (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/1168",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/webhistory/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1168"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1168/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/1167",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/webhistory/wiki/",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1167"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1167/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
