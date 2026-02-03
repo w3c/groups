@@ -37,94 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6548",
-   "title": "GitHub Repo (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/gpuweb/",
-    "shortdesc": "GitHub Repo",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6548"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6548/groups"
-     }
-    }
-   }
+   "title": "GitHub Repo (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/6535",
-   "title": "public-gpu (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-gpu/",
-    "shortdesc": "public-gpu",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6535"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6535/groups"
-     }
-    }
-   }
+   "title": "public-gpu (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6533",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/gpu/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6533"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6533/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6534",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://github.com/gpuweb/gpuweb/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6534"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6534/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/25938",
-   "title": "internal-gpu (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-gpu/",
-    "shortdesc": "internal-gpu",
-    "longdesc": "Member-only mailing-list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25938"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25938/groups"
-     }
-    }
-   }
+   "title": "internal-gpu (Mailing List)"
   }
  ]
 }
