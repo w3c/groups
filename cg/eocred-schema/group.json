@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/12237",
-   "title": "internal-eocred-schema (Mailing List)"
+   "title": "internal-eocred-schema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-eocred-schema/",
+    "shortdesc": "internal-eocred-schema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12237"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12237/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12234",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#eocred-schema",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12234"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12234/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12235",
-   "title": "public-eocred-schema (Mailing List)"
+   "title": "public-eocred-schema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-eocred-schema/",
+    "shortdesc": "public-eocred-schema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12235"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12235/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12233",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/eocred-schema/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12233"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12233/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/12238",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/eocred-schema/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12238"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12238/groups"
+     }
+    }
+   }
   }
  ]
 }
