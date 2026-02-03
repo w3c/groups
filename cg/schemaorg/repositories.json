@@ -1,1 +1,108 @@
-[]
+[
+ {
+  "name": "SchemaPages",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "docsite",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "description": "Schema.org documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "gh_pages",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "description": "Schema.org, hosted on github.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "schemaorg",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "homepageUrl": "https://schema.org/",
+  "description": "Schema.org - schemas and supporting software",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "schemarama",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "description": "Schemarama is a project exploring standards-based validation for structured data, especially Schema.org.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "sdopythonapp",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "homepageUrl": "https://schema.org/",
+  "description": "Original schema.org python-appengine codebase",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "suggestions-questions-brainstorming",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "description": "Suggestions, questions, and brainstorming",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ }
+]
