@@ -1,5 +1,82 @@
 [
  {
+  "name": "awesome-webnn",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "⚡Delightful WebNN resources, curated list of awesome things around WebNN ecosystem.😎",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "charter",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/charter/",
+  "description": "📜 Web Machine Learning Community Group Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "hybrid-ai",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "Hybrid AI Exploration 🧪",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "meetings",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🗒 Agendas, minutes and other meeting material",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "model-loader",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/model-loader/",
+  "description": "🧪 Model Loader API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "prompt-api",
   "owner": {
    "login": "webmachinelearning"
@@ -17,6 +94,52 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "proofreader-api",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/proofreader-api/",
+  "description": "🔎 An API to help web users perform real-time proofreading of freeform text",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "proposals",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🚀 Proposals for future work",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "test-data",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🏋️‍♀️ Reusable model weights and other test data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
    ],
    "exposed": true
   }
@@ -44,6 +167,22 @@
   }
  },
  {
+  "name": "webmachinelearning.github.io",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io",
+  "description": "🌎 Web Machine Learning website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "webmcp",
   "owner": {
    "login": "webmachinelearning"
@@ -61,6 +200,98 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webnn-baseline",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🧠🌱 Pure JS implementation of the Web Neural Network API w/o 3rd party deps",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webnn-docs",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webnn.io",
+  "description": "WebNN Developer Documentation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webnn-native",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🧠⚙️ Standalone native implementation of the Web Neural Network API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webnn-samples",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "homepageUrl": "https://webmachinelearning.github.io/webnn-samples/",
+  "description": "🧠✨ Web Neural Network API samples",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webnn-samples-test-framework",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "An automation test framework for WebNN samples and demos",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webnn-types",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🇹🇸 TypeScript Types Declarations for WebNN",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
    ],
    "exposed": true
   }
