@@ -37,94 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/34824",
-   "title": "internal-a11yedge (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-a11yedge/",
-    "shortdesc": "internal-a11yedge",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/34824"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/34824/groups"
-     }
-    }
-   }
+   "title": "internal-a11yedge (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/34822",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#a11yedge",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/34822"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/34822/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/34823",
-   "title": "public-a11yedge (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-a11yedge/",
-    "shortdesc": "public-a11yedge",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/34823"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/34823/groups"
-     }
-    }
-   }
+   "title": "public-a11yedge (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/34821",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/a11yedge/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/34821"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/34821/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/43845",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/a11yedge/",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub repositories",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43845"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43845/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   }
  ]
 }
