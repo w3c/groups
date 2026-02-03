@@ -52,31 +52,136 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15623",
-   "title": "current-work (Other)"
+   "title": "current-work (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/Style/CSS/current-work",
+    "shortdesc": "current-work",
+    "longdesc": "CSS current work & how to participate",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15623"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15623/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15624",
-   "title": "houdini-wiki (Wiki)"
+   "title": "houdini-wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://github.com/w3c/css-houdini-drafts/wiki",
+    "shortdesc": "houdini-wiki",
+    "longdesc": "CSS Houdini Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15624"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15624/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15622",
-   "title": "Blog (Blog)"
+   "title": "Blog (Blog)",
+   "details": {
+    "closed": false,
+    "type": "blog",
+    "link": "https://www.w3.org/blog/CSS/",
+    "shortdesc": "Blog",
+    "longdesc": "CSS WG Blog",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15622"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15622/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45895",
-   "title": "fxtf (Wiki)"
+   "title": "fxtf (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/Graphics/fx/wiki",
+    "shortdesc": "fxtf",
+    "longdesc": "Effects Task Force",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45895"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45895/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25878",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=32061",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25878"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25878/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1812",
-   "title": "w3c-css-wg (Mailing List)"
+   "title": "w3c-css-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-css-wg/",
+    "shortdesc": "w3c-css-wg",
+    "longdesc": "Member-only list of the CSS Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1812"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1812/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/13775",
-   "title": "www-style (Mailing List)"
+   "title": "www-style (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/www-style/",
+    "shortdesc": "www-style",
+    "longdesc": "Public mailing list for the CSS Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13775"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13775/groups"
+     }
+    }
+   }
   }
  ]
 }
