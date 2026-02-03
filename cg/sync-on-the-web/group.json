@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45390",
-   "title": "internal-sync-on-the-web (Mailing List)"
+   "title": "internal-sync-on-the-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-sync-on-the-web/",
+    "shortdesc": "internal-sync-on-the-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45390"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45390/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45388",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sync-on-the-web",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45388"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45388/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45389",
-   "title": "public-sync-on-the-web (Mailing List)"
+   "title": "public-sync-on-the-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sync-on-the-web/",
+    "shortdesc": "public-sync-on-the-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45389"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45389/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45387",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sync-on-the-web/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45387"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45387/groups"
+     }
+    }
+   }
   }
  ]
 }
