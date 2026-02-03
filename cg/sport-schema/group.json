@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6096",
-   "title": "internal-sport-schema (Mailing List)"
+   "title": "internal-sport-schema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-sport-schema/",
+    "shortdesc": "internal-sport-schema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6096"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6096/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6093",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sport-schema",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6093"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6093/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6094",
-   "title": "public-sport-schema (Mailing List)"
+   "title": "public-sport-schema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sport-schema/",
+    "shortdesc": "public-sport-schema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6094"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6094/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/6092",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sport-schema/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6092"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6092/groups"
+     }
+    }
+   }
   }
  ]
 }
