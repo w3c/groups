@@ -83,21 +83,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45555",
-   "title": "group-pm-dc (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Group/group-pm-dc/",
-    "shortdesc": "group-pm-dc",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45555"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45555/groups"
-     }
-    }
-   }
+   "title": "group-pm-dc (Mailing List)"
   }
  ]
 }
