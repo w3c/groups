@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/674",
-   "title": "internal-games (Mailing List)"
+   "title": "internal-games (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-games/",
+    "shortdesc": "internal-games",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/674"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/674/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/671",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#games",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/671"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/671/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/672",
-   "title": "public-games (Mailing List)"
+   "title": "public-games (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-games/",
+    "shortdesc": "public-games",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/672"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/672/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/670",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/games/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/670"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/670/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/669",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/games/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/669"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/669/groups"
+     }
+    }
+   }
   }
  ]
 }
