@@ -52,78 +52,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43940",
-   "title": "Meetings wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/wiki/WebDriver",
-    "shortdesc": "Meetings wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43940"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43940/groups"
-     }
-    }
-   }
+   "title": "Meetings wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/13773",
-   "title": "public-browser-tools-testing (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-browser-tools-testing/",
-    "shortdesc": "public-browser-tools-testing",
-    "longdesc": "Group mailing list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13773"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13773/groups"
-     }
-    }
-   }
+   "title": "public-browser-tools-testing (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25877",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=49799",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25877"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25877/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/45620",
-   "title": "Matrix channel (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "https://matrix.to/#/#w3c_webdriver:matrix.org",
-    "shortdesc": "Matrix channel",
-    "longdesc": "Matrix channel for informal group exchanges",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45620"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45620/groups"
-     }
-    }
-   }
+   "title": "Matrix channel (Chat)"
   }
  ]
 }
