@@ -84,21 +84,7 @@
  "services": [
   {
    "href": "https://api.w3.org/services/1868",
-   "title": "public-wcag2ict-tf (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-wcag2ict-tf/",
-    "shortdesc": "public-wcag2ict-tf",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/1868"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/1868/groups"
-     }
-    }
-   }
+   "title": "public-wcag2ict-tf (Mailing List)"
   }
  ]
 }
