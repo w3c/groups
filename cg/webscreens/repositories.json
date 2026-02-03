@@ -1,1 +1,174 @@
-[]
+[
+ {
+  "name": "cg-charter",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "https://webscreens.github.io/cg-charter/",
+  "description": "Second Screen Community Group Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "demo",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "http://webscreens.github.io/demo/",
+  "description": "Presentation API demo + experimental Chromium build",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "form-factors",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "https://webscreens.github.io/form-factors/",
+  "description": "Form Factors Explained",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "presentation-api",
+  "owner": {
+   "login": "webscreens"
+  },
+  "description": "Presentation API specification (redirect)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "requestshowmedia",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "http://webscreens.github.io/requestshowmedia/demo/",
+  "description": "A Presentation API prollyfill for the HTMLMediaElement",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "site-initiated-mirroring",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "https://github.com/webscreens/site-initiated-mirroring/blob/main/explainer.md",
+  "description": "Respository for the Site Initiated Mirroring explainer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "slidyremote",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "http://webscreens.github.io/slidyremote",
+  "description": "HTML Slidy remote - Proof of concept demo for the Presentation API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "webscreens.github.io",
+  "owner": {
+   "login": "webscreens"
+  },
+  "description": "Redirections for CG incubations transferred to a WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "wg-charter",
+  "owner": {
+   "login": "webscreens"
+  },
+  "homepageUrl": "http://webscreens.github.io/wg-charter/",
+  "description": "[DRAFT] Second Screen Presentation Working Group Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "window-segments",
+  "owner": {
+   "login": "webscreens"
+  },
+  "description": "Window Segments Enumeration API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "xref",
+  "owner": {
+   "login": "webscreens"
+  },
+  "description": "Cross-references database for standards",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ }
+]
