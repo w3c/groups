@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "name": "capabilities",
+  "owner": {
+   "login": "a11yedge"
+  },
+  "description": "Inventory of edge capabilities",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/a11yedge"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "community",
+  "owner": {
+   "login": "a11yedge"
+  },
+  "description": "W3C Accessibility on the Edge Community Group Community Repo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/a11yedge"
+   ],
+   "exposed": true
+  }
+ }
+]
