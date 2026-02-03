@@ -53,23 +53,94 @@
  "services": [
   {
    "href": "https://api.w3.org/services/25744",
-   "title": "Blog (Blog)"
+   "title": "Blog (Blog)",
+   "details": {
+    "closed": false,
+    "type": "blog",
+    "link": "https://www.w3.org/blog/wotig/",
+    "shortdesc": "Blog",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25744"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25744/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7308",
-   "title": "member-wot-ig (Mailing List)"
+   "title": "member-wot-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-wot-ig/",
+    "shortdesc": "member-wot-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7308"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7308/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/7191",
-   "title": "public-wot-ig (Mailing List)"
+   "title": "public-wot-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wot-ig/",
+    "shortdesc": "public-wot-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7191"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7191/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/5920",
-   "title": "Wiki (Wiki)"
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WoT/IG/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5920"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5920/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/25907",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=75874",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25907"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25907/groups"
+     }
+    }
+   }
   }
  ]
 }
