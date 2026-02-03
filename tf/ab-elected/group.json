@@ -61,7 +61,21 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43986",
-   "title": "ab-private (Mailing List)"
+   "title": "ab-private (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/ab-private/",
+    "shortdesc": "ab-private",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43986"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43986/groups"
+     }
+    }
+   }
   }
  ]
 }
