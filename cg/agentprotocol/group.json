@@ -37,23 +37,93 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45733",
-   "title": "GitHub (Version Control)"
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/ai-agent-protocol",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45733"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45733/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45697",
-   "title": "internal-agentprotocol (Mailing List)"
+   "title": "internal-agentprotocol (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-agentprotocol/",
+    "shortdesc": "internal-agentprotocol",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45697"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45697/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45695",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#agentprotocol",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45695"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45695/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45696",
-   "title": "public-agentprotocol (Mailing List)"
+   "title": "public-agentprotocol (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-agentprotocol/",
+    "shortdesc": "public-agentprotocol",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45696"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45696/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45694",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/agentprotocol/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45694"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45694/groups"
+     }
+    }
+   }
   }
  ]
 }
