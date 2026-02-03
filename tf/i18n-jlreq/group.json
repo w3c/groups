@@ -76,57 +76,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45948",
-   "title": "Charter (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/International/jlreq/charter/",
-    "shortdesc": "Charter",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45948"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45948/groups"
-     }
-    }
-   }
+   "title": "Charter (Other)"
   },
   {
    "href": "https://api.w3.org/services/13862",
-   "title": "public-i18n-japanese (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-i18n-japanese/",
-    "shortdesc": "public-i18n-japanese",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13862"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13862/groups"
-     }
-    }
-   }
+   "title": "public-i18n-japanese (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/14997",
-   "title": "public-jlreq-admin (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-jlreq-admin/",
-    "shortdesc": "public-jlreq-admin",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/14997"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/14997/groups"
-     }
-    }
-   }
+   "title": "public-jlreq-admin (Mailing List)"
   }
  ]
 }
