@@ -37,19 +37,75 @@
  "services": [
   {
    "href": "https://api.w3.org/services/39165",
-   "title": "internal-av4browsers (Mailing List)"
+   "title": "internal-av4browsers (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-av4browsers/",
+    "shortdesc": "internal-av4browsers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39165"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39165/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39163",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#av4browsers",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39163"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39163/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39164",
-   "title": "public-av4browsers (Mailing List)"
+   "title": "public-av4browsers (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-av4browsers/",
+    "shortdesc": "public-av4browsers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39164"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39164/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39162",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/av4browsers/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39162"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39162/groups"
+     }
+    }
+   }
   }
  ]
 }
