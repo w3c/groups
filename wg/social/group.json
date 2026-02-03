@@ -53,75 +53,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46048",
-   "title": "Chair dashboard (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/PM/Groups/chairboard.html?gid=wg/social",
-    "shortdesc": "Chair dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46048"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46048/groups"
-     }
-    }
-   }
+   "title": "Chair dashboard (Other)"
   },
   {
    "href": "https://api.w3.org/services/46038",
-   "title": "Group issues (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/social",
-    "shortdesc": "Group issues",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46038"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46038/groups"
-     }
-    }
-   }
+   "title": "Group issues (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/46049",
-   "title": "Group wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/wiki/Socialwg",
-    "shortdesc": "Group wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46049"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46049/groups"
-     }
-    }
-   }
+   "title": "Group wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/2897",
-   "title": "public-socialweb (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-socialweb/",
-    "shortdesc": "public-socialweb",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/2897"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/2897/groups"
-     }
-    }
-   }
+   "title": "public-socialweb (Mailing List)"
   }
  ]
 }
