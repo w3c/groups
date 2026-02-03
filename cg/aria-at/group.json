@@ -37,27 +37,111 @@
  "services": [
   {
    "href": "https://api.w3.org/services/45999",
-   "title": "GitHub (Issue Tracking)"
+   "title": "GitHub (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/aria-at/",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45999"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45999/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/17367",
-   "title": "GitHub repository (Version Control)"
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/aria-at",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17367"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17367/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15447",
-   "title": "internal-aria-at (Mailing List)"
+   "title": "internal-aria-at (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-aria-at/",
+    "shortdesc": "internal-aria-at",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15447"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15447/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15444",
-   "title": "IRC (Chat)"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#aria-at",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15444"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15444/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15445",
-   "title": "public-aria-at (Mailing List)"
+   "title": "public-aria-at (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-aria-at/",
+    "shortdesc": "public-aria-at",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15445"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15445/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/15443",
-   "title": "RSS (RSS)"
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/aria-at/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15443"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15443/groups"
+     }
+    }
+   }
   }
  ]
 }
