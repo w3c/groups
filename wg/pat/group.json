@@ -53,40 +53,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43968",
-   "title": "Issue tracking (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/pat",
-    "shortdesc": "Issue tracking",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43968"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43968/groups"
-     }
-    }
-   }
+   "title": "Issue tracking (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/43967",
-   "title": "public-patwg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-patwg/",
-    "shortdesc": "public-patwg",
-    "longdesc": "Public mailing list for the PAT Working Group",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43967"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43967/groups"
-     }
-    }
-   }
+   "title": "public-patwg (Mailing List)"
   }
  ]
 }
