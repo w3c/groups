@@ -76,39 +76,11 @@
  "services": [
   {
    "href": "https://api.w3.org/services/14514",
-   "title": "public-i18n-sea (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-i18n-sea/",
-    "shortdesc": "public-i18n-sea",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/14514"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/14514/groups"
-     }
-    }
-   }
+   "title": "public-i18n-sea (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/26473",
-   "title": "public-sealreq-admin (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-sealreq-admin/",
-    "shortdesc": "public-sealreq-admin",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/26473"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/26473/groups"
-     }
-    }
-   }
+   "title": "public-sealreq-admin (Mailing List)"
   }
  ]
 }
