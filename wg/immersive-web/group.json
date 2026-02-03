@@ -53,96 +53,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6298",
-   "title": "internal-immersive-web (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-immersive-web/",
-    "shortdesc": "internal-immersive-web",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6298"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6298/groups"
-     }
-    }
-   }
+   "title": "internal-immersive-web (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/33246",
-   "title": "Specification status (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://immersive-web.github.io/homepage/list_spec.html",
-    "shortdesc": "Specification status",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/33246"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/33246/groups"
-     }
-    }
-   }
+   "title": "Specification status (Other)"
   },
   {
    "href": "https://api.w3.org/services/15398",
-   "title": "public-immersive-web-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-immersive-web-wg/",
-    "shortdesc": "public-immersive-web-wg",
-    "longdesc": "Group mailing list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15398"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15398/groups"
-     }
-    }
-   }
+   "title": "public-immersive-web-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/17281",
-   "title": "Meetings (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://github.com/immersive-web/administrivia/tree/master/meetings/wg",
-    "shortdesc": "Meetings",
-    "longdesc": "Information on Meetings",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/17281"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/17281/groups"
-     }
-    }
-   }
+   "title": "Meetings (Other)"
   },
   {
    "href": "https://api.w3.org/services/25884",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=109735",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25884"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25884/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
