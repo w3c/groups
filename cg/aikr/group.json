@@ -37,111 +37,27 @@
  "services": [
   {
    "href": "https://api.w3.org/services/46033",
-   "title": "GitHub (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/aikr",
-    "shortdesc": "GitHub",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46033"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46033/groups"
-     }
-    }
-   }
+   "title": "GitHub (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/13808",
-   "title": "internal-aikr (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-aikr/",
-    "shortdesc": "internal-aikr",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13808"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13808/groups"
-     }
-    }
-   }
+   "title": "internal-aikr (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/13805",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#aikr",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13805"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13805/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/13806",
-   "title": "public-aikr (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-aikr/",
-    "shortdesc": "public-aikr",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13806"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13806/groups"
-     }
-    }
-   }
+   "title": "public-aikr (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/13804",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/aikr/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13804"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13804/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/13840",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/aikr/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/13840"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/13840/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
