@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/15468",
-   "title": "GitHub repositories (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/w3c-lbd-cg/",
-    "shortdesc": "GitHub repositories",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/15468"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/15468/groups"
-     }
-    }
-   }
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/2061",
-   "title": "internal-lbd (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-lbd/",
-    "shortdesc": "internal-lbd",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/2061"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/2061/groups"
-     }
-    }
-   }
+   "title": "internal-lbd (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/2059",
-   "title": "public-lbd (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-lbd/",
-    "shortdesc": "public-lbd",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/2059"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/2059/groups"
-     }
-    }
-   }
+   "title": "public-lbd (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/2057",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/lbd/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/2057"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/2057/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/5935",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/lbd/wiki",
-    "shortdesc": "Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/5935"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/5935/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
