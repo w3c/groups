@@ -37,94 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/6067",
-   "title": "internal-gao (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-gao/",
-    "shortdesc": "internal-gao",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6067"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6067/groups"
-     }
-    }
-   }
+   "title": "internal-gao (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6064",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#gao",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6064"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6064/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/6065",
-   "title": "public-gao (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-gao/",
-    "shortdesc": "public-gao",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6065"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6065/groups"
-     }
-    }
-   }
+   "title": "public-gao (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/6063",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/gao/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6063"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6063/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   },
   {
    "href": "https://api.w3.org/services/6329",
-   "title": "Wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/community/gao/wiki/",
-    "shortdesc": "Wiki",
-    "longdesc": "Automotive Ontology Community Group Wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6329"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6329/groups"
-     }
-    }
-   }
+   "title": "Wiki (Wiki)"
   }
  ]
 }
