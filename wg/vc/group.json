@@ -53,59 +53,15 @@
  "services": [
   {
    "href": "https://api.w3.org/services/8136",
-   "title": "member-vc-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-vc-wg/",
-    "shortdesc": "member-vc-wg",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/8136"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/8136/groups"
-     }
-    }
-   }
+   "title": "member-vc-wg (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25897",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=98922",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25897"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25897/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/6957",
-   "title": "public-vc-wg (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-vc-wg/",
-    "shortdesc": "public-vc-wg",
-    "longdesc": "The group’s primary mailing list. Group members are automatically signed up. The archives are publicly visible, and anyone can post messages.",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/6957"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/6957/groups"
-     }
-    }
-   }
+   "title": "public-vc-wg (Mailing List)"
   }
  ]
 }
