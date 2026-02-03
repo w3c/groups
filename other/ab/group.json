@@ -31,93 +31,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/16002",
-   "title": "ab (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Group/ab/",
-    "shortdesc": "ab",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/16002"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/16002/groups"
-     }
-    }
-   }
+   "title": "ab (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/43951",
-   "title": "AB Member-visible Issue Tracker (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://github.com/w3c/ab-memberonly/issues",
-    "shortdesc": "AB Member-visible Issue Tracker",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43951"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43951/groups"
-     }
-    }
-   }
+   "title": "AB Member-visible Issue Tracker (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/43953",
-   "title": "AB Public Issue Tracker (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://github.com/w3c/AB-public/issues",
-    "shortdesc": "AB Public Issue Tracker",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43953"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43953/groups"
-     }
-    }
-   }
+   "title": "AB Public Issue Tracker (Issue Tracking)"
   },
   {
    "href": "https://api.w3.org/services/43952",
-   "title": "Public wiki (Wiki)",
-   "details": {
-    "closed": false,
-    "type": "wiki",
-    "link": "https://www.w3.org/wiki/AB",
-    "shortdesc": "Public wiki",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43952"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43952/groups"
-     }
-    }
-   }
+   "title": "Public wiki (Wiki)"
   },
   {
    "href": "https://api.w3.org/services/27124",
-   "title": "w3c-ac-members (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/w3c-ac-members/",
-    "shortdesc": "w3c-ac-members",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27124"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27124/groups"
-     }
-    }
-   }
+   "title": "w3c-ac-members (Mailing List)"
   }
  ]
 }
