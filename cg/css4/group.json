@@ -37,93 +37,23 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43849",
-   "title": "GitHub repositories (Version Control)",
-   "details": {
-    "closed": false,
-    "type": "repository",
-    "link": "https://github.com/CSS-Next",
-    "shortdesc": "GitHub repositories",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43849"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43849/groups"
-     }
-    }
-   }
+   "title": "GitHub repositories (Version Control)"
   },
   {
    "href": "https://api.w3.org/services/25762",
-   "title": "internal-css4 (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-css4/",
-    "shortdesc": "internal-css4",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25762"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25762/groups"
-     }
-    }
-   }
+   "title": "internal-css4 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25760",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#css4",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25760"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25760/groups"
-     }
-    }
-   }
+   "title": "IRC (Chat)"
   },
   {
    "href": "https://api.w3.org/services/25761",
-   "title": "public-css4 (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-css4/",
-    "shortdesc": "public-css4",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25761"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25761/groups"
-     }
-    }
-   }
+   "title": "public-css4 (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25759",
-   "title": "RSS (RSS)",
-   "details": {
-    "closed": false,
-    "type": "rss",
-    "link": "https://www.w3.org/community/css4/feed/",
-    "shortdesc": "RSS",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25759"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25759/groups"
-     }
-    }
-   }
+   "title": "RSS (RSS)"
   }
  ]
 }
