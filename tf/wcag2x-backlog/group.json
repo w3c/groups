@@ -85,11 +85,39 @@
  "services": [
   {
    "href": "https://api.w3.org/services/43982",
-   "title": "GitHub Issues List (Issue Tracking)"
+   "title": "GitHub Issues List (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/wcag/issues",
+    "shortdesc": "GitHub Issues List",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43982"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43982/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/45170",
-   "title": "public-wcag2-issues (Mailing List)"
+   "title": "public-wcag2-issues (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wcag2-issues/",
+    "shortdesc": "public-wcag2-issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45170"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45170/groups"
+     }
+    }
+   }
   }
  ]
 }
