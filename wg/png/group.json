@@ -53,19 +53,79 @@
  "services": [
   {
    "href": "https://api.w3.org/services/33328",
-   "title": "Agenda issues (Other)"
+   "title": "Agenda issues (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/png",
+    "shortdesc": "Agenda issues",
+    "longdesc": "GitHub Agenda Issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33328"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33328/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33244",
-   "title": "GitHub repo (Issue Tracking)"
+   "title": "GitHub repo (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/PNG-spec",
+    "shortdesc": "GitHub repo",
+    "longdesc": "GitHub repository for the PNG specification, and for issues",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33244"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33244/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33327",
-   "title": "Dashboard (Issue Tracking)"
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/png",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33327"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33327/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33245",
-   "title": "public-png (Mailing List)"
+   "title": "public-png (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-png/",
+    "shortdesc": "public-png",
+    "longdesc": "Public, archived mailing list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33245"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33245/groups"
+     }
+    }
+   }
   }
  ]
 }
