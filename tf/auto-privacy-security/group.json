@@ -124,7 +124,21 @@
  "services": [
   {
    "href": "https://api.w3.org/services/7759",
-   "title": "public-auto-privacy-security (Mailing List)"
+   "title": "public-auto-privacy-security (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-auto-privacy-security/",
+    "shortdesc": "public-auto-privacy-security",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7759"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7759/groups"
+     }
+    }
+   }
   }
  ]
 }
