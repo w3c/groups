@@ -53,77 +53,19 @@
  "services": [
   {
    "href": "https://api.w3.org/services/27444",
-   "title": "member-webtransport (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/member-webtransport/",
-    "shortdesc": "member-webtransport",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27444"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27444/groups"
-     }
-    }
-   }
+   "title": "member-webtransport (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/25967",
-   "title": "public-webtransport (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-webtransport/",
-    "shortdesc": "public-webtransport",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25967"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25967/groups"
-     }
-    }
-   }
+   "title": "public-webtransport (Mailing List)"
   },
   {
    "href": "https://api.w3.org/services/27800",
-   "title": "Agenda (Other)",
-   "details": {
-    "closed": false,
-    "type": "other",
-    "link": "https://www.w3.org/wiki/WebTransport/Meetings",
-    "shortdesc": "Agenda",
-    "longdesc": "Group agendas",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/27800"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/27800/groups"
-     }
-    }
-   }
+   "title": "Agenda (Other)"
   },
   {
    "href": "https://api.w3.org/services/25980",
-   "title": "Dashboard (Issue Tracking)",
-   "details": {
-    "closed": false,
-    "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/webtransport",
-    "shortdesc": "Dashboard",
-    "longdesc": "Issue Dashboard",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25980"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25980/groups"
-     }
-    }
-   }
+   "title": "Dashboard (Issue Tracking)"
   }
  ]
 }
