@@ -223,29 +223,5 @@
    ],
    "exposed": true
   }
- },
- {
-  "name": "yaml-ld",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
-  "description": "CG specification for YAML-LD and UCR",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld",
-    "cg/json-ld"
-   ],
-   "contacts": [
-    "p20n",
-    "bigbluehat"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  }
 ]
