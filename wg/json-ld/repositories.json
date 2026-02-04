@@ -1,28 +1,5 @@
 [
  {
-  "name": "cbor-ld-spec",
-  "owner": {
-   "login": "json-ld"
-  },
-  "homepageUrl": "https://json-ld.github.io/cbor-ld-spec/",
-  "description": "A CBOR-encoding for Linked Data.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "shortName": "cborld",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "json-ld-star",
   "owner": {
    "login": "json-ld"
@@ -70,25 +47,24 @@
   }
  },
  {
-  "name": "yaml-ld",
+  "name": "cbor-ld",
   "owner": {
-   "login": "json-ld"
+   "login": "w3c"
   },
-  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
-  "description": "CG specification for YAML-LD and UCR",
+  "homepageUrl": "https://json-ld.github.io/cbor-ld-spec/",
+  "description": "A CBOR-encoding for Linked Data.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/json-ld",
-    "cg/json-ld"
+    "wg/json-ld"
    ],
    "contacts": [
-    "p20n",
-    "bigbluehat"
+    "iherman"
    ],
+   "shortName": "cborld",
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ],
    "exposed": true
   }
@@ -268,6 +244,30 @@
    ],
    "repo-type": [
     "homepage"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "yaml-ld",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
+  "description": "CG specification for YAML-LD and UCR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld",
+    "cg/json-ld"
+   ],
+   "contacts": [
+    "p20n",
+    "bigbluehat"
+   ],
+   "repo-type": [
+    "cg-report"
    ],
    "exposed": true
   }
