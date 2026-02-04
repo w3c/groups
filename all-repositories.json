@@ -8179,29 +8179,6 @@
   }
  },
  {
-  "name": "cbor-ld-spec",
-  "owner": {
-   "login": "json-ld"
-  },
-  "homepageUrl": "https://json-ld.github.io/cbor-ld-spec/",
-  "description": "A CBOR-encoding for Linked Data.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    107714
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "shortName": "cborld",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "cborld-registry",
   "owner": {
    "login": "json-ld"
@@ -8407,30 +8384,6 @@
   "w3cjson": {
    "group": [
     "cg/json-ld"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "yaml-ld",
-  "owner": {
-   "login": "json-ld"
-  },
-  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
-  "description": "CG specification for YAML-LD and UCR",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld",
-    "cg/json-ld"
-   ],
-   "contacts": [
-    "p20n",
-    "bigbluehat"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
@@ -17095,6 +17048,29 @@
    ],
    "repo-type": [
     "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "cbor-ld",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://json-ld.github.io/cbor-ld-spec/",
+  "description": "A CBOR-encoding for Linked Data.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    107714
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "cborld",
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
@@ -33710,6 +33686,30 @@
    "contacts": [
     "michaelhkay",
     "caribouW3"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "yaml-ld",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
+  "description": "CG specification for YAML-LD and UCR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/json-ld",
+    "cg/json-ld"
+   ],
+   "contacts": [
+    "p20n",
+    "bigbluehat"
+   ],
+   "repo-type": [
+    "cg-report"
    ],
    "exposed": true
   }
