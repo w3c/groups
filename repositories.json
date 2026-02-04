@@ -16256,7 +16256,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://json-ld.github.io/cbor-ld-spec/",
+  "homepageUrl": "https://w3c.github.io/cbor-ld-spec/",
   "description": "A CBOR-encoding for Linked Data.",
   "isArchived": false,
   "isPrivate": false,
@@ -16265,9 +16265,9 @@
     "wg/json-ld"
    ],
    "contacts": [
-    "iherman"
+    "pchampin",
+    "bigbluehat"
    ],
-   "shortName": "cborld",
    "repo-type": [
     "rec-track"
    ],
@@ -28621,21 +28621,20 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://json-ld.github.io/yaml-ld/spec",
+  "homepageUrl": "https://w3c.github.io/yaml-ld/spec",
   "description": "CG specification for YAML-LD and UCR",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/json-ld",
-    "cg/json-ld"
+    "wg/json-ld"
    ],
    "contacts": [
-    "p20n",
+    "pchampin",
     "bigbluehat"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ],
    "exposed": true
   }
