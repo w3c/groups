@@ -17266,6 +17266,26 @@
   }
  },
  {
+  "name": "did-resolution-threat-model",
+  "owner": {
+   "login": "w3c"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/did"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "did-rubric",
   "owner": {
    "login": "w3c"
