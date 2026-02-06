@@ -27121,6 +27121,24 @@
       }
      }
     }
+   },
+   {
+    "href": "https://api.w3.org/services/46064",
+    "title": "Upcoming FediForum and Social Web Community Event (Other)",
+    "details": {
+     "closed": false,
+     "type": "other",
+     "link": "https://fediforum.org/events/",
+     "shortdesc": "Upcoming FediForum and Social Web Community Event",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46064"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46064/groups"
+      }
+     }
+    }
    }
   ]
  },
