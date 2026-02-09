@@ -2454,6 +2454,24 @@
     }
    },
    {
+    "href": "https://api.w3.org/services/46067",
+    "title": "Meeting minutes: 5 most recent on ab (Other)",
+    "details": {
+     "closed": false,
+     "type": "other",
+     "link": "https://www.w3.org/services/meeting-minutes-member/ab/",
+     "shortdesc": "Meeting minutes: 5 most recent on ab",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46067"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46067/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/43952",
     "title": "Public wiki (Wiki)",
     "details": {
@@ -20336,6 +20354,24 @@
   "identifier": "wg/pointer-events",
   "services": [
    {
+    "href": "https://api.w3.org/services/46066",
+    "title": "Meeting minutes: 5 most recent on pointerevents (Other)",
+    "details": {
+     "closed": false,
+     "type": "other",
+     "link": "https://www.w3.org/services/meeting-minutes/pointerevents/",
+     "shortdesc": "Meeting minutes: 5 most recent on pointerevents",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46066"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46066/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/1896",
     "title": "member-pointer-events (Mailing List)",
     "details": {
@@ -30369,6 +30405,24 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/760/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46065",
+    "title": "Meeting minutes: 5 most recent on w3process (Other)",
+    "details": {
+     "closed": false,
+     "type": "other",
+     "link": "https://www.w3.org/services/meeting-minutes/w3process/",
+     "shortdesc": "Meeting minutes: 5 most recent on w3process",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46065"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46065/groups"
       }
      }
     }
