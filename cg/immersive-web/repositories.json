@@ -1,26 +1,5 @@
 [
  {
-  "name": "WebXR-WebGPU-Binding",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/immersive-web"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "ar-common",
   "owner": {
    "login": "immersive-web"
