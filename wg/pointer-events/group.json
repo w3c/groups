@@ -51,6 +51,24 @@
  "identifier": "wg/pointer-events",
  "services": [
   {
+   "href": "https://api.w3.org/services/46066",
+   "title": "Meeting minutes: 5 most recent on pointerevents (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/services/meeting-minutes/pointerevents/",
+    "shortdesc": "Meeting minutes: 5 most recent on pointerevents",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46066"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46066/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/1896",
    "title": "member-pointer-events (Mailing List)",
    "details": {
