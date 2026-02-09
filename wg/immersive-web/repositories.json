@@ -1,5 +1,25 @@
 [
  {
+  "name": "WebXR-WebGPU-Binding",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "administrivia",
   "owner": {
    "login": "immersive-web"
