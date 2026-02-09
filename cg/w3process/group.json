@@ -72,6 +72,24 @@
    }
   },
   {
+   "href": "https://api.w3.org/services/46065",
+   "title": "Meeting minutes: 5 most recent on w3process (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/services/meeting-minutes/w3process/",
+    "shortdesc": "Meeting minutes: 5 most recent on w3process",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46065"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46065/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/761",
    "title": "public-w3process (Mailing List)",
    "details": {
