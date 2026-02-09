@@ -7040,14 +7040,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/immersive-web"
+    "wg/immersive-web"
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ],
    "exposed": true
   }
