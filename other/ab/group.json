@@ -84,6 +84,24 @@
    }
   },
   {
+   "href": "https://api.w3.org/services/46067",
+   "title": "Meeting minutes: 5 most recent on ab (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/services/meeting-minutes-member/ab/",
+    "shortdesc": "Meeting minutes: 5 most recent on ab",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46067"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46067/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/43952",
    "title": "Public wiki (Wiki)",
    "details": {
