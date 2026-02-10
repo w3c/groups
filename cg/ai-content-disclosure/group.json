@@ -36,6 +36,24 @@
  "identifier": "cg/ai-content-disclosure",
  "services": [
   {
+   "href": "https://api.w3.org/services/46068",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/ai-content-disclosure",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46068"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46068/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46062",
    "title": "internal-ai-content-disclosure (Mailing List)",
    "details": {
