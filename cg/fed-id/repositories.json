@@ -30,20 +30,6 @@
   }
  },
  {
-  "name": "declarative-login",
-  "owner": {
-   "login": "fedidcg"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/fed-id"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "fedcm-testing",
   "owner": {
    "login": "fedidcg"
@@ -75,6 +61,20 @@
  },
  {
   "name": "idp-initiated",
+  "owner": {
+   "login": "fedidcg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "login-element",
   "owner": {
    "login": "fedidcg"
   },
