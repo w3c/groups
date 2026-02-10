@@ -14209,6 +14209,26 @@
   }
  },
  {
+  "name": "ai-content-disclosure",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    174458
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "aikr",
   "owner": {
    "login": "w3c-cg"
