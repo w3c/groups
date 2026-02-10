@@ -13451,6 +13451,21 @@
   }
  },
  {
+  "name": "respec-oas",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "description": "Open API Specification extensions to ReSpec.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "security-vocab",
   "owner": {
    "login": "w3c-ccg"
@@ -16840,7 +16855,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://drafts.csswg.org/",
+  "homepageUrl": "https://drafts.csswg.org/index.html",
   "description": "CSS Working Group Editor Drafts",
   "isArchived": false,
   "isPrivate": false,
