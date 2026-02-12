@@ -18560,6 +18560,16 @@
   }
  },
  {
+  "name": "differential-privacy-guidance",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/differential-privacy-guidance/",
+  "description": "Guidance document for reviewing differential privacy systems (for non-experts)",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "display_errata",
   "owner": {
    "login": "w3c"
