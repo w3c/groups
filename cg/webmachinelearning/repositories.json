@@ -31,6 +31,21 @@
   }
  },
  {
+  "name": "daop",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "Dynamic AI Offloading Protocol (DAOP)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "hybrid-ai",
   "owner": {
    "login": "webmachinelearning"
