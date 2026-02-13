@@ -12809,21 +12809,6 @@
   }
  },
  {
-  "name": "contributing",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "description": "Instructions on how to contribute to W3C specifications.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "create-repo",
   "owner": {
    "login": "w3c-ccg"
