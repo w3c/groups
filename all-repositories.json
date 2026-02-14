@@ -17938,13 +17938,27 @@
   "isPrivate": false
  },
  {
-  "name": "csswg-wiki-archive",
+  "name": "csswg-wiki",
   "owner": {
    "login": "w3c"
   },
-  "description": "Read-only archive of the CSS Working Group Wiki (wiki.csswg.org)",
+  "homepageUrl": "https://w3c.github.io/csswg-wiki/",
+  "description": "CSS Working Group Wiki - community-editable documentation",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/css"
+   ],
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "homepage"
+   ],
+   "policy": "open",
+   "exposed": true
+  }
  },
  {
   "name": "csswg-www",
