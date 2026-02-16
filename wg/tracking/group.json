@@ -7,9 +7,6 @@
  "closed_date": "2019-01-17",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/tracking"
-  },
   "homepage": {
    "href": "https://www.w3.org/2011/tracking-protection/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/tracking/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/tracking"
   }
  },
  "type": "working group",
