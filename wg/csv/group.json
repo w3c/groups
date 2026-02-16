@@ -8,9 +8,6 @@
  "closed_date": "2016-02-29",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/csv"
-  },
   "homepage": {
    "href": "https://www.w3.org/2013/csvw/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/csv/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/csv"
   }
  },
  "type": "working group",
