@@ -2291,6 +2291,26 @@
   }
  },
  {
+  "name": "speculative_load_measurement",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "starter-kit",
   "owner": {
    "login": "WICG"
