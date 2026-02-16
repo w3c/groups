@@ -7,9 +7,6 @@
  "closed_date": "2017-02-06",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/mmi"
-  },
   "homepage": {
    "href": "https://www.w3.org/2002/mmi/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/mmi/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/mmi"
   }
  },
  "type": "working group",
