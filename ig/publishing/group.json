@@ -8,9 +8,6 @@
  "closed_date": "2017-09-29",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/publishing"
-  },
   "homepage": {
    "href": "https://www.w3.org/dpub/IG/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/publishing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/publishing"
   }
  },
  "type": "interest group",
