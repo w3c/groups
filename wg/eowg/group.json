@@ -7,9 +7,6 @@
  "closed_date": "2024-10-03",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/eowg"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/about/groups/eowg/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/eowg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/eowg"
   }
  },
  "type": "working group",
