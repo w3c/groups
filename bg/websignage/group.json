@@ -9,9 +9,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/bg/websignage"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/websignage/"
   },
@@ -32,6 +29,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/bg/websignage/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/bg/websignage"
   }
  },
  "type": "business group",
