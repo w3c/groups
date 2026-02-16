@@ -27513,29 +27513,6 @@
   }
  },
  {
-  "name": "webmediaporting",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Web Media porting spec",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webmediaapi"
-   ],
-   "contacts": [
-    "johnluther",
-    "johnriv",
-    "tidoust"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "webmention",
   "owner": {
    "login": "w3c"
