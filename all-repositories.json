@@ -3683,6 +3683,26 @@
   }
  },
  {
+  "name": "speculative_load_measurement",
+  "owner": {
+   "login": "WICG"
+  },
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "starter-kit",
   "owner": {
    "login": "WICG"
@@ -17943,7 +17963,7 @@
    "login": "w3c"
   },
   "homepageUrl": "https://w3c.github.io/csswg-wiki/",
-  "description": "CSS Working Group Wiki - community-editable documentation",
+  "description": "CSS Working Group Wiki – community-editable documentation",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
