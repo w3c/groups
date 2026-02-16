@@ -8,9 +8,6 @@
  "closed_date": "2018-03-29",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/poe"
-  },
   "homepage": {
    "href": "https://www.w3.org/2016/poe/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/poe/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/poe"
   }
  },
  "type": "working group",
