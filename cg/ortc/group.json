@@ -9,9 +9,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/ortc"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/ortc/"
   },
@@ -29,6 +26,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/ortc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ortc"
   }
  },
  "type": "community group",
