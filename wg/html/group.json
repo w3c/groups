@@ -7,9 +7,6 @@
  "closed_date": "2018-10-07",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/html"
-  },
   "homepage": {
    "href": "https://www.w3.org/html/wg/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/html/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/html"
   }
  },
  "type": "working group",
