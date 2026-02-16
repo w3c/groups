@@ -8,9 +8,6 @@
  "closed_date": "2023-06-20",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/publishing"
-  },
   "homepage": {
    "href": "https://www.w3.org/publishing/groups/publ-wg/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/publishing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/publishing"
   }
  },
  "type": "working group",
