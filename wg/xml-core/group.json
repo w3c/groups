@@ -7,9 +7,6 @@
  "closed_date": "2016-08-01",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/xml-core"
-  },
   "homepage": {
    "href": "https://www.w3.org/XML/Core/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/xml-core/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/xml-core"
   }
  },
  "type": "working group",
