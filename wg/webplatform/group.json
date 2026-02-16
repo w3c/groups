@@ -8,9 +8,6 @@
  "closed_date": "2022-04-14",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webplatform"
-  },
   "homepage": {
    "href": "https://www.w3.org/WebPlatform/WG/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webplatform/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webplatform"
   }
  },
  "type": "working group",
