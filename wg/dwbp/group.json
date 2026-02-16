@@ -8,9 +8,6 @@
  "closed_date": "2017-02-07",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/dwbp"
-  },
   "homepage": {
    "href": "https://www.w3.org/2013/dwbp/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/dwbp/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/dwbp"
   }
  },
  "type": "working group",
