@@ -7,9 +7,6 @@
  "closed_date": "2018-10-15",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/xslt"
-  },
   "homepage": {
    "href": "https://www.w3.org/Style/XSL/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/xslt/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/xslt"
   }
  },
  "type": "working group",
