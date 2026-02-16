@@ -7,9 +7,6 @@
  "closed_date": "2018-10-15",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/xml-query"
-  },
   "homepage": {
    "href": "https://www.w3.org/XML/Query/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/xml-query/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/xml-query"
   }
  },
  "type": "working group",
