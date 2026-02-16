@@ -7,9 +7,6 @@
  "closed_date": "2016-03-19",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/uaag"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/UA/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/uaag/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/uaag"
   }
  },
  "type": "working group",
