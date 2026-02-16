@@ -6,9 +6,6 @@
  "closed_date": "2013-07-24",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/schema"
-  },
   "homepage": {
    "href": "https://www.w3.org/XML/Schema"
   },
@@ -41,6 +38,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/schema/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/schema"
   }
  },
  "type": "working group",
