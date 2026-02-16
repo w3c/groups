@@ -8,9 +8,6 @@
  "closed_date": "2024-02-22",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/auto"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/auto/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/auto/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/auto"
   }
  },
  "type": "working group",
