@@ -8,9 +8,6 @@
  "closed_date": "2017-03-02",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/annotation"
-  },
   "homepage": {
    "href": "https://www.w3.org/annotation/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/annotation/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/annotation"
   }
  },
  "type": "working group",
