@@ -7,9 +7,6 @@
  "closed_date": "2024-12-06",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/privacy"
-  },
   "homepage": {
    "href": "https://www.w3.org/Privacy/IG/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/privacy/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/privacy"
   }
  },
  "type": "interest group",
