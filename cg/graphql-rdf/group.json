@@ -9,9 +9,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/graphql-rdf"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/graphql-rdf/"
   },
@@ -29,6 +26,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/graphql-rdf/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/graphql-rdf"
   }
  },
  "type": "community group",
