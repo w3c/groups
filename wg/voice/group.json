@@ -7,9 +7,6 @@
  "closed_date": "2015-10-12",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/voice"
-  },
   "homepage": {
    "href": "https://www.w3.org/Voice/"
   },
@@ -42,6 +39,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/voice/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/voice"
   }
  },
  "type": "working group",
