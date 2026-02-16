@@ -8,9 +8,6 @@
  "closed_date": "2017-05-17",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/tvcontrol"
-  },
   "homepage": {
    "href": "https://www.w3.org/2016/tvcontrol/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/tvcontrol/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/tvcontrol"
   }
  },
  "type": "working group",
