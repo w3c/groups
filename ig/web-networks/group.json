@@ -8,9 +8,6 @@
  "closed_date": "2026-01-12",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/web-networks"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/ig/web-networks/"
   },
@@ -43,6 +40,9 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/web-networks/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/web-networks"
   }
  },
  "type": "interest group",
