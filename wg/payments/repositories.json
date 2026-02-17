@@ -1,27 +1,5 @@
 [
  {
-  "name": "payment-handler",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/payment-handler/",
-  "description": "Payment Handler API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/payments"
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "payment-method-id",
   "owner": {
    "login": "w3c"
@@ -124,6 +102,28 @@
    ],
    "contacts": [
     "ijacobs"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "web-based-payment-handler",
+  "owner": {
+   "login": "w3c"
+  },
+  "homepageUrl": "https://w3c.github.io/web-based-payment-handler/",
+  "description": "Payment Handler API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
    ],
    "repo-type": [
     "rec-track"
