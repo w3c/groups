@@ -1837,6 +1837,28 @@
   }
  },
  {
+  "name": "container-timing",
+  "owner": {
+   "login": "WICG"
+  },
+  "homepageUrl": "https://bloomberg.github.io/container-timing/",
+  "description": "Container Timing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "content-index",
   "owner": {
    "login": "WICG"
