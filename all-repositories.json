@@ -8340,6 +8340,21 @@
   }
  },
  {
+  "name": "jsonld-vis",
+  "owner": {
+   "login": "json-ld"
+  },
+  "description": "Turn JSON-LD into pretty graphs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/json-ld"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "minutes",
   "owner": {
    "login": "json-ld"
