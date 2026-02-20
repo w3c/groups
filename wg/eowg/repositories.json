@@ -24,6 +24,30 @@
   }
  },
  {
+  "name": "wai-eval-tools",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "WAI Accessibility Evaluation Tools",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/eowg"
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "wai-media-intro",
   "owner": {
    "login": "w3c"
