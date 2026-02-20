@@ -30515,6 +30515,30 @@
   }
  },
  {
+  "name": "wai-eval-tools",
+  "owner": {
+   "login": "w3c"
+  },
+  "description": "WAI Accessibility Evaluation Tools",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    35532
+   ],
+   "contacts": [
+    "nitedog",
+    "yatil",
+    "slhenry"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "article"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "wai-evaluation-tools-list",
   "owner": {
    "login": "w3c"
