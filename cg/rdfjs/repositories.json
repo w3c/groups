@@ -185,5 +185,20 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "name": "wrapper",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "description": "An RDF/JS object mapping library",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ],
+   "exposed": true
+  }
  }
 ]
