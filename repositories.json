@@ -16110,27 +16110,6 @@
   }
  },
  {
-  "name": "automotive-bg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "bg/autowebplatform"
-   ],
-   "contacts": [
-    "tguild"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "autoplay",
   "owner": {
    "login": "w3c"
