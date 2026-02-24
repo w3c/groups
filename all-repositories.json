@@ -16782,27 +16782,6 @@
   }
  },
  {
-  "name": "automotive-bg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    61259
-   ],
-   "contacts": [
-    "tguild"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "autoplay",
   "owner": {
    "login": "w3c"
