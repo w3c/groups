@@ -17884,28 +17884,6 @@
   }
  },
  {
-  "name": "css-print",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://w3c.github.io/css-print/",
-  "description": "CSS Print ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    121175
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "css-validator",
   "owner": {
    "login": "w3c"
@@ -18779,27 +18757,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "document-services",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/services/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    129525
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
