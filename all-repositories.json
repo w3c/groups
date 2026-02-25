@@ -23978,26 +23978,6 @@
   }
  },
  {
-  "name": "net-maint",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    122081
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "netinfo",
   "owner": {
    "login": "w3c"
@@ -24330,16 +24310,6 @@
    "policy": "open",
    "exposed": true
   }
- },
- {
-  "name": "ortc",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "http://www.w3.org/community/ortc/",
-  "description": "ORTC Community Group specification repository (see W3C WebRTC for official standards track)",
-  "isArchived": false,
-  "isPrivate": false
  },
  {
   "name": "oss-relations",
