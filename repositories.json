@@ -14311,28 +14311,6 @@
   }
  },
  {
-  "name": "rdfsurfaces",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "homepageUrl": "https://w3c-cg.github.io/rdfsurfaces/",
-  "description": "RDF Surfaces is classical first-order logic with negation in RDF",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/rdfsurfaces"
-   ],
-   "contacts": [
-    "p20n"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "rsp",
   "owner": {
    "login": "w3c-cg"
@@ -28691,7 +28669,7 @@
   "owner": {
    "login": "w3c"
   },
-  "homepageUrl": "https://w3c.github.io/yaml-ld/spec",
+  "homepageUrl": "https://w3c.github.io/yaml-ld/",
   "description": "CG specification for YAML-LD and UCR",
   "isArchived": false,
   "isPrivate": false,
