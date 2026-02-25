@@ -21666,26 +21666,6 @@
   }
  },
  {
-  "name": "net-maint",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/net-maint"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "network-emulation",
   "owner": {
    "login": "w3c"
