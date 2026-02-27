@@ -16,6 +16,22 @@
   }
  },
  {
+  "name": "Yasgui",
+  "owner": {
+   "login": "rdfjs"
+  },
+  "homepageUrl": "https://yasgui.triply.cc",
+  "description": "Yet Another Sparql GUI",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfjs"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "charter",
   "owner": {
    "login": "rdfjs"
