@@ -34825,6 +34825,21 @@
   }
  },
  {
+  "name": "awesome-webmcp",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "description": "🤖 A curated list of awesome things related to the WebMCP proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "awesome-webnn",
   "owner": {
    "login": "webmachinelearning"
