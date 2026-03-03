@@ -28129,28 +28129,6 @@
   }
  },
  {
-  "name": "tocc",
-  "owner": {
-   "login": "w3c"
-  },
-  "description": "Transportation Ontology Coordination Committee (TOCC)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    115630
-   ],
-   "contacts": [
-    "tguild"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "tools-repo-template",
   "owner": {
    "login": "w3c"
