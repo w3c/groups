@@ -18421,26 +18421,6 @@
   }
  },
  {
-  "name": "did-kr-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    121672
-   ],
-   "contacts": [
-    "wseltzer"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "did-methods-wg-charter",
   "owner": {
    "login": "w3c"
