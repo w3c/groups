@@ -17306,26 +17306,6 @@
   }
  },
  {
-  "name": "did-kr-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/did-kr"
-   ],
-   "contacts": [
-    "wseltzer"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "did-resolution",
   "owner": {
    "login": "w3c"
