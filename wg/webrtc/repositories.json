@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-pipeline-arch",
   "description": "Architecture of the media pipeline on the web",
   "isArchived": false,
   "isPrivate": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-automation",
   "homepageUrl": "https://w3c.github.io/mediacapture-automation/",
   "description": "Media Capture Automation",
   "isArchived": false,
@@ -50,6 +52,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-extensions",
   "homepageUrl": "https://w3c.github.io/mediacapture-extensions/",
   "description": "Extensions to Media Capture and Streams by the WebRTC Working Group",
   "isArchived": false,
@@ -73,6 +76,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-fromelement",
   "homepageUrl": "https://w3c.github.io/mediacapture-fromelement",
   "description": "API to create a MediaStream from Media Element",
   "isArchived": false,
@@ -97,6 +101,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-handle",
   "homepageUrl": "https://w3c.github.io/mediacapture-handle/",
   "isArchived": false,
   "isPrivate": false,
@@ -119,6 +124,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-image",
   "homepageUrl": "https://w3c.github.io/mediacapture-image/",
   "description": "Mediastream Image Capture",
   "isArchived": false,
@@ -143,6 +149,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-main",
   "homepageUrl": "https://w3c.github.io/mediacapture-main/",
   "description": "Media Capture and Streams specification (aka getUserMedia)",
   "isArchived": false,
@@ -167,6 +174,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-output",
   "homepageUrl": "https://w3c.github.io/mediacapture-output/",
   "description": "API to manage the rendering of audio on any audio output device",
   "isArchived": false,
@@ -191,6 +199,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-record",
   "homepageUrl": "https://w3c.github.io/mediacapture-record/",
   "description": "MediaStream Recording",
   "isArchived": false,
@@ -215,6 +224,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-region",
   "homepageUrl": "http://w3c.github.io/mediacapture-region/",
   "description": " This document introduces an API for cropping a video track derived from display-capture of the current tab. ",
   "isArchived": false,
@@ -238,6 +248,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-screen-share",
   "homepageUrl": "https://w3c.github.io/mediacapture-screen-share/",
   "description": "Media Capture Screen Capture specification",
   "isArchived": false,
@@ -262,6 +273,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-screen-share-extensions",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -283,6 +295,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-surface-control",
   "homepageUrl": "https://w3c.github.io/mediacapture-surface-control/",
   "description": "Web API allowing capturing applications limited control over captured surfaces.",
   "isArchived": false,
@@ -306,6 +319,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-transform",
   "homepageUrl": "https://w3c.github.io/mediacapture-transform/",
   "description": "MediaStreamTrack Insertable Media Processing using Streams",
   "isArchived": false,
@@ -329,6 +343,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediacapture-viewport",
   "homepageUrl": "https://w3c.github.io/mediacapture-viewport/",
   "description": "Specification for getViewportMedia, an API to capture the content of a browser viewport.",
   "isArchived": false,
@@ -352,6 +367,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mst-content-hint",
   "homepageUrl": "https://w3c.github.io/mst-content-hint/",
   "description": "This is the specification for the content-hint attribute. This optional hint permits MediaStreamTrack consumers such as PeerConnection  or MediaRecorder to encode or process track media with methods more appropriate to the type of content that is being consumed. ",
   "isArchived": false,
@@ -375,6 +391,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-charter",
   "homepageUrl": "https://w3c.github.io/webrtc-charter/webrtc-charter.html",
   "description": "Draft for an updated WebRTC Working Group charter",
   "isArchived": false,
@@ -398,6 +415,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-encoded-transform",
   "homepageUrl": "https://w3c.github.io/webrtc-encoded-transform/",
   "description": "WebRTC Encoded Transform",
   "isArchived": false,
@@ -421,6 +439,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-extensions",
   "homepageUrl": "https://w3c.github.io/webrtc-extensions/",
   "description": "A repository for experimental additions to the WebRTC API",
   "isArchived": false,
@@ -444,6 +463,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-ice",
   "homepageUrl": "https://w3c.github.io/webrtc-ice/",
   "description": "Extension to the RTCIceTransport interface defined in WebRTC 1.0",
   "isArchived": false,
@@ -467,6 +487,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-identity",
   "homepageUrl": "https://w3c.github.io/webrtc-identity/",
   "description": "Specification of the Identity framework for WebRTC",
   "isArchived": false,
@@ -490,6 +511,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-interop-reports",
   "homepageUrl": "https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html",
   "description": "Interoperability testing reports for WebRTC WG specifications",
   "isArchived": false,
@@ -513,6 +535,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-nv-use-cases",
   "homepageUrl": "https://w3c.github.io/webrtc-nv-use-cases/",
   "description": "Use cases for WebRTC NV",
   "isArchived": false,
@@ -536,6 +559,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-pc",
   "homepageUrl": "https://w3c.github.io/webrtc-pc/",
   "description": "WebRTC 1.0 API",
   "isArchived": false,
@@ -560,6 +584,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-priority",
   "homepageUrl": "https://w3c.github.io/webrtc-priority/",
   "description": "Spec for the prioirity setting extension to WebRTC (DSCP and priority)",
   "isArchived": false,
@@ -583,6 +608,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-provisional-stats",
   "homepageUrl": "https://w3c.github.io/webrtc-provisional-stats/",
   "isArchived": false,
   "isPrivate": false,
@@ -605,6 +631,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-rtptransport",
   "homepageUrl": "https://w3c.github.io/webrtc-rtptransport/",
   "description": "Repository for the RTPTransport specification of the WebRTC Working Group",
   "isArchived": false,
@@ -628,6 +655,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-stats",
   "homepageUrl": "https://w3c.github.io/webrtc-stats/",
   "description": "WebRTC Statistics",
   "isArchived": false,
@@ -652,6 +680,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webrtc-svc",
   "homepageUrl": "https://w3c.github.io/webrtc-svc/",
   "description": "W3C Scalable Video Coding (SVC) Extension for WebRTC",
   "isArchived": false,
