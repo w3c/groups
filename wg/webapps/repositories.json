@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/FileAPI",
   "homepageUrl": "https://w3c.github.io/FileAPI/",
   "description": "File API",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/IndexedDB",
   "homepageUrl": "https://w3c.github.io/IndexedDB/",
   "description": "Indexed Database API",
   "isArchived": false,
@@ -50,6 +52,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ServiceWorker",
   "homepageUrl": "https://w3c.github.io/ServiceWorker/",
   "description": "Service Workers",
   "isArchived": false,
@@ -74,6 +77,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/badging",
   "homepageUrl": "https://w3c.github.io/badging/",
   "description": "Badging API",
   "isArchived": false,
@@ -98,6 +102,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/contact-picker",
   "homepageUrl": "https://www.w3.org/TR/contact-picker/",
   "description": "Contact Picker API",
   "isArchived": false,
@@ -121,6 +126,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/gamepad",
   "homepageUrl": "https://w3c.github.io/gamepad/",
   "description": "Gamepad",
   "isArchived": false,
@@ -144,6 +150,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/image-resource",
   "homepageUrl": "https://w3c.github.io/image-resource/",
   "description": "An ImageResource definition for web APIs",
   "isArchived": false,
@@ -167,6 +174,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/manifest",
   "homepageUrl": "https://www.w3.org/TR/appmanifest/",
   "description": "Manifest for web apps",
   "isArchived": false,
@@ -190,6 +198,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/manifest-app-info",
   "homepageUrl": "https://w3c.github.io/manifest-app-info/",
   "description": "Web App Manifest - Application Information",
   "isArchived": false,
@@ -213,6 +222,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/pointerlock",
   "homepageUrl": "https://w3c.github.io/pointerlock/",
   "description": "Pointer Lock",
   "isArchived": false,
@@ -236,6 +246,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/push-api",
   "homepageUrl": "https://w3c.github.io/push-api/",
   "description": "Push API",
   "isArchived": false,
@@ -259,6 +270,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/screen-orientation",
   "homepageUrl": "https://w3c.github.io/screen-orientation/",
   "description": "The screen orientation lock specification",
   "isArchived": false,
@@ -282,6 +294,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/uievents",
   "homepageUrl": "https://w3c.github.io/uievents/",
   "description": "UI Events",
   "isArchived": false,
@@ -305,6 +318,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/uievents-code",
   "homepageUrl": "https://w3c.github.io/uievents-code/",
   "description": "UI Events KeyboardEvent code Values",
   "isArchived": false,
@@ -328,6 +342,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/uievents-key",
   "homepageUrl": "https://w3c.github.io/uievents-key/",
   "description": "UI Events KeyboardEvents key Values",
   "isArchived": false,
@@ -351,6 +366,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/using-aria",
   "homepageUrl": "https://w3c.github.io/using-aria/",
   "description": "Using ARIA",
   "isArchived": false,
@@ -375,6 +391,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/web-locks",
   "homepageUrl": "https://w3c.github.io/web-locks/",
   "description": "Cross-tab resource coordination API",
   "isArchived": false,
@@ -398,6 +415,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/web-share",
   "homepageUrl": "https://www.w3.org/TR/web-share/",
   "description": "Web API proposal for sharing data from a web page",
   "isArchived": false,
@@ -423,6 +441,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappswg",
   "homepageUrl": "https://www.w3.org/groups/wg/webapps",
   "description": "Web Applications Working Group",
   "isArchived": false,
