@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/at-driver",
   "homepageUrl": "https://w3c.github.io/at-driver",
   "description": "AT Driver defines a protocol for introspection and remote control of assistive technology software, using a bidirectional communication channel.",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webdriver",
   "homepageUrl": "https://w3c.github.io/webdriver/",
   "description": "Remote control interface that enables introspection and control of user agents.",
   "isArchived": false,
@@ -50,6 +52,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webdriver-bidi",
   "homepageUrl": "https://w3c.github.io/webdriver-bidi/",
   "description": "Bidirectional WebDriver protocol for browser automation",
   "isArchived": false,
