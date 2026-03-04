@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-common",
   "description": "Files used in all specifications of the RDF-star WG",
   "isArchived": false,
   "isPrivate": false,
@@ -25,6 +26,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-concepts",
   "homepageUrl": "https://w3c.github.io/rdf-concepts/",
   "isArchived": false,
   "isPrivate": false,
@@ -46,6 +48,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-interop",
   "homepageUrl": "https://w3c.github.io/rdf-interop/spec/",
   "isArchived": false,
   "isPrivate": false,
@@ -67,6 +70,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-n-quads",
   "homepageUrl": "https://w3c.github.io/rdf-n-quads/",
   "isArchived": false,
   "isPrivate": false,
@@ -88,6 +92,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-n-triples",
   "homepageUrl": "https://w3c.github.io/rdf-n-triples/",
   "isArchived": false,
   "isPrivate": false,
@@ -109,6 +114,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-new",
   "homepageUrl": "https://w3c.github.io/rdf-new/",
   "isArchived": false,
   "isPrivate": false,
@@ -130,6 +136,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-primer",
   "homepageUrl": "https://w3c.github.io/rdf-primer/",
   "isArchived": false,
   "isPrivate": false,
@@ -151,6 +158,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-schema",
   "homepageUrl": "https://w3c.github.io/rdf-schema/",
   "isArchived": false,
   "isPrivate": false,
@@ -172,6 +180,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-semantics",
   "homepageUrl": "https://w3c.github.io/rdf-semantics/",
   "isArchived": false,
   "isPrivate": false,
@@ -193,6 +202,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-star-wg",
   "description": "RDF-star Working Group",
   "isArchived": false,
   "isPrivate": false,
@@ -214,6 +224,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-star-wg-charter",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -235,6 +246,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-tests",
   "homepageUrl": "w3c.github.io/rdf-tests",
   "description": "Repository for the RDF Tests Community Group",
   "isArchived": false,
@@ -258,6 +270,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-trig",
   "homepageUrl": "https://w3c.github.io/rdf-trig/",
   "isArchived": false,
   "isPrivate": false,
@@ -279,6 +292,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-turtle",
   "homepageUrl": "https://w3c.github.io/rdf-turtle/",
   "isArchived": false,
   "isPrivate": false,
@@ -300,6 +314,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-ucr",
   "homepageUrl": "https://w3c.github.io/rdf-ucr/",
   "isArchived": false,
   "isPrivate": false,
@@ -321,6 +336,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rdf-xml",
   "homepageUrl": "https://w3c.github.io/rdf-xml/",
   "isArchived": false,
   "isPrivate": false,
@@ -342,6 +358,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-concepts",
   "homepageUrl": "https://w3c.github.io/sparql-concepts/",
   "isArchived": false,
   "isPrivate": false,
@@ -363,6 +380,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-entailment",
   "homepageUrl": "https://w3c.github.io/sparql-entailment/",
   "isArchived": false,
   "isPrivate": false,
@@ -384,6 +402,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-federated-query",
   "homepageUrl": "https://w3c.github.io/sparql-federated-query/",
   "isArchived": false,
   "isPrivate": false,
@@ -405,6 +424,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-graph-store-protocol",
   "homepageUrl": "https://w3c.github.io/sparql-graph-store-protocol/",
   "isArchived": false,
   "isPrivate": false,
@@ -426,6 +446,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-new",
   "homepageUrl": "https://w3c.github.io/sparql-new/",
   "isArchived": false,
   "isPrivate": false,
@@ -447,6 +468,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-protocol",
   "homepageUrl": "https://w3c.github.io/sparql-protocol/",
   "isArchived": false,
   "isPrivate": false,
@@ -468,6 +490,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-query",
   "homepageUrl": "https://w3c.github.io/sparql-query/",
   "isArchived": false,
   "isPrivate": false,
@@ -489,6 +512,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-results-csv-tsv",
   "homepageUrl": "https://w3c.github.io/sparql-results-csv-tsv/",
   "isArchived": false,
   "isPrivate": false,
@@ -510,6 +534,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-results-json",
   "homepageUrl": "https://w3c.github.io/sparql-results-json/",
   "isArchived": false,
   "isPrivate": false,
@@ -531,6 +556,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-results-xml",
   "homepageUrl": "https://w3c.github.io/sparql-results-xml/",
   "isArchived": false,
   "isPrivate": false,
@@ -552,6 +578,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-service-description",
   "homepageUrl": "https://w3c.github.io/sparql-service-description/",
   "isArchived": false,
   "isPrivate": false,
@@ -573,6 +600,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sparql-update",
   "homepageUrl": "https://w3c.github.io/sparql-update/",
   "isArchived": false,
   "isPrivate": false,
