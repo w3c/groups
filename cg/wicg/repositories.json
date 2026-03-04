@@ -4,6 +4,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/PEPC",
   "homepageUrl": "https://github.com/WICG/PEPC/blob/main/explainer.md",
   "description": "Explainer for the PEPC feature",
   "isArchived": false,
@@ -26,6 +27,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/Realms-Initialization-Control",
   "description": "Introduce security controls to same origin realms in web applications",
   "isArchived": false,
   "isPrivate": false,
@@ -47,6 +49,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/WebApiDevice",
   "description": "This repository contains the data related to the new proposed Web API -- Managed Device Web API.",
   "isArchived": false,
   "isPrivate": false,
@@ -68,6 +71,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/ab-worker-prototype",
   "description": "A prototype of an Edge worker that implements the Client Side A/B testing spec.",
   "isArchived": false,
   "isPrivate": false,
@@ -89,6 +93,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/accessible-notifications",
   "description": "ARIA Accessible Notifications",
   "isArchived": false,
   "isPrivate": false,
@@ -110,6 +115,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/admin",
   "description": " 👋 Ask your questions here! 👋",
   "isArchived": false,
   "isPrivate": false,
@@ -131,6 +137,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/anonymous-iframe",
   "description": "Give developers the ability to embed third party HTML documents inside a new and ephemeral context. In return, COEP embedding rules can be relaxed. Thanks to anonymous iframe, developers using COEP can now embed third party content that do not.",
   "isArchived": false,
   "isPrivate": false,
@@ -152,6 +159,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/aom",
   "homepageUrl": "http://wicg.github.io/aom/",
   "description": "Accessibility Object Model",
   "isArchived": false,
@@ -174,6 +182,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/attribution-reporting-api",
   "homepageUrl": "https://wicg.github.io/attribution-reporting-api/",
   "description": "Attribution Reporting API",
   "isArchived": false,
@@ -196,6 +205,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/audio-context-playout-stats",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -216,6 +226,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/autofill-event",
   "homepageUrl": "https://wicg.github.io/autofill-event/",
   "isArchived": false,
   "isPrivate": false,
@@ -237,6 +248,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/background-fetch",
   "homepageUrl": "https://wicg.github.io/background-fetch/",
   "description": "API proposal for background downloading/uploading",
   "isArchived": false,
@@ -259,6 +271,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/background-sync",
   "homepageUrl": "https://wicg.github.io/background-sync/spec/",
   "description": "A design and spec for ServiceWorker-based background synchronization",
   "isArchived": false,
@@ -281,6 +294,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/bfcache-not-restored-reason",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -301,6 +315,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/bundle-preloading",
   "description": "Bundles of multiple resources, to improve loading JS and the Web.",
   "isArchived": false,
   "isPrivate": false,
@@ -322,6 +337,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/canvas-formatted-text",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -342,6 +358,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/capability-delegation",
   "description": "An API to allow developers transfer the ability to use restricted APIs to any target window in the frame tree.",
   "isArchived": false,
   "isPrivate": false,
@@ -363,6 +380,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/client-hints-infrastructure",
   "homepageUrl": "https://wicg.github.io/client-hints-infrastructure",
   "description": "Specification for the Client Hints infrastructure - privacy preserving proactive content negotiation",
   "isArchived": false,
@@ -385,6 +403,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/color-api",
   "homepageUrl": "https://wicg.github.io/color-api/",
   "description": "A proposal and draft spec for a Color object for the Web Platform, loosely influenced by the Color.js work. Heavily WIP, if you landed here randomly, please move along.",
   "isArchived": false,
@@ -407,6 +426,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/connection-allowlists",
   "homepageUrl": "https://wicg.github.io/connection-allowlists/",
   "isArchived": false,
   "isPrivate": false,
@@ -428,6 +448,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/construct-stylesheets",
   "description": "API for constructing CSS stylesheet objects",
   "isArchived": false,
   "isPrivate": false,
@@ -449,6 +470,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/container-timing",
   "homepageUrl": "https://wicg.github.io/container-timing/",
   "description": "Container Timing",
   "isArchived": false,
@@ -471,6 +493,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/content-index",
   "homepageUrl": "https://wicg.github.io/content-index/spec/",
   "description": "Explainer and spec for the Content Indexing proposal",
   "isArchived": false,
@@ -493,6 +516,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/controlled-frame",
   "description": "Controlled Frame API, available only to IWAs",
   "isArchived": false,
   "isPrivate": false,
@@ -514,6 +538,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/controls-list",
   "description": "Customise browser native media controls buttons.",
   "isArchived": false,
   "isPrivate": false,
@@ -535,6 +560,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/cpu-performance",
   "homepageUrl": "https://wicg.github.io/cpu-performance/",
   "description": "An API that exposes some information about how powerful the user device is.",
   "isArchived": false,
@@ -557,6 +583,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/crash-reporting",
   "homepageUrl": "https://wicg.github.io/crash-reporting/",
   "description": "Crash reporting (from Web Perf WG)",
   "isArchived": false,
@@ -579,6 +606,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/cross-origin-storage",
   "homepageUrl": "https://wicg.github.io/cross-origin-storage/",
   "description": "Explainer for the Cross-Origin Storage (COS) API",
   "isArchived": false,
@@ -601,6 +629,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/csp-next",
   "homepageUrl": "https://wicg.github.io/csp-next/scripting-policy.html",
   "description": "A Modest Content Security Proposal",
   "isArchived": false,
@@ -623,6 +652,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/css-parser-api",
   "description": "This is the repo where the CSS Houdini parser API will be worked on",
   "isArchived": false,
   "isPrivate": false,
@@ -644,6 +674,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/datacue",
   "homepageUrl": "https://wicg.github.io/datacue/",
   "description": "A TextTrackCue based interface for arbitrary timed metadata, synchronized with audio or video media playback",
   "isArchived": false,
@@ -666,6 +697,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/declarative-partial-updates",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -686,6 +718,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/delayed-message-timing",
   "description": "Delayed Message Timing API",
   "isArchived": false,
   "isPrivate": false,
@@ -707,6 +740,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/deprecation-reporting",
   "homepageUrl": "https://wicg.github.io/deprecation-reporting/",
   "description": "Deprecation reporting (from Web Perf WG)",
   "isArchived": false,
@@ -729,6 +763,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/digital-goods",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -749,6 +784,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/direct-sockets",
   "description": "Direct Sockets API for the web platform",
   "isArchived": false,
   "isPrivate": false,
@@ -770,6 +806,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/discourse-archive",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -784,6 +821,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/discourse-wicg-theme",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -804,6 +842,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/document-isolation-policy",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -824,6 +863,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/document-picture-in-picture",
   "homepageUrl": "https://wicg.github.io/document-picture-in-picture/",
   "isArchived": false,
   "isPrivate": false,
@@ -845,6 +885,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/document-policy",
   "homepageUrl": "https://wicg.github.io/document-policy/",
   "isArchived": false,
   "isPrivate": false,
@@ -866,6 +907,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/email-verification-protocol",
   "description": "verified autofill ",
   "isArchived": false,
   "isPrivate": false,
@@ -887,6 +929,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/entries-api",
   "homepageUrl": "https://wicg.github.io/entries-api/",
   "description": "Spec defining browser support for file/directory upload by drag-and-drop",
   "isArchived": false,
@@ -910,6 +953,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/explicit-javascript-compile-hints-file-based",
   "description": "This proposal introduces a new magic comment that signals to browsers that the functions in a JavaScript file are likely to be needed by the website. Spec draft: https://wicg.github.io/explicit-javascript-compile-hints-file-based/",
   "isArchived": false,
   "isPrivate": false,
@@ -931,6 +975,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/eyedropper-api",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -951,6 +996,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/fenced-frame",
   "homepageUrl": "https://wicg.github.io/fenced-frame/",
   "description": "Proposal for a strong boundary between a page and its embedded content",
   "isArchived": false,
@@ -973,6 +1019,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/file-handling",
   "description": "API for web applications to handle files",
   "isArchived": false,
   "isPrivate": false,
@@ -994,6 +1041,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/file-system-access",
   "homepageUrl": "https://wicg.github.io/file-system-access/",
   "description": "Expose the file system on the user’s device, so Web apps can interoperate with the user’s native applications.",
   "isArchived": false,
@@ -1016,6 +1064,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/focus-visible",
   "homepageUrl": "https://wicg.github.io/focus-visible/demo/",
   "description": "Polyfill for `:focus-visible`",
   "isArchived": false,
@@ -1039,6 +1088,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/get-installed-related-apps",
   "homepageUrl": "http://wicg.github.io/get-installed-related-apps/spec/",
   "description": "proposal to add an API to the web for determining if related apps are installed",
   "isArchived": false,
@@ -1062,6 +1112,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/handwriting-recognition",
   "homepageUrl": "https://wicg.github.io/handwriting-recognition/",
   "description": "Handwriting Recognition Web API Proposal",
   "isArchived": false,
@@ -1084,6 +1135,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/html-in-canvas",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1104,6 +1156,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/idle-detection",
   "description": "A proposal for an idle detection and notification API for the web",
   "isArchived": false,
   "isPrivate": false,
@@ -1125,6 +1178,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/idrefs",
   "description": "Fixing HTML element references (IDREFS) on the Web",
   "isArchived": false,
   "isPrivate": false,
@@ -1146,6 +1200,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/iframe-media-pausing",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1166,6 +1221,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/inert",
   "description": "Polyfill for the inert attribute and property.",
   "isArchived": false,
   "isPrivate": false,
@@ -1187,6 +1243,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/ink-enhancement",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1207,6 +1264,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/input-device-capabilities",
   "description": "InputDevice API proposal",
   "isArchived": false,
   "isPrivate": false,
@@ -1229,6 +1287,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/install-element",
   "description": "An `<install>` element might be nice.",
   "isArchived": false,
   "isPrivate": false,
@@ -1250,6 +1309,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/intervention-reporting",
   "homepageUrl": "https://wicg.github.io/intervention-reporting/",
   "description": "Intervention reporting (from Web Perf WG)",
   "isArchived": false,
@@ -1272,6 +1332,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/is-input-pending",
   "homepageUrl": "https://wicg.github.io/is-input-pending/",
   "isArchived": false,
   "isPrivate": false,
@@ -1293,6 +1354,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/isolated-web-apps",
   "description": "Repository for explainers and other documents related to the Isolated Web Apps proposal.",
   "isArchived": false,
   "isPrivate": false,
@@ -1314,6 +1376,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/js-self-profiling",
   "description": "Proposal for a programmable JS profiling API for collecting JS profiles from real end-user environments",
   "isArchived": false,
   "isPrivate": false,
@@ -1335,6 +1398,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/keyboard-lock",
   "homepageUrl": "https://wicg.github.io/keyboard-lock/",
   "description": "Keyboard Lock",
   "isArchived": false,
@@ -1357,6 +1421,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/keyboard-map",
   "homepageUrl": "https://wicg.github.io/keyboard-map/",
   "description": "API to get current keyboard mapping.",
   "isArchived": false,
@@ -1379,6 +1444,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/layout-instability",
   "homepageUrl": "https://wicg.github.io/layout-instability/",
   "description": "A proposal for a Layout Instability specification",
   "isArchived": false,
@@ -1401,6 +1467,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/local-font-access",
   "homepageUrl": "https://wicg.github.io/local-font-access",
   "description": "Web API for enumerating fonts on the local system",
   "isArchived": false,
@@ -1423,6 +1490,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/local-network-access",
   "homepageUrl": "https://wicg.github.io/local-network-access/",
   "description": "A proposal to restrict sites from accessing a users' local network without permission",
   "isArchived": false,
@@ -1445,6 +1513,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/local-peer-to-peer",
   "homepageUrl": "https://wicg.github.io/local-peer-to-peer/",
   "description": "↔️ Proposal for local communication between browsers without the aid of a server.",
   "isArchived": false,
@@ -1467,6 +1536,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/manifest-incubations",
   "homepageUrl": "https://wicg.github.io/manifest-incubations/",
   "description": "Before install prompt API for installing web applications ",
   "isArchived": false,
@@ -1489,6 +1559,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/media-feeds",
   "homepageUrl": "https://wicg.github.io/media-feeds/",
   "description": "Media Feeds",
   "isArchived": false,
@@ -1511,6 +1582,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/media-latency-hint",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1531,6 +1603,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/nav-speculation",
   "homepageUrl": "https://wicg.github.io/nav-speculation/",
   "description": "Proposal to enable privacy-enhanced preloading",
   "isArchived": false,
@@ -1553,6 +1626,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/navigation-api",
   "homepageUrl": "https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigation-api",
   "description": "The new navigation API provides a new interface for navigations and session history, with a focus on single-page application navigations.",
   "isArchived": false,
@@ -1575,6 +1649,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/netinfo",
   "homepageUrl": "https://wicg.github.io/netinfo/",
   "isArchived": false,
   "isPrivate": false,
@@ -1597,6 +1672,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/observable",
   "homepageUrl": "https://wicg.github.io/observable/",
   "description": "Observable API proposal",
   "isArchived": false,
@@ -1619,6 +1695,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/origin-policy",
   "description": "[On hold for now] A mechanism for origins to set their origin-wide configuration in a central location",
   "isArchived": false,
   "isPrivate": false,
@@ -1641,6 +1718,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/overscroll-scrollend-events",
   "description": "Description of overscroll and scrollend events",
   "isArchived": false,
   "isPrivate": false,
@@ -1663,6 +1741,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/page-lifecycle",
   "homepageUrl": "https://wicg.github.io/page-lifecycle/",
   "description": "Lifecycle API to support system initiated discarding and freezing",
   "isArchived": false,
@@ -1685,6 +1764,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/paymentlink",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1705,6 +1785,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/pending-beacon",
   "homepageUrl": "https://whatpr.org/fetch/1647.html#dom-global-fetch-later",
   "description": "A better beaconing API",
   "isArchived": false,
@@ -1727,6 +1808,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/performance-measure-memory",
   "description": "performance.measureMemory API",
   "isArchived": false,
   "isPrivate": false,
@@ -1748,6 +1830,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/periodic-background-sync",
   "homepageUrl": "https://wicg.github.io/periodic-background-sync/",
   "description": "API proposal for periodic background synchronization of data and content.",
   "isArchived": false,
@@ -1770,6 +1853,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/permissions-request",
   "homepageUrl": "https://wicg.github.io/permissions-request/",
   "description": "Incubation for permissions.request()",
   "isArchived": false,
@@ -1792,6 +1876,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/permissions-revoke",
   "homepageUrl": "https://wicg.github.io/permissions-revoke/",
   "description": "Incubation for permissions.revoke()",
   "isArchived": false,
@@ -1814,6 +1899,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/pointer-event-extensions",
   "description": "Extensions to PointerEvents",
   "isArchived": false,
   "isPrivate": false,
@@ -1835,6 +1921,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/portals",
   "homepageUrl": "https://wicg.github.io/portals/",
   "description": "A proposal for enabling seamless navigations between sites or pages",
   "isArchived": false,
@@ -1857,6 +1944,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/prefer-current-tab",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1877,6 +1965,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/privacy-preserving-ads",
   "description": "Privacy-Preserving Ads",
   "isArchived": false,
   "isPrivate": false,
@@ -1898,6 +1987,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/private-network-access",
   "homepageUrl": "https://wicg.github.io/private-network-access/",
   "isArchived": false,
   "isPrivate": false,
@@ -1920,6 +2010,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/proposals",
   "homepageUrl": "https://wicg.io/",
   "description": "A home for well-formed proposed incubations for the web platform. All proposals welcome.",
   "isArchived": false,
@@ -1942,6 +2033,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/protected-auction-services-discussion",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1962,6 +2054,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/pwa-url-handler",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -1982,6 +2075,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/reducing-memory-copies",
   "description": "Reducing memory copies in web-platform APIs",
   "isArchived": false,
   "isPrivate": false,
@@ -1997,6 +2091,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/responsive-image-client-hints",
   "homepageUrl": "https://wicg.github.io/responsive-image-client-hints",
   "description": "A spec for a suite of client hints, useful for content negotiation for responsive images",
   "isArchived": false,
@@ -2019,6 +2114,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/sanitizer-api",
   "homepageUrl": "https://wicg.github.io/sanitizer-api/",
   "isArchived": false,
   "isPrivate": false,
@@ -2040,6 +2136,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/savedata",
   "homepageUrl": "https://wicg.github.io/savedata/",
   "description": "A browser API to make developers aware of user preferences with regards to data savings",
   "isArchived": false,
@@ -2062,6 +2159,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/scheduling-apis",
   "homepageUrl": "https://wicg.github.io/scheduling-apis/",
   "description": "APIs for scheduling and controlling prioritized tasks.",
   "isArchived": false,
@@ -2084,6 +2182,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/screen-brightness",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2104,6 +2203,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/scroll-to-text-fragment",
   "description": "Proposal to allow specifying a text snippet in a URL fragment",
   "isArchived": false,
   "isPrivate": false,
@@ -2125,6 +2225,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/serial",
   "homepageUrl": "https://wicg.github.io/serial/",
   "description": "Serial ports API for the platform. ",
   "isArchived": false,
@@ -2148,6 +2249,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/service-worker-auto-preload",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2168,6 +2270,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/service-worker-static-routing-api",
   "description": "A repository for the ServiceWorker static routing API.",
   "isArchived": false,
   "isPrivate": false,
@@ -2189,6 +2292,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/shape-detection-api",
   "homepageUrl": "https://wicg.github.io/shape-detection-api",
   "description": "Detection of shapes (faces, QR codes) in images",
   "isArchived": false,
@@ -2211,6 +2315,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/signature-based-sri",
   "homepageUrl": "https://wicg.github.io/signature-based-sri/",
   "description": "Signature-based Resource Loading Restrictions",
   "isArchived": false,
@@ -2233,6 +2338,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/sms-one-time-codes",
   "homepageUrl": "https://wicg.github.io/sms-one-time-codes/",
   "description": "A way to format SMS messages for use with browser autofill features such as HTML’s autocomplete=one-time-code.",
   "isArchived": false,
@@ -2257,6 +2363,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/soft-navigations",
   "homepageUrl": "https://wicg.github.io/soft-navigations/",
   "description": "Heuristics to detect Single Page Apps soft navigations",
   "isArchived": false,
@@ -2279,6 +2386,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/sparrow",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2299,6 +2407,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/spatial-navigation",
   "homepageUrl": "https://drafts.csswg.org/css-nav-1/",
   "description": "Directional focus navigation with arrow keys",
   "isArchived": false,
@@ -2318,6 +2427,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/speculative_load_measurement",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2338,6 +2448,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/starter-kit",
   "description": "A simple starter kit for incubations",
   "isArchived": false,
   "isPrivate": false,
@@ -2359,6 +2470,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/storage-buckets",
   "homepageUrl": "https://wicg.github.io/storage-buckets/explainer",
   "description": "API proposal for managing multiple storage buckets",
   "isArchived": false,
@@ -2381,6 +2493,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/storage-foundation-api-explainer",
   "description": "Explainer showcasing a new web storage API, NativeIO",
   "isArchived": false,
   "isPrivate": false,
@@ -2402,6 +2515,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/trust-token-api",
   "homepageUrl": "https://wicg.github.io/trust-token-api/",
   "description": "Trust Token API",
   "isArchived": false,
@@ -2424,6 +2538,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/ua-client-hints",
   "homepageUrl": "https://wicg.github.io/ua-client-hints/",
   "description": "Wouldn't it be nice if `User-Agent` was a (set of) client hints?",
   "isArchived": false,
@@ -2446,6 +2561,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/user-preference-media-features-headers",
   "homepageUrl": "https://wicg.github.io/user-preference-media-features-headers/",
   "isArchived": false,
   "isPrivate": false,
@@ -2467,6 +2583,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/video-rvfc",
   "homepageUrl": "https://wicg.github.io/video-rvfc/",
   "description": "video.requestVideoFrameCallback() incubation",
   "isArchived": false,
@@ -2489,6 +2606,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/view-transitions",
   "homepageUrl": "https://drafts.csswg.org/css-view-transitions-1/",
   "isArchived": false,
   "isPrivate": false,
@@ -2510,6 +2628,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/web-app-launch",
   "description": "Web App Launch Handler",
   "isArchived": false,
   "isPrivate": false,
@@ -2531,6 +2650,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/web-otp",
   "homepageUrl": "https://wicg.github.io/web-otp/",
   "description": "phone number verification",
   "isArchived": false,
@@ -2553,6 +2673,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/web-printing",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -2573,6 +2694,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/web-smart-card",
   "description": "Repository for the Web Smart Card Explainer",
   "isArchived": false,
   "isPrivate": false,
@@ -2594,6 +2716,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/webcomponents",
   "description": "Web Components specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -2615,6 +2738,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/webcrypto-modern-algos",
   "homepageUrl": "https://wicg.github.io/webcrypto-modern-algos/",
   "description": "Proposal for the addition of various modern algorithms to the Web Cryptography API, as well as feature detection for algorithm support",
   "isArchived": false,
@@ -2637,6 +2761,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/webhid",
   "description": "Web API for accessing Human Interface Devices (HID)",
   "isArchived": false,
   "isPrivate": false,
@@ -2658,6 +2783,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/webmonetization",
   "homepageUrl": "https://webmonetization.org",
   "description": "Proposed Web Monetization standard",
   "isArchived": false,
@@ -2680,6 +2806,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/webpackage",
   "description": "Web packaging format",
   "isArchived": false,
   "isPrivate": false,
@@ -2701,6 +2828,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/webusb",
   "homepageUrl": "https://wicg.github.io/webusb/",
   "description": "Connecting hardware to the web.",
   "isArchived": false,
@@ -2724,6 +2852,7 @@
   "owner": {
    "login": "WICG"
   },
+  "url": "https://github.com/WICG/window-controls-overlay",
   "homepageUrl": "https://wicg.github.io/window-controls-overlay/",
   "isArchived": false,
   "isPrivate": false,
@@ -2745,6 +2874,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/web-share-target",
   "homepageUrl": "https://w3c.github.io/web-share-target/",
   "description": "Web API proposal for receiving shared data",
   "isArchived": false,
