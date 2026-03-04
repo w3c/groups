@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/IFT",
   "homepageUrl": "https://w3c.github.io/IFT/Overview.html",
   "description": "W3C Incremental Font Transfer",
   "isArchived": false,
@@ -26,6 +27,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/PFE-analysis",
   "description": "Code repository for tools for the the testing and analysis of potential Progressive Font Enrichment (PFE) solutions.",
   "isArchived": false,
   "isPrivate": false,
@@ -47,6 +49,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ift-client-tests",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -67,6 +70,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ift-encoder",
   "description": "A web fonts IFT encoder implementation",
   "isArchived": false,
   "isPrivate": false,
@@ -88,6 +92,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ift-encoder-data",
   "description": "Unicode codepoint frequency data, for use by Incremental Font Transfer (IFT) encoders",
   "isArchived": false,
   "isPrivate": false,
@@ -109,6 +114,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ift-server-tests",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -129,6 +135,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/woff",
   "homepageUrl": "https://w3c.github.io/woff/woff2/",
   "description": "WOFF File Format specifications",
   "isArchived": false,
@@ -151,6 +158,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/woff2-compiled-tests",
   "description": "Compiled, generated version of woff2-tests for standalone use without dependencies to make them",
   "isArchived": false,
   "isPrivate": false,
@@ -173,6 +181,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/woff2-tests",
   "description": "Test suite for WOFF 2.0",
   "isArchived": false,
   "isPrivate": false,
