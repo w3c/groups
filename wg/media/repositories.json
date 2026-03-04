@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/audio-session",
   "homepageUrl": "https://w3c.github.io/audio-session/",
   "isArchived": false,
   "isPrivate": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/autoplay",
   "homepageUrl": "https://w3c.github.io/autoplay/",
   "description": "Autoplay Policy Detection",
   "isArchived": false,
@@ -51,6 +53,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/charter-media-wg",
   "homepageUrl": "https://w3c.github.io/charter-media-wg/",
   "description": "Draft charter for a possible Media Working Group",
   "isArchived": false,
@@ -73,6 +76,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/encrypted-media",
   "homepageUrl": "https://w3c.github.io/encrypted-media/",
   "description": "Encrypted Media Extensions",
   "isArchived": false,
@@ -97,6 +101,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-capabilities",
   "homepageUrl": "https://w3c.github.io/media-capabilities/",
   "description": "Media Capabilities API",
   "isArchived": false,
@@ -121,6 +126,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-pipeline-arch",
   "description": "Architecture of the media pipeline on the web",
   "isArchived": false,
   "isPrivate": false,
@@ -144,6 +150,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-playback-quality",
   "homepageUrl": "https://w3c.github.io/media-playback-quality/",
   "description": "Media Playback Quality",
   "isArchived": false,
@@ -168,6 +175,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-source",
   "homepageUrl": "https://w3c.github.io/media-source/",
   "description": "Media Source Extensions",
   "isArchived": false,
@@ -192,6 +200,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-wg",
   "description": "Media Working Group",
   "isArchived": false,
   "isPrivate": false,
@@ -215,6 +224,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mediasession",
   "homepageUrl": "https://w3c.github.io/mediasession/",
   "description": "Media Session API",
   "isArchived": false,
@@ -239,6 +249,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mse-byte-stream-format-isobmff",
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-isobmff/",
   "description": "ISO BMFF Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
@@ -263,6 +274,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mse-byte-stream-format-mp2t",
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-mp2t/",
   "description": "MPEG-2 TS Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
@@ -287,6 +299,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mse-byte-stream-format-mpeg-audio",
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/",
   "description": "MPEG Audio Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
@@ -311,6 +324,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mse-byte-stream-format-registry",
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-registry/",
   "description": "Media Source Extensions Byte Stream Format Registry",
   "isArchived": false,
@@ -335,6 +349,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mse-byte-stream-format-webm",
   "homepageUrl": "https://w3c.github.io/mse-byte-stream-format-webm/",
   "description": "WebM Byte Stream Format for Media Source Extensions (MSE)",
   "isArchived": false,
@@ -359,6 +374,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/picture-in-picture",
   "homepageUrl": "https://w3c.github.io/picture-in-picture",
   "description": "Picture-in-Picture (PiP) ",
   "isArchived": false,
@@ -383,6 +399,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webcodecs",
   "homepageUrl": "https://w3c.github.io/webcodecs/",
   "description": "WebCodecs is a flexible web API for encoding and decoding audio and video.",
   "isArchived": false,
