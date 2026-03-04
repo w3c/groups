@@ -4,6 +4,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-implementor",
   "homepageUrl": "https://act-implementor.netlify.app/",
   "description": "Implementation tracker for ACT rules",
   "isArchived": false,
@@ -20,6 +21,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-practice-repo",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -34,6 +36,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules-implementation-access-engine",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -48,6 +51,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules-implementation-qualweb",
   "description": "Implementation report for ACT Rules test cases validated by QualWeb",
   "isArchived": false,
   "isPrivate": false,
@@ -63,6 +67,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules-implementation-rgaa",
   "description": "Implementation report for ACT Rules test cases validated by RGAA",
   "isArchived": false,
   "isPrivate": false,
@@ -78,6 +83,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules-implementation-sortsite",
   "description": "Implementation report for ACT Rules test cases validated by Powermapper",
   "isArchived": false,
   "isPrivate": false,
@@ -93,6 +99,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules-implementation-trusted-tester",
   "description": "Implementation report for ACT Rules test cases validated by Access Board",
   "isArchived": false,
   "isPrivate": false,
@@ -108,6 +115,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules-web",
   "homepageUrl": "https://act-rules.github.io/",
   "description": "Source for ACT Rules website",
   "isArchived": false,
@@ -124,6 +132,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-rules.github.io",
   "homepageUrl": "https://act-rules.github.io/",
   "description": "Accessibility conformance testing rules for HTML",
   "isArchived": false,
@@ -140,6 +149,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-shared-reports",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -154,6 +164,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/act-tools",
   "description": "Tools for use in ACT",
   "isArchived": false,
   "isPrivate": false,
@@ -169,6 +180,7 @@
   "owner": {
    "login": "act-rules"
   },
+  "url": "https://github.com/act-rules/testrunner",
   "description": "Runner for Auto-WCAG test cases",
   "isArchived": false,
   "isPrivate": false,
