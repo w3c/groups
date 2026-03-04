@@ -8613,6 +8613,21 @@
   }
  },
  {
+  "name": "r2rml-ontology",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "maintenance of the R2RML ontology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "r2rml-test-cases-support",
   "owner": {
    "login": "kg-construct"
@@ -18508,28 +18523,6 @@
     "rec-track"
    ],
    "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "name": "graphql-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "homepageUrl": "https://www.w3.org/community/graphql-rdf/",
-  "description": "Bridging GraphQL and RDF Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/graphql-rdf"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
    "exposed": true
   }
  },
@@ -29408,7 +29401,7 @@
   "owner": {
    "login": "w3ctag"
   },
-  "homepageUrl": " http://w3ctag.github.io/webarch/",
+  "homepageUrl": "https://w3ctag.github.io/webarch/",
   "description": "The Architecture of the World Wide Web (Second edition)",
   "isArchived": false,
   "isPrivate": false,
