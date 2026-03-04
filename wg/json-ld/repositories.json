@@ -4,6 +4,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/json-ld-star",
   "homepageUrl": "https://json-ld.github.io/json-ld-star",
   "description": "CG Note on JSON-LD*",
   "isArchived": false,
@@ -28,6 +29,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/minutes",
   "homepageUrl": "https://json-ld.org/minutes/",
   "description": "Teleconference minutes - text and audio logs",
   "isArchived": false,
@@ -51,6 +53,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/cbor-ld",
   "homepageUrl": "https://w3c.github.io/cbor-ld/",
   "description": "A CBOR-encoding for Linked Data.",
   "isArchived": false,
@@ -74,6 +77,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-api",
   "homepageUrl": "https://w3c.github.io/json-ld-api/",
   "description": "JSON-LD 1.1 Processing Algorithms and API Specification",
   "isArchived": false,
@@ -96,6 +100,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-bp",
   "homepageUrl": "https://w3c.github.io/json-ld-bp/",
   "description": "JSON-LD 1.1 Best Practices Note",
   "isArchived": false,
@@ -119,6 +124,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-cbor",
   "homepageUrl": "https://w3c.github.io/json-ld-cbor/",
   "description": "JSON-LD 1.1 in CBOR Note",
   "isArchived": false,
@@ -141,6 +147,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-framing",
   "homepageUrl": "https://w3c.github.io/json-ld-framing/",
   "description": "JSON-LD 1.1 Framing Specification",
   "isArchived": false,
@@ -163,6 +170,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-rc",
   "homepageUrl": "https://w3c.github.io/json-ld-rc/context.jsonld",
   "description": "JSON-LD Recommended Context",
   "isArchived": false,
@@ -185,6 +193,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-streaming",
   "homepageUrl": "https://w3c.github.io/json-ld-streaming/",
   "description": "JSON-LD 1.1 Streaming Note",
   "isArchived": false,
@@ -208,6 +217,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-syntax",
   "homepageUrl": "https://w3c.github.io/json-ld-syntax/",
   "description": "JSON-LD 1.1 Specification",
   "isArchived": false,
@@ -231,6 +241,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/json-ld-wg",
   "homepageUrl": "https://www.w3.org/2018/json-ld-wg/",
   "description": "Documentation for the JSON-LD Working Group",
   "isArchived": false,
@@ -253,6 +264,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/yaml-ld",
   "homepageUrl": "https://w3c.github.io/yaml-ld/",
   "description": "CG specification for YAML-LD and UCR",
   "isArchived": false,
