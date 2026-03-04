@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/AB-memberonly",
   "homepageUrl": "https://www.w3.org/2002/ab/",
   "description": "W3C Advisory Board's Member-visible issues repository",
   "isArchived": false,
@@ -26,6 +27,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/AB-private",
   "homepageUrl": "https://www.w3.org/2002/ab/",
   "description": "W3C Advisory Board's private repository",
   "isArchived": false,
@@ -48,6 +50,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/AB-public",
   "homepageUrl": "https://w3c.github.io/AB-public/",
   "description": "Advisory Board repository for materials not meant to be restricted to W3C Members",
   "isArchived": false,
@@ -74,6 +77,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/PWETF",
   "homepageUrl": "https://www.w3.org/community/pwe/",
   "description": "Positive Work Environment Community Group",
   "isArchived": false,
@@ -98,6 +102,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/process",
   "homepageUrl": "https://www.w3.org/policies/process/drafts/",
   "description": "W3C Process Document",
   "isArchived": false,
@@ -124,6 +129,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/standards-track",
   "homepageUrl": "https://www.w3.org/Guide/standards-track/",
   "description": "Best Practices for Bringing Work to the W3C Recommendation Track",
   "isArchived": false,
