@@ -4,6 +4,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/OpenActive.DatasetSite.NET",
   "description": ".NET helper functions to create an OpenActive Dataset Site",
   "isArchived": false,
   "isPrivate": false,
@@ -19,6 +20,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/OpenActive.NET",
   "description": "Strongly Typed C# Models for OpenActive",
   "isArchived": false,
   "isPrivate": false,
@@ -34,6 +36,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/OpenActive.Server.NET",
   "description": ".NET server library, including an OpenActive Reference Implementation",
   "isArchived": false,
   "isPrivate": false,
@@ -49,6 +52,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/Schema.NET",
   "description": "Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.",
   "isArchived": false,
   "isPrivate": false,
@@ -64,6 +68,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/accessibility-support",
   "description": "Accessibility Support controlled vocabularies data and documentation",
   "isArchived": false,
   "isPrivate": false,
@@ -79,6 +84,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/activity-list",
   "description": "This repository holds the data for OpenActive's standardised list of physical activities.",
   "isArchived": false,
   "isPrivate": false,
@@ -94,6 +100,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/azure-rpde-proxy",
   "description": "RPDE Proxy for Azure",
   "isArchived": false,
   "isPrivate": false,
@@ -109,6 +116,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/brand-assets",
   "description": "OpenActive Brand Assets",
   "isArchived": false,
   "isPrivate": false,
@@ -124,6 +132,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/cloudflare-page-rules",
   "description": "Documentation for Cloudflare Page Rules within openactive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -139,6 +148,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/cloudflare-reverse-proxy",
   "description": "Cloudflare reverse proxy scripts for OpenActive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -154,6 +164,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/collection-editor",
   "description": "Activity List ConceptCollection editor",
   "isArchived": false,
   "isPrivate": false,
@@ -169,6 +180,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/community-resources",
   "description": "Engagement resources for the OpenActive community",
   "isArchived": false,
   "isPrivate": false,
@@ -184,6 +196,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/concept-scheme-restriction-generator",
   "description": "Generator to render complete ConceptSchemes from ConceptSchemeRestriction",
   "isArchived": false,
   "isPrivate": false,
@@ -199,6 +212,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/conformance-certification",
   "description": "Vocabulary supporting OpenActive Conformance Certification",
   "isArchived": false,
   "isPrivate": false,
@@ -214,6 +228,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/contributor-documentation",
   "description": "Documentation for contributors to OpenActive's open source infrastructure",
   "isArchived": false,
   "isPrivate": false,
@@ -229,6 +244,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/customer-accounts-api",
   "description": "Repository for discussions broadly related to Customer Accounts",
   "isArchived": false,
   "isPrivate": false,
@@ -244,6 +260,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/data-catalog-compare-action",
   "description": "GitHub Action to compare data catalog files",
   "isArchived": false,
   "isPrivate": false,
@@ -259,6 +276,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/data-catalogs",
   "description": "OpenActive Data Catalogs and Data Catalog Collections",
   "isArchived": false,
   "isPrivate": false,
@@ -274,6 +292,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/data-model-validator",
   "description": "The OpenActive data model validator library",
   "isArchived": false,
   "isPrivate": false,
@@ -289,6 +308,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/data-model-validator-site",
   "description": "User interface for the OpenActive data model validator",
   "isArchived": false,
   "isPrivate": false,
@@ -304,6 +324,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/data-models",
   "homepageUrl": "http://openactive.io/data-models/",
   "description": "Data models used to drive OpenActive validator and developer documentation",
   "isArchived": false,
@@ -320,6 +341,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/dataset-api-discovery",
   "description": "OpenActive Dataset API Discovery Specification",
   "isArchived": false,
   "isPrivate": false,
@@ -335,6 +357,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/dataset-site-template",
   "description": "Templates for creating a dataset site",
   "isArchived": false,
   "isPrivate": false,
@@ -350,6 +373,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/dataset-site-template-example-dotnet",
   "description": "Dataset Site Template rendering example in C#",
   "isArchived": false,
   "isPrivate": false,
@@ -365,6 +389,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/dataset-site-template-php",
   "description": "PHP Classes and resources supporting dataset site creation",
   "isArchived": false,
   "isPrivate": false,
@@ -380,6 +405,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/dataset-site-template-ruby",
   "description": "Ruby classes and resources supporting dataset site creation",
   "isArchived": false,
   "isPrivate": false,
@@ -395,6 +421,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/dataset-utils",
   "description": "Utilities for fetching, parsing and crawling OpenActive data catalogs and dataset sites",
   "isArchived": false,
   "isPrivate": false,
@@ -410,6 +437,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/delivering-openactive",
   "description": "Short URL for OpenActive Contract Requirements document",
   "isArchived": false,
   "isPrivate": false,
@@ -425,6 +453,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/developer-documentation",
   "homepageUrl": "https://developer.openactive.io/",
   "description": "Developer documentation synced with GitBook and the Data Models",
   "isArchived": false,
@@ -441,6 +470,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/developer-documentation-draft",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -455,6 +485,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/extension-documentation-generator",
   "description": "Generate documentation for OpenActive extensions",
   "isArchived": false,
   "isPrivate": false,
@@ -470,6 +501,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/facility-attribute-list",
   "description": "Facility Attribute List controlled vocabularies data and documentation",
   "isArchived": false,
   "isPrivate": false,
@@ -485,6 +517,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/facility-types",
   "description": "Facility Types controlled vocabularies data and documentation",
   "isArchived": false,
   "isPrivate": false,
@@ -500,6 +533,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/github-actions-workflows",
   "description": "A repository that contains reusable GitHub Actions Workflows that are referenced throughout the OpenActive GitHub organisation",
   "isArchived": false,
   "isPrivate": false,
@@ -515,6 +549,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/gulp-respec",
   "description": "Gulp tasks to render ReSpec files",
   "isArchived": false,
   "isPrivate": false,
@@ -530,6 +565,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/harvesting-utils",
   "description": "Utils library for harvesting RPDE feeds",
   "isArchived": false,
   "isPrivate": false,
@@ -545,6 +581,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/implementation-tracker",
   "description": "Activation Issue Tracker for OpenActive Implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -560,6 +597,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/infrastructure-guide",
   "description": "A guide to the OpenActive open infrastructure",
   "isArchived": false,
   "isPrivate": false,
@@ -575,6 +613,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/infrastructure-monitor",
   "description": "OpenActive Infrastructure Build and Dependency Monitor",
   "isArchived": false,
   "isPrivate": false,
@@ -590,6 +629,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/learn",
   "homepageUrl": "https://openactive.io/learn/",
   "description": "OpenActive E-learning",
   "isArchived": false,
@@ -606,6 +646,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/les-mills-programme-page-example",
   "description": "LES MILLS Programme Page Example",
   "isArchived": false,
   "isPrivate": false,
@@ -621,6 +662,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/maintainer-documentation",
   "description": "Documentation for maintainers of OpenActive's open source infrastructure",
   "isArchived": false,
   "isPrivate": false,
@@ -636,6 +678,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/modelling-opportunity-data",
   "homepageUrl": "https://www.openactive.io/modelling-opportunity-data/",
   "description": "OpenActive Modelling Opportunity Data specification",
   "isArchived": false,
@@ -652,6 +695,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/models-lib",
   "description": "Supporting code and tooling for OpenActive models, common across all languages",
   "isArchived": false,
   "isPrivate": false,
@@ -667,6 +711,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/models-php",
   "description": "PHP Models for the OpenActive Opportunity and Booking Specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -682,6 +727,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/models-php-test",
   "description": "A simple PHP app for testing the OA PHP libraries",
   "isArchived": false,
   "isPrivate": false,
@@ -697,6 +743,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/models-ruby",
   "description": "Ruby Models for the OpenActive Opportunity and Booking Specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -712,6 +759,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/models-ruby-test",
   "description": "A simple Sinatra app for testing the OA Ruby libraries ",
   "isArchived": false,
   "isPrivate": false,
@@ -727,6 +775,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/models-ts",
   "description": "TypeScript implementation of OpenActive's data model",
   "isArchived": false,
   "isPrivate": false,
@@ -742,6 +791,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/ns-beta",
   "description": "Beta namespace for OpenActive Vocabulary defined in the Modelling Opportunity Data Specification",
   "isArchived": false,
   "isPrivate": false,
@@ -757,6 +807,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/ns-extension",
   "description": "Repository for the Opportunity Model Extensions vocabulary",
   "isArchived": false,
   "isPrivate": false,
@@ -772,6 +823,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/open-booking-api",
   "description": "Repository for the Open Booking API specification",
   "isArchived": false,
   "isPrivate": false,
@@ -787,6 +839,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/open-booking-sdk-documentation",
   "description": "Documentation for the Open Booking SDK",
   "isArchived": false,
   "isPrivate": false,
@@ -802,6 +855,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/openactive-python",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -816,6 +870,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/openactive-test-suite",
   "description": "Test suite for OpenActive implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -831,6 +886,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/openactive.github.io",
   "description": "OpenActive Vocabulary defined in the Modelling Opportunity Data Specification",
   "isArchived": false,
   "isPrivate": false,
@@ -846,6 +902,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/openactive.rb",
   "description": "Ruby library for working with OpenActive data",
   "isArchived": false,
   "isPrivate": false,
@@ -861,6 +918,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/permalink.openactive.io",
   "description": "OpenActive permalinks registry",
   "isArchived": false,
   "isPrivate": false,
@@ -876,6 +934,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/place-types",
   "description": "Place Types controlled vocabularies data and documentation",
   "isArchived": false,
   "isPrivate": false,
@@ -891,6 +950,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/programme-catalog",
   "description": "A list of known sources of programme data",
   "isArchived": false,
   "isPrivate": false,
@@ -906,6 +966,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/public-chat",
   "description": "Information about joining the OpenActive Community open chat",
   "isArchived": false,
   "isPrivate": false,
@@ -921,6 +982,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/realtime-paged-data-exchange",
   "homepageUrl": "https://www.openactive.io/realtime-paged-data-exchange/",
   "description": "OpenActive Realtime Paged Data Exchange Specification",
   "isArchived": false,
@@ -937,6 +999,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/respec",
   "description": "Specification Edition Support Tool",
   "isArchived": false,
   "isPrivate": false,
@@ -952,6 +1015,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/route-guide",
   "homepageUrl": "https://openactive.io/route-guide/EditorsDraft/",
   "description": "Repository for discussion of the Routes and Routes Metadata aspects of the OpenActive Opportunity model.",
   "isArchived": false,
@@ -968,6 +1032,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/rpde-validator",
   "description": "RPDE Validator library, used as a component of validator.openactive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -983,6 +1048,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/rpde-visualiser",
   "homepageUrl": "https://visualiser.openactive.io",
   "description": "A tool to visualise OpenActive data feeds",
   "isArchived": false,
@@ -999,6 +1065,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/schemaorg",
   "homepageUrl": "http://schema.org/",
   "description": "Schema.org - schemas and (appengine) software",
   "isArchived": false,
@@ -1015,6 +1082,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/skos-compare-action",
   "description": "GitHub Action to compare SKOS files",
   "isArchived": false,
   "isPrivate": false,
@@ -1030,6 +1098,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/skos-vocabulary-editor",
   "description": "Activity List editor code (modified from iqvoc)",
   "isArchived": false,
   "isPrivate": false,
@@ -1045,6 +1114,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/skos-vocabulary-template",
   "description": "A template for new OpenActive SKOS Vocabulary repositories",
   "isArchived": false,
   "isPrivate": false,
@@ -1060,6 +1130,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/skos-vocabulary-workflows",
   "description": "Publishing workflows for OpenActive SKOS Vocabularies",
   "isArchived": false,
   "isPrivate": false,
@@ -1075,6 +1146,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/skos.js",
   "homepageUrl": "https://www.npmjs.com/package/@openactive/skos",
   "description": " Simple JavaScript library to wrap the OpenActive JSON-LD representation of SKOS.",
   "isArchived": false,
@@ -1091,6 +1163,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/slackin",
   "homepageUrl": "http://rauchg.com/slackin/",
   "description": "Public Slack organizations made easy",
   "isArchived": false,
@@ -1107,6 +1180,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/spec-template",
   "description": "Openactive Spec Template",
   "isArchived": false,
   "isPrivate": false,
@@ -1122,6 +1196,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/status-dashboard",
   "description": "The API dashboard found at https://status.openactive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -1137,6 +1212,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/status-dashboard-conformance-monitor",
   "description": "A conformance monitor that reports on dataset status, for use in the Status Dashboard",
   "isArchived": false,
   "isPrivate": false,
@@ -1152,6 +1228,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/stripe-extension",
   "description": "OpenActive Open Booking API Stripe Extension",
   "isArchived": false,
   "isPrivate": false,
@@ -1167,6 +1244,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/test-interface",
   "description": "OpenActive Open Booking API Test Interface",
   "isArchived": false,
   "isPrivate": false,
@@ -1182,6 +1260,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/w3c-community-group",
   "homepageUrl": "https://w3c.openactive.io",
   "description": "OpenActive W3C Community Group",
   "isArchived": false,
@@ -1198,6 +1277,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/website-content",
   "description": "Content for www.openactive.io",
   "isArchived": false,
   "isPrivate": false,
@@ -1213,6 +1293,7 @@
   "owner": {
    "login": "openactive"
   },
+  "url": "https://github.com/openactive/website-redirection",
   "description": "Configuration for the Wordpress Redirection plugin in www.openactive.io",
   "isArchived": false,
   "isPrivate": false,
