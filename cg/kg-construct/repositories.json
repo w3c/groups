@@ -4,6 +4,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/.github",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -18,6 +19,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/BURP",
   "homepageUrl": "https://zenodo.org/doi/10.5281/zenodo.11037711",
   "description": "A Basic and Unassuming RML Processor",
   "isArchived": false,
@@ -34,6 +36,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/KROWN",
   "homepageUrl": "https://w3id.org/kg-construct/KROWN/",
   "description": "KROWN 👑: A Benchmark for RDF Graph Materialization",
   "isArchived": false,
@@ -50,6 +53,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/awesome-kgc-tools",
   "description": "Links and description of Knowledge Graphs Construction Tools",
   "isArchived": false,
   "isPrivate": false,
@@ -65,6 +69,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/challenge-tool",
   "homepageUrl": "https://kg-construct.github.io/challenge-tool/",
   "description": "KGCW 2023-2024: Challenge Tool",
   "isArchived": false,
@@ -81,6 +86,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/dataio-spec",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -95,6 +101,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/exectool",
   "homepageUrl": "https://kg-construct.github.io/exectool/",
   "description": "EXEC (EXperiment ExeCutor) is a simple tool to execute benchmarks",
   "isArchived": false,
@@ -111,6 +118,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/kg-metadata",
   "description": "Specification of the KG metadata",
   "isArchived": false,
   "isPrivate": false,
@@ -126,6 +134,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/mappers-docker",
   "description": "A collection of dockerized mappers",
   "isArchived": false,
   "isPrivate": false,
@@ -141,6 +150,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/mapping-challenges",
   "description": "Issues for discussion about limitations of current mapping languages",
   "isArchived": false,
   "isPrivate": false,
@@ -156,6 +166,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/r2rml-implementation-report",
   "description": "revive & keep alive R2RML implementation report",
   "isArchived": false,
   "isPrivate": false,
@@ -171,6 +182,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/r2rml-ontology",
   "description": "maintenance of the R2RML ontology",
   "isArchived": false,
   "isPrivate": false,
@@ -186,6 +198,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/r2rml-test-cases-support",
   "description": "Python scripts to generate EARL-based report from R2RML test-cases",
   "isArchived": false,
   "isPrivate": false,
@@ -201,6 +214,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/resources",
   "description": "Resources for KGC: languages/tools/evaluation-systems",
   "isArchived": false,
   "isPrivate": false,
@@ -216,6 +230,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-cc",
   "homepageUrl": "https://w3id.org/rml/cc/spec",
   "description": "RML-CC: Collections and Containers definitions for RML",
   "isArchived": false,
@@ -232,6 +247,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-core",
   "homepageUrl": "https://w3id.org/rml/core/spec",
   "description": "RML-Core: Main features for RDF generation with RML",
   "isArchived": false,
@@ -248,6 +264,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-fnml",
   "homepageUrl": "https://w3id.org/rml/fnml/spec",
   "description": "RML-FNML: Transformation functions within RML",
   "isArchived": false,
@@ -264,6 +281,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-io",
   "homepageUrl": "https://w3id.org/rml/io/spec",
   "description": "RML-IO: Input/Output declarations for RML",
   "isArchived": false,
@@ -280,6 +298,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-io-registry",
   "homepageUrl": "https://kg-construct.github.io/rml-io-registry/",
   "description": "Registry of Notes on source descriptions, reference formulations, etc",
   "isArchived": false,
@@ -296,6 +315,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-lv",
   "homepageUrl": "https://w3id.org/rml/lv/spec",
   "description": "Specification repository for logical views in RML.",
   "isArchived": false,
@@ -312,6 +332,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-questions",
   "description": "The place for your RML questions and examples",
   "isArchived": false,
   "isPrivate": false,
@@ -327,6 +348,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-resources",
   "homepageUrl": "http://w3id.org/rml/portal",
   "description": "RML resources e.g. shapes, ontology, resource files, etc.",
   "isArchived": false,
@@ -343,6 +365,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-star",
   "homepageUrl": "https://w3id.org/rml/star/spec",
   "description": "RML-star: RDF-star generation for RML",
   "isArchived": false,
@@ -359,6 +382,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-test-cases",
   "homepageUrl": "http://rml.io/test-cases/",
   "description": "RML conformance test suite",
   "isArchived": false,
@@ -375,6 +399,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-test-cases-support",
   "description": "Python scripts to generate EARL reports for RML engines",
   "isArchived": false,
   "isPrivate": false,
@@ -390,6 +415,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/rml-wg-charter",
   "homepageUrl": "https://w3id.org/kg-construct/rml-wg-charter",
   "description": "The RML W3C Working Group Charter",
   "isArchived": false,
@@ -406,6 +432,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/survey-website",
   "homepageUrl": "https://w3id.org/kg-construct/survey",
   "description": "Systematic Literature Review website of Declarative RDF graph generation from heterogeneous (semi-)structured data",
   "isArchived": false,
@@ -422,6 +449,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/tpac-web",
   "description": "website code for the kick-off of the group in the TPAC meetings 2020",
   "isArchived": false,
   "isPrivate": false,
@@ -437,6 +465,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/tutorials",
   "description": "Public repository with resources of given tutorials",
   "isArchived": false,
   "isPrivate": false,
@@ -452,6 +481,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/use-cases",
   "description": "Knowledge Graph Construction Use Cases",
   "isArchived": false,
   "isPrivate": false,
@@ -467,6 +497,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/w3id.org",
   "description": "Website source code for w3id.org",
   "isArchived": false,
   "isPrivate": false,
@@ -482,6 +513,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/workshop",
   "homepageUrl": "https://w3id.org/kg-construct/workshop/",
   "description": "Source code for the KG-construct workshop website",
   "isArchived": false,
@@ -498,6 +530,7 @@
   "owner": {
    "login": "kg-construct"
   },
+  "url": "https://github.com/kg-construct/yarrrml",
   "homepageUrl": "https://w3id.org/kg-construct/yarrrml",
   "description": " A human readable text-based representation for declarative Linked Data generation rules. ",
   "isArchived": false,
