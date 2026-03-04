@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/audiobooks",
   "homepageUrl": "https://w3c.github.io/audiobooks/",
   "description": "Audiobook profile of a Web Publication",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/dpub-pwp-ucr",
   "homepageUrl": "https://w3c.github.io/dpub-pwp-ucr/",
   "description": "Use Cases and Requirements for (Packaged) Web Publications",
   "isArchived": false,
@@ -52,6 +54,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/lpf",
   "homepageUrl": "https://w3c.github.io/lpf",
   "description": "W3C Lightweight Packaging Format",
   "isArchived": false,
@@ -75,6 +78,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/pub-manifest",
   "homepageUrl": "https://w3c.github.io/pub-manifest",
   "description": "W3C Publication Manifest",
   "isArchived": false,
@@ -98,6 +102,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/pub-vocab",
   "homepageUrl": "https://w3c.github.io/pub-vocab/",
   "description": "Vocabulary and context for the Web Publication Manifest",
   "isArchived": false,
@@ -122,6 +127,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/publ-a11y",
   "description": "Accessibility related discussions of the Publishing@W3C Groups",
   "isArchived": false,
   "isPrivate": false,
@@ -144,6 +150,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/publ-a11y-display-guide-localizations",
   "description": "Localizations of the Accessibility Metadata Display Guide for Digital Publications",
   "isArchived": false,
   "isPrivate": false,
@@ -165,6 +172,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/publ-a11y-extended-desc",
   "description": "Documenting a11y extended descriptions, with an emphasis on digital publishing",
   "isArchived": false,
   "isPrivate": false,
@@ -187,6 +195,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/publ-tests",
   "homepageUrl": "https://w3c.github.io/publ-tests",
   "description": "Test repository for the Publishing@W3C activity",
   "isArchived": false,
@@ -210,6 +219,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/pwpub",
   "homepageUrl": "https://w3c.github.io/pwpub/",
   "description": "W3C packaged Web Publications",
   "isArchived": false,
@@ -232,6 +242,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wpub",
   "homepageUrl": "https://w3c.github.io/wpub/",
   "description": "W3C Web Publications",
   "isArchived": false,
@@ -255,6 +266,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wpub-ann",
   "homepageUrl": "https://w3c.github.io/wpub-ann/",
   "description": "Web Annotation Extensions for Web Publications",
   "isArchived": false,
