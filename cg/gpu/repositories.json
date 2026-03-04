@@ -4,6 +4,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/admin",
   "description": "Administrative documents",
   "isArchived": false,
   "isPrivate": false,
@@ -19,6 +20,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/cts",
   "homepageUrl": "https://gpuweb.github.io/cts/",
   "description": "WebGPU Conformance Test Suite",
   "isArchived": false,
@@ -44,6 +46,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/gpuweb",
   "homepageUrl": "https://webgpu.org",
   "description": "Where the GPU for the Web work happens!",
   "isArchived": false,
@@ -70,6 +73,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/gpuweb-cts-pr-previews",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -84,6 +88,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/gpuweb-pr-previews",
   "description": "Pull request previews for gpuweb/gpuweb specifications.",
   "isArchived": false,
   "isPrivate": false,
@@ -99,6 +104,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/gpuweb.github.io",
   "homepageUrl": "https://gpuweb.github.io/gpuweb/",
   "description": "Redirects to:",
   "isArchived": false,
@@ -115,6 +121,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/tree-sitter-wgsl",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -129,6 +136,7 @@
   "owner": {
    "login": "gpuweb"
   },
+  "url": "https://github.com/gpuweb/types",
   "homepageUrl": "https://www.npmjs.com/package/@webgpu/types",
   "description": "TypeScript type definitions for WebGPU https://gpuweb.github.io/types/ ",
   "isArchived": false,
