@@ -4,6 +4,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/Blue-Bike-to-OSLO",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -18,6 +19,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/LDES-Action",
   "description": "Republishes a Linked Data Event Stream or tree:Collection on GitHub Pages using a GitHub Action",
   "isArchived": false,
   "isPrivate": false,
@@ -33,6 +35,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/LDES-Announcements",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -47,6 +50,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/LDES-Extractor",
   "description": "Create an extraction of a versioned LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -62,6 +66,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/LDES-Snapshot",
   "description": "Create a snapshot of a versioned LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -77,6 +82,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/LDES-timeseries",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -91,6 +97,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/SmartDataStreams-Spec",
   "homepageUrl": "https://w3id.org/sds/specification",
   "description": "The Smart Data Specification for Semantically Describing Streams",
   "isArchived": false,
@@ -107,6 +114,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/TREE-Guided-Link-Traversal-Query-Processing-Evaluation",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -121,6 +129,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/TREE-LDES-visualizer",
   "homepageUrl": "https://treecg.github.io/TREE-LDES-visualizer/",
   "description": "A visualisation and verification tool for TREE and LDES fragmented datasets.",
   "isArchived": false,
@@ -137,6 +146,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/bucketizers",
   "description": "Bucketize Linked Data Event Stream members",
   "isArchived": false,
   "isPrivate": false,
@@ -152,6 +162,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/comunica-feature-tree",
   "description": "[DEPRECATED] Comunica engine with support for TREE specification - use treecg/treemunica instead",
   "isArchived": false,
   "isPrivate": false,
@@ -167,6 +178,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/connectors",
   "description": "Monorepo for Linked Data Event Stream connectors",
   "isArchived": false,
   "isPrivate": false,
@@ -182,6 +194,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/demo_data",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -196,6 +209,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/extract-cbd-shape",
   "homepageUrl": "https://treecg.github.io/extract-cbd-shape/",
   "description": "Get all RDF triples/quads related to an entity based on CBD and a SHACL shape",
   "isArchived": false,
@@ -212,6 +226,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/hamburg-SensorThingsAPI2LDES",
   "description": "RDF-connect pipeline to convert SensorThings API to LDES for Hamburg traffic data",
   "isArchived": false,
   "isPrivate": false,
@@ -227,6 +242,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/jQuery-Widget.js",
   "homepageUrl": "https://treecg.github.io/jQuery-Widget.js/",
   "description": "A jQuery widget to query heterogeneous interfaces using Comunica SPARQL with support for TREE specification",
   "isArchived": false,
@@ -243,6 +259,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/ngsi-ld-source-selection",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -257,6 +274,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/ngsi-ldes",
   "description": "Open data API for NGSI-LD data",
   "isArchived": false,
   "isPrivate": false,
@@ -272,6 +290,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/paper-materializable-interfaces",
   "homepageUrl": "https://treecg.github.io/paper-materializable-interfaces/",
   "description": "A paper on multiple views and materializable interfaces with the TREE spec",
   "isArchived": false,
@@ -288,6 +307,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/site",
   "homepageUrl": "https://tree.linkeddatafragments.org",
   "description": "Website for TREE",
   "isArchived": false,
@@ -304,6 +324,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/specification",
   "homepageUrl": "https://w3id.org/tree/specification",
   "description": "RDF vocabulary and hypermedia specification to publish your Linked Data using search trees ",
   "isArchived": false,
@@ -320,6 +341,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/substring_fragmenter",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -334,6 +356,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/tree-metadata-extraction",
   "description": "Metadata extraction lib for TREE metadata from RDF files.",
   "isArchived": false,
   "isPrivate": false,
@@ -349,6 +372,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/tree_index",
   "description": "Index your trees using trees",
   "isArchived": false,
   "isPrivate": false,
@@ -364,6 +388,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/treemunica",
   "homepageUrl": "https://comunica.dev",
   "description": "📬 A Web querying framework for JavaScript",
   "isArchived": false,
@@ -380,6 +405,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/treemunica_typeahead_demo",
   "homepageUrl": "https://treecg.github.io/treemunica_typeahead_demo/",
   "isArchived": false,
   "isPrivate": false,
@@ -395,6 +421,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/types",
   "description": "TypeScript types for working with TREE/LDES",
   "isArchived": false,
   "isPrivate": false,
@@ -410,6 +437,7 @@
   "owner": {
    "login": "TREEcg"
   },
+  "url": "https://github.com/TREEcg/version-materialize-rdf.js",
   "description": "JS library to version materialize an Array<Quad>",
   "isArchived": false,
   "isPrivate": false,
