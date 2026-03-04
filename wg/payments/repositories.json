@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/payment-method-id",
   "homepageUrl": "https://w3c.github.io/payment-method-id/",
   "description": "Payment Method Identifiers specification",
   "isArchived": false,
@@ -26,6 +27,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/payment-method-manifest",
   "homepageUrl": "https://w3c.github.io/payment-method-manifest/",
   "description": "Specification for Web Payments payment method manifests",
   "isArchived": false,
@@ -48,6 +50,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/payment-request",
   "homepageUrl": "https://www.w3.org/TR/payment-request/",
   "description": "Payment Request API",
   "isArchived": false,
@@ -70,6 +73,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/payment-request-info",
   "description": "Information for developers to use the Payment Request API",
   "isArchived": false,
   "isPrivate": false,
@@ -92,6 +96,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/secure-payment-confirmation",
   "homepageUrl": "https://w3c.github.io/secure-payment-confirmation/",
   "description": "Secure Payment Confirmation (SPC)",
   "isArchived": false,
@@ -114,6 +119,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/web-based-payment-handler",
   "homepageUrl": "https://w3c.github.io/web-based-payment-handler/",
   "description": "Payment Handler API",
   "isArchived": false,
@@ -136,6 +142,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webpayments",
   "homepageUrl": "https://github.com/w3c/webpayments/wiki",
   "description": "The document repo for the Web Payments Working Group",
   "isArchived": false,
@@ -159,6 +166,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webpayments-flows",
   "description": "Flows work of the Web Payments Working Group",
   "isArchived": false,
   "isPrivate": false,
