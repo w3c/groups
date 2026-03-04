@@ -4,6 +4,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/bikeshed",
   "homepageUrl": "https://speced.github.io/bikeshed",
   "description": ":bike: A preprocessor for anyone writing specifications that converts source files into actual specs.",
   "isArchived": false,
@@ -20,6 +21,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/bikeshed-boilerplate",
   "description": "Boilerplate files for Bikeshed specs",
   "isArchived": false,
   "isPrivate": false,
@@ -35,6 +37,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/bikeshed-data",
   "description": "Bikeshed datafiles and scripts to update them.",
   "isArchived": false,
   "isPrivate": false,
@@ -50,6 +53,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/respec",
   "homepageUrl": "https://respec.org/",
   "description": "A tool for creating technical documents and web standards",
   "isArchived": false,
@@ -66,6 +70,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/respec-web-services",
   "homepageUrl": "https://respec.org/",
   "description": "ReSpec's website and RESTful APIs",
   "isArchived": false,
@@ -82,6 +87,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/spec-dfn-contract",
   "description": "Contract for marking up definitions in specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -97,6 +103,7 @@
   "owner": {
    "login": "speced"
   },
+  "url": "https://github.com/speced/spec-maintenance",
   "homepageUrl": "https://speced.github.io/spec-maintenance/",
   "description": "Specs and tools to track browser spec maintenance",
   "isArchived": false,
