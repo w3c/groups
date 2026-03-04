@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/afrlreq",
   "description": "African language enablement for the Web",
   "isArchived": false,
   "isPrivate": false,
@@ -26,6 +27,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/alreq",
   "description": "Documenting gaps and requirements for support of Arabic Script languages on the Web and in eBooks.",
   "isArchived": false,
   "isPrivate": false,
@@ -48,6 +50,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/amlreq",
   "description": "Enabling the Web for languages of the Americas",
   "isArchived": false,
   "isPrivate": false,
@@ -71,6 +74,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/bp-i18n-specdev",
   "homepageUrl": "https://w3c.github.io/bp-i18n-specdev/",
   "description": "Internationalization Best Practices for Spec Developers",
   "isArchived": false,
@@ -94,6 +98,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/charmod-norm",
   "homepageUrl": "https://w3c.github.io/charmod-norm/",
   "description": "Character Model for the World Wide Web: String Matching and Searching",
   "isArchived": false,
@@ -117,6 +122,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/clreq",
   "homepageUrl": "https://www.w3.org/International/clreq/",
   "description": "Requirements for Chinese Text Layout",
   "isArchived": false,
@@ -141,6 +147,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/elreq",
   "description": "Ethiopic Layout Requirements",
   "isArchived": false,
   "isPrivate": false,
@@ -163,6 +170,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/eurlreq",
   "description": "European language enablement",
   "isArchived": false,
   "isPrivate": false,
@@ -185,6 +193,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/hlreq",
   "description": "Hebrew script layout requirements",
   "isArchived": false,
   "isPrivate": false,
@@ -209,6 +218,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/html-ruby",
   "homepageUrl": "https://www.w3.org/TR/html-ruby-extensions/",
   "description": "HTML Ruby Markup Extensions",
   "isArchived": false,
@@ -234,6 +244,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-actions",
   "description": "Action item tracker for the i18n WG.",
   "isArchived": false,
   "isPrivate": false,
@@ -257,6 +268,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-activity",
   "description": "Home pages, charters, style-guides, and similar documents related to the W3C Internationalization Activity.",
   "isArchived": false,
   "isPrivate": false,
@@ -281,6 +293,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-checker",
   "homepageUrl": "https://validator.w3.org/i18n-checker/",
   "description": "W3C's i18n checker",
   "isArchived": false,
@@ -304,6 +317,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-discuss",
   "description": "A place to hold discussions on i18n topics, and to put documents that summarise, support or initiate those discussions.",
   "isArchived": false,
   "isPrivate": false,
@@ -326,6 +340,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-drafts",
   "description": "A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.",
   "isArchived": false,
   "isPrivate": false,
@@ -348,6 +363,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-glossary",
   "homepageUrl": "https://w3c.github.io/i18n-glossary/",
   "description": "Definitions of terms used in W3C Internationalization documents.",
   "isArchived": false,
@@ -371,6 +387,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-issues",
   "description": "A place to log problems encountered when developing web sites and pages for international use.",
   "isArchived": false,
   "isPrivate": false,
@@ -393,6 +410,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-request",
   "homepageUrl": "https://github.com/orgs/w3c/projects/91/views/1",
   "description": "Horizontal review requests are made via issues in this repo, and tracked by our radar.",
   "isArchived": false,
@@ -416,6 +434,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-tests",
   "homepageUrl": "https://www.w3.org/International/i18n-tests/",
   "description": "Internationalization tests run with the W3C i18n test suite.",
   "isArchived": false,
@@ -439,6 +458,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-translations",
   "description": "Tracks translation jobs in progress for w3.org/International pages.",
   "isArchived": false,
   "isPrivate": false,
@@ -463,6 +483,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/i18n-videos",
   "description": "Internationalization-related video metadata and assets",
   "isArchived": false,
   "isPrivate": false,
@@ -485,6 +506,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/iip",
   "homepageUrl": "https://w3c.github.io/iip/",
   "description": "Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.",
   "isArchived": false,
@@ -510,6 +532,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ilreq",
   "homepageUrl": "https://github.com/w3c/iip/",
   "description": "Former repo for Indic Layout Requirements. See new repo at",
   "isArchived": false,
@@ -533,6 +556,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/jlreq",
   "homepageUrl": "https://w3c.github.io/jlreq/",
   "description": "Text Layout Requirements for Japanese",
   "isArchived": false,
@@ -558,6 +582,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/jlreq-d",
   "description": "Requirements for Japanese Digital Text Layout",
   "isArchived": false,
   "isPrivate": false,
@@ -581,6 +606,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/klreq",
   "description": "Requirements for Hangul Text Layout and Typography",
   "isArchived": false,
   "isPrivate": false,
@@ -603,6 +629,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/line_paragraph_tests",
   "description": "Create interactive tests here for language enablement, gap analyis, exploration, etc.",
   "isArchived": false,
   "isPrivate": false,
@@ -624,6 +651,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/localizable-manifests",
   "homepageUrl": "https://w3c.github.io/localizable-manifests/",
   "description": "Definitions and best practices related to the specification of manifest files and similar document formats on the Web.",
   "isArchived": false,
@@ -647,6 +675,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ltli",
   "homepageUrl": "http://w3c.github.io/ltli/",
   "description": "Language Tags and Locale Identifiers for the World Wide Web",
   "isArchived": false,
@@ -670,6 +699,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mlreq",
   "homepageUrl": "https://www.w3.org/International/mlreq/",
   "description": "Mongolian Layout Requirements",
   "isArchived": false,
@@ -695,6 +725,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/predefined-counter-styles",
   "homepageUrl": "https://w3c.github.io/predefined-counter-styles/",
   "description": "Predefined Counter Styles",
   "isArchived": false,
@@ -717,6 +748,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/sealreq",
   "description": "Southeast Asian layout task force",
   "isArchived": false,
   "isPrivate": false,
@@ -741,6 +773,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/string-meta",
   "homepageUrl": "https://w3c.github.io/string-meta/",
   "description": "How to add direction and language metadata to strings",
   "isArchived": false,
@@ -764,6 +797,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/string-search",
   "homepageUrl": "https://w3c.github.io/string-search/",
   "description": "Parking lot for advice on internationalization related string searching in general content",
   "isArchived": false,
@@ -786,6 +820,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/text_direction_tests",
   "description": "Document interactive tests here for language enablement, gap analyis, exploration, etc.",
   "isArchived": false,
   "isPrivate": false,
@@ -807,6 +842,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/timezone",
   "homepageUrl": "https://w3c.github.io/timezone/",
   "isArchived": false,
   "isPrivate": false,
@@ -829,6 +865,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/tlreq",
   "homepageUrl": "https://www.w3.org/International/tlreq/",
   "description": "Tibetan Layout Requirements document",
   "isArchived": false,
@@ -854,6 +891,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/type-samples",
   "homepageUrl": "https://w3c.github.io/type-samples/",
   "description": "A place to find and contribute examples of typographic features in text, especially from non-Latin scripts.  Please read the instructions below before contributing images or comments. Use this link to find items 👇",
   "isArchived": false,
@@ -877,6 +915,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/typography",
   "homepageUrl": "https://w3c.github.io/typography/",
   "description": "Points to typographic information relevant to the Open Web Platform",
   "isArchived": false,
@@ -900,6 +939,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/unicode-xml",
   "homepageUrl": "https://w3c.github.io/unicode-xml/",
   "description": "Unicode in XML and other Markup Languages",
   "isArchived": false,
