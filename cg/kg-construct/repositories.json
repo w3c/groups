@@ -167,6 +167,21 @@
   }
  },
  {
+  "name": "r2rml-ontology",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "description": "maintenance of the R2RML ontology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "r2rml-test-cases-support",
   "owner": {
    "login": "kg-construct"
