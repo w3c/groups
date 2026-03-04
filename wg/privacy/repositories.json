@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/adding-permissions",
   "description": "Questions and principles for designing Web features with permissions and asking for permissions on the Web",
   "isArchived": false,
   "isPrivate": false,
@@ -25,6 +26,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/credential-considerations",
   "description": "User considerations for identity verification and credential presentation on the Web",
   "isArchived": false,
   "isPrivate": false,
@@ -46,6 +48,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/fingerprinting-guidance",
   "homepageUrl": "https://w3c.github.io/fingerprinting-guidance/",
   "description": "What is browser fingerprinting and how should specification authors address it.",
   "isArchived": false,
@@ -70,6 +73,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/gpc",
   "homepageUrl": "https://www.w3.org/TR/gpc/",
   "description": "Global Privacy Control Specification",
   "isArchived": false,
@@ -92,6 +96,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/privacy-considerations",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -114,6 +119,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/privacywg",
   "homepageUrl": "https://www.w3.org/groups/wg/privacy/",
   "description": "Privacy Working Group",
   "isArchived": false,
@@ -136,6 +142,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/security-questionnaire",
   "homepageUrl": "https://w3ctag.github.io/security-questionnaire/",
   "description": "A security/privacy review questionnaire for W3C specs",
   "isArchived": false,
@@ -160,6 +167,7 @@
   "owner": {
    "login": "w3cping"
   },
+  "url": "https://github.com/w3cping/privacy-request",
   "description": "tracking privacy reviews of W3C specifications",
   "isArchived": false,
   "isPrivate": false,
@@ -182,6 +190,7 @@
   "owner": {
    "login": "w3cping"
   },
+  "url": "https://github.com/w3cping/tracking-issues",
   "homepageUrl": "https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues",
   "description": "Repo to track PING initiated issues on other standards documents.",
   "isArchived": false,
