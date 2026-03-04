@@ -4,6 +4,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/DefinitelyTyped",
   "description": "The repository for high quality TypeScript type definitions.",
   "isArchived": false,
   "isPrivate": false,
@@ -19,6 +20,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/ShExAPI",
   "description": "Common Shape Expressions API",
   "isArchived": false,
   "isPrivate": false,
@@ -34,6 +36,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/ShExC-cheat-sheet",
   "description": "summary of ShExC syntax and semantics",
   "isArchived": false,
   "isPrivate": false,
@@ -49,6 +52,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/ShExTractor",
   "description": "Use ShEx to extract wikidata subsets",
   "isArchived": false,
   "isPrivate": false,
@@ -64,6 +68,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/ShapePath.js",
   "description": "A typescript library for executing ShapePaths",
   "isArchived": false,
   "isPrivate": false,
@@ -79,6 +84,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/ace-shexc-mode",
   "homepageUrl": "https://ace.c9.io",
   "description": "Ace (Ajax.org Cloud9 Editor)",
   "isArchived": false,
@@ -95,6 +101,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/ace-shexc-user",
   "description": "Simple example using ace-shexc-mode.",
   "isArchived": false,
   "isPrivate": false,
@@ -110,6 +117,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/examples",
   "description": "Examples of Shape Expressions",
   "isArchived": false,
   "isPrivate": false,
@@ -125,6 +133,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/extensions",
   "description": "ShEx extensions",
   "isArchived": false,
   "isPrivate": false,
@@ -140,6 +149,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/grammar",
   "description": "ShEx grammar",
   "isArchived": false,
   "isPrivate": false,
@@ -155,6 +165,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/grammar-cpp-yacc",
   "description": "C++ yacc ShExC parser",
   "isArchived": false,
   "isPrivate": false,
@@ -170,6 +181,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/grammar-javascript-antlr",
   "description": "Javascript Antlr ShExC parser",
   "isArchived": false,
   "isPrivate": false,
@@ -185,6 +197,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/grammar-python-antlr",
   "description": "Python Antlr ShExC parser",
   "isArchived": false,
   "isPrivate": false,
@@ -200,6 +213,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/primer",
   "description": "ShEx primer",
   "isArchived": false,
   "isPrivate": false,
@@ -215,6 +229,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/primer_jupyter",
   "description": "ShEx Primer in Jupyter notebooks",
   "isArchived": false,
   "isPrivate": false,
@@ -230,6 +245,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/schemas",
   "description": "ShEx schemas for common vocabularies and use cases.",
   "isArchived": false,
   "isPrivate": false,
@@ -245,6 +261,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/semantics",
   "description": "ShEx semantics",
   "isArchived": false,
   "isPrivate": false,
@@ -260,6 +277,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/shape-map",
   "description": "ShapeMap structure and language specification",
   "isArchived": false,
   "isPrivate": false,
@@ -278,6 +296,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/shex",
   "description": "ShEx language issues, including new features for e.g. ShEx2.1",
   "isArchived": false,
   "isPrivate": false,
@@ -293,6 +312,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/shex.io",
   "description": "shex.io web site",
   "isArchived": false,
   "isPrivate": false,
@@ -308,6 +328,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/shexTest",
   "homepageUrl": "https://shexspec.github.io/shexTest/",
   "description": "ShEx test suite",
   "isArchived": false,
@@ -324,6 +345,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/shexmapTest",
   "description": "repository for ShExMap tests",
   "isArchived": false,
   "isPrivate": false,
@@ -339,6 +361,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/shexspec.github.io",
   "description": "shexspec.github.io web site",
   "isArchived": false,
   "isPrivate": false,
@@ -354,6 +377,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/spec",
   "homepageUrl": "https://shexspec.github.io/spec/",
   "description": "ShEx specification",
   "isArchived": false,
@@ -373,6 +397,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/spec-2",
   "description": "ShEx specification",
   "isArchived": false,
   "isPrivate": false,
@@ -391,6 +416,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/talks",
   "description": "ShEx slides and presentations",
   "isArchived": false,
   "isPrivate": false,
@@ -406,6 +432,7 @@
   "owner": {
    "login": "shexSpec"
   },
+  "url": "https://github.com/shexSpec/test-suite",
   "description": "obsolete ShEx test suite",
   "isArchived": false,
   "isPrivate": false,
