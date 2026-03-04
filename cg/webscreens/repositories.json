@@ -4,6 +4,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/cg-charter",
   "homepageUrl": "https://webscreens.github.io/cg-charter/",
   "description": "Second Screen Community Group Charter",
   "isArchived": false,
@@ -20,6 +21,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/demo",
   "homepageUrl": "http://webscreens.github.io/demo/",
   "description": "Presentation API demo + experimental Chromium build",
   "isArchived": false,
@@ -36,6 +38,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/form-factors",
   "homepageUrl": "https://webscreens.github.io/form-factors/",
   "description": "Form Factors Explained",
   "isArchived": false,
@@ -52,6 +55,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/presentation-api",
   "description": "Presentation API specification (redirect)",
   "isArchived": false,
   "isPrivate": false,
@@ -67,6 +71,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/requestshowmedia",
   "homepageUrl": "http://webscreens.github.io/requestshowmedia/demo/",
   "description": "A Presentation API prollyfill for the HTMLMediaElement",
   "isArchived": false,
@@ -83,6 +88,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/site-initiated-mirroring",
   "homepageUrl": "https://github.com/webscreens/site-initiated-mirroring/blob/main/explainer.md",
   "description": "Respository for the Site Initiated Mirroring explainer.",
   "isArchived": false,
@@ -99,6 +105,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/slidyremote",
   "homepageUrl": "http://webscreens.github.io/slidyremote",
   "description": "HTML Slidy remote - Proof of concept demo for the Presentation API",
   "isArchived": false,
@@ -115,6 +122,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/webscreens.github.io",
   "description": "Redirections for CG incubations transferred to a WG",
   "isArchived": false,
   "isPrivate": false,
@@ -130,6 +138,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/wg-charter",
   "homepageUrl": "http://webscreens.github.io/wg-charter/",
   "description": "[DRAFT] Second Screen Presentation Working Group Charter",
   "isArchived": false,
@@ -146,6 +155,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/window-segments",
   "description": "Window Segments Enumeration API",
   "isArchived": false,
   "isPrivate": false,
@@ -161,6 +171,7 @@
   "owner": {
    "login": "webscreens"
   },
+  "url": "https://github.com/webscreens/xref",
   "description": "Cross-references database for standards",
   "isArchived": false,
   "isPrivate": false,
