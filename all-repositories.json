@@ -12120,6 +12120,23 @@
   }
  },
  {
+  "name": "quantity_datatype",
+  "owner": {
+   "login": "schemaorg"
+  },
+  "url": "https://github.com/schemaorg/quantity_datatype",
+  "homepageUrl": "https://schema.org/",
+  "description": "Schema.org - schemas and supporting software",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/schemaorg"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "schemaorg",
   "owner": {
    "login": "schemaorg"
