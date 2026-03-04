@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/federated-credentials",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -25,6 +26,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/password-credentials",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -43,6 +45,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/permissions",
   "homepageUrl": "https://www.w3.org/TR/permissions/",
   "description": "Permissions API",
   "isArchived": false,
@@ -67,6 +70,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/permissions-registry",
   "homepageUrl": "https://w3c.github.io/permissions-registry/",
   "description": "Registry of known powerful features in the web platform.",
   "isArchived": false,
@@ -91,6 +95,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/trusted-types",
   "homepageUrl": "https://w3c.github.io/trusted-types/dist/spec/",
   "description": "A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.",
   "isArchived": false,
@@ -114,6 +119,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec",
   "homepageUrl": "https://www.w3.org/groups/wg/webappsec/",
   "description": "Web Application Security Working Group repo",
   "isArchived": false,
@@ -137,6 +143,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-change-password-url",
   "homepageUrl": "https://w3c.github.io/webappsec-change-password-url/",
   "description": "A Well-Known URL for Changing Passwords",
   "isArchived": false,
@@ -161,6 +168,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-clear-site-data",
   "homepageUrl": "https://w3c.github.io/webappsec-clear-site-data/",
   "description": "WebAppSec Clear Site Data",
   "isArchived": false,
@@ -184,6 +192,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-cors-for-developers",
   "homepageUrl": "https://w3c.github.io/webappsec-cors-for-developers/",
   "description": "CORS for developers",
   "isArchived": false,
@@ -207,6 +216,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-cowl",
   "homepageUrl": "https://w3c.github.io/webappsec-cowl/",
   "description": "WebAppSec Confinement Origin Web Labels",
   "isArchived": false,
@@ -230,6 +240,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-credential-management",
   "homepageUrl": "https://w3c.github.io/webappsec-credential-management/",
   "description": "WebAppSec Credential Management",
   "isArchived": false,
@@ -253,6 +264,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-csp",
   "homepageUrl": "https://w3c.github.io/webappsec-csp/",
   "description": "WebAppSec Content Security Policy",
   "isArchived": false,
@@ -276,6 +288,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-cspee",
   "homepageUrl": "https://w3c.github.io/webappsec-cspee/",
   "description": "Content Security Policy: Embedded Enforcement",
   "isArchived": false,
@@ -298,6 +311,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-dbsc",
   "homepageUrl": "https://w3c.github.io/webappsec-dbsc/",
   "description": "Device Bound Session Credentials: A Protocol for Protecting From Cookie Theft",
   "isArchived": false,
@@ -321,6 +335,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-fetch-metadata",
   "homepageUrl": "https://w3c.github.io/webappsec-fetch-metadata/",
   "description": "Fetch Metadata",
   "isArchived": false,
@@ -344,6 +359,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-mixed-content",
   "homepageUrl": "https://w3c.github.io/webappsec-mixed-content/",
   "description": "WebAppSec Mixed Content",
   "isArchived": false,
@@ -367,6 +383,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-passkey-endpoints",
   "homepageUrl": "https://www.w3.org/TR/passkey-endpoints/",
   "description": "A well-known URL for passkey relying party endpoints",
   "isArchived": false,
@@ -390,6 +407,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-permissions-policy",
   "homepageUrl": "https://w3c.github.io/webappsec-permissions-policy/",
   "description": "A mechanism to selectively enable and disable browser features and APIs",
   "isArchived": false,
@@ -413,6 +431,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-post-spectre-webdev",
   "homepageUrl": "https://w3c.github.io/webappsec-post-spectre-webdev/",
   "description": "Post-Spectre Web Development",
   "isArchived": false,
@@ -436,6 +455,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-referrer-policy",
   "homepageUrl": "https://w3c.github.io/webappsec-referrer-policy/",
   "description": "WebAppSec Referrer Policy",
   "isArchived": false,
@@ -459,6 +479,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-secure-contexts",
   "homepageUrl": "https://w3c.github.io/webappsec-secure-contexts/",
   "description": "WebAppSec Secure Contexts",
   "isArchived": false,
@@ -483,6 +504,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-standardizing-security-semantics-of-cross-site-cookies",
   "description": "A WebAppSec note on standardizing the security semantics of cross-site cookies and proposes standardizing these semantics.",
   "isArchived": false,
   "isPrivate": false,
@@ -504,6 +526,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-suborigins",
   "homepageUrl": "https://w3c.github.io/webappsec-suborigins/",
   "description": "Suborigins",
   "isArchived": false,
@@ -527,6 +550,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-subresource-integrity",
   "homepageUrl": "https://w3c.github.io/webappsec-subresource-integrity/",
   "description": "WebAppSec Subresource Integrity",
   "isArchived": false,
@@ -550,6 +574,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-uisecurity",
   "homepageUrl": "https://w3c.github.io/webappsec-uisecurity/",
   "description": "User Interface Security and the Visibility API",
   "isArchived": false,
@@ -573,6 +598,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webappsec-upgrade-insecure-requests",
   "homepageUrl": "https://w3c.github.io/webappsec-upgrade-insecure-requests/",
   "description": "WebAppSec Upgrade Insecure Requests",
   "isArchived": false,
@@ -596,6 +622,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webcrypto",
   "homepageUrl": "https://w3c.github.io/webcrypto/",
   "description": "The W3C Web Cryptography API ",
   "isArchived": false,
