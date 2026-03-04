@@ -4,6 +4,7 @@
   "owner": {
    "login": "qt4cg"
   },
+  "url": "https://github.com/qt4cg/qt4tests",
   "homepageUrl": "https://qt4cg.org/",
   "description": "QT4 tests",
   "isArchived": false,
@@ -28,6 +29,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/qt3tests",
   "description": "Tests for XPath and XQuery",
   "isArchived": false,
   "isPrivate": false,
@@ -51,6 +53,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/qtspecs",
   "description": "XSLT and XQuery Specifications - the source used to build the specs, and the errata",
   "isArchived": false,
   "isPrivate": false,
