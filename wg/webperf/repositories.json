@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/beacon",
   "homepageUrl": "https://w3c.github.io/beacon/",
   "description": "Beacon",
   "isArchived": false,
@@ -28,6 +29,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/charter-webperf",
   "homepageUrl": "https://w3c.github.io/charter-webperf/",
   "description": "Web Performance Group charter",
   "isArchived": false,
@@ -51,6 +53,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/device-memory",
   "homepageUrl": "https://w3c.github.io/device-memory/",
   "description": "Device Memory",
   "isArchived": false,
@@ -74,6 +77,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/element-timing",
   "homepageUrl": "https://w3c.github.io/element-timing/",
   "description": "A proposal for an Element Timing specification.",
   "isArchived": false,
@@ -97,6 +101,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/event-timing",
   "homepageUrl": "https://w3c.github.io/event-timing/",
   "description": "Specification for the Event Timing API.",
   "isArchived": false,
@@ -119,6 +124,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/hr-time",
   "homepageUrl": "https://w3c.github.io/hr-time/",
   "description": "High Resolution Time",
   "isArchived": false,
@@ -143,6 +149,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/largest-contentful-paint",
   "homepageUrl": "https://w3c.github.io/largest-contentful-paint/",
   "description": "Specification for the LargestContentfulPaint API",
   "isArchived": false,
@@ -165,6 +172,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/long-animation-frames",
   "description": "Long Animation Frame API specification repository",
   "isArchived": false,
   "isPrivate": false,
@@ -187,6 +195,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/longtasks",
   "homepageUrl": "https://w3c.github.io/longtasks/",
   "description": "Long Task API",
   "isArchived": false,
@@ -210,6 +219,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/navigation-timing",
   "homepageUrl": "https://w3c.github.io/navigation-timing/",
   "description": "Navigation Timing",
   "isArchived": false,
@@ -234,6 +244,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/network-error-logging",
   "homepageUrl": "https://w3c.github.io/network-error-logging/",
   "description": "Network Error Logging",
   "isArchived": false,
@@ -257,6 +268,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/paint-timing",
   "homepageUrl": "https://w3c.github.io/paint-timing/",
   "description": "Paint Timing",
   "isArchived": false,
@@ -280,6 +292,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/perf-security-privacy",
   "description": "Performance APIs, Security and Privacy",
   "isArchived": false,
   "isPrivate": false,
@@ -302,6 +315,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/perf-timing-primer",
   "homepageUrl": "http://w3c.github.io/perf-timing-primer/",
   "description": "A Primer for Web Performance Timing APIs",
   "isArchived": false,
@@ -325,6 +339,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/performance-timeline",
   "homepageUrl": "https://w3c.github.io/performance-timeline/",
   "description": "Performance Timeline",
   "isArchived": false,
@@ -349,6 +364,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/reporting",
   "homepageUrl": "https://w3c.github.io/reporting/",
   "description": "Reporting API",
   "isArchived": false,
@@ -372,6 +388,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/requestidlecallback",
   "homepageUrl": "https://w3c.github.io/requestidlecallback/",
   "description": "Cooperative Scheduling of Background Tasks",
   "isArchived": false,
@@ -396,6 +413,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/resource-timing",
   "homepageUrl": "https://w3c.github.io/resource-timing/",
   "description": "Resource Timing",
   "isArchived": false,
@@ -420,6 +438,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/server-timing",
   "homepageUrl": "http://w3c.github.io/server-timing/",
   "description": "Server Timing",
   "isArchived": false,
@@ -445,6 +464,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/timing-entrytypes-registry",
   "homepageUrl": "https://w3c.github.io/timing-entrytypes-registry/",
   "description": "Timing Entry Names Registry",
   "isArchived": false,
@@ -468,6 +488,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/user-timing",
   "homepageUrl": "https://w3c.github.io/user-timing/",
   "description": "User Timing",
   "isArchived": false,
@@ -493,6 +514,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/web-performance",
   "homepageUrl": "https://www.w3.org/webperf/",
   "description": "W3C Web Performance Working Group repo",
   "isArchived": false,
