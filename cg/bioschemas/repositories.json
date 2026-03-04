@@ -4,6 +4,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/BMUSE",
   "homepageUrl": "https://app.swaggerhub.com/apis-docs/swel/BMUSE/",
   "description": "Bioschemas Mark Up Scraper and Extractor",
   "isArchived": false,
@@ -20,6 +21,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/BioschemasMarkupGenerator",
   "homepageUrl": "http://www.macs.hw.ac.uk/SWeL/BioschemasGenerator/",
   "description": "A tool for prototyping markup against the Bioschemas profiles.",
   "isArchived": false,
@@ -36,6 +38,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/LearningPath-sandbox",
   "description": "A sandbox for designing and annotating Learning Paths",
   "isArchived": false,
   "isPrivate": false,
@@ -51,6 +54,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/ProfileGenerator",
   "description": "Experimental scripts for creating a new Bioschemas Profile",
   "isArchived": false,
   "isPrivate": false,
@@ -66,6 +70,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/RubyExtractor",
   "description": "Extract schema.org RDF, Microdata, or JSON-LD with this Ruby library",
   "isArchived": false,
   "isPrivate": false,
@@ -81,6 +86,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bio.schemas.science",
   "description": "redirection to the proper bioschemas website",
   "isArchived": false,
   "isPrivate": false,
@@ -96,6 +102,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/biohackathon2023-p23-report",
   "description": "Elixir BioHackathon 2023 report ",
   "isArchived": false,
   "isPrivate": false,
@@ -111,6 +118,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/biojs-vis-bioschemas-event-list",
   "description": "A visualization widget for Event data using bioschemas Event Especification",
   "isArchived": false,
   "isPrivate": false,
@@ -126,6 +134,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-data-harvesting",
   "description": "Details of the harvesting of Bioschemas markup from live deployments on the Web.",
   "isArchived": false,
   "isPrivate": false,
@@ -141,6 +150,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-dde",
   "description": "scripts for automated maintenance of bioschemas specifications in the Data Discovery Engine",
   "isArchived": false,
   "isPrivate": false,
@@ -156,6 +166,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-goweb",
   "description": "Parses an specification mapping csv to markdown ready for bioschemas.org web.",
   "isArchived": false,
   "isPrivate": false,
@@ -171,6 +182,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-pdbe-adapter",
   "description": "Create PDBe mark up from web services",
   "isArchived": false,
   "isPrivate": false,
@@ -186,6 +198,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-protein-render",
   "description": "Uses bioschemas-uniprot-adater to get the Bioschemas JSON LD for a UniProt accession and renders it in the simplest way",
   "isArchived": false,
   "isPrivate": false,
@@ -201,6 +214,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-uniprot-adapter",
   "description": "Adapter transforming UniProt data from web services into Bioschemas JSON-LD markup",
   "isArchived": false,
   "isPrivate": false,
@@ -216,6 +230,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas-validation",
   "description": "A repository hosting Bioschemas validation tools",
   "isArchived": false,
   "isPrivate": false,
@@ -231,6 +246,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas.github.io",
   "homepageUrl": "http://bioschemas.org",
   "description": "Files for the Bioschemas website.",
   "isArchived": false,
@@ -247,6 +263,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/bioschemas_specification_releases",
   "description": "Repository archiving types and profiles files as released on Bioschemas website",
   "isArchived": false,
   "isPrivate": false,
@@ -262,6 +279,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/governance",
   "description": "The governance process and code of conduct for the Bioschemas Community",
   "isArchived": false,
   "isPrivate": false,
@@ -277,6 +295,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/ml-markup-tutorial",
   "description": "A short tutorial on annotating machine-learning resources with Bioschemas",
   "isArchived": false,
   "isPrivate": false,
@@ -292,6 +311,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/schemaorg",
   "homepageUrl": "http://schema.org/",
   "description": "Schema.org - schemas and (appengine) software",
   "isArchived": false,
@@ -308,6 +328,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/specifications",
   "homepageUrl": "https://bioschemas.org",
   "description": "Issue tracker, technical wiki, and example markup",
   "isArchived": false,
@@ -324,6 +345,7 @@
   "owner": {
    "login": "BioSchemas"
   },
+  "url": "https://github.com/BioSchemas/w3id.org",
   "homepageUrl": "https://w3id.org/",
   "description": "Website source code for w3id.org.",
   "isArchived": false,
