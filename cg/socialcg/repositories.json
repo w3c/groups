@@ -4,6 +4,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/.github",
   "description": "README for the SocialCG.",
   "isArchived": false,
   "isPrivate": false,
@@ -19,6 +20,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activity-summary",
   "description": "Send weekly GitHub activity notifications to the CG mailing list.",
   "isArchived": false,
   "isPrivate": false,
@@ -34,6 +36,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activity-summary-bot",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -48,6 +51,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-api",
   "description": "ActivityPub API Task Force repository.",
   "isArchived": false,
   "isPrivate": false,
@@ -63,6 +67,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-data-portability",
   "homepageUrl": "https://swicg.github.io/activitypub-data-portability/",
   "description": "Repository for data portability report and solutions for ActivityPub",
   "isArchived": false,
@@ -79,6 +84,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-e2ee",
   "description": "Coordination of work on end-to-end encryption with ActivityPub",
   "isArchived": false,
   "isPrivate": false,
@@ -94,6 +100,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-html-discovery",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -108,6 +115,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-http-signature",
   "homepageUrl": "https://swicg.github.io/activitypub-http-signature/",
   "description": "Repository for a SocialCG report on how HTTP Signature is used with ActivityPub",
   "isArchived": false,
@@ -124,6 +132,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-remix",
   "description": "Remixing and Aggregation Task force of the Social Web Incubator Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -139,6 +148,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-trust-and-safety",
   "homepageUrl": "https://swicg.github.io/activitypub-trust-and-safety/",
   "description": "ActivityPub Trust and Safety Taskforce",
   "isArchived": false,
@@ -155,6 +165,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-webfinger",
   "homepageUrl": "https://swicg.github.io/activitypub-webfinger/",
   "description": "SocialCG report for using ActivityPub with Webfinger",
   "isArchived": false,
@@ -171,6 +182,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub-website-taskforce",
   "description": "Volunteer TF to update ActivityPub.rocks website (and related \"landing pages\")",
   "isArchived": false,
   "isPrivate": false,
@@ -186,6 +198,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/activitypub.rocks",
   "description": "Content for activitypub.rocks website",
   "isArchived": false,
   "isPrivate": false,
@@ -201,6 +214,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/ap-test-suite-taskforce",
   "description": "A repository to track work by the SocialCG ActivityPub Test Suite Taskforce.",
   "isArchived": false,
   "isPrivate": false,
@@ -216,6 +230,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/extensions-policy",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -230,6 +245,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/forums",
   "description": "ActivityPub based Forums and Threaded Discussions Task Force",
   "isArchived": false,
   "isPrivate": false,
@@ -245,6 +261,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/general",
   "homepageUrl": "https://www.w3.org/community/swicg/",
   "description": "General issue tracker for the group",
   "isArchived": false,
@@ -261,6 +278,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/geosocial",
   "description": "Geosocial Taskforce",
   "isArchived": false,
   "isPrivate": false,
@@ -276,6 +294,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/groups",
   "description": "Repository for the Groups Task Force of the SocialCG",
   "isArchived": false,
   "isPrivate": false,
@@ -291,6 +310,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/meetings",
   "description": "Meeting notes are archived here",
   "isArchived": false,
   "isPrivate": false,
@@ -306,6 +326,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/miscellany",
   "description": "Documentation and context for miscellaneous terms used by ActivityPub implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -321,6 +342,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/potential-charters",
   "description": "Discussion of potential CG and WG charters",
   "isArchived": false,
   "isPrivate": false,
@@ -336,6 +358,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/processes",
   "description": "Documentation about group processes, mostly for Chairs",
   "isArchived": false,
   "isPrivate": false,
@@ -351,6 +374,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/specification-template",
   "description": "Template for a new Report, Note or specification using ReSpec + Markdown.",
   "isArchived": false,
   "isPrivate": false,
@@ -366,6 +390,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/test.activitypub.rocks",
   "description": "A dummy web site that redirects to a page on activitypub.rocks.",
   "isArchived": false,
   "isPrivate": false,
@@ -381,6 +406,7 @@
   "owner": {
    "login": "swicg"
   },
+  "url": "https://github.com/swicg/www",
   "homepageUrl": "https://swicg.io/",
   "description": "Homepage for SWICG.",
   "isArchived": false,
