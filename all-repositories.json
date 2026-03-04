@@ -23515,30 +23515,6 @@
   }
  },
  {
-  "name": "math-aria",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/math-aria",
-  "homepageUrl": "https://w3c.github.io/math-aria/",
-  "description": "ARIA module for Math features",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    89907
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "mathml",
   "owner": {
    "login": "w3c"
