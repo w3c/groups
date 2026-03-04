@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/accname",
   "homepageUrl": "https://w3c.github.io/accname/",
   "description": "Accessible Name and Description Computation",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/apg-redesign",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -47,6 +49,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/aria",
   "homepageUrl": "https://w3c.github.io/aria/",
   "description": "Accessible Rich Internet Applications (WAI-ARIA)",
   "isArchived": false,
@@ -71,6 +74,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/aria-common",
   "description": "Shared files for the ARIA repositories",
   "isArchived": false,
   "isPrivate": false,
@@ -93,6 +97,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/aria-practices",
   "homepageUrl": "https://www.w3.org/wai/aria/apg/",
   "description": "WAI-ARIA Authoring Practices Guide (APG)",
   "isArchived": false,
@@ -116,6 +121,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/core-aam",
   "homepageUrl": "https://w3c.github.io/core-aam/",
   "description": "Core Accessibility API Mappings",
   "isArchived": false,
@@ -139,6 +145,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/css-a11y",
   "description": "Main repository for the CSS Accessibility Task Force",
   "isArchived": false,
   "isPrivate": false,
@@ -163,6 +170,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/dpub-aam",
   "homepageUrl": "https://w3c.github.io/dpub-aam/",
   "description": "Digital Publishing Accessibility API Mappings",
   "isArchived": false,
@@ -186,6 +194,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/dpub-aria",
   "homepageUrl": "https://w3c.github.io/dpub-aria/",
   "description": "Digital Publishing WAI-ARIA Module",
   "isArchived": false,
@@ -208,6 +217,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/graphics-aam",
   "homepageUrl": "https://w3c.github.io/graphics-aam/",
   "description": "General graphics Accessibility API mappings",
   "isArchived": false,
@@ -231,6 +241,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/graphics-aria",
   "homepageUrl": "https://w3c.github.io/graphics-aria/",
   "description": "Graphics Accessibility API Mappings",
   "isArchived": false,
@@ -254,6 +265,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/html-aam",
   "homepageUrl": "https://w3c.github.io/html-aam/",
   "description": "HTML Accessibility API Mappings",
   "isArchived": false,
@@ -279,6 +291,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/html-aria",
   "homepageUrl": "https://w3c.github.io/html-aria/",
   "description": "ARIA in HTML",
   "isArchived": false,
@@ -302,6 +315,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/mathml-aam",
   "homepageUrl": "https://w3c.github.io/mathml-aam/",
   "description": "Accessibility API Mappings for MathML",
   "isArchived": false,
@@ -325,6 +339,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/pdf-aam",
   "homepageUrl": "https://w3c.github.io/pdf-aam/",
   "description": "Portable Document Format Accessibility APIs Mapping",
   "isArchived": false,
