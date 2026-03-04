@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/baggage",
   "homepageUrl": "https://w3c.github.io/baggage/",
   "description": "Propagation format for distributed context: Baggage",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/distributed-tracing-wg",
   "homepageUrl": "https://www.w3.org/groups/wg/distributed-tracing/",
   "description": "Distributed Tracing Working Group",
   "isArchived": false,
@@ -50,6 +52,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/trace-context",
   "homepageUrl": "https://w3c.github.io/trace-context/",
   "description": "Trace Context",
   "isArchived": false,
@@ -73,6 +76,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/trace-context-protocols-registry",
   "homepageUrl": "https://w3c.github.io/trace-context-protocols-registry/",
   "description": "Trace Context Protocols Registry",
   "isArchived": false,
@@ -96,6 +100,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/trace-interchange-format",
   "homepageUrl": "https://w3c.github.io/trace-interchange-format/",
   "description": "Trace Interchange Format",
   "isArchived": false,
@@ -119,6 +124,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/trace-response-headers",
   "homepageUrl": "https://w3c.github.io/trace-response-headers/",
   "description": "Trace Response Headers",
   "isArchived": false,
@@ -142,6 +148,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/tracestate-ids-registry",
   "homepageUrl": "https://w3c.github.io/tracestate-ids-registry/",
   "description": "Trace State Ids Registry",
   "isArchived": false,
