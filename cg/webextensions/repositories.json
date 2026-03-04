@@ -4,6 +4,7 @@
   "owner": {
    "login": "floresbakker"
   },
+  "url": "https://github.com/floresbakker/htmlvoc",
   "homepageUrl": "https://floresbakker.github.io/htmlvoc/",
   "description": "A RDF-based representation of the HTML Living Standard to express HTML-documents in RDF. HTML documents can thus be represented, queried, generated, validated, analysed, transformed and reused as semantic objects themselves.",
   "isArchived": false,
@@ -26,6 +27,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webextensions",
   "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
   "isArchived": false,
   "isPrivate": false,
