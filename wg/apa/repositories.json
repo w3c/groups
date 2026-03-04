@@ -4,6 +4,7 @@
   "owner": {
    "login": "a11yedge"
   },
+  "url": "https://github.com/a11yedge/overlays",
   "description": "Overlays as examined by the W3C Accessibility at the Edge Community Group.",
   "isArchived": false,
   "isPrivate": false,
@@ -25,6 +26,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/a11y-longitudinal-tracking",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -45,6 +47,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/a11y-request",
   "description": "Horizontal review requests will be made via issues in this repo.",
   "isArchived": false,
   "isPrivate": false,
@@ -67,6 +70,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/a11y-tracking",
   "description": "Horizontal review comments tracking for accessibility",
   "isArchived": false,
   "isPrivate": false,
@@ -89,6 +93,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/aac-registry",
   "homepageUrl": "https://w3c.github.io/aac-registry/",
   "isArchived": false,
   "isPrivate": false,
@@ -110,6 +115,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/adapt",
   "homepageUrl": "https://w3c.github.io/adapt/",
   "description": "Semantics to describe user personalization preferences.",
   "isArchived": false,
@@ -134,6 +140,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ai-accessibility",
   "homepageUrl": "https://w3c.github.io/ai-accessibility/",
   "description": "https://w3c.github.io/ai-accessibility/",
   "isArchived": false,
@@ -156,6 +163,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/apa",
   "description": "APA WG deliverables have been moved to individual repositories",
   "isArchived": false,
   "isPrivate": false,
@@ -178,6 +186,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/captcha-accessibility",
   "homepageUrl": "https://w3c.github.io/captcha-accessibility/",
   "description": "Inaccessibility of CAPTCHA",
   "isArchived": false,
@@ -200,6 +209,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/coga",
   "description": "Cognitive and Learning Disabilities Accessibility Task Force deliverables",
   "isArchived": false,
   "isPrivate": false,
@@ -224,6 +234,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/css-a11y",
   "description": "Main repository for the CSS Accessibility Task Force",
   "isArchived": false,
   "isPrivate": false,
@@ -248,6 +259,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ctaur",
   "homepageUrl": "https://w3c.github.io/ctaur/",
   "description": "Collaboration Tool Accessibility User Requirements",
   "isArchived": false,
@@ -270,6 +282,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/fast",
   "homepageUrl": "https://w3c.github.io/fast/",
   "isArchived": false,
   "isPrivate": false,
@@ -291,6 +304,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/immersive-captions",
   "description": "https://w3c.github.io/immersive-captions/",
   "isArchived": false,
   "isPrivate": false,
@@ -312,6 +326,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/maturity-model",
   "homepageUrl": "https://w3c.github.io/maturity-model/",
   "description": "Maturity Model",
   "isArchived": false,
@@ -334,6 +349,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/maur",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -354,6 +370,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/media-accessibility-reqs",
   "homepageUrl": "https://w3c.github.io/media-accessibility-reqs/",
   "isArchived": false,
   "isPrivate": false,
@@ -375,6 +392,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/naur",
   "homepageUrl": "https://w3c.github.io/naur/",
   "isArchived": false,
   "isPrivate": false,
@@ -396,6 +414,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/payment-accessibility-reqs",
   "homepageUrl": "https://w3c.github.io/payment-accessibility-reqs/",
   "isArchived": false,
   "isPrivate": false,
@@ -417,6 +436,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/pronunciation",
   "homepageUrl": "https://www.w3.org/WAI/APA/task-forces/pronunciation/",
   "description": "Spoken Presentation Task Force deliverables",
   "isArchived": false,
@@ -439,6 +459,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/raur",
   "homepageUrl": "http://w3c.github.io/raur/",
   "isArchived": false,
   "isPrivate": false,
@@ -460,6 +481,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/remote-meetings",
   "homepageUrl": "https://w3c.github.io/remote-meetings/",
   "isArchived": false,
   "isPrivate": false,
@@ -481,6 +503,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/rqtf",
   "description": "Research Questions Task Force deliverables",
   "isArchived": false,
   "isPrivate": false,
@@ -502,6 +525,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/saur",
   "homepageUrl": "https://w3c.github.io/saur/",
   "isArchived": false,
   "isPrivate": false,
@@ -523,6 +547,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/xaur",
   "homepageUrl": "https://w3c.github.io/xaur/",
   "description": "XR Accessibility User Requirements",
   "isArchived": false,
