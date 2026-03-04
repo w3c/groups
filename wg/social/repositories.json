@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/Micropub",
   "homepageUrl": "https://micropub.net/draft/",
   "description": "The Micropub spec",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/activitypub",
   "homepageUrl": "http://w3c.github.io/activitypub/",
   "isArchived": false,
   "isPrivate": false,
@@ -49,6 +51,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/activitystreams",
   "homepageUrl": "https://www.w3.org/TR/activitystreams-core/",
   "description": "Activity Streams 2.0",
   "isArchived": false,
@@ -72,6 +75,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/activitystreams-testing",
   "description": "W3C Activity Streams 2.0 Conformance Tests",
   "isArchived": false,
   "isPrivate": false,
@@ -94,6 +98,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/ldn",
   "homepageUrl": "https://www.w3.org/TR/ldn/",
   "description": "🔔 Linked Data Notifications",
   "isArchived": false,
@@ -117,6 +122,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/socialwg",
   "homepageUrl": "https://www.w3.org/groups/wg/social/",
   "description": "Social Web Working Group",
   "isArchived": false,
@@ -139,6 +145,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/webmention",
   "homepageUrl": "https://www.w3.org/TR/webmention/",
   "description": "Webmention spec",
   "isArchived": false,
@@ -162,6 +169,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/websub",
   "homepageUrl": "https://w3c.github.io/websub/",
   "description": "WebSub Spec in Social Web Working Group",
   "isArchived": false,
