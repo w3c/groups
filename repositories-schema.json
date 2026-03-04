@@ -13,6 +13,7 @@
       "required": [
         "name",
         "owner",
+        "url",
         "isArchived",
         "isPrivate",
         "w3cjson"
@@ -21,6 +22,10 @@
         "name": {
           "type": "string",
           "description": "The name of the repository."
+        },
+        "url": {
+          "type": "string",
+          "description": "The HTML URL of the repository."
         },
         "homepageUrl": {
           "type": "string",
