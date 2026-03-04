@@ -4,6 +4,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/1.0-specification",
   "description": "The 1.0 XProc specification and now abandoned drafts of a 2.0 XML specification",
   "isArchived": false,
   "isPrivate": false,
@@ -19,6 +20,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/1.0-test-suite",
   "description": "The XProc test suite",
   "isArchived": false,
   "isPrivate": false,
@@ -34,6 +36,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/2.0-non-xml-specification",
   "description": "The currently abandoned non-XML version of XProc 2.0",
   "isArchived": false,
   "isPrivate": false,
@@ -49,6 +52,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/3.0-grammar",
   "description": "The XProc 3.0 RELAX NG grammar and step library",
   "isArchived": false,
   "isPrivate": false,
@@ -64,6 +68,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/3.0-specification",
   "homepageUrl": "http://spec.xproc.org/",
   "description": "A community-driven effort to define an XProc 3.0 specification (formerly 1.1)",
   "isArchived": false,
@@ -80,6 +85,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/3.0-steps",
   "description": "Repository for change requests to the standard step library and for official extension steps",
   "isArchived": false,
   "isPrivate": false,
@@ -95,6 +101,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/3.0-test-suite",
   "homepageUrl": "https://test-suite.xproc.org/",
   "description": "The 3.0 test suite.",
   "isArchived": false,
@@ -111,6 +118,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Vnext",
   "description": "Assembly point for all issues for a next version of XProc",
   "isArchived": false,
   "isPrivate": false,
@@ -126,6 +134,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2016-09-26",
   "description": "Fodder for the XProc workshop in Amsterdam, 26 September 2016",
   "isArchived": false,
   "isPrivate": false,
@@ -141,6 +150,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2017-02",
   "description": "Fodder for a possible XProc workshop in Prague, colocated with XML Prague 2017",
   "isArchived": false,
   "isPrivate": false,
@@ -156,6 +166,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2017-06",
   "description": "Fodder for a possible XProc workshop in London, colocated with XML London 2017",
   "isArchived": false,
   "isPrivate": false,
@@ -171,6 +182,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2017-09",
   "description": "F2F meeting of the XProc 3.0 specification volunteers in Aachen",
   "isArchived": false,
   "isPrivate": false,
@@ -186,6 +198,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2018-02",
   "description": "F2F meeting of the XProc 3.0 specification volunteers in Prague",
   "isArchived": false,
   "isPrivate": false,
@@ -201,6 +214,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2018-06",
   "description": "Repo for the XProc next CG - 11th & 12th June 2018, London GB",
   "isArchived": false,
   "isPrivate": false,
@@ -216,6 +230,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2018-09",
   "description": "XProc CG F2F meeting in Leipzig, Sept. 5 & 6",
   "isArchived": false,
   "isPrivate": false,
@@ -231,6 +246,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2019-02",
   "description": "Repo for the XProc next CG meeting in Prague, Feb. 2019.",
   "isArchived": false,
   "isPrivate": false,
@@ -246,6 +262,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2019-06",
   "description": "Repo for the XProc next CG meeting in London, Jun. 2019. ",
   "isArchived": false,
   "isPrivate": false,
@@ -261,6 +278,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/Workshop-2019-11",
   "description": "XProc community group meeting in Cologne, Nov. 9+10, 2019",
   "isArchived": false,
   "isPrivate": false,
@@ -276,6 +294,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/archive.xproc.org",
   "description": "Sources for the legacy xproc.org website",
   "isArchived": false,
   "isPrivate": false,
@@ -291,6 +310,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/dashboard",
   "homepageUrl": "https://dashboard.xproc.org/",
   "description": "XProc development dashboard",
   "isArchived": false,
@@ -307,6 +327,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/exproc.org",
   "description": "Sources for the exproc.org website",
   "isArchived": false,
   "isPrivate": false,
@@ -322,6 +343,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/extensions",
   "description": "Repository for describing possible extension steps/functions to XProc",
   "isArchived": false,
   "isPrivate": false,
@@ -337,6 +359,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/notes",
   "description": "Notes and other informal scriblings about XProc",
   "isArchived": false,
   "isPrivate": false,
@@ -352,6 +375,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/showroom",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -366,6 +390,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/tutorial",
   "description": "An XProc tutorial",
   "isArchived": false,
   "isPrivate": false,
@@ -381,6 +406,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/xml_prague_2018",
   "description": "Repo with slides from XML-Prague 2018",
   "isArchived": false,
   "isPrivate": false,
@@ -396,6 +422,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/xproc.org",
   "description": "The xproc.org website",
   "isArchived": false,
   "isPrivate": false,
@@ -411,6 +438,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/xvrl",
   "description": "Extensible Validation Reporting Language",
   "isArchived": false,
   "isPrivate": false,
@@ -426,6 +454,7 @@
   "owner": {
    "login": "xproc"
   },
+  "url": "https://github.com/xproc/xvrl-tools",
   "description": "XSLT for converting SVRL to XVRL, filtering XVRL, etc.",
   "isArchived": false,
   "isPrivate": false,
