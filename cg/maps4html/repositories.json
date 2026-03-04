@@ -4,6 +4,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/FiskMississippiMapsStreamCourses",
   "homepageUrl": "https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements/tree/master/examples",
   "description": "Resources for examples",
   "isArchived": false,
@@ -20,6 +21,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements",
   "homepageUrl": "https://maps4html.org/HTML-Map-Element-UseCases-Requirements/",
   "description": "Use cases and requirements for Maps on the Web",
   "isArchived": false,
@@ -43,6 +45,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/Leaflet",
   "homepageUrl": "https://leafletjs.com",
   "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
   "isArchived": false,
@@ -59,6 +62,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/MapML-Proposal",
   "description": "This repo contains explainer documents for the scope of the MapML proposal.",
   "isArchived": false,
   "isPrivate": false,
@@ -80,6 +84,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/MapML-Specification",
   "description": "Map Markup Language is hypertext for Web maps, like HTML is hypertext for Web pages https://maps4html.org/MapML-Specification/spec/",
   "isArchived": false,
   "isPrivate": false,
@@ -101,6 +106,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/MapML.js",
   "homepageUrl": "https://maps4html.org/MapML.js/",
   "description": "A custom <mapml-viewer> and <layer-> element suite",
   "isArchived": false,
@@ -123,6 +129,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/MapServer-documentation",
   "homepageUrl": "https://www.mapserver.org/development/rfc/ms-rfc-123.html",
   "description": "MapML documentation on MapServer",
   "isArchived": false,
@@ -139,6 +146,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/Maps4HTML-CG-Charter",
   "description": "Draft charter for Maps for HTML Community Group https://maps4html.org/Maps4HTML-CG-Charter/",
   "isArchived": false,
   "isPrivate": false,
@@ -160,6 +168,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/Maps4HTML-Workshop-2020",
   "homepageUrl": "https://www.w3.org/2020/maps/",
   "description": "A public repository to develop the program for a workshop to be held online, at selected times over two weeks, September 21-October 2nd 2020",
   "isArchived": false,
@@ -184,6 +193,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/Maps4HTML.github.io",
   "homepageUrl": "https://maps4html.org/",
   "description": "Browseable pages from the W3C Maps for HTML Community Group",
   "isArchived": false,
@@ -206,6 +216,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/TiledArt-Rousseau",
   "homepageUrl": "https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements/tree/master/examples",
   "description": "Resource for examples: ",
   "isArchived": false,
@@ -222,6 +233,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/UCR-MapML-Matrix",
   "homepageUrl": "https://maps4html.org/UCR-MapML-Matrix/mapml-ucrs-fulfillment-matrix.html",
   "description": "Hosts examples and documents how MapML fulfills the Use Cases and Requirements for Web Maps ",
   "isArchived": false,
@@ -244,6 +256,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/chat",
   "description": "Organization communications",
   "isArchived": false,
   "isPrivate": false,
@@ -259,6 +272,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/experiments",
   "homepageUrl": "https://maps4html.org/experiments/",
   "description": "MapML polyfill experiments https://maps4html.org/experiments/",
   "isArchived": false,
@@ -275,6 +289,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/gdal",
   "homepageUrl": "https://gdal.org",
   "description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.",
   "isArchived": false,
@@ -291,6 +306,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/geoserver",
   "homepageUrl": "https://docs.geoserver.org/latest/en/user/extensions/mapml/index.html",
   "description": "Maps for HTML MapML Extension / plug-in development fork of GeoServer",
   "isArchived": false,
@@ -307,6 +323,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/geotools",
   "homepageUrl": "http://geotools.org",
   "description": "Official GeoTools repository",
   "isArchived": false,
@@ -323,6 +340,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/geowebcache",
   "homepageUrl": "http://geowebcache.org/",
   "description": "GeoWebCache is a tile caching server implemented in Java that provides various tile caching services like WMS-C, TMS, WMTS, Google Maps, MS Bing and more",
   "isArchived": false,
@@ -339,6 +357,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/leaflet-locatecontrol",
   "homepageUrl": "https://domoritz.github.io/leaflet-locatecontrol/demo/",
   "description": "A leaflet control to geolocate the user.",
   "isArchived": false,
@@ -355,6 +374,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/mapml-extension",
   "homepageUrl": "https://maps4html.org/web-map-doc/docs/extension/about",
   "description": "Source code for the MapML Browser Extension",
   "isArchived": false,
@@ -377,6 +397,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/mapml-pgrouting",
   "description": "A node application utilizing pgrouting (Dijkstra's algorithm) to find the shortest path between two points using mapml",
   "isArchived": false,
   "isPrivate": false,
@@ -392,6 +413,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/mapserver",
   "homepageUrl": "http://www.mapserver.org",
   "description": "MapServer RFC 123 work",
   "isArchived": false,
@@ -408,6 +430,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/proj4leaflet",
   "homepageUrl": "http://kartena.github.io/Proj4Leaflet/",
   "description": "Smooth Proj4js integration with Leaflet.",
   "isArchived": false,
@@ -424,6 +447,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/pygeoapi-mapml-formatter",
   "description": "MapML Formatter Plugin for pygeoapi ",
   "isArchived": false,
   "isPrivate": false,
@@ -439,6 +463,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/sdw",
   "homepageUrl": "https://www.w3.org/2017/sdwig/",
   "description": "Repository for the Spatial Data on the Web Interest Group",
   "isArchived": false,
@@ -455,6 +480,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/validator-mapml",
   "description": "A clone of validator.nu for Map Markup Language - needs work / out of date",
   "isArchived": false,
   "isPrivate": false,
@@ -470,6 +496,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/web-map-doc",
   "description": "Documentation for Web-Map-Custom-Element https://maps4html.org/web-map-doc/",
   "isArchived": false,
   "isPrivate": false,
@@ -485,6 +512,7 @@
   "owner": {
    "login": "Maps4HTML"
   },
+  "url": "https://github.com/Maps4HTML/webwewant.fyi",
   "homepageUrl": "https://webwewant.fyi/wants/61/",
   "description": "Web Want for native maps in the browser",
   "isArchived": false,
