@@ -4,6 +4,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/awesome-json-ld",
   "description": "A list of awesome JSON-LD resources.",
   "isArchived": false,
   "isPrivate": false,
@@ -19,6 +20,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/cborld-registry",
   "homepageUrl": "https://json-ld.github.io/cborld-registry/",
   "description": "CBOR-LD compression table registry",
   "isArchived": false,
@@ -35,6 +37,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/convenience-context",
   "description": "Aliasing away the `@`",
   "isArchived": false,
   "isPrivate": false,
@@ -50,6 +53,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/json-ld-patch",
   "description": "JSON-LD Patch",
   "isArchived": false,
   "isPrivate": false,
@@ -65,6 +69,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/json-ld-star",
   "homepageUrl": "https://json-ld.github.io/json-ld-star",
   "description": "CG Note on JSON-LD*",
   "isArchived": false,
@@ -89,6 +94,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/json-ld.github.io",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -103,6 +109,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/json-ld.org",
   "homepageUrl": "https://json-ld.org/",
   "description": "JSON for Linked Data's documentation and playground site",
   "isArchived": false,
@@ -119,6 +126,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/jsonld-vis",
   "description": "Turn JSON-LD into pretty graphs",
   "isArchived": false,
   "isPrivate": false,
@@ -134,6 +142,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/minutes",
   "homepageUrl": "https://json-ld.org/minutes/",
   "description": "Teleconference minutes - text and audio logs",
   "isArchived": false,
@@ -157,6 +166,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/ndjson-ld",
   "homepageUrl": "https://json-ld.github.io/ndjson-ld/",
   "isArchived": false,
   "isPrivate": false,
@@ -178,6 +188,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/rdf-dataset-canonicalization",
   "description": "Old location of RDF Dataset Canonicalization",
   "isArchived": false,
   "isPrivate": false,
@@ -193,6 +204,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/scrawl.js",
   "description": "Scribe tool used by the JSON-LD Community Group",
   "isArchived": false,
   "isPrivate": false,
@@ -208,6 +220,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/w3c-tpac-2024-presentations",
   "homepageUrl": "https://json-ld.github.io/w3c-tpac-2024-presentations/json-ld-recharter/",
   "description": "CBOR-LD, YAML-LD, and the JSON-LD Recharter",
   "isArchived": false,
@@ -224,6 +237,7 @@
   "owner": {
    "login": "json-ld"
   },
+  "url": "https://github.com/json-ld/yaml-ld-primer",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
