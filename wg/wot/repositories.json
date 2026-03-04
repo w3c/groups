@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-architecture",
   "homepageUrl": "http://w3c.github.io/wot-architecture/",
   "description": "Web of Things (WoT) Architecture",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-binding-registry",
   "homepageUrl": "https://w3c.github.io/wot-binding-registry/",
   "description": "Web of Things (WoT) Bindings Registry",
   "isArchived": false,
@@ -51,6 +53,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-binding-templates",
   "homepageUrl": "http://w3c.github.io/wot-binding-templates/",
   "description": "Web of Things (WoT) Binding Templates",
   "isArchived": false,
@@ -74,6 +77,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-discovery",
   "homepageUrl": "https://w3c.github.io/wot-discovery/",
   "description": "Repository for WoT discovery discussion",
   "isArchived": false,
@@ -97,6 +101,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-ejs",
   "description": "Repository to store the content on Enveloped JSON Signatures spun off from the discussion on WoT Security, e.g., https://github.com/w3c/wot-thing-description/pull/1151",
   "isArchived": false,
   "isPrivate": false,
@@ -119,6 +124,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-profile",
   "homepageUrl": "http://w3c.github.io/wot-profile/",
   "description": "Web of Things (WoT) Profile",
   "isArchived": false,
@@ -141,6 +147,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-scripting-api",
   "homepageUrl": "http://w3c.github.io/wot-scripting-api/",
   "description": "Web of Things (WoT) Scripting API",
   "isArchived": false,
@@ -164,6 +171,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-security",
   "homepageUrl": "https://w3c.github.io/wot-security/",
   "description": "a repo exclusively for security to better manage issues and security considerations for WoT",
   "isArchived": false,
@@ -187,6 +195,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-security-best-practices",
   "homepageUrl": "https://github.com/w3c/wot-security-best-practices/blob/master/index.html",
   "description": "WoT Security Best Practices",
   "isArchived": false,
@@ -210,6 +219,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-security-testing-plan",
   "description": "Repository for the WoT Security Testing Plan document",
   "isArchived": false,
   "isPrivate": false,
@@ -232,6 +242,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wot-thing-description",
   "homepageUrl": "http://w3c.github.io/wot-thing-description/",
   "description": "Web of Things (WoT) Thing Description",
   "isArchived": false,
@@ -255,6 +266,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/wotwg",
   "homepageUrl": "https://www.w3.org/WoT/WG/",
   "description": "Web of Things Working Group",
   "isArchived": false,
