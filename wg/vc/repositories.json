@@ -4,6 +4,7 @@
   "owner": {
    "login": "w3c-ccg"
   },
+  "url": "https://github.com/w3c-ccg/vc-api-use-cases",
   "homepageUrl": "https://w3c-ccg.github.io/vc-api-use-cases/index.html",
   "description": "Use Cases document in support of the CCG work item, VC-API",
   "isArchived": false,
@@ -27,6 +28,7 @@
   "owner": {
    "login": "w3c-ccg"
   },
+  "url": "https://github.com/w3c-ccg/vc-refresh",
   "homepageUrl": "https://w3c-ccg.github.io/vc-refresh/",
   "description": "A data model and protocol for refreshing Verifiable Credentials.",
   "isArchived": false,
@@ -50,6 +52,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/cid",
   "homepageUrl": "https://w3c.github.io/cid/",
   "description": "Controlled Identifier Documents",
   "isArchived": false,
@@ -72,6 +75,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-bitstring-status-list",
   "homepageUrl": "https://w3c.github.io/vc-bitstring-status-list/",
   "description": "A privacy-preserving mechanism to publish status information for Verifiable Credentials.",
   "isArchived": false,
@@ -97,6 +101,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-bitstring-status-list-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-bitstring-status-list-test-suite/",
   "description": "Bitstring Status List test suite",
   "isArchived": false,
@@ -119,6 +124,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-charter-2026",
   "homepageUrl": "https://w3c.github.io/vc-charter-2026/",
   "description": "Charter proposal for the VC WG 2026",
   "isArchived": false,
@@ -143,6 +149,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-confidence-method",
   "homepageUrl": "https://w3c.github.io/vc-confidence-method/",
   "description": "W3C VCDM extension for confidence method",
   "isArchived": false,
@@ -166,6 +173,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-data-integrity",
   "homepageUrl": "https://w3c.github.io/vc-data-integrity/",
   "description": "W3C Data Integrity Specification",
   "isArchived": false,
@@ -188,6 +196,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-data-model",
   "homepageUrl": "https://w3c.github.io/vc-data-model/",
   "description": "W3C Verifiable Credentials v2.0 Specification",
   "isArchived": false,
@@ -211,6 +220,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-data-model-2.0-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-data-model-2.0-test-suite/",
   "description": "W3C Verifiable Credentials v2.0 test suite",
   "isArchived": false,
@@ -233,6 +243,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-bbs",
   "homepageUrl": "https://w3c.github.io/vc-di-bbs/",
   "description": "A linked data proof suite specification for BBS+ signatures",
   "isArchived": false,
@@ -256,6 +267,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-bbs-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-di-bbs-test-suite",
   "description": "Interoperability Test Suite for Data Integrity BBS Signatures",
   "isArchived": false,
@@ -278,6 +290,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-ecdsa",
   "homepageUrl": "https://w3c.github.io/vc-di-ecdsa/",
   "description": "Data Integrity specification for ECDSA using NIST-compliant curves",
   "isArchived": false,
@@ -301,6 +314,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-ecdsa-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-di-ecdsa-test-suite/",
   "description": "Interoperability Test Suite for Data Integrity Ecdsa Signatures.",
   "isArchived": false,
@@ -323,6 +337,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-ed25519signature2020-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-di-ed25519signature2020-test-suite/",
   "description": "Ed25519Signature2020 Data Integrity test suite",
   "isArchived": false,
@@ -345,6 +360,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-eddsa",
   "homepageUrl": "https://w3c.github.io/vc-di-eddsa/",
   "description": "EdDSA Data Integrity Cryptosuites Specification",
   "isArchived": false,
@@ -368,6 +384,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-di-eddsa-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-di-eddsa-test-suite/",
   "description": "Interoperability Test Suite for Data Integrity Eddsa 2022 Signatures.",
   "isArchived": false,
@@ -390,6 +407,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-extensions",
   "homepageUrl": "https://w3c.github.io/vc-extensions/",
   "description": "Verifiable Credential Extensions",
   "isArchived": false,
@@ -413,6 +431,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-imp-guide",
   "homepageUrl": "https://w3c.github.io/vc-imp-guide",
   "description": "Verifiable Credentials Implementation Guidelines",
   "isArchived": false,
@@ -436,6 +455,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-jose-cose",
   "homepageUrl": "https://w3c.github.io/vc-jose-cose/",
   "description": "Verifiable Credentials Working Group — VC JSON Web Tokens specification",
   "isArchived": false,
@@ -458,6 +478,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-jose-cose-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-jose-cose-test-suite",
   "isArchived": false,
   "isPrivate": false,
@@ -480,6 +501,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-json-schema",
   "homepageUrl": "https://w3c.github.io/vc-json-schema",
   "description": "A mechanism to use JSON Schemas with Verifiable Credentials",
   "isArchived": false,
@@ -503,6 +525,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-json-schema-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-json-schema-test-suite/",
   "description": "Test suite for the VC JSON Schema specification in the W3C",
   "isArchived": false,
@@ -526,6 +549,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-jws-2020",
   "homepageUrl": "https://w3c.github.io/vc-jws-2020/",
   "description": "Verifiable Credentials Working Group — JSON Web Signature 2020 specification",
   "isArchived": false,
@@ -548,6 +572,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-overview",
   "homepageUrl": "https://w3c.github.io/vc-overview/",
   "description": "Overview note for the VC WG Recommendations",
   "isArchived": false,
@@ -571,6 +596,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-render-method",
   "homepageUrl": "https://w3c.github.io/vc-render-method/",
   "description": "Rendering methods for Verifiable Credentials",
   "isArchived": false,
@@ -594,6 +620,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-test-suite",
   "homepageUrl": "https://w3c.github.io/vc-test-suite/",
   "description": "Verifiable Credentials WG Test Suite",
   "isArchived": false,
@@ -617,6 +644,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-test-suite-implementations",
   "description": "List of W3C Verifiable Credentials Implementations",
   "isArchived": false,
   "isPrivate": false,
@@ -638,6 +666,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-use-cases",
   "homepageUrl": "https://w3c.github.io/vc-use-cases/",
   "description": "Verifiable Credentials Use Cases",
   "isArchived": false,
@@ -661,6 +690,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-wg",
   "homepageUrl": "https://w3c.github.io/vc-wg/minutes/",
   "description": "Working home repository of the W3C Verifiable Credentials WG",
   "isArchived": false,
@@ -683,6 +713,7 @@
   "owner": {
    "login": "w3c"
   },
+  "url": "https://github.com/w3c/vc-wg-charter",
   "homepageUrl": "https://w3c.github.io/vc-wg-charter/",
   "description": "Developing a new charter for the VC WG.",
   "isArchived": false,
