@@ -4,6 +4,7 @@
   "owner": {
    "login": "reconciliation-api"
   },
+  "url": "https://github.com/reconciliation-api/census",
   "homepageUrl": "https://reconciliation-api.github.io/census/",
   "description": "Inventory of the reconciliation ecosystem and its neighbourhood",
   "isArchived": false,
@@ -20,6 +21,7 @@
   "owner": {
    "login": "reconciliation-api"
   },
+  "url": "https://github.com/reconciliation-api/charter",
   "homepageUrl": "https://reconciliation-api.github.io/charter/",
   "description": "Scope and processes of the W3C Entity Reconciliation Community Group",
   "isArchived": false,
@@ -36,6 +38,7 @@
   "owner": {
    "login": "reconciliation-api"
   },
+  "url": "https://github.com/reconciliation-api/reconciliation-api.github.io",
   "description": "Root website of the community group",
   "isArchived": false,
   "isPrivate": false,
@@ -51,6 +54,7 @@
   "owner": {
    "login": "reconciliation-api"
   },
+  "url": "https://github.com/reconciliation-api/specs",
   "homepageUrl": "https://reconciliation-api.github.io/specs/draft/",
   "description": "Specifications of the reconciliation API",
   "isArchived": false,
@@ -67,6 +71,7 @@
   "owner": {
    "login": "reconciliation-api"
   },
+  "url": "https://github.com/reconciliation-api/testbench",
   "homepageUrl": "https://reconciliation-api.github.io/testbench/",
   "description": "Web application to try out reconciliation services interactively",
   "isArchived": false,
