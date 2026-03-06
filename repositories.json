@@ -21359,32 +21359,6 @@
   }
  },
  {
-  "name": "mathonwebpages",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/mathonwebpages",
-  "homepageUrl": "https://w3c.github.io/mathonwebpages",
-  "description": "Repository for the W3C \"Math on the Web\" Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/mathonwebpages"
-   ],
-   "contacts": [
-    "iherman",
-    "pkra"
-   ],
-   "repo-type": [
-    "homepage",
-    "cg-report",
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "maturity-model",
   "owner": {
    "login": "w3c"
