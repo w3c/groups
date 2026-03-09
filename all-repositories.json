@@ -29425,7 +29425,19 @@
   "homepageUrl": "https://w3c.github.io/threat-model-web/",
   "description": "A Threat Model for the Web",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    49310
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
  },
  {
   "name": "threat-modeling-guide",
