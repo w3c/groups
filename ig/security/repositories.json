@@ -116,6 +116,29 @@
   }
  },
  {
+  "name": "threat-model-web",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/threat-model-web",
+  "homepageUrl": "https://w3c.github.io/threat-model-web/",
+  "description": "A Threat Model for the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "ig/security"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "threat-modeling-guide",
   "owner": {
    "login": "w3c"
