@@ -9026,40 +9026,8 @@
    "login": "kg-construct"
   },
   "url": "https://github.com/kg-construct/exectool",
-  "homepageUrl": "https://kg-construct.github.io/exectool/",
-  "description": "EXEC (EXperiment ExeCutor) is a simple tool to execute benchmarks",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "kg-metadata",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "url": "https://github.com/kg-construct/kg-metadata",
-  "description": "Specification of the KG metadata",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "mappers-docker",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "url": "https://github.com/kg-construct/mappers-docker",
-  "description": "A collection of dockerized mappers",
+  "homepageUrl": "https://github.com/kg-construct/KROWN",
+  "description": "EXEC (EXperiment ExeCutor) is a simple tool to execute benchmarks. Previous version of KROWN",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -9292,23 +9260,6 @@
   "url": "https://github.com/kg-construct/rml-star",
   "homepageUrl": "https://w3id.org/rml/star/spec",
   "description": "RML-star: RDF-star generation for RML",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "rml-test-cases",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "url": "https://github.com/kg-construct/rml-test-cases",
-  "homepageUrl": "http://rml.io/test-cases/",
-  "description": "RML conformance test suite",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -30776,31 +30727,6 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "vc-charter-2026",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/vc-charter-2026",
-  "homepageUrl": "https://w3c.github.io/vc-charter-2026/",
-  "description": "Charter proposal for the VC WG 2026",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "pchampin",
-    "iherman"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "process"
    ],
    "exposed": true
   }
