@@ -3147,6 +3147,27 @@
   }
  },
  {
+  "name": "network-efficiency-guardrails",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/network-efficiency-guardrails",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "observable",
   "owner": {
    "login": "WICG"
