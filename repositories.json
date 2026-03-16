@@ -8989,45 +8989,11 @@
   }
  },
  {
-  "name": "challenge-tool",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "url": "https://github.com/kg-construct/challenge-tool",
-  "homepageUrl": "https://kg-construct.github.io/challenge-tool/",
-  "description": "KGCW 2023-2024: Challenge Tool",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "dataio-spec",
   "owner": {
    "login": "kg-construct"
   },
   "url": "https://github.com/kg-construct/dataio-spec",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/kg-construct"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "exectool",
-  "owner": {
-   "login": "kg-construct"
-  },
-  "url": "https://github.com/kg-construct/exectool",
-  "homepageUrl": "https://github.com/kg-construct/KROWN",
-  "description": "EXEC (EXperiment ExeCutor) is a simple tool to execute benchmarks. Previous version of KROWN",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
