@@ -16771,29 +16771,6 @@
   "isPrivate": false
  },
  {
-  "name": "WebID",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/WebID",
-  "description": "https://www.w3.org/groups/cg/webid",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    51933
-   ],
-   "contacts": [
-    "jacoscaz"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "a11y-discov-vocab",
   "owner": {
    "login": "w3c"
@@ -19634,29 +19611,6 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "dms",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/dms",
-  "homepageUrl": "https://w3c.github.io/dms/",
-  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    113314
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
