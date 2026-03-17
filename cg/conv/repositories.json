@@ -1,28 +1,5 @@
 [
  {
-  "name": "dmpl",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/dmpl",
-  "homepageUrl": "https://w3c.github.io/dmpl",
-  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/conv"
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "dms",
   "owner": {
    "login": "w3c"
