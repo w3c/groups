@@ -9022,6 +9022,22 @@
   }
  },
  {
+  "name": "kgc-challenge",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "url": "https://github.com/kg-construct/kgc-challenge",
+  "description": "Repository for the KGC Challenge",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "mapping-challenges",
   "owner": {
    "login": "kg-construct"
@@ -19618,29 +19634,6 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "dmpl",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/dmpl",
-  "homepageUrl": "https://w3c.github.io/dmpl",
-  "description": "Dialogue Manager Programming Language - intermediate representation for autonomous interactive systems",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    113314
-   ],
-   "contacts": [
-    "binroot"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
