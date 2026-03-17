@@ -14679,6 +14679,23 @@
   }
  },
  {
+  "name": "verifiable-issuers-verifiers",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "url": "https://github.com/w3c-ccg/verifiable-issuers-verifiers",
+  "homepageUrl": "https://w3c-ccg.github.io/verifiable-issuers-verifiers/",
+  "description": "Redirect for VCs for recognition spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "vocabulary-template",
   "owner": {
    "login": "w3c-ccg"
