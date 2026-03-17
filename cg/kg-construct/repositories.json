@@ -80,6 +80,22 @@
   }
  },
  {
+  "name": "kgc-challenge",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "url": "https://github.com/kg-construct/kgc-challenge",
+  "description": "Repository for the KGC Challenge",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "mapping-challenges",
   "owner": {
    "login": "kg-construct"
