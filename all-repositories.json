@@ -24305,27 +24305,6 @@
   "isPrivate": false
  },
  {
-  "name": "merchantcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/merchantcg",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    125898
-   ],
-   "contacts": [
-    "ntelford"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "microdata",
   "owner": {
    "login": "w3c"
