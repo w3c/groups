@@ -21951,27 +21951,6 @@
   }
  },
  {
-  "name": "merchantcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/merchantcg",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/merchant"
-   ],
-   "contacts": [
-    "ntelford"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "microdata-rdf",
   "owner": {
    "login": "w3c"
