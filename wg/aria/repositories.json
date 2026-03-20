@@ -166,6 +166,30 @@
   }
  },
  {
+  "name": "css-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/css-aam",
+  "description": "CSS Accessibility API Mappings and work of the CSS Accessibility Task Force.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "policy": "restricted",
+   "shortName": "css-aam-1.0",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "dpub-aam",
   "owner": {
    "login": "w3c"
