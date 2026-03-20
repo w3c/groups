@@ -17702,9 +17702,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "tf/css-a11y"
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo"
    ],
    "policy": "restricted",
+   "shortName": "css-aam-1.0",
    "repo-type": [
     "rec-track"
    ],
