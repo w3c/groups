@@ -850,6 +850,21 @@
   }
  },
  {
+  "name": "mapmlify",
+  "owner": {
+   "login": "Maps4HTML"
+  },
+  "url": "https://github.com/Maps4HTML/mapmlify",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/maps4html"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "mapserver",
   "owner": {
    "login": "Maps4HTML"
