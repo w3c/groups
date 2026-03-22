@@ -549,7 +549,7 @@
   },
   "url": "https://github.com/Maps4HTML/MapML.js",
   "homepageUrl": "https://maps4html.org/MapML.js/",
-  "description": "A custom <mapml-viewer> and <layer-> element suite",
+  "description": "A custom <mapml-viewer> and <map-layer> element suite",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -855,6 +855,8 @@
    "login": "Maps4HTML"
   },
   "url": "https://github.com/Maps4HTML/mapmlify",
+  "homepageUrl": "https://maps4html.org/mapmlify/",
+  "description": "Read capabilities document, create MapML maps and layers for copying",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
