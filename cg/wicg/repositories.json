@@ -1916,28 +1916,6 @@
   }
  },
  {
-  "name": "pointer-event-extensions",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/pointer-event-extensions",
-  "description": "Extensions to PointerEvents",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "portals",
   "owner": {
    "login": "WICG"
@@ -2063,27 +2041,6 @@
    ],
    "contacts": [
     "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "pwa-url-handler",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/pwa-url-handler",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "travisleithead"
    ],
    "repo-type": [
     "cg-report"
@@ -2424,26 +2381,6 @@
   }
  },
  {
-  "name": "spatial-navigation",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/spatial-navigation",
-  "homepageUrl": "https://drafts.csswg.org/css-nav-1/",
-  "description": "Directional focus navigation with arrow keys",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "speculative_load_measurement",
   "owner": {
    "login": "WICG"
@@ -2502,28 +2439,6 @@
    ],
    "contacts": [
     "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "storage-foundation-api-explainer",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/storage-foundation-api-explainer",
-  "description": "Explainer showcasing a new web storage API, NativeIO",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
    ],
    "repo-type": [
     "cg-report"
