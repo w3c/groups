@@ -214,29 +214,6 @@
   }
  },
  {
-  "name": "did-wg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/did-wg",
-  "homepageUrl": "https://www.w3.org/2019/did-wg/",
-  "description": "Home page of the Decentralized Identifier Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/did"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "did-wg-charter",
   "owner": {
    "login": "w3c"
