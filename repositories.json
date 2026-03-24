@@ -4277,49 +4277,6 @@
   }
  },
  {
-  "name": "wicg.github.io",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/wicg.github.io",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/html"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "wicg.io",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/wicg.io",
-  "description": "Repository for the website: https://wicg.io (staging site at: https://wicg.github.io/wicg.io)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/html"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "window-controls-overlay",
   "owner": {
    "login": "WICG"
@@ -6324,28 +6281,6 @@
   "w3cjson": {
    "group": [
     "cg/a11yedge"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "overlays",
-  "owner": {
-   "login": "a11yedge"
-  },
-  "url": "https://github.com/a11yedge/overlays",
-  "description": "Overlays as examined by the W3C Accessibility at the Edge Community Group.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/apa"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "repo-type": [
-    "note"
    ],
    "exposed": true
   }
@@ -14319,30 +14254,6 @@
   }
  },
  {
-  "name": "vc-api-use-cases",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "url": "https://github.com/w3c-ccg/vc-api-use-cases",
-  "homepageUrl": "https://w3c-ccg.github.io/vc-api-use-cases/index.html",
-  "description": "Use Cases document in support of the CCG work item, VC-API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "shortName": "vc-api-use-cases",
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "vc-api-verifier-test-suite",
   "owner": {
    "login": "w3c-ccg"
@@ -14439,30 +14350,6 @@
    "group": [
     "cg/credentials"
    ],
-   "exposed": true
-  }
- },
- {
-  "name": "vc-refresh",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "url": "https://github.com/w3c-ccg/vc-refresh",
-  "homepageUrl": "https://w3c-ccg.github.io/vc-refresh/",
-  "description": "A data model and protocol for refreshing Verifiable Credentials.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/vc"
-   ],
-   "contacts": [
-    "msporny"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "shortName": "vc-refresh-2021",
    "exposed": true
   }
  },
