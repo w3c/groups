@@ -25,5 +25,15 @@
     "group": [ "cg/gpu" ] },
   { "login":  "openui",
     "group": [ "cg/open-ui" ] }
+  ],
+  "trustedOwners": [
+    "w3c",
+    "webaudio",
+    "webmachinelearning",
+    "webassembly",
+    "immersive-web",
+    "w3ctag",
+    "w3cping",
+    "gpuweb"
   ]
 }
