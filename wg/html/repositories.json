@@ -1,48 +1,5 @@
 [
  {
-  "name": "wicg.github.io",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/wicg.github.io",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/html"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "wicg.io",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/wicg.io",
-  "description": "Repository for the website: https://wicg.io (staging site at: https://wicg.github.io/wicg.io)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/html"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "alt-techniques",
   "owner": {
    "login": "w3c"
