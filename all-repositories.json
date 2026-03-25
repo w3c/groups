@@ -15641,6 +15641,32 @@
   }
  },
  {
+  "name": "agentic-federated-login",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "url": "https://github.com/w3c-fedid/agentic-federated-login",
+  "description": "A set of proposals to extend FedCM to provide a structured tool to agentic browsers to allow users to login to websites using their federated accounts",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "custom-requests",
   "owner": {
    "login": "w3c-fedid"
@@ -15798,6 +15824,32 @@
    "login": "w3c-fedid"
   },
   "url": "https://github.com/w3c-fedid/multi-idp",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "potentially-approved-sites",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "url": "https://github.com/w3c-fedid/potentially-approved-sites",
+  "description": "A proposal to extend the FedCM accounts endpoint metadata with potentially approved sites",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
