@@ -20775,30 +20775,6 @@
   }
  },
  {
-  "name": "geolocation-sensor",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/geolocation-sensor",
-  "homepageUrl": "https://www.w3.org/TR/geolocation-sensor/",
-  "description": "Geolocation Sensor",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    43696
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "gh-backup",
   "owner": {
    "login": "w3c"
