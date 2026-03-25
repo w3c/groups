@@ -19181,30 +19181,6 @@
   }
  },
  {
-  "name": "geolocation-sensor",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/geolocation-sensor",
-  "homepageUrl": "https://www.w3.org/TR/geolocation-sensor/",
-  "description": "Geolocation Sensor",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/das"
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "gpc",
   "owner": {
    "login": "w3c"
