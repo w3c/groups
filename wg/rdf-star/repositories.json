@@ -266,6 +266,27 @@
   }
  },
  {
+  "name": "rdf-threat-model",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/rdf-threat-model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "rdf-trig",
   "owner": {
    "login": "w3c"
