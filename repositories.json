@@ -18866,31 +18866,6 @@
   }
  },
  {
-  "name": "equity-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/equity-cg",
-  "homepageUrl": "https://www.w3.org/community/equity/",
-  "description": "Equity Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/equity"
-   ],
-   "contacts": [
-    "michael-n-cooper",
-    "jenstrickland"
-   ],
-   "repo-type": [
-    "cg-report",
-    "process"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "eurlreq",
   "owner": {
    "login": "w3c"
