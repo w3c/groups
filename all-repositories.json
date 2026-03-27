@@ -32671,30 +32671,6 @@
   }
  },
  {
-  "name": "web-nfc",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/web-nfc",
-  "homepageUrl": "https://w3c.github.io/web-nfc/",
-  "description": "Web NFC",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    76978
-   ],
-   "contacts": [
-    "anssiko",
-    "ashimura"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "web-of-things-framework",
   "owner": {
    "login": "w3c"
