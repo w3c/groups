@@ -6312,6 +6312,21 @@
   }
  },
  {
+  "name": "webview-testing-automations",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "url": "https://github.com/WebView-CG/webview-testing-automations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "capabilities",
   "owner": {
    "login": "a11yedge"
