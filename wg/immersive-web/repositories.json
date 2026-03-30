@@ -232,6 +232,29 @@
   }
  },
  {
+  "name": "plane-detection",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "url": "https://github.com/immersive-web/plane-detection",
+  "homepageUrl": "https://immersive-web.github.io/plane-detection/",
+  "description": "Additions to WebXR Device API for exposing detected planes.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "privacy-and-security",
   "owner": {
    "login": "immersive-web"
