@@ -7727,6 +7727,29 @@
   }
  },
  {
+  "name": "gamepad-haptics",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "url": "https://github.com/immersive-web/gamepad-haptics",
+  "description": "Joint with WebApps for a proposal for PCM haptics for gamepads",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    53154
+   ],
+   "contacts": [
+    "yourGHusername"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "geo-alignment",
   "owner": {
    "login": "immersive-web"
@@ -8101,14 +8124,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    87846
+    109735
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ],
    "exposed": true
   }
