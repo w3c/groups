@@ -4253,6 +4253,27 @@
   }
  },
  {
+  "name": "webrtc-diagnostic-logging",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/webrtc-diagnostic-logging",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "cwilso"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "webusb",
   "owner": {
    "login": "WICG"
