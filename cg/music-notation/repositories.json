@@ -1,29 +1,5 @@
 [
  {
-  "name": "mnx",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/mnx",
-  "description": "Music Notation CG next-generation music markup proposal.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/music-notation"
-   ],
-   "contacts": [
-    "adrianholovaty",
-    "dspreadbury",
-    "mscuthbert"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "mnxconverter",
   "owner": {
    "login": "w3c"
