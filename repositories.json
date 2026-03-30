@@ -8036,14 +8036,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/immersive-web"
+    "wg/immersive-web"
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
-    "cg-report"
+    "rec-track"
    ],
    "exposed": true
   }
@@ -22149,30 +22148,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "mnx",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/mnx",
-  "description": "Music Notation CG next-generation music markup proposal.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/music-notation"
-   ],
-   "contacts": [
-    "adrianholovaty",
-    "dspreadbury",
-    "mscuthbert"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
