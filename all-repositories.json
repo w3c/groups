@@ -24975,30 +24975,6 @@
   }
  },
  {
-  "name": "musicxml",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/musicxml",
-  "description": "MusicXML specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    81249
-   ],
-   "contacts": [
-    "infojunkie",
-    "adrianholovaty",
-    "dspreadbury"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "naur",
   "owner": {
    "login": "w3c"
@@ -28234,31 +28210,6 @@
    ],
    "repo-type": [
     "workshop"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "smufl",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/smufl",
-  "homepageUrl": "https://w3c.github.io/smufl/latest/",
-  "description": "Standard Music Font Layout",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    81249
-   ],
-   "contacts": [
-    "dspreadbury",
-    "adrianholovaty",
-    "mscuthbert"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
