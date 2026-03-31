@@ -13874,6 +13874,23 @@
   }
  },
  {
+  "name": "did-recovery",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "url": "https://github.com/w3c-ccg/did-recovery",
+  "homepageUrl": "https://w3c-ccg.github.io/did-recovery/",
+  "description": "DID Key Recovery Specification — A W3C CCG standard defining interoperable key recovery mechanisms for DIDs, including Social ZKP Recovery, Deterministic Seedling Inheritance, and MPC-Mediated Recovery.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "did-resolution-mocha-test-suite",
   "owner": {
    "login": "w3c-ccg"
@@ -14720,7 +14737,7 @@
   },
   "url": "https://github.com/w3c-ccg/vc-recognition",
   "homepageUrl": "https://w3c-ccg.github.io/vc-recognition/",
-  "description": "Draft specification for Verifiable Issuers and Verifiers",
+  "description": "Draft specification for VCs for Recognized Entities",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
