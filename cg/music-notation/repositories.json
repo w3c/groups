@@ -22,54 +22,5 @@
    ],
    "exposed": true
   }
- },
- {
-  "name": "musicxml",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/musicxml",
-  "description": "MusicXML specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/music-notation"
-   ],
-   "contacts": [
-    "infojunkie",
-    "adrianholovaty",
-    "dspreadbury"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "smufl",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/smufl",
-  "homepageUrl": "https://w3c.github.io/smufl/latest/",
-  "description": "Standard Music Font Layout",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/music-notation"
-   ],
-   "contacts": [
-    "dspreadbury",
-    "adrianholovaty",
-    "mscuthbert"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  }
 ]
