@@ -18255,6 +18255,16 @@
   }
  },
  {
+  "name": "cg-spec-metadata",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/cg-spec-metadata",
+  "description": "A project to collect metadata on CG specifications",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
   "name": "character_phrase_tests",
   "owner": {
    "login": "w3c"
