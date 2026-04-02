@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "exi-specs",
   "owner": {
    "login": "w3c"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "exi-testsuite",
   "owner": {
    "login": "w3c"
