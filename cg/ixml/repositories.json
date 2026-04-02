@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dashboard",
   "owner": {
    "login": "invisibleXML"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ixml",
   "owner": {
    "login": "invisibleXML"
