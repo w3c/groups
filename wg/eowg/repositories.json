@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wai-bad-demo",
   "owner": {
    "login": "w3c"
@@ -25,6 +26,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wai-eval-tools",
   "owner": {
    "login": "w3c"
@@ -50,6 +52,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wai-media-intro",
   "owner": {
    "login": "w3c"
@@ -73,6 +76,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wai-mobile-intro",
   "owner": {
    "login": "w3c"
@@ -97,6 +101,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wai-wcag-em-report-tool",
   "owner": {
    "login": "w3c"
@@ -122,6 +127,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wai-wcag-quickref",
   "owner": {
    "login": "w3c"
