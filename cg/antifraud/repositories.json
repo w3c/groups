@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "antifraudcg"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "antifraudcg"
@@ -41,7 +41,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "antifraudcg.github.io",
   "owner": {
    "login": "antifraudcg"
@@ -64,7 +64,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "antifraudcg"
@@ -88,7 +88,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "pact",
   "owner": {
    "login": "antifraudcg"
@@ -105,7 +105,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "antifraudcg"
@@ -129,7 +129,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "template",
   "owner": {
    "login": "antifraudcg"
@@ -153,7 +153,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "use-cases",
   "owner": {
    "login": "antifraudcg"
