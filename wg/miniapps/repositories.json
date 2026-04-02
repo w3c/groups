@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp",
   "owner": {
    "login": "w3c"
@@ -25,7 +25,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-addressing",
   "owner": {
    "login": "w3c"
@@ -50,7 +50,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-lifecycle",
   "owner": {
    "login": "w3c"
@@ -75,7 +75,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-manifest",
   "owner": {
    "login": "w3c"
@@ -100,7 +100,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-packaging",
   "owner": {
    "login": "w3c"
@@ -125,7 +125,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-tests",
   "owner": {
    "login": "w3c"
@@ -148,7 +148,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-white-paper",
   "owner": {
    "login": "w3c"
@@ -173,7 +173,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp-widget",
   "owner": {
    "login": "w3c"
