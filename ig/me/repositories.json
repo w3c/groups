@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "me-media-integration-guidelines",
   "owner": {
    "login": "w3c"
@@ -25,6 +26,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "me-media-production",
   "owner": {
    "login": "w3c"
@@ -48,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "me-media-timed-events",
   "owner": {
    "login": "w3c"
@@ -71,6 +74,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "me-next-generation-audio",
   "owner": {
    "login": "w3c"
@@ -93,6 +97,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "me-vision",
   "owner": {
    "login": "w3c"
@@ -117,6 +122,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "media-and-entertainment",
   "owner": {
    "login": "w3c"
@@ -140,6 +146,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tv-ggie",
   "owner": {
    "login": "w3c"
