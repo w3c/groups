@@ -47,7 +47,7 @@
  "type": "working group",
  "start-date": "1997-12-17",
  "end-date": "2015-11-05",
- "@context": "/contexts/group.jsonld",
+ "@context": "/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/uaag"
