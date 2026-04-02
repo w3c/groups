@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "hns-core-spec",
   "owner": {
    "login": "w3c"
