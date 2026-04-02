@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "awesome-webmcp",
   "owner": {
    "login": "webmachinelearning"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "awesome-webnn",
   "owner": {
    "login": "webmachinelearning"
@@ -34,7 +34,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "charter",
   "owner": {
    "login": "webmachinelearning"
@@ -52,7 +52,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "daop",
   "owner": {
    "login": "webmachinelearning"
@@ -69,7 +69,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "hybrid-ai",
   "owner": {
    "login": "webmachinelearning"
@@ -86,7 +86,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "webmachinelearning"
@@ -103,7 +103,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "model-loader",
   "owner": {
    "login": "webmachinelearning"
@@ -121,7 +121,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "prompt-api",
   "owner": {
    "login": "webmachinelearning"
@@ -145,7 +145,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "proofreader-api",
   "owner": {
    "login": "webmachinelearning"
@@ -163,7 +163,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "webmachinelearning"
@@ -180,7 +180,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "test-data",
   "owner": {
    "login": "webmachinelearning"
@@ -197,7 +197,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "translation-api",
   "owner": {
    "login": "webmachinelearning"
@@ -221,7 +221,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webmachinelearning.github.io",
   "owner": {
    "login": "webmachinelearning"
@@ -239,7 +239,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webmcp",
   "owner": {
    "login": "webmachinelearning"
@@ -263,7 +263,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webnn-baseline",
   "owner": {
    "login": "webmachinelearning"
@@ -280,7 +280,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webnn-docs",
   "owner": {
    "login": "webmachinelearning"
@@ -298,7 +298,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webnn-native",
   "owner": {
    "login": "webmachinelearning"
@@ -315,7 +315,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webnn-samples",
   "owner": {
    "login": "webmachinelearning"
@@ -333,7 +333,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webnn-samples-test-framework",
   "owner": {
    "login": "webmachinelearning"
@@ -350,7 +350,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webnn-types",
   "owner": {
    "login": "webmachinelearning"
@@ -367,7 +367,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "writing-assistance-apis",
   "owner": {
    "login": "webmachinelearning"
