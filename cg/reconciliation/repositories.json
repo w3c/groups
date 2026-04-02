@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "census",
   "owner": {
    "login": "reconciliation-api"
@@ -18,7 +18,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "charter",
   "owner": {
    "login": "reconciliation-api"
@@ -36,7 +36,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "reconciliation-api.github.io",
   "owner": {
    "login": "reconciliation-api"
@@ -53,7 +53,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "specs",
   "owner": {
    "login": "reconciliation-api"
@@ -71,7 +71,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "testbench",
   "owner": {
    "login": "reconciliation-api"
