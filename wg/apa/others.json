@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "coga",
   "owner": {
    "login": "w3c"
