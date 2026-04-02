@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-structural-tests",
   "owner": {
    "login": "w3c"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-tests",
   "owner": {
    "login": "w3c"
@@ -47,6 +49,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-translations",
   "owner": {
    "login": "w3c"
