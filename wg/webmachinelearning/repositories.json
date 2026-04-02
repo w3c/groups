@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webmachinelearning-ethics",
   "owner": {
    "login": "webmachinelearning"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webnn",
   "owner": {
    "login": "webmachinelearning"
