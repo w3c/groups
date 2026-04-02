@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "poe",
   "owner": {
    "login": "w3c"
