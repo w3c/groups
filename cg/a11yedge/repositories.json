@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "capabilities",
   "owner": {
    "login": "a11yedge"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "community",
   "owner": {
    "login": "a11yedge"
