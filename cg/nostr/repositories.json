@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "nostrcg"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "devguide",
   "owner": {
    "login": "nostrcg"
@@ -33,6 +35,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-nostr",
   "owner": {
    "login": "nostrcg"
@@ -50,6 +53,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "http-schnorr-auth",
   "owner": {
    "login": "nostrcg"
@@ -67,6 +71,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "schema",
   "owner": {
    "login": "nostrcg"
@@ -84,6 +89,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "userguide",
   "owner": {
    "login": "nostrcg"
