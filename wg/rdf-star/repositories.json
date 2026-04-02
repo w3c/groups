@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-common",
   "owner": {
    "login": "w3c"
@@ -23,7 +23,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-concepts",
   "owner": {
    "login": "w3c"
@@ -46,7 +46,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-interop",
   "owner": {
    "login": "w3c"
@@ -69,7 +69,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-n-quads",
   "owner": {
    "login": "w3c"
@@ -92,7 +92,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-n-triples",
   "owner": {
    "login": "w3c"
@@ -115,7 +115,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-new",
   "owner": {
    "login": "w3c"
@@ -138,7 +138,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-primer",
   "owner": {
    "login": "w3c"
@@ -161,7 +161,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-schema",
   "owner": {
    "login": "w3c"
@@ -184,7 +184,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-semantics",
   "owner": {
    "login": "w3c"
@@ -207,7 +207,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-star-wg",
   "owner": {
    "login": "w3c"
@@ -230,7 +230,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-star-wg-charter",
   "owner": {
    "login": "w3c"
@@ -253,7 +253,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-tests",
   "owner": {
    "login": "w3c"
@@ -278,7 +278,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-threat-model",
   "owner": {
    "login": "w3c"
@@ -302,7 +302,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-trig",
   "owner": {
    "login": "w3c"
@@ -325,7 +325,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-turtle",
   "owner": {
    "login": "w3c"
@@ -348,7 +348,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-ucr",
   "owner": {
    "login": "w3c"
@@ -371,7 +371,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "rdf-xml",
   "owner": {
    "login": "w3c"
@@ -394,7 +394,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-concepts",
   "owner": {
    "login": "w3c"
@@ -417,7 +417,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-entailment",
   "owner": {
    "login": "w3c"
@@ -440,7 +440,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-federated-query",
   "owner": {
    "login": "w3c"
@@ -463,7 +463,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-graph-store-protocol",
   "owner": {
    "login": "w3c"
@@ -486,7 +486,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-new",
   "owner": {
    "login": "w3c"
@@ -509,7 +509,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-protocol",
   "owner": {
    "login": "w3c"
@@ -532,7 +532,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-query",
   "owner": {
    "login": "w3c"
@@ -555,7 +555,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-results-csv-tsv",
   "owner": {
    "login": "w3c"
@@ -578,7 +578,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-results-json",
   "owner": {
    "login": "w3c"
@@ -601,7 +601,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-results-xml",
   "owner": {
    "login": "w3c"
@@ -624,7 +624,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-service-description",
   "owner": {
    "login": "w3c"
@@ -647,7 +647,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sparql-update",
   "owner": {
    "login": "w3c"
