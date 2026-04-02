@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "openscreenprotocol",
   "owner": {
    "login": "w3c"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "presentation-api",
   "owner": {
    "login": "w3c"
@@ -46,6 +48,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "remote-playback",
   "owner": {
    "login": "w3c"
@@ -70,6 +73,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "secondscreen-charter",
   "owner": {
    "login": "w3c"
@@ -94,6 +98,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "secondscreen-wg",
   "owner": {
    "login": "w3c"
@@ -118,6 +123,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "window-management",
   "owner": {
    "login": "w3c"
