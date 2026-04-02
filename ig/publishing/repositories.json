@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "dpub-pwp-ucr",
   "owner": {
    "login": "w3c"
