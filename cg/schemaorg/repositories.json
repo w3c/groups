@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "SchemaPages",
   "owner": {
    "login": "schemaorg"
@@ -16,7 +16,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "doc_update",
   "owner": {
    "login": "schemaorg"
@@ -34,7 +34,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "docsite",
   "owner": {
    "login": "schemaorg"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "gh_pages",
   "owner": {
    "login": "schemaorg"
@@ -68,7 +68,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "quantity_datatype",
   "owner": {
    "login": "schemaorg"
@@ -86,7 +86,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "schemaorg",
   "owner": {
    "login": "schemaorg"
@@ -104,7 +104,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "schemarama",
   "owner": {
    "login": "schemaorg"
@@ -121,7 +121,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "sdopythonapp",
   "owner": {
    "login": "schemaorg"
@@ -139,7 +139,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "suggestions-questions-brainstorming",
   "owner": {
    "login": "schemaorg"
