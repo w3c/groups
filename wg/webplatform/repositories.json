@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "DOM-Parsing",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "html-media",
   "owner": {
    "login": "w3c"
@@ -45,6 +47,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "html-transcript",
   "owner": {
    "login": "w3c"
@@ -67,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "microdata-rdf",
   "owner": {
    "login": "w3c"
@@ -89,6 +93,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "subline",
   "owner": {
    "login": "w3c"
@@ -111,6 +116,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "unspecified-web",
   "owner": {
    "login": "w3c"
