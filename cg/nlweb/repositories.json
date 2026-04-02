@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "NLWeb",
   "owner": {
    "login": "nlweb-ai"
