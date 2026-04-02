@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cg-charter",
   "owner": {
    "login": "webscreens"
@@ -18,7 +18,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "demo",
   "owner": {
    "login": "webscreens"
@@ -36,7 +36,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "form-factors",
   "owner": {
    "login": "webscreens"
@@ -54,7 +54,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "presentation-api",
   "owner": {
    "login": "webscreens"
@@ -71,7 +71,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "requestshowmedia",
   "owner": {
    "login": "webscreens"
@@ -89,7 +89,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "site-initiated-mirroring",
   "owner": {
    "login": "webscreens"
@@ -107,7 +107,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "slidyremote",
   "owner": {
    "login": "webscreens"
@@ -125,7 +125,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webscreens.github.io",
   "owner": {
    "login": "webscreens"
@@ -142,7 +142,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wg-charter",
   "owner": {
    "login": "webscreens"
@@ -160,7 +160,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "window-segments",
   "owner": {
    "login": "webscreens"
@@ -177,7 +177,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "xref",
   "owner": {
    "login": "webscreens"
