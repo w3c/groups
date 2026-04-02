@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "findtext",
   "owner": {
    "login": "w3c"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-annotation",
   "owner": {
    "login": "w3c"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-annotation-tests",
   "owner": {
    "login": "w3c"
