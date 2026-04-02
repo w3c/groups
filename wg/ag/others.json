@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "coga",
   "owner": {
    "login": "w3c"
@@ -26,7 +26,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "low-vision-SC",
   "owner": {
    "login": "w3c"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "low-vision-a11y-tf",
   "owner": {
    "login": "w3c"
