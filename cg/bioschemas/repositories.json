@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "BMUSE",
   "owner": {
    "login": "BioSchemas"
@@ -18,7 +18,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "BioschemasMarkupGenerator",
   "owner": {
    "login": "BioSchemas"
@@ -36,7 +36,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "LearningPath-sandbox",
   "owner": {
    "login": "BioSchemas"
@@ -53,7 +53,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ProfileGenerator",
   "owner": {
    "login": "BioSchemas"
@@ -70,7 +70,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "RubyExtractor",
   "owner": {
    "login": "BioSchemas"
@@ -87,7 +87,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bio.schemas.science",
   "owner": {
    "login": "BioSchemas"
@@ -104,7 +104,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "biohackathon2023-p23-report",
   "owner": {
    "login": "BioSchemas"
@@ -121,7 +121,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "biojs-vis-bioschemas-event-list",
   "owner": {
    "login": "BioSchemas"
@@ -138,7 +138,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-data-harvesting",
   "owner": {
    "login": "BioSchemas"
@@ -155,7 +155,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-dde",
   "owner": {
    "login": "BioSchemas"
@@ -172,7 +172,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-goweb",
   "owner": {
    "login": "BioSchemas"
@@ -189,7 +189,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-pdbe-adapter",
   "owner": {
    "login": "BioSchemas"
@@ -206,7 +206,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-protein-render",
   "owner": {
    "login": "BioSchemas"
@@ -223,7 +223,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-uniprot-adapter",
   "owner": {
    "login": "BioSchemas"
@@ -240,7 +240,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas-validation",
   "owner": {
    "login": "BioSchemas"
@@ -257,7 +257,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas.github.io",
   "owner": {
    "login": "BioSchemas"
@@ -275,7 +275,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bioschemas_specification_releases",
   "owner": {
    "login": "BioSchemas"
@@ -292,7 +292,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "governance",
   "owner": {
    "login": "BioSchemas"
@@ -309,7 +309,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ml-markup-tutorial",
   "owner": {
    "login": "BioSchemas"
@@ -326,7 +326,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "schemaorg",
   "owner": {
    "login": "BioSchemas"
@@ -344,7 +344,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "specifications",
   "owner": {
    "login": "BioSchemas"
@@ -362,7 +362,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "w3id.org",
   "owner": {
    "login": "BioSchemas"
