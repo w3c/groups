@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "swicg"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activity-summary",
   "owner": {
    "login": "swicg"
@@ -32,6 +34,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activity-summary-bot",
   "owner": {
    "login": "swicg"
@@ -47,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-api",
   "owner": {
    "login": "swicg"
@@ -63,6 +67,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-data-portability",
   "owner": {
    "login": "swicg"
@@ -80,6 +85,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-e2ee",
   "owner": {
    "login": "swicg"
@@ -96,6 +102,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-html-discovery",
   "owner": {
    "login": "swicg"
@@ -111,6 +118,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-http-signature",
   "owner": {
    "login": "swicg"
@@ -128,6 +136,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-remix",
   "owner": {
    "login": "swicg"
@@ -144,6 +153,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-trust-and-safety",
   "owner": {
    "login": "swicg"
@@ -161,6 +171,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-webfinger",
   "owner": {
    "login": "swicg"
@@ -178,6 +189,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub-website-taskforce",
   "owner": {
    "login": "swicg"
@@ -194,6 +206,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub.rocks",
   "owner": {
    "login": "swicg"
@@ -210,6 +223,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ap-test-suite-taskforce",
   "owner": {
    "login": "swicg"
@@ -226,6 +240,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "extensions-policy",
   "owner": {
    "login": "swicg"
@@ -241,6 +256,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "forums",
   "owner": {
    "login": "swicg"
@@ -257,6 +273,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "general",
   "owner": {
    "login": "swicg"
@@ -274,6 +291,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "geosocial",
   "owner": {
    "login": "swicg"
@@ -290,6 +308,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "groups",
   "owner": {
    "login": "swicg"
@@ -306,6 +325,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "swicg"
@@ -322,6 +342,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "miscellany",
   "owner": {
    "login": "swicg"
@@ -338,6 +359,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "potential-charters",
   "owner": {
    "login": "swicg"
@@ -354,6 +376,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "processes",
   "owner": {
    "login": "swicg"
@@ -370,6 +393,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "specification-template",
   "owner": {
    "login": "swicg"
@@ -386,6 +410,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "test.activitypub.rocks",
   "owner": {
    "login": "swicg"
@@ -402,6 +427,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "www",
   "owner": {
    "login": "swicg"
