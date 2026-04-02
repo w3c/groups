@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "interactive-media-cg",
   "owner": {
    "login": "w3c"
