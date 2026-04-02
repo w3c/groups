@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "loading-control-games",
   "owner": {
    "login": "w3c-cg"
