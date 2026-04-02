@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "WebView-CG"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "CanIAndroidWebView",
   "owner": {
    "login": "WebView-CG"
@@ -32,6 +34,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "CanITauriVersoWebView",
   "owner": {
    "login": "WebView-CG"
@@ -47,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "CanIWKWebView",
   "owner": {
    "login": "WebView-CG"
@@ -63,6 +67,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "CanIWebView2",
   "owner": {
    "login": "WebView-CG"
@@ -79,6 +84,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Compatibility-Data-Project",
   "owner": {
    "login": "WebView-CG"
@@ -96,6 +102,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "charter",
   "owner": {
    "login": "WebView-CG"
@@ -113,6 +120,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "explainers",
   "owner": {
    "login": "WebView-CG"
@@ -129,6 +137,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "WebView-CG"
@@ -145,6 +154,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tpac",
   "owner": {
    "login": "WebView-CG"
@@ -162,6 +172,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "usage-and-challenges",
   "owner": {
    "login": "WebView-CG"
@@ -185,6 +196,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webview-bcd-results",
   "owner": {
    "login": "WebView-CG"
@@ -200,6 +212,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webview-definition",
   "owner": {
    "login": "WebView-CG"
@@ -223,6 +236,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webview-handbook",
   "owner": {
    "login": "WebView-CG"
@@ -238,6 +252,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webview-market-share",
   "owner": {
    "login": "WebView-CG"
@@ -253,6 +268,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webview-survey",
   "owner": {
    "login": "WebView-CG"
@@ -269,6 +285,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webview-testing-automations",
   "owner": {
    "login": "WebView-CG"
