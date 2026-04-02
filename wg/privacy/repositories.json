@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "adding-permissions",
   "owner": {
    "login": "w3c"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "credential-considerations",
   "owner": {
    "login": "w3c"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "fingerprinting-guidance",
   "owner": {
    "login": "w3c"
@@ -69,6 +72,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "gpc",
   "owner": {
    "login": "w3c"
@@ -92,6 +96,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "privacy-considerations",
   "owner": {
    "login": "w3c"
@@ -115,6 +120,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "privacywg",
   "owner": {
    "login": "w3c"
@@ -138,6 +144,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "security-questionnaire",
   "owner": {
    "login": "w3c"
@@ -163,6 +170,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "privacy-request",
   "owner": {
    "login": "w3cping"
@@ -186,6 +194,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tracking-issues",
   "owner": {
    "login": "w3cping"
