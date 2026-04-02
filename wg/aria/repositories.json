@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "accname",
   "owner": {
    "login": "w3c"
@@ -25,7 +25,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "apg-redesign",
   "owner": {
    "login": "w3c"
@@ -47,7 +47,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "aria",
   "owner": {
    "login": "w3c"
@@ -73,7 +73,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "aria-common",
   "owner": {
    "login": "w3c"
@@ -97,7 +97,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "aria-practices",
   "owner": {
    "login": "w3c"
@@ -122,7 +122,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "core-aam",
   "owner": {
    "login": "w3c"
@@ -147,7 +147,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "css-a11y",
   "owner": {
    "login": "w3c"
@@ -173,7 +173,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "css-aam",
   "owner": {
    "login": "w3c"
@@ -198,7 +198,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "dpub-aam",
   "owner": {
    "login": "w3c"
@@ -223,7 +223,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "dpub-aria",
   "owner": {
    "login": "w3c"
@@ -247,7 +247,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "graphics-aam",
   "owner": {
    "login": "w3c"
@@ -272,7 +272,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "graphics-aria",
   "owner": {
    "login": "w3c"
@@ -297,7 +297,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "html-aam",
   "owner": {
    "login": "w3c"
@@ -324,7 +324,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "html-aria",
   "owner": {
    "login": "w3c"
@@ -349,7 +349,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "mathml-aam",
   "owner": {
    "login": "w3c"
@@ -374,7 +374,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "pdf-aam",
   "owner": {
    "login": "w3c"
