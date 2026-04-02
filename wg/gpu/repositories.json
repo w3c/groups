@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cts",
   "owner": {
    "login": "gpuweb"
@@ -26,6 +27,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "gpuweb",
   "owner": {
    "login": "gpuweb"
