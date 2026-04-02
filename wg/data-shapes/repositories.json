@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "data-shapes",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shacl-resources",
   "owner": {
    "login": "w3c"
