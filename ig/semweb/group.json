@@ -47,7 +47,7 @@
  "type": "interest group",
  "start-date": "1999-08-09",
  "end-date": "2016-07-30",
- "@context": "/groups/contexts/group.jsonld",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/semweb"
