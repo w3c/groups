@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "audio-session",
   "owner": {
    "login": "w3c"
@@ -25,7 +25,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "autoplay",
   "owner": {
    "login": "w3c"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "charter-media-wg",
   "owner": {
    "login": "w3c"
@@ -75,7 +75,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "encrypted-media",
   "owner": {
    "login": "w3c"
@@ -101,7 +101,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "media-capabilities",
   "owner": {
    "login": "w3c"
@@ -127,7 +127,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "media-pipeline-arch",
   "owner": {
    "login": "w3c"
@@ -152,7 +152,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "media-playback-quality",
   "owner": {
    "login": "w3c"
@@ -178,7 +178,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "media-source",
   "owner": {
    "login": "w3c"
@@ -204,7 +204,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "media-wg",
   "owner": {
    "login": "w3c"
@@ -229,7 +229,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mediasession",
   "owner": {
    "login": "w3c"
@@ -255,7 +255,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mse-byte-stream-format-isobmff",
   "owner": {
    "login": "w3c"
@@ -281,7 +281,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mse-byte-stream-format-mp2t",
   "owner": {
    "login": "w3c"
@@ -307,7 +307,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mse-byte-stream-format-mpeg-audio",
   "owner": {
    "login": "w3c"
@@ -333,7 +333,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mse-byte-stream-format-registry",
   "owner": {
    "login": "w3c"
@@ -359,7 +359,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mse-byte-stream-format-webm",
   "owner": {
    "login": "w3c"
@@ -385,7 +385,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "picture-in-picture",
   "owner": {
    "login": "w3c"
@@ -411,7 +411,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webcodecs",
   "owner": {
    "login": "w3c"
