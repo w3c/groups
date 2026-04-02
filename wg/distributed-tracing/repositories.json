@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "baggage",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "distributed-tracing-wg",
   "owner": {
    "login": "w3c"
@@ -48,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "trace-context",
   "owner": {
    "login": "w3c"
@@ -72,6 +75,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "trace-context-protocols-registry",
   "owner": {
    "login": "w3c"
@@ -96,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "trace-interchange-format",
   "owner": {
    "login": "w3c"
@@ -120,6 +125,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "trace-response-headers",
   "owner": {
    "login": "w3c"
@@ -144,6 +150,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tracestate-ids-registry",
   "owner": {
    "login": "w3c"
