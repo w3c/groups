@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "Blue-Bike-to-OSLO",
   "owner": {
    "login": "TREEcg"
@@ -16,7 +16,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "LDES-Action",
   "owner": {
    "login": "TREEcg"
@@ -33,7 +33,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "LDES-Announcements",
   "owner": {
    "login": "TREEcg"
@@ -49,7 +49,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "LDES-Extractor",
   "owner": {
    "login": "TREEcg"
@@ -66,7 +66,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "LDES-Snapshot",
   "owner": {
    "login": "TREEcg"
@@ -83,7 +83,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "LDES-timeseries",
   "owner": {
    "login": "TREEcg"
@@ -99,7 +99,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "SmartDataStreams-Spec",
   "owner": {
    "login": "TREEcg"
@@ -117,7 +117,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "TREE-Guided-Link-Traversal-Query-Processing-Evaluation",
   "owner": {
    "login": "TREEcg"
@@ -133,7 +133,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "TREE-LDES-visualizer",
   "owner": {
    "login": "TREEcg"
@@ -151,7 +151,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "bucketizers",
   "owner": {
    "login": "TREEcg"
@@ -168,7 +168,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "comunica-feature-tree",
   "owner": {
    "login": "TREEcg"
@@ -185,7 +185,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "connectors",
   "owner": {
    "login": "TREEcg"
@@ -202,7 +202,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "demo_data",
   "owner": {
    "login": "TREEcg"
@@ -218,7 +218,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "extract-cbd-shape",
   "owner": {
    "login": "TREEcg"
@@ -236,7 +236,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "hamburg-SensorThingsAPI2LDES",
   "owner": {
    "login": "TREEcg"
@@ -253,7 +253,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "jQuery-Widget.js",
   "owner": {
    "login": "TREEcg"
@@ -271,7 +271,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ngsi-ld-source-selection",
   "owner": {
    "login": "TREEcg"
@@ -287,7 +287,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ngsi-ldes",
   "owner": {
    "login": "TREEcg"
@@ -304,7 +304,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "paper-materializable-interfaces",
   "owner": {
    "login": "TREEcg"
@@ -322,7 +322,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "site",
   "owner": {
    "login": "TREEcg"
@@ -340,7 +340,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "specification",
   "owner": {
    "login": "TREEcg"
@@ -358,7 +358,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "substring_fragmenter",
   "owner": {
    "login": "TREEcg"
@@ -374,7 +374,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tree-metadata-extraction",
   "owner": {
    "login": "TREEcg"
@@ -391,7 +391,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tree_index",
   "owner": {
    "login": "TREEcg"
@@ -408,7 +408,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "treemunica",
   "owner": {
    "login": "TREEcg"
@@ -426,7 +426,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "treemunica_typeahead_demo",
   "owner": {
    "login": "TREEcg"
@@ -443,7 +443,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "types",
   "owner": {
    "login": "TREEcg"
@@ -460,7 +460,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "version-materialize-rdf.js",
   "owner": {
    "login": "TREEcg"
