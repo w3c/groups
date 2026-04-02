@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "a11y-discov-vocab",
   "owner": {
    "login": "w3c"
