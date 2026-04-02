@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "privacycg"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "CHIPS",
   "owner": {
    "login": "privacycg"
@@ -40,7 +40,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ad-topic-hints",
   "owner": {
    "login": "privacycg"
@@ -67,7 +67,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "privacycg"
@@ -96,7 +96,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "is-logged-in",
   "owner": {
    "login": "privacycg"
@@ -123,7 +123,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "js-membranes",
   "owner": {
    "login": "privacycg"
@@ -150,7 +150,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "privacycg"
@@ -179,7 +179,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "nav-tracking-mitigations",
   "owner": {
    "login": "privacycg"
@@ -207,7 +207,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "privacycg.github.io",
   "owner": {
    "login": "privacycg"
@@ -236,7 +236,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "private-click-measurement",
   "owner": {
    "login": "privacycg"
@@ -264,7 +264,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "privacycg"
@@ -293,7 +293,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "saa-non-cookie-storage",
   "owner": {
    "login": "privacycg"
@@ -318,7 +318,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "storage-access",
   "owner": {
    "login": "privacycg"
@@ -346,7 +346,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "storage-access-headers",
   "owner": {
    "login": "privacycg"
@@ -372,7 +372,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "storage-partitioning",
   "owner": {
    "login": "privacycg"
@@ -400,7 +400,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "template",
   "owner": {
    "login": "privacycg"
