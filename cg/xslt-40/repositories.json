@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "qtspecs",
   "owner": {
    "login": "qt4cg"
