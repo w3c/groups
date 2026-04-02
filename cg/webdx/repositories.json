@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "web-platform-dx"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "baseline-browser-mapping",
   "owner": {
    "login": "web-platform-dx"
@@ -32,6 +34,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "baseline-status",
   "owner": {
    "login": "web-platform-dx"
@@ -48,6 +51,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "bl2bl",
   "owner": {
    "login": "web-platform-dx"
@@ -63,6 +67,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "browserslist-config-baseline",
   "owner": {
    "login": "web-platform-dx"
@@ -78,6 +83,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "developer-research",
   "owner": {
    "login": "web-platform-dx"
@@ -94,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "developer-signals",
   "owner": {
    "login": "web-platform-dx"
@@ -110,6 +117,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-features",
   "owner": {
    "login": "web-platform-dx"
@@ -127,6 +135,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-features-explorer",
   "owner": {
    "login": "web-platform-dx"
@@ -144,6 +153,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-features-mappings",
   "owner": {
    "login": "web-platform-dx"
