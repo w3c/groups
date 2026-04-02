@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cloud-edge-client",
   "owner": {
    "login": "w3c-cg"
