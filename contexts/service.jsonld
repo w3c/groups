@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "rdf":  "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "s": "http://schema.org/",
+    "w3c": "https://www.w3.org/ns/w3c#",
+    "@vocab": "x-todo:",
+
+    "@language": "en",
+
+    "details": {
+      "@id": "@nest",
+      "@context": {
+        "closed": "w3c:isClosed",
+        "link": {
+          "@id": "s:serviceUrl",
+          "@type": "@id"
+        },
+        "longdesc": "s:description",
+        "shortdesc": "rdfs:label",
+        "type": {
+          "@id": "rdf:type",
+          "@type": "@vocab",
+          "@context": {
+            "blog": "w3c:BlogService",
+            "chat": "w3c:ChatService",
+            "forum": "w3c:ForumService",
+            "lists": "w3c:ListsService",
+            "mastodon": "w3c:MastodonService",
+            "other": "w3c:OtherService",
+            "repository": "w3c:RepositoryService",
+            "rss": "w3c:RssService",
+            "slack": "w3c:SlackService",
+            "tracker": "w3c:TrackerService",
+            "wiki": "w3c:WikiService",
+            "x": "w3c:ServiceX"
+          }
+        },
+        "_links": {
+          "@id": "@nest",
+          "@context": {
+            "href": "@id",
+            "self": "@nest",
+
+            "groups": "w3c:link:groups"
+          }
+        }
+      }
+    },
+    "href": null,
+    "title": "s:name"
+  }
+}

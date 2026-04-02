@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "rdf":  "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "s": "http://schema.org/",
+    "w3c": "https://www.w3.org/ns/w3c#",
+    "@vocab": "x-todo:",
+
+    "@language": "en",
+
+    "creation-date": {
+      "@id": "s:dateCreated",
+      "@type": "xsd:date"
+    },
+    "start-date": {
+      "@id": "s:startDate",
+      "@type": "xsd:date"
+    },
+    "end-date": {
+      "@id": "s:endDate",
+      "@type": "xsd:date"
+    },
+    "closed_date": {
+      "@id": "s:dateDeleted",
+      "@type": "xsd:date"
+    },
+    "description": "s:description",
+    "discr": null,
+    "group-type": {
+      "@id": "rdf:type",
+      "@type": "@vocab",
+      "@context": {
+        "bg": "w3c:BusinessGroup",
+        "cg": "w3c:CommunityGroup",
+        "ig": "w3c:InterestGroup",
+        "other": "w3c:OtherGroup",
+        "tf": "w3c:TaskForce",
+        "wg": "w3c:WorkingGroup"
+      }
+    },
+    "id": "w3c:id",
+    "identifier": {
+      "@id": "w3c:groupId",
+      "@language": null
+    },
+    "internal": null,
+    "is_closed": "w3c:isClosed",
+    "members": "s:member",
+    "name": "s:name",
+    "participants_list_public": "w3c:hasPublicParticipantList",
+    "services": {
+      "@id": "https://www.w3.org/ns/did#service",
+      "@context": [
+        null,
+        "./service.jsonld"
+      ]
+    },
+    "shortname": {
+      "@id": "w3c:shortname",
+      "@language": null
+    },
+    "spec-publisher": "w3c:specPublisher",
+    "tr-publisher": "w3c:trPublisher",
+    "type": null,
+    "_links": {
+      "@id": "@nest",
+      "@context": {
+        "href": "@id",
+        "self": "@nest",
+
+        "homepage": "s:mainEntityOfPage",
+        "join": "w3c:joinPage",
+        "pp-status": "w3c:iprPage",
+
+        "active-charter": "w3c:link:active-charter",
+        "chairs": "w3c:link:chairs",
+        "charters": "w3c:link:charters",
+        "participations": "w3c:link:participations",
+        "services": "w3c:link:services",
+        "specifications": "w3c:link:specifications",
+        "team-contacts": "w3c:link:team-contacts",
+        "users": "w3c:link:users"
+      }
+    }
+  }
+}

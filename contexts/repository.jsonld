@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "rdf":  "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "s": "http://schema.org/",
+    "w3c": "https://www.w3.org/ns/w3c#",
+    "@vocab": "x-todo:",
+
+    "@language": "en",
+
+    "url": "@id",
+    "name": {
+      "@id": "s:identifier",
+      "@language": null
+    },
+    "homepageUrl": {
+      "@id": "s:url",
+      "@type": "@id"
+    },
+    "description": "s:description",
+    "isArchived": "w3c:isArchived",
+    "isPrivate": "w3c:isPrivate",
+    "owner": {
+      "@id": "s:owner",
+      "@context": {
+        "login": {
+          "@id": "w3c:githubId",
+          "@language": null
+        }
+      }
+    },
+    "w3cjson": {
+      "@id": "w3c:w3cjson",
+      "@type": "@json"
+    }
+  }
+}
