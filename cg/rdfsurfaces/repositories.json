@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "birthday",
   "owner": {
    "login": "KNowledgeOnWebScale"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "n3s-policy-consistency-checker",
   "owner": {
    "login": "KNowledgeOnWebScale"
@@ -33,6 +35,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rdfsurfaces-tests",
   "owner": {
    "login": "eyereasoner"
