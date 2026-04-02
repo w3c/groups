@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "accelerometer",
   "owner": {
    "login": "w3c"
@@ -26,7 +26,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ambient-light",
   "owner": {
    "login": "w3c"
@@ -52,7 +52,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "battery",
   "owner": {
    "login": "w3c"
@@ -78,7 +78,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "compute-pressure",
   "owner": {
    "login": "w3c"
@@ -102,7 +102,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "contact-picker",
   "owner": {
    "login": "w3c"
@@ -127,7 +127,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "das-charter",
   "owner": {
    "login": "w3c"
@@ -151,7 +151,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "das-wg",
   "owner": {
    "login": "w3c"
@@ -175,7 +175,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "device-posture",
   "owner": {
    "login": "w3c"
@@ -201,7 +201,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "deviceorientation",
   "owner": {
    "login": "w3c"
@@ -227,7 +227,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "generic-sensor-demos",
   "owner": {
    "login": "w3c"
@@ -251,7 +251,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "geolocation",
   "owner": {
    "login": "w3c"
@@ -276,7 +276,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "gyroscope",
   "owner": {
    "login": "w3c"
@@ -302,7 +302,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "html-media-capture",
   "owner": {
    "login": "w3c"
@@ -326,7 +326,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "magnetometer",
   "owner": {
    "login": "w3c"
@@ -352,7 +352,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "motion-sensors",
   "owner": {
    "login": "w3c"
@@ -376,7 +376,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "orientation-sensor",
   "owner": {
    "login": "w3c"
@@ -402,7 +402,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "proximity",
   "owner": {
    "login": "w3c"
@@ -428,7 +428,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "screen-wake-lock",
   "owner": {
    "login": "w3c"
@@ -454,7 +454,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "sensors",
   "owner": {
    "login": "w3c"
@@ -480,7 +480,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "system-wake-lock",
   "owner": {
    "login": "w3c"
@@ -505,7 +505,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vibration",
   "owner": {
    "login": "w3c"
@@ -529,7 +529,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wake-lock",
   "owner": {
    "login": "w3c"
