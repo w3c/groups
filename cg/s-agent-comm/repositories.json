@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "s-agent-comm",
   "owner": {
    "login": "w3c-cg"
