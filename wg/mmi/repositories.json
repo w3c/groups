@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "emma",
   "owner": {
    "login": "w3c"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mmi",
   "owner": {
    "login": "w3c"
@@ -46,6 +48,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mmi-discovery",
   "owner": {
    "login": "w3c"
