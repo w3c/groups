@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "N3.js",
   "owner": {
    "login": "rdfjs"
@@ -17,6 +18,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Yasgui",
   "owner": {
    "login": "rdfjs"
@@ -34,6 +36,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "charter",
   "owner": {
    "login": "rdfjs"
@@ -50,6 +53,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "community-group",
   "owner": {
    "login": "rdfjs"
@@ -66,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "comunica-browser",
   "owner": {
    "login": "rdfjs"
@@ -82,6 +87,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "data-model-spec",
   "owner": {
    "login": "rdfjs"
@@ -99,6 +105,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dataset-spec",
   "owner": {
    "login": "rdfjs"
@@ -116,6 +123,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "lib-template",
   "owner": {
    "login": "rdfjs"
@@ -132,6 +140,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "query-spec",
   "owner": {
    "login": "rdfjs"
@@ -149,6 +158,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rdfjs.github.io",
   "owner": {
    "login": "rdfjs"
@@ -166,6 +176,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rdfxml-streaming-parser.js",
   "owner": {
    "login": "rdfjs"
@@ -183,6 +194,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "stream-spec",
   "owner": {
    "login": "rdfjs"
@@ -200,6 +212,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "types",
   "owner": {
    "login": "rdfjs"
@@ -216,6 +229,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wrapper",
   "owner": {
    "login": "rdfjs"
