@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "IFCtoLBD",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "bot",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -33,6 +35,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "lbd",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -50,6 +53,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ontologies",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -66,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "opm",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -82,6 +87,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "product",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -98,6 +104,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "project",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -114,6 +121,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "repo4doc",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -130,6 +138,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tools",
   "owner": {
    "login": "w3c-lbd-cg"
