@@ -47,7 +47,7 @@
  "type": "working group",
  "start-date": "1998-10-16",
  "end-date": "2017-08-31",
- "@context": "/groups/contexts/group.jsonld",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/xml-core"
