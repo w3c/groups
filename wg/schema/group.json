@@ -46,6 +46,7 @@
  "type": "working group",
  "start-date": "2004-06-17",
  "end-date": "2013-07-24",
+ "@context": "/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/schema"
