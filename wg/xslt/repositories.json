@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "qt4tests",
   "owner": {
    "login": "qt4cg"
@@ -26,7 +26,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "xslt40-test",
   "owner": {
    "login": "qt4cg"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "qt3tests",
   "owner": {
    "login": "w3c"
@@ -76,7 +76,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "qtspecs",
   "owner": {
    "login": "w3c"
@@ -101,7 +101,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "xslt30-test",
   "owner": {
    "login": "w3c"
