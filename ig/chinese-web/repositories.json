@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "bullet-chatting-docs",
   "owner": {
    "login": "w3c"
@@ -23,7 +23,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "chinese-ig",
   "owner": {
    "login": "w3c"
@@ -48,7 +48,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "chinese-ig-charter",
   "owner": {
    "login": "w3c"
@@ -74,7 +74,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "danmaku",
   "owner": {
    "login": "w3c"
@@ -100,7 +100,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "miniapp",
   "owner": {
    "login": "w3c"
