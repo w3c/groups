@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webmachinelearning-ethics",
   "owner": {
    "login": "webmachinelearning"
@@ -24,7 +24,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webnn",
   "owner": {
    "login": "webmachinelearning"
