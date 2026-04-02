@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "beacon",
   "owner": {
    "login": "w3c"
@@ -26,7 +26,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "charter-webperf",
   "owner": {
    "login": "w3c"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "device-memory",
   "owner": {
    "login": "w3c"
@@ -76,7 +76,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "element-timing",
   "owner": {
    "login": "w3c"
@@ -101,7 +101,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "event-timing",
   "owner": {
    "login": "w3c"
@@ -125,7 +125,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "hr-time",
   "owner": {
    "login": "w3c"
@@ -151,7 +151,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "largest-contentful-paint",
   "owner": {
    "login": "w3c"
@@ -175,7 +175,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "long-animation-frames",
   "owner": {
    "login": "w3c"
@@ -199,7 +199,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "longtasks",
   "owner": {
    "login": "w3c"
@@ -224,7 +224,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "navigation-timing",
   "owner": {
    "login": "w3c"
@@ -250,7 +250,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "network-error-logging",
   "owner": {
    "login": "w3c"
@@ -275,7 +275,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "paint-timing",
   "owner": {
    "login": "w3c"
@@ -300,7 +300,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "perf-security-privacy",
   "owner": {
    "login": "w3c"
@@ -324,7 +324,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "perf-timing-primer",
   "owner": {
    "login": "w3c"
@@ -349,7 +349,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "performance-timeline",
   "owner": {
    "login": "w3c"
@@ -375,7 +375,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "reporting",
   "owner": {
    "login": "w3c"
@@ -400,7 +400,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "requestidlecallback",
   "owner": {
    "login": "w3c"
@@ -426,7 +426,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "resource-timing",
   "owner": {
    "login": "w3c"
@@ -452,7 +452,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "server-timing",
   "owner": {
    "login": "w3c"
@@ -479,7 +479,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "timing-entrytypes-registry",
   "owner": {
    "login": "w3c"
@@ -504,7 +504,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "user-timing",
   "owner": {
    "login": "w3c"
@@ -531,7 +531,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "web-performance",
   "owner": {
    "login": "w3c"
