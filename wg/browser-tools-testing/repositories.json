@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "at-driver",
   "owner": {
    "login": "w3c"
@@ -25,7 +25,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webdriver",
   "owner": {
    "login": "w3c"
@@ -50,7 +50,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webdriver-bidi",
   "owner": {
    "login": "w3c"
