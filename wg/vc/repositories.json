@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cid",
   "owner": {
    "login": "w3c"
@@ -24,7 +24,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-barcodes",
   "owner": {
    "login": "w3c"
@@ -48,7 +48,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-bitstring-status-list",
   "owner": {
    "login": "w3c"
@@ -75,7 +75,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-bitstring-status-list-test-suite",
   "owner": {
    "login": "w3c"
@@ -99,7 +99,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-confidence-method",
   "owner": {
    "login": "w3c"
@@ -124,7 +124,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-data-integrity",
   "owner": {
    "login": "w3c"
@@ -148,7 +148,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-data-model",
   "owner": {
    "login": "w3c"
@@ -173,7 +173,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-data-model-2.0-test-suite",
   "owner": {
    "login": "w3c"
@@ -197,7 +197,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-bbs",
   "owner": {
    "login": "w3c"
@@ -222,7 +222,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-bbs-test-suite",
   "owner": {
    "login": "w3c"
@@ -246,7 +246,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-ecdsa",
   "owner": {
    "login": "w3c"
@@ -271,7 +271,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-ecdsa-test-suite",
   "owner": {
    "login": "w3c"
@@ -295,7 +295,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-ed25519signature2020-test-suite",
   "owner": {
    "login": "w3c"
@@ -319,7 +319,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-eddsa",
   "owner": {
    "login": "w3c"
@@ -344,7 +344,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-di-eddsa-test-suite",
   "owner": {
    "login": "w3c"
@@ -368,7 +368,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-extensions",
   "owner": {
    "login": "w3c"
@@ -393,7 +393,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-imp-guide",
   "owner": {
    "login": "w3c"
@@ -418,7 +418,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-jose-cose",
   "owner": {
    "login": "w3c"
@@ -442,7 +442,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-jose-cose-test-suite",
   "owner": {
    "login": "w3c"
@@ -466,7 +466,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-json-schema",
   "owner": {
    "login": "w3c"
@@ -491,7 +491,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-json-schema-test-suite",
   "owner": {
    "login": "w3c"
@@ -516,7 +516,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-jws-2020",
   "owner": {
    "login": "w3c"
@@ -540,7 +540,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-overview",
   "owner": {
    "login": "w3c"
@@ -565,7 +565,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-recognition",
   "owner": {
    "login": "w3c"
@@ -590,7 +590,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-render-method",
   "owner": {
    "login": "w3c"
@@ -615,7 +615,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-test-suite",
   "owner": {
    "login": "w3c"
@@ -640,7 +640,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-test-suite-implementations",
   "owner": {
    "login": "w3c"
@@ -663,7 +663,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-use-cases",
   "owner": {
    "login": "w3c"
@@ -688,7 +688,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-wg",
   "owner": {
    "login": "w3c"
@@ -712,7 +712,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-wg-charter",
   "owner": {
    "login": "w3c"
@@ -737,7 +737,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vcalm",
   "owner": {
    "login": "w3c"
