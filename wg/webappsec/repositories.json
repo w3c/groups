@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "federated-credentials",
   "owner": {
    "login": "w3c"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "password-credentials",
   "owner": {
    "login": "w3c"
@@ -41,6 +43,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "permissions",
   "owner": {
    "login": "w3c"
@@ -66,6 +69,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "permissions-registry",
   "owner": {
    "login": "w3c"
@@ -91,6 +95,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "trusted-types",
   "owner": {
    "login": "w3c"
@@ -115,6 +120,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec",
   "owner": {
    "login": "w3c"
@@ -139,6 +145,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-change-password-url",
   "owner": {
    "login": "w3c"
@@ -164,6 +171,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-clear-site-data",
   "owner": {
    "login": "w3c"
@@ -188,6 +196,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-cors-for-developers",
   "owner": {
    "login": "w3c"
@@ -212,6 +221,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-cowl",
   "owner": {
    "login": "w3c"
@@ -236,6 +246,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-credential-management",
   "owner": {
    "login": "w3c"
@@ -260,6 +271,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-csp",
   "owner": {
    "login": "w3c"
@@ -284,6 +296,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-cspee",
   "owner": {
    "login": "w3c"
@@ -307,6 +320,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-dbsc",
   "owner": {
    "login": "w3c"
@@ -331,6 +345,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-fetch-metadata",
   "owner": {
    "login": "w3c"
@@ -355,6 +370,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-mixed-content",
   "owner": {
    "login": "w3c"
@@ -379,6 +395,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-passkey-endpoints",
   "owner": {
    "login": "w3c"
@@ -403,6 +420,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-permissions-policy",
   "owner": {
    "login": "w3c"
@@ -427,6 +445,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-post-spectre-webdev",
   "owner": {
    "login": "w3c"
@@ -451,6 +470,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-referrer-policy",
   "owner": {
    "login": "w3c"
@@ -475,6 +495,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-secure-contexts",
   "owner": {
    "login": "w3c"
@@ -500,6 +521,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-standardizing-security-semantics-of-cross-site-cookies",
   "owner": {
    "login": "w3c"
@@ -522,6 +544,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-suborigins",
   "owner": {
    "login": "w3c"
@@ -546,6 +569,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-subresource-integrity",
   "owner": {
    "login": "w3c"
@@ -570,6 +594,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-uisecurity",
   "owner": {
    "login": "w3c"
@@ -594,6 +619,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webappsec-upgrade-insecure-requests",
   "owner": {
    "login": "w3c"
@@ -618,6 +644,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webcrypto",
   "owner": {
    "login": "w3c"
