@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "DefinitelyTyped",
   "owner": {
    "login": "shexSpec"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ShExAPI",
   "owner": {
    "login": "shexSpec"
@@ -32,6 +34,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ShExC-cheat-sheet",
   "owner": {
    "login": "shexSpec"
@@ -48,6 +51,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ShExTractor",
   "owner": {
    "login": "shexSpec"
@@ -64,6 +68,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ShapePath.js",
   "owner": {
    "login": "shexSpec"
@@ -80,6 +85,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ace-shexc-mode",
   "owner": {
    "login": "shexSpec"
@@ -97,6 +103,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ace-shexc-user",
   "owner": {
    "login": "shexSpec"
@@ -113,6 +120,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "examples",
   "owner": {
    "login": "shexSpec"
@@ -129,6 +137,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "extensions",
   "owner": {
    "login": "shexSpec"
@@ -145,6 +154,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "grammar",
   "owner": {
    "login": "shexSpec"
@@ -161,6 +171,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "grammar-cpp-yacc",
   "owner": {
    "login": "shexSpec"
@@ -177,6 +188,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "grammar-javascript-antlr",
   "owner": {
    "login": "shexSpec"
@@ -193,6 +205,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "grammar-python-antlr",
   "owner": {
    "login": "shexSpec"
@@ -209,6 +222,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "primer",
   "owner": {
    "login": "shexSpec"
@@ -225,6 +239,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "primer_jupyter",
   "owner": {
    "login": "shexSpec"
@@ -241,6 +256,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "schemas",
   "owner": {
    "login": "shexSpec"
@@ -257,6 +273,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "semantics",
   "owner": {
    "login": "shexSpec"
@@ -273,6 +290,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shape-map",
   "owner": {
    "login": "shexSpec"
@@ -292,6 +310,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shex",
   "owner": {
    "login": "shexSpec"
@@ -308,6 +327,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shex.io",
   "owner": {
    "login": "shexSpec"
@@ -324,6 +344,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shexTest",
   "owner": {
    "login": "shexSpec"
@@ -341,6 +362,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shexmapTest",
   "owner": {
    "login": "shexSpec"
@@ -357,6 +379,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shexspec.github.io",
   "owner": {
    "login": "shexSpec"
@@ -373,6 +396,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "spec",
   "owner": {
    "login": "shexSpec"
@@ -393,6 +417,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "spec-2",
   "owner": {
    "login": "shexSpec"
@@ -412,6 +437,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "talks",
   "owner": {
    "login": "shexSpec"
@@ -428,6 +454,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "test-suite",
   "owner": {
    "login": "shexSpec"
