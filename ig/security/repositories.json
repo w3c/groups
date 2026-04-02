@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "security-disclosure",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "security-guidelines-cryptography",
   "owner": {
    "login": "w3c"
@@ -46,6 +48,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "security-questionnaire",
   "owner": {
    "login": "w3c"
@@ -71,6 +74,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "securityig",
   "owner": {
    "login": "w3c"
@@ -94,6 +98,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "threat-model-decentralized-credentials",
   "owner": {
    "login": "w3c"
@@ -116,6 +121,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "threat-model-web",
   "owner": {
    "login": "w3c"
@@ -139,6 +145,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "threat-modeling-guide",
   "owner": {
    "login": "w3c"
