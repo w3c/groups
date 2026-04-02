@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sealreq",
   "owner": {
    "login": "w3c"
