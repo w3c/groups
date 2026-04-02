@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "patcg"
@@ -25,6 +26,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "docs-and-reports",
   "owner": {
    "login": "patcg"
@@ -50,6 +52,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "patcg"
@@ -75,6 +78,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "patcg.github.io",
   "owner": {
    "login": "patcg"
@@ -101,6 +105,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "patwg-charter",
   "owner": {
    "login": "patcg"
@@ -127,6 +132,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "private-measurement",
   "owner": {
    "login": "patcg"
@@ -152,6 +158,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "patcg"
