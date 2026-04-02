@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "mathml",
   "owner": {
    "login": "w3c"
@@ -24,7 +24,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "mathml-core",
   "owner": {
    "login": "w3c"
@@ -48,7 +48,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "mathml-docs",
   "owner": {
    "login": "w3c"
@@ -73,7 +73,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "xml-entities",
   "owner": {
    "login": "w3c"
