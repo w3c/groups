@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dx-connegp",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dx-prof",
   "owner": {
    "login": "w3c"
@@ -48,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dx-wg-charter",
   "owner": {
    "login": "w3c"
@@ -72,6 +75,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dxwg",
   "owner": {
    "login": "w3c"
@@ -96,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "prof-conneg-testing",
   "owner": {
    "login": "w3c"
@@ -117,6 +122,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "prof-voc-reg",
   "owner": {
    "login": "w3c"
