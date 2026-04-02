@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wasm-wg",
   "owner": {
    "login": "w3c"
