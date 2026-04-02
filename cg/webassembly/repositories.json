@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "WebAssembly"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "WASI",
   "owner": {
    "login": "WebAssembly"
@@ -34,7 +34,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "benchmarks",
   "owner": {
    "login": "WebAssembly"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "binaryen",
   "owner": {
    "login": "WebAssembly"
@@ -68,7 +68,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "branch-hinting",
   "owner": {
    "login": "WebAssembly"
@@ -91,7 +91,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "call-tags",
   "owner": {
    "login": "WebAssembly"
@@ -113,7 +113,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cg-charter",
   "owner": {
    "login": "WebAssembly"
@@ -131,7 +131,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "compact-import-section",
   "owner": {
    "login": "WebAssembly"
@@ -154,7 +154,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "compilation-hints",
   "owner": {
    "login": "WebAssembly"
@@ -177,7 +177,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "component-model",
   "owner": {
    "login": "WebAssembly"
@@ -194,7 +194,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "constant-time",
   "owner": {
    "login": "WebAssembly"
@@ -217,7 +217,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "content-security-policy",
   "owner": {
    "login": "WebAssembly"
@@ -239,7 +239,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "custom-descriptors",
   "owner": {
    "login": "WebAssembly"
@@ -262,7 +262,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "custom-page-sizes",
   "owner": {
    "login": "WebAssembly"
@@ -284,7 +284,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "debugging",
   "owner": {
    "login": "WebAssembly"
@@ -301,7 +301,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "design",
   "owner": {
    "login": "WebAssembly"
@@ -319,7 +319,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "esm-integration",
   "owner": {
    "login": "WebAssembly"
@@ -343,7 +343,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "extended-name-section",
   "owner": {
    "login": "WebAssembly"
@@ -365,7 +365,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "flexible-vectors",
   "owner": {
    "login": "WebAssembly"
@@ -389,7 +389,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "frozen-values",
   "owner": {
    "login": "WebAssembly"
@@ -412,7 +412,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "gc-js-customization",
   "owner": {
    "login": "WebAssembly"
@@ -434,7 +434,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "half-precision",
   "owner": {
    "login": "WebAssembly"
@@ -457,7 +457,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "instrument-tracing",
   "owner": {
    "login": "WebAssembly"
@@ -480,7 +480,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "jit-interface",
   "owner": {
    "login": "WebAssembly"
@@ -504,7 +504,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "js-primitive-builtins",
   "owner": {
    "login": "WebAssembly"
@@ -527,7 +527,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "js-promise-integration",
   "owner": {
    "login": "WebAssembly"
@@ -550,7 +550,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "js-string-builtins",
   "owner": {
    "login": "WebAssembly"
@@ -573,7 +573,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "js-types",
   "owner": {
    "login": "WebAssembly"
@@ -596,7 +596,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "WebAssembly"
@@ -613,7 +613,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "memory-control",
   "owner": {
    "login": "WebAssembly"
@@ -636,7 +636,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "more-array-constructors",
   "owner": {
    "login": "WebAssembly"
@@ -658,7 +658,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "multibyte-array-access",
   "owner": {
    "login": "WebAssembly"
@@ -680,7 +680,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "profiles",
   "owner": {
    "login": "WebAssembly"
@@ -704,7 +704,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "proposal-type-imports",
   "owner": {
    "login": "WebAssembly"
@@ -727,7 +727,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "WebAssembly"
@@ -744,7 +744,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "relaxed-dead-code-validation",
   "owner": {
    "login": "WebAssembly"
@@ -766,7 +766,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "relaxed-simd",
   "owner": {
    "login": "WebAssembly"
@@ -789,7 +789,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "root-scanning",
   "owner": {
    "login": "WebAssembly"
@@ -812,7 +812,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "rounding-mode-control",
   "owner": {
    "login": "WebAssembly"
@@ -834,7 +834,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "shared-everything-threads",
   "owner": {
    "login": "WebAssembly"
@@ -857,7 +857,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "spec",
   "owner": {
    "login": "WebAssembly"
@@ -881,7 +881,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "stack-switching",
   "owner": {
    "login": "WebAssembly"
@@ -904,7 +904,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "stringref",
   "owner": {
    "login": "WebAssembly"
@@ -926,7 +926,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "testsuite",
   "owner": {
    "login": "WebAssembly"
@@ -943,7 +943,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "testsuite-js",
   "owner": {
    "login": "WebAssembly"
@@ -960,7 +960,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "threads",
   "owner": {
    "login": "WebAssembly"
@@ -984,7 +984,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tool-conventions",
   "owner": {
    "login": "WebAssembly"
@@ -1001,7 +1001,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wabt",
   "owner": {
    "login": "WebAssembly"
@@ -1018,7 +1018,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-blobstore",
   "owner": {
    "login": "WebAssembly"
@@ -1034,7 +1034,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-cloud-core",
   "owner": {
    "login": "WebAssembly"
@@ -1050,7 +1050,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-config",
   "owner": {
    "login": "WebAssembly"
@@ -1066,7 +1066,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-crypto",
   "owner": {
    "login": "WebAssembly"
@@ -1083,7 +1083,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-distributed-lock-service",
   "owner": {
    "login": "WebAssembly"
@@ -1099,7 +1099,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-gfx",
   "owner": {
    "login": "WebAssembly"
@@ -1115,7 +1115,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-gpio",
   "owner": {
    "login": "WebAssembly"
@@ -1132,7 +1132,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-grpc",
   "owner": {
    "login": "WebAssembly"
@@ -1148,7 +1148,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-i2c",
   "owner": {
    "login": "WebAssembly"
@@ -1165,7 +1165,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-keyvalue",
   "owner": {
    "login": "WebAssembly"
@@ -1181,7 +1181,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-libc",
   "owner": {
    "login": "WebAssembly"
@@ -1199,7 +1199,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-logging",
   "owner": {
    "login": "WebAssembly"
@@ -1216,7 +1216,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-messaging",
   "owner": {
    "login": "WebAssembly"
@@ -1233,7 +1233,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-nn",
   "owner": {
    "login": "WebAssembly"
@@ -1250,7 +1250,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-observe",
   "owner": {
    "login": "WebAssembly"
@@ -1267,7 +1267,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-otel",
   "owner": {
    "login": "WebAssembly"
@@ -1284,7 +1284,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-parallel",
   "owner": {
    "login": "WebAssembly"
@@ -1301,7 +1301,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-pattern-match",
   "owner": {
    "login": "WebAssembly"
@@ -1317,7 +1317,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-proposal-template",
   "owner": {
    "login": "WebAssembly"
@@ -1334,7 +1334,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-sdk",
   "owner": {
    "login": "WebAssembly"
@@ -1351,7 +1351,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-spi",
   "owner": {
    "login": "WebAssembly"
@@ -1367,7 +1367,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-sql",
   "owner": {
    "login": "WebAssembly"
@@ -1383,7 +1383,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-sql-embed",
   "owner": {
    "login": "WebAssembly"
@@ -1399,7 +1399,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-testsuite",
   "owner": {
    "login": "WebAssembly"
@@ -1416,7 +1416,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-threads",
   "owner": {
    "login": "WebAssembly"
@@ -1432,7 +1432,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-tls",
   "owner": {
    "login": "WebAssembly"
@@ -1449,7 +1449,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-url",
   "owner": {
    "login": "WebAssembly"
@@ -1465,7 +1465,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-usb",
   "owner": {
    "login": "WebAssembly"
@@ -1481,7 +1481,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasm-c-api",
   "owner": {
    "login": "WebAssembly"
@@ -1498,7 +1498,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasp",
   "owner": {
    "login": "WebAssembly"
@@ -1515,7 +1515,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wat-numeric-values",
   "owner": {
    "login": "WebAssembly"
@@ -1538,7 +1538,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-assembly-logo",
   "owner": {
    "login": "WebAssembly"
@@ -1556,7 +1556,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webassembly.github.io",
   "owner": {
    "login": "WebAssembly"
@@ -1573,7 +1573,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "website",
   "owner": {
    "login": "WebAssembly"
@@ -1591,7 +1591,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wg-charter",
   "owner": {
    "login": "WebAssembly"
@@ -1608,7 +1608,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wide-arithmetic",
   "owner": {
    "login": "WebAssembly"
@@ -1632,7 +1632,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wit-abi-up-to-date",
   "owner": {
    "login": "WebAssembly"
