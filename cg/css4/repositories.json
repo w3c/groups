@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "css-next",
   "owner": {
    "login": "CSS-Next"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "logo.css",
   "owner": {
    "login": "CSS-Next"
