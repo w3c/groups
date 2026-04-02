@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "clipboard-apis",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "contentEditable",
   "owner": {
    "login": "w3c"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "edit-context",
   "owner": {
    "login": "w3c"
@@ -67,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "editing",
   "owner": {
    "login": "w3c"
@@ -90,6 +94,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "input-events",
   "owner": {
    "login": "w3c"
@@ -115,6 +120,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "selection-api",
   "owner": {
    "login": "w3c"
@@ -139,6 +145,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "virtual-keyboard",
   "owner": {
    "login": "w3c"
