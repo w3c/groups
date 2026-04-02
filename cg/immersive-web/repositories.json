@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ar-common",
   "owner": {
    "login": "immersive-web"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "body-tracking",
   "owner": {
    "login": "immersive-web"
@@ -37,6 +39,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "capture",
   "owner": {
    "login": "immersive-web"
@@ -60,6 +63,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cardboard-vr-display",
   "owner": {
    "login": "immersive-web"
@@ -77,6 +81,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "community-resources",
   "owner": {
    "login": "immersive-web"
@@ -100,6 +105,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "computer-vision",
   "owner": {
    "login": "immersive-web"
@@ -123,6 +129,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "detached-elements",
   "owner": {
    "login": "immersive-web"
@@ -146,6 +153,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "front-facing-camera",
   "owner": {
    "login": "immersive-web"
@@ -169,6 +177,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "geo-alignment",
   "owner": {
    "login": "immersive-web"
@@ -192,6 +201,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "image-tracking",
   "owner": {
    "login": "immersive-web"
@@ -216,6 +226,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "immersive-web-weekly",
   "owner": {
    "login": "immersive-web"
@@ -239,6 +250,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "immersive-web.github.io",
   "owner": {
    "login": "immersive-web"
@@ -262,6 +274,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "marker-tracking",
   "owner": {
    "login": "immersive-web"
@@ -278,6 +291,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "model-element",
   "owner": {
    "login": "immersive-web"
@@ -302,6 +316,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "model-element-polyfill",
   "owner": {
    "login": "immersive-web"
@@ -324,6 +339,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "model-element-samples",
   "owner": {
    "login": "immersive-web"
@@ -346,6 +362,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "navigation",
   "owner": {
    "login": "immersive-web"
@@ -369,6 +386,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "occlusion",
   "owner": {
    "login": "immersive-web"
@@ -391,6 +409,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "performance-improvements",
   "owner": {
    "login": "immersive-web"
@@ -414,6 +433,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "immersive-web"
@@ -437,6 +457,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "raw-camera-access",
   "owner": {
    "login": "immersive-web"
@@ -460,6 +481,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "real-world-meshing",
   "owner": {
    "login": "immersive-web"
@@ -482,6 +504,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "semantic-labels",
   "owner": {
    "login": "immersive-web"
@@ -498,6 +521,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "spatial-favicons",
   "owner": {
    "login": "immersive-web"
@@ -521,6 +545,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webvr",
   "owner": {
    "login": "immersive-web"
@@ -544,6 +569,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webvr-polyfill",
   "owner": {
    "login": "immersive-web"
@@ -568,6 +594,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webvr-polyfill-dpdb",
   "owner": {
    "login": "immersive-web"
@@ -592,6 +619,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webvrrocks",
   "owner": {
    "login": "immersive-web"
@@ -609,6 +637,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-accessibility",
   "owner": {
    "login": "immersive-web"
@@ -632,6 +661,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-face-tracking-1",
   "owner": {
    "login": "immersive-web"
@@ -647,6 +677,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-input-profiles",
   "owner": {
    "login": "immersive-web"
@@ -671,6 +702,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-layers-polyfill",
   "owner": {
    "login": "immersive-web"
@@ -694,6 +726,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-polyfill",
   "owner": {
    "login": "immersive-web"
