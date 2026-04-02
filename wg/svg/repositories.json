@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "svg-aam",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "svgwg",
   "owner": {
    "login": "w3c"
@@ -47,6 +49,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "writing-accessible-svg",
   "owner": {
    "login": "w3c"
