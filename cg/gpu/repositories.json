@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "gpuweb"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cts",
   "owner": {
    "login": "gpuweb"
@@ -42,6 +44,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "gpuweb",
   "owner": {
    "login": "gpuweb"
@@ -69,6 +72,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "gpuweb-cts-pr-previews",
   "owner": {
    "login": "gpuweb"
@@ -84,6 +88,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "gpuweb-pr-previews",
   "owner": {
    "login": "gpuweb"
@@ -100,6 +105,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "gpuweb.github.io",
   "owner": {
    "login": "gpuweb"
@@ -117,6 +123,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tree-sitter-wgsl",
   "owner": {
    "login": "gpuweb"
@@ -132,6 +139,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "types",
   "owner": {
    "login": "gpuweb"
