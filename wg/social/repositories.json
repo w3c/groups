@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Micropub",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitypub",
   "owner": {
    "login": "w3c"
@@ -47,6 +49,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitystreams",
   "owner": {
    "login": "w3c"
@@ -71,6 +74,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "activitystreams-testing",
   "owner": {
    "login": "w3c"
@@ -94,6 +98,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ldn",
   "owner": {
    "login": "w3c"
@@ -118,6 +123,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "socialwg",
   "owner": {
    "login": "w3c"
@@ -141,6 +147,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webmention",
   "owner": {
    "login": "w3c"
@@ -165,6 +172,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "websub",
   "owner": {
    "login": "w3c"
