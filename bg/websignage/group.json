@@ -35,7 +35,7 @@
   }
  },
  "type": "business group",
- "@context": "/contexts/group.jsonld",
+ "@context": "/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "bg",
  "identifier": "bg/websignage"
