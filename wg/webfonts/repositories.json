@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "IFT",
   "owner": {
    "login": "w3c"
@@ -24,7 +24,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "PFE-analysis",
   "owner": {
    "login": "w3c"
@@ -47,7 +47,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ift-client-tests",
   "owner": {
    "login": "w3c"
@@ -69,7 +69,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ift-encoder",
   "owner": {
    "login": "w3c"
@@ -92,7 +92,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ift-encoder-data",
   "owner": {
    "login": "w3c"
@@ -115,7 +115,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ift-server-tests",
   "owner": {
    "login": "w3c"
@@ -137,7 +137,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "woff",
   "owner": {
    "login": "w3c"
@@ -161,7 +161,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "woff2-compiled-tests",
   "owner": {
    "login": "w3c"
@@ -185,7 +185,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "woff2-tests",
   "owner": {
    "login": "w3c"
