@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "PEPC",
   "owner": {
    "login": "WICG"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Realms-Initialization-Control",
   "owner": {
    "login": "WICG"
@@ -45,6 +47,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "WebApiDevice",
   "owner": {
    "login": "WICG"
@@ -67,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ab-worker-prototype",
   "owner": {
    "login": "WICG"
@@ -89,6 +93,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "accessible-notifications",
   "owner": {
    "login": "WICG"
@@ -111,6 +116,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "WICG"
@@ -133,6 +139,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "anonymous-iframe",
   "owner": {
    "login": "WICG"
@@ -155,6 +162,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "aom",
   "owner": {
    "login": "WICG"
@@ -178,6 +186,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "attribution-reporting-api",
   "owner": {
    "login": "WICG"
@@ -201,6 +210,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "audio-context-playout-stats",
   "owner": {
    "login": "WICG"
@@ -222,6 +232,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "autofill-event",
   "owner": {
    "login": "WICG"
@@ -244,6 +255,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "background-fetch",
   "owner": {
    "login": "WICG"
@@ -267,6 +279,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "background-sync",
   "owner": {
    "login": "WICG"
@@ -290,6 +303,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "bfcache-not-restored-reason",
   "owner": {
    "login": "WICG"
@@ -311,6 +325,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "bundle-preloading",
   "owner": {
    "login": "WICG"
@@ -333,6 +348,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "canvas-formatted-text",
   "owner": {
    "login": "WICG"
@@ -354,6 +370,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "capability-delegation",
   "owner": {
    "login": "WICG"
@@ -376,6 +393,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "client-hints-infrastructure",
   "owner": {
    "login": "WICG"
@@ -399,6 +417,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "color-api",
   "owner": {
    "login": "WICG"
@@ -422,6 +441,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "connection-allowlists",
   "owner": {
    "login": "WICG"
@@ -444,6 +464,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "construct-stylesheets",
   "owner": {
    "login": "WICG"
@@ -466,6 +487,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "container-timing",
   "owner": {
    "login": "WICG"
@@ -489,6 +511,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "content-index",
   "owner": {
    "login": "WICG"
@@ -512,6 +535,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "controlled-frame",
   "owner": {
    "login": "WICG"
@@ -534,6 +558,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "controls-list",
   "owner": {
    "login": "WICG"
@@ -556,6 +581,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cpu-performance",
   "owner": {
    "login": "WICG"
@@ -579,6 +605,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "crash-reporting",
   "owner": {
    "login": "WICG"
@@ -602,6 +629,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cross-origin-storage",
   "owner": {
    "login": "WICG"
@@ -625,6 +653,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "csp-next",
   "owner": {
    "login": "WICG"
@@ -648,6 +677,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "css-parser-api",
   "owner": {
    "login": "WICG"
@@ -670,6 +700,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "datacue",
   "owner": {
    "login": "WICG"
@@ -693,6 +724,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "declarative-partial-updates",
   "owner": {
    "login": "WICG"
@@ -714,6 +746,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "delayed-message-timing",
   "owner": {
    "login": "WICG"
@@ -736,6 +769,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "deprecation-reporting",
   "owner": {
    "login": "WICG"
@@ -759,6 +793,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "digital-goods",
   "owner": {
    "login": "WICG"
@@ -780,6 +815,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "direct-sockets",
   "owner": {
    "login": "WICG"
@@ -802,6 +838,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "discourse-archive",
   "owner": {
    "login": "WICG"
@@ -817,6 +854,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "discourse-wicg-theme",
   "owner": {
    "login": "WICG"
@@ -838,6 +876,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "document-isolation-policy",
   "owner": {
    "login": "WICG"
@@ -859,6 +898,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "document-picture-in-picture",
   "owner": {
    "login": "WICG"
@@ -881,6 +921,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "document-policy",
   "owner": {
    "login": "WICG"
@@ -903,6 +944,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "email-verification-protocol",
   "owner": {
    "login": "WICG"
@@ -925,6 +967,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "entries-api",
   "owner": {
    "login": "WICG"
@@ -949,6 +992,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "explicit-javascript-compile-hints-file-based",
   "owner": {
    "login": "WICG"
@@ -971,6 +1015,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "eyedropper-api",
   "owner": {
    "login": "WICG"
@@ -992,6 +1037,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "fenced-frame",
   "owner": {
    "login": "WICG"
@@ -1015,6 +1061,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "file-handling",
   "owner": {
    "login": "WICG"
@@ -1037,6 +1084,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "file-system-access",
   "owner": {
    "login": "WICG"
@@ -1060,6 +1108,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "focus-visible",
   "owner": {
    "login": "WICG"
@@ -1084,6 +1133,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "get-installed-related-apps",
   "owner": {
    "login": "WICG"
@@ -1108,6 +1158,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "handwriting-recognition",
   "owner": {
    "login": "WICG"
@@ -1131,6 +1182,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "html-in-canvas",
   "owner": {
    "login": "WICG"
@@ -1152,6 +1204,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "idle-detection",
   "owner": {
    "login": "WICG"
@@ -1174,6 +1227,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "idrefs",
   "owner": {
    "login": "WICG"
@@ -1196,6 +1250,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "iframe-media-pausing",
   "owner": {
    "login": "WICG"
@@ -1217,6 +1272,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "inert",
   "owner": {
    "login": "WICG"
@@ -1239,6 +1295,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ink-enhancement",
   "owner": {
    "login": "WICG"
@@ -1260,6 +1317,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "input-device-capabilities",
   "owner": {
    "login": "WICG"
@@ -1283,6 +1341,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "install-element",
   "owner": {
    "login": "WICG"
@@ -1305,6 +1364,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "intervention-reporting",
   "owner": {
    "login": "WICG"
@@ -1328,6 +1388,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "is-input-pending",
   "owner": {
    "login": "WICG"
@@ -1350,6 +1411,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "isolated-web-apps",
   "owner": {
    "login": "WICG"
@@ -1372,6 +1434,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "js-self-profiling",
   "owner": {
    "login": "WICG"
@@ -1394,6 +1457,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "keyboard-lock",
   "owner": {
    "login": "WICG"
@@ -1417,6 +1481,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "keyboard-map",
   "owner": {
    "login": "WICG"
@@ -1440,6 +1505,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "layout-instability",
   "owner": {
    "login": "WICG"
@@ -1463,6 +1529,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "local-font-access",
   "owner": {
    "login": "WICG"
@@ -1486,6 +1553,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "local-network-access",
   "owner": {
    "login": "WICG"
@@ -1509,6 +1577,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "local-peer-to-peer",
   "owner": {
    "login": "WICG"
@@ -1532,6 +1601,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "manifest-incubations",
   "owner": {
    "login": "WICG"
@@ -1555,6 +1625,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "media-feeds",
   "owner": {
    "login": "WICG"
@@ -1578,6 +1649,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "media-latency-hint",
   "owner": {
    "login": "WICG"
@@ -1599,6 +1671,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "nav-speculation",
   "owner": {
    "login": "WICG"
@@ -1622,6 +1695,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "navigation-api",
   "owner": {
    "login": "WICG"
@@ -1645,6 +1719,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "netinfo",
   "owner": {
    "login": "WICG"
@@ -1668,6 +1743,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "network-efficiency-guardrails",
   "owner": {
    "login": "WICG"
@@ -1689,6 +1765,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "observable",
   "owner": {
    "login": "WICG"
@@ -1712,6 +1789,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "origin-policy",
   "owner": {
    "login": "WICG"
@@ -1735,6 +1813,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "overscroll-scrollend-events",
   "owner": {
    "login": "WICG"
@@ -1758,6 +1837,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "page-lifecycle",
   "owner": {
    "login": "WICG"
@@ -1781,6 +1861,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "paymentlink",
   "owner": {
    "login": "WICG"
@@ -1802,6 +1883,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "pending-beacon",
   "owner": {
    "login": "WICG"
@@ -1825,6 +1907,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "performance-measure-memory",
   "owner": {
    "login": "WICG"
@@ -1847,6 +1930,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "periodic-background-sync",
   "owner": {
    "login": "WICG"
@@ -1870,6 +1954,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "permissions-request",
   "owner": {
    "login": "WICG"
@@ -1893,6 +1978,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "permissions-revoke",
   "owner": {
    "login": "WICG"
@@ -1916,6 +2002,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "portals",
   "owner": {
    "login": "WICG"
@@ -1939,6 +2026,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "prefer-current-tab",
   "owner": {
    "login": "WICG"
@@ -1960,6 +2048,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "privacy-preserving-ads",
   "owner": {
    "login": "WICG"
@@ -1982,6 +2071,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "private-network-access",
   "owner": {
    "login": "WICG"
@@ -2005,6 +2095,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "WICG"
@@ -2028,6 +2119,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "protected-auction-services-discussion",
   "owner": {
    "login": "WICG"
@@ -2049,6 +2141,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "reducing-memory-copies",
   "owner": {
    "login": "WICG"
@@ -2065,6 +2158,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "responsive-image-client-hints",
   "owner": {
    "login": "WICG"
@@ -2088,6 +2182,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sanitizer-api",
   "owner": {
    "login": "WICG"
@@ -2110,6 +2205,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "savedata",
   "owner": {
    "login": "WICG"
@@ -2133,6 +2229,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "scheduling-apis",
   "owner": {
    "login": "WICG"
@@ -2156,6 +2253,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "screen-brightness",
   "owner": {
    "login": "WICG"
@@ -2177,6 +2275,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "scroll-to-text-fragment",
   "owner": {
    "login": "WICG"
@@ -2199,6 +2298,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "serial",
   "owner": {
    "login": "WICG"
@@ -2223,6 +2323,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "service-worker-auto-preload",
   "owner": {
    "login": "WICG"
@@ -2244,6 +2345,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "service-worker-static-routing-api",
   "owner": {
    "login": "WICG"
@@ -2266,6 +2368,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "shape-detection-api",
   "owner": {
    "login": "WICG"
@@ -2289,6 +2392,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "signature-based-sri",
   "owner": {
    "login": "WICG"
@@ -2312,6 +2416,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sms-one-time-codes",
   "owner": {
    "login": "WICG"
@@ -2337,6 +2442,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "soft-navigations",
   "owner": {
    "login": "WICG"
@@ -2360,6 +2466,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sparrow",
   "owner": {
    "login": "WICG"
@@ -2381,6 +2488,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "speculative_load_measurement",
   "owner": {
    "login": "WICG"
@@ -2402,6 +2510,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "starter-kit",
   "owner": {
    "login": "WICG"
@@ -2424,6 +2533,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "storage-buckets",
   "owner": {
    "login": "WICG"
@@ -2447,6 +2557,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "trust-token-api",
   "owner": {
    "login": "WICG"
@@ -2467,6 +2578,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ua-client-hints",
   "owner": {
    "login": "WICG"
@@ -2490,6 +2602,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "user-preference-media-features-headers",
   "owner": {
    "login": "WICG"
@@ -2512,6 +2625,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "video-rvfc",
   "owner": {
    "login": "WICG"
@@ -2535,6 +2649,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "view-transitions",
   "owner": {
    "login": "WICG"
@@ -2557,6 +2672,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-app-launch",
   "owner": {
    "login": "WICG"
@@ -2579,6 +2695,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-otp",
   "owner": {
    "login": "WICG"
@@ -2602,6 +2719,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-printing",
   "owner": {
    "login": "WICG"
@@ -2623,6 +2741,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-smart-card",
   "owner": {
    "login": "WICG"
@@ -2645,6 +2764,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webcomponents",
   "owner": {
    "login": "WICG"
@@ -2667,6 +2787,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webcrypto-modern-algos",
   "owner": {
    "login": "WICG"
@@ -2690,6 +2811,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webhid",
   "owner": {
    "login": "WICG"
@@ -2712,6 +2834,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webmonetization",
   "owner": {
    "login": "WICG"
@@ -2735,6 +2858,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webpackage",
   "owner": {
    "login": "WICG"
@@ -2757,6 +2881,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-diagnostic-logging",
   "owner": {
    "login": "WICG"
@@ -2778,6 +2903,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webusb",
   "owner": {
    "login": "WICG"
@@ -2802,6 +2928,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "window-controls-overlay",
   "owner": {
    "login": "WICG"
@@ -2824,6 +2951,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-share-target",
   "owner": {
    "login": "w3c"
