@@ -32,6 +32,7 @@
   }
  },
  "type": "community group",
+ "@context": "/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/interactive-media"
