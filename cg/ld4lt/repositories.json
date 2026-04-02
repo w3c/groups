@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Business-use-cases-for-the-use-of-Linguistic-Linked-Data",
   "owner": {
    "login": "ld4lt"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "annotation-demos",
   "owner": {
    "login": "ld4lt"
@@ -34,7 +34,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "linguistic-annotation",
   "owner": {
    "login": "ld4lt"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "metashare",
   "owner": {
    "login": "ld4lt"
