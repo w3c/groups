@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "design-system",
   "owner": {
    "login": "openui"
@@ -16,7 +16,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "open-ui",
   "owner": {
    "login": "openui"
