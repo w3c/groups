@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "hlreq",
   "owner": {
    "login": "w3c"
@@ -25,6 +26,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "iip",
   "owner": {
    "login": "w3c"
@@ -51,6 +53,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "jlreq",
   "owner": {
    "login": "w3c"
@@ -77,6 +80,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "jlreq-d",
   "owner": {
    "login": "w3c"
@@ -101,6 +105,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ruby-t2s-req",
   "owner": {
    "login": "w3c"
@@ -124,6 +129,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ruby-tts-req",
   "owner": {
    "login": "w3c"
@@ -148,6 +154,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "simple-ruby",
   "owner": {
    "login": "w3c"
@@ -172,6 +179,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mlreq",
   "owner": {
    "login": "w3c"
@@ -198,6 +206,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sealreq",
   "owner": {
    "login": "w3c"
@@ -223,6 +232,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tlreq",
   "owner": {
    "login": "w3c"
