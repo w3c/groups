@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "WebXR-WebGPU-Binding",
   "owner": {
    "login": "immersive-web"
@@ -21,6 +22,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "administrivia",
   "owner": {
    "login": "immersive-web"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "anchors",
   "owner": {
    "login": "immersive-web"
@@ -67,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "depth-sensing",
   "owner": {
    "login": "immersive-web"
@@ -90,6 +94,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dom-overlays",
   "owner": {
    "login": "immersive-web"
@@ -114,6 +119,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "hit-test",
   "owner": {
    "login": "immersive-web"
@@ -137,6 +143,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "homepage",
   "owner": {
    "login": "immersive-web"
@@ -161,6 +168,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "immersiveweb.dev",
   "owner": {
    "login": "immersive-web"
@@ -185,6 +193,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "layers",
   "owner": {
    "login": "immersive-web"
@@ -209,6 +218,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "lighting-estimation",
   "owner": {
    "login": "immersive-web"
@@ -232,6 +242,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "plane-detection",
   "owner": {
    "login": "immersive-web"
@@ -255,6 +266,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "privacy-and-security",
   "owner": {
    "login": "immersive-web"
@@ -278,6 +290,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr",
   "owner": {
    "login": "immersive-web"
@@ -303,6 +316,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-ar-module",
   "owner": {
    "login": "immersive-web"
@@ -328,6 +342,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-gamepads-module",
   "owner": {
    "login": "immersive-web"
@@ -353,6 +368,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-hand-input",
   "owner": {
    "login": "immersive-web"
@@ -378,6 +394,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-samples",
   "owner": {
    "login": "immersive-web"
@@ -401,6 +418,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webxr-test-api",
   "owner": {
    "login": "immersive-web"
