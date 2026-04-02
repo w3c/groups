@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "w3c-ddi",
   "owner": {
    "login": "W3C-HCLS"
@@ -18,7 +18,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "hcls-ccda-rdf",
   "owner": {
    "login": "w3c"
@@ -42,7 +42,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "hcls-drug-drug-interaction",
   "owner": {
    "login": "w3c"
@@ -67,7 +67,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "hcls-fhir-rdf",
   "owner": {
    "login": "w3c"
@@ -91,7 +91,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "hcls-natural-product-drug-interaction-fair",
   "owner": {
    "login": "w3c"
