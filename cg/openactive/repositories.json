@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "OpenActive.DatasetSite.NET",
   "owner": {
    "login": "openactive"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "OpenActive.NET",
   "owner": {
    "login": "openactive"
@@ -34,7 +34,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "OpenActive.Server.NET",
   "owner": {
    "login": "openactive"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "Schema.NET",
   "owner": {
    "login": "openactive"
@@ -68,7 +68,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "accessibility-support",
   "owner": {
    "login": "openactive"
@@ -85,7 +85,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "activity-list",
   "owner": {
    "login": "openactive"
@@ -102,7 +102,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "azure-rpde-proxy",
   "owner": {
    "login": "openactive"
@@ -119,7 +119,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "brand-assets",
   "owner": {
    "login": "openactive"
@@ -136,7 +136,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cloudflare-page-rules",
   "owner": {
    "login": "openactive"
@@ -153,7 +153,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cloudflare-reverse-proxy",
   "owner": {
    "login": "openactive"
@@ -170,7 +170,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "collection-editor",
   "owner": {
    "login": "openactive"
@@ -187,7 +187,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "community-resources",
   "owner": {
    "login": "openactive"
@@ -204,7 +204,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "concept-scheme-restriction-generator",
   "owner": {
    "login": "openactive"
@@ -221,7 +221,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "conformance-certification",
   "owner": {
    "login": "openactive"
@@ -238,7 +238,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "contributor-documentation",
   "owner": {
    "login": "openactive"
@@ -255,7 +255,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "customer-accounts-api",
   "owner": {
    "login": "openactive"
@@ -272,7 +272,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "data-catalog-compare-action",
   "owner": {
    "login": "openactive"
@@ -289,7 +289,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "data-catalogs",
   "owner": {
    "login": "openactive"
@@ -306,7 +306,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "data-model-validator",
   "owner": {
    "login": "openactive"
@@ -323,7 +323,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "data-model-validator-site",
   "owner": {
    "login": "openactive"
@@ -340,7 +340,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "data-models",
   "owner": {
    "login": "openactive"
@@ -358,7 +358,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dataset-api-discovery",
   "owner": {
    "login": "openactive"
@@ -375,7 +375,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dataset-site-template",
   "owner": {
    "login": "openactive"
@@ -392,7 +392,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dataset-site-template-example-dotnet",
   "owner": {
    "login": "openactive"
@@ -409,7 +409,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dataset-site-template-php",
   "owner": {
    "login": "openactive"
@@ -426,7 +426,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dataset-site-template-ruby",
   "owner": {
    "login": "openactive"
@@ -443,7 +443,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dataset-utils",
   "owner": {
    "login": "openactive"
@@ -460,7 +460,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "delivering-openactive",
   "owner": {
    "login": "openactive"
@@ -477,7 +477,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "developer-documentation",
   "owner": {
    "login": "openactive"
@@ -495,7 +495,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "developer-documentation-draft",
   "owner": {
    "login": "openactive"
@@ -511,7 +511,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "extension-documentation-generator",
   "owner": {
    "login": "openactive"
@@ -528,7 +528,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "facility-attribute-list",
   "owner": {
    "login": "openactive"
@@ -545,7 +545,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "facility-types",
   "owner": {
    "login": "openactive"
@@ -562,7 +562,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "github-actions-workflows",
   "owner": {
    "login": "openactive"
@@ -579,7 +579,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "gulp-respec",
   "owner": {
    "login": "openactive"
@@ -596,7 +596,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "harvesting-utils",
   "owner": {
    "login": "openactive"
@@ -613,7 +613,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "implementation-tracker",
   "owner": {
    "login": "openactive"
@@ -630,7 +630,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "infrastructure-guide",
   "owner": {
    "login": "openactive"
@@ -647,7 +647,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "infrastructure-monitor",
   "owner": {
    "login": "openactive"
@@ -664,7 +664,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "learn",
   "owner": {
    "login": "openactive"
@@ -682,7 +682,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "les-mills-programme-page-example",
   "owner": {
    "login": "openactive"
@@ -699,7 +699,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "maintainer-documentation",
   "owner": {
    "login": "openactive"
@@ -716,7 +716,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "modelling-opportunity-data",
   "owner": {
    "login": "openactive"
@@ -734,7 +734,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "models-lib",
   "owner": {
    "login": "openactive"
@@ -751,7 +751,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "models-php",
   "owner": {
    "login": "openactive"
@@ -768,7 +768,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "models-php-test",
   "owner": {
    "login": "openactive"
@@ -785,7 +785,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "models-ruby",
   "owner": {
    "login": "openactive"
@@ -802,7 +802,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "models-ruby-test",
   "owner": {
    "login": "openactive"
@@ -819,7 +819,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "models-ts",
   "owner": {
    "login": "openactive"
@@ -836,7 +836,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ns-beta",
   "owner": {
    "login": "openactive"
@@ -853,7 +853,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ns-extension",
   "owner": {
    "login": "openactive"
@@ -870,7 +870,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "open-booking-api",
   "owner": {
    "login": "openactive"
@@ -887,7 +887,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "open-booking-sdk-documentation",
   "owner": {
    "login": "openactive"
@@ -904,7 +904,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "openactive-python",
   "owner": {
    "login": "openactive"
@@ -920,7 +920,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "openactive-test-suite",
   "owner": {
    "login": "openactive"
@@ -937,7 +937,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "openactive.github.io",
   "owner": {
    "login": "openactive"
@@ -954,7 +954,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "openactive.rb",
   "owner": {
    "login": "openactive"
@@ -971,7 +971,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "permalink.openactive.io",
   "owner": {
    "login": "openactive"
@@ -988,7 +988,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "place-types",
   "owner": {
    "login": "openactive"
@@ -1005,7 +1005,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "programme-catalog",
   "owner": {
    "login": "openactive"
@@ -1022,7 +1022,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "public-chat",
   "owner": {
    "login": "openactive"
@@ -1039,7 +1039,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "realtime-paged-data-exchange",
   "owner": {
    "login": "openactive"
@@ -1057,7 +1057,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "respec",
   "owner": {
    "login": "openactive"
@@ -1074,7 +1074,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "route-guide",
   "owner": {
    "login": "openactive"
@@ -1092,7 +1092,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "rpde-validator",
   "owner": {
    "login": "openactive"
@@ -1109,7 +1109,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "rpde-visualiser",
   "owner": {
    "login": "openactive"
@@ -1127,7 +1127,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "schemaorg",
   "owner": {
    "login": "openactive"
@@ -1145,7 +1145,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "skos-compare-action",
   "owner": {
    "login": "openactive"
@@ -1162,7 +1162,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "skos-vocabulary-editor",
   "owner": {
    "login": "openactive"
@@ -1179,7 +1179,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "skos-vocabulary-template",
   "owner": {
    "login": "openactive"
@@ -1196,7 +1196,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "skos-vocabulary-workflows",
   "owner": {
    "login": "openactive"
@@ -1213,7 +1213,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "skos.js",
   "owner": {
    "login": "openactive"
@@ -1231,7 +1231,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "slackin",
   "owner": {
    "login": "openactive"
@@ -1249,7 +1249,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "spec-template",
   "owner": {
    "login": "openactive"
@@ -1266,7 +1266,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "status-dashboard",
   "owner": {
    "login": "openactive"
@@ -1283,7 +1283,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "status-dashboard-conformance-monitor",
   "owner": {
    "login": "openactive"
@@ -1300,7 +1300,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "stripe-extension",
   "owner": {
    "login": "openactive"
@@ -1317,7 +1317,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "test-interface",
   "owner": {
    "login": "openactive"
@@ -1334,7 +1334,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "w3c-community-group",
   "owner": {
    "login": "openactive"
@@ -1352,7 +1352,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "website-content",
   "owner": {
    "login": "openactive"
@@ -1369,7 +1369,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "website-redirection",
   "owner": {
    "login": "openactive"
