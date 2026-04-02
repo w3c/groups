@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "w3id.org",
   "owner": {
    "login": "perma-id"
