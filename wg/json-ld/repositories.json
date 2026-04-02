@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-star",
   "owner": {
    "login": "json-ld"
@@ -25,6 +26,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "minutes",
   "owner": {
    "login": "json-ld"
@@ -49,6 +51,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cbor-ld",
   "owner": {
    "login": "w3c"
@@ -73,6 +76,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-api",
   "owner": {
    "login": "w3c"
@@ -96,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-bp",
   "owner": {
    "login": "w3c"
@@ -120,6 +125,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-cbor",
   "owner": {
    "login": "w3c"
@@ -143,6 +149,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-framing",
   "owner": {
    "login": "w3c"
@@ -166,6 +173,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-rc",
   "owner": {
    "login": "w3c"
@@ -189,6 +197,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-streaming",
   "owner": {
    "login": "w3c"
@@ -213,6 +222,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-syntax",
   "owner": {
    "login": "w3c"
@@ -237,6 +247,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-wg",
   "owner": {
    "login": "w3c"
@@ -260,6 +271,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "yaml-ld",
   "owner": {
    "login": "w3c"
