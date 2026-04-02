@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "audiobooks",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dpub-pwp-ucr",
   "owner": {
    "login": "w3c"
@@ -50,6 +52,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub",
   "owner": {
    "login": "w3c"
@@ -71,6 +74,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-specs",
   "owner": {
    "login": "w3c"
@@ -93,6 +97,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-structural-tests",
   "owner": {
    "login": "w3c"
@@ -116,6 +121,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-tests",
   "owner": {
    "login": "w3c"
@@ -140,6 +146,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epub-translations",
   "owner": {
    "login": "w3c"
@@ -164,6 +171,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "epubcheck",
   "owner": {
    "login": "w3c"
@@ -187,6 +195,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "lpf",
   "owner": {
    "login": "w3c"
@@ -211,6 +220,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "pm-wg",
   "owner": {
    "login": "w3c"
@@ -234,6 +244,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "pub-manifest",
   "owner": {
    "login": "w3c"
@@ -258,6 +269,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "pub-vocab",
   "owner": {
    "login": "w3c"
@@ -283,6 +295,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "publ-a11y",
   "owner": {
    "login": "w3c"
@@ -306,6 +319,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "publ-a11y-extended-desc",
   "owner": {
    "login": "w3c"
@@ -329,6 +343,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "publ-maintenance-wg-charter",
   "owner": {
    "login": "w3c"
@@ -353,6 +368,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "publ-tests",
   "owner": {
    "login": "w3c"
@@ -377,6 +393,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sync-media-pub",
   "owner": {
    "login": "w3c"
@@ -400,6 +417,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wpub",
   "owner": {
    "login": "w3c"
@@ -424,6 +442,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wpub-ann",
   "owner": {
    "login": "w3c"
