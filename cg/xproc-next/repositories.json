@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "1.0-specification",
   "owner": {
    "login": "xproc"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "1.0-test-suite",
   "owner": {
    "login": "xproc"
@@ -32,6 +34,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "2.0-non-xml-specification",
   "owner": {
    "login": "xproc"
@@ -48,6 +51,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "3.0-grammar",
   "owner": {
    "login": "xproc"
@@ -64,6 +68,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "3.0-specification",
   "owner": {
    "login": "xproc"
@@ -81,6 +86,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "3.0-steps",
   "owner": {
    "login": "xproc"
@@ -97,6 +103,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "3.0-test-suite",
   "owner": {
    "login": "xproc"
@@ -114,6 +121,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Vnext",
   "owner": {
    "login": "xproc"
@@ -130,6 +138,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2016-09-26",
   "owner": {
    "login": "xproc"
@@ -146,6 +155,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2017-02",
   "owner": {
    "login": "xproc"
@@ -162,6 +172,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2017-06",
   "owner": {
    "login": "xproc"
@@ -178,6 +189,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2017-09",
   "owner": {
    "login": "xproc"
@@ -194,6 +206,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2018-02",
   "owner": {
    "login": "xproc"
@@ -210,6 +223,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2018-06",
   "owner": {
    "login": "xproc"
@@ -226,6 +240,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2018-09",
   "owner": {
    "login": "xproc"
@@ -242,6 +257,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2019-02",
   "owner": {
    "login": "xproc"
@@ -258,6 +274,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2019-06",
   "owner": {
    "login": "xproc"
@@ -274,6 +291,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Workshop-2019-11",
   "owner": {
    "login": "xproc"
@@ -290,6 +308,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "archive.xproc.org",
   "owner": {
    "login": "xproc"
@@ -306,6 +325,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dashboard",
   "owner": {
    "login": "xproc"
@@ -323,6 +343,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "exproc.org",
   "owner": {
    "login": "xproc"
@@ -339,6 +360,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "extensions",
   "owner": {
    "login": "xproc"
@@ -355,6 +377,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "notes",
   "owner": {
    "login": "xproc"
@@ -371,6 +394,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "showroom",
   "owner": {
    "login": "xproc"
@@ -386,6 +410,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tutorial",
   "owner": {
    "login": "xproc"
@@ -402,6 +427,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "xml_prague_2018",
   "owner": {
    "login": "xproc"
@@ -418,6 +444,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "xproc.org",
   "owner": {
    "login": "xproc"
@@ -434,6 +461,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "xvrl",
   "owner": {
    "login": "xproc"
@@ -450,6 +478,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "xvrl-tools",
   "owner": {
    "login": "xproc"
