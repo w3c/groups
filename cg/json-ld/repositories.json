@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "awesome-json-ld",
   "owner": {
    "login": "json-ld"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "cborld-registry",
   "owner": {
    "login": "json-ld"
@@ -33,6 +35,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "convenience-context",
   "owner": {
    "login": "json-ld"
@@ -49,6 +52,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-patch",
   "owner": {
    "login": "json-ld"
@@ -65,6 +69,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld-star",
   "owner": {
    "login": "json-ld"
@@ -90,6 +95,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld.github.io",
   "owner": {
    "login": "json-ld"
@@ -105,6 +111,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "json-ld.org",
   "owner": {
    "login": "json-ld"
@@ -122,6 +129,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "jsonld-vis",
   "owner": {
    "login": "json-ld"
@@ -138,6 +146,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "minutes",
   "owner": {
    "login": "json-ld"
@@ -162,6 +171,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ndjson-ld",
   "owner": {
    "login": "json-ld"
@@ -184,6 +194,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rdf-dataset-canonicalization",
   "owner": {
    "login": "json-ld"
@@ -200,6 +211,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "scrawl.js",
   "owner": {
    "login": "json-ld"
@@ -216,6 +228,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "w3c-tpac-2024-presentations",
   "owner": {
    "login": "json-ld"
@@ -233,6 +246,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "yaml-ld-primer",
   "owner": {
    "login": "json-ld"
