@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
@@ -22,7 +22,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "N3",
   "owner": {
    "login": "w3c"
