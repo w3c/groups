@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "a11y-longitudinal-tracking",
   "owner": {
    "login": "w3c"
@@ -21,6 +22,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "a11y-request",
   "owner": {
    "login": "w3c"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "a11y-tracking",
   "owner": {
    "login": "w3c"
@@ -67,6 +70,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "aac-registry",
   "owner": {
    "login": "w3c"
@@ -89,6 +93,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "adapt",
   "owner": {
    "login": "w3c"
@@ -114,6 +119,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ai-accessibility",
   "owner": {
    "login": "w3c"
@@ -137,6 +143,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "apa",
   "owner": {
    "login": "w3c"
@@ -160,6 +167,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "captcha-accessibility",
   "owner": {
    "login": "w3c"
@@ -183,6 +191,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "coga",
   "owner": {
    "login": "w3c"
@@ -208,6 +217,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "css-a11y",
   "owner": {
    "login": "w3c"
@@ -233,6 +243,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ctaur",
   "owner": {
    "login": "w3c"
@@ -256,6 +267,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "fast",
   "owner": {
    "login": "w3c"
@@ -278,6 +290,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "immersive-captions",
   "owner": {
    "login": "w3c"
@@ -300,6 +313,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "maturity-model",
   "owner": {
    "login": "w3c"
@@ -323,6 +337,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "maur",
   "owner": {
    "login": "w3c"
@@ -344,6 +359,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "media-accessibility-reqs",
   "owner": {
    "login": "w3c"
@@ -366,6 +382,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "naur",
   "owner": {
    "login": "w3c"
@@ -388,6 +405,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "payment-accessibility-reqs",
   "owner": {
    "login": "w3c"
@@ -410,6 +428,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "pronunciation",
   "owner": {
    "login": "w3c"
@@ -433,6 +452,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "raur",
   "owner": {
    "login": "w3c"
@@ -455,6 +475,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "remote-meetings",
   "owner": {
    "login": "w3c"
@@ -477,6 +498,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rqtf",
   "owner": {
    "login": "w3c"
@@ -499,6 +521,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "saur",
   "owner": {
    "login": "w3c"
@@ -521,6 +544,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "xaur",
   "owner": {
    "login": "w3c"
