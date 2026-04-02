@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "IntersectionObserver",
   "owner": {
    "login": "w3c"
@@ -25,7 +25,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "css-a11y",
   "owner": {
    "login": "w3c"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "css-houdini-drafts",
   "owner": {
    "login": "w3c"
@@ -75,7 +75,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "csswg-apiclient",
   "owner": {
    "login": "w3c"
@@ -101,7 +101,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "csswg-drafts",
   "owner": {
    "login": "w3c"
@@ -126,7 +126,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "csswg-wiki",
   "owner": {
    "login": "w3c"
@@ -151,7 +151,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "csswg-www",
   "owner": {
    "login": "w3c"
@@ -177,7 +177,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "fxtf-drafts",
   "owner": {
    "login": "w3c"
