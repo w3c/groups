@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "FiskMississippiMapsStreamCourses",
   "owner": {
    "login": "Maps4HTML"
@@ -18,7 +18,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "HTML-Map-Element-UseCases-Requirements",
   "owner": {
    "login": "Maps4HTML"
@@ -43,7 +43,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "Leaflet",
   "owner": {
    "login": "Maps4HTML"
@@ -61,7 +61,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "MapML-Proposal",
   "owner": {
    "login": "Maps4HTML"
@@ -84,7 +84,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "MapML-Specification",
   "owner": {
    "login": "Maps4HTML"
@@ -107,7 +107,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "MapML.js",
   "owner": {
    "login": "Maps4HTML"
@@ -131,7 +131,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "MapServer-documentation",
   "owner": {
    "login": "Maps4HTML"
@@ -149,7 +149,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "Maps4HTML-CG-Charter",
   "owner": {
    "login": "Maps4HTML"
@@ -172,7 +172,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "Maps4HTML-Workshop-2020",
   "owner": {
    "login": "Maps4HTML"
@@ -198,7 +198,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "Maps4HTML.github.io",
   "owner": {
    "login": "Maps4HTML"
@@ -222,7 +222,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "TiledArt-Rousseau",
   "owner": {
    "login": "Maps4HTML"
@@ -240,7 +240,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "UCR-MapML-Matrix",
   "owner": {
    "login": "Maps4HTML"
@@ -264,7 +264,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "chat",
   "owner": {
    "login": "Maps4HTML"
@@ -281,7 +281,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "experiments",
   "owner": {
    "login": "Maps4HTML"
@@ -299,7 +299,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "gdal",
   "owner": {
    "login": "Maps4HTML"
@@ -317,7 +317,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "geoserver",
   "owner": {
    "login": "Maps4HTML"
@@ -335,7 +335,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "geotools",
   "owner": {
    "login": "Maps4HTML"
@@ -353,7 +353,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "geowebcache",
   "owner": {
    "login": "Maps4HTML"
@@ -371,7 +371,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "leaflet-locatecontrol",
   "owner": {
    "login": "Maps4HTML"
@@ -389,7 +389,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mapml-extension",
   "owner": {
    "login": "Maps4HTML"
@@ -413,7 +413,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mapml-pgrouting",
   "owner": {
    "login": "Maps4HTML"
@@ -430,7 +430,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mapmlify",
   "owner": {
    "login": "Maps4HTML"
@@ -448,7 +448,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mapserver",
   "owner": {
    "login": "Maps4HTML"
@@ -466,7 +466,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "proj4leaflet",
   "owner": {
    "login": "Maps4HTML"
@@ -484,7 +484,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "pygeoapi-mapml-formatter",
   "owner": {
    "login": "Maps4HTML"
@@ -501,7 +501,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "sdw",
   "owner": {
    "login": "Maps4HTML"
@@ -519,7 +519,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "validator-mapml",
   "owner": {
    "login": "Maps4HTML"
@@ -536,7 +536,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-map-doc",
   "owner": {
    "login": "Maps4HTML"
@@ -553,7 +553,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webwewant.fyi",
   "owner": {
    "login": "Maps4HTML"
