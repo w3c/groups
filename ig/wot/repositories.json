@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot-usecases",
   "owner": {
    "login": "w3c-lbd-cg"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot",
   "owner": {
    "login": "w3c"
@@ -48,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot-charter-drafts",
   "owner": {
    "login": "w3c"
@@ -72,6 +75,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot-marketing",
   "owner": {
    "login": "w3c"
@@ -96,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot-ngsi-ld",
   "owner": {
    "login": "w3c"
@@ -119,6 +124,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot-testing",
   "owner": {
    "login": "w3c"
@@ -142,6 +148,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "wot-usecases",
   "owner": {
    "login": "w3c"
