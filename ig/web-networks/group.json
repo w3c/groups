@@ -48,7 +48,7 @@
  "type": "interest group",
  "start-date": "2019-05-16",
  "end-date": "2025-12-31",
- "@context": "/contexts/group.jsonld",
+ "@context": "/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/web-networks"
