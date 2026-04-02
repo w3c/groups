@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "htmlvoc",
   "owner": {
    "login": "floresbakker"
@@ -24,7 +24,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webextensions",
   "owner": {
    "login": "w3c"
