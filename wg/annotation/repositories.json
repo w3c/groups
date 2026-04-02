@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "findtext",
   "owner": {
    "login": "w3c"
@@ -24,7 +24,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-annotation",
   "owner": {
    "login": "w3c"
@@ -46,7 +46,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-annotation-tests",
   "owner": {
    "login": "w3c"
