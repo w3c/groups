@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "Nordic-Accessibility-Community-Group"
@@ -15,6 +16,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "working-with-EN-301-549",
   "owner": {
    "login": "Nordic-Accessibility-Community-Group"
