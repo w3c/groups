@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Bilingual_Dictionaries_Report",
   "owner": {
    "login": "bpmlod"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Corpora_annotation_report",
   "owner": {
    "login": "bpmlod"
@@ -33,7 +33,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Crosslingual_linking_report",
   "owner": {
    "login": "bpmlod"
@@ -50,7 +50,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "LLOD_aware_services_report",
   "owner": {
    "login": "bpmlod"
@@ -66,7 +66,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "LLOD_for_Under-resourced_languages_report",
   "owner": {
    "login": "bpmlod"
@@ -82,7 +82,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Lexicographic_LLOD_report",
   "owner": {
    "login": "bpmlod"
@@ -98,7 +98,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Licensing_and_metadata_report",
   "owner": {
    "login": "bpmlod"
@@ -114,7 +114,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Multimodal_data_report",
   "owner": {
    "login": "bpmlod"
@@ -130,7 +130,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "NIF_Based_NLP_Services_report",
   "owner": {
    "login": "bpmlod"
@@ -146,7 +146,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Neuro-symbolic_LLOD_report",
   "owner": {
    "login": "bpmlod"
@@ -162,7 +162,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Sign_language_report",
   "owner": {
    "login": "bpmlod"
@@ -178,7 +178,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Terminology_Generation_Report",
   "owner": {
    "login": "bpmlod"
@@ -195,7 +195,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "Wordnets_report",
   "owner": {
    "login": "bpmlod"
@@ -211,7 +211,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "bpmlod-draft",
   "owner": {
    "login": "bpmlod"
@@ -228,7 +228,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "draft",
   "owner": {
    "login": "bpmlod"
@@ -245,7 +245,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "report",
   "owner": {
    "login": "bpmlod"
