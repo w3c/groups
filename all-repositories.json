@@ -14592,23 +14592,6 @@
   }
  },
  {
-  "name": "vc-barcodes",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "url": "https://github.com/w3c-ccg/vc-barcodes",
-  "homepageUrl": "https://w3c-ccg.github.io/vc-barcodes/",
-  "description": "Securing optical barcodes using Verifiable Credentials.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "vc-csl2017",
   "owner": {
    "login": "w3c-ccg"
@@ -14732,30 +14715,6 @@
   }
  },
  {
-  "name": "vc-recognition",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "url": "https://github.com/w3c-ccg/vc-recognition",
-  "homepageUrl": "https://w3c-ccg.github.io/vc-recognition/",
-  "description": "Draft specification for VCs for Recognized Entities",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    53154
-   ],
-   "contacts": [
-    "yourGHusername"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
   "name": "vc-refresh",
   "owner": {
    "login": "w3c-ccg"
@@ -14855,23 +14814,6 @@
   "url": "https://github.com/w3c-ccg/vc-wireless",
   "homepageUrl": "https://w3c-ccg.github.io/vc-wireless/",
   "description": "Wireless transmission of verifiable credentials over NFC and Bluetooth",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ],
-   "exposed": true
-  }
- },
- {
-  "name": "vcalm",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "url": "https://github.com/w3c-ccg/vcalm",
-  "homepageUrl": "https://w3c-ccg.github.io/vcalm/",
-  "description": "An HTTP API for performing credential lifecycle management for Verifiable Credentials.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -30597,6 +30539,29 @@
   "isPrivate": false
  },
  {
+  "name": "vc-barcodes",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-barcodes",
+  "homepageUrl": "https://w3c-ccg.github.io/vc-barcodes/",
+  "description": "Securing optical barcodes using Verifiable Credentials.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "vc-bitstring-status-list",
   "owner": {
    "login": "w3c"
@@ -31093,6 +31058,30 @@
   }
  },
  {
+  "name": "vc-recognition",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-recognition",
+  "homepageUrl": "https://w3c-ccg.github.io/vc-recognition/",
+  "description": "Draft specification for VCs for Recognized Entities",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
   "name": "vc-render-method",
   "owner": {
    "login": "w3c"
@@ -31229,6 +31218,29 @@
    "policy": "open",
    "repo-type": [
     "process"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "name": "vcalm",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vcalm",
+  "homepageUrl": "https://w3c-ccg.github.io/vcalm/",
+  "description": "An HTTP API for performing credential lifecycle management for Verifiable Credentials.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
