@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rch-explainer",
   "owner": {
    "login": "w3c"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rch-wg",
   "owner": {
    "login": "w3c"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rdf-canon",
   "owner": {
    "login": "w3c"
