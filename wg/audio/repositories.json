@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Audio-EQ-Cookbook",
   "owner": {
    "login": "WebAudio"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-audio-api",
   "owner": {
    "login": "WebAudio"
@@ -45,6 +47,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-midi-api",
   "owner": {
    "login": "WebAudio"
