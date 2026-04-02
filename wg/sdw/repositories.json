@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sdw",
   "owner": {
    "login": "w3c"
@@ -26,6 +27,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sdw-sosa-ssn",
   "owner": {
    "login": "w3c"
