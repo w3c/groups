@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "w3ctag"
@@ -17,7 +17,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "accessibility-responses",
   "owner": {
    "login": "w3ctag"
@@ -33,7 +33,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "accessibility-screener",
   "owner": {
    "login": "w3ctag"
@@ -51,7 +51,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "bfcache-guide",
   "owner": {
    "login": "w3ctag"
@@ -68,7 +68,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "caching-bundling-sustainability",
   "owner": {
    "login": "w3ctag"
@@ -86,7 +86,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "capability-urls",
   "owner": {
    "login": "w3ctag"
@@ -104,7 +104,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "design-principles",
   "owner": {
    "login": "w3ctag"
@@ -122,7 +122,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "design-reviews",
   "owner": {
    "login": "w3ctag"
@@ -146,7 +146,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "distributed-content",
   "owner": {
    "login": "w3ctag"
@@ -164,7 +164,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "encryption-finding",
   "owner": {
    "login": "w3ctag"
@@ -181,7 +181,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ethical-web-principles",
   "owner": {
    "login": "w3ctag"
@@ -199,7 +199,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "evergreen-web",
   "owner": {
    "login": "w3ctag"
@@ -217,7 +217,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "explainer-explainer",
   "owner": {
    "login": "w3ctag"
@@ -235,7 +235,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "extending-html-responsibly",
   "owner": {
    "login": "w3ctag"
@@ -251,7 +251,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "extensible-web-report-card",
   "owner": {
    "login": "w3ctag"
@@ -269,7 +269,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "gaps",
   "owner": {
    "login": "w3ctag"
@@ -286,7 +286,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "w3ctag"
@@ -303,7 +303,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "obsoletion",
   "owner": {
    "login": "w3ctag"
@@ -320,7 +320,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "placeholder",
   "owner": {
    "login": "w3ctag"
@@ -337,7 +337,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "polyfills",
   "owner": {
    "login": "w3ctag"
@@ -355,7 +355,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "presentations",
   "owner": {
    "login": "w3ctag"
@@ -371,7 +371,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "prevent-credential-abuse",
   "owner": {
    "login": "w3ctag"
@@ -397,7 +397,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "privacy-principles",
   "owner": {
    "login": "w3ctag"
@@ -414,7 +414,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "private-browsing-modes",
   "owner": {
    "login": "w3ctag"
@@ -432,7 +432,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "private-mode",
   "owner": {
    "login": "w3ctag"
@@ -450,7 +450,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "process",
   "owner": {
    "login": "w3ctag"
@@ -466,7 +466,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "promises-guide",
   "owner": {
    "login": "w3ctag"
@@ -484,7 +484,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "secure-the-web",
   "owner": {
    "login": "w3ctag"
@@ -501,7 +501,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "societal-impact-questionnaire",
   "owner": {
    "login": "w3ctag"
@@ -519,7 +519,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tag.w3.org",
   "owner": {
    "login": "w3ctag"
@@ -537,7 +537,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tagdocs",
   "owner": {
    "login": "w3ctag"
@@ -554,7 +554,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tools",
   "owner": {
    "login": "w3ctag"
@@ -571,7 +571,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tracking-issues",
   "owner": {
    "login": "w3ctag"
@@ -588,7 +588,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "unsanctioned-tracking",
   "owner": {
    "login": "w3ctag"
@@ -606,7 +606,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "url",
   "owner": {
    "login": "w3ctag"
@@ -624,7 +624,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "urls-in-data",
   "owner": {
    "login": "w3ctag"
@@ -640,7 +640,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "user-agents",
   "owner": {
    "login": "w3ctag"
@@ -658,7 +658,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "w3ctag.github.io",
   "owner": {
    "login": "w3ctag"
@@ -681,7 +681,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "w3ctagbot",
   "owner": {
    "login": "w3ctag"
@@ -698,7 +698,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-https",
   "owner": {
    "login": "w3ctag"
@@ -716,7 +716,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-without-3p-cookies",
   "owner": {
    "login": "w3ctag"
@@ -734,7 +734,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webarch",
   "owner": {
    "login": "w3ctag"
@@ -752,7 +752,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webcomponents-design-guidelines",
   "owner": {
    "login": "w3ctag"
@@ -769,7 +769,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wiki",
   "owner": {
    "login": "w3ctag"
