@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "afrlreq",
   "owner": {
    "login": "w3c"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "alreq",
   "owner": {
    "login": "w3c"
@@ -46,6 +48,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "amlreq",
   "owner": {
    "login": "w3c"
@@ -70,6 +73,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "bp-i18n-specdev",
   "owner": {
    "login": "w3c"
@@ -94,6 +98,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "charmod-norm",
   "owner": {
    "login": "w3c"
@@ -118,6 +123,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "clreq",
   "owner": {
    "login": "w3c"
@@ -143,6 +149,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "elreq",
   "owner": {
    "login": "w3c"
@@ -166,6 +173,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "eurlreq",
   "owner": {
    "login": "w3c"
@@ -189,6 +197,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "hlreq",
   "owner": {
    "login": "w3c"
@@ -214,6 +223,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "html-ruby",
   "owner": {
    "login": "w3c"
@@ -240,6 +250,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-actions",
   "owner": {
    "login": "w3c"
@@ -264,6 +275,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-activity",
   "owner": {
    "login": "w3c"
@@ -289,6 +301,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-checker",
   "owner": {
    "login": "w3c"
@@ -313,6 +326,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-discuss",
   "owner": {
    "login": "w3c"
@@ -336,6 +350,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-drafts",
   "owner": {
    "login": "w3c"
@@ -359,6 +374,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-glossary",
   "owner": {
    "login": "w3c"
@@ -383,6 +399,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-issues",
   "owner": {
    "login": "w3c"
@@ -406,6 +423,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-request",
   "owner": {
    "login": "w3c"
@@ -430,6 +448,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-tests",
   "owner": {
    "login": "w3c"
@@ -454,6 +473,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-translations",
   "owner": {
    "login": "w3c"
@@ -479,6 +499,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "i18n-videos",
   "owner": {
    "login": "w3c"
@@ -502,6 +523,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "iip",
   "owner": {
    "login": "w3c"
@@ -528,6 +550,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ilreq",
   "owner": {
    "login": "w3c"
@@ -552,6 +575,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "jlreq",
   "owner": {
    "login": "w3c"
@@ -578,6 +602,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "jlreq-d",
   "owner": {
    "login": "w3c"
@@ -602,6 +627,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "klreq",
   "owner": {
    "login": "w3c"
@@ -625,6 +651,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "line_paragraph_tests",
   "owner": {
    "login": "w3c"
@@ -647,6 +674,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "localizable-manifests",
   "owner": {
    "login": "w3c"
@@ -671,6 +699,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ltli",
   "owner": {
    "login": "w3c"
@@ -695,6 +724,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mlreq",
   "owner": {
    "login": "w3c"
@@ -721,6 +751,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "predefined-counter-styles",
   "owner": {
    "login": "w3c"
@@ -744,6 +775,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sealreq",
   "owner": {
    "login": "w3c"
@@ -769,6 +801,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "string-meta",
   "owner": {
    "login": "w3c"
@@ -793,6 +826,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "string-search",
   "owner": {
    "login": "w3c"
@@ -816,6 +850,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "text_direction_tests",
   "owner": {
    "login": "w3c"
@@ -838,6 +873,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "timezone",
   "owner": {
    "login": "w3c"
@@ -861,6 +897,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tlreq",
   "owner": {
    "login": "w3c"
@@ -887,6 +924,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "type-samples",
   "owner": {
    "login": "w3c"
@@ -911,6 +949,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "typography",
   "owner": {
    "login": "w3c"
@@ -935,6 +974,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "unicode-xml",
   "owner": {
    "login": "w3c"
