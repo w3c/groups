@@ -47,7 +47,7 @@
  "type": "interest group",
  "start-date": "2012-02-17",
  "end-date": "2024-02-29",
- "@context": "/groups/contexts/group.jsonld",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/privacy"
