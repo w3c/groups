@@ -48,6 +48,7 @@
  "type": "working group",
  "start-date": "2013-12-10",
  "end-date": "2016-12-31",
+ "@context": "/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/dwbp"
