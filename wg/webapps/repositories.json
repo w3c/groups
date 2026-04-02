@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "FileAPI",
   "owner": {
    "login": "w3c"
@@ -25,7 +25,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "IndexedDB",
   "owner": {
    "login": "w3c"
@@ -50,7 +50,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "ServiceWorker",
   "owner": {
    "login": "w3c"
@@ -76,7 +76,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "badging",
   "owner": {
    "login": "w3c"
@@ -102,7 +102,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "contact-picker",
   "owner": {
    "login": "w3c"
@@ -127,7 +127,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "gamepad",
   "owner": {
    "login": "w3c"
@@ -152,7 +152,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "image-resource",
   "owner": {
    "login": "w3c"
@@ -177,7 +177,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "manifest",
   "owner": {
    "login": "w3c"
@@ -202,7 +202,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "manifest-app-info",
   "owner": {
    "login": "w3c"
@@ -227,7 +227,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "pointerlock",
   "owner": {
    "login": "w3c"
@@ -252,7 +252,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "push-api",
   "owner": {
    "login": "w3c"
@@ -277,7 +277,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "screen-orientation",
   "owner": {
    "login": "w3c"
@@ -302,7 +302,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "uievents",
   "owner": {
    "login": "w3c"
@@ -327,7 +327,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "uievents-code",
   "owner": {
    "login": "w3c"
@@ -352,7 +352,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "uievents-key",
   "owner": {
    "login": "w3c"
@@ -377,7 +377,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "using-aria",
   "owner": {
    "login": "w3c"
@@ -403,7 +403,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "web-locks",
   "owner": {
    "login": "w3c"
@@ -428,7 +428,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "web-share",
   "owner": {
    "login": "w3c"
@@ -455,7 +455,7 @@
   }
  },
  {
-  "@context": "/contexts/repository.jsonld",
+  "@context": "/groups/contexts/repository.jsonld",
   "name": "webappswg",
   "owner": {
    "login": "w3c"
