@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "LightweightFedCM",
   "owner": {
    "login": "fedidcg"
@@ -16,6 +17,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "fedidcg"
@@ -32,6 +34,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "fedcm-testing",
   "owner": {
    "login": "fedidcg"
@@ -47,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "fedidcg.github.io",
   "owner": {
    "login": "fedidcg"
@@ -64,6 +68,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "idp-initiated",
   "owner": {
    "login": "fedidcg"
@@ -79,6 +84,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "login-element",
   "owner": {
    "login": "fedidcg"
@@ -94,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "fedidcg"
@@ -117,6 +124,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "native-app-idps",
   "owner": {
    "login": "fedidcg"
@@ -132,6 +140,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "fedidcg"
@@ -148,6 +157,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "protocol-library",
   "owner": {
    "login": "fedidcg"
@@ -164,6 +174,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "template",
   "owner": {
    "login": "fedidcg"
@@ -180,6 +191,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "use-case-library",
   "owner": {
    "login": "fedidcg"
@@ -195,6 +207,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "active-mode",
   "owner": {
    "login": "w3c-fedid"
@@ -219,6 +232,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "agentic-federated-login",
   "owner": {
    "login": "w3c-fedid"
@@ -245,6 +259,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "custom-requests",
   "owner": {
    "login": "w3c-fedid"
@@ -271,6 +286,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "delegation",
   "owner": {
    "login": "w3c-fedid"
@@ -297,6 +313,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "idp-registration",
   "owner": {
    "login": "w3c-fedid"
@@ -323,6 +340,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "multi-idp",
   "owner": {
    "login": "w3c-fedid"
@@ -348,6 +366,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "potentially-approved-sites",
   "owner": {
    "login": "w3c-fedid"
@@ -374,6 +393,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "proposals",
   "owner": {
    "login": "w3c-fedid"
@@ -395,6 +415,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "template",
   "owner": {
    "login": "w3c-fedid"
