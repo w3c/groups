@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sparql-dev",
   "owner": {
    "login": "w3c"
