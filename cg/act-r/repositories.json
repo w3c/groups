@@ -1,6 +1,6 @@
 [
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-implementor",
   "owner": {
    "login": "act-rules"
@@ -18,7 +18,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-practice-repo",
   "owner": {
    "login": "act-rules"
@@ -34,7 +34,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules-implementation-access-engine",
   "owner": {
    "login": "act-rules"
@@ -50,7 +50,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules-implementation-qualweb",
   "owner": {
    "login": "act-rules"
@@ -67,7 +67,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules-implementation-rgaa",
   "owner": {
    "login": "act-rules"
@@ -84,7 +84,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules-implementation-sortsite",
   "owner": {
    "login": "act-rules"
@@ -101,7 +101,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules-implementation-trusted-tester",
   "owner": {
    "login": "act-rules"
@@ -118,7 +118,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules-web",
   "owner": {
    "login": "act-rules"
@@ -136,7 +136,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-rules.github.io",
   "owner": {
    "login": "act-rules"
@@ -154,7 +154,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-shared-reports",
   "owner": {
    "login": "act-rules"
@@ -170,7 +170,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-tools",
   "owner": {
    "login": "act-rules"
@@ -187,7 +187,7 @@
   }
  },
  {
-  "@context": "/groups/contexts/repository.jsonld",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "testrunner",
   "owner": {
    "login": "act-rules"
