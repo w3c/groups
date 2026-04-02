@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-cbor-note",
   "owner": {
    "login": "w3c"
@@ -48,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-extensions",
   "owner": {
    "login": "w3c"
@@ -72,6 +75,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-imp-guide",
   "owner": {
    "login": "w3c"
@@ -96,6 +100,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-resolution",
   "owner": {
    "login": "w3c"
@@ -120,6 +125,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-resolution-threat-model",
   "owner": {
    "login": "w3c"
@@ -142,6 +148,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-rubric",
   "owner": {
    "login": "w3c"
@@ -166,6 +173,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-test-suite",
   "owner": {
    "login": "w3c"
@@ -190,6 +198,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-use-cases",
   "owner": {
    "login": "w3c"
@@ -214,6 +223,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "did-wg-charter",
   "owner": {
    "login": "w3c"
