@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "sustainability",
   "owner": {
    "login": "w3c-cg"
