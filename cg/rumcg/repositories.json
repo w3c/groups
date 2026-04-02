@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "rum",
   "owner": {
    "login": "w3c-cg"
