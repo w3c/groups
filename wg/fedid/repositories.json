@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "w3c-fedid"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "Administration",
   "owner": {
    "login": "w3c-fedid"
@@ -47,6 +49,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "FedCM",
   "owner": {
    "login": "w3c-fedid"
@@ -72,6 +75,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "digital-credentials",
   "owner": {
    "login": "w3c-fedid"
@@ -97,6 +101,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "login-status",
   "owner": {
    "login": "w3c-fedid"
@@ -122,6 +127,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "w3c-fedid"
