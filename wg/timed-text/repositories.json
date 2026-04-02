@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "IMSC-1.0.1_Text_TestContent",
   "owner": {
    "login": "w3c"
@@ -22,6 +23,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "IMSC-1.1_Image_TestContent",
   "owner": {
    "login": "w3c"
@@ -44,6 +46,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "IMSC-1.1_Text_TestContent",
   "owner": {
    "login": "w3c"
@@ -66,6 +69,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "charter-timed-text",
   "owner": {
    "login": "w3c"
@@ -90,6 +94,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dapt",
   "owner": {
    "login": "w3c"
@@ -113,6 +118,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dapt-reqs",
   "owner": {
    "login": "w3c"
@@ -136,6 +142,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "dapt-tests",
   "owner": {
    "login": "w3c"
@@ -158,6 +165,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "imsc",
   "owner": {
    "login": "w3c"
@@ -182,6 +190,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "imsc-hrm",
   "owner": {
    "login": "w3c"
@@ -205,6 +214,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "imsc-hrm-tests",
   "owner": {
    "login": "w3c"
@@ -228,6 +238,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "imsc-tests",
   "owner": {
    "login": "w3c"
@@ -252,6 +263,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "imsc-vnext-reqs",
   "owner": {
    "login": "w3c"
@@ -276,6 +288,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "png-hdr-pq",
   "owner": {
    "login": "w3c"
@@ -300,6 +313,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "timed-text-dashboard",
   "owner": {
    "login": "w3c"
@@ -323,6 +337,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-module-cjk-ext-1",
   "owner": {
    "login": "w3c"
@@ -345,6 +360,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-module-css",
   "owner": {
    "login": "w3c"
@@ -366,6 +382,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-module-karaoke",
   "owner": {
    "login": "w3c"
@@ -389,6 +406,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-module-live",
   "owner": {
    "login": "w3c"
@@ -412,6 +430,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-module-registry",
   "owner": {
    "login": "w3c"
@@ -433,6 +452,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-module-vr",
   "owner": {
    "login": "w3c"
@@ -454,6 +474,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-profile-registry",
   "owner": {
    "login": "w3c"
@@ -478,6 +499,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "tt-reqs",
   "owner": {
    "login": "w3c"
@@ -502,6 +524,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml-webvtt-mapping",
   "owner": {
    "login": "w3c"
@@ -526,6 +549,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml1",
   "owner": {
    "login": "w3c"
@@ -550,6 +574,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml1-tests",
   "owner": {
    "login": "w3c"
@@ -573,6 +598,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml2",
   "owner": {
    "login": "w3c"
@@ -597,6 +623,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml2-tests",
   "owner": {
    "login": "w3c"
@@ -620,6 +647,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml3",
   "owner": {
    "login": "w3c"
@@ -644,6 +672,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttml3-tests",
   "owner": {
    "login": "w3c"
@@ -667,6 +696,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "ttwg",
   "owner": {
    "login": "w3c"
@@ -690,6 +720,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webvtt",
   "owner": {
    "login": "w3c"
