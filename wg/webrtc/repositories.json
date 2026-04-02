@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "media-pipeline-arch",
   "owner": {
    "login": "w3c"
@@ -24,6 +25,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-automation",
   "owner": {
    "login": "w3c"
@@ -48,6 +50,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-extensions",
   "owner": {
    "login": "w3c"
@@ -72,6 +75,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-fromelement",
   "owner": {
    "login": "w3c"
@@ -97,6 +101,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-handle",
   "owner": {
    "login": "w3c"
@@ -120,6 +125,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-image",
   "owner": {
    "login": "w3c"
@@ -145,6 +151,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-main",
   "owner": {
    "login": "w3c"
@@ -170,6 +177,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-output",
   "owner": {
    "login": "w3c"
@@ -195,6 +203,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-record",
   "owner": {
    "login": "w3c"
@@ -220,6 +229,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-region",
   "owner": {
    "login": "w3c"
@@ -244,6 +254,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-screen-share",
   "owner": {
    "login": "w3c"
@@ -269,6 +280,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-screen-share-extensions",
   "owner": {
    "login": "w3c"
@@ -291,6 +303,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-surface-control",
   "owner": {
    "login": "w3c"
@@ -315,6 +328,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-transform",
   "owner": {
    "login": "w3c"
@@ -339,6 +353,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mediacapture-viewport",
   "owner": {
    "login": "w3c"
@@ -363,6 +378,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "mst-content-hint",
   "owner": {
    "login": "w3c"
@@ -387,6 +403,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-charter",
   "owner": {
    "login": "w3c"
@@ -411,6 +428,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-encoded-transform",
   "owner": {
    "login": "w3c"
@@ -435,6 +453,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-extensions",
   "owner": {
    "login": "w3c"
@@ -459,6 +478,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-ice",
   "owner": {
    "login": "w3c"
@@ -483,6 +503,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-identity",
   "owner": {
    "login": "w3c"
@@ -507,6 +528,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-interop-reports",
   "owner": {
    "login": "w3c"
@@ -531,6 +553,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-nv-use-cases",
   "owner": {
    "login": "w3c"
@@ -555,6 +578,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-pc",
   "owner": {
    "login": "w3c"
@@ -580,6 +604,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-priority",
   "owner": {
    "login": "w3c"
@@ -604,6 +629,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-provisional-stats",
   "owner": {
    "login": "w3c"
@@ -627,6 +653,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-rtptransport",
   "owner": {
    "login": "w3c"
@@ -651,6 +678,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-stats",
   "owner": {
    "login": "w3c"
@@ -676,6 +704,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webrtc-svc",
   "owner": {
    "login": "w3c"
