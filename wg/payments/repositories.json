@@ -1,5 +1,6 @@
 [
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "payment-method-id",
   "owner": {
    "login": "w3c"
@@ -23,6 +24,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "payment-method-manifest",
   "owner": {
    "login": "w3c"
@@ -46,6 +48,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "payment-request",
   "owner": {
    "login": "w3c"
@@ -69,6 +72,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "payment-request-info",
   "owner": {
    "login": "w3c"
@@ -92,6 +96,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "secure-payment-confirmation",
   "owner": {
    "login": "w3c"
@@ -115,6 +120,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "web-based-payment-handler",
   "owner": {
    "login": "w3c"
@@ -138,6 +144,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webpayments",
   "owner": {
    "login": "w3c"
@@ -162,6 +169,7 @@
   }
  },
  {
+  "@context": "/contexts/repository.jsonld",
   "name": "webpayments-flows",
   "owner": {
    "login": "w3c"
