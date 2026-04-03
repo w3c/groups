@@ -21079,30 +21079,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "edge-computing-web-exploration",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/edge-computing-web-exploration",
-  "homepageUrl": "https://w3c.github.io/edge-computing-web-exploration/",
-  "description": "A repo where the Web & Networks Interest Group explores the intersection of Web and Edge Computing",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/web-networks"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "edit-context",
   "owner": {
    "login": "w3c"
@@ -26315,29 +26291,6 @@
   "url": "https://github.com/w3c/netinfo",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "network-emulation",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/network-emulation",
-  "description": "Documenting how capturing network traces and using it to emulate real-world network conditions can be helpful for Web developers",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    115035
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -34330,54 +34283,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "web-networks",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/web-networks",
-  "homepageUrl": "https://www.w3.org/groups/ig/web-networks/",
-  "description": "Web & Networks Interest Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    115035
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "web-networks-charter",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/web-networks-charter",
-  "homepageUrl": "https://w3c.github.io/web-networks-charter/",
-  "description": "Towards a Web & Networks Interest Group charter",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "ig/web-networks"
-   ],
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "process"
    ],
    "exposed": true
   }
