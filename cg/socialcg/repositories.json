@@ -241,6 +241,24 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "charters",
+  "owner": {
+   "login": "swicg"
+  },
+  "url": "https://github.com/swicg/charters",
+  "homepageUrl": "https://swicg.github.io/charters/",
+  "description": "Discussion of potential CG and WG charters",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "extensions-policy",
   "owner": {
    "login": "swicg"
@@ -349,23 +367,6 @@
   },
   "url": "https://github.com/swicg/miscellany",
   "description": "Documentation and context for miscellaneous terms used by ActivityPub implementations",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/socialcg"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "potential-charters",
-  "owner": {
-   "login": "swicg"
-  },
-  "url": "https://github.com/swicg/potential-charters",
-  "description": "Discussion of potential CG and WG charters",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
