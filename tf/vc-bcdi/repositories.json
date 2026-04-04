@@ -1,0 +1,27 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-barcodes",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-barcodes",
+  "homepageUrl": "https://w3c-ccg.github.io/vc-barcodes/",
+  "description": "Securing optical barcodes using Verifiable Credentials.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ }
+]
