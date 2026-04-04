@@ -1,0 +1,29 @@
+{
+ "id": 175961,
+ "name": "VC Render Method",
+ "is_closed": false,
+ "creation-date": "2026-04-03",
+ "shortname": "vc-rem",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/vc-rem/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/vc-rem/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/vc-rem/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/vc-rem/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vc-rem"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/vc-rem",
+ "group-type": "tf"
+}
