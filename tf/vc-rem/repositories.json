@@ -1,0 +1,28 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-render-method",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-render-method",
+  "homepageUrl": "https://w3c.github.io/vc-render-method/",
+  "description": "Rendering methods for Verifiable Credentials",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-rem"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-render-method",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ }
+]
