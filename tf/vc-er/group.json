@@ -1,0 +1,29 @@
+{
+ "id": 175931,
+ "name": "VC for Entity Recognition",
+ "is_closed": false,
+ "creation-date": "2026-04-02",
+ "shortname": "vc-er",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/vc-er/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/vc-er/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/vc-er/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/vc-er/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vc-er"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/vc-er",
+ "group-type": "tf"
+}
