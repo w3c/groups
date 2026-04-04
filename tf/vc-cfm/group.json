@@ -1,0 +1,29 @@
+{
+ "id": 175955,
+ "name": "VC Confidence Method",
+ "is_closed": false,
+ "creation-date": "2026-04-03",
+ "shortname": "vc-cfm",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/vc-cfm/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/vc-cfm/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/vc-cfm/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/vc-cfm/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vc-cfm"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/vc-cfm",
+ "group-type": "tf"
+}
