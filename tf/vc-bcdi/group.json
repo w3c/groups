@@ -1,0 +1,29 @@
+{
+ "id": 175924,
+ "name": "VC Barcodes and Data Integrity",
+ "is_closed": false,
+ "creation-date": "2026-04-02",
+ "shortname": "vc-bcdi",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/vc-bcdi/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/vc-bcdi/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/vc-bcdi/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/vc-bcdi/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vc-bcdi"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/vc-bcdi",
+ "group-type": "tf"
+}
