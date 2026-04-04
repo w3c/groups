@@ -27646,7 +27646,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/vc"
+    "wg/vc",
+    "tf/vc-bcdi"
    ],
    "contacts": [
     "iherman"
@@ -27721,7 +27722,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/vc"
+    "wg/vc",
+    "tf/vc-cfm"
    ],
    "contacts": [
     "iherman"
@@ -28187,7 +28189,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/vc"
+    "wg/vc",
+    "tf/vc-er"
    ],
    "contacts": [
     "iherman"
@@ -28212,7 +28215,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/vc"
+    "wg/vc",
+    "tf/vc-rem"
    ],
    "contacts": [
     "iherman"
@@ -28359,7 +28363,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/vc"
+    "wg/vc",
+    "tf/vc-alm"
    ],
    "contacts": [
     "iherman"
