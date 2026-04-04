@@ -1,0 +1,29 @@
+{
+ "id": 175934,
+ "name": "VC API for Lifecycle Management",
+ "is_closed": false,
+ "creation-date": "2026-04-02",
+ "shortname": "vc-alm",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/vc-alm/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/vc-alm/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/vc-alm/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/vc-alm/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vc-alm"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/vc-alm",
+ "group-type": "tf"
+}
