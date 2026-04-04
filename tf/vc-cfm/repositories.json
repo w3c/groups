@@ -1,0 +1,28 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-confidence-method",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-confidence-method",
+  "homepageUrl": "https://w3c.github.io/vc-confidence-method/",
+  "description": "W3C VCDM extension for confidence method",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-cfm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-confidence-method",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ }
+]
