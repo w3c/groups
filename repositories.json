@@ -15272,24 +15272,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "vcalm",
-  "owner": {
-   "login": "w3c-ccg"
-  },
-  "url": "https://github.com/w3c-ccg/vcalm",
-  "homepageUrl": "https://w3c.github.io/vcalm/",
-  "description": "Redirect to W3C VCALM specification.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credentials"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vcwg-maintenance",
   "owner": {
    "login": "w3c-ccg"
