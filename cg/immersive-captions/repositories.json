@@ -3,23 +3,6 @@
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "immersive-captions-cg",
   "owner": {
-   "login": "michael-n-cooper"
-  },
-  "url": "https://github.com/michael-n-cooper/immersive-captions-cg",
-  "description": "Immersive Captions Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/immersive-captions"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "immersive-captions-cg",
-  "owner": {
    "login": "w3c"
   },
   "url": "https://github.com/w3c/immersive-captions-cg",
