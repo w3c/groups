@@ -9867,23 +9867,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "immersive-captions-cg",
-  "owner": {
-   "login": "michael-n-cooper"
-  },
-  "url": "https://github.com/michael-n-cooper/immersive-captions-cg",
-  "description": "Immersive Captions Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/immersive-captions"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "NLWeb",
   "owner": {
    "login": "nlweb-ai"
@@ -27622,8 +27605,8 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/vc-barcodes",
-  "homepageUrl": "https://w3c-ccg.github.io/vc-barcodes/",
-  "description": "Securing optical barcodes using Verifiable Credentials.",
+  "homepageUrl": "https://w3c.github.io/vc-barcodes/",
+  "description": "Securing optical barcodes using verifiable credentials.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -28166,7 +28149,7 @@
   },
   "url": "https://github.com/w3c/vc-recognition",
   "homepageUrl": "https://w3c.github.io/vc-recognition/",
-  "description": "Draft specification for VCs for Recognized Entities",
+  "description": "Verifiable credentials for recognizing entities and the actions they perform.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -28339,8 +28322,8 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/vcalm",
-  "homepageUrl": "https://w3c-ccg.github.io/vcalm/",
-  "description": "An HTTP API for performing credential lifecycle management for Verifiable Credentials.",
+  "homepageUrl": "https://w3c.github.io/vcalm/",
+  "description": "An HTTP API for performing verifiable credential lifecycle management.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
