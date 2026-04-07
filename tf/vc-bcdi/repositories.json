@@ -23,5 +23,108 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-data-integrity",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-data-integrity",
+  "homepageUrl": "https://w3c.github.io/vc-data-integrity/",
+  "description": "W3C Data Integrity Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-di-bbs",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-di-bbs",
+  "homepageUrl": "https://w3c.github.io/vc-di-bbs/",
+  "description": "A linked data proof suite specification for BBS+ signatures",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-di-bbs",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-di-ecdsa",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-di-ecdsa",
+  "homepageUrl": "https://w3c.github.io/vc-di-ecdsa/",
+  "description": "Data Integrity specification for ECDSA using NIST-compliant curves",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-di-ecdsa",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-di-eddsa",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-di-eddsa",
+  "homepageUrl": "https://w3c.github.io/vc-di-eddsa/",
+  "description": "EdDSA Data Integrity Cryptosuites Specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "shortName": "vc-di-eddsa",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
  }
 ]
