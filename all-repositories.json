@@ -22298,30 +22298,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hns-core-spec",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hns-core-spec",
-  "homepageUrl": "https://www.w3.org/community/hns/",
-  "description": "Specification 'hns-core-spec'",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    127946
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "horizontal-issue-tracker",
   "owner": {
    "login": "w3c"
@@ -23455,28 +23431,6 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "interactive-media-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/interactive-media-cg",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    136071
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
