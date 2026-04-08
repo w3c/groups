@@ -20336,30 +20336,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hns-core-spec",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hns-core-spec",
-  "homepageUrl": "https://www.w3.org/community/hns/",
-  "description": "Specification 'hns-core-spec'",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hns"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "hr-time",
   "owner": {
    "login": "w3c"
@@ -21210,28 +21186,6 @@
    "shortName": "input-events",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "interactive-media-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/interactive-media-cg",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/interactive-media"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
