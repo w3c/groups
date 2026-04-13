@@ -126,30 +126,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "json-ld-cbor",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/json-ld-cbor",
-  "homepageUrl": "https://w3c.github.io/json-ld-cbor/",
-  "description": "JSON-LD 1.1 in CBOR Note",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/json-ld"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "json-ld-framing",
   "owner": {
    "login": "w3c"
