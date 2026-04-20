@@ -9332,6 +9332,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "implementation-report",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "url": "https://github.com/kg-construct/implementation-report",
+  "description": "Implementation Report for the new RML Modules",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "kgc-challenge",
   "owner": {
    "login": "kg-construct"
