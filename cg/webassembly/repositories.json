@@ -1381,6 +1381,7 @@
    "login": "WebAssembly"
   },
   "url": "https://github.com/WebAssembly/wasi-spi",
+  "description": "Serial Peripheral Interface (SPI) API for WASI",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
