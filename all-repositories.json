@@ -32307,6 +32307,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-dpp-bw",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-dpp-bw",
+  "homepageUrl": "https://w3c.github.io/vc-dpp-bw/",
+  "description": "DPP & Business Wallet Vocabularies TF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/dbw"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-extensions",
   "owner": {
    "login": "w3c"
