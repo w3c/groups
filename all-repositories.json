@@ -22217,85 +22217,12 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hcls-ccda-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hcls-ccda-rdf",
-  "description": "XSLT to tranform C-CDA into O-RIM RDF",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    92610
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hcls-drug-drug-interaction",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hcls-drug-drug-interaction",
-  "homepageUrl": "https://www.w3.org/wiki/HCLSIG/DDI",
-  "description": "W3C HCLS Drug-Drug Interaction",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    92610
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "hcls-fhir-rdf",
   "owner": {
    "login": "w3c"
   },
   "url": "https://github.com/w3c/hcls-fhir-rdf",
   "description": "Sketching out an RDF representation for FHIR",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    92610
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hcls-natural-product-drug-interaction-fair",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hcls-natural-product-drug-interaction-fair",
-  "description": "How to Make Natural Product – Drug Interaction Study Data Findable, Accessible, Interoperable And Reusable (FAIR)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
