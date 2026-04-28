@@ -28022,12 +28022,12 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "vc-recognition",
+  "name": "vc-recognized-entities",
   "owner": {
    "login": "w3c"
   },
-  "url": "https://github.com/w3c/vc-recognition",
-  "homepageUrl": "https://w3c.github.io/vc-recognition/",
+  "url": "https://github.com/w3c/vc-recognized-entities",
+  "homepageUrl": "https://w3c.github.io/vc-recognized-entities/",
   "description": "Verifiable credentials for recognizing entities and the actions they perform.",
   "isArchived": false,
   "isPrivate": false,
