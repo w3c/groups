@@ -1,30 +1,6 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "cred-claims",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/cred-claims",
-  "description": "Credible Web CG Area-2 (Corroboration-Based Strategies)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credibility"
-   ],
-   "contacts": [
-    "sandhawke"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "credweb",
   "owner": {
    "login": "w3c"
