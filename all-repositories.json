@@ -19711,30 +19711,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "cred-claims",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/cred-claims",
-  "description": "Credible Web CG Area-2 (Corroboration-Based Strategies)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    103073
-   ],
-   "contacts": [
-    "sandhawke"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "credential-considerations",
   "owner": {
    "login": "w3c"
@@ -36263,30 +36239,6 @@
   "url": "https://github.com/w3c/wot-go",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wot-jp-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wot-jp-cg",
-  "homepageUrl": "https://wot-jp-cg.netlify.app/",
-  "description": "W3C Web of Things Japanese Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    129080
-   ],
-   "contacts": [
-    "ashimura"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
