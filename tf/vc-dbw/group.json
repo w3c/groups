@@ -1,0 +1,29 @@
+{
+ "id": 176277,
+ "name": "VC DPP & Business Wallet",
+ "is_closed": false,
+ "creation-date": "2026-04-17",
+ "shortname": "vc-dbw",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/vc-dbw/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/vc-dbw/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/vc-dbw/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/vc-dbw/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vc-dbw"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/vc-dbw",
+ "group-type": "tf"
+}
