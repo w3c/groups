@@ -21039,6 +21039,26 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ecommerce-for-humans-and-AI-Agents-workshop",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/ecommerce-for-humans-and-AI-Agents-workshop",
+  "description": "This repo used by ECommerce for humans and AI Agents workshop homepage",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "workshop"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "edit-context",
   "owner": {
    "login": "w3c"
