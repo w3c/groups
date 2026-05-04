@@ -168,5 +168,22 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-platform-dx.github.io",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "url": "https://github.com/web-platform-dx/web-platform-dx.github.io",
+  "description": "The WebDX CG website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
  }
 ]
