@@ -24,31 +24,5 @@
    ],
    "exposed": true
   }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webmediaguidelines",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/webmediaguidelines",
-  "homepageUrl": "https://w3c.github.io/webmediaguidelines/",
-  "description": "Web Media applications developer guidelines",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webmediaapi"
-   ],
-   "contacts": [
-    "johnluther",
-    "johnriv",
-    "tidoust"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  }
 ]
