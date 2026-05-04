@@ -18688,30 +18688,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "avmedia-formats-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/avmedia-formats-cg",
-  "homepageUrl": "https://www.w3.org/community/av4browsers/",
-  "description": "W3C Audiovisual Media Formats for Browsers Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "group": [
-    "cg/av4browsers"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "badging",
   "owner": {
    "login": "w3c"
@@ -23147,30 +23123,6 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "immersive-captions-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/immersive-captions-cg",
-  "homepageUrl": "https://w3c.github.io/immersive-captions-cg/",
-  "description": "Immersive Captions Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/immersive-captions"
-   ],
-   "contacts": [
-    "ruoxiran"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
@@ -35158,32 +35110,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webmediaguidelines",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/webmediaguidelines",
-  "homepageUrl": "https://w3c.github.io/webmediaguidelines/",
-  "description": "Web Media applications developer guidelines",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    93489
-   ],
-   "contacts": [
-    "johnluther",
-    "johnriv",
-    "tidoust"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webmention",
   "owner": {
    "login": "w3c"
@@ -38019,6 +37945,23 @@
   },
   "url": "https://github.com/web-platform-dx/web-features-mappings",
   "description": "Data files that map various external data sources to web-features",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-platform-dx.github.io",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "url": "https://github.com/web-platform-dx/web-platform-dx.github.io",
+  "description": "The WebDX CG website",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
