@@ -1,0 +1,38 @@
+{
+ "id": 176576,
+ "name": "EthTrust Community Group",
+ "is_closed": false,
+ "creation-date": "2026-04-29",
+ "description": "<p>The group's mission is to maintain the EthTrust Security Levels specification that used to be published by the Enterprise Ethereum Alliance, along with associated information that is useful to help adoption and implementation.</p>",
+ "shortname": "ethtrust",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ethtrust/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ethtrust/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ethtrust/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ethtrust/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ethtrust/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ethtrust/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ethtrust"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ethtrust"
+}
