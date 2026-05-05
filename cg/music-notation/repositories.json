@@ -1,1 +1,127 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mnx",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/mnx",
+  "description": "Music Notation CG next-generation music markup proposal.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "adrianholovaty",
+    "dspreadbury",
+    "mscuthbert"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mnxconverter",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/mnxconverter",
+  "homepageUrl": "https://w3c-cg.github.io/mnxconverter/",
+  "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "adrianholovaty",
+    "dspreadbury",
+    "mscuthbert"
+   ],
+   "repo-type": [
+    "tool"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "music-notationref",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/music-notationref",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "musicxml",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/musicxml",
+  "homepageUrl": "https://w3c-cg.github.io/musicxml/",
+  "description": "MusicXML specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "infojunkie",
+    "adrianholovaty",
+    "dspreadbury"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "smufl",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/smufl",
+  "homepageUrl": "https://w3c-cg.github.io/smufl/latest/",
+  "description": "Standard Music Font Layout",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "dspreadbury",
+    "adrianholovaty",
+    "mscuthbert"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
