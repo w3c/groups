@@ -26233,30 +26233,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "sustyweb",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/sustyweb",
-  "homepageUrl": "https://www.w3.org/community/sustyweb/",
-  "description": "Sustainable Web Design Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/sustyweb"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "svg-aam",
   "owner": {
    "login": "w3c"
