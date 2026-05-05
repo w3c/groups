@@ -1,0 +1,38 @@
+{
+ "id": 175829,
+ "name": "Adaptation and Personalization Community Group",
+ "is_closed": false,
+ "creation-date": "2026-03-29",
+ "description": "<p>Today, beyond language preferences, there are few ways for users to express fine-grained content preferences to Web servers for them to adapt, personalize, or customize content. Without user-preference tools, sites like simple.wikipedia.org resort to providing separate URLs instead of providing different views of content for the primary URL.</p>\n\n<p>It would both benefit users and provide websites with new opportunities to better meet users' needs if users could express a greater number of content-customization preferences such as reading level, language fluency, and background knowledge. Artificial intelligence is making it easier for websites to customize content, creating new opportunities to meet finer-grained preferences.</p>\n\n<p>The mission of this group is to explore and discuss mechanisms for users to express content-customization preferences. This group will explore and discuss topics including artificial intelligence, adaptive hypermedia, adaptive explanation, adaptive learning, adaptive instructional systems, and user modeling.</p>\n\n<p>This group may publish Specifications.</p>",
+ "shortname": "adaptation",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/adaptation/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/adaptation/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/adaptation/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/adaptation/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/adaptation/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/adaptation/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/adaptation"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/adaptation"
+}
