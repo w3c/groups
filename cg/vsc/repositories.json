@@ -1,0 +1,26 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vsc",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/vsc",
+  "homepageUrl": "https://w3c-cg.github.io/vsc/",
+  "description": "W3C Verifiable Supply Chain CG: Industry profiles, interoperability toolkits, and trust frameworks for W3C Verifiable Credentials and UORA in global trade.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/vsc"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
