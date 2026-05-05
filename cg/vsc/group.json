@@ -1,0 +1,38 @@
+{
+ "id": 174848,
+ "name": "Verifiable Supply Chain Community Group",
+ "is_closed": false,
+ "creation-date": "2026-02-21",
+ "description": "The mission of the Verifiable Supply Chain Community Group is to accelerate the adoption of decentralized, verifiable data standards in global supply chains. We develop industry-specific profiles, interoperability frameworks, and certification guidelines that enable businesses to exchange cryptographically verifiable proofs of origin, custody, compliance, and sustainability—building trust, reducing fraud, and unlocking new efficiency across multi-party industrial networks.\r\n\r\n<h4>Scope</h4>\r\n\r\n<p>This group focuses on the practical implementation, industry alignment, and certification of supply chain applications using the W3C's Verifiable Credentials (VC) ecosystem and related protocols like UORA.</p>\r\n\r\n<p>Industry-Specific Profiles: Develop and maintain VC/UORA profiles and data schemas tailored to key verticals (e.g., pharmaceuticals, automotive, food &amp; beverage, critical minerals, luxury goods). These profiles map regulatory and business requirements to verifiable data formats.</p>\r\n\r\n<p>Interoperability &amp; Compliance: Create test suites, mapping documents, and implementation guides to ensure interoperability between verifiable supply chain systems and legacy standards (e.g., GS1 EPCIS, ISO standards, regulatory frameworks like DSCSA, CBAM, EUDR).</p>\r\n\r\n<p>Certification &amp; Trust Frameworks: Define governance models, trust anchor requirements, and conformance criteria for organizations issuing and consuming verifiable supply chain claims.</p>\r\n\r\n<p>Use Cases &amp; Business Value: Document high-impact business cases, ROI models, and reference architectures that demonstrate how verifiable credentials solve specific supply chain problems (anti-counterfeiting, ESG reporting, duty/tax compliance, recall management).</p>\r\n\r\n<h5>Relationship to UORA CG</h5>\r\n\r\n<p>This group is a downstream adopter and specializer of the UORA CG's core technical specifications. While UORA defines the universal \r\nprotocol for asset attestation, this group focuses on industry-specific constraints, business rules, and multi-stakeholder governance required for real-world supply chain deployment. The two groups will maintain a formal liaison for synchronized development.</p>\r\n\r\n<h4>Deliverables</h4>\r\n\r\n<p>Industry Blueprints: A library of public, reusable VC/UORA profiles for major supply chain verticals, starting with Pharmaceuticals and Critical Minerals.</p>\r\n\r\n<p>Interoperability Toolkit: Specifications and software tools for translating between existing supply chain event data (e.g., EPCIS events) and verifiable, DID-anchored attestations.</p>\r\n\r\n<p>Trust Framework Template: A customizable template for supply chain networks to establish governance, accreditation, and compliance rules for verifiable credential issuers.</p>\r\n\r\n<p>Business Implementation Guide: A non-technical playbook for executives and solution architects, detailing steps to pilot and scale verifiable supply chain systems, with quantified case studies.</p>\r\n\r\n<h4>Success Criteria</h4>\r\n<p>The group will be considered successful when:</p>\r\n\r\n<ul>\r\n<li>At least two industry consortia adopt its profiles in production networks.</li>\r\n<li>Major supply chain software vendors reference its frameworks in their product documentation.</li>\r\n<li>A regulator or standards body (e.g., GS1, UN/CEFACT) formally references the group's work.</li>\r\n</ul>\r\n\r\n<h4>Out of Scope</h4>\r\n\r\n<p>Developing new core cryptographic protocols or decentralized identifier systems.</p>\r\n\r\n<p>Creating competing generic standards for VCs or DIDs (builds on W3C standards).</p>\r\n\r\n<p>Mandating specific commercial platforms or blockchains.</p>",
+ "shortname": "vsc",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/vsc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/vsc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/vsc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/vsc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/vsc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/vsc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/vsc"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/vsc"
+}
