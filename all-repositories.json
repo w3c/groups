@@ -22214,30 +22214,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hcls-fhir-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hcls-fhir-rdf",
-  "description": "Sketching out an RDF representation for FHIR",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    92610
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "hlreq",
   "owner": {
    "login": "w3c"
@@ -25760,31 +25736,6 @@
    "policy": "open",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "mnxconverter",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/mnxconverter",
-  "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    81249
-   ],
-   "contacts": [
-    "adrianholovaty",
-    "dspreadbury",
-    "mscuthbert"
-   ],
-   "repo-type": [
-    "tool"
    ],
    "exposed": true
   }
