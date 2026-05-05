@@ -16,29 +16,5 @@
    ],
    "exposed": true
   }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "hcls-fhir-rdf",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/hcls-fhir-rdf",
-  "description": "Sketching out an RDF representation for FHIR",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hclscg"
-   ],
-   "contacts": [
-    "eric"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
  }
 ]
