@@ -1,0 +1,26 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "pm-kr",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/pm-kr",
+  "homepageUrl": "https://www.w3.org/community/pm-kr/",
+  "description": "The same knowledge (a character, a formula, a concept) is duplicated dozens of times across the web — in fonts, embeddings, accessibility metadata, visual assets — maintained separately, drifting apart. PM-KR standardizes storing knowledge once as executable procedures, consumable by both humans and AI from a single source.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/pm-kr"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
