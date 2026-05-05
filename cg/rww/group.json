@@ -1,15 +1,14 @@
 {
  "id": 48594,
  "name": "Read Write Web Community Group",
- "is_closed": false,
- "description": "The activity of this group is to apply Web standards to trusted read and write operations.\r\n",
+ "is_closed": true,
+ "creation-date": "2011-08-16",
+ "description": "The activity of this group is to apply Web standards to trusted read and write operations.",
  "shortname": "rww",
+ "closed_date": "2023-12-12",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/rww"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/rww/"
   },
@@ -27,8 +26,14 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/rww/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rww"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/rww"
 }
