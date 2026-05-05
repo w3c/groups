@@ -15466,6 +15466,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "EthTrust",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/EthTrust",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ethtrust"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "aar",
   "owner": {
    "login": "w3c-cg"
@@ -15477,6 +15499,28 @@
   "w3cjson": {
    "group": [
     "cg/adva11yresources"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "adaptation",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/adaptation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/adaptation"
    ],
    "contacts": [
     "ij@w3.org"
@@ -15583,6 +15627,51 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "autoprivacy",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/autoprivacy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/autoprivacy"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "awesome-semantic-shapes",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/awesome-semantic-shapes",
+  "description": "A curated list of RDF Shape resources",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/shacl"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cloud-edge-client",
   "owner": {
    "login": "w3c-cg"
@@ -15627,6 +15716,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "consentcg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/consentcg",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/consent"
+   ],
+   "contacts": [
+    "coolharsh55",
+    "soheil-human"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "datadoc",
   "owner": {
    "login": "w3c-cg"
@@ -15660,6 +15772,54 @@
   "w3cjson": {
    "group": [
     "cg/dataspaces"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "equity-cg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/equity-cg",
+  "homepageUrl": "https://www.w3.org/community/equity/",
+  "description": "Equity Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/equity"
+   ],
+   "contacts": [
+    "michael-n-cooper",
+    "jenstrickland"
+   ],
+   "repo-type": [
+    "cg-report",
+    "process"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "gen-ui",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/gen-ui",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/gen-ui"
    ],
    "contacts": [
     "ij@w3.org"
@@ -15738,6 +15898,105 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mnx",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/mnx",
+  "description": "Music Notation CG next-generation music markup proposal.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "adrianholovaty",
+    "dspreadbury",
+    "mscuthbert"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mnxconverter",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/mnxconverter",
+  "homepageUrl": "https://w3c-cg.github.io/mnxconverter/",
+  "description": "A Python package for converting between MusicXML and the new MNX-Common format.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "adrianholovaty",
+    "dspreadbury",
+    "mscuthbert"
+   ],
+   "repo-type": [
+    "tool"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "music-notationref",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/music-notationref",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "musicxml",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/musicxml",
+  "homepageUrl": "https://w3c-cg.github.io/musicxml/",
+  "description": "MusicXML specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "infojunkie",
+    "adrianholovaty",
+    "dspreadbury"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
@@ -15748,6 +16007,74 @@
   "w3cjson": {
    "group": [
     "cg/n3-dev"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "online-safety",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/online-safety",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/online-safety"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "planning",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/planning",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/planning"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "pm-kr",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/pm-kr",
+  "homepageUrl": "https://www.w3.org/community/pm-kr/",
+  "description": "The same knowledge (a character, a formula, a concept) is duplicated dozens of times across the web — in fonts, embeddings, accessibility metadata, visual assets — maintained separately, drifting apart. PM-KR standardizes storing knowledge once as executable procedures, consumable by both humans and AI from a single source.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/pm-kr"
    ],
    "contacts": [
     "ij@w3.org"
@@ -15852,6 +16179,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rww",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/rww",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rww"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "s-agent-comm",
   "owner": {
    "login": "w3c-cg"
@@ -15868,6 +16217,32 @@
    "contacts": [
     "ij@w3.org",
     "w3c@slashlife.ai"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "smufl",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/smufl",
+  "homepageUrl": "https://w3c-cg.github.io/smufl/latest/",
+  "description": "Standard Music Font Layout",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "contacts": [
+    "dspreadbury",
+    "adrianholovaty",
+    "mscuthbert"
    ],
    "repo-type": [
     "cg-report"
@@ -15914,6 +16289,54 @@
    ],
    "contacts": [
     "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "swag",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/swag",
+  "homepageUrl": "https://www.w3.org/community/swag/",
+  "description": "Repository for the SWAG Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/swag"
+   ],
+   "contacts": [
+    "simoneonofri"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tdm-reservation-protocol",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/tdm-reservation-protocol",
+  "homepageUrl": "https://w3c-cg.github.io/tdm-reservation-protocol/",
+  "description": "Repository of the Text and Data Mining Reservation Protocol Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/tdmrep"
+   ],
+   "contacts": [
+    "iherman"
    ],
    "repo-type": [
     "cg-report"
@@ -15995,6 +16418,79 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "uora",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/uora",
+  "homepageUrl": "https://w3c-cg.github.io/uora/",
+  "description": "The Physical Asset Attestation (UORA) Community Group operates under the World Wide Web Consortium (W3C) to define a vendor-neutral, decentralized framework for representing, identifying, and verifying physical assets in digital systems.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/uora"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vsc",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/vsc",
+  "homepageUrl": "https://w3c-cg.github.io/vsc/",
+  "description": "W3C Verifiable Supply Chain CG: Industry profiles, interoperability toolkits, and trust frameworks for W3C Verifiable Credentials and UORA in global trade.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/vsc"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-nfc",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/web-nfc",
+  "homepageUrl": "https://w3c-cg.github.io/web-nfc/",
+  "description": "Web NFC",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-nfc"
+   ],
+   "contacts": [
+    "anssiko",
+    "ashimura"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webagents",
   "owner": {
    "login": "w3c-cg"
@@ -16019,6 +16515,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webcomponents-cg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/webcomponents-cg",
+  "homepageUrl": "https://w3c-cg.github.io/webcomponents-cg/",
+  "description": "Web Components community group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "leaverou"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "group": [
+    "cg/webcomponents"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webdocs",
   "owner": {
    "login": "w3c-cg"
@@ -16034,6 +16554,55 @@
    ],
    "contacts": [
     "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webmediaporting",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/webmediaporting",
+  "description": "Web Media porting spec",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmediaapi"
+   ],
+   "contacts": [
+    "johnluther",
+    "johnriv",
+    "tidoust"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wot-jp-cg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/wot-jp-cg",
+  "homepageUrl": "https://w3c-cg.github.io/wot-jp-cg/",
+  "description": "W3C Web of Things Japanese Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wot-jp"
+   ],
+   "contacts": [
+    "ashimura"
    ],
    "repo-type": [
     "cg-report"
@@ -26305,30 +26874,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "tdm-reservation-protocol",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/tdm-reservation-protocol",
-  "homepageUrl": "https://www.w3.org/community/tdmrep/",
-  "description": "Repository of the Text and Data Mining Reservation Protocol Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/tdmrep"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "text_direction_tests",
   "owner": {
    "login": "w3c"
@@ -29386,30 +29931,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webcomponents-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/webcomponents-cg",
-  "homepageUrl": "https://w3c.github.io/webcomponents-cg/",
-  "description": "Web Components community group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "leaverou"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "group": [
-    "cg/webcomponents"
    ],
    "exposed": true
   }
