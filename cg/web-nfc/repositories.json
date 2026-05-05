@@ -1,1 +1,27 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-nfc",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/web-nfc",
+  "homepageUrl": "https://w3c-cg.github.io/web-nfc/",
+  "description": "Web NFC",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-nfc"
+   ],
+   "contacts": [
+    "anssiko",
+    "ashimura"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
