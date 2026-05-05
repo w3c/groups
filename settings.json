@@ -3,6 +3,8 @@
   "owners": [
   { "login":  "w3c",
     "group": [] },
+  { "login":  "w3c-cg",
+    "group": [] },
   { "login":  "act-rules",
     "group": [ "cg/act-r" ] },
   { "login":  "webaudio",
@@ -36,7 +38,6 @@
     "w3cping",
     "gpuweb",
     "json-ld",
-    "qt4cg",
-    "w3c-cg"
+    "qt4cg"
   ]
 }
