@@ -1,15 +1,14 @@
 {
  "id": 141004,
  "name": "Automated Planning and Scheduling Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-11-20",
  "description": "This group will discuss and advance automated planning and scheduling technologies, in particular planning domain definition languages. Using such languages, developers can define planning domains, these including types, predicates, actions, constraints, and preferences, and can define planning problems. Web technologies can be of use for designing new such languages, e.g., XML, JSON, Semantic Web technologies, and JavaScript. This group will develop a specification for a new planning domain definition language.",
  "shortname": "planning",
+ "closed_date": "2023-12-07",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/planning"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/planning/"
   },
@@ -27,8 +26,14 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/planning/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/planning"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/planning"
 }
