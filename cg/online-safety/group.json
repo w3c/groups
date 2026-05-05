@@ -1,0 +1,38 @@
+{
+ "id": 176603,
+ "name": "Online Safety Community Group",
+ "is_closed": false,
+ "creation-date": "2026-04-30",
+ "description": "<p>The mission of this group is to provide a discussion forum about the technical and architectural considerations for online safety, including safety for children online. While many see a particular interest in bolstering safety for vulnerable populations such as children, safety is important to all users of the Web.</p>\n\n<p>The scope includes discussions of architectures for age-based restrictions to content online, as a potential tool for children’s online safety. This is a complicated techno-policy issue, and proposed regulations often suffer from lack of understanding about available technologies, including their capabilities, limitations, and implications. Choices made in support of age-gating systems may have significant effects on global networks and their end users, impacting human rights as well as core architectural principles.\nThis topic and the potential for a community group was discussed at (among other places), <a href=\"https://www.w3.org/2025/11/12-age-restrictions-minutes.html\">W3C TPAC 2025</a>, <a href=\"https://docs.google.com/document/d/15n0Cv_NPkn3SIPJxvUEhJWXL0YgFfsJRIRZO35psYLE/edit?tab=t.0\">W3C Breakouts Day 2026</a> and the <a href=\"https://github.com/w3c/privacywg/blob/main/minutes/2026/privacywg-20260416.md#aob\">Privacy Working Group</a>, and follows conversation at the <a href=\"https://www.ietf.org/archive/id/draft-iab-agews-report-02.html\">IAB/W3C Workshop on Age-Based Restrictions on Content Access in 2026</a>, and <a href=\"https://github.com/w3ctag/meetings/blob/gh-pages/2026/telcons/01-26-minutes.md#age-restrictions-on-the-web\">with the W3C Technical Architecture Group</a>.\nThe amount of attention indicates that technologists and other interested parties are seeking a forum where these issues can be examined in depth, among a diverse group of experts. </p>\n\n<p>This CG expects to support the following goals (among others):</p>\n\n<ul>\n<li>developing a shared understanding of age-based content restriction considerations;  </li>\n<li>deepening insights into technical mechanisms (e.g., zero-knowledge proofs, device-enforcement): their capabilities, limitations, and deployment considerations;  </li>\n<li>modeling threats to online safety, including harassment, unwanted contact, distressing content, disclosure of personal information (including “doxxing”) and other forms of abuse, especially to vulnerable or marginalized people;  </li>\n<li>analyzing how technological choices influence privacy, freedom of expression, Internet fragmentation, and centralization;  </li>\n<li>sharing relevant resources, such as research papers and policy documents;  </li>\n<li>identifying and incubating technical standards work (if any) for addressing these issues.</li>\n</ul>\n    \n<p>This group may publish specifications and other types of reports, either as incubation for future standardization or as information or feedback for stakeholders, including policymakers, interested in online safety.</p>\n    <p>Previously published <a href=\"https://www.w3.org/policies/process/#w3c-statement\">W3C Statements</a> may provide useful guidance and context for further work including the Privacy Principles (on <a href=\"https://www.w3.org/TR/privacy-principles/#vulnerability\">vulnerability</a>, <a href=\"https://www.w3.org/TR/privacy-principles/#guardians\">guardians</a>, <a href=\"https://www.w3.org/TR/privacy-principles/#device-administrators\">device administrators</a>, <a href=\"https://www.w3.org/TR/privacy-principles/#protecting-web-users-from-abusive-behaviour\">protection from abusive behavior</a>) and Ethical Web Principles (on <a href=\"https://www.w3.org/TR/ethical-web-principles/#noharm\">harm to society</a>, <a href=\"https://www.w3.org/TR/ethical-web-principles/#community\">healthy community</a>, <a href=\"https://www.w3.org/TR/ethical-web-principles/#allpeople\">universal access</a>, <a href=\"https://www.w3.org/TR/ethical-web-principles/#privacy\">privacy</a> and <a href=\"https://www.w3.org/TR/ethical-web-principles/#expression\">free expression</a>).</p>",
+ "shortname": "online-safety",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/online-safety/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/online-safety/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/online-safety/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/online-safety/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/online-safety/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/online-safety/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/online-safety"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/online-safety"
+}
