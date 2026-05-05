@@ -1,9 +1,11 @@
 [
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "consentcg",
   "owner": {
    "login": "w3c-cg"
   },
+  "url": "https://github.com/w3c-cg/consentcg",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -16,7 +18,8 @@
    ],
    "repo-type": [
     "cg-report"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
