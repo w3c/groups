@@ -1,15 +1,14 @@
 {
  "id": 151951,
  "name": "Automotive Privacy Principles Community Group",
- "is_closed": false,
- "description": "This group will soon be closed. Automotive Privacy and Security discussions are continuing at <a href=\"https://covesa.global\">COVESA</a> in their EU Data Act and Data Ecosystem projects as well as their Commercial and Fleet Vehicle Expert Group.\r\n\r\nThe goal of this Community Group was to create guiding principles specific to the automotive industry and to work in conjunction with <a rel=\"nofollow\" href=\"https://covesa.global\">COVESA</a> in prototyping and promoting appropriate solutions.",
+ "is_closed": true,
+ "creation-date": "2024-01-08",
+ "description": "Automotive Privacy and Security discussions are continuing at <a href=\"https://covesa.global\">COVESA</a> in their EU Data Act and Data Ecosystem projects as well as their Commercial and Fleet Vehicle Expert Group.\r\n\r\nThe goal of this Community Group was to create guiding principles specific to the automotive industry and to work in conjunction with <a rel=\"nofollow\" href=\"https://covesa.global\">COVESA</a> in prototyping and promoting appropriate solutions.",
  "shortname": "autoprivacy",
+ "closed_date": "2025-06-05",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/autoprivacy"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/autoprivacy/"
   },
@@ -27,48 +26,14 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/autoprivacy/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/autoprivacy"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/autoprivacy",
- "services": [
-  {
-   "href": "https://api.w3.org/services/43852",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/43853",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/43854",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/43855",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/43861",
-   "title": "Version Control",
-   "details": {
-    "type": "repository",
-    "link": "https://github.com/w3c-cg/autoprivacy/",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub",
-    "external": true,
-    "closed": false,
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/43861"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/43861/groups"
-     }
-    }
-   }
-  }
- ]
+ "identifier": "cg/autoprivacy"
 }
