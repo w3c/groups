@@ -9851,6 +9851,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ld4lt-www",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "url": "https://github.com/ld4lt/ld4lt-www",
+  "description": "archived LD4LT wiki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "linguistic-annotation",
   "owner": {
    "login": "ld4lt"
