@@ -9053,10 +9053,9 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    109735
+    87846
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
@@ -16355,6 +16354,27 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "market-data-odrl-profile",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/market-data-odrl-profile",
+  "homepageUrl": "https://w3c-cg.github.io/market-data-odrl-profile/",
+  "description": "Rights Automation for Market Data W3C Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "benedictws"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mcm-jp",
   "owner": {
    "login": "w3c-cg"
@@ -16368,6 +16388,31 @@
    ],
    "contacts": [
     "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "miniapp-iot",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/miniapp-iot",
+  "homepageUrl": "https://w3c-cg.github.io/miniapp-iot/",
+  "description": "MiniApp for IoT",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    117923
+   ],
+   "contacts": [
+    "xfq",
+    "xueyuanjia"
    ],
    "repo-type": [
     "cg-report"
@@ -16794,6 +16839,8 @@
    "login": "w3c-cg"
   },
   "url": "https://github.com/w3c-cg/sustainability",
+  "homepageUrl": "https://www.w3.org/wiki/Sustainability",
+  "description": "The Sustainability CG is for discussing aspects of sustainability and collaborating on projects that are beyond the scope of the Sustainable Web IG with respect to web technologies present and future. We are working on horizontal review questions to explore sustainability (e.g. energy use, device obsolescence) impact of new & proposed technologies.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -17084,6 +17131,32 @@
   "homepageUrl": "https://w3c-cg.github.io/webforensics/",
   "isArchived": false,
   "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webmediaapi",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/webmediaapi",
+  "homepageUrl": "https://w3c-cg.github.io/webmediaapi/",
+  "description": "Web Media API specification",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    93489
+   ],
+   "contacts": [
+    "johnluther",
+    "johnriv",
+    "tidoust"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -19897,7 +19970,7 @@
   },
   "url": "https://github.com/w3c/charter-drafts",
   "homepageUrl": "https://w3c.github.io/charter-drafts/charter-template.html",
-  "description": "Draft W3C WG and CG charters for public review",
+  "description": "Draft W3C WG and IG charters for public review",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -24989,26 +25062,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "market-data-odrl-profile",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/market-data-odrl-profile",
-  "description": "Rights Automation for Market Data W3C Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "benedictws"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "markup-validator",
   "owner": {
    "login": "w3c"
@@ -26157,31 +26210,6 @@
   "description": "会议页面",
   "isArchived": false,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "miniapp-iot",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/miniapp-iot",
-  "homepageUrl": "https://w3c.github.io/miniapp-iot/",
-  "description": "MiniApp for IoT",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    117923
-   ],
-   "contacts": [
-    "xfq",
-    "xueyuanjia"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -33035,7 +33063,7 @@
   },
   "url": "https://github.com/w3c/vc-recognized-entities",
   "homepageUrl": "https://w3c.github.io/vc-recognized-entities/",
-  "description": "Verifiable credentials for recognizing entities and the actions they perform.",
+  "description": "The Recognized Entities specification defines Verifiable Credentials for recognizing entities and the actions they perform.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -35658,32 +35686,6 @@
   "description": "WebIDL parser",
   "isArchived": false,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webmediaapi",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/webmediaapi",
-  "homepageUrl": "https://w3c.github.io/webmediaapi/",
-  "description": "Web Media API specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    93489
-   ],
-   "contacts": [
-    "johnluther",
-    "johnriv",
-    "tidoust"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -38485,7 +38487,7 @@
    "login": "web-platform-dx"
   },
   "url": "https://github.com/web-platform-dx/web-features",
-  "homepageUrl": "https://web-platform-dx.github.io/web-features/",
+  "homepageUrl": "https://web-platform-dx.github.io/",
   "description": "Exploring how to present Web platform features adoptability",
   "isArchived": false,
   "isPrivate": false,
