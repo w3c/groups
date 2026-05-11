@@ -1,13 +1,13 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "miniapp-components",
+  "name": "miniapp-iot",
   "owner": {
-   "login": "w3c"
+   "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c/miniapp-components",
-  "homepageUrl": "https://w3c.github.io/miniapp-components/",
-  "description": "MiniApp Components",
+  "url": "https://github.com/w3c-cg/miniapp-iot",
+  "homepageUrl": "https://w3c-cg.github.io/miniapp-iot/",
+  "description": "MiniApp for IoT",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -26,13 +26,13 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "miniapp-iot",
+  "name": "miniapp-components",
   "owner": {
    "login": "w3c"
   },
-  "url": "https://github.com/w3c/miniapp-iot",
-  "homepageUrl": "https://w3c.github.io/miniapp-iot/",
-  "description": "MiniApp for IoT",
+  "url": "https://github.com/w3c/miniapp-components",
+  "homepageUrl": "https://w3c.github.io/miniapp-components/",
+  "description": "MiniApp Components",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
