@@ -25449,31 +25449,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "rdf-star",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/rdf-star",
-  "homepageUrl": "https://w3c.github.io/rdf-star/",
-  "description": "RDF-star specification",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/rdf-dev"
-   ],
-   "contacts": [
-    "pchampin",
-    "hartig"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "rdf-star-wg",
   "owner": {
    "login": "w3c"
