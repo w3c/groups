@@ -693,5 +693,29 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webxr-test-api",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "url": "https://github.com/immersive-web/webxr-test-api",
+  "homepageUrl": "https://immersive-web.github.io/webxr-test-api/",
+  "description": "WPT testing API for WebXR",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/immersive-web"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "exposed": true
+  }
  }
 ]
