@@ -1,12 +1,13 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webmediaporting",
+  "name": "webmediaapi",
   "owner": {
    "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c-cg/webmediaporting",
-  "description": "Web Media porting spec",
+  "url": "https://github.com/w3c-cg/webmediaapi",
+  "homepageUrl": "https://w3c-cg.github.io/webmediaapi/",
+  "description": "Web Media API specification",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -26,13 +27,12 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webmediaapi",
+  "name": "webmediaporting",
   "owner": {
-   "login": "w3c"
+   "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c/webmediaapi",
-  "homepageUrl": "https://w3c.github.io/webmediaapi/",
-  "description": "Web Media API specification",
+  "url": "https://github.com/w3c-cg/webmediaporting",
+  "description": "Web Media porting spec",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
