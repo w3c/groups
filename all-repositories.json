@@ -15909,6 +15909,33 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "N3",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/N3",
+  "homepageUrl": "https://w3c-cg.github.io/N3/",
+  "description": "W3C's Notation 3 (N3) Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    111290
+   ],
+   "contacts": [
+    "sandhawke",
+    "draggett"
+   ],
+   "repo-type": [
+    "homepage",
+    "cg-report"
+   ],
+   "policy": "open",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "a11y-discov-vocab",
   "owner": {
    "login": "w3c-cg"
@@ -18307,32 +18334,6 @@
   "description": "The Mobile Checker is a tool for Web developers who want to make their Web page or Web app work better on mobile devices.",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "N3",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/N3",
-  "description": "W3C's Notation 3 (N3) Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    111290
-   ],
-   "contacts": [
-    "sandhawke",
-    "draggett"
-   ],
-   "repo-type": [
-    "homepage",
-    "cg-report"
-   ],
-   "policy": "open",
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
