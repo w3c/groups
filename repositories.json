@@ -15504,6 +15504,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "a11y-discov-vocab",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/a11y-discov-vocab",
+  "homepageUrl": "https://w3c-cg.github.io/a11y-discov-vocab/",
+  "description": "Repository for the maintenance of the schema.org accessibility property values for discoverability.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/a11y-discov-vocab"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "aar",
   "owner": {
    "login": "w3c-cg"
@@ -17751,30 +17775,6 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "a11y-discov-vocab",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/a11y-discov-vocab",
-  "homepageUrl": "https://www.w3.org/community/a11y-discov-vocab/",
-  "description": "Repository for the maintenance of the schema.org accessibility property values for discoverability.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/a11y-discov-vocab"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
