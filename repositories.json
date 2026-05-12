@@ -15504,6 +15504,33 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "N3",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/N3",
+  "homepageUrl": "https://w3c-cg.github.io/N3/",
+  "description": "W3C's Notation 3 (N3) Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/n3-dev"
+   ],
+   "contacts": [
+    "sandhawke",
+    "draggett"
+   ],
+   "repo-type": [
+    "homepage",
+    "cg-report"
+   ],
+   "policy": "open",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "a11y-discov-vocab",
   "owner": {
    "login": "w3c-cg"
@@ -17649,32 +17676,6 @@
    "repo-type": [
     "rec-track"
    ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "N3",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/N3",
-  "description": "W3C's Notation 3 (N3) Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/n3-dev"
-   ],
-   "contacts": [
-    "sandhawke",
-    "draggett"
-   ],
-   "repo-type": [
-    "homepage",
-    "cg-report"
-   ],
-   "policy": "open",
    "exposed": true
   }
  },
