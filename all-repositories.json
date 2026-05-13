@@ -23925,6 +23925,27 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "impact-framework",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/impact-framework",
+  "homepageUrl": "https://w3c.github.io/impact-framework/",
+  "description": "Draft Impact Framework for W3C",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "dontcallmedom"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "imsc",
   "owner": {
    "login": "w3c"
@@ -31363,6 +31384,29 @@
   },
   "url": "https://github.com/w3c/tpac2025-meetings",
   "description": "Repository set up to collect and organize group meeting proposals for TPAC 2025 ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "groups": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tpac2026-meetings",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/tpac2026-meetings",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
