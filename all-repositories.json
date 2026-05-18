@@ -1056,6 +1056,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "accessibility-conferences",
+  "owner": {
+   "login": "Nordic-Accessibility-Community-Group"
+  },
+  "url": "https://github.com/Nordic-Accessibility-Community-Group/accessibility-conferences",
+  "description": "Accessibility conferences and events",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nordic-accessibility"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "working-with-EN-301-549",
   "owner": {
    "login": "Nordic-Accessibility-Community-Group"
@@ -16202,6 +16219,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cogai",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/cogai",
+  "homepageUrl": "https://w3c-cg.github.io/cogai/",
+  "description": "for work by the Cognitive AI community group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    119681
+   ],
+   "contacts": [
+    "draggett",
+    "rreck"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "consentcg",
   "owner": {
    "login": "w3c-cg"
@@ -20344,30 +20386,6 @@
    "policy": "restricted",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "cogai",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/cogai",
-  "description": "for work by the Cognitive AI community group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    119681
-   ],
-   "contacts": [
-    "draggett",
-    "rreck"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
