@@ -3,9 +3,10 @@
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cogai",
   "owner": {
-   "login": "w3c"
+   "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c/cogai",
+  "url": "https://github.com/w3c-cg/cogai",
+  "homepageUrl": "https://w3c-cg.github.io/cogai/",
   "description": "for work by the Cognitive AI community group",
   "isArchived": false,
   "isPrivate": false,
