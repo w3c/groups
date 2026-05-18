@@ -17,6 +17,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "accessibility-conferences",
+  "owner": {
+   "login": "Nordic-Accessibility-Community-Group"
+  },
+  "url": "https://github.com/Nordic-Accessibility-Community-Group/accessibility-conferences",
+  "description": "Accessibility conferences and events",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nordic-accessibility"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "working-with-EN-301-549",
   "owner": {
    "login": "Nordic-Accessibility-Community-Group"
