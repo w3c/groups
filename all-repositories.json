@@ -15886,6 +15886,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ColorWeb-CG",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/ColorWeb-CG",
+  "homepageUrl": "https://w3c-cg.github.io/ColorWeb-CG/",
+  "description": "repo for the Color on the Web Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "svgeesus"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "group": [
+    96574
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "EthTrust",
   "owner": {
    "login": "w3c-cg"
@@ -18059,29 +18083,6 @@
   "description": "Amaya web editor including cvs history",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "ColorWeb-CG",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/ColorWeb-CG",
-  "description": "repo for the Color on the Web Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "group": [
-    96574
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
