@@ -3,9 +3,10 @@
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ColorWeb-CG",
   "owner": {
-   "login": "w3c"
+   "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c/ColorWeb-CG",
+  "url": "https://github.com/w3c-cg/ColorWeb-CG",
+  "homepageUrl": "https://w3c-cg.github.io/ColorWeb-CG/",
   "description": "repo for the Color on the Web Community Group",
   "isArchived": false,
   "isPrivate": false,
