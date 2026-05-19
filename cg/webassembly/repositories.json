@@ -769,6 +769,22 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "relaxed-atomics",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "url": "https://github.com/WebAssembly/relaxed-atomics",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "relaxed-dead-code-validation",
   "owner": {
    "login": "WebAssembly"
