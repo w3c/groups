@@ -3,10 +3,10 @@
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "publishingcg",
   "owner": {
-   "login": "w3c"
+   "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c/publishingcg",
-  "homepageUrl": "https://w3c.github.io/publishingcg/",
+  "url": "https://github.com/w3c-cg/publishingcg",
+  "homepageUrl": "https://w3c-cg.github.io/publishingcg/",
   "description": "Publishing Community Group *** Home for the incubation of publishing standards",
   "isArchived": false,
   "isPrivate": false,
