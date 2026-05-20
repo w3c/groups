@@ -16873,6 +16873,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wot-cg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/wot-cg",
+  "homepageUrl": "https://www.w3.org/community/wot/",
+  "description": "Web of Things Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wot"
+   ],
+   "contacts": [
+    "ijacobs"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wot-jp-cg",
   "owner": {
    "login": "w3c-cg"
@@ -30767,30 +30791,6 @@
    "shortName": "wot-binding-templates",
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wot-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wot-cg",
-  "homepageUrl": "https://www.w3.org/community/wot/",
-  "description": "Web of Things Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wot"
-   ],
-   "contacts": [
-    "ijacobs"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
