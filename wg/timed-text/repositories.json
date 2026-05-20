@@ -732,15 +732,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/timed-text",
-    "cg/texttracks"
+    "wg/timed-text"
    ],
    "contacts": [
     "himorin"
    ],
    "repo-type": [
-    "rec-track",
-    "cg-report"
+    "rec-track"
    ],
    "shortname": [
     "webvtt"
