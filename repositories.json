@@ -16293,6 +16293,33 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "publishingcg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/publishingcg",
+  "homepageUrl": "https://w3c-cg.github.io/publishingcg/",
+  "description": "Publishing Community Group *** Home for the incubation of publishing standards",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/publishingcg"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "cg-report",
+    "tool",
+    "article",
+    "project"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "r2c2",
   "owner": {
    "login": "w3c-cg"
@@ -25035,33 +25062,6 @@
    ],
    "repo-type": [
     "tests"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "publishingcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/publishingcg",
-  "homepageUrl": "https://w3c.github.io/publishingcg/",
-  "description": "Publishing Community Group *** Home for the incubation of publishing standards",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/publishingcg"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "cg-report",
-    "tool",
-    "article",
-    "project"
    ],
    "exposed": true
   }
