@@ -2326,6 +2326,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dbsc-sso",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/dbsc-sso",
+  "description": "Device Bound Session Credentials for SSO WICG repository",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "jyasskin"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "declarative-partial-updates",
   "owner": {
    "login": "WICG"
@@ -30582,15 +30605,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/timed-text",
-    "cg/texttracks"
+    "wg/timed-text"
    ],
    "contacts": [
     "himorin"
    ],
    "repo-type": [
-    "rec-track",
-    "cg-report"
+    "rec-track"
    ],
    "shortname": [
     "webvtt"
