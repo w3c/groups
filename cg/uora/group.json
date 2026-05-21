@@ -1,10 +1,11 @@
 {
  "id": 174911,
  "name": "Universal Object and Resource Attestation (UORA) Community Group",
- "is_closed": false,
+ "is_closed": true,
  "creation-date": "2026-02-23",
  "description": "The mission of the Universal Object &amp; Resource Attestation (UORA) Community Group was to develop a vendor-neutral, decentralized protocol for the identity, state verification, and lifecycle tracking of physical assets. By bridging the gap between physical objects and digital identifiers, UORA enables every resource to function as a first-class citizen of the internet, fostering global trust, transparency, and interoperability across supply chains and industries.\n\nThis group has been merged with the <a href=\"https://www.w3.org/groups/cg/vsc/\">Verifiable Supply Chain Community Group</a>.",
  "shortname": "uora",
+ "closed_date": "2026-05-21",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
