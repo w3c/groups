@@ -16250,28 +16250,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "cloud-edge-client",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "url": "https://github.com/w3c-cg/cloud-edge-client",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    162208
-   ],
-   "contacts": [
-    "ij@w3.org"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cndid",
   "owner": {
    "login": "w3c-cg"
@@ -16857,28 +16835,6 @@
   "w3cjson": {
    "group": [
     157420
-   ],
-   "contacts": [
-    "ij@w3.org"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "rdf-notes",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "url": "https://github.com/w3c-cg/rdf-notes",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    163514
    ],
    "contacts": [
     "ij@w3.org"
@@ -20910,28 +20866,6 @@
    "policy": "open",
    "repo-type": [
     "homepage"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "csvw",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/csvw",
-  "description": "Documents produced by the CSV on the Web Working Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    68238
-   ],
-   "policy": "open",
-   "repo-type": [
-    "rec-track",
-    "note"
    ],
    "exposed": true
   }
