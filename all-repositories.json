@@ -4883,28 +4883,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "content-security-policy",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "url": "https://github.com/WebAssembly/content-security-policy",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    78073
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "custom-descriptors",
   "owner": {
    "login": "WebAssembly"
@@ -37663,6 +37641,28 @@
   "w3cjson": {
    "group": [
     "other/tag"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "broaden-fedcm-engagement",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "url": "https://github.com/w3ctag/broaden-fedcm-engagement",
+  "homepageUrl": "https://w3ctag.github.io/broaden-fedcm-engagement/",
+  "description": "A draft finding encouraging more implementers and developers to participate publicly in FedCM design",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
    ],
    "exposed": true
   }
