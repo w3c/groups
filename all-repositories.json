@@ -19855,27 +19855,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "browser-statuses",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/browser-statuses",
-  "description": "Implementation support information of Web technologies on main desktop and mobile browsers",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "dontcallmedom",
-    "tidoust"
-   ],
-   "repo-type": [
-    "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "bullet-chatting-docs",
   "owner": {
    "login": "w3c"
