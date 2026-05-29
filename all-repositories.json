@@ -14034,6 +14034,22 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "socialcg.org",
+  "owner": {
+   "login": "swicg"
+  },
+  "url": "https://github.com/swicg/socialcg.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "specification-template",
   "owner": {
    "login": "swicg"
@@ -31108,7 +31124,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/threat-model-decentralized-credentials",
-  "homepageUrl": "https://w3c.github.io/threat-model-decentralized-credentials/",
+  "homepageUrl": "https://www.w3.org/TR/threat-model-decentralized-credentials/",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
