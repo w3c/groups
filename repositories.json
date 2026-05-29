@@ -4838,6 +4838,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "content-security-policy",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "url": "https://github.com/WebAssembly/content-security-policy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "custom-descriptors",
   "owner": {
    "login": "WebAssembly"
@@ -28281,6 +28303,31 @@
    ],
    "repo-type": [
     "tests"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-di-quantum-resistant",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-di-quantum-resistant",
+  "homepageUrl": "https://w3c.github.io/vc-di-quantum-resistant/",
+  "description": "Data Integrity Quantum Safe Cryptography Suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
