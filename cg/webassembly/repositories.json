@@ -218,6 +218,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "content-security-policy",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "url": "https://github.com/WebAssembly/content-security-policy",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "custom-descriptors",
   "owner": {
    "login": "WebAssembly"
