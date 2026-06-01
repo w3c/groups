@@ -5443,7 +5443,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/webassembly"
+    78073
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
    ],
    "exposed": true
   }
@@ -19994,7 +20000,6 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/cg-charter",
-  "homepageUrl": "https://w3c.github.io/cg-charter/CGCharter.html",
   "description": "Charter template for W3C Community and Business Groups",
   "isArchived": false,
   "isPrivate": false,
