@@ -1,0 +1,38 @@
+{
+ "id": 177348,
+ "name": "Holon Graph Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-03",
+ "description": "<p>The W3C RDF 1.2 stack &mdash;RDF-Start, SHACL, SKOS, Prov-O, SPARQL, and ODRL&mdash; provides the necessary building blocks to create a graph-based version of holons. A holon itself is an entity that is also a system, based initially upon the work of Arthur Koestler in the 1960s with his work The Ghost in the Machine. A graph version of a holon contains a knowledge graph that describes the entities within given system, a context or event graph that describes the evolution of resources over time, a boundary graph that determines the constraints and rules acting upon the system as well as actions that the system can expose as interfaces when viewed as an entity, and one or more projections that effectively create maps of the system.</p>\n\n<p>While holons have immediate applications with mapping and GIS systems, they are also instrumental in areas as diverse as supply chain management, decision support, narrative media structures, games and simulations and so on. They effectively utilise the graph as state machine, and can be used both in a static mode to describe the evolution of existing historical systems and as mechanisms for creating dynamic system, and they have strong relevance to grounding AI-based conversational and computational system.</p>\n\n<p>The Holon Graph Community Group seeks to promote the development of holon envelope ontologies, architecture and usage. It will also seek to help developers build Holon-specific applications and coordinate meetings and other activities within this developing field. This group will publish Specifications.</p>",
+ "shortname": "holon",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/holon/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/holon/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/holon/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/holon/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/holon/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/holon/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/holon"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/holon"
+}
