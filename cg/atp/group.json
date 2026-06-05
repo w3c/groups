@@ -1,0 +1,38 @@
+{
+ "id": 177419,
+ "name": "Agent Trust Protocol (ATP) Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-04",
+ "description": "<p>Autonomous AI agents are being deployed at scale with no open standard governing how they prove identity, establish trust, or protect the privacy of the humans they represent. The mission of the Agent Trust Protocol (ATP) Community Group is to address this gap by producing open specifications that fill the Security and Privacy modules described by the <a href=\"https://www.w3.org/groups/cg/agentprotocol/\">AI Agent Protocol Community Group</a>, modules currently marked as pending community contribution.</p>\n\n<p>This group will create Specifications for:</p>\n\n<ul>\n<li>the  did:atp  quantum-safe DID method (hybrid Ed25519 + ML-DSA-65 post-quantum signatures)</li>\n<li>an agent trust scoring model backed by W3C Verifiable Credentials</li>\n<li>privacy-first interaction mechanisms including pairwise DIDs, selective disclosure, and zero-knowledge proofs</li>\n<li>a conformance test suite to drive interoperability</li>\n</ul>\n\n<p>This Community Group was formed at the invitation of the AI Agent Protocol CG Chairs and intends to collaborate with that group.</p>",
+ "shortname": "atp",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/atp/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/atp/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/atp/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/atp/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/atp/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/atp/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/atp"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/atp"
+}
