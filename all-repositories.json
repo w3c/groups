@@ -5811,22 +5811,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wasi-gfx",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "url": "https://github.com/WebAssembly/wasi-gfx",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wasi-gpio",
   "owner": {
    "login": "WebAssembly"
@@ -6183,6 +6167,22 @@
    "login": "WebAssembly"
   },
   "url": "https://github.com/WebAssembly/wasi-usb",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wasi-webgpu",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "url": "https://github.com/WebAssembly/wasi-webgpu",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
