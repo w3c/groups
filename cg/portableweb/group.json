@@ -1,0 +1,38 @@
+{
+ "id": 177533,
+ "name": "Portable Web Content Format (PortableWeb) Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-08",
+ "description": "AI-assisted tools can now generate high-quality interactive web content —games, presentations, simulations, educational materials— in minutes. This has created a massive and growing category of ephemeral Web applications that need to be shared and used immediately across devices and platforms, without a traditional server for distribution, without association with a Web origin, and without being confined to a web browser.\n\nNo existing format treats interactive web content as a portable, self-contained, immediately runnable unit. PDF loses interactivity. EPUB3 is constrained to a document and book model — its JavaScript support is an enhancement to a reading experience, not a general-purpose runtime. Web Bundles never achieved broad implementation and was designed as a network transport optimization, not a portable execution environment. The Web Application Manifest describes server-hosted apps and requires a live web origin. None of these addresses the need for content that has no server, no origin, and no installation —content that should exist, run, and be shared as a single portable file, across all platforms, entirely offline.\n\nThis mission of this group is to develop an open specification for a self-contained portable web content format that can be instantly shared and run on any platform —desktop, mobile, or offline— without a server, app store, or deployment pipeline. The format is content-model agnostic, equally supporting books, games, presentations, educational simulations, 3D experiences, scientific models, and collaborative applications.\n\nThe scope of work includes:\n\n<ul>\n<li>Container and packaging format</li>\n<li>Manifest schema for capability and permission declaration</li>\n<li>Viewer conformance requirements and security sandboxing model</li>\n<li>Storage model —per-bundle isolated storage specification, defining how packaged content can persist state locally, how storage is scoped and sandboxed to the bundle, and guidelines for storage portability across viewer implementations.</li>\n<li>Inter-bundle communication model — a permission-gated channel specification enabling bundles to communicate locally via Bluetooth, WiFi Direct, or local network, making offline multiplayer, peer-to-peer, and collaborative interactive experiences possible without any server infrastructure. This is a genuinely novel capability not addressed by any existing format or specification.</li>\n</ul>\n\nIn addition to a Specification, this group expects to create a Viewer conformance test suite, and a non-normative implementation guide for content creators, AI tools, and viewer developers.",
+ "shortname": "portableweb",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/portableweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/portableweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/portableweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/portableweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/portableweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/portableweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/portableweb"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/portableweb"
+}
