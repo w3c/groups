@@ -16458,6 +16458,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dpv",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/dpv",
+  "homepageUrl": "https://w3c-cg.github.io/dpv/",
+  "description": "Data Privacy Vocabularies and Controls CG (DPVCG)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    107442
+   ],
+   "contacts": [
+    "coolharsh55"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "equity-cg",
   "owner": {
    "login": "w3c-cg"
@@ -21783,30 +21807,6 @@
   "description": "Charter development for a Digital Publishing Working Group",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "dpv",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/dpv",
-  "homepageUrl": "https://w3id.org/dpv",
-  "description": "Data Privacy Vocabularies and Controls CG (DPVCG)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    107442
-   ],
-   "contacts": [
-    "coolharsh55"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
