@@ -3,10 +3,10 @@
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dpv",
   "owner": {
-   "login": "w3c"
+   "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c/dpv",
-  "homepageUrl": "https://w3id.org/dpv",
+  "url": "https://github.com/w3c-cg/dpv",
+  "homepageUrl": "https://w3c-cg.github.io/dpv/",
   "description": "Data Privacy Vocabularies and Controls CG (DPVCG)",
   "isArchived": false,
   "isPrivate": false,
