@@ -17783,6 +17783,33 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "identity-handler",
+  "owner": {
+   "login": "w3c-fedid"
+  },
+  "url": "https://github.com/w3c-fedid/identity-handler",
+  "description": "A FedCM proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fed-id"
+   ],
+   "contacts": [
+    "simoneonofri",
+    "hlflanagan",
+    "achimschloss",
+    "timcappalli",
+    "wseltzer"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "idp-registration",
   "owner": {
    "login": "w3c-fedid"
