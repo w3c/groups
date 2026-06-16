@@ -104,6 +104,22 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "jbang-catalog",
+  "owner": {
+   "login": "kg-construct"
+  },
+  "url": "https://github.com/kg-construct/jbang-catalog",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/kg-construct"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "kgc-challenge",
   "owner": {
    "login": "kg-construct"
