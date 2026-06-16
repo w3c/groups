@@ -968,11 +968,12 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "email-verification-protocol",
+  "name": "email-verification",
   "owner": {
    "login": "WICG"
   },
-  "url": "https://github.com/WICG/email-verification-protocol",
+  "url": "https://github.com/WICG/email-verification",
+  "homepageUrl": "https://wicg.github.io/email-verification/",
   "description": "verified autofill ",
   "isArchived": false,
   "isPrivate": false,
