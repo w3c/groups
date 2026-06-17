@@ -151,5 +151,28 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-forgery-defense",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-forgery-defense",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-bcdi"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
  }
 ]
