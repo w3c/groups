@@ -1,0 +1,38 @@
+{
+ "id": 177547,
+ "name": "Accessible Synchronized Multimedia for Publishing Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-09",
+ "description": "<p>The Accessible Synchronized Multimedia for Publishing CG seeks to represent accessible synchronization of pre-recorded media, including audio narration and sign language video, with document text. There is currently no general solution for this on the Web. The work starts with research done in the previous <a href=\"https://www.w3.org/groups/cg/sync-media-pub/\">Synchronized Multimedia for Publications</a>, and is driven forward by new use cases and workflows resulting from EPUB 3.5 development, as well as new sign language synchronization projects among stakeholders. The initial target is to develop specification-ready proposals about EPUB 3's Media Overlays feature for the Publishing Maintenance WG. The proposals intend to align as much as possible with work done by the Accessible Platform Architectures WG. Future targets, including Audiobooks and the general Web, are in scope as well. This group may publish Specifications.</p>",
+ "shortname": "accessible-syncmedia-pub",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/accessible-syncmedia-pub/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/accessible-syncmedia-pub/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/accessible-syncmedia-pub/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/accessible-syncmedia-pub/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/accessible-syncmedia-pub/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/accessible-syncmedia-pub/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/accessible-syncmedia-pub"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/accessible-syncmedia-pub"
+}
