@@ -11188,6 +11188,22 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "openactive-monitor-api",
+  "owner": {
+   "login": "openactive"
+  },
+  "url": "https://github.com/openactive/openactive-monitor-api",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/openactive"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "openactive-python",
   "owner": {
    "login": "openactive"
