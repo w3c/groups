@@ -24299,31 +24299,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "p2p-webtransport",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/p2p-webtransport",
-  "homepageUrl": "https://w3c.github.io/p2p-webtransport/",
-  "description": "Interface to create and manage QUIC streams",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ortc"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "caribouW3"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "paint-timing",
   "owner": {
    "login": "w3c"
