@@ -28984,6 +28984,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vcalm-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vcalm-test-suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/vc",
+    "tf/vc-alm"
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vibration",
   "owner": {
    "login": "w3c"
