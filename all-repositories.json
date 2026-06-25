@@ -1788,30 +1788,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "attribution-reporting-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/attribution-reporting-api",
-  "homepageUrl": "https://wicg.github.io/attribution-reporting-api/",
-  "description": "Attribution Reporting API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "audio-context-playout-stats",
   "owner": {
    "login": "WICG"
@@ -4214,7 +4190,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/wicg"
+    114929
+   ],
+   "contacts": [
+    "liminzhu"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
