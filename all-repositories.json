@@ -31652,6 +31652,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tpac2026-breakouts",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/tpac2026-breakouts",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "groups": [
+    106
+   ],
+   "contacts": [
+    "tidoust",
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "project"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tpac2026-meetings",
   "owner": {
    "login": "w3c"
