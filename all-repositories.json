@@ -7987,29 +7987,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "WebXR-WebGPU-Binding",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/WebXR-WebGPU-Binding",
-  "homepageUrl": "https://immersive-web.github.io/WebXR-WebGPU-Binding/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    109735
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "administrivia",
   "owner": {
    "login": "immersive-web"
@@ -9144,6 +9121,29 @@
    ],
    "repo-type": [
     "tests"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webxr-webgpu-binding",
+  "owner": {
+   "login": "immersive-web"
+  },
+  "url": "https://github.com/immersive-web/webxr-webgpu-binding",
+  "homepageUrl": "https://immersive-web.github.io/WebXR-WebGPU-Binding/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    109735
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
@@ -33582,7 +33582,7 @@
     "iherman"
    ],
    "repo-type": [
-    "rec-track"
+    "tests"
    ],
    "exposed": true
   }
