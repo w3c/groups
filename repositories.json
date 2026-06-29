@@ -2213,7 +2213,7 @@
   },
   "url": "https://github.com/WICG/cross-origin-storage",
   "homepageUrl": "https://wicg.github.io/cross-origin-storage/",
-  "description": "Explainer for the Cross-Origin Storage (COS) API",
+  "description": "Explainer for Cross-Origin Storage (COS), a content-addressable browser cache that shares large files across origins by SHA-256 hash, with k-anonymity-based availability gating to prevent cross-site tracking.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
