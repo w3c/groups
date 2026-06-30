@@ -1,0 +1,38 @@
+{
+ "id": 176473,
+ "name": "Agent Identity Registry Protocol Community Group",
+ "is_closed": false,
+ "creation-date": "2026-04-24",
+ "description": "<p>Although autonomous AI agents increasingly operate across organizational boundaries —negotiating, transacting, and making decisions on behalf of humans and organizations— there is no agreed upon mechanism for verifying an agent's identity, its controlling entity, or its authorization scope before interaction begins. This gap creates accountability, security, and liability challenges that multiple industry and government bodies have identified as urgent, including NIST's AI Agent Identity initiative and the OpenID Foundation's AIIM working group.</p>\n\n<p>This Community Group develops open specifications for verifiable AI agent identity infrastructure. The group's work addresses how AI agents can present cryptographically verifiable credentials that bind them to their controlling organizations, enabling cross-organizational trust negotiation without requiring pre-existing bilateral agreements.</p>\n\n<p>The group's scope includes:</p>\n\n<ul>\n<li>A DID method specification for agent identity resolution</li>\n<li>An agent credential format based on W3C Verifiable Credentials</li>\n<li>A trust negotiation protocol for cross-organizational agent interactions</li>\n<li>Trust level definitions and verification requirements</li>\n<li>Integration profiles with complementary protocols (MCP, A2A, OAuth/OIDC, SPIFFE)</li>\n<li>Revocation and credential lifecycle management</li>\n<li>Post-quantum cryptographic requirements for agent identity</li>\n</ul>\n\n<p><b>Note</b>: This group will take inspiration from work created by TrustLayer Foundation A.C., and that work may inform the group's discussions. That work does not constrain the group's discussions, and all decisions about the group's deliverables will be made by the Community Group participants.</p>\n\n<p>Coordination is anticipated with the W3C Credentials Community Group (CCG), the Decentralized Identity Foundation (DIF), the OpenID Foundation AIIM Community Group, and the IETF WIMSE Working Group.</p>",
+ "shortname": "agent-identity",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/agent-identity/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/agent-identity/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/agent-identity/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/agent-identity/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/agent-identity/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/agent-identity/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agent-identity"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/agent-identity"
+}
