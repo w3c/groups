@@ -26313,7 +26313,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/security-disclosure",
-  "homepageUrl": "https://w3c.github.io/security-disclosure/",
+  "homepageUrl": "https://w3.org/TR/security-disclosure/",
   "description": "W3C Standards Vulnerability Disclosure & Handling Process and Policy",
   "isArchived": false,
   "isPrivate": false,
@@ -26322,7 +26322,7 @@
     "ig/security"
    ],
    "contacts": [
-    "sonofri"
+    "simoneonofri"
    ],
    "policy": "open",
    "repo-type": [
