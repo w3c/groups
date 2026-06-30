@@ -16033,6 +16033,32 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "credweb",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/credweb",
+  "homepageUrl": "https://credweb.org",
+  "description": "Credible Web CG Admin/General",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credibility"
+   ],
+   "contacts": [
+    "sandhawke"
+   ],
+   "repo-type": [
+    "homepage",
+    "cg-report"
+   ],
+   "policy": "restricted",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "datadoc",
   "owner": {
    "login": "w3c-cg"
@@ -19476,32 +19502,6 @@
    "repo-type": [
     "project"
    ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "credweb",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/credweb",
-  "homepageUrl": "https://credweb.org",
-  "description": "Credible Web CG Admin/General",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/credibility"
-   ],
-   "contacts": [
-    "sandhawke"
-   ],
-   "repo-type": [
-    "homepage",
-    "cg-report"
-   ],
-   "policy": "restricted",
    "exposed": true
   }
  },
@@ -29601,31 +29601,6 @@
    "shortName": "web-share",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "web-share-target",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/web-share-target",
-  "homepageUrl": "https://w3c.github.io/web-share-target/",
-  "description": "Web API proposal for receiving shared data",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "shortName": "web-share-target",
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
