@@ -15872,6 +15872,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "aria-at",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/aria-at",
+  "homepageUrl": "https://aria-at.netlify.app",
+  "description": "Assistive Technology ARIA Experience Assessment",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/aria-at"
+   ],
+   "contacts": [
+    "daniel-montalvo"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "atag",
   "owner": {
    "login": "w3c-cg"
@@ -18660,31 +18685,6 @@
    "policy": "restricted",
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "aria-at",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/aria-at",
-  "homepageUrl": "https://aria-at.netlify.app",
-  "description": "Assistive Technology ARIA Experience Assessment",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/aria-at"
-   ],
-   "contacts": [
-    "michael-n-cooper"
-   ],
-   "policy": "restricted",
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
