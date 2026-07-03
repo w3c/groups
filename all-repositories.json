@@ -28328,7 +28328,21 @@
   },
   "url": "https://github.com/w3c/prov",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    46974
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track",
+    "note",
+    "tests"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
