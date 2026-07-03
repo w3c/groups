@@ -1,0 +1,38 @@
+{
+ "id": 177733,
+ "name": "Web Editing Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-17",
+ "description": "<p>The mission of the Web Editing Community Group is to incubate proposals and gather implementation and developer feedback on technologies related to text editing on the Web. The group provides an open forum for exploring new ideas, revisiting existing editing-related features, and developing technical proposals before they are considered for standardization.</p>\n<p>The scope of the Community Group will be aligned with that of the Web Editing Working Group.</p>\n<p>The primary deliverables of the Community Group are technical proposals, explainers, use cases, requirements documents, and other incubation materials within its scope. As a Community Group, the group does not publish W3C Recommendations or other formal standards-track specifications. Instead, proposals developed by the group are expected to be discussed openly, refined through community and implementation feedback, and eventually transferred to the W3C Web Editing Working Group or another appropriate standards body for formal standardization work.</p>\n<p>The Community Group will coordinate closely with the W3C Web Editing Working Group. To encourage participation and reduce meeting overhead, the Community Group will use the same meeting schedule as the Working Group. Individual agenda items may be designated as either Community Group or Working Group discussions, depending on the nature and maturity of the work being discussed.</p>",
+ "shortname": "web-editing-cg",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/web-editing-cg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-editing-cg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-editing-cg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-editing-cg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-editing-cg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-editing-cg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-editing-cg"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/web-editing-cg"
+}
