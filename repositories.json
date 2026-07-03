@@ -25076,6 +25076,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "prov",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/prov",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/prov"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track",
+    "note",
+    "tests"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "proximity",
   "owner": {
    "login": "w3c"
