@@ -6705,6 +6705,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webview-security",
+  "owner": {
+   "login": "WebView-CG"
+  },
+  "url": "https://github.com/WebView-CG/webview-security",
+  "homepageUrl": "https://webview-cg.github.io/webview-security/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webview"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webview-survey",
   "owner": {
    "login": "WebView-CG"
