@@ -1,0 +1,38 @@
+{
+ "id": 177865,
+ "name": "Embedded Web Engines & Native Web Runtimes Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-23",
+ "description": "<p>People reach more and more of the world's information — reading, learning, medical and scientific imagery, public services, transit and travel guidance, signage, connected devices and control surfaces — through software built on a web rendering engine running as a native application, rather than inside a traditional browser. How well that engine is used directly shapes whether information is readable, usable, and accessible to everyone.</p>\n\n<p>The mission of this group is to improve how rendering engines are used by bringing together people across every field that builds on rendering engines, including: publishing systems, government and civic services, transportation and transit, architecture and construction, broadcasting and media, embedded devices and the Web of Things, games, and assistive technology. Across these fields, the group shares practical patterns and surfaces the parts of the web platform that are under-specified or awkward when an engine is embedded outside the traditional browser.</p>\n\n<p>Concretely, the group looks at how to give people: text that is readable in any language (including Japanese vertical writing, ruby and CJK typography); content that is accessible to assistive technology (bridging the web accessibility tree to platform APIs such as AT-SPI / UIA); rich visuals such as 3D models in education, medicine, and architecture and construction (GPU / EGL rendering paths); captioned and synchronized media for broadcasting and accessible publications (Media Overlays); secure access to licensed material for libraries (e.g. Readium LCP); and responsive, real-time interfaces for control surfaces, devices and interactive applications — together with the application lifecycle, native integration and performance characteristics that make these dependable.</p>\n\n<p>This group will not publish Specifications. It incubates findings — best-practice guides, gap analyses, sample code and test cases — that may inform relevant W3C Working Groups (for example CSS, Internationalization, Accessibility (APA/ARIA), Web Performance, Web of Things, and EPUB/Publishing), handing off concrete proposals where useful.</p>",
+ "shortname": "embedded-web-engines",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/embedded-web-engines/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/embedded-web-engines/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/embedded-web-engines/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/embedded-web-engines/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/embedded-web-engines/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/embedded-web-engines/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/embedded-web-engines"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/embedded-web-engines"
+}
