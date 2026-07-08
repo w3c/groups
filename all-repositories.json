@@ -24486,25 +24486,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "inclusive-xr-roadmap",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/inclusive-xr-roadmap",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "dontcallmedom"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "infobot",
   "owner": {
    "login": "w3c"
@@ -31608,6 +31589,16 @@
    "policy": "restricted",
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tmp-xfer202607",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/tmp-xfer202607",
+  "isArchived": false,
+  "isPrivate": false
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
