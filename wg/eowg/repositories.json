@@ -53,55 +53,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wai-media-intro",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wai-media-intro",
-  "description": "Accessible Media Introduction",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/eowg"
-   ],
-   "contacts": [
-    "slhenry",
-    "yatil"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wai-mobile-intro",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wai-mobile-intro",
-  "homepageUrl": "https://w3c.github.io/wai-mobile-intro/mobile",
-  "description": "Mobile Accessibility Developers Intro",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/eowg"
-   ],
-   "contacts": [
-    "slhenry",
-    "yatil"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wai-wcag-em-report-tool",
   "owner": {
    "login": "w3c"
