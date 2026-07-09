@@ -82,30 +82,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "community-resources",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/community-resources",
-  "description": "Common resources for all Immersive Web Community Group repositories",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/immersive-web"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "computer-vision",
   "owner": {
    "login": "immersive-web"
