@@ -8134,30 +8134,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "community-resources",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/community-resources",
-  "description": "Common resources for all Immersive Web Community Group repositories",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "computer-vision",
   "owner": {
    "login": "immersive-web"
@@ -34176,27 +34152,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wai-axsdb-services",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wai-axsdb-services",
-  "description": "Accessibility Support Database",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "nitedog",
-    "evlach"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wai-axsdb-web",
   "owner": {
    "login": "w3c"
@@ -34368,30 +34323,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wai-media-intro",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wai-media-intro",
-  "description": "Accessible Media Introduction",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    35532
-   ],
-   "contacts": [
-    "slhenry",
-    "yatil"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wai-minimal-header-design",
   "owner": {
    "login": "w3c"
@@ -34409,50 +34340,6 @@
   },
   "url": "https://github.com/w3c/wai-mission",
   "description": "W3C Accessibility Vision, Mission, Objectives",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "slhenry"
-   ],
-   "repo-type": [
-    "project"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wai-mobile-intro",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wai-mobile-intro",
-  "homepageUrl": "https://w3c.github.io/wai-mobile-intro/mobile",
-  "description": "Mobile Accessibility Developers Intro",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    35532
-   ],
-   "contacts": [
-    "slhenry",
-    "yatil"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wai-people-use-web-videos",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wai-people-use-web-videos",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
