@@ -1,0 +1,38 @@
+{
+ "id": 176749,
+ "name": "DDS: Decentralized Deliberation Stack Community Group",
+ "is_closed": false,
+ "creation-date": "2026-05-06",
+ "description": "<p>The mission of the DDS Community Group is to develop the Decentralized Deliberation Stack, protocol-agnostic technology for sovereign, interoperable, verifiable, and resilient deliberation. A deliberation is a structured process through which a group gathers, analyzes, and reuses collective input to inform decisions, governance, research, or public understanding. DDS describes how different classes of products can interoperate across the Plan, Collect, and Analyze lifecycle, using shared models for deliberations, flexible participation, semantic data, archival, verification, and reuse by voting and governance protocols.</p>\n\n<p>The group will produce semantic data schemas, implementation profiles, reference implementations for Plan, Collect, and Analyze components, and implementation guides for DDS across multiple protocols and languages. Profiles may target transport and publication systems such as AT Protocol, ActivityPub, Nostr or Farcaster; semantic data systems such as JSON-LD, RDF, or Lexicons; participation models such as guest access, SSO, digital wallets, ZK credentials, or W3C Verifiable Credentials; durability systems such as IPFS, Filecoin, or Arweave; and verification mechanisms such as signed records, public-ledger result commitments, or zkML proofs for analysis correctness. DDS connects these layers through interoperable profiles, rather than requiring any particular transport, identity, archive, verification, or voting protocol. Participants should include deliberation tool builders, civic technology practitioners, decentralized web builders, semantic web researchers, governance communities, protocol developers, identity and credential experts, cryptography researchers, and archivists. This group may publish Specifications.</p>",
+ "shortname": "dds",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/dds/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/dds/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/dds/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/dds/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/dds/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/dds/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dds"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dds"
+}
