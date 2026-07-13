@@ -16140,28 +16140,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "dds",
-  "owner": {
-   "login": "w3c-cg"
-  },
-  "url": "https://github.com/w3c-cg/dds",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/dds"
-   ],
-   "contacts": [
-    "ij@w3.org"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dpv",
   "owner": {
    "login": "w3c-cg"
