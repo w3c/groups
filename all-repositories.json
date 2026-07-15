@@ -31796,6 +31796,17 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tpac2026-miniworkshops",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/tpac2026-miniworkshops",
+  "description": "Mini-workshops @TPAC2026",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "tr-design",
   "owner": {
    "login": "w3c"
