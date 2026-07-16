@@ -48,5 +48,28 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "sdw-time",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/sdw-time",
+  "description": "The SDW WG's repository for the Time Ontology in OWL Recommendation ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/sdw"
+   ],
+   "contacts": [
+    "bert-github"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
  }
 ]
