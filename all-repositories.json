@@ -25457,31 +25457,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "manual-of-style",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/manual-of-style",
-  "homepageUrl": "https://www.w3.org/guide/manual-of-style/",
-  "description": "The W3C Manual of Style",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    36332
-   ],
-   "contacts": [
-    "koalie",
-    "bert-github"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "markup-validator",
   "owner": {
    "login": "w3c"
