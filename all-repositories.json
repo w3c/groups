@@ -8053,29 +8053,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "ar-common",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/ar-common",
-  "description": "A repo for discussing and capturing information about cross-API aspects of augmented reality ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "body-tracking",
   "owner": {
    "login": "immersive-web"
@@ -8116,30 +8093,6 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "cardboard-vr-display",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/cardboard-vr-display",
-  "homepageUrl": "https://immersive-web.github.io/cardboard-vr-display",
-  "description": "A JavaScript implementation of a WebVR 1.1 VRDisplay",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
    ],
    "exposed": true
   }
@@ -8629,30 +8582,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "performance-improvements",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/performance-improvements",
-  "description": "A feature-incubation repo for XR-related performance improvements. Feature lead: Trevor F. Smith",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "plane-detection",
   "owner": {
    "login": "immersive-web"
@@ -8671,30 +8600,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "privacy-and-security",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/privacy-and-security",
-  "description": "Cross specification concerns and suggestions for privacy and security for the immersive web (Feature lead: Mounir Lamouri)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    109735
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
    ],
    "exposed": true
   }
@@ -8807,79 +8712,6 @@
    ],
    "repo-type": [
     "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webvr-polyfill",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/webvr-polyfill",
-  "homepageUrl": "http://immersive-web.github.io/webvr-polyfill/examples/",
-  "description": "Use WebVR today, without requiring a special browser build.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webvr-polyfill-dpdb",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/webvr-polyfill-dpdb",
-  "homepageUrl": "https://immersive-web.github.io/webvr-polyfill-dpdb/dpdb.json",
-  "description": "An up-to-date Device Parameter Database for the WebVR Polyfill",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webvrrocks",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/webvrrocks",
-  "homepageUrl": "https://webvr.rocks/",
-  "description": "Your guide to Virtual Reality in the browser.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    87846
-   ],
-   "contacts": [
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
    ],
    "exposed": true
   }
