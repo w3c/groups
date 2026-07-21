@@ -245,30 +245,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "privacy-and-security",
-  "owner": {
-   "login": "immersive-web"
-  },
-  "url": "https://github.com/immersive-web/privacy-and-security",
-  "description": "Cross specification concerns and suggestions for privacy and security for the immersive web (Feature lead: Mounir Lamouri)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/immersive-web"
-   ],
-   "contacts": [
-    "dontcallmedom",
-    "himorin"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webxr",
   "owner": {
    "login": "immersive-web"
