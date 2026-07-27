@@ -1,0 +1,38 @@
+{
+ "id": 177565,
+ "name": "Payment Support for the EU Digital Identity Wallet Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-10",
+ "description": "<p>The mission for this group is to propose and if possible consolidate different aspects of payment authorizations using the EU Digital Identity Wallet.  This includes:</p>\n\n<ul>\n<li>UX considerations</li>\n<li>Different flows like \"push-through\" and 3D Secure/Oauth2</li>\n<li>Electronic receipts</li>\n<li>Account balance reports</li>\n<li>Local payments</li>\n<li>Person-to-Person payments</li>\n<li>Possible innovation with respect to other systems</li>\n</ul>\n\nThis group may publish Specifications.",
+ "shortname": "eudi-4-payments",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/eudi-4-payments/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/eudi-4-payments/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/eudi-4-payments/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/eudi-4-payments/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/eudi-4-payments/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/eudi-4-payments/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/eudi-4-payments"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/eudi-4-payments"
+}
