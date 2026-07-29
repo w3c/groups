@@ -20024,31 +20024,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "breakouts-day-2025",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/breakouts-day-2025",
-  "homepageUrl": "https://www.w3.org/calendar/breakouts-day-2025/",
-  "description": "W3C Breakouts Day 2025",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    106
-   ],
-   "contacts": [
-    "tidoust",
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "project"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "breakouts-day-2026",
   "owner": {
    "login": "w3c"
@@ -31578,54 +31553,6 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    106
-   ],
-   "contacts": [
-    "tidoust",
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "project"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "tpac2024-breakouts",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/tpac2024-breakouts",
-  "description": "Repository set up to collect and organize breakout session proposals for TPAC 2024",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    106
-   ],
-   "contacts": [
-    "tidoust",
-    "ianbjacobs"
-   ],
-   "repo-type": [
-    "project"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "tpac2025-breakouts",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/tpac2025-breakouts",
-  "description": "Repository set up to collect and organize breakout session proposals for TPAC 2025 ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "groups": [
     106
    ],
    "contacts": [
