@@ -29522,6 +29522,17 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rrsagent",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/rrsagent",
+  "description": "RRSAgent IRC bot",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ruby-t2s-req",
   "owner": {
    "login": "w3c"
