@@ -1073,11 +1073,11 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "working-with-EN-301-549",
+  "name": "en-301-549-resources-and-eaa-monitoring",
   "owner": {
    "login": "Nordic-Accessibility-Community-Group"
   },
-  "url": "https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549",
+  "url": "https://github.com/Nordic-Accessibility-Community-Group/en-301-549-resources-and-eaa-monitoring",
   "description": "How to understand the EN-standard and how monitoring works in different countries.",
   "isArchived": false,
   "isPrivate": false,
@@ -27052,10 +27052,11 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/svg"
+    "wg/svg",
+    "wg/aria"
    ],
    "contacts": [
-    "michael-n-cooper",
+    "daniel-montalvo",
     "svgeesus"
    ],
    "policy": "restricted",
