@@ -25174,6 +25174,17 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "lws-wg-charter",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/lws-wg-charter",
+  "description": "Linked Web Storage Working Group charter",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "machine-learning-charter",
   "owner": {
    "login": "w3c"
