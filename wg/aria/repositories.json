@@ -397,5 +397,31 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-aam",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/svg-aam",
+  "description": "SVG Accessibility API Mappings",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/svg",
+    "wg/aria"
+   ],
+   "contacts": [
+    "daniel-montalvo",
+    "svgeesus"
+   ],
+   "policy": "restricted",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
  }
 ]
