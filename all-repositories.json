@@ -2213,7 +2213,7 @@
   },
   "url": "https://github.com/WICG/cross-origin-storage",
   "homepageUrl": "https://wicg.github.io/cross-origin-storage/",
-  "description": "Explainer for Cross-Origin Storage (COS), a content-addressable browser cache that shares large files across origins by SHA-256 hash, with k-anonymity-based availability gating to prevent cross-site tracking.",
+  "description": "Cross-Origin Storage (COS), a content-addressable browser cache that shares files across origins by hash, with k-anonymity-based availability gating to prevent cross-site tracking",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -17579,7 +17579,19 @@
   "url": "https://github.com/w3c-cg/webforensics",
   "homepageUrl": "https://w3c-cg.github.io/webforensics/",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    171297
+   ],
+   "contacts": [
+    "simone@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
