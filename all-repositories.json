@@ -13675,6 +13675,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "activitypub-handles",
+  "owner": {
+   "login": "swicg"
+  },
+  "url": "https://github.com/swicg/activitypub-handles",
+  "description": "Taskforce for defining the concept of Handles on ActivityPub, ties into prior Webfinger work.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/socialcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "activitypub-html-discovery",
   "owner": {
    "login": "swicg"
