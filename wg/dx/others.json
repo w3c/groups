@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dxwg",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dxwg",
+  "homepageUrl": "https://w3c.github.io/dxwg/dcat/",
+  "description": "Data Catalog Vocabulary (DCAT)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx",
+    "tf/dx-dcat"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ }
+]
