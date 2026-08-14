@@ -1,0 +1,38 @@
+{
+ "id": 178014,
+ "name": "Unified Care Model Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-29",
+ "description": "<p>Organizations involved in healthcare, social care, housing, justice, education, and other human-service domains increasingly need to exchange, integrate, and reason over information that spans multiple care domains. While many standards, information models, and ontologies exist, they are often developed independently and reflect different perspectives, assumptions, and semantic structures. As a result, organizations face significant challenges in achieving semantic interoperability, whole-person care coordination, integrated analytics, AI-enabled reasoning, and the development of applications that require semantically consistent information across domains. The solution to this problem is described as Whole Person Care.</p>\n\n<p>The mission of the group is to develop an open, computable semantic cross-domain framework for care domains that enables semantic interoperability and equivalence across healthcare, social care, housing, justice, education, and related human-service ecosystems. The group will develop the Unified Care Model (UCM), a high-level ontology and semantic reference model that can be used to semantically align and bridge domain-specific information models, ontologies, and standards. It is not a goal to replace existing standard artifacts.</p>\n\n<p>This group expects to publish Specifications. See the <a href=\"https://github.com/hserv/ucm/blob/main/group-charter.md\">group charter</a> for more information.</p>",
+ "shortname": "ucm",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ucm/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ucm/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ucm/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ucm/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ucm/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ucm/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ucm"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ucm"
+}
