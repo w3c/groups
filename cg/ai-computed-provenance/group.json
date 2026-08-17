@@ -1,0 +1,38 @@
+{
+ "id": 179081,
+ "name": "AI Computed Provenance Community Group",
+ "is_closed": false,
+ "creation-date": "2026-08-14",
+ "description": "<p>The mission of this group is to build an open trust layer for AI-driven science and technology, stewarded as a public good. The current paradigm of AI-assisted research often requires users to place blind faith in proprietary black boxes. This group standardizes a paradigm shift: a machine-checked and cryptographically founded foundation that records exactly how every fact is known.</p>\n\n<p>By capturing this provenance, auditing any conclusion transforms from an act of trust into a transparent, independently reproducible process. The group operates on the core distinction that \"Computed ≠ Asserted\"—a system must prove it computed a result, rather than simply asserting it. Because you cannot outsource \"is this true?\" to a proprietary black box and have the answer carry independent weight, this verification layer must remain fundamentally neutral and immune to single-vendor enclosure.</p>\n\n<p>This group expects to deliver:</p>\n\n<ul>\n<li>A reference specification for capturing cryptographic provenance in AI-assisted scientific and technical workflows.</li>\n<li>An initial conformance test suite for independent verification.</li>\n<li>Architectural guidelines ensuring the protocol remains inspectable and protected from commercial capture.</ul>\n</ul>",
+ "shortname": "ai-computed-provenance",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ai-computed-provenance/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ai-computed-provenance/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ai-computed-provenance/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ai-computed-provenance/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ai-computed-provenance/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ai-computed-provenance/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ai-computed-provenance"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ai-computed-provenance"
+}
