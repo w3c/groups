@@ -22003,6 +22003,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dx-dcat",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dx-dcat",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    99375
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dx-prof",
   "owner": {
    "login": "w3c"
@@ -22022,6 +22044,50 @@
    "policy": "open",
    "repo-type": [
     "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dx-qb",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dx-qb",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    99375
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dx-vvd",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dx-vvd",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    99375
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
