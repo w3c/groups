@@ -1,0 +1,38 @@
+{
+ "id": 177174,
+ "name": "Sensory Stimulation Vocabulary Community Group",
+ "is_closed": false,
+ "creation-date": "2026-05-26",
+ "description": "<p>The <strong>Sensory Stimulation Vocabulary Community Group</strong> aims to develop shared terminology for sensory stimulation research, software, hardware, and public-interest applications. This includes open vocabularies, ontology modules, semantic models, JSON-LD contexts, SHACL validation profiles, and implementation guidance for describing sessions, stimuli, techniques, modalities, parameters, devices, safety metadata, evidence annotations, and related datasets on the Web.</p>\n\n<p>The group’s core intent is to make sensory stimulation more coherent and interoperable. It aims to:</p>\n\n<ul>\n  <li>Help research become easier to share, compare, annotate, reproduce, and represent across studies and contexts.</li>\n  <li>Help software and hardware systems communicate using shared sensory stimulation metadata.</li>\n  <li>Help researchers, developers, authorities, institutions, public-interest organizations, and the public discuss sensory stimulation technologies with clearer terminology and evidence/safety boundaries.</li>\n</ul>\n\n<p>The group may publish specifications, reports, use cases, examples, validation profiles, and implementation guidance. Relevant technologies may include RDF, OWL, SKOS, SHACL, JSON-LD, persistent identifiers, and mappings to existing Web vocabularies.</p>\n\n<p>We welcome researchers, sensory stimulation developers, audio/visual/haptic technology experts, semantic-web practitioners, accessibility specialists, device and application developers, open-science communities, public-interest organizations, and institutions interested in responsible semantic infrastructure.</p>\n\n<p><em><strong>Scope boundary:</strong> This group is a technical community group focused on vocabulary, metadata, semantic interoperability, and implementation guidance. Its work may help make sensory stimulation easier to document, compare, and evaluate by external researchers, institutions, or authorities. The group itself does not define clinical practice guidelines, certify therapeutic efficacy, prescribe medical protocols, issue public-health recommendations, or evaluate regulated-device claims.</em></p>",
+ "shortname": "sstim",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/sstim/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sstim/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sstim/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sstim/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sstim/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sstim/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sstim"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/sstim"
+}
