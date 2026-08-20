@@ -2672,29 +2672,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "view-transitions",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/view-transitions",
-  "homepageUrl": "https://drafts.csswg.org/css-view-transitions-1/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-app-launch",
   "owner": {
    "login": "WICG"
