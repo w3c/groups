@@ -1,6 +1,23 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "awesome-built-in-ai",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "url": "https://github.com/webmachinelearning/awesome-built-in-ai",
+  "description": "A collection of awesome built-in AI artifacts",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "awesome-webmcp",
   "owner": {
    "login": "webmachinelearning"
