@@ -1,0 +1,27 @@
+{
+ "id": 178234,
+ "name": "QB Task Force",
+ "is_closed": false,
+ "creation-date": "2026-07-10",
+ "description": "Task force of the Dataset Exchange WG focusing on the RDF Data Cube Vocabulary",
+ "shortname": "dx-tf-qb",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-qb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-qb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-qb/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-qb"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/dx-tf-qb",
+ "group-type": "tf"
+}
