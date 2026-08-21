@@ -17001,6 +17001,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "publ-a11y",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/publ-a11y",
+  "description": "Accessibility related discussions of the Publishing@W3C Groups",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    110591
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "publishingcg",
   "owner": {
    "login": "w3c-cg"
@@ -21964,10 +21987,11 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/dx"
+    "wg/dx",
+    "tf/dx-tf-prof"
    ],
    "contacts": [
-    "plehegar"
+    "pchampin"
    ],
    "policy": "open",
    "repo-type": [
@@ -21987,7 +22011,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    99375
+    "wg/dx",
+    "tf/dx-dcat"
    ],
    "contacts": [
     "pchampin"
@@ -22011,14 +22036,15 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/dx"
+    "wg/dx",
+    "tf/dx-tf-prof"
    ],
    "contacts": [
-    "plehegar"
+    "pchampin"
    ],
    "policy": "open",
    "repo-type": [
-    "note"
+    "rec-track"
    ],
    "exposed": true
   }
@@ -22034,7 +22060,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    99375
+    "wg/dx",
+    "tf/dx-tf-qb"
    ],
    "contacts": [
     "pchampin"
@@ -28425,30 +28452,6 @@
    ],
    "repo-type": [
     "tool",
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "publ-a11y",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/publ-a11y",
-  "description": "Accessibility related discussions of the Publishing@W3C Groups",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    100074,
-    "wg/pm"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
     "article"
    ],
    "exposed": true
