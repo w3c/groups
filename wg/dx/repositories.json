@@ -12,10 +12,11 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/dx"
+    "wg/dx",
+    "tf/dx-tf-prof"
    ],
    "contacts": [
-    "plehegar"
+    "pchampin"
    ],
    "policy": "open",
    "repo-type": [
@@ -35,7 +36,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/dx"
+    "wg/dx",
+    "tf/dx-dcat"
    ],
    "contacts": [
     "pchampin"
@@ -59,14 +61,15 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/dx"
+    "wg/dx",
+    "tf/dx-tf-prof"
    ],
    "contacts": [
-    "plehegar"
+    "pchampin"
    ],
    "policy": "open",
    "repo-type": [
-    "note"
+    "rec-track"
    ],
    "exposed": true
   }
@@ -82,7 +85,8 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/dx"
+    "wg/dx",
+    "tf/dx-tf-qb"
    ],
    "contacts": [
     "pchampin"
