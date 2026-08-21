@@ -298,30 +298,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "publ-a11y",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/publ-a11y",
-  "description": "Accessibility related discussions of the Publishing@W3C Groups",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing",
-    "wg/pm"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "publ-a11y-extended-desc",
   "owner": {
    "login": "w3c"
