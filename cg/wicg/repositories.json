@@ -1696,30 +1696,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "navigation-api",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/navigation-api",
-  "homepageUrl": "https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigation-api",
-  "description": "The new navigation API provides a new interface for navigations and session history, with a focus on single-page application navigations.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "cwilso"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "netinfo",
   "owner": {
    "login": "WICG"
