@@ -1,0 +1,54 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dx-connegp",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dx-connegp",
+  "homepageUrl": "https://w3c.github.io/dx-connegp/connegp/",
+  "description": "Content Negotiation by Profile",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx",
+    "tf/dx-tf-prof"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dx-prof",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dx-prof",
+  "homepageUrl": "https://w3c.github.io/dx-prof/prof/",
+  "description": "The Profiles Vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx",
+    "tf/dx-tf-prof"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ }
+]
