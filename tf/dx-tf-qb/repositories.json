@@ -1,0 +1,25 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dx-qb",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/dx-qb",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/dx",
+    "tf/dx-tf-qb"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ }
+]
