@@ -1,0 +1,27 @@
+{
+ "id": 178232,
+ "name": "Profile Task Force",
+ "is_closed": false,
+ "creation-date": "2026-07-10",
+ "description": "Task force of the Dataset Exchange WG focusing on Profile specifications",
+ "shortname": "dx-tf-prof",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-prof/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-prof/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-prof/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-prof"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/dx-tf-prof",
+ "group-type": "tf"
+}
