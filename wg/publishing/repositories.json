@@ -129,29 +129,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "publ-a11y-display-guide-localizations",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/publ-a11y-display-guide-localizations",
-  "description": "Localizations of the Accessibility Metadata Display Guide for Digital Publications",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/publishing"
-   ],
-   "contacts": [
-    "iherman"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "publ-a11y-extended-desc",
   "owner": {
    "login": "w3c"
