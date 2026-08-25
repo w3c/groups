@@ -16823,6 +16823,7 @@
    "login": "w3c-cg"
   },
   "url": "https://github.com/w3c-cg/music-notationref",
+  "homepageUrl": "https://w3c-cg.github.io/music-notationref/",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -37645,6 +37646,17 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "zakim",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/zakim",
+  "description": "Zakim IRC bot",
+  "isArchived": false,
+  "isPrivate": false
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
