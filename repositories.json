@@ -21127,29 +21127,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "font-text-cg-temp",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/font-text-cg-temp",
-  "description": "GitHub repo for the W3C Font and Text Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/font-text"
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "process"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "fxtf-drafts",
   "owner": {
    "login": "w3c"
@@ -29454,31 +29431,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wcag-act-rules-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wcag-act-rules-cg",
-  "homepageUrl": "https://auto-wcag.github.io/auto-wcag/",
-  "description": "Accessibility conformance testing rules for HTML",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/ag"
-   ],
-   "contacts": [
-    "nitedog"
-   ],
-   "repo-type": [
-    "tests"
    ],
    "policy": "restricted",
    "exposed": true
