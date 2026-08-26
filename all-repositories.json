@@ -22777,7 +22777,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/federated-learning-cg",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
@@ -22857,29 +22857,6 @@
    ],
    "repo-type": [
     "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "font-text-cg-temp",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/font-text-cg-temp",
-  "description": "GitHub repo for the W3C Font and Text Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    125655
-   ],
-   "contacts": [
-    "svgeesus"
-   ],
-   "repo-type": [
-    "process"
    ],
    "exposed": true
   }
@@ -24992,7 +24969,7 @@
   },
   "url": "https://github.com/w3c/ldp-next",
   "description": "Materials for the LDP-Next (Linked Data Platform, Next Steps) CG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
@@ -30503,7 +30480,7 @@
   },
   "url": "https://github.com/w3c/sparql-exists",
   "description": "Repo for the SPARQL Maintenance (EXISTS) CG",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
@@ -34779,31 +34756,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wcag-act-rules-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/wcag-act-rules-cg",
-  "homepageUrl": "https://auto-wcag.github.io/auto-wcag/",
-  "description": "Accessibility conformance testing rules for HTML",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    35422
-   ],
-   "contacts": [
-    "nitedog"
-   ],
-   "repo-type": [
-    "tests"
-   ],
-   "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wcag-redesign",
   "owner": {
    "login": "w3c"
@@ -35033,7 +34985,7 @@
   "url": "https://github.com/w3c/web-fights-covid19-cg",
   "homepageUrl": "https://www.w3.org/community/web-vs-covid19/",
   "description": "Web Fights Covid19 Community Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
