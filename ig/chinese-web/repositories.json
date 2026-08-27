@@ -98,30 +98,5 @@
    ],
    "exposed": true
   }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "miniapp",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/miniapp",
-  "homepageUrl": "https://www.w3.org/groups/wg/miniapps/",
-  "description": "MiniApps Standardization",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/miniapps",
-    "ig/chinese-web"
-   ],
-   "contacts": [
-    "xfq"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "exposed": true
-  }
  }
 ]
