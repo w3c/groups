@@ -281,6 +281,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webmcp-polyfill",
+  "owner": {
+   "login": "webmachinelearning"
+  },
+  "url": "https://github.com/webmachinelearning/webmcp-polyfill",
+  "description": "WebMCP polyfill",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webmachinelearning"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webmcp-types",
   "owner": {
    "login": "webmachinelearning"
