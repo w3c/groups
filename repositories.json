@@ -16420,6 +16420,27 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "opentrack-cg",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/opentrack-cg",
+  "homepageUrl": "https://w3c-cg.github.io/opentrack-cg/",
+  "description": "Open Athletics Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/opentrack"
+   ],
+   "contacts": [
+    "espinr"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "planning",
   "owner": {
    "login": "w3c-cg"
@@ -24153,27 +24174,6 @@
    ],
    "repo-type": [
     "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "opentrack-cg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/opentrack-cg",
-  "homepageUrl": "https://w3c.github.io/opentrack-cg/",
-  "description": "Open Athletics Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/opentrack"
-   ],
-   "contacts": [
-    "espinr"
    ],
    "exposed": true
   }
