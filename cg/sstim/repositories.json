@@ -6,6 +6,8 @@
    "login": "w3c-cg"
   },
   "url": "https://github.com/w3c-cg/sstim",
+  "homepageUrl": "https://w3id.org/sstim",
+  "description": "SSTIM: the open formalized knowledge standard for describing sensory stimulation. RDF vocabulary, SHACL profiles, JSON-LD context, and SSTIM Workbench, its open reference environment. Developed in the W3C Sensory Stimulation Vocabulary Community Group.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
