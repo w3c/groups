@@ -1,0 +1,38 @@
+{
+ "id": 178646,
+ "name": "Threats and Harms Community Group",
+ "is_closed": false,
+ "creation-date": "2026-07-29",
+ "description": "<p>This group's purpose is to develop documentation around threats and harms related to societal impacts and Human Rights issues, outside the scope of other areas already addressed by other W3C groups, such as Accessibility, Privacy, Security, Internationalisation, and Sustainability. Examples of the kind of work proposed include human rights threat modelling, principles, checklists, and questionnaires that could become part of, or help to inform, wide review. This group welcomes participation by civil society organizations.</p>\n\n<p>This group will not publish Specifications.</p>",
+ "shortname": "threats-and-harms",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/threats-and-harms/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/threats-and-harms/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/threats-and-harms/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/threats-and-harms/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/threats-and-harms/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/threats-and-harms/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/threats-and-harms"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/threats-and-harms"
+}
