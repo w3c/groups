@@ -27185,7 +27185,7 @@
   },
   "url": "https://github.com/w3c/omn",
   "description": "W3C Federated Infrastructures Community Group",
-  "isArchived": false,
+  "isArchived": true,
   "isPrivate": false
  },
  {
@@ -29472,28 +29472,6 @@
    "repo-type": [
     "note"
    ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "scholarly-html",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/scholarly-html",
-  "description": "Repository for the Scholarly HTML Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    84855
-   ],
-   "contacts": [
-    "iherman",
-    "darobin"
-   ],
-   "policy": "open",
    "exposed": true
   }
  },
