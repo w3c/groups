@@ -21868,27 +21868,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "idcg",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/idcg",
-  "description": "Inclusion and Diversity Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/idcg"
-   ],
-   "policy": "open",
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ift-client-tests",
   "owner": {
    "login": "w3c"
