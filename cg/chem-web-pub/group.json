@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/chem-web-pub"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/chem-web-pub/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/chem-web-pub/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/chem-web-pub"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/chem-web-pub",
