@@ -34,5 +34,97 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/sstim"
+ "identifier": "cg/sstim",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46291",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/sstim",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46291"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46291/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46188",
+   "title": "internal-sstim (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-sstim/",
+    "shortdesc": "internal-sstim",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46188"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46188/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46186",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sstim",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46186"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46186/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46187",
+   "title": "public-sstim (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sstim/",
+    "shortdesc": "public-sstim",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46187"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46187/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46185",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sstim/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46185"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46185/groups"
+     }
+    }
+   }
+  }
+ ]
 }
