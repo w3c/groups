@@ -1,0 +1,112 @@
+{
+ "id": 175828,
+ "name": "Agent-to-Web Framework (A2WF) Community Group",
+ "is_closed": false,
+ "creation-date": "2026-03-29",
+ "description": "<p>The emergence of autonomous AI agents creates opportunities for interactions with sites that go beyond mere content consumption. AI agents will want to fill forms, book appointments, add items to carts, submit orders, etc. Website operators currently have no machine-readable way to govern these actions. Technologies such as\nrobots.txt and AIPREF address crawling and content use, but neither covers agent actions, authentication requirements, or human-in-the-loop verification.</p>\n\n<p>The mission of this group is to develop technology that enables website operators to publish machine-readable governance policies for AI agents.</p>\n\n<p>The <a href=\"https://a2wf.org\">Agent-to-Web Framework (A2WF) </a> is intended to serve as a starting point for discussion within the group, but is not intended to constrain the group's discussions or decisions about future deliverables.</p>\n\n<p>This group may publish Specifications.</p>",
+ "shortname": "a2wf",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/a2wf/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/a2wf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/a2wf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/a2wf/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/a2wf/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/a2wf/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/a2wf"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/a2wf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46111",
+   "title": "internal-a2wf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-a2wf/",
+    "shortdesc": "internal-a2wf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46111"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46111/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46109",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#a2wf",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46109"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46109/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46110",
+   "title": "public-a2wf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-a2wf/",
+    "shortdesc": "public-a2wf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46110"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46110/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46108",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/a2wf/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46108"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46108/groups"
+     }
+    }
+   }
+  }
+ ]
+}
