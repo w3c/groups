@@ -6,9 +6,6 @@
  "shortname": "wai",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/wai"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/about/groups/waiig/"
   },
@@ -32,23 +29,28 @@
   },
   "active-charter": {
    "href": "https://api.w3.org/groups/ig/wai/charters/541"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/wai"
   }
  },
  "type": "interest group",
  "start-date": "2001-06-18",
  "end-date": "2027-07-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/wai",
  "services": [
   {
    "href": "https://api.w3.org/services/45554",
-   "title": "Public list for W3C announcements to the WAI Interest Group (Mailing List)",
+   "title": "public-wai-announce (Mailing List)",
    "details": {
     "closed": false,
     "type": "lists",
     "link": "https://lists.w3.org/Archives/Public/public-wai-announce/",
-    "shortdesc": "Public list for W3C announcements to the WAI Interest Group",
+    "shortdesc": "public-wai-announce",
+    "longdesc": "Public list for W3C announcements to the WAI Interest Group",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/45554"
