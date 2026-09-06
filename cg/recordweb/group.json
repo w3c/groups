@@ -1,0 +1,112 @@
+{
+ "id": 178354,
+ "name": "RecordWeb Community Group",
+ "is_closed": false,
+ "creation-date": "2026-07-16",
+ "description": "In some contexts &mdash;building permits, medical records, parliamentary decisions, etc.&mdash; it is important to be able to prove information is attributable to a specific responsible party, frozen at a specific point in time, and verifiable regardless of the system in which it is stored. Today, this is structurally impossible on the Web. Legal proceedings may fail because document versions cannot be reconstructed. Public trust erodes because accountability is claimed, not demonstrated.\n\nToday's Web does not support institutional provability.  Although W3C has addressed parts of this gap in isolation --DIDs solve persistent identity, Verifiable Credentials solve tamper-evidence, PROV-O solves provenance description-- no architecture composes these three into a coherent, deployable protocol for institutional records governance.\n\nThe mission of this group is to enhance the Web to support institutional records management across public authorities, regulated organizations and other institutional contexts.\n\nThe Community Group expects to produce two main kinds of deliverables:\n\n1. an explainer (RecordWeb Concept, RWC) that describes the problem, the model and its relationship to archival science and records management practice;\n\n2. one or more normative Specifications (RecordWeb Protocol, RWP, and the did:rwp DID Method) that define a royalty-free implementation profile suitable to be referenced in procurement, implementation and interoperability requirements.\n\nThe group will also document practical use cases and pilot experiences, particularly in public administration contexts, to ensure that the specifications remain grounded in real institutional records management practice.\n\nThe group will explore solutions that build on existing Web standards, in particular DID Core, PROV-O, Verifiable Credentials and related technologies.\n\nThe group is open to all, and in particular public authorities, institutions and industry, with a focus on real-world interoperable implementations rather than purely theoretical models.\n \nNote: The group will take inspiration from previous work by Nik Jenzer, and that work may inform the group's discussions. That work does not constrain the group's discussions, and all decisions about the group's deliverables will be made by the Community Group participants.",
+ "shortname": "recordweb",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/recordweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/recordweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/recordweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/recordweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/recordweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/recordweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/recordweb"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/recordweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46256",
+   "title": "internal-recordweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-recordweb/",
+    "shortdesc": "internal-recordweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46256"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46256/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46254",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#recordweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46254"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46254/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46255",
+   "title": "public-recordweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-recordweb/",
+    "shortdesc": "public-recordweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46255"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46255/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46253",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/recordweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46253"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46253/groups"
+     }
+    }
+   }
+  }
+ ]
+}
