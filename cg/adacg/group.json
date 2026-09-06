@@ -1,0 +1,112 @@
+{
+ "id": 177359,
+ "name": "Agent Declaration and Assurance Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-03",
+ "description": "<p>As autonomous AI agents shift from sandboxed assistants to independent actors capable of running code, managing financial assets, and interacting with critical infrastructure, the digital ecosystem faces a significant trust deficit. Traditional identity frameworks are built for humans or static machines; they fail to capture the dynamic, non-human nature of AI agents. Without systematic approaches to disclosure, it is impossible to programmatically verify what an agent is, who is responsible for it, and what it is safely permitted to do.</p>\n\n<p>The Agent Declaration and Assurance Community Group (ADACG) is dedicated to developing cryptographic, verifiable mechanisms for autonomous AI systems to declare their identity, operational boundaries, and alignment constraints. These mechanisms will include Agent Declaration (how an agent presents its capabilities and guardrails) and Agent Assurance (how external systems verify those claims at runtime). By developing open specifications like the Open KYA (Know Your Agent) Manifest, the group aims to foster a secure, transparent ecosystem where human and synthetic actors can interact with mutual trust and verifiable assurance.</p>\n\n<p>This group may publish Specifications, including:</p>\n\n<ul>\n<li>The Open KYA Manifest Schema: a cryptographic JSON-LD metadata format for agents to disclose their underlying models, ownership, software versions, and alignment parameters.</li>\n<li>Graduated Conformance Profiles: tiered operational profiles (e.g., Core, Deploy, Transact) to map out risk categories and acceptable guardrails based on an agent's capability level.</li>\n<li>Runtime Integrity &amp; Environmental Bindings: mechanisms to securely bind declarations to runtime environments, such as Trusted Execution Environments (TEEs) and decentralized identity (DID) frameworks.</li>\n<li>Integration Ecosystems: reference architectures for how third-party platforms can parse, verify, and enforce policies based on an agent’s declared manifest.</li>\n</ul>",
+ "shortname": "adacg",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/adacg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/adacg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/adacg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/adacg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/adacg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/adacg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/adacg"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/adacg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46200",
+   "title": "internal-adacg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-adacg/",
+    "shortdesc": "internal-adacg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46200"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46200/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46198",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#adacg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46198"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46198/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46199",
+   "title": "public-adacg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-adacg/",
+    "shortdesc": "public-adacg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46199"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46199/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46197",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/adacg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46197"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46197/groups"
+     }
+    }
+   }
+  }
+ ]
+}
