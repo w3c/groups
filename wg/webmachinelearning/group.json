@@ -7,9 +7,6 @@
  "shortname": "webmachinelearning",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webmachinelearning"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webmachinelearning/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webmachinelearning/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webmachinelearning"
   }
  },
  "type": "working group",
  "start-date": "2021-04-20",
  "end-date": "2027-04-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webmachinelearning",
