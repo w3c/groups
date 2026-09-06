@@ -1,0 +1,48 @@
+{
+ "id": 175840,
+ "name": "EPUB Media Overlays",
+ "is_closed": false,
+ "creation-date": "2026-03-30",
+ "description": "Working on cleaning up the EPUB Media Overlays facility",
+ "shortname": "pm-mo",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/pm-mo/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/pm-mo/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/pm-mo/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/pm-mo"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/pm-mo",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46116",
+   "title": "group-pm-mo (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-pm-mo/",
+    "shortdesc": "group-pm-mo",
+    "longdesc": "Administrative mailing list of the EPUB Media Overlays TF of the PM Maintenance Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46116"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46116/groups"
+     }
+    }
+   }
+  }
+ ]
+}
