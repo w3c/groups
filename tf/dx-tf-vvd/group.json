@@ -1,0 +1,47 @@
+{
+ "id": 178233,
+ "name": "VVD Task Force",
+ "is_closed": false,
+ "creation-date": "2026-07-10",
+ "description": "Task force of the Dataset Exchange WG focusing on the Vocabulary for Variable Description",
+ "shortname": "dx-tf-vvd",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-vvd/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-vvd/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-vvd/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/dx-tf-vvd"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/dx-tf-vvd",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46296",
+   "title": "Repository for the Vocabulary for Variable Description (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/dx-vvd/",
+    "shortdesc": "Repository for the Vocabulary for Variable Description",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46296"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46296/groups"
+     }
+    }
+   }
+  }
+ ]
+}
