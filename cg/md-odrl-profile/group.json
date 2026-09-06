@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/md-odrl-profile"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/md-odrl-profile/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/md-odrl-profile/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/md-odrl-profile"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/md-odrl-profile",
@@ -41,7 +42,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/market-data-odrl-profile",
+    "link": "https://github.com/w3c-cg/market-data-odrl-profile",
     "shortdesc": "GitHub",
     "_links": {
      "self": {
