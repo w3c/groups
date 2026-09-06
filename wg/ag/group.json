@@ -6,9 +6,6 @@
  "shortname": "ag",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/ag"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/about/groups/agwg/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/ag/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/ag"
   }
  },
  "type": "working group",
  "start-date": "1997-10-06",
- "end-date": "2026-04-30",
+ "end-date": "2026-08-28",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/ag",
