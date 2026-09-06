@@ -7,9 +7,6 @@
  "shortname": "rdf-star",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/rdf-star"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/rdf-star/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/rdf-star/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/rdf-star"
   }
  },
  "type": "working group",
  "start-date": "2022-08-29",
  "end-date": "2027-04-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/rdf-star",
