@@ -7,9 +7,6 @@
  "shortname": "gpu",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/gpu"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/gpu/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/gpu/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/gpu"
   }
  },
  "type": "working group",
  "start-date": "2020-08-20",
  "end-date": "2026-11-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/gpu",
