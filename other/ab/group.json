@@ -6,9 +6,6 @@
  "shortname": "ab",
  "discr": "group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/other/ab"
-  },
   "homepage": {
    "href": "https://www.w3.org/Member/Board/"
   },
@@ -23,8 +20,12 @@
   },
   "team-contacts": {
    "href": "https://api.w3.org/groups/other/ab/teamcontacts"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/other/ab"
   }
  },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "other",
  "identifier": "other/ab",
