@@ -1,0 +1,130 @@
+{
+ "id": 177817,
+ "name": "No Build Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-21",
+ "description": "<p>A group for those interested in exploring a future of the web that requires fewer/no dependencies and fewer/no build steps. It will provide a forum to discuss what features of HTML, CSS, and JavaScript will lead to a better experience for those developers that value simplicity and eschew over-engineering. The mission of this group to push for web standards that will lead to a better experience for developers that create websites with either no build tools or minimal build tools.</p>\n\n<p>This group will not publish Specifications.</p>",
+ "shortname": "nobuild",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/nobuild/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/nobuild/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/nobuild/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/nobuild/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/nobuild/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/nobuild/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/nobuild"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/nobuild",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46257",
+   "title": "GitHub discussion (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://github.com/orgs/no-build-cg/discussions",
+    "shortdesc": "GitHub discussion",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46257"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46257/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46237",
+   "title": "internal-nobuild (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-nobuild/",
+    "shortdesc": "internal-nobuild",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46237"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46237/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46235",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#nobuild",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46235"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46235/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46236",
+   "title": "public-nobuild (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-nobuild/",
+    "shortdesc": "public-nobuild",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46236"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46236/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46234",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/nobuild/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46234"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46234/groups"
+     }
+    }
+   }
+  }
+ ]
+}
