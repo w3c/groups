@@ -1,0 +1,112 @@
+{
+ "id": 178502,
+ "name": "NeuroSchema Community Group",
+ "is_closed": false,
+ "creation-date": "2026-07-22",
+ "description": "<p>Neuroscience communities are developing vocabularies, schemas, and data models across many independent initiatives, often resulting in duplicated effort and limited interoperability.</p>\n\n<p>The mission of this group is to bring these communities together to develop shared, community-driven technologies that improve interoperability and reuse.</p>\n\n<p>The primary objective is to provide a canonical reference point — a shared \"source of truth\" — for the classes, properties, and validation rules used to describe neuroscience knowledge, data, and metadata, so that this information can be consistently described, validated, integrated, discovered, and exchanged across research communities, data repositories, software platforms, and AI systems. The group will create an open, community-driven registry of reusable neuroscience semantic terms on the Web — a Neuroscience Schema Registry (NSR). This work would complement existing established efforts from different projects such as BRAIN Initiative Cell Atlas Network.</p>\n\n<p>This Community Group collaborates with neuroscience initiatives, standards organizations, ontology developers, data repositories, and software communities so that its work integrates with domain standards such as BIDS, NWB, DANDI, and INCF recommendations; with the FAIR principles; and with Semantic Web technologies including RDF, OWL, SHACL, and LinkML, alongside other W3C specifications where appropriate. Accordingly, we hope to leverage the W3C community's expertise in Semantic Web technologies, linked data, and open standards development.</p>\n\n<p>This group may publish Specifications.</p>",
+ "shortname": "neuroschema",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/neuroschema/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/neuroschema/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/neuroschema/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/neuroschema/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/neuroschema/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/neuroschema/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/neuroschema"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/neuroschema",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46261",
+   "title": "internal-neuroschema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-neuroschema/",
+    "shortdesc": "internal-neuroschema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46261"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46261/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46259",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#neuroschema",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46259"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46259/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46260",
+   "title": "public-neuroschema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-neuroschema/",
+    "shortdesc": "public-neuroschema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46260"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46260/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46258",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/neuroschema/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46258"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46258/groups"
+     }
+    }
+   }
+  }
+ ]
+}
