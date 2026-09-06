@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opentrack"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opentrack/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opentrack/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opentrack"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/opentrack",
@@ -131,7 +132,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/opentrack-cg",
+    "link": "https://github.com/w3c-cg/opentrack-cg",
     "shortdesc": "GitHub repo",
     "longdesc": "OpenTrack CG GitHub repository",
     "_links": {
