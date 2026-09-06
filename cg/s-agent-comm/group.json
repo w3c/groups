@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/s-agent-comm"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/s-agent-comm/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/s-agent-comm/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/s-agent-comm"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/s-agent-comm",
