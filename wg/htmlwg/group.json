@@ -7,9 +7,6 @@
  "shortname": "htmlwg",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/htmlwg"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/htmlwg/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/htmlwg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/htmlwg"
   }
  },
  "type": "working group",
  "start-date": "2019-06-06",
  "end-date": "2024-12-06",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/htmlwg",
