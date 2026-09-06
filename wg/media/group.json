@@ -7,9 +7,6 @@
  "shortname": "media",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/media"
-  },
   "homepage": {
    "href": "https://www.w3.org/media-wg/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/media/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/media"
   }
  },
  "type": "working group",
  "start-date": "2019-05-23",
  "end-date": "2027-07-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/media",
