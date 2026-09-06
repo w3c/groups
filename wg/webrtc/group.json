@@ -6,9 +6,6 @@
  "shortname": "webrtc",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webrtc"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webrtc/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webrtc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webrtc"
   }
  },
  "type": "working group",
  "start-date": "2011-05-05",
  "end-date": "2026-09-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webrtc",
