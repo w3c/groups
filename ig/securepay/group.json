@@ -7,9 +7,6 @@
  "shortname": "securepay",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/securepay"
-  },
   "homepage": {
    "href": "https://www.w3.org/securepay/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/securepay/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/securepay"
   }
  },
  "type": "interest group",
  "start-date": "2019-04-17",
  "end-date": "2027-03-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/securepay",
