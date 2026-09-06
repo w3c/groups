@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/bdns"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/bdns/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/bdns/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bdns"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/bdns",
