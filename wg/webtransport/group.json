@@ -7,9 +7,6 @@
  "shortname": "webtransport",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webtransport"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webtransport/"
   },
@@ -32,7 +29,7 @@
    "href": "https://api.w3.org/groups/wg/webtransport/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/webtransport/charters/510"
+   "href": "https://api.w3.org/groups/wg/webtransport/charters/560"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/webtransport/join"
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webtransport/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webtransport"
   }
  },
  "type": "working group",
  "start-date": "2020-09-08",
- "end-date": "2026-06-30",
+ "end-date": "2028-08-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webtransport",
