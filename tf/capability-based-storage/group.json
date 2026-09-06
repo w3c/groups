@@ -1,0 +1,31 @@
+{
+ "id": 178682,
+ "name": "Capability-based Storage Task Force",
+ "is_closed": false,
+ "creation-date": "2026-07-30",
+ "description": "Capability-Based Storage Task Force (Wallet Attached Storage, zCaps, Encrypted Data Vaults)",
+ "shortname": "capability-based-storage",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://github.com/w3c-ccg/capability-based-storage-tf"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/capability-based-storage/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/capability-based-storage/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/capability-based-storage/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/capability-based-storage"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/capability-based-storage",
+ "group-type": "tf",
+ "services": []
+}
