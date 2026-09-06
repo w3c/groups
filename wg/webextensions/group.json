@@ -1,0 +1,94 @@
+{
+ "id": 176878,
+ "name": "WebExtensions Working Group",
+ "is_closed": false,
+ "creation-date": "2026-05-12",
+ "description": "The mission of the WebExtensions Working Group (WebExtensions WG) is to specify the common core of cross-browser extension APIs.",
+ "shortname": "webextensions",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/wg/webextensions/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/webextensions/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/webextensions/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/webextensions/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/webextensions/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/webextensions/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/webextensions/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/webextensions/charters/554"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/webextensions/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/webextensions/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/webextensions/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webextensions"
+  }
+ },
+ "type": "working group",
+ "start-date": "2026-05-12",
+ "end-date": "2028-05-12",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/webextensions",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46184",
+   "title": "member-webextensions (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-webextensions/",
+    "shortdesc": "member-webextensions",
+    "longdesc": "Member-only mailing list for the WebExtensions Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46184"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46184/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46183",
+   "title": "public-webextensions (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webextensions/",
+    "shortdesc": "public-webextensions",
+    "longdesc": "Public mailing list of the WebExtensions Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46183"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46183/groups"
+     }
+    }
+   }
+  }
+ ]
+}
