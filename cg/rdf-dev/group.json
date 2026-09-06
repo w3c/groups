@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/rdf-dev"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/rdf-dev/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/rdf-dev/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rdf-dev"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/rdf-dev",
@@ -127,12 +128,12 @@
   },
   {
    "href": "https://api.w3.org/services/25974",
-   "title": "RDF* GitHub Repository (Version Control)",
+   "title": "RDF-star GitHub Repository (Version Control)",
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/rdf-star",
-    "shortdesc": "RDF* GitHub Repository",
+    "link": "https://github.com/w3c-cg/rdf-star",
+    "shortdesc": "RDF-star GitHub Repository",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/25974"
