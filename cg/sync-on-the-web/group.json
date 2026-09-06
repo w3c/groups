@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sync-on-the-web"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sync-on-the-web/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sync-on-the-web/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sync-on-the-web"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/sync-on-the-web",
