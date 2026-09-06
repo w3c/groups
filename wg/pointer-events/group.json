@@ -6,9 +6,6 @@
  "shortname": "pointer-events",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/pointer-events"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/pointer-events/"
   },
@@ -31,7 +28,7 @@
    "href": "https://api.w3.org/groups/wg/pointer-events/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/pointer-events/charters/493"
+   "href": "https://api.w3.org/groups/wg/pointer-events/charters/555"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/pointer-events/join"
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/pointer-events/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/pointer-events"
   }
  },
  "type": "working group",
  "start-date": "2012-11-09",
- "end-date": "2026-05-07",
+ "end-date": "2028-06-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/pointer-events",
@@ -168,7 +169,7 @@
    "details": {
     "closed": false,
     "type": "wiki",
-    "link": "https://www.w3.org/wiki/PointerEvents/",
+    "link": "https://www.w3.org/wiki/PointerEvents",
     "shortdesc": "wiki",
     "longdesc": "Top-level wiki of the W3C's Pointer Events Working Group",
     "_links": {
