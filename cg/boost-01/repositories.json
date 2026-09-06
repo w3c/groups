@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "BOOST",
+  "owner": {
+   "login": "BOOST-Working-Group"
+  },
+  "url": "https://github.com/BOOST-Working-Group/BOOST",
+  "homepageUrl": "https://www.w3.org/community/boost-01/",
+  "description": "The BOOST Community Group brings together stakeholders from across the biomass value chain to develop interoperable data formats and protocols for tracking biomass materials from source to end-use. Our mission is to improve transparency, verification, and trust in biomass supply chains through standardized digital systems.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/boost-01"
+   ],
+   "contacts": [
+    "pwt-cd"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ }
+]
