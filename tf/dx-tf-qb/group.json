@@ -23,5 +23,25 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/dx-tf-qb",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46295",
+   "title": "Repository for the RDF Data Cube Vocabulary (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/dx-qb/",
+    "shortdesc": "Repository for the RDF Data Cube Vocabulary",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46295"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46295/groups"
+     }
+    }
+   }
+  }
+ ]
 }
