@@ -7,9 +7,6 @@
  "shortname": "secondscreen",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/secondscreen"
-  },
   "homepage": {
    "href": "https://www.w3.org/2014/secondscreen/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/secondscreen/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/secondscreen"
   }
  },
  "type": "working group",
  "start-date": "2014-10-13",
- "end-date": "2026-07-31",
+ "end-date": "2026-12-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/secondscreen",
