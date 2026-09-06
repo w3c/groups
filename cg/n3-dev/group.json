@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/n3-dev"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/n3-dev/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/n3-dev/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/n3-dev"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/n3-dev",
@@ -41,7 +42,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/N3",
+    "link": "https://github.com/w3c-cg/N3",
     "shortdesc": "GitHub repository",
     "_links": {
      "self": {
