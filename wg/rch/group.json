@@ -7,9 +7,6 @@
  "shortname": "rch",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/rch"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/rch/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/rch/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/rch"
   }
  },
  "type": "working group",
  "start-date": "2022-07-21",
  "end-date": "2026-12-18",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/rch",
