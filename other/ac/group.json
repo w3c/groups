@@ -6,9 +6,6 @@
  "shortname": "ac",
  "discr": "group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/other/ac"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/other/ac/"
   },
@@ -17,8 +14,12 @@
   },
   "chairs": {
    "href": "https://api.w3.org/groups/other/ac/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/other/ac"
   }
  },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "other",
  "identifier": "other/ac",
