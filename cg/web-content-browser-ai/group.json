@@ -1,0 +1,112 @@
+{
+ "id": 175703,
+ "name": "Web Content Browser for AI Agents Community Group",
+ "is_closed": false,
+ "creation-date": "2026-03-24",
+ "description": "<p>AI agents increasingly need to read and interact with web pages. The current approach - sending raw HTML or DOM snapshots to language models - is wasteful and lossy. This Community Group will develop a JSON format to represent web page content in a form optimized for consumption by AI agents and language models. One goal is to reduce token costs (through compression) while preserving semantic meaning and interactivity.</p>\n\n<p>Group deliverables are expected to be a specification, schema, conformance test suite, and integration guide. The <a href=\"https://plasmate.app/docs/som-spec\">SOM Spec v1.0</a> is intended to serve as a starting point for discussion within the group, but is not intended to constrain the group's discussions or decisions about future deliverables.</p>\n\n<p>This group will publish Specifications.</p>",
+ "shortname": "web-content-browser-ai",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/web-content-browser-ai/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-content-browser-ai/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-content-browser-ai/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-content-browser-ai/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-content-browser-ai/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-content-browser-ai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-content-browser-ai"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/web-content-browser-ai",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46107",
+   "title": "internal-web-content-browser-ai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-web-content-browser-ai/",
+    "shortdesc": "internal-web-content-browser-ai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46107"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46107/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46105",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#web-content-browser-ai",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46105"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46105/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46106",
+   "title": "public-web-content-browser-ai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-content-browser-ai/",
+    "shortdesc": "public-web-content-browser-ai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46106"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46106/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46104",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/web-content-browser-ai/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46104"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46104/groups"
+     }
+    }
+   }
+  }
+ ]
+}
