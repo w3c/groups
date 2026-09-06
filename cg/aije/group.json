@@ -1,0 +1,112 @@
+{
+ "id": 176062,
+ "name": "AI Judgement Event Community Group",
+ "is_closed": false,
+ "creation-date": "2026-04-08",
+ "description": "<p>The AI Judgement Event Community Group (AIJE CG) aims to explore recording, transferring, and verifying responsibility in AI systems, including the use of cryptographic receipts for AI-mediated decisions, in order to support traceable accountability across heterogeneous platforms. For more background to this group, see <a href=\"https://github.com/w3c/webai/issues/7\">discussion of the Web &amp; AI Interest Group</a>.</p>\n\n<p>This Community Group will investigate the integration of a Judgement Event Protocol layer within AI systems and Web architecture. The scope of this group includes:</p>\n\n<ul>\n<li>Definition of a Judgement Representation Model for representing AI judgments</li>\n<li>Investigation of lightweight, deployable mechanisms for judgement information to be transmitted and embedded in protocols</li>\n<li>Exploration of mechanisms to ensure that AI judgments are cryptographically verifiable across systems, portable across platforms and jurisdictions, and Interoperable between different AI agents, services, and governance frameworks</li>\n</ul>\n<p>This group may publish Specifications.</p>",
+ "shortname": "aije",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/aije/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/aije/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/aije/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/aije/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/aije/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/aije/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/aije"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/aije",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46147",
+   "title": "internal-aije (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-aije/",
+    "shortdesc": "internal-aije",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46147"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46147/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46145",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#aije",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46145"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46145/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46146",
+   "title": "public-aije (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-aije/",
+    "shortdesc": "public-aije",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46146"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46146/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46144",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/aije/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46144"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46144/groups"
+     }
+    }
+   }
+  }
+ ]
+}
