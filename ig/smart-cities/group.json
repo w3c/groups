@@ -7,9 +7,6 @@
  "shortname": "smart-cities",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/smart-cities"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/ig/smart-cities/"
   },
@@ -42,23 +39,28 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/smart-cities/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/smart-cities"
   }
  },
  "type": "interest group",
  "start-date": "2024-08-07",
  "end-date": "2026-07-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/smart-cities",
  "services": [
   {
    "href": "https://api.w3.org/services/43920",
-   "title": "Member list for the Web-based Digital Twins for Smart Cities IG (Mailing List)",
+   "title": "member-smart-cities (Mailing List)",
    "details": {
     "closed": false,
     "type": "lists",
     "link": "https://lists.w3.org/Archives/Member/member-smart-cities/",
-    "shortdesc": "Member list for the Web-based Digital Twins for Smart Cities IG",
+    "shortdesc": "member-smart-cities",
+    "longdesc": "Member list for the Web-based Digital Twins for Smart Cities IG",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/43920"
@@ -71,12 +73,13 @@
   },
   {
    "href": "https://api.w3.org/services/43921",
-   "title": "Public list for the Web-based Digital Twins for Smart Cities IG (Mailing List)",
+   "title": "public-smart-cities (Mailing List)",
    "details": {
     "closed": false,
     "type": "lists",
     "link": "https://lists.w3.org/Archives/Public/public-smart-cities/",
-    "shortdesc": "Public list for the Web-based Digital Twins for Smart Cities IG",
+    "shortdesc": "public-smart-cities",
+    "longdesc": "Public list for the Web-based Digital Twins for Smart Cities IG",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/43921"
