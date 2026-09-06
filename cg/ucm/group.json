@@ -34,5 +34,97 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/ucm"
+ "identifier": "cg/ucm",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46281",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/ucm",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46281"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46281/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46245",
+   "title": "internal-ucm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ucm/",
+    "shortdesc": "internal-ucm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46245"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46245/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46243",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ucm",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46243"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46243/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46244",
+   "title": "public-ucm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ucm/",
+    "shortdesc": "public-ucm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46244"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46244/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46242",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ucm/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46242"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46242/groups"
+     }
+    }
+   }
+  }
+ ]
 }
