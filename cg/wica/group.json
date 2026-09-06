@@ -8,9 +8,6 @@
  "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/wica"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/wica/"
   },
@@ -28,13 +25,35 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/wica/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wica"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/wica",
  "services": [
+  {
+   "href": "https://api.w3.org/services/46173",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/digitalcredentialsdev/digitalcredentials.dev",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46173"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46173/groups"
+     }
+    }
+   }
+  },
   {
    "href": "https://api.w3.org/services/45947",
    "title": "internal-wica (Mailing List)",
