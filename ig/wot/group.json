@@ -7,9 +7,6 @@
  "shortname": "wot",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/wot"
-  },
   "homepage": {
    "href": "https://www.w3.org/WoT/ig/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/wot/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/wot"
   }
  },
  "type": "interest group",
  "start-date": "2015-01-21",
  "end-date": "2026-05-19",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/wot",
