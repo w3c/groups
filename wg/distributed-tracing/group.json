@@ -7,9 +7,6 @@
  "shortname": "distributed-tracing",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/distributed-tracing"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/distributed-tracing/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/distributed-tracing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/distributed-tracing"
   }
  },
  "type": "working group",
  "start-date": "2018-07-25",
  "end-date": "2027-08-21",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/distributed-tracing",
