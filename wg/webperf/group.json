@@ -6,9 +6,6 @@
  "shortname": "webperf",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webperf"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webperf/"
   },
@@ -31,7 +28,7 @@
    "href": "https://api.w3.org/groups/wg/webperf/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/webperf/charters/494"
+   "href": "https://api.w3.org/groups/wg/webperf/charters/557"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/webperf/join"
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webperf/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webperf"
   }
  },
  "type": "working group",
  "start-date": "2010-08-18",
- "end-date": "2026-06-01",
+ "end-date": "2028-08-01",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webperf",
@@ -114,7 +115,7 @@
     "type": "lists",
     "link": "https://lists.w3.org/Archives/Public/public-web-perf/",
     "shortdesc": "public-web-perf",
-    "longdesc": "Group maliing list",
+    "longdesc": "public-web-perf group mailing list",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/6121"
