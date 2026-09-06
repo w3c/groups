@@ -7,9 +7,6 @@
  "shortname": "webediting",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webediting"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webediting/"
   },
@@ -32,7 +29,7 @@
    "href": "https://api.w3.org/groups/wg/webediting/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/webediting/charters/486"
+   "href": "https://api.w3.org/groups/wg/webediting/charters/556"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/webediting/join"
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webediting/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webediting"
   }
  },
  "type": "working group",
  "start-date": "2021-06-11",
- "end-date": "2026-03-26",
+ "end-date": "2028-07-22",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webediting",
