@@ -1,0 +1,112 @@
+{
+ "id": 177347,
+ "name": "AI Agent Memory Interoperability Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-03",
+ "description": "<p>The AI Agent Memory Interoperability Community Group exists to develop, evolve, and document an open protocol-level specification for AI agent memory that is portable across vendors, models, agent frameworks, and tool ecosystems.</p>\n\n<p>The Group's scope covers:</p>\n\n<ul>\n<li>Memory cell shape (encrypted unit with canonical metadata).</li>\n<li>Identity binding (post-quantum signature schemes, with ML-DSA-65 / NIST FIPS-204 as the primary reference).</li>\n<li>Encryption envelope semantics (per-cell DEK; wallet-derived KEK; rotation versioning).</li>\n<li>Audit anchor properties (public-chain receipts; verifiability without trusting the operator).</li>\n<li>Sharing contracts (temporary, permanent, syndicate; revocation semantics).</li>\n<li>Cryptographic erasure (DEK destruction + tombstone + content-address blacklist) aligned with GDPR Article 17.</li>\n<li>Crosswalks to leading regulatory frameworks (NIST AI RMF 1.0, ISO/IEC 42001:2023, ISO/IEC 27001:2022, EU AI Act 2024/1689) and protocol ecosystems (MCP, AAIF).</li>\n</ul>\n\n<p>Out of scope:</p>\n\n<ul>\n<li>Specific blockchain selection (the protocol is chain-agnostic).</li>\n<li>Vector-database semantics (orthogonal).</li>\n<li>Agent runtime semantics (covered by other forums, e.g., AAIF goose project, custom frameworks).</li>\n<li>Tool-routing semantics (covered by MCP).</li>\n</ul>\n\n<p>This group may publish Specifications.</p>",
+ "shortname": "ai-agent-memory-interop",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ai-agent-memory-interop/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ai-agent-memory-interop/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ai-agent-memory-interop/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ai-agent-memory-interop/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ai-agent-memory-interop/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ai-agent-memory-interop/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ai-agent-memory-interop"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ai-agent-memory-interop",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46192",
+   "title": "internal-ai-agent-memory-interop (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ai-agent-memory-interop/",
+    "shortdesc": "internal-ai-agent-memory-interop",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46192"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46192/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46190",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ai-agent-memory-interop",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46190"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46190/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46191",
+   "title": "public-ai-agent-memory-interop (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ai-agent-memory-interop/",
+    "shortdesc": "public-ai-agent-memory-interop",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46191"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46191/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46189",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ai-agent-memory-interop/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46189"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46189/groups"
+     }
+    }
+   }
+  }
+ ]
+}
