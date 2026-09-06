@@ -7,9 +7,6 @@
  "shortname": "png",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/png"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/png/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/png/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/png"
   }
  },
  "type": "working group",
  "start-date": "2021-09-14",
  "end-date": "2027-11-21",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/png",
