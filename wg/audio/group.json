@@ -6,9 +6,6 @@
  "shortname": "audio",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/audio"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/audio/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/audio/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/audio"
   }
  },
  "type": "working group",
  "start-date": "2011-03-25",
  "end-date": "2026-11-08",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/audio",
