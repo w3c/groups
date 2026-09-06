@@ -3,14 +3,11 @@
  "name": "Sustainability Community Group",
  "is_closed": false,
  "creation-date": "2022-04-23",
- "description": "The Sustainability CG is a group for discussing all aspects of sustainability (s12y) with respect to web technologies present &amp; future, including developing horizontal reviews of sustainability (e.g. energy use or device obsolescence impacts of technologies).",
+ "description": "The Sustainability CG is a group for discussing aspects of sustainability (s12y) and collaborating on sustainability projects that are beyond the <a href=\"https://www.w3.org/2024/10/ig-sustainableweb-charter.html#scope\">scope of the Sustainable Web IG</a> with respect to web technologies present and future. We are working on\nhorizontal review questions to explore sustainability (e.g., energy use or device obsolescence) impacts of new and proposed technologies.",
  "shortname": "sustainability",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sustainability"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sustainability/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sustainability/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sustainability"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/sustainability",
