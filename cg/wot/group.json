@@ -8,9 +8,6 @@
  "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/wot"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/wot/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/wot/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wot"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/wot",
@@ -59,7 +60,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/wot-cg",
+    "link": "https://github.com/w3c-cg/wot-cg",
     "shortdesc": "GitHub",
     "_links": {
      "self": {
