@@ -7,9 +7,6 @@
  "shortname": "vc",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/vc"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/vc/"
   },
@@ -32,7 +29,7 @@
    "href": "https://api.w3.org/groups/wg/vc/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/vc/charters/515"
+   "href": "https://api.w3.org/groups/wg/vc/charters/551"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/vc/join"
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/vc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/vc"
   }
  },
  "type": "working group",
  "start-date": "2017-04-14",
- "end-date": "2026-10-11",
+ "end-date": "2028-03-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/vc",
