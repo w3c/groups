@@ -25,5 +25,25 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/vc-dbw",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46149",
+   "title": "group-vc-dbw (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-vc-dbw/",
+    "shortdesc": "group-vc-dbw",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46149"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46149/groups"
+     }
+    }
+   }
+  }
+ ]
 }
