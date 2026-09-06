@@ -6,9 +6,6 @@
  "shortname": "browser-tools-testing",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/browser-tools-testing"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/browser-tools-testing/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/browser-tools-testing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/browser-tools-testing"
   }
  },
  "type": "working group",
  "start-date": "2011-10-12",
- "end-date": "2026-07-08",
+ "end-date": "2026-10-23",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/browser-tools-testing",
