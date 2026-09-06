@@ -1,0 +1,112 @@
+{
+ "id": 179035,
+ "name": "Introduction Layer Community Group",
+ "is_closed": false,
+ "creation-date": "2026-08-13",
+ "description": "<p>Most resources on the Web today --pages, services, APIs-- were designed first to be interpreted by humans. As AI agents become first-class consumers of web resources, they encounter a fundamental gap: there is no standard way for a resource to introduce itself to an agent. An AI agent arriving at a web service today has no reliable way to discover: what this resource is, what it is permitted to do with it, who is responsible for it, what its constraints are, or whether the context it has inferred is correct. It must guess, hallucinate, or rely on documentation written for humans.</p>\n\n<p>Existing standards address adjacent problems:</p>\n<ul>\n<li>robots.txt — negative instruction only (what not to crawl), no identity or purpose</li>\n<li>OpenAPI / JSON Schema — describes shape and endpoints, not intent, ownership, or constraints</li>\n<li>Schema.org / JSON-LD — describes content semantics, not operational parameters</li>\n<li>llms.txt (emerging) — hints at AI readability, no formal standard, no constraint declaration</li>\n<li>AIPref (IETF) — defines content use preferences (\"don't train on my data\"). Not what the resource is or what it forbids autonomously.</li>\n<li>Certificate ecosystem — proves domain ownership. Identity without purpose or constraints.</li>\n<li>WebMCP — declares available capabilities (\"here's what you can do\"), not what the resource exists for or what must never happen regardless of capability.</li>\n<li>A2WF — governs agent actions on resources; it assumes the resource's identity and purpose are already known.</li>\n</ul>\n\n<p>These and other technologies do not answer the question an AI agent actually needs answered: \"Before I interact with this resource, what do I need to know about it?\"</p>\n\n<p>The mission of this group will be to provide a means for any web resource to declares its identity, purpose, constraints, and responsible party to AI agents in a discoverable, machine-native way, so that AI systems operate with verified context rather than inferred context.</p>\n\n<p>This group will publish Specifications.</p>",
+ "shortname": "intro-layer",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/intro-layer/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/intro-layer/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/intro-layer/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/intro-layer/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/intro-layer/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/intro-layer/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/intro-layer"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/intro-layer",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46280",
+   "title": "internal-intro-layer (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-intro-layer/",
+    "shortdesc": "internal-intro-layer",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46280"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46280/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46278",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#intro-layer",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46278"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46278/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46279",
+   "title": "public-intro-layer (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-intro-layer/",
+    "shortdesc": "public-intro-layer",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46279"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46279/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46277",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/intro-layer/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46277"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46277/groups"
+     }
+    }
+   }
+  }
+ ]
+}
