@@ -7,9 +7,6 @@
  "shortname": "payments",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/payments"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/payments/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/payments/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/payments"
   }
  },
  "type": "working group",
  "start-date": "2015-10-21",
  "end-date": "2027-07-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/payments",
