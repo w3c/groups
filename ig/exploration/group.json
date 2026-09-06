@@ -7,9 +7,6 @@
  "shortname": "exploration",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/exploration"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/ig/exploration/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/exploration/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/exploration"
   }
  },
  "type": "interest group",
  "start-date": "2025-04-22",
  "end-date": "2027-04-22",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/exploration",
