@@ -1,0 +1,31 @@
+{
+ "id": 179391,
+ "name": "AI-Sourced Future Requirements for Timed Text Task Force",
+ "is_closed": false,
+ "creation-date": "2026-08-28",
+ "description": "Timed text formats like TTML and WebVTT support a variety of presentation syntax and semantics, as well as some metadata entities, in some cases in an extensible way. These match current practices for authoring and displaying timed text in use cases such as captions and subtitles, amongst others, where the timed text resources relate to some external media such as audio or video.\n\nAs device capabilities have increased so has the scope for more advanced presentation approaches, including complex animations and styling. Advances in software used to process and analyse media files, including “AI” or large language model approaches, are enabling the cost-effective capture of more data. For example, where previously it was feasible to capture sound effects, speech and speaker information, it may now be possible to automate the identification of prosody, intensity and emotion, and to use novel presentation mechanisms to convey those additional dimensions to users.\n\nThe AI-Sourced Future Requirements for Timed Text Task Force (AIRFOT) will discover any new requirements that are not yet well supported by timed text formats, and assess whether any of those require changes to format specifications.",
+ "shortname": "airfot",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2011/webtv/wiki/Main_Page/AI-Sourced_Future_Requirements_for_Timed_Text_Task_Force"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/airfot/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/airfot/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/airfot/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/airfot"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/airfot",
+ "group-type": "tf",
+ "services": []
+}
