@@ -8,9 +8,6 @@
  "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/equity"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/equity/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/equity/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/equity"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/equity",
@@ -41,7 +42,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/equity-cg",
+    "link": "https://github.com/w3c-cg/equity-cg",
     "shortdesc": "GitHub",
     "_links": {
      "self": {
