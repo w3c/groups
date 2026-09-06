@@ -5,67 +5,8 @@
  "creation-date": "2023-12-06",
  "description": "The objective of the WCAG 2 Task Force is to maintain up-to-date versions of the normative and informative materials associated with versions 2.0, 2.1, and 2.2 of the Web Content Accessibility Guidelines, and to document considerations for WCAG 3.0 which cannot be readily addressed within the existing normative language of the 2.x specification.",
  "shortname": "wcag2x-backlog",
- "members": [
-  {
-   "id": 35422,
-   "name": "Accessibility Guidelines Working Group",
-   "is_closed": false,
-   "description": "The mission of the Accessibility Guidelines Working Group (AG WG) is to develop specifications to make content on the Web accessible for people with disabilities and to participate in the development and maintenance of implementation support materials for the Web Content Accessibility Guidelines.",
-   "shortname": "ag",
-   "discr": "w3cgroup",
-   "_links": {
-    "self": {
-     "href": "https://api.w3.org/groups/wg/ag"
-    },
-    "homepage": {
-     "href": "https://www.w3.org/WAI/about/groups/agwg/"
-    },
-    "users": {
-     "href": "https://api.w3.org/groups/wg/ag/users"
-    },
-    "services": {
-     "href": "https://api.w3.org/groups/wg/ag/services"
-    },
-    "specifications": {
-     "href": "https://api.w3.org/groups/wg/ag/specifications"
-    },
-    "chairs": {
-     "href": "https://api.w3.org/groups/wg/ag/chairs"
-    },
-    "team-contacts": {
-     "href": "https://api.w3.org/groups/wg/ag/teamcontacts"
-    },
-    "charters": {
-     "href": "https://api.w3.org/groups/wg/ag/charters"
-    },
-    "active-charter": {
-     "href": "https://api.w3.org/groups/wg/ag/charters/492"
-    },
-    "join": {
-     "href": "https://www.w3.org/groups/wg/ag/join"
-    },
-    "pp-status": {
-     "href": "https://www.w3.org/groups/wg/ag/ipr"
-    },
-    "participations": {
-     "href": "https://api.w3.org/groups/wg/ag/participations"
-    }
-   },
-   "type": "working group",
-   "start-date": "1997-10-06",
-   "end-date": "2026-04-30",
-   "tr-publisher": true,
-   "group-type": "wg",
-   "identifier": "wg/ag"
-  }
- ],
- "internal": false,
- "participants_list_public": true,
  "discr": "tf",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/tf/wcag2x-backlog"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/about/groups/task-forces/wcag2x-backlog/"
   },
@@ -77,8 +18,12 @@
   },
   "chairs": {
    "href": "https://api.w3.org/groups/tf/wcag2x-backlog/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/wcag2x-backlog"
   }
  },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/wcag2x-backlog",
  "group-type": "tf",
