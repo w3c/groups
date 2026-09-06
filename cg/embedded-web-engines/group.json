@@ -34,5 +34,97 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/embedded-web-engines"
+ "identifier": "cg/embedded-web-engines",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46248",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/embedded-web-engines",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46248"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46248/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46241",
+   "title": "internal-embedded-web-engines (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-embedded-web-engines/",
+    "shortdesc": "internal-embedded-web-engines",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46241"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46241/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46239",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#embedded-web-engines",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46239"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46239/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46240",
+   "title": "public-embedded-web-engines (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-embedded-web-engines/",
+    "shortdesc": "public-embedded-web-engines",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46240"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46240/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46238",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/embedded-web-engines/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46238"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46238/groups"
+     }
+    }
+   }
+  }
+ ]
 }
