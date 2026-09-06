@@ -6,9 +6,6 @@
  "shortname": "security",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/security"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/ig/security/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/security/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/security"
   }
  },
  "type": "interest group",
  "start-date": "2011-09-07",
  "end-date": "2026-11-18",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/security",
