@@ -6,9 +6,6 @@
  "shortname": "i18n",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/i18n"
-  },
   "homepage": {
    "href": "https://www.w3.org/International/i18n-activity/i18n-ig/"
   },
@@ -32,11 +29,15 @@
   },
   "active-charter": {
    "href": "https://api.w3.org/groups/ig/i18n/charters/518"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/i18n"
   }
  },
  "type": "interest group",
  "start-date": "1998-02-12",
  "end-date": "2027-10-16",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/i18n",
@@ -55,24 +56,6 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/45918/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/45913",
-   "title": "W3C Internationalization on X (X)",
-   "details": {
-    "closed": false,
-    "type": "x",
-    "link": "https://x.com/webi18n",
-    "shortdesc": "W3C Internationalization on X",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/45913"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/45913/groups"
      }
     }
    }
