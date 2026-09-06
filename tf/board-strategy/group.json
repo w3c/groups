@@ -1,0 +1,28 @@
+{
+ "id": 177232,
+ "name": "Board Strategy Committee",
+ "is_closed": false,
+ "creation-date": "2026-05-29",
+ "description": "<p>The purpose of the Committee to ensure the timely development of a coherent, actionable corporate strategy for the Consortium.  The Committee will oversee the strategy‑development process as a global collaboration between the CEO, the Members, Partners, and other contributors and present a proposed strategy to the Board for review and approval.</p>\n <p>Learn more in the <a href=\"https://www.w3.org/2026/05/bod-strategy.html\">Strategy Committee charter</a>.</p>",
+ "shortname": "board-strategy",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/board-strategy/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/board-strategy/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/board-strategy/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/board-strategy"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/board-strategy",
+ "group-type": "tf",
+ "services": []
+}
