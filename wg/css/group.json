@@ -6,9 +6,6 @@
  "shortname": "css",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/css"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/css/"
   },
@@ -41,15 +38,37 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/css/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/css"
   }
  },
  "type": "working group",
  "start-date": "1997-02-28",
  "end-date": "2027-03-17",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/css",
  "services": [
+  {
+   "href": "https://api.w3.org/services/46250",
+   "title": "CSSWG Wiki (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://wiki.csswg.org/",
+    "shortdesc": "CSSWG Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46250"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46250/groups"
+     }
+    }
+   }
+  },
   {
    "href": "https://api.w3.org/services/15623",
    "title": "current-work (Other)",
