@@ -1,0 +1,19 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ai-visibility-lifecycle-cg",
+  "owner": {
+   "login": "ai-visibility-architects"
+  },
+  "url": "https://github.com/ai-visibility-architects/ai-visibility-lifecycle-cg",
+  "description": "W3C AI Visibility Lifecycle Framework Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ai-web-visibility"
+   ],
+   "exposed": true
+  }
+ }
+]
