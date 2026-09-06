@@ -7,9 +7,6 @@
  "shortname": "wasm",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/wasm"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/wasm/"
   },
@@ -32,7 +29,7 @@
    "href": "https://api.w3.org/groups/wg/wasm/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/wasm/charters/495"
+   "href": "https://api.w3.org/groups/wg/wasm/charters/558"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/wasm/join"
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/wasm/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/wasm"
   }
  },
  "type": "working group",
  "start-date": "2017-08-03",
- "end-date": "2026-05-29",
+ "end-date": "2028-08-27",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/wasm",
