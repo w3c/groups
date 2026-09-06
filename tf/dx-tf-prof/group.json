@@ -23,5 +23,43 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/dx-tf-prof",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46294",
+   "title": "Repository for the dx-connegp specification (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/dx-connegp/",
+    "shortdesc": "Repository for the dx-connegp specification",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46294"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46294/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46293",
+   "title": "Repository for the dx-prof specification (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/dx-prof/",
+    "shortdesc": "Repository for the dx-prof specification",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46293"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46293/groups"
+     }
+    }
+   }
+  }
+ ]
 }
