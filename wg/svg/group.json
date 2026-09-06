@@ -6,9 +6,6 @@
  "shortname": "svg",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/svg"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/svg/"
   },
@@ -41,33 +38,19 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/svg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/svg"
   }
  },
  "type": "working group",
  "start-date": "1998-07-24",
- "end-date": "2026-06-30",
+ "end-date": "2026-09-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/svg",
  "services": [
-  {
-   "href": "https://api.w3.org/services/25966",
-   "title": "General SVG discussion list (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/www-svg/",
-    "shortdesc": "General SVG discussion list",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25966"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25966/groups"
-     }
-    }
-   }
-  },
   {
    "href": "https://api.w3.org/services/14026",
    "title": "group-svg-wg (Mailing List)",
@@ -156,6 +139,25 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/99/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25966",
+   "title": "www-svg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/www-svg/",
+    "shortdesc": "www-svg",
+    "longdesc": "General SVG discussion list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25966"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25966/groups"
      }
     }
    }
