@@ -1,0 +1,112 @@
+{
+ "id": 177732,
+ "name": "AI-Editable HTML Workbook Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-17",
+ "description": "<p>Workbook-style HTML exports are often designed as visual renderings rather than editable document formats. As a result, automation tools and AI agents do not have a reliable way to identify the workbook model, make targeted edits, preserve formulas, styles, images, and metadata, and round-trip the result without rewriting unrelated runtime or presentation markup.</p>\n\n<p>This Community Group will incubate a browser-openable HTML workbook profile with an explicit, editable workbook data region and related guidance for validation, AI-assisted editing, and interoperability.</p>\n\n<p>The initial contribution is <a href=\"https://github.com/azamisoft/ChtWebSheet/blob/main/docs/cws-html-1.0-draft.md\">CWS HTML 1.0 Draft</a>, where workbook data is plain JSON inside script#websheet-model, with explicit HTML markers, an AI editing guide, JSON Schema, validation tests, and optional per-image asset encoding. The work focuses on browser-openable, AI-editable workbook HTML files, not on replacing OOXML, ODF, CSVW, Microsoft Excel, Google Sheets, or browser-native spreadsheet editing. See the <a href=\"https://github.com/azamisoft/ChtWebSheet/blob/main/docs/cws-html-explainer.md\">explainer</a> for more background.</p>\n\n<p>This group will discuss and refine recognition markers, the editable workbook JSON model, AI editing guidance, conformance requirements, security and privacy considerations, test suites, validators, examples, and implementation reports. This group may publish Specifications.</p>\n\n<p><strong>Note</strong>: The group will take inspiration from the CWS HTML 1.0 Draft, and that work may inform the group's discussions. That work does not constrain the group's discussions, and all decisions about the group's\ndeliverables will be made by the Community Group participants.</p>",
+ "shortname": "html-workbook",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/html-workbook/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/html-workbook/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/html-workbook/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/html-workbook/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/html-workbook/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/html-workbook/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/html-workbook"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/html-workbook",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46227",
+   "title": "internal-html-workbook (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-html-workbook/",
+    "shortdesc": "internal-html-workbook",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46227"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46227/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46225",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#html-workbook",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46225"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46225/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46226",
+   "title": "public-html-workbook (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html-workbook/",
+    "shortdesc": "public-html-workbook",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46226"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46226/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46224",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/html-workbook/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46224"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46224/groups"
+     }
+    }
+   }
+  }
+ ]
+}
