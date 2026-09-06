@@ -7,9 +7,6 @@
  "shortname": "did",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/did"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/did/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/did/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/did"
   }
  },
  "type": "working group",
  "start-date": "2019-09-05",
- "end-date": "2026-04-28",
+ "end-date": "2026-10-28",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/did",
