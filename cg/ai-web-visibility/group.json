@@ -1,0 +1,130 @@
+{
+ "id": 174926,
+ "name": "AI Visibility Lifecycle Framework Community Group",
+ "is_closed": false,
+ "creation-date": "2026-02-24",
+ "description": "As AI systems increasingly determine what web content people see, there is no shared vocabulary, framework, or measurement approach for understanding how content becomes visible — or invisible — within AI discovery and response systems. Publishers, website developers, platform operators, agencies, AI system developers, and researchers lack common reference points for evaluating how content is discovered, understood, trusted, and surfaced by AI systems.\n \nThe AI Visibility Lifecycle Community Group will provide a collaborative forum to explore these challenges, with the aim of developing shared vocabulary, measurement approaches, and best practices for understanding content visibility within AI discovery and response systems.\n \nSee the <a href=\"https://github.com/ai-visibility-architects/ai-visibility-lifecycle-cg/blob/main/CHARTER.md\">group charter</a> for more information.",
+ "shortname": "ai-web-visibility",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ai-web-visibility/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ai-web-visibility/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ai-web-visibility/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ai-web-visibility/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ai-web-visibility/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ai-web-visibility/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ai-web-visibility"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ai-web-visibility",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46148",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/ai-visibility-architects/ai-visibility-lifecycle-cg/tree/main",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46148"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46148/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46097",
+   "title": "internal-ai-web-visibility (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ai-web-visibility/",
+    "shortdesc": "internal-ai-web-visibility",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46097"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46097/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46095",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ai-web-visibility",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46095"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46095/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46096",
+   "title": "public-ai-web-visibility (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ai-web-visibility/",
+    "shortdesc": "public-ai-web-visibility",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46096"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46096/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46094",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ai-web-visibility/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46094"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46094/groups"
+     }
+    }
+   }
+  }
+ ]
+}
