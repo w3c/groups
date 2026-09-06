@@ -101,6 +101,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "musicxmlTestSuite",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/musicxmlTestSuite",
+  "description": "MusicXML Test Suite (Unofficial) -- Forked from Lilypond",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "smufl",
   "owner": {
    "login": "w3c-cg"
