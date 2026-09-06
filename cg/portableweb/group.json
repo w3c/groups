@@ -34,5 +34,97 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/portableweb"
+ "identifier": "cg/portableweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46219",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/portableweb",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46219"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46219/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46214",
+   "title": "internal-portableweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-portableweb/",
+    "shortdesc": "internal-portableweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46214"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46214/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46212",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#portableweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46212"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46212/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46213",
+   "title": "public-portableweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-portableweb/",
+    "shortdesc": "public-portableweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46213"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46213/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46211",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/portableweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46211"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46211/groups"
+     }
+    }
+   }
+  }
+ ]
 }
