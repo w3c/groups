@@ -1,0 +1,112 @@
+{
+ "id": 174925,
+ "name": "Context Graph Community Group",
+ "is_closed": false,
+ "creation-date": "2026-02-24",
+ "description": "<p>The mission of the Context Graph Community Group is to develop specifications, vocabularies, and best practices for representing and resolving contextual misalignment between global knowledge representations (e.g., organizational knowledge bases, ontologies, policies, and shared data models) and local interpretation contexts (e.g., user intent, operational setting, execution constraints, or domain-specific framing) in decision systems and human–AI workflows.</p>\n\n<p>Many decision and information systems implicitly assume that the shared knowledge model and the local context at the point of interaction are aligned. In practice, this alignment frequently fails: terms carry different meanings across organizational, temporal, or operational boundaries; assumptions embedded in global models do not hold locally; and key context required to interpret state, policy, or meaning is absent, unavailable, or ambiguous at the point of use. These failures are distinct from data quality or optimization problems—they represent a structural interoperability gap in how context is communicated, validated, and resolved across systems.</p>\n\n<p>A Context Graph treats this gap as a first-class, interoperable artifact: a structured representation of the contextual prerequisites required for valid interpretation, their dependencies, and their resolution status. The Community Group will formalize (1) a core data model for expressing contextual prerequisites and resolution state, (2) a minimal vocabulary for describing common categories of contextual mismatch, and (3) optional protocol guidance for structured clarification and safe stopping conditions when required context cannot be resolved. The goal is to enable independent systems to detect contextual misalignment, request missing prerequisites, and converge on a locally valid interpretation before downstream computation or decision-making proceeds.</p>\n\n<p>Primary activities:\nThis group will develop one or more specifications for representing Context Graphs, including: (1) a core data model for contextual prerequisites and their dependencies, (2) vocabularies for expressing resolution status and common categories of global–local contextual mismatch, and (3) optional protocol guidance for structured clarification and safe stopping conditions when required context cannot be resolved. The group will also produce use cases, requirements, test vectors, and best-practice guidance for implementers in knowledge management, enterprise decision workflows, and human–machine / human–AI systems.</p>\n\n<p>Who should participate:\nPractitioners and researchers in knowledge representation, semantic web technologies, ontology engineering, decision science, AI/ML systems integration, enterprise knowledge management, and human–computer interaction. Developers building systems where shared knowledge models must be interpreted across diverse operational contexts are especially encouraged to join.</p>\n\n<p>Publication intent:\nThis group intends to publish Community Group Reports, including specification-style documents and supporting notes (e.g., use cases, requirements, and implementation guidance).</p>",
+ "shortname": "context-graph",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/context-graph/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/context-graph/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/context-graph/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/context-graph/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/context-graph/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/context-graph/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/context-graph"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/context-graph",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46093",
+   "title": "internal-context-graph (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-context-graph/",
+    "shortdesc": "internal-context-graph",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46093"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46093/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46091",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#context-graph",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46091"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46091/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46092",
+   "title": "public-context-graph (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-context-graph/",
+    "shortdesc": "public-context-graph",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46092"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46092/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46090",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/context-graph/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46090"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46090/groups"
+     }
+    }
+   }
+  }
+ ]
+}
