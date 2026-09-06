@@ -5,46 +5,8 @@
  "creation-date": "2023-05-10",
  "description": "Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth over falsehood, people over profits, humanity over hate.",
  "shortname": "vision",
- "members": [
-  {
-   "id": 7756,
-   "name": "Advisory Board",
-   "is_closed": false,
-   "description": "<p>The <a href=\"https://www.w3.org/policies/process/#AB\">Advisory Board</a> provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution.</p>\r\n\r\n<p><strong>Public homepage</strong> <a href=\"https://www.w3.org/2002/ab/\">Advisory Board</a></p>",
-   "shortname": "ab",
-   "discr": "group",
-   "_links": {
-    "self": {
-     "href": "https://api.w3.org/groups/other/ab"
-    },
-    "homepage": {
-     "href": "https://www.w3.org/Member/Board/"
-    },
-    "users": {
-     "href": "https://api.w3.org/groups/other/ab/users"
-    },
-    "services": {
-     "href": "https://api.w3.org/groups/other/ab/services"
-    },
-    "chairs": {
-     "href": "https://api.w3.org/groups/other/ab/chairs"
-    },
-    "team-contacts": {
-     "href": "https://api.w3.org/groups/other/ab/teamcontacts"
-    }
-   },
-   "tr-publisher": true,
-   "group-type": "other",
-   "identifier": "other/ab"
-  }
- ],
- "internal": false,
- "participants_list_public": true,
  "discr": "tf",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/tf/vision"
-  },
   "homepage": {
    "href": "https://github.com/w3c/AB-public/tree/main/Vision"
   },
@@ -56,8 +18,12 @@
   },
   "chairs": {
    "href": "https://api.w3.org/groups/tf/vision/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/vision"
   }
  },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/vision",
  "group-type": "tf",
