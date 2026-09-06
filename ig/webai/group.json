@@ -7,9 +7,6 @@
  "shortname": "webai",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/webai"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/ig/webai/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/webai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/webai"
   }
  },
  "type": "interest group",
  "start-date": "2025-11-27",
  "end-date": "2027-11-27",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/webai",
@@ -83,6 +84,24 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/46015/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46102",
+   "title": "Meeting Minutes (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/services/meeting-minutes/webai/?num=100",
+    "shortdesc": "Meeting Minutes",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46102"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46102/groups"
      }
     }
    }
