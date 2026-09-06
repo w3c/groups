@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "digitalcredentials.dev",
+  "owner": {
+   "login": "digitalcredentialsdev"
+  },
+  "url": "https://github.com/digitalcredentialsdev/digitalcredentials.dev",
+  "homepageUrl": "https://digitalcredentials.dev",
+  "description": "source for digitalcredentials.dev",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wica"
+   ],
+   "exposed": true
+  }
+ }
+]
