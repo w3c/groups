@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/music-notation"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/music-notation/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/music-notation/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/music-notation"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/music-notation",
@@ -41,7 +42,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/smufl",
+    "link": "https://github.com/w3c-cg/smufl",
     "shortdesc": "GitHub repository",
     "_links": {
      "self": {
@@ -95,7 +96,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/mnx",
+    "link": "https://github.com/w3c-cg/mnx",
     "shortdesc": "MNX GitHub repository",
     "_links": {
      "self": {
@@ -113,7 +114,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/musicxml",
+    "link": "https://github.com/w3c-cg/musicxml",
     "shortdesc": "MusicXML GitHub repository",
     "_links": {
      "self": {
@@ -121,6 +122,42 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/15462/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46249",
+   "title": "musicxmlTestSuite repo (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/musicxmlTestSuite",
+    "shortdesc": "musicxmlTestSuite repo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46249"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46249/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46103",
+   "title": "Notation Ref Github repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/music-notationref",
+    "shortdesc": "Notation Ref Github repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46103"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46103/groups"
      }
     }
    }
