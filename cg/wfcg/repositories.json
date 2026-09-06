@@ -1,0 +1,19 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wfcg",
+  "owner": {
+   "login": "web-frameworks-cg"
+  },
+  "url": "https://github.com/web-frameworks-cg/wfcg",
+  "description": "Promote and discuss standards to make Web Frameworks easier to build and maintain",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wfcg"
+   ],
+   "exposed": true
+  }
+ }
+]
