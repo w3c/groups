@@ -1,0 +1,112 @@
+{
+ "id": 178687,
+ "name": "Design System Documentation Community Group",
+ "is_closed": false,
+ "creation-date": "2026-07-30",
+ "description": "<p>The management of design systems —standards, reusable components, and documentation that guide the development of digital products— is too often burdensome because institutional knowledge is fragmented and locked into proprietary formats. This hurts design system teams,  the people who use design systems, and even the people who make tools for design systems. These problems have  existed for well over a decade. They’re only becoming more important with agent-driven workflows.</p>\n\n<p>The mission of this group is to lower the burden of design system management by developing an open format for structuring design system documentation. Important facets of openness include: compatibility with established standards like DTCG and CEM, portability, and providing value to both humans and agents.</p>\n\n<p>This group will develop Specifications.</p>",
+ "shortname": "designsystemdocs",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/designsystemdocs/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/designsystemdocs/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/designsystemdocs/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/designsystemdocs/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/designsystemdocs/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/designsystemdocs/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/designsystemdocs"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/designsystemdocs",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46270",
+   "title": "internal-designsystemdocs (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-designsystemdocs/",
+    "shortdesc": "internal-designsystemdocs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46270"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46270/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46268",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#designsystemdocs",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46268"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46268/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46269",
+   "title": "public-designsystemdocs (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-designsystemdocs/",
+    "shortdesc": "public-designsystemdocs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46269"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46269/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46267",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/designsystemdocs/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46267"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46267/groups"
+     }
+    }
+   }
+  }
+ ]
+}
