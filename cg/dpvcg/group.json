@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dpvcg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dpvcg/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dpvcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dpvcg"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/dpvcg",
@@ -113,7 +114,7 @@
    "details": {
     "closed": false,
     "type": "wiki",
-    "link": "https://github.com/w3c/dpv/wik",
+    "link": "https://github.com/w3c/dpv/wiki",
     "shortdesc": "Wiki",
     "_links": {
      "self": {
@@ -131,7 +132,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/dpv",
+    "link": "https://github.com/w3c-cg/dpv",
     "shortdesc": "GitHub organization",
     "longdesc": "DPVCG GitHub organization",
     "_links": {
