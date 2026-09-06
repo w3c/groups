@@ -8,20 +8,44 @@
   "identifier": "cg/act-r"
  },
  {
+  "id": 177347,
+  "identifier": "cg/ai-agent-memory-interop"
+ },
+ {
   "id": 167263,
   "identifier": "cg/agentprotocol"
+ },
+ {
+  "id": 179081,
+  "identifier": "cg/ai-computed-provenance"
  },
  {
   "id": 174458,
   "identifier": "cg/ai-content-disclosure"
  },
  {
+  "id": 176062,
+  "identifier": "cg/aije"
+ },
+ {
   "id": 108226,
   "identifier": "cg/aikr"
  },
  {
+  "id": 174926,
+  "identifier": "cg/ai-web-visibility"
+ },
+ {
   "id": 173028,
   "identifier": "cg/aiwss"
+ },
+ {
+  "id": 177732,
+  "identifier": "cg/html-workbook"
+ },
+ {
+  "id": 179391,
+  "identifier": "tf/airfot"
  },
  {
   "id": 102172,
@@ -60,10 +84,6 @@
   "identifier": "cg/a11yedge"
  },
  {
-  "id": 119612,
-  "identifier": "cg/accessibility4children"
- },
- {
   "id": 83907,
   "identifier": "wg/apa"
  },
@@ -72,8 +92,20 @@
   "identifier": "wg/aria"
  },
  {
+  "id": 177547,
+  "identifier": "cg/accessible-syncmedia-pub"
+ },
+ {
+  "id": 175829,
+  "identifier": "cg/adaptation"
+ },
+ {
   "id": 156781,
   "identifier": "cg/adva11yresources"
+ },
+ {
+  "id": 176804,
+  "identifier": "cg/adorai"
  },
  {
   "id": 7756,
@@ -92,8 +124,32 @@
   "identifier": "tf/i18n-afrlreq"
  },
  {
+  "id": 179420,
+  "identifier": "cg/agent-conformance"
+ },
+ {
+  "id": 177359,
+  "identifier": "cg/adacg"
+ },
+ {
+  "id": 176473,
+  "identifier": "cg/agent-identity"
+ },
+ {
+  "id": 177419,
+  "identifier": "cg/atp"
+ },
+ {
+  "id": 175828,
+  "identifier": "cg/a2wf"
+ },
+ {
   "id": 172606,
   "identifier": "cg/agentic-arbitration"
+ },
+ {
+  "id": 175988,
+  "identifier": "cg/aivs"
  },
  {
   "id": 134685,
@@ -116,10 +172,6 @@
   "identifier": "wg/audio"
  },
  {
-  "id": 139357,
-  "identifier": "cg/av4browsers"
- },
- {
   "id": 170714,
   "identifier": "cg/atag"
  },
@@ -134,10 +186,6 @@
  {
   "id": 101081,
   "identifier": "tf/automotive-pay"
- },
- {
-  "id": 78932,
-  "identifier": "tf/auto-privacy-security"
  },
  {
   "id": 143201,
@@ -158,10 +206,6 @@
  {
   "id": 97665,
   "identifier": "cg/bioschemas"
- },
- {
-  "id": 160407,
-  "identifier": "cg/bc2"
  },
  {
   "id": 149084,
@@ -196,6 +240,10 @@
   "identifier": "tf/board-personnel"
  },
  {
+  "id": 177232,
+  "identifier": "tf/board-strategy"
+ },
+ {
   "id": 140563,
   "identifier": "other/board"
  },
@@ -208,16 +256,12 @@
   "identifier": "cg/bdns"
  },
  {
-  "id": 161175,
-  "identifier": "cg/crdt4rdf"
- },
- {
   "id": 121427,
   "identifier": "cg/css4"
  },
  {
-  "id": 85874,
-  "identifier": "cg/csvw"
+  "id": 178682,
+  "identifier": "tf/capability-based-storage"
  },
  {
   "id": 32061,
@@ -248,10 +292,6 @@
   "identifier": "cg/civics"
  },
  {
-  "id": 162208,
-  "identifier": "cg/cloud-edge-client"
- },
- {
   "id": 119681,
   "identifier": "cg/cogai"
  },
@@ -272,6 +312,10 @@
   "identifier": "cg/council"
  },
  {
+  "id": 174925,
+  "identifier": "cg/context-graph"
+ },
+ {
   "id": 72898,
   "identifier": "cg/credentials"
  },
@@ -286,6 +330,10 @@
  {
   "id": 132930,
   "identifier": "tf/dx-dcat"
+ },
+ {
+  "id": 176749,
+  "identifier": "cg/dds"
  },
  {
   "id": 172364,
@@ -316,12 +364,12 @@
   "identifier": "cg/dataspaces"
  },
  {
-  "id": 163513,
-  "identifier": "cg/defacto"
- },
- {
   "id": 117488,
   "identifier": "wg/did"
+ },
+ {
+  "id": 178687,
+  "identifier": "cg/designsystemdocs"
  },
  {
   "id": 116753,
@@ -340,12 +388,12 @@
   "identifier": "cg/docs-cg"
  },
  {
-  "id": 170068,
-  "identifier": "cg/dcm"
- },
- {
   "id": 165773,
   "identifier": "tf/pm-ann"
+ },
+ {
+  "id": 175840,
+  "identifier": "tf/pm-mo"
  },
  {
   "id": 54697,
@@ -356,12 +404,20 @@
   "identifier": "cg/eocred-schema"
  },
  {
+  "id": 177865,
+  "identifier": "cg/embedded-web-engines"
+ },
+ {
   "id": 115641,
   "identifier": "cg/reconciliation"
  },
  {
   "id": 142395,
   "identifier": "cg/equity"
+ },
+ {
+  "id": 176576,
+  "identifier": "cg/ethtrust"
  },
  {
   "id": 174350,
@@ -432,12 +488,8 @@
   "identifier": "cg/high-perf-baseline"
  },
  {
-  "id": 143541,
-  "identifier": "cg/humancentricai"
- },
- {
-  "id": 64267,
-  "identifier": "cg/hydra"
+  "id": 177348,
+  "identifier": "cg/holon"
  },
  {
   "id": 117874,
@@ -460,10 +512,6 @@
   "identifier": "cg/idaan"
  },
  {
-  "id": 163512,
-  "identifier": "cg/idai"
- },
- {
   "id": 104979,
   "identifier": "tf/iip"
  },
@@ -480,16 +528,16 @@
   "identifier": "cg/icn"
  },
  {
-  "id": 83380,
-  "identifier": "cg/interledger"
- },
- {
   "id": 72665,
   "identifier": "ig/i18n"
  },
  {
   "id": 32113,
   "identifier": "wg/i18n-core"
+ },
+ {
+  "id": 179035,
+  "identifier": "cg/intro-layer"
  },
  {
   "id": 130021,
@@ -514,10 +562,6 @@
  {
   "id": 72291,
   "identifier": "cg/lbd"
- },
- {
-  "id": 68293,
-  "identifier": "cg/ld4lt"
  },
  {
   "id": 159634,
@@ -568,10 +612,6 @@
   "identifier": "cg/miniapps"
  },
  {
-  "id": 128558,
-  "identifier": "wg/miniapps"
- },
- {
   "id": 66524,
   "identifier": "tf/mobile-a11y-tf"
  },
@@ -588,8 +628,20 @@
   "identifier": "cg/music-notation"
  },
  {
+  "id": 179015,
+  "identifier": "cg/mysignals"
+ },
+ {
   "id": 171843,
   "identifier": "cg/nlweb"
+ },
+ {
+  "id": 178502,
+  "identifier": "cg/neuroschema"
+ },
+ {
+  "id": 177817,
+  "identifier": "cg/nobuild"
  },
  {
   "id": 136094,
@@ -606,6 +658,10 @@
  {
   "id": 47956,
   "identifier": "cg/odrl"
+ },
+ {
+  "id": 176603,
+  "identifier": "cg/online-safety"
  },
  {
   "id": 171612,
@@ -636,8 +692,16 @@
   "identifier": "tf/pdf-aam"
  },
  {
+  "id": 179133,
+  "identifier": "cg/passkey-signing"
+ },
+ {
   "id": 42434,
   "identifier": "ig/psig"
+ },
+ {
+  "id": 177565,
+  "identifier": "cg/eudi-4-payments"
  },
  {
   "id": 61141,
@@ -650,6 +714,10 @@
  {
   "id": 133210,
   "identifier": "wg/png"
+ },
+ {
+  "id": 177533,
+  "identifier": "cg/portableweb"
  },
  {
   "id": 109278,
@@ -676,6 +744,14 @@
   "identifier": "wg/pat"
  },
  {
+  "id": 174898,
+  "identifier": "cg/pm-kr"
+ },
+ {
+  "id": 178232,
+  "identifier": "tf/dx-tf-prof"
+ },
+ {
   "id": 166312,
   "identifier": "tf/pm-a11y"
  },
@@ -700,6 +776,10 @@
   "identifier": "tf/publ-sc"
  },
  {
+  "id": 178234,
+  "identifier": "tf/dx-tf-qb"
+ },
+ {
   "id": 139681,
   "identifier": "wg/rdf-star"
  },
@@ -712,20 +792,12 @@
   "identifier": "cg/rdfjs"
  },
  {
-  "id": 163514,
-  "identifier": "cg/rdf-maintenance"
- },
- {
   "id": 157420,
   "identifier": "cg/r2c2"
  },
  {
   "id": 65231,
   "identifier": "cg/rsp"
- },
- {
-  "id": 141415,
-  "identifier": "cg/rdfsurfaces"
  },
  {
   "id": 82552,
@@ -750,6 +822,10 @@
  {
   "id": 160471,
   "identifier": "cg/rumcg"
+ },
+ {
+  "id": 178354,
+  "identifier": "cg/recordweb"
  },
  {
   "id": 91497,
@@ -832,12 +908,12 @@
   "identifier": "cg/swag"
  },
  {
-  "id": 172564,
-  "identifier": "cg/s-agent-comm"
+  "id": 174962,
+  "identifier": "cg/semantic-3d-a11y"
  },
  {
-  "id": 168235,
-  "identifier": "cg/semantic-construction"
+  "id": 172564,
+  "identifier": "cg/s-agent-comm"
  },
  {
   "id": 138327,
@@ -846,6 +922,10 @@
  {
   "id": 92610,
   "identifier": "cg/hclscg"
+ },
+ {
+  "id": 177174,
+  "identifier": "cg/sstim"
  },
  {
   "id": 95701,
@@ -921,7 +1001,11 @@
  },
  {
   "id": 157595,
-  "identifier": "cg/tmcg"
+  "identifier": "cg/threat-modeling"
+ },
+ {
+  "id": 178646,
+  "identifier": "cg/threats-and-harms"
  },
  {
   "id": 97249,
@@ -932,12 +1016,16 @@
   "identifier": "wg/timed-text"
  },
  {
-  "id": 169926,
-  "identifier": "cg/uispec"
+  "id": 177517,
+  "identifier": "cg/uw2i"
  },
  {
   "id": 49276,
   "identifier": "cg/unhosted"
+ },
+ {
+  "id": 178014,
+  "identifier": "cg/ucm"
  },
  {
   "id": 170455,
@@ -952,8 +1040,40 @@
   "identifier": "cg/ujg"
  },
  {
+  "id": 175934,
+  "identifier": "tf/vc-alm"
+ },
+ {
+  "id": 175924,
+  "identifier": "tf/vc-bcdi"
+ },
+ {
+  "id": 175955,
+  "identifier": "tf/vc-cfm"
+ },
+ {
+  "id": 176277,
+  "identifier": "tf/vc-dbw"
+ },
+ {
+  "id": 175931,
+  "identifier": "tf/vc-er"
+ },
+ {
+  "id": 175961,
+  "identifier": "tf/vc-rem"
+ },
+ {
+  "id": 178233,
+  "identifier": "tf/dx-tf-vvd"
+ },
+ {
   "id": 98922,
   "identifier": "wg/vc"
+ },
+ {
+  "id": 174848,
+  "identifier": "cg/vsc"
  },
  {
   "id": 144306,
@@ -988,10 +1108,6 @@
   "identifier": "ig/webai"
  },
  {
-  "id": 167533,
-  "identifier": "cg/waits"
- },
- {
   "id": 49309,
   "identifier": "wg/webappsec"
  },
@@ -1012,6 +1128,14 @@
   "identifier": "cg/webcomponents"
  },
  {
+  "id": 175703,
+  "identifier": "cg/web-content-browser-ai"
+ },
+ {
+  "id": 177733,
+  "identifier": "cg/web-editing-cg"
+ },
+ {
   "id": 131776,
   "identifier": "wg/webediting"
  },
@@ -1022,6 +1146,10 @@
  {
   "id": 171297,
   "identifier": "cg/webforensics"
+ },
+ {
+  "id": 174819,
+  "identifier": "cg/wfcg"
  },
  {
   "id": 55590,
@@ -1112,6 +1240,10 @@
   "identifier": "cg/webextensions"
  },
  {
+  "id": 176878,
+  "identifier": "wg/webextensions"
+ },
+ {
   "id": 125908,
   "identifier": "wg/webtransport"
  },
@@ -1148,30 +1280,6 @@
   "identifier": "wg/xslt"
  },
  {
-  "id": 176576,
-  "identifier": "cg/ethtrust"
- },
- {
-  "id": 177547,
-  "identifier": "cg/accessible-syncmedia-pub"
- },
- {
-  "id": 175829,
-  "identifier": "cg/adaptation"
- },
- {
-  "id": 176473,
-  "identifier": "cg/agent-identity"
- },
- {
-  "id": 179081,
-  "identifier": "cg/ai-computed-provenance"
- },
- {
-  "id": 177419,
-  "identifier": "cg/atp"
- },
- {
   "id": 151951,
   "identifier": "cg/autoprivacy"
  },
@@ -1184,60 +1292,16 @@
   "identifier": "cg/consent"
  },
  {
-  "id": 177865,
-  "identifier": "cg/embedded-web-engines"
- },
- {
-  "id": 177565,
-  "identifier": "cg/eudi-4-payments"
- },
- {
-  "id": 177348,
-  "identifier": "cg/holon"
- },
- {
-  "id": 176603,
-  "identifier": "cg/online-safety"
- },
- {
   "id": 141004,
   "identifier": "cg/planning"
- },
- {
-  "id": 174898,
-  "identifier": "cg/pm-kr"
- },
- {
-  "id": 177533,
-  "identifier": "cg/portableweb"
  },
  {
   "id": 48594,
   "identifier": "cg/rww"
  },
  {
-  "id": 177174,
-  "identifier": "cg/sstim"
- },
- {
-  "id": 178646,
-  "identifier": "cg/threats-and-harms"
- },
- {
-  "id": 178014,
-  "identifier": "cg/ucm"
- },
- {
   "id": 174911,
   "identifier": "cg/uora"
- },
- {
-  "id": 174848,
-  "identifier": "cg/vsc"
- },
- {
-  "id": 177733,
-  "identifier": "cg/web-editing-cg"
  },
  {
   "id": 83482,
@@ -1266,14 +1330,6 @@
  {
   "id": 68239,
   "identifier": "wg/dwbp"
- },
- {
-  "id": 178232,
-  "identifier": "tf/dx-tf-prof"
- },
- {
-  "id": 178234,
-  "identifier": "tf/dx-tf-qb"
  },
  {
   "id": 34607,
@@ -1318,30 +1374,6 @@
  {
   "id": 90021,
   "identifier": "wg/tvcontrol"
- },
- {
-  "id": 175924,
-  "identifier": "tf/vc-bcdi"
- },
- {
-  "id": 175955,
-  "identifier": "tf/vc-cfm"
- },
- {
-  "id": 176277,
-  "identifier": "tf/vc-dbw"
- },
- {
-  "id": 175931,
-  "identifier": "tf/vc-er"
- },
- {
-  "id": 175961,
-  "identifier": "tf/vc-rem"
- },
- {
-  "id": 175934,
-  "identifier": "tf/vc-alm"
  },
  {
   "id": 35532,
