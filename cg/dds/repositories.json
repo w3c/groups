@@ -1,11 +1,30 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": ".github",
+  "owner": {
+   "login": "dds-wg"
+  },
+  "url": "https://github.com/dds-wg/.github",
+  "description": "Community health files, governance, and strategy docs for the DDS Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dds"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dds",
   "owner": {
-   "login": "w3c-cg"
+   "login": "dds-wg"
   },
-  "url": "https://github.com/w3c-cg/dds",
+  "url": "https://github.com/dds-wg/dds",
+  "homepageUrl": "https://www.dds.xyz",
+  "description": "Decentralized Deliberation Stack (DDS)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -13,10 +32,28 @@
     "cg/dds"
    ],
    "contacts": [
-    "ij@w3.org"
+    "nicobao",
+    "Stocastico96"
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "open-calls",
+  "owner": {
+   "login": "dds-wg"
+  },
+  "url": "https://github.com/dds-wg/open-calls",
+  "description": "Presentations and public artifacts from DDS open calls",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dds"
    ],
    "exposed": true
   }
