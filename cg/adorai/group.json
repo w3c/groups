@@ -1,0 +1,112 @@
+{
+ "id": 176804,
+ "name": "Advancing Democracy with Ontologies, Reasoning, and Artificial Intelligence (ADORAI)",
+ "is_closed": false,
+ "creation-date": "2026-05-08",
+ "description": "<p>Advancing Democracy with Ontologies, Reasoning, and Artificial Intelligence (ADORAI) is a W3C Community Group seeking to federate expertise in Knowledge Representation, Semantic Reasoning, and Agentic Artificial Intelligence (AI) toward developing open-source reference models and core ontologies for democratic institutions. </p>\n\n<p>As there are no \"single truth\", participants should promote solutions that support innovative platforms that would represent \"real\" and \"debated\" facts in an integrated format. These \"debate graphs\" should be thought out as extensions to existing \"democracy stacks\", such as Akoma Ntoso XML standards, and expand well beyond into highly distributed semantic and rules assets requiring Federated Learning and Rules Reasoning.</p>\n\n<p>In the spirit of Multimodal Agentic AI, this W3C Community Group would focus on AI and Knowledge Graph (KG) and ontology embedding for a variety of digital assets. This would be reused from several sources, from text to video, and would leverage Fuzzy Knowledge Graphs and reasoning to focus knowledge disambiguation on the remaining \"debated facts\" where about 10% could be debated by vetted political and/or community representatives. </p>\n\n<p>ADORAI aims to produce public, free, formally verified, and strictly ethical semantic web assets that can be used by cyber defense and law enforcement agencies to disambiguate and detect disinformation and fraud, anticipate the next phase of attacks, and recommend preventive and/or mitigation strategies. Application Partners include agencies for cybersecurity, cyberdefense, and against cybercrime. They also include strategic end-user organizations, such as parliaments as sources of democratic debates, digital policy and governance agencies focused on \"ensuring trust and compliance\", along with other civil society groups focused on protecting freedom of speech, fighting disinformation and foreign information manipulation, and fake news debunking and investigative journalism.</p>",
+ "shortname": "adorai",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/adorai/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/adorai/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/adorai/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/adorai/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/adorai/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/adorai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/adorai"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/adorai",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46181",
+   "title": "internal-adorai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-adorai/",
+    "shortdesc": "internal-adorai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46181"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46181/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46179",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#adorai",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46179"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46179/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46180",
+   "title": "public-adorai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-adorai/",
+    "shortdesc": "public-adorai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46180"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46180/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46178",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/adorai/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46178"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46178/groups"
+     }
+    }
+   }
+  }
+ ]
+}
