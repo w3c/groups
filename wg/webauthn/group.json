@@ -7,9 +7,6 @@
  "shortname": "webauthn",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webauthn"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webauthn/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webauthn/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webauthn"
   }
  },
  "type": "working group",
  "start-date": "2016-02-08",
- "end-date": "2026-04-30",
+ "end-date": "2026-10-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webauthn",
