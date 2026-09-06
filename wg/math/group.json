@@ -6,9 +6,6 @@
  "shortname": "math",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/math"
-  },
   "homepage": {
    "href": "https://www.w3.org/Math/"
   },
@@ -31,7 +28,7 @@
    "href": "https://api.w3.org/groups/wg/math/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/math/charters/489"
+   "href": "https://api.w3.org/groups/wg/math/charters/559"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/math/join"
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/math/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/math"
   }
  },
  "type": "working group",
  "start-date": "2006-06-28",
- "end-date": "2026-04-13",
+ "end-date": "2028-08-24",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/math",
