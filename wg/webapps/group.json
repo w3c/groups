@@ -7,9 +7,6 @@
  "shortname": "webapps",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webapps"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webapps/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webapps/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webapps"
   }
  },
  "type": "working group",
  "start-date": "2019-05-14",
  "end-date": "2028-01-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webapps",
