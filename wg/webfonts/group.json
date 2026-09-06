@@ -6,9 +6,6 @@
  "shortname": "webfonts",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/webfonts"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/webfonts/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/webfonts/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/webfonts"
   }
  },
  "type": "working group",
  "start-date": "2010-03-17",
  "end-date": "2027-03-21",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/webfonts",
