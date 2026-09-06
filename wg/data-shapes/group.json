@@ -7,9 +7,6 @@
  "shortname": "data-shapes",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/data-shapes"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/data-shapes/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/data-shapes/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/data-shapes"
   }
  },
  "type": "working group",
  "start-date": "2014-09-30",
  "end-date": "2026-12-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/data-shapes",
