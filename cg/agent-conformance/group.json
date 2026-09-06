@@ -1,0 +1,112 @@
+{
+ "id": 179420,
+ "name": "Agent Conformance and Benchmarking Community Group",
+ "is_closed": false,
+ "creation-date": "2026-08-30",
+ "description": "<p>Several groups now define how autonomous agents identify themselves, exchange protocol messages, carry memory, and prove what they did. None of them define how conformance to those things is measured, scored, or independently reproduced. This group fills that gap.</p>\n\n<p>The mission of this group is to produce open, reproducible methods for measuring how well web resources and agent systems meet the requirements of autonomous AI agents, so that any published result can be re-run by an unrelated party and produce the same answer.</p>\n\n<p><strong>Scope.</strong></p>\n\n<ul><li>Measurement methodology: weighted rubrics in which every check states the observable evidence it reads.</li><li>Conformance suites: runnable tests with adversarial reference fixtures, so an implementation cannot be tuned to pass without meeting the requirement.</li><li>Reproducibility: a published result must name the engine version, the corpus version and the date.</li><li>Benchmark corpora: versioned public corpora and their published score distributions, so a percentile is measured rather than asserted.</li><li>Crosswalks: mapping controls to published references including the OWASP Agentic Security Initiative, the NIST AI Risk Management Framework, ISO/IEC 42001 and the EU AI Act.</li></ul>\n\n<p><strong>Relationship to other groups.</strong> This group is a downstream consumer of specifications produced elsewhere, including the AI Agent Protocol, Agent Trust Protocol, Agent Identity Registry Protocol and Agentic Integrity Verification groups. Where those groups define what a conforming implementation looks like, this group defines how conformance is tested and reported. Liaison with each is intended.</p>\n\n<p><strong>Deliverables.</strong></p>\n\n<ul><li>A versioned agent readiness rubric with per-check evidence requirements.</li><li>A versioned governance control set mapped to each published reference.</li><li>Runnable conformance suites with adversarial reference fixtures.</li><li>Versioned benchmark corpora and their published score distributions.</li><li>A reporting format so results are comparable across implementations and vendors.</li></ul>\n\n<p><strong>Success criteria.</strong> Two independent parties reproduce a published score to the same value. A specification-producing group cites this group's suite as its conformance test. A regulator, auditor or procurement framework references the reporting format.</p>\n\n<p><strong>Out of scope.</strong> Defining new identity, proof or protocol specifications. Certifying organisations. Endorsing commercial products.</p>\n\n<p>This group will publish Specifications.</p>",
+ "shortname": "agent-conformance",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/agent-conformance/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/agent-conformance/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/agent-conformance/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/agent-conformance/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/agent-conformance/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/agent-conformance/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agent-conformance"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/agent-conformance",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46300",
+   "title": "internal-agent-conformance (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-agent-conformance/",
+    "shortdesc": "internal-agent-conformance",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46300"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46300/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46298",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#agent-conformance",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46298"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46298/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46299",
+   "title": "public-agent-conformance (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-agent-conformance/",
+    "shortdesc": "public-agent-conformance",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46299"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46299/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46297",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/agent-conformance/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46297"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46297/groups"
+     }
+    }
+   }
+  }
+ ]
+}
