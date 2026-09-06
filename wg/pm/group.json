@@ -7,9 +7,6 @@
  "shortname": "pm",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/pm"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/pm/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/pm/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/pm"
   }
  },
  "type": "working group",
  "start-date": "2023-06-20",
  "end-date": "2027-02-05",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/pm",
