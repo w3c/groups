@@ -25,5 +25,61 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/vc-alm",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46126",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/vcalm",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46126"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46126/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46131",
+   "title": "GitHub team (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/orgs/w3c/teams/w3c-group-175934-members",
+    "shortdesc": "GitHub team",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46131"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46131/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46125",
+   "title": "Mailing list (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-vc-alm/",
+    "shortdesc": "Mailing list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46125"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46125/groups"
+     }
+    }
+   }
+  }
+ ]
 }
