@@ -22,5 +22,56 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "TPAC-2023",
+  "owner": {
+   "login": "webcomponents-cg"
+  },
+  "url": "https://github.com/webcomponents-cg/TPAC-2023",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webcomponents"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "community-protocols",
+  "owner": {
+   "login": "webcomponents-cg"
+  },
+  "url": "https://github.com/webcomponents-cg/community-protocols",
+  "description": "Cross-component coordination protocols",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webcomponents"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "docs-and-guides",
+  "owner": {
+   "login": "webcomponents-cg"
+  },
+  "url": "https://github.com/webcomponents-cg/docs-and-guides",
+  "homepageUrl": "https://webcomponents-cg.netlify.app/",
+  "description": "Web Component Community Group - We care about web components.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webcomponents"
+   ],
+   "exposed": true
+  }
  }
 ]
