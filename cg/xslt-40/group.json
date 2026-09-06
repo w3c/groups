@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/xslt-40"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/xslt-40/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/xslt-40/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xslt-40"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/xslt-40",
