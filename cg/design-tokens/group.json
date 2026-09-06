@@ -3,14 +3,11 @@
  "name": "Design Tokens Community Group",
  "is_closed": false,
  "creation-date": "2019-07-31",
- "description": "The Design Tokens Community Group's goal is to provide standards upon which products and design tools can rely for sharing stylistic pieces of a design system at scale.",
+ "description": "The Design Tokens Community Group's goal is to provide technology upon which products and design tools can rely for sharing stylistic pieces of a design system at scale.",
  "shortname": "design-tokens",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/design-tokens"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/design-tokens/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/design-tokens/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/design-tokens"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/design-tokens",
