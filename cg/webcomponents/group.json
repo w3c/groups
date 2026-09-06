@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webcomponents"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webcomponents/"
   },
@@ -28,13 +25,53 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webcomponents/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webcomponents"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/webcomponents",
  "services": [
+  {
+   "href": "https://api.w3.org/services/46138",
+   "title": "Discord (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://discord.gg/YmrNQ4rYJz",
+    "shortdesc": "Discord",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46138"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46138/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46136",
+   "title": "GitHub Organization for Web Components CG (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/webcomponents-cg",
+    "shortdesc": "GitHub Organization for Web Components CG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46136"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46136/groups"
+     }
+    }
+   }
+  },
   {
    "href": "https://api.w3.org/services/26008",
    "title": "internal-webcomponents (Mailing List)",
@@ -108,12 +145,30 @@
    }
   },
   {
+   "href": "https://api.w3.org/services/46137",
+   "title": "WICG Repo for Web Components (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/WICG/webcomponents",
+    "shortdesc": "WICG Repo for Web Components",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46137"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46137/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/26010",
    "title": "GitHub (Version Control)",
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/webcomponents-cg",
+    "link": "https://github.com/w3c-cg/webcomponents-cg",
     "shortdesc": "GitHub",
     "longdesc": "GitHub repository",
     "_links": {
