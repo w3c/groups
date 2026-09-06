@@ -1,0 +1,112 @@
+{
+ "id": 179133,
+ "name": "Passkey Document Signing Community Group",
+ "is_closed": false,
+ "creation-date": "2026-08-17",
+ "description": "<p>The mission of this group is to bring legally meaningful, cryptographically verifiable digital signatures to the Web.</p>\n\n<p>Although the Web has historically lacked primitives for digitally signing documents, widespread adoption of passkeys creates new opportunities, while regulatory and market demand for digital signatures continues to grow. For example, a business signing a contract today typically relies on an emailed link and ad hoc identity verification; a citizen seeking a qualified electronic signature under regulations such as eIDAS typically must verify their identity, at cost, with each new signing provider they use.</p>\n\n<p><a href=\"https://github.com/codedpills/pass-sign\">Prior research</a> found that closing this gap requires no new cryptography: every needed building block already exists, but has not been composed into an open, interoperable whole. This group intends to develop that composition with security as a first-order concern, combining a small number of building blocks into a signing ceremony, an evidence format any third party can verify independently, and a way to express the resulting signature's legal strength.</p>\n\n<p>The group expects to build on WebAuthn, OpenID4VP/the Digital Credentials API, CAdES/PAdES/JAdES, the CSC API, and RFC 3161 as-is. In particular, the group expects to build upon the <a href=\"https://github.com/w3c/webauthn/pull/2078\">signing extension</a> under discussion in the Web Authentication Working Group. The group will not define new cryptography or authenticator behavior.</p>\n\n<p>This group intends to publish one or more Specifications, and may produce supporting test suites, use-case documentation, and other material.</p>",
+ "shortname": "passkey-signing",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/passkey-signing/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/passkey-signing/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/passkey-signing/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/passkey-signing/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/passkey-signing/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/passkey-signing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/passkey-signing"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/passkey-signing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46290",
+   "title": "internal-passkey-signing (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-passkey-signing/",
+    "shortdesc": "internal-passkey-signing",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46290"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46290/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46288",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#passkey-signing",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46288"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46288/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46289",
+   "title": "public-passkey-signing (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-passkey-signing/",
+    "shortdesc": "public-passkey-signing",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46289"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46289/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46287",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/passkey-signing/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46287"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46287/groups"
+     }
+    }
+   }
+  }
+ ]
+}
