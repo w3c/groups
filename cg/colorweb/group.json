@@ -8,9 +8,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/colorweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/colorweb/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/colorweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/colorweb"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/colorweb",
@@ -131,7 +132,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/ColorWeb-CG",
+    "link": "https://github.com/w3c-cg/ColorWeb-CG",
     "shortdesc": "GitHub",
     "longdesc": "Color on the Web CG GitHub repository",
     "_links": {
