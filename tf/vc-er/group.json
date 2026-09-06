@@ -25,5 +25,62 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/vc-er",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46124",
+   "title": "Github Repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/vc-recognition",
+    "shortdesc": "Github Repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46124"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46124/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46135",
+   "title": "GitHub Team (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/orgs/w3c/teams/w3c-group-175931-members",
+    "shortdesc": "GitHub Team",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46135"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46135/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46123",
+   "title": "group-vc-er (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-vc-er/",
+    "shortdesc": "group-vc-er",
+    "longdesc": "TF Mailing List archives",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46123"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46123/groups"
+     }
+    }
+   }
+  }
+ ]
 }
