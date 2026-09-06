@@ -7,9 +7,6 @@
  "shortname": "privacy",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/privacy"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/privacy/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/privacy/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/privacy"
   }
  },
  "type": "working group",
  "start-date": "2024-10-11",
  "end-date": "2026-10-08",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/privacy",
