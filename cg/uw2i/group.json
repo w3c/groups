@@ -1,0 +1,130 @@
+{
+ "id": 177517,
+ "name": "UTXO Web Wallet Interoperability Community Group",
+ "is_closed": false,
+ "creation-date": "2026-06-08",
+ "description": "<p>There are important use cases for self-sovereign identity in the emerging digital wallet ecosystem.</p>\n\n<p>This group's mission is to enable wallets to integrate the UTXODNS protocol (developed within the IETF) for self-sovereign identity, payment addressing, and verifiable credential presentation.</p>\n\n<p>The group will publish Specifications that allow wallets to:</p>\n\n<ul>\n<li>Resolve .utxo domain names to multi‑chain blockchain endpoint identifiers, supporting networks such as Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and any other blockchain that uses public key hashes or account‑based addresses.</li>\n<li>Perform self‑sovereign authentication (sign a challenge using a private key bound to a .utxo domain, without any third‑party identity provider).</li>\n<li>Construct and sign payments addressed to a .utxo domain on any supported chain, including stablecoins such as USDC, USDT, and Hong Kong regulated stablecoins.</li>\n<li>Present verifiable credentials such as GLEIF vLEI (real‑time status, selective disclosure).</li>\n</ul>\n\n<p>The group also expects to develop a reference implementation. Native browser APIs may be considered in a future phase once wallet adoption is widespread.</p>",
+ "shortname": "uw2i",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/uw2i/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/uw2i/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/uw2i/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/uw2i/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/uw2i/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/uw2i/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/uw2i"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/uw2i",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46233",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/uw2i",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46233"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46233/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46210",
+   "title": "internal-uw2i (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-uw2i/",
+    "shortdesc": "internal-uw2i",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46210"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46210/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46208",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#uw2i",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46208"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46208/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46209",
+   "title": "public-uw2i (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-uw2i/",
+    "shortdesc": "public-uw2i",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46209"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46209/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46207",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/uw2i/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46207"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46207/groups"
+     }
+    }
+   }
+  }
+ ]
+}
