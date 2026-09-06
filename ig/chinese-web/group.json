@@ -7,9 +7,6 @@
  "shortname": "chinese-web",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/chinese-web"
-  },
   "homepage": {
    "href": "https://www.w3.org/2018/chinese-web-ig/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/chinese-web/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/chinese-web"
   }
  },
  "type": "interest group",
  "start-date": "2018-09-20",
  "end-date": "2027-06-19",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/chinese-web",
