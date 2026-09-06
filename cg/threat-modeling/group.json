@@ -1,0 +1,130 @@
+{
+ "id": 157595,
+ "name": "Threat Modeling Community Group",
+ "is_closed": false,
+ "creation-date": "2024-07-03",
+ "description": "The group's purpose is to provide a meeting point for Security, Privacy, and Human Rights experts, along with technology domain experts, to create Threat Models together.\n\nThis group will not publish Specifications.",
+ "shortname": "threat-modeling",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/threat-modeling/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/threat-modeling/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/threat-modeling/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/threat-modeling/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/threat-modeling/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/threat-modeling/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/threat-modeling"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/threat-modeling",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43919",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/threat-modeling",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43919"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43919/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43917",
+   "title": "internal-threat-modeling (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-threat-modeling/",
+    "shortdesc": "internal-threat-modeling",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43917"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43917/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43915",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#threat-modeling",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43915"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43915/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43916",
+   "title": "public-threat-modeling (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-threat-modeling/",
+    "shortdesc": "public-threat-modeling",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43916"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43916/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43914",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/threat-modeling/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43914"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43914/groups"
+     }
+    }
+   }
+  }
+ ]
+}
