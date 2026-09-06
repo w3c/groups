@@ -1,0 +1,112 @@
+{
+ "id": 174962,
+ "name": "Semantic 3D Content Accessibility Community Group",
+ "is_closed": false,
+ "creation-date": "2026-02-24",
+ "description": "<p>The mission of the Semantic 3D Content Accessibility Community Group is to enable accessibility for people with disabilities of 3D content (like: virtual worlds, XR/VR/AR/MR, video games, videos, animations, images, TV, Generative AI content, real-life and other 3D experiences) using an approach of a common semantic 3D data model and a related ecosystem.</p>\n\n<p>We aim to research and define the format for a common semantic 3D data model with focus on accessibility. In addition, we plan to provide guidelines around its generation and usage for making different types of 3D content accessible. This group may publish Reports and this group may publish Specifications.</p>\n\n<p>To give a very simple example, the semantic 3D content data model could include (among many other fields) names and locations of objects. If the data of names and locations is externalized then accessibility solutions would be able to access this data in different ways (like using spatial audio or accessing it as lists via a screen reader using different sorting and filtering criteria, etc.). By having these options, users with disabilities would have the agency to choose when, where and how they want to experience 3D scenes in a variety of highly personalized ways. Names and locations data is common to all 3D content so accessibility solutions could make all types of 3D content accessible in a decoupled way from the experience or even the media type they originate from. As a result, this decoupling could enable reuse of the same accessibility solutions across experiences and media types after their thorough testing with people with disabilities.</p>\n\n<p>The group invites people with disabilities, assistive technology and accessibility solutions developers and researchers, 3D and XR content creators, 3D engines and tools developers, browsers developers, media players developers, technical writers, accessibility subject matter experts, Human Computer Interaction practitioners, media specialists, Artificial Intelligence specialists, software developers and solutions architects and anyone else wishing to collaborate and contribute towards realizing the mission of this Community Group.</p>\n\n<p>For one example of a semantic 3D content data model with specific and special focus on accessibility that could be considered and developed along with other contributed alternatives see <a href=\"https://github.com/techscouter/semantic-xr\">Semantic-XR</a> (which is a follow up work to a presentation given at the <a href=\"https://www.w3.org/2019/08/inclusive-xr-workshop/\">2019 W3C Workshop on Inclusive Design for Immersive Web Standards</a> and part of a presentation planned for the <a href=\"https://www.w3.org/2025/10/smartagents-workshop/\">2026 W3C Workshop on Smart Voice Agents</a>.</p>",
+ "shortname": "semantic-3d-a11y",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/semantic-3d-a11y/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/semantic-3d-a11y/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/semantic-3d-a11y/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/semantic-3d-a11y/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/semantic-3d-a11y/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/semantic-3d-a11y/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semantic-3d-a11y"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/semantic-3d-a11y",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46101",
+   "title": "internal-semantic-3d-a11y (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-semantic-3d-a11y/",
+    "shortdesc": "internal-semantic-3d-a11y",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46101"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46101/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46099",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#semantic-3d-a11y",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46099"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46099/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46100",
+   "title": "public-semantic-3d-a11y (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semantic-3d-a11y/",
+    "shortdesc": "public-semantic-3d-a11y",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46100"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46100/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46098",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/semantic-3d-a11y/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46098"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46098/groups"
+     }
+    }
+   }
+  }
+ ]
+}
