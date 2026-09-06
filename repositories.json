@@ -1,6 +1,30 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "BOOST",
+  "owner": {
+   "login": "BOOST-Working-Group"
+  },
+  "url": "https://github.com/BOOST-Working-Group/BOOST",
+  "homepageUrl": "https://www.w3.org/community/boost-01/",
+  "description": "The BOOST Community Group brings together stakeholders from across the biomass value chain to develop interoperable data formats and protocols for tracking biomass materials from source to end-use. Our mission is to improve transparency, verification, and trust in biomass supply chains through standardized digital systems.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/boost-01"
+   ],
+   "contacts": [
+    "pwt-cd"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "BMUSE",
   "owner": {
    "login": "BioSchemas"
@@ -408,61 +432,6 @@
   "w3cjson": {
    "group": [
     "cg/css4"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "Specifications",
-  "owner": {
-   "login": "HydraCG"
-  },
-  "url": "https://github.com/HydraCG/Specifications",
-  "description": "Specifications created by the Hydra W3C Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/hydra"
-   ],
-   "contacts": [
-    "lanthaler"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "birthday",
-  "owner": {
-   "login": "KNowledgeOnWebScale"
-  },
-  "url": "https://github.com/KNowledgeOnWebScale/birthday",
-  "description": "A deontic reasoner for team policies (trying to solve the birthday use-case)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/rdfsurfaces"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "n3s-policy-consistency-checker",
-  "owner": {
-   "login": "KNowledgeOnWebScale"
-  },
-  "url": "https://github.com/KNowledgeOnWebScale/n3s-policy-consistency-checker",
-  "homepageUrl": "https://knowledgeonwebscale.github.io/n3s-policy-consistency-checker/",
-  "description": "A policy consistency checker implemented witn N3 and RDF Surfaces",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/rdfsurfaces"
    ],
    "exposed": true
   }
@@ -6948,6 +6917,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ai-visibility-lifecycle-cg",
+  "owner": {
+   "login": "ai-visibility-architects"
+  },
+  "url": "https://github.com/ai-visibility-architects/ai-visibility-lifecycle-cg",
+  "description": "W3C AI Visibility Lifecycle Framework Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ai-web-visibility"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "antifraudcg"
@@ -7413,6 +7399,65 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": ".github",
+  "owner": {
+   "login": "dds-wg"
+  },
+  "url": "https://github.com/dds-wg/.github",
+  "description": "Community health files, governance, and strategy docs for the DDS Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dds"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dds",
+  "owner": {
+   "login": "dds-wg"
+  },
+  "url": "https://github.com/dds-wg/dds",
+  "homepageUrl": "https://www.dds.xyz",
+  "description": "Decentralized Deliberation Stack (DDS)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dds"
+   ],
+   "contacts": [
+    "nicobao",
+    "Stocastico96"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "open-calls",
+  "owner": {
+   "login": "dds-wg"
+  },
+  "url": "https://github.com/dds-wg/open-calls",
+  "description": "Presentations and public artifacts from DDS open calls",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dds"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "community-group",
   "owner": {
    "login": "design-tokens"
@@ -7447,6 +7492,24 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "digitalcredentials.dev",
+  "owner": {
+   "login": "digitalcredentialsdev"
+  },
+  "url": "https://github.com/digitalcredentialsdev/digitalcredentials.dev",
+  "homepageUrl": "https://digitalcredentials.dev",
+  "description": "source for digitalcredentials.dev",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wica"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "expath-cg",
   "owner": {
    "login": "expath"
@@ -7458,23 +7521,6 @@
   "w3cjson": {
    "group": [
     "cg/expath"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "rdfsurfaces-tests",
-  "owner": {
-   "login": "eyereasoner"
-  },
-  "url": "https://github.com/eyereasoner/rdfsurfaces-tests",
-  "description": "A test kit for RDF Surfaces",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/rdfsurfaces"
    ],
    "exposed": true
   }
@@ -8848,24 +8894,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "rfcs",
-  "owner": {
-   "login": "interledger"
-  },
-  "url": "https://github.com/interledger/rfcs",
-  "homepageUrl": "https://interledger.org",
-  "description": "Specifications for Interledger and related protocols",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/interledger"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dashboard",
   "owner": {
    "login": "invisibleXML"
@@ -9702,91 +9730,6 @@
   "w3cjson": {
    "group": [
     "cg/kg-construct"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "Business-use-cases-for-the-use-of-Linguistic-Linked-Data",
-  "owner": {
-   "login": "ld4lt"
-  },
-  "url": "https://github.com/ld4lt/Business-use-cases-for-the-use-of-Linguistic-Linked-Data",
-  "description": "Business use cases for the use of Linguistic Linked Data in content analytics processes - Phase II",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ld4lt"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "annotation-demos",
-  "owner": {
-   "login": "ld4lt"
-  },
-  "url": "https://github.com/ld4lt/annotation-demos",
-  "description": "Samples and demos for challenges and approaches to linguistic annotation in RDF",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ld4lt"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "ld4lt-www",
-  "owner": {
-   "login": "ld4lt"
-  },
-  "url": "https://github.com/ld4lt/ld4lt-www",
-  "description": "archived LD4LT wiki",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ld4lt"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "linguistic-annotation",
-  "owner": {
-   "login": "ld4lt"
-  },
-  "url": "https://github.com/ld4lt/linguistic-annotation",
-  "description": "Towards a consolidated LOD vocabulary for linguistic annotations",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ld4lt"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "metashare",
-  "owner": {
-   "login": "ld4lt"
-  },
-  "url": "https://github.com/ld4lt/metashare",
-  "description": "The Metashare Ontology as Created by the LD4LT Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ld4lt"
    ],
    "exposed": true
   }
@@ -16376,6 +16319,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "musicxmlTestSuite",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/musicxmlTestSuite",
+  "description": "MusicXML Test Suite (Unofficial) -- Forked from Lilypond",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/music-notation"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "n3Builtins",
   "owner": {
    "login": "w3c-cg"
@@ -16881,7 +16841,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/tmcg"
+    "cg/threat-modeling"
    ],
    "contacts": [
     "ij@w3.org"
@@ -32355,6 +32315,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wfcg",
+  "owner": {
+   "login": "web-frameworks-cg"
+  },
+  "url": "https://github.com/web-frameworks-cg/wfcg",
+  "description": "Promote and discuss standards to make Web Frameworks easier to build and maintain",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wfcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "web-platform-dx"
@@ -32553,6 +32530,57 @@
   "w3cjson": {
    "group": [
     "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "TPAC-2023",
+  "owner": {
+   "login": "webcomponents-cg"
+  },
+  "url": "https://github.com/webcomponents-cg/TPAC-2023",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webcomponents"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "community-protocols",
+  "owner": {
+   "login": "webcomponents-cg"
+  },
+  "url": "https://github.com/webcomponents-cg/community-protocols",
+  "description": "Cross-component coordination protocols",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webcomponents"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "docs-and-guides",
+  "owner": {
+   "login": "webcomponents-cg"
+  },
+  "url": "https://github.com/webcomponents-cg/docs-and-guides",
+  "homepageUrl": "https://webcomponents-cg.netlify.app/",
+  "description": "Web Component Community Group - We care about web components.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webcomponents"
    ],
    "exposed": true
   }
