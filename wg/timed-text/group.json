@@ -6,9 +6,6 @@
  "shortname": "timed-text",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/timed-text"
-  },
   "homepage": {
    "href": "https://www.w3.org/AudioVideo/TT/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/timed-text/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/timed-text"
   }
  },
  "type": "working group",
  "start-date": "2008-08-15",
  "end-date": "2027-06-03",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/timed-text",
