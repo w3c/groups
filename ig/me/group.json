@@ -6,9 +6,6 @@
  "shortname": "me",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/ig/me"
-  },
   "homepage": {
    "href": "https://www.w3.org/2011/webtv/"
   },
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/ig/me/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/me"
   }
  },
  "type": "interest group",
  "start-date": "2011-02-07",
  "end-date": "2027-12-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
  "identifier": "ig/me",
