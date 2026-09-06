@@ -7,9 +7,6 @@
  "shortname": "fedid",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/fedid"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/fedid/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/fedid/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/fedid"
   }
  },
  "type": "working group",
  "start-date": "2024-03-28",
  "end-date": "2027-02-25",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/fedid",
