@@ -7,9 +7,6 @@
  "shortname": "aria",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/aria"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/about/groups/ariawg/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/aria/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/aria"
   }
  },
  "type": "working group",
  "start-date": "2015-10-22",
  "end-date": "2027-01-01",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/aria",
