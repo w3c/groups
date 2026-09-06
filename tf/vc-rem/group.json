@@ -25,5 +25,62 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/vc-rem",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46134",
+   "title": "GitHub Team (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/orgs/w3c/teams/w3c-group-175961-members",
+    "shortdesc": "GitHub Team",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46134"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46134/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46130",
+   "title": "VC Render Method Github Repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/vc-render-method",
+    "shortdesc": "VC Render Method Github Repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46130"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46130/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46129",
+   "title": "group-vc-rem (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-vc-rem/",
+    "shortdesc": "group-vc-rem",
+    "longdesc": "Mailing list for the VC Render Method TF or the VCWG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46129"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46129/groups"
+     }
+    }
+   }
+  }
+ ]
 }
