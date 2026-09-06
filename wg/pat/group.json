@@ -7,9 +7,6 @@
  "shortname": "pat",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/pat"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/pat/"
   },
@@ -42,11 +39,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/pat/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/pat"
   }
  },
  "type": "working group",
  "start-date": "2024-11-13",
  "end-date": "2026-11-30",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/pat",
