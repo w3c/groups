@@ -8,9 +8,6 @@
  "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cogai"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cogai/"
   },
@@ -28,9 +25,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cogai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cogai"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/cogai",
@@ -41,7 +42,7 @@
    "details": {
     "closed": false,
     "type": "repository",
-    "link": "https://github.com/w3c/cogai",
+    "link": "https://github.com/w3c-cg/cogai",
     "shortdesc": "GitHub repository",
     "_links": {
      "self": {
