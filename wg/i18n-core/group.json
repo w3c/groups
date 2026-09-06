@@ -6,9 +6,6 @@
  "shortname": "i18n-core",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/i18n-core"
-  },
   "homepage": {
    "href": "https://www.w3.org/International/i18n-activity/i18n-wg/"
   },
@@ -31,7 +28,7 @@
    "href": "https://api.w3.org/groups/wg/i18n-core/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/i18n-core/charters/519"
+   "href": "https://api.w3.org/groups/wg/i18n-core/charters/552"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/i18n-core/join"
@@ -41,11 +38,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/i18n-core/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/i18n-core"
   }
  },
  "type": "working group",
  "start-date": "1998-02-12",
- "end-date": "2027-10-16",
+ "end-date": "2029-03-19",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/i18n-core",
@@ -100,24 +101,6 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/45919/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/25919",
-   "title": "W3C Internationalization on X (X)",
-   "details": {
-    "closed": false,
-    "type": "x",
-    "link": "https://x.com/webi18n",
-    "shortdesc": "W3C Internationalization on X",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/25919"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/25919/groups"
      }
     }
    }
