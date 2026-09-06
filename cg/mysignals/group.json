@@ -1,0 +1,112 @@
+{
+ "id": 179015,
+ "name": "MySignals Community Group",
+ "is_closed": false,
+ "creation-date": "2026-08-13",
+ "description": "<p>The purpose of this Community Group is to develop an extensible, stateless protocol that enables individuals to inform service providers of their preferred interaction terms. This is achieved by communicating \"signals\" between the user agent (browser) and the service provider’s website. Under the MySignals specification, a developer defines a signal as a URI. The protocol specification outlines how this URI is encoded into a new browser header (Sec-MS) and how the website acknowledges it to indicate support. Because this specification focuses strictly on transport and not semantics, the explicit meaning of the URI is out of scope and left entirely to the developer.</p>\n\n<p>This group will publish Specifications.</p>",
+ "shortname": "mysignals",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/mysignals/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mysignals/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mysignals/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mysignals/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mysignals/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mysignals/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mysignals"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mysignals",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46276",
+   "title": "internal-mysignals (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-mysignals/",
+    "shortdesc": "internal-mysignals",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46276"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46276/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46274",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mysignals",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46274"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46274/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46275",
+   "title": "public-mysignals (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mysignals/",
+    "shortdesc": "public-mysignals",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46275"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46275/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46273",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mysignals/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46273"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46273/groups"
+     }
+    }
+   }
+  }
+ ]
+}
