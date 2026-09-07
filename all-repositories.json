@@ -17506,6 +17506,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "voiceinteraction",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/voiceinteraction",
+  "homepageUrl": "https://www.w3.org/community/voiceinteraction/",
+  "description": "publications of the W3C Voice Interaction Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    91376
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "shortName": "voiceinteraction",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vsc",
   "owner": {
    "login": "w3c-cg"
@@ -33434,28 +33456,6 @@
    "repo-type": [
     "rec-track"
    ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "voiceinteraction",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/voiceinteraction",
-  "homepageUrl": "https://www.w3.org/community/voiceinteraction/",
-  "description": "publications of the W3C Voice Interaction Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    91376
-   ],
-   "contacts": [
-    "ianbjacobs"
-   ],
-   "shortName": "voiceinteraction",
    "exposed": true
   }
  },
