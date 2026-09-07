@@ -17552,6 +17552,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-advertising",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/web-advertising",
+  "homepageUrl": "https://w3c.github.io/web-advertising/dashboard/",
+  "description": "Web Advertising CG - https://www.w3.org/community/web-adv/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    103226
+   ],
+   "contacts": [
+    "wseltzer"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-editing",
   "owner": {
    "login": "w3c-cg"
@@ -34548,30 +34572,6 @@
   "description": "W3C WebDriver compatible client.",
   "isArchived": true,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "web-advertising",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/web-advertising",
-  "homepageUrl": "https://w3c.github.io/web-advertising/dashboard/",
-  "description": "Web Advertising CG - https://www.w3.org/community/web-adv/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    103226
-   ],
-   "contacts": [
-    "wseltzer"
-   ],
-   "repo-type": [
-    "others"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
