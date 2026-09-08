@@ -15903,6 +15903,32 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "PWETF",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/PWETF",
+  "homepageUrl": "https://www.w3.org/community/pwe/",
+  "description": "Positive Work Environment Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    7756,
+    109278
+   ],
+   "contacts": [
+    "iherman",
+    "TzviyaSiegman"
+   ],
+   "repo-type": [
+    "process"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "a11y-discov-vocab",
   "owner": {
    "login": "w3c-cg"
@@ -18893,32 +18919,6 @@
    ],
    "repo-type": [
     "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "PWETF",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/PWETF",
-  "homepageUrl": "https://www.w3.org/community/pwe/",
-  "description": "Positive Work Environment Community Group",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    7756,
-    109278
-   ],
-   "contacts": [
-    "iherman",
-    "TzviyaSiegman"
-   ],
-   "repo-type": [
-    "process"
    ],
    "exposed": true
   }
@@ -28931,7 +28931,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/rdf-tests",
-  "homepageUrl": "w3c.github.io/rdf-tests",
+  "homepageUrl": "https://w3c.github.io/rdf-tests/",
   "description": "Repository for the RDF Tests Community Group",
   "isArchived": false,
   "isPrivate": false,
