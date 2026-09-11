@@ -29,7 +29,7 @@
    "href": "https://api.w3.org/groups/wg/webauthn/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/webauthn/charters/501"
+   "href": "https://api.w3.org/groups/wg/webauthn/charters/561"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/webauthn/join"
@@ -46,7 +46,7 @@
  },
  "type": "working group",
  "start-date": "2016-02-08",
- "end-date": "2026-10-30",
+ "end-date": "2028-09-11",
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
