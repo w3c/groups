@@ -76,7 +76,7 @@
    "details": {
     "closed": false,
     "type": "tracker",
-    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=115198",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/media",
     "shortdesc": "Dashboard",
     "longdesc": "Issue Dashboard",
     "_links": {
@@ -95,9 +95,9 @@
    "details": {
     "closed": false,
     "type": "other",
-    "link": "https://github.com/w3c/media-wg/tree/master/meetings",
+    "link": "https://github.com/w3c/media-wg/tree/main/meetings",
     "shortdesc": "Meetings",
-    "longdesc": "Repository for meetings",
+    "longdesc": "Meeting agendas",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/27801"
