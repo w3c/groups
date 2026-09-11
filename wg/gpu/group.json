@@ -53,6 +53,24 @@
  "identifier": "wg/gpu",
  "services": [
   {
+   "href": "https://api.w3.org/services/46304",
+   "title": "Community questions/comments on WebGPU and WGSL (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://github.com/gpuweb/gpuweb/discussions",
+    "shortdesc": "Community questions/comments on WebGPU and WGSL",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46304"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46304/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/25983",
    "title": "Implementation status and other resources (Other)",
    "details": {
