@@ -3868,31 +3868,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "serial",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/serial",
-  "homepageUrl": "https://wicg.github.io/serial/",
-  "description": "Serial ports API for the platform. ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "marcoscaceres",
-    "reillyeon"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "service-worker-auto-preload",
   "owner": {
    "login": "WICG"
@@ -4403,29 +4378,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webhid",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/webhid",
-  "description": "Web API for accessing Human Interface Devices (HID)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webmonetization",
   "owner": {
    "login": "WICG"
@@ -4487,31 +4439,6 @@
    "contacts": [
     "cwilso"
    ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webusb",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/webusb",
-  "homepageUrl": "https://wicg.github.io/webusb/",
-  "description": "Connecting hardware to the web.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    80485
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "webusb",
    "repo-type": [
     "cg-report"
    ],
@@ -6393,31 +6320,6 @@
    ],
    "contacts": [
     "svgeesus"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "web-bluetooth",
-  "owner": {
-   "login": "WebBluetoothCG"
-  },
-  "url": "https://github.com/WebBluetoothCG/web-bluetooth",
-  "homepageUrl": "http://www.w3.org/community/web-bluetooth/",
-  "description": "Bluetooth support for the Web.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    72794
-   ],
-   "contacts": [
-    "reillyeon",
-    "jyasskin"
    ],
    "repo-type": [
     "cg-report"
@@ -39354,6 +39256,31 @@
   "w3cjson": {
    "group": [
     "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bluetooth",
+  "owner": {
+   "login": "whatwg"
+  },
+  "url": "https://github.com/whatwg/bluetooth",
+  "homepageUrl": "https://foolip.github.io/bluetooth/",
+  "description": "Bluetooth support for the Web.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    72794
+   ],
+   "contacts": [
+    "reillyeon",
+    "jyasskin"
+   ],
+   "repo-type": [
+    "cg-report"
    ],
    "exposed": true
   }
