@@ -25553,7 +25553,21 @@
   "homepageUrl": "https://w3c.github.io/mathml-polyfills/",
   "description": "Polyfills for MathML features",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/math"
+   ],
+   "contacts": [
+    "bkardell",
+    "NSoiffer",
+    "bert-github"
+   ],
+   "repo-type": [
+    "tool"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -25564,7 +25578,21 @@
   "url": "https://github.com/w3c/mathml-schema",
   "description": "Generated Schema for MathML4 drafts",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/math"
+   ],
+   "contacts": [
+    "bkardell",
+    "NSoiffer",
+    "bert-github"
+   ],
+   "repo-type": [
+    "tool"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -39289,7 +39317,7 @@
    "login": "whatwg"
   },
   "url": "https://github.com/whatwg/bluetooth",
-  "homepageUrl": "https://foolip.github.io/bluetooth/",
+  "homepageUrl": "https://bluetooth.spec.whatwg.org/",
   "description": "Bluetooth support for the Web.",
   "isArchived": false,
   "isPrivate": false,
