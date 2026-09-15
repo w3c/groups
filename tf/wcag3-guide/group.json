@@ -1,0 +1,27 @@
+{
+ "id": 179719,
+ "name": "WCAG 3 Guidance Documents Task Force",
+ "is_closed": false,
+ "creation-date": "2026-09-14",
+ "shortname": "wcag3-guide",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/wcag3-guide/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/wcag3-guide/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/wcag3-guide/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/wcag3-guide"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/wcag3-guide",
+ "group-type": "tf",
+ "services": []
+}
