@@ -2297,31 +2297,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "serial",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/serial",
-  "homepageUrl": "https://wicg.github.io/serial/",
-  "description": "Serial ports API for the platform. ",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres",
-    "reillyeon"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "service-worker-auto-preload",
   "owner": {
    "login": "WICG"
@@ -2810,29 +2785,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webhid",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/webhid",
-  "description": "Web API for accessing Human Interface Devices (HID)",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "marcoscaceres"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webmonetization",
   "owner": {
    "login": "WICG"
@@ -2894,31 +2846,6 @@
    "contacts": [
     "cwilso"
    ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "webusb",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/webusb",
-  "homepageUrl": "https://wicg.github.io/webusb/",
-  "description": "Connecting hardware to the web.",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "shortName": "webusb",
    "repo-type": [
     "cg-report"
    ],
