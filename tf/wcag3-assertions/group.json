@@ -1,0 +1,27 @@
+{
+ "id": 179720,
+ "name": "WCAG 3 Assertions Task Force",
+ "is_closed": false,
+ "creation-date": "2026-09-14",
+ "shortname": "wcag3-assertions",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/wcag3-assertions/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/wcag3-assertions/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/wcag3-assertions/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/wcag3-assertions"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/wcag3-assertions",
+ "group-type": "tf",
+ "services": []
+}
