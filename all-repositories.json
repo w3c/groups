@@ -19476,6 +19476,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "apa-tpac-meetings",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/apa-tpac-meetings",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    83907
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "apg-redesign",
   "owner": {
    "login": "w3c"
