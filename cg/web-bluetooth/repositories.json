@@ -1,12 +1,12 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "web-bluetooth",
+  "name": "bluetooth",
   "owner": {
-   "login": "WebBluetoothCG"
+   "login": "whatwg"
   },
-  "url": "https://github.com/WebBluetoothCG/web-bluetooth",
-  "homepageUrl": "http://www.w3.org/community/web-bluetooth/",
+  "url": "https://github.com/whatwg/bluetooth",
+  "homepageUrl": "https://foolip.github.io/bluetooth/",
   "description": "Bluetooth support for the Web.",
   "isArchived": false,
   "isPrivate": false,
