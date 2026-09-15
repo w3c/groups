@@ -1,0 +1,112 @@
+{
+ "id": 179747,
+ "name": "Browser Data Portability Community Group",
+ "is_closed": false,
+ "creation-date": "2026-09-15",
+ "description": "<p>The mission of the Browser Data Portability Community Group is to build consensus amongst web browser developers and implementers on how to meet the needs of users who wish to transfer their data between browsers. The goal is to publish a W3C Community Group Report that lays out an agreed set of principles for web browser developers to follow when building import and/or export functionality, in order to promote greater alignment of outcomes for users across different devices, platforms, and browsers.</p>\n\n<p>The Community Group will not seek to define a rigid standard for how web browser data portability should be implemented by any or all browser vendors. Any output of the Group will instead recognise and reflect the variation across browsers, platforms, and devices, including those that result from existing regulatory requirements.</p>\n\n<p>This group will not publish Specifications.</p>",
+ "shortname": "browdatport",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/browdatport/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/browdatport/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/browdatport/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/browdatport/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/browdatport/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/browdatport/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/browdatport"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/browdatport",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46308",
+   "title": "internal-browdatport (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-browdatport/",
+    "shortdesc": "internal-browdatport",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46308"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46308/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46306",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#browdatport",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46306"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46306/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46307",
+   "title": "public-browdatport (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-browdatport/",
+    "shortdesc": "public-browdatport",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46307"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46307/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46305",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/browdatport/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46305"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46305/groups"
+     }
+    }
+   }
+  }
+ ]
+}
