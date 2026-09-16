@@ -7519,6 +7519,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "fdp-specs.github.io",
+  "owner": {
+   "login": "fdp-specs"
+  },
+  "url": "https://github.com/fdp-specs/fdp-specs.github.io",
+  "description": "Repository to host the documents related to the specifications of the FAIR Data Point. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/fdp"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "LightweightFedCM",
   "owner": {
    "login": "fedidcg"
