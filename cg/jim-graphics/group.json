@@ -37,6 +37,24 @@
  "identifier": "cg/jim-graphics",
  "services": [
   {
+   "href": "https://api.w3.org/services/46314",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/jim-graphics",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46314"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46314/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46312",
    "title": "internal-jim-graphics (Mailing List)",
    "details": {
