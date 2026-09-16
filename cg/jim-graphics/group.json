@@ -1,0 +1,112 @@
+{
+ "id": 179773,
+ "name": "JIM Structured Graphics Community Group",
+ "is_closed": false,
+ "creation-date": "2026-09-16",
+ "description": "<p>Complex graphics, such as charts, diagrams, and maps, encode meaning and structure that are often not available in a consistent, machine-readable form, limiting interoperability, accessibility, and reuse across tools and platforms.</p>\n\n<p>The mission of this group is to improve interoperability among authoring tools, rendering systems, accessibility technologies, analysis systems, and other systems that create, present, interpret, or transform charts, diagrams, maps, scientific graphics, technical illustrations, and related structured graphics. The group will develop open specifications for representing the structure, semantics, annotations, and interactive affordances of graphical content in machine-readable form. Accessibility is a foundational design requirement. The group will also consider uses including search, transformation, validation, data extraction, and AI-assisted interpretation.</p>\n\n<p>The group will focus initially on JIM (JSON Image Metadata) and related specifications. More information about scope, deliverables, design principles, and coordination expectations will be provided in a charter.</p>\n\n<p>This group will publish Specifications.</p>",
+ "shortname": "jim-graphics",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/jim-graphics/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/jim-graphics/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/jim-graphics/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/jim-graphics/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/jim-graphics/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/jim-graphics/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/jim-graphics"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/jim-graphics",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46312",
+   "title": "internal-jim-graphics (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-jim-graphics/",
+    "shortdesc": "internal-jim-graphics",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46312"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46312/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46310",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#jim-graphics",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46310"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46310/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46311",
+   "title": "public-jim-graphics (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-jim-graphics/",
+    "shortdesc": "public-jim-graphics",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46311"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46311/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46309",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/jim-graphics/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46309"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46309/groups"
+     }
+    }
+   }
+  }
+ ]
+}
