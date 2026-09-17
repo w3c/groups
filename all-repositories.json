@@ -6705,6 +6705,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "act-board",
+  "owner": {
+   "login": "act-rules"
+  },
+  "url": "https://github.com/act-rules/act-board",
+  "description": "Repo with board for tracking the state of ACT rule updates",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/act-r"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "act-implementor",
   "owner": {
    "login": "act-rules"
@@ -28933,6 +28950,18 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rdf-struct-patterns",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/rdf-struct-patterns",
+  "homepageUrl": "https://w3c.github.io/rdf-struct-patterns/",
+  "description": "RDF 1.2 Properties of Formal Structures",
+  "isArchived": false,
+  "isPrivate": false
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
