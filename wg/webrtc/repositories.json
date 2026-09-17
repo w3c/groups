@@ -1,6 +1,28 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ai-skills",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/ai-skills",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/webrtc"
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "repo-type": [
+    "ai-skill"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "media-pipeline-arch",
   "owner": {
    "login": "w3c"
