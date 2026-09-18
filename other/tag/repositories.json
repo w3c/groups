@@ -309,6 +309,27 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "install-finding",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "url": "https://github.com/w3ctag/install-finding",
+  "description": "Draft Finding on Installable Web Applications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "meetings",
   "owner": {
    "login": "w3ctag"
