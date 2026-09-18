@@ -28403,29 +28403,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "publishing",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/publishing",
-  "homepageUrl": "https://www.w3.org/publishing/",
-  "description": "Home page of Publishing@W3C",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "iherman",
-    "swickr"
-   ],
-   "repo-type": [
-    "homepage"
-   ],
-   "policy": "restricted",
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "pulse-snapshots",
   "owner": {
    "login": "w3c"
@@ -37869,6 +37846,27 @@
   "w3cjson": {
    "group": [
     "other/tag"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "install-finding",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "url": "https://github.com/w3ctag/install-finding",
+  "description": "Draft Finding on Installable Web Applications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
    ],
    "exposed": true
   }
