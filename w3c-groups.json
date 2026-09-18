@@ -14319,25 +14319,6 @@
       }
      }
     }
-   },
-   {
-    "href": "https://api.w3.org/services/25914",
-    "title": "Dashboard (Issue Tracking)",
-    "details": {
-     "closed": false,
-     "type": "tracker",
-     "link": "https://w3c-cg.github.io/web-advertising/dashboard/",
-     "shortdesc": "Dashboard",
-     "longdesc": "Issue Dashboard",
-     "_links": {
-      "self": {
-       "href": "https://api.w3.org/services/25914"
-      },
-      "groups": {
-       "href": "https://api.w3.org/services/25914/groups"
-      }
-     }
-    }
    }
   ]
  },
