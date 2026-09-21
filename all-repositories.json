@@ -19396,7 +19396,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "wg/webrtc"
+    102
    ],
    "contacts": [
     "plehegar"
@@ -22075,7 +22075,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/dx",
     "tf/dx-dcat"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
