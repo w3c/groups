@@ -10,7 +10,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "wg/dx",
     "tf/dx-dcat"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
