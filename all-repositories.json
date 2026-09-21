@@ -24558,6 +24558,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "intentional-friction",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/intentional-friction",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    83907
+   ],
+   "contacts": [
+    "ruoxiran"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "its-2.0-testsuite",
   "owner": {
    "login": "w3c"
