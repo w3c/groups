@@ -1,0 +1,30 @@
+{
+ "id": 55870,
+ "name": "HTML Media Task Force",
+ "is_closed": true,
+ "shortname": "html-media",
+ "closed_date": "2020-03-09",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/html/wg/media/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/html-media/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/html-media/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/html-media/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/html-media"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/html-media",
+ "group-type": "tf",
+ "services": []
+}
