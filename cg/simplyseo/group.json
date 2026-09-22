@@ -1,0 +1,95 @@
+{
+ "id": 51609,
+ "name": "Open Source SEO Community Group",
+ "is_closed": true,
+ "creation-date": "2011-12-30",
+ "description": "A group sharing related interests in the world of Open Source SEO; software, tools, tips, tricks, plugins, coding, scripting and more.",
+ "shortname": "simplyseo",
+ "closed_date": "2014-11-18",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/simplyseo/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/simplyseo/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/simplyseo/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/simplyseo/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/simplyseo/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/simplyseo/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/simplyseo"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/simplyseo",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/876",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#simplyseo",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/876"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/876/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/877",
+   "title": "public-simplyseo (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-simplyseo/",
+    "shortdesc": "public-simplyseo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/877"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/877/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/875",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/simplyseo/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/875"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/875/groups"
+     }
+    }
+   }
+  }
+ ]
+}
