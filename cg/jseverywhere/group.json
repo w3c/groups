@@ -1,15 +1,14 @@
 {
  "id": 55181,
  "name": "Client and Server JavaScript APIs Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-05-11",
  "description": "REST seven's rule was \"Code on Demand,\" meaning the ability for the server to deliver code able to run on the client. Some, to use the same code everywhere, tried to do it with Java, .NET (ActiveX). Today, even Flash is fading out to let this place to JavaScript.\r\nHTML5 and offline support contributed in the creation of a bunch of APIs which only made sense on server-side in first place: File/FileSystem, Workers, Sockets, Storage/Session, Blob, ImageData. Most of those APIs, and even the already existing XMLHttpRequest (now in version 2) have been designed from the beginning to be usable via either synchronous or asynchronous APIs from the very early stages (synchronous is not blocking any more the user interface in browsers when used in workers). \r\n\r\nNow that the Server-Side JavaScript is rising again either in synchronous and asynchronous implementations, it is time, if we really want interoperable code/libraries/modules, to make those APIs taking into account the server-side context, and then on the other end, to push Server-Side JavaScript implementations to support them. CommonJS started a great project, it is now time to make its ambitions real.",
  "shortname": "jseverywhere",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/jseverywhere"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/jseverywhere/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/jseverywhere/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/jseverywhere"
   }
  },
- "identifier": "cg/jseverywhere"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/jseverywhere",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1151",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#jseverywhere",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1151"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1151/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1152",
+   "title": "public-jseverywhere (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-jseverywhere/",
+    "shortdesc": "public-jseverywhere",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1152"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1152/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1150",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/jseverywhere/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1150"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1150/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1149",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/jseverywhere/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1149"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1149/groups"
+     }
+    }
+   }
+  }
+ ]
 }
