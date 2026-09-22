@@ -1,16 +1,14 @@
 {
  "id": 163513,
  "name": "Decentralized Fact-checking & Provenance Organization (DeFacto) Community Group",
- "is_closed": false,
+ "is_closed": true,
  "creation-date": "2025-01-08",
- "description": "<p>The Decentralized Fact-checking &amp; Provenance Community Group (DFCP) is committed to actively researching, developing, building, maintaining, managing, upgrading, and implementing robust amendments for a decentralized fact-checking system and stringent provenance standards for text-based literature and content. We will drive this initiative forward with determination and efficacy.</p>\r\n\r\n<p>DFCP strives to empower societies with tools to identify and mitigate/counter misinformation, disinformation, and Fake News at scale.</p>\r\n\r\n<p>This group will publish Specifications.</p>",
+ "description": "<p>The Decentralized Fact-checking &amp; Provenance Community Group (DFCP) is committed to actively researching, developing, building, maintaining, managing, upgrading, and implementing robust amendments for a decentralized fact-checking system and stringent provenance standards for text-based literature and content. We will drive this initiative forward with determination and efficacy.</p>\n\n<p>DFCP strives to empower societies with tools to identify and mitigate/counter misinformation, disinformation, and Fake News at scale.</p>\n\n<p>This group will publish Specifications.</p>",
  "shortname": "defacto",
+ "closed_date": "2026-05-21",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/defacto"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/defacto/"
   },
@@ -28,9 +26,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/defacto/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/defacto"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/defacto",
