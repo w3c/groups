@@ -1,0 +1,95 @@
+{
+ "id": 77891,
+ "name": "BDE-Climate action, environment, resource efficiency and raw materials Community Group",
+ "is_closed": true,
+ "creation-date": "2015-04-22",
+ "description": "<p>This group is now closed, its work has moved to the <a rel=\"nofollow\" href=\"http://www.w3.org/community/bde/\">Big Data Europe Community Group</a>.</p>\r\n<p>This is one of 7 Community Groups established under the <a rel=\"nofollow\" href=\"http://www.big-data-europe.eu/\">BigDataEurope Project</a>, a Coordination and Support Action under the European Union's Horizon 2020 Programme, each one tailored to a specific <a rel=\"nofollow\" href=\"http://ec.europa.eu/programmes/horizon2020/en/h2020-section/societal-challenges\">Societal Challenge</a>. The discussions in this group will be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation.</p> <p>This Community Group is specifically interested in the challenge related to climate action, environment, resource efficiency and raw materials and is led by the <a rel=\"nofollow\" href=\"http://www.demokritos.gr/Contents.aspx?CatId=781&amp;lang=en\">Institute of Nuclear &amp;  Radiological Sciences &amp; Technology, Energy &amp; Safety</a> (I.N.RA.S.T.E.S.) at NCSR Demokritos.</p>\r\n<p>This group will not publish specifications.</p>",
+ "shortname": "bde-climate",
+ "closed_date": "2016-04-08",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/bde-climate/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bde-climate/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bde-climate/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bde-climate/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bde-climate/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bde-climate/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bde-climate"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bde-climate",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6014",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bde-climate",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6014"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6014/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6015",
+   "title": "public-bde-climate (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bde-climate/",
+    "shortdesc": "public-bde-climate",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6015"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6015/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6013",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bde-climate/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6013"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6013/groups"
+     }
+    }
+   }
+  }
+ ]
+}
