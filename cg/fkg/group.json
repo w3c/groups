@@ -1,15 +1,14 @@
 {
  "id": 114397,
  "name": "Functional Knowledge Graph Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2019-04-16",
  "description": "The mission of FKG group is to create specifications for encoding ontologies that AI Assistants can operate upon enabling them to execute functions embedded in a web page. FKGs are encoded in JSON-LD, this group defines the vocabulary. A detailed proposal can be found at:\r\nhttps://github.com/keyvan-m-sadeghi/assister/blob/assister-conception/rfcs/text/assister-conception/README.md",
  "shortname": "fkg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/fkg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/fkg/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/fkg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/fkg"
   }
  },
- "identifier": "cg/fkg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/fkg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15594",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#fkg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15594"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15594/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15595",
+   "title": "public-fkg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-fkg/",
+    "shortdesc": "public-fkg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15595"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15595/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15593",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/fkg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15593"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15593/groups"
+     }
+    }
+   }
+  }
+ ]
 }
