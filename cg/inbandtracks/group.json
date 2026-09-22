@@ -1,15 +1,14 @@
 {
  "id": 67359,
  "name": "Media Resource In-band Tracks Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-10-22",
  "description": "This group will develop a specification defining how user agents should expose in-band tracks as HTML5 media element video, audio and text tracks so that Web applications can access the in-band track information, through the media element, in a interoperable manner across user agent implementations.\r\n\r\nMedia formats of interest are MPEG-2 transport stream, WebM and MPEG-4 file format. Other media formats containing in-band tracks may be considered.\r\n",
  "shortname": "inbandtracks",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/inbandtracks"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/inbandtracks/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/inbandtracks/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/inbandtracks"
   }
  },
- "identifier": "cg/inbandtracks"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/inbandtracks",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15511",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/HTMLSourcingInbandTracks",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15511"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15511/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1721",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#inbandtracks",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1721"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1721/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1722",
+   "title": "public-inbandtracks (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-inbandtracks/",
+    "shortdesc": "public-inbandtracks",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1722"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1722/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1720",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/inbandtracks/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1720"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1720/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1719",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/inbandtracks/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1719"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1719/groups"
+     }
+    }
+   }
+  }
+ ]
 }
