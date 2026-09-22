@@ -1,15 +1,14 @@
 {
  "id": 78975,
  "name": "Exposing and Linking Cultural Heritage data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-06-04",
  "description": "The wealth of data about cultural heritage collections held within archives world-wide is of great interest for humanities research and education activities. Yet this data is too often hard to find, created in isolated silos and poorly documented. Large projects such as RES (https://bbcarchdev.github.io/res/) , HuNI (https://huni.net.au), Europeana (http://www.europeana.eu) and CLARIAH (http://www.clariah.nl/) express a clear need for making that data easier to find, link and consume. The mission of this community group is to discuss which standards are needed to facilitate this process. The aim is to produce recommendations for cultural heritage data exposure using the work of RES, HuNI, Europeana and CLARIAH as a starting point.",
  "shortname": "linkedculture",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/linkedculture"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/linkedculture/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/linkedculture/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/linkedculture"
   }
  },
- "identifier": "cg/linkedculture"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/linkedculture",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6080",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#linkedculture",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6080"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6080/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6081",
+   "title": "public-linkedculture (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-linkedculture/",
+    "shortdesc": "public-linkedculture",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6081"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6081/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6079",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/linkedculture/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6079"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6079/groups"
+     }
+    }
+   }
+  }
+ ]
 }
