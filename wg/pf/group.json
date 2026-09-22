@@ -7,9 +7,6 @@
  "closed_date": "2016-03-19",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/pf"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/PF/"
   },
@@ -42,12 +39,91 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/pf/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/pf"
   }
  },
  "type": "working group",
  "start-date": "1997-12-19",
  "end-date": "2015-12-03",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/pf"
+ "identifier": "wg/pf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1758",
+   "title": "member-pfwg-ma-tests (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-pfwg-ma-tests/",
+    "shortdesc": "member-pfwg-ma-tests",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1758"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1758/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1784",
+   "title": "public-pfwg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-pfwg/",
+    "shortdesc": "public-pfwg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1784"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1784/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1845",
+   "title": "w3c-wai-pf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-wai-pf/",
+    "shortdesc": "w3c-wai-pf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1845"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1845/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45896",
+   "title": "pf (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/PF/wiki",
+    "shortdesc": "pf",
+    "longdesc": "Protocols and Formats Working Group Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45896"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45896/groups"
+     }
+    }
+   }
+  }
+ ]
 }
