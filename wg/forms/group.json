@@ -1,0 +1,110 @@
+{
+ "id": 32219,
+ "name": "Forms Working Group",
+ "is_closed": true,
+ "description": "The mission of the Forms Working Group is to develop specifications to cover forms on the Web, producing a system that scales from low-end devices through to the enterprise level.",
+ "shortname": "forms",
+ "closed_date": "2015-04-08",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/MarkUp/Forms/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/forms/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/forms/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/forms/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/forms/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/forms/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/forms/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/forms/charters/117"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/forms/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/forms/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/forms/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/forms"
+  }
+ },
+ "type": "working group",
+ "start-date": "2000-06-23",
+ "end-date": "2012-03-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/forms",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/304",
+   "title": "public-forms (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-forms/",
+    "shortdesc": "public-forms",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/304"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/304/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/3562",
+   "title": "public-xforms (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-xforms/",
+    "shortdesc": "public-xforms",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/3562"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/3562/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1796",
+   "title": "w3c-forms (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-forms/",
+    "shortdesc": "w3c-forms",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1796"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1796/groups"
+     }
+    }
+   }
+  }
+ ]
+}
