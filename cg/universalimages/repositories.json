@@ -1,0 +1,37 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rmd",
+  "owner": {
+   "login": "universalimages"
+  },
+  "url": "https://github.com/universalimages/rmd",
+  "homepageUrl": "https://www.w3.org/community/universalimages/",
+  "description": "An XMP schema for responsive metadata",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/universalimages"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rmd-extension",
+  "owner": {
+   "login": "universalimages"
+  },
+  "url": "https://github.com/universalimages/rmd-extension",
+  "description": "This XMP plugin for Adobe products allows editing the responsive metadata using the 'File info' dialog in Adobe Photoshop.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/universalimages"
+   ],
+   "exposed": true
+  }
+ }
+]
