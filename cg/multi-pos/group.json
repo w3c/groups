@@ -1,0 +1,113 @@
+{
+ "id": 66119,
+ "name": "Multi-technology positioning professionals Community Group",
+ "is_closed": true,
+ "creation-date": "2013-09-04",
+ "description": "The MULTI-POS CG will provide use cases, requirements, and other information, to ensure that the state of the art research is recognized in the development of global standards. The MULTI-POS CG bridges the W3C community and the MULTI-POS Marie Curie Initial Training Network.\r\n\r\n<p>The MULTI-POS CG has the following goals: 1) Identify business and technology application scenarios based on the new positioning methods; 2) Specify the key technological, scientific, and industrial elements and their relationships in the new positioning ecosystem; and 3) Identify standardization opportunities.</p>\r\n\r\n<p>The first concrete work item is a review of the current state of the art, providing a common framework of reference for future work.</p>\r\n\r\n<p>What is the benefit (for you): Meet the professionals, get the big picture, have influence on use cases and requirements, get cited.</p>",
+ "shortname": "multi-pos",
+ "closed_date": "2016-09-14",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/multi-pos/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/multi-pos/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/multi-pos/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/multi-pos/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/multi-pos/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/multi-pos/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/multi-pos"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/multi-pos",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1618",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#multi-pos",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1618"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1618/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1619",
+   "title": "public-multi-pos (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-multi-pos/",
+    "shortdesc": "public-multi-pos",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1619"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1619/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1617",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/multi-pos/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1617"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1617/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1616",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/multi-pos/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1616"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1616/groups"
+     }
+    }
+   }
+  }
+ ]
+}
