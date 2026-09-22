@@ -50,5 +50,102 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/exi"
+ "identifier": "wg/exi",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1847",
+   "title": "member-exi-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-exi-wg/",
+    "shortdesc": "member-exi-wg",
+    "longdesc": "Member WG list (where technical work happens)",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1847"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1847/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12213",
+   "title": "public-exi-comments (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-exi-comments/",
+    "shortdesc": "public-exi-comments",
+    "longdesc": "public EXI comments list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12213"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12213/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2097",
+   "title": "public-exi (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-exi/",
+    "shortdesc": "public-exi",
+    "longdesc": "public WG list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2097"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2097/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/153",
+   "title": "exi (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/XML/Group/EXI/wiki",
+    "shortdesc": "exi",
+    "longdesc": "W3C EXI WG",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/153"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/153/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/154",
+   "title": "exi-public (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/XML/EXI/wiki",
+    "shortdesc": "exi-public",
+    "longdesc": "W3C EXI WG's Public Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/154"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/154/groups"
+     }
+    }
+   }
+  }
+ ]
 }
