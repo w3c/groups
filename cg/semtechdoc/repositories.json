@@ -1,0 +1,19 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "semtechdoc",
+  "owner": {
+   "login": "semtechdoc"
+  },
+  "url": "https://github.com/semtechdoc/semtechdoc",
+  "description": "Technical Documentation for the Semantic Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/semtechdoc"
+   ],
+   "exposed": true
+  }
+ }
+]
