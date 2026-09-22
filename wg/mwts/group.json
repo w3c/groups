@@ -1,0 +1,73 @@
+{
+ "id": 40010,
+ "name": "Mobile Web Test Suites Working Group",
+ "is_closed": true,
+ "shortname": "mwts",
+ "closed_date": "2010-02-23",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2005/MWI/Tests/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/mwts/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/mwts/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/mwts/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/mwts/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/mwts/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/mwts/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/mwts/charters/243"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/mwts/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/mwts/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/mwts/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/mwts"
+  }
+ },
+ "type": "working group",
+ "start-date": "2006-12-05",
+ "end-date": "2010-02-23",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/mwts",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/3128",
+   "title": "member-mwts (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-mwts/",
+    "shortdesc": "member-mwts",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/3128"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/3128/groups"
+     }
+    }
+   }
+  }
+ ]
+}
