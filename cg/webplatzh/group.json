@@ -1,0 +1,95 @@
+{
+ "id": 97786,
+ "name": "Web Platform Chinese Community Group",
+ "is_closed": true,
+ "creation-date": "2017-03-02",
+ "description": "See the <a rel=\"nofollow\" href=\"https://www.w3.org/2018/chinese-web-ig/\">Web Chinese Interest Group</a> instead.\r\n\r\nTo facilitate focused discussion in Web Platform specifications, to gather comments and questions in Chinese about those specifications, to collect information about specific use cases in Chinese speaking region for technologies defined in those specifications, and to report the results of its activities as a group back to the relevant W3C Working Groups, as well as to the W3C membership and community.",
+ "shortname": "webplatzh",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webplatzh/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webplatzh/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webplatzh/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webplatzh/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webplatzh/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webplatzh/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webplatzh"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webplatzh",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6572",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webplatzh",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6572"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6572/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6573",
+   "title": "public-webplatzh (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webplatzh/",
+    "shortdesc": "public-webplatzh",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6573"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6573/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6571",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webplatzh/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6571"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6571/groups"
+     }
+    }
+   }
+  }
+ ]
+}
