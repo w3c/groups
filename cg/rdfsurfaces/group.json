@@ -1,16 +1,14 @@
 {
  "id": 141415,
  "name": "RDF Surfaces Community Group",
- "is_closed": false,
+ "is_closed": true,
  "creation-date": "2022-12-14",
  "description": "The RDF Surfaces sets out to create a sublanguage of Notation3 in order to implement classical first-order logic with negation in RDF as envisioned by Pat Hayes in his 2009 ISWC Invited Talk: BLOGIC",
  "shortname": "rdfsurfaces",
+ "closed_date": "2026-02-26",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/rdfsurfaces"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/rdfsurfaces/"
   },
@@ -28,9 +26,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/rdfsurfaces/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rdfsurfaces"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/rdfsurfaces",
@@ -49,24 +51,6 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/39205/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/39204",
-   "title": "internal-rdfsurfaces (Mailing List)",
-   "details": {
-    "closed": false,
-    "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-rdfsurfaces/",
-    "shortdesc": "internal-rdfsurfaces",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/39204"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/39204/groups"
      }
     }
    }
