@@ -1,15 +1,14 @@
 {
  "id": 137192,
  "name": "Nordic Web of Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-04-04",
  "description": "<p>The mission of this group is to provide a forum for discussing challenges and establishing best practices for publishing data in the Nordic region.</p>\r\n<p>The foreseen focus will be on topics like:\r\n</p><ul><li>Metadata profiles within data publishing</li>\r\n<li>Best practices for a national web of data infrastructure</li>\r\n<li>Best practices for domain specific data specifications</li>\r\n<li>How to utilize linked data principles to improve data quality and interoperability</li>\r\n</ul>\r\n<p>Practitioners in data publishing as well as anyone interested in furthering a web of data in both private and public sector are welcome to join.</p>",
  "shortname": "nordic-data",
+ "closed_date": "2024-12-10",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/nordic-data"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/nordic-data/"
   },
@@ -27,28 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/nordic-data/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/nordic-data"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/nordic-data",
  "services": [
   {
-   "href": "https://api.w3.org/services/34801",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/34802",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#nordic-data",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34802"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34802/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/34803",
-   "title": "Mailing List"
+   "title": "public-nordic-data (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-nordic-data/",
+    "shortdesc": "public-nordic-data",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34803"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34803/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/34804",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/34801",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/nordic-data/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34801"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34801/groups"
+     }
+    }
+   }
   }
  ]
 }
