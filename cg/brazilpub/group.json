@@ -1,15 +1,14 @@
 {
  "id": 100555,
  "name": "Brazilian Publishing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-06-30",
  "description": "The purpose of the Brazilian’s community group is to promote and foster  the discussions around digital publications in Brazil, stimulate the adoption of the EPUB 3.1 standard by publishers and developers.\r\n\r\nThe local group will translate W3C documents, guidelines and specifications to minimize barriers with the non-native language and help in the understanding of the standards for a growing number of people. It is also the responsibility of this group, bring questions and pertinent feedback to W3C’s Publishing Working Group.\r\n\r\nThe group will organize regular meetings and events  to mobilize more and more participants in local debates and also as a way to stimulate the EPUB 3.1 adoption by the Brazilian publishing industry.\r\n\r\nThis group will not publish original Specifications.",
  "shortname": "brazilpub",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/brazilpub"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/brazilpub/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/brazilpub/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/brazilpub"
   }
  },
- "identifier": "cg/brazilpub"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/brazilpub",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15475",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/W3CBrasil/guia-epub",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15475"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15475/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9387",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#brazilpub",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9387"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9387/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9388",
+   "title": "public-brazilpub (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-brazilpub/",
+    "shortdesc": "public-brazilpub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9388"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9388/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9386",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/brazilpub/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9386"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9386/groups"
+     }
+    }
+   }
+  }
+ ]
 }
