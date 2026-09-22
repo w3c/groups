@@ -1,0 +1,70 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cg-charter",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/cg-charter",
+  "description": "CG Charter Draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "group",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/group",
+  "description": "General information and issues on HTTPS in Local Network Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "proposals",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/proposals",
+  "description": "Concrete proposals on HTTPS for local servers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "usecases",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/usecases",
+  "description": "discussion about use cases",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ }
+]
