@@ -1,15 +1,14 @@
 {
  "id": 98377,
  "name": "Mixed Reality Service Community Group",
- "is_closed": false,
- "description": "The Mixed Reality Service Community Group will work to define an open protocol that provides a mapping between geospatial or virtual coordinates and URIs.\r\n\r\nMixed Reality Service has numerous applications in areas as varied as gaming, autonomous vehicles, health &amp; safety, and affordances for the disabled. More details can be found at <a rel=\"nofollow\" href=\"https://mixedrealitysystem.org\">mixedrealitysystem.org</a>\r\n\r\nThis group will expand upon the work <a rel=\"nofollow\" href=\"http://hyperreal.org/~mpesce/www.html\">presented at WWW1</a>, and re-introduced in a <a rel=\"nofollow\" href=\"https://docs.google.com/presentation/d/1-0Y548vLlxpIByOvIgaE2QcEPf_z_hKXs3Kj8wO5eh8/edit#slide=id.g1856b96749_1_8\">lightning talk</a> at the initial WebVR meeting in October 2016. ",
+ "is_closed": true,
+ "creation-date": "2017-03-22",
+ "description": "The Mixed Reality Service Community Group will work to define an open protocol that provides a mapping between geospatial or virtual coordinates and URIs.\r\n\r\nMixed Reality Service has numerous applications in areas as varied as gaming, autonomous vehicles, health &amp; safety, and affordances for the disabled. More details can be found at <a rel=\"nofollow\" href=\"https://mixedrealitysystem.org\">mixedrealitysystem.org</a>\r\n\r\nThis group will expand upon the work <a rel=\"nofollow\" href=\"http://hyperreal.org/~mpesce/www.html\">presented at WWW1</a>, and re-introduced in a <a rel=\"nofollow\" href=\"https://docs.google.com/presentation/d/1-0Y548vLlxpIByOvIgaE2QcEPf_z_hKXs3Kj8wO5eh8/edit#slide=id.g1856b96749_1_8\">lightning talk</a> at the initial WebVR meeting in October 2016.",
  "shortname": "mixedreality",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mixedreality"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mixedreality/"
   },
@@ -27,8 +26,124 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mixedreality/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mixedreality"
   }
  },
  "type": "community group",
- "identifier": "cg/mixedreality"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mixedreality",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6596",
+   "title": "internal-mixedreality (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-mixedreality/",
+    "shortdesc": "internal-mixedreality",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6596"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6596/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6593",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mixedreality",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6593"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6593/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6594",
+   "title": "public-mixedreality (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mixedreality/",
+    "shortdesc": "public-mixedreality",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6594"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6594/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6595",
+   "title": "public-mixedreality-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mixedreality-contrib/",
+    "shortdesc": "public-mixedreality-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6595"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6595/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6592",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mixedreality/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6592"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6592/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/7974",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/mixedreality/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7974"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7974/groups"
+     }
+    }
+   }
+  }
+ ]
 }
