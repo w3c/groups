@@ -1,15 +1,14 @@
 {
  "id": 122465,
  "name": "TNS Blockchain Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-04-07",
  "description": "A web based blockchain project to explore the use of Digital Names within existing web applications and PaaS and IaaS platforms. \r\nThe English or human language naming solution presented by Digital Names solves a big problem related to the scale-up of blockchain networks and cryptocurrency systems.\r\n\r\nOver a hundred million consumers in the globally currently use eWallets. There are over 100 million Crypto trading accounts registered on the worlds crypto exchanges. All currently use Public Crypto Keys for transaction settlement.\r\n\r\nNew companies and individuals entering the emerging blockchain / crypto financial system for the first time frequently find it difficult to understand how to easily send and receive money from eWallets. To regular people or mainstream users the precise steps involved with sending and receiving digital money is currently limiting usage of the blockchain. It is confusing and intimidating, and creates insecurity of inputting keys wrong and losing the value of a transaction.\r\n\r\nDigital Names simplifies the remembering, typing and everyday usage of digital wallets for crypto and kind of crypto payments or receipts into or out of a Digital Wallet.",
  "shortname": "tnsblockchain",
+ "closed_date": "2023-02-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/tnsblockchain"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/tnsblockchain/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/tnsblockchain/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/tnsblockchain"
   }
  },
- "identifier": "cg/tnsblockchain"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/tnsblockchain",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25797",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#tnsblockchain",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25797"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25797/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25798",
+   "title": "public-tnsblockchain (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tnsblockchain/",
+    "shortdesc": "public-tnsblockchain",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25798"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25798/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25796",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/tnsblockchain/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25796"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25796/groups"
+     }
+    }
+   }
+  }
+ ]
 }
