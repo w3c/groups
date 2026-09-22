@@ -32,7 +32,82 @@
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/graphql-rdf"
+ "identifier": "cg/graphql-rdf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25768",
+   "title": "GitHub Repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/graphql-rdf",
+    "shortdesc": "GitHub Repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25768"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25768/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/19043",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#graphql-rdf",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/19043"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/19043/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/19044",
+   "title": "public-graphql-rdf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-graphql-rdf/",
+    "shortdesc": "public-graphql-rdf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/19044"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/19044/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/19042",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/graphql-rdf/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/19042"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/19042/groups"
+     }
+    }
+   }
+  }
+ ]
 }
