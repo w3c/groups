@@ -1,0 +1,49 @@
+{
+ "id": 43393,
+ "name": "Japanese SVG Task Force",
+ "is_closed": true,
+ "shortname": "svg-jp",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/Graphics/SVG/IG/wiki/Japanese_SVG_Task_Force"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/svg-jp/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/svg-jp/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/svg-jp/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/svg-jp"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/svg-jp",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/280",
+   "title": "public-svg-ig-jp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-svg-ig-jp/",
+    "shortdesc": "public-svg-ig-jp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/280"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/280/groups"
+     }
+    }
+   }
+  }
+ ]
+}
