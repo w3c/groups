@@ -1,15 +1,14 @@
 {
  "id": 63978,
  "name": "Web App Source Code Protection Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-06-05",
  "description": "The goal of this community group is to explore solutions for protecting web app source codes.\r\nIt is well-known that web page source codes are visible to the public due to the openness of the Internet and the W3C standards. \r\nWith the advent of HTML5, the web apps become popular, especially the mobile web apps. Web apps can be classified as either Hosted App or Packaged App. The source code of Packaged Apps (such as the apps in Firefox OS or Tizen OS) are installed and running locally. Users can easily view the source code. Similarly front end source code of Hosted App can also be easily seen by anyone.\r\nIn this case, the publicity of source codes becomes a problem. Because web developers never hope their web apps are easily copied by others.\r\nTherefore, this group intends to find mechanisms of code protection for web apps, especially for packaged apps, making the source codes (e.g. HTML, CSS, JavaScript), as well as relevant resource files (image, audio and video, etc.) cannot be seen easily. Thus, the interests of web developers will be protected.",
  "shortname": "webappscp",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webappscp"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webappscp/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webappscp/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webappscp"
   }
  },
- "identifier": "cg/webappscp"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webappscp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1511",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webappscp",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1511"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1511/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1512",
+   "title": "public-webappscp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webappscp/",
+    "shortdesc": "public-webappscp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1512"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1512/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1510",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webappscp/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1510"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1510/groups"
+     }
+    }
+   }
+  }
+ ]
 }
