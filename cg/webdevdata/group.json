@@ -1,15 +1,14 @@
 {
  "id": 59183,
  "name": "Web Dev Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-11-14",
  "description": "This group intends to analyse web development data from around the world and publish monthly reports. By leveraging open source tools, we hope to create an open source project to do this.\r\n\r\nThis group does not plan to publish specifications that require patent commitments.",
  "shortname": "webdevdata",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webdevdata"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webdevdata/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webdevdata/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webdevdata"
   }
  },
- "identifier": "cg/webdevdata"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webdevdata",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15509",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/Webdevdata",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15509"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15509/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1336",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webdevdata",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1336"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1336/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1337",
+   "title": "public-webdevdata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webdevdata/",
+    "shortdesc": "public-webdevdata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1337"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1337/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1335",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webdevdata/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1335"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1335/groups"
+     }
+    }
+   }
+  }
+ ]
 }
