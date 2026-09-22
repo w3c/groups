@@ -51,5 +51,43 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/annotation"
+ "identifier": "wg/annotation",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2698",
+   "title": "member-annotation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-annotation/",
+    "shortdesc": "member-annotation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2698"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2698/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2941",
+   "title": "public-annotation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-annotation/",
+    "shortdesc": "public-annotation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2941"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2941/groups"
+     }
+    }
+   }
+  }
+ ]
 }
