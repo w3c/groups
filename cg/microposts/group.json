@@ -1,15 +1,14 @@
 {
  "id": 54696,
  "name": "Microposts Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-04-24",
  "description": "The purpose of this group is to connect the multidisciplinary (Social Science, Semantic Web, Information Retrieval, ...) research community interested in the study and treatment of low-effort user generated content on the Web (tweets, checkins, status messages, likes,...), called microposts. The objective of this community is to develop ways to leverage this massively growing, yet informationally poor source of data on the Web for different practical use cases.\r\n\r\nThis group will not publish specifications. ",
  "shortname": "microposts",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/microposts"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/microposts/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/microposts/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/microposts"
   }
  },
- "identifier": "cg/microposts"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/microposts",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1123",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#microposts",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1123"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1123/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1124",
+   "title": "public-microposts (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-microposts/",
+    "shortdesc": "public-microposts",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1124"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1124/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1122",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/microposts/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1122"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1122/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1121",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/microposts/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1121"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1121/groups"
+     }
+    }
+   }
+  }
+ ]
 }
