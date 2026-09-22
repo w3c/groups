@@ -1,16 +1,14 @@
 {
  "id": 143541,
  "name": "Human Centric AI Community Group",
- "is_closed": false,
+ "is_closed": true,
  "creation-date": "2023-04-04",
- "description": "The W3C Human Centric AI Groups mission is to investigate, articulate, refine, consider and respond to the various safety and human rights related implications of Web connected online systems; and to define recommendations, and useful tools, to respond to these challenges via any applicable Human Centric AI compatible system. \r\n\r\nThis group may produce technical specifications.",
+ "description": "The W3C Human Centric AI Groups mission is to investigate, articulate, refine, consider and respond to the various safety and human rights related implications of Web connected online systems; and to define recommendations, and useful tools, to respond to these challenges via any applicable Human Centric AI compatible system. \n\nThis group may produce technical specifications.",
  "shortname": "humancentricai",
+ "closed_date": "2026-05-21",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/humancentricai"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/humancentricai/"
   },
@@ -28,9 +26,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/humancentricai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/humancentricai"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/humancentricai",
