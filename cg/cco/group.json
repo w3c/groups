@@ -1,0 +1,95 @@
+{
+ "id": 123147,
+ "name": "Cyber Controls Ontology Community Group",
+ "is_closed": true,
+ "creation-date": "2020-05-06",
+ "description": "The goal of this group is to develop a mechanism to organize current and future cybersecurity reference information into a knowledge graph that that conforms to a future Cyber Controls RDF Ontology.  The ultimate goal of this effort is to enable organizations across industries  to achieve their cybersecurity asset governance goals.",
+ "shortname": "cco",
+ "closed_date": "2020-05-14",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/cco/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cco/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cco/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cco/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cco/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cco/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cco"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cco",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25821",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cco",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25821"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25821/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25822",
+   "title": "public-cco (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cco/",
+    "shortdesc": "public-cco",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25822"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25822/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25820",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cco/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25820"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25820/groups"
+     }
+    }
+   }
+  }
+ ]
+}
