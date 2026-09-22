@@ -1,15 +1,14 @@
 {
  "id": 76940,
  "name": "Extensible Data Model Declaration Language for Education Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-03-10",
  "description": "XDMDL is proposed as a high level schema language that will allow people to define, share, combine, reference and profile data models. The proposal has grown out of a requirement recognised within the education community working in the SCORM and xAPI traditions, and it is intended to pilot the specification by demonstrating how it can help improve data interoperability between software systems designed to manage and deliver learning activities.",
  "shortname": "xdmdl",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/xdmdl"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/xdmdl/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/xdmdl/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xdmdl"
   }
  },
- "identifier": "cg/xdmdl"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/xdmdl",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5947",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#xdmdl",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5947"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5947/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5948",
+   "title": "public-xdmdl (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-xdmdl/",
+    "shortdesc": "public-xdmdl",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5948"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5948/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5946",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/xdmdl/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5946"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5946/groups"
+     }
+    }
+   }
+  }
+ ]
 }
