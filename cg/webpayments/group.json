@@ -1,0 +1,113 @@
+{
+ "id": 47952,
+ "name": "Web Payments Community Group",
+ "is_closed": true,
+ "creation-date": "2011-06-29",
+ "description": "What follows is the original mission statement.\r\n\r\nThe purpose of the Web Payments Community Group is to discuss, research,\r\nprototype, and create working systems that enable Universal Payment for\r\nthe Web. The goal is to create a safe, decentralized system and a set of\r\nopen, patent and royalty-free specifications that allow people on the\r\nWeb to send each other money as easily as they exchange instant messages\r\nand e-mail today. The group will focus on transforming the way we reward\r\neach other on the Web as well as how we organize financial resources to\r\nenhance our personal lives and pursue endeavors that improve upon the\r\nhuman condition.",
+ "shortname": "webpayments",
+ "closed_date": "2020-12-18",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webpayments/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webpayments/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webpayments/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webpayments/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webpayments/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webpayments/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webpayments"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webpayments",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15467",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/web-payments",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15467"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15467/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/353",
+   "title": "public-webpayments (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webpayments/",
+    "shortdesc": "public-webpayments",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/353"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/353/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/344",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webpayments/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/344"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/344/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/343",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/webpayments/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/343"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/343/groups"
+     }
+    }
+   }
+  }
+ ]
+}
