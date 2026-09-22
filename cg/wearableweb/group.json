@@ -1,15 +1,14 @@
 {
  "id": 77929,
  "name": "Wearable Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-04-24",
  "description": "User devices are getting smaller, and more of them are now wearable: smart glasses, smart watches, and smart clothing are all working their way into our lives and onto our bodies. These devices are online, web-accessible, and increasingly interconnected. \r\n\r\nThe desirable mission of this group is to investigate the technical standardization issues for web technology on wearable devices and IoWT(Internet of Wearable Things) environment. ",
  "shortname": "wearableweb",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/wearableweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/wearableweb/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/wearableweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wearableweb"
   }
  },
- "identifier": "cg/wearableweb"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/wearableweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6029",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#wearableweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6029"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6029/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6030",
+   "title": "public-wearableweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wearableweb/",
+    "shortdesc": "public-wearableweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6030"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6030/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6028",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/wearableweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6028"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6028/groups"
+     }
+    }
+   }
+  }
+ ]
 }
