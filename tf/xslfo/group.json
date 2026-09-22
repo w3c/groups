@@ -1,0 +1,30 @@
+{
+ "id": 35694,
+ "name": "XSL/FO Task Force",
+ "is_closed": true,
+ "shortname": "xslfo",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/Style/XSL/Group/FO.html"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/xslfo/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/xslfo/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/xslfo/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/xslfo"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/xslfo",
+ "group-type": "tf",
+ "services": []
+}
