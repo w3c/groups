@@ -1,15 +1,14 @@
 {
  "id": 61210,
  "name": "Haptic Interaction on the Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-02-19",
  "description": "Haptic feedback can offer significant benefits in terms of accessibility and usability of touch-based interfaces.  Many mobile devices, such as smart phones and tablets, incorporate built in vibration feedback. The W3C Vibration API [1] will allow Web application developers to utilize vibration effects via Javascript and some have previously proposed the addition of haptic properties to CSS [2] [3].\r\n\r\nAs new haptic technologies are expected to emerge in the near term, now is the time to bring interested parties from the research, user, and vendor communities together to examine and discuss standardization, accessibility, authoring, and user experience. \r\n\r\n[1] http://www.w3.org/TR/vibration/\r\n\r\n[2] https://lists.webkit.org/pipermail/webkit-dev/2010-June/013334.html\r\n\r\n[3] http://chrisnager.com/touchable-textures-with-css-can-you-feel-me/",
  "shortname": "webhaptics",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webhaptics"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webhaptics/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webhaptics/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webhaptics"
   }
  },
- "identifier": "cg/webhaptics"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webhaptics",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1406",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webhaptics",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1406"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1406/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1407",
+   "title": "public-webhaptics (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webhaptics/",
+    "shortdesc": "public-webhaptics",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1407"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1407/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1405",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webhaptics/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1405"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1405/groups"
+     }
+    }
+   }
+  }
+ ]
 }
