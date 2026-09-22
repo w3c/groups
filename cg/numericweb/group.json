@@ -1,0 +1,95 @@
+{
+ "id": 70386,
+ "name": "Metric Spaces on the Web Community Group",
+ "is_closed": true,
+ "creation-date": "2014-03-21",
+ "description": "<p>The aim of this group is preparation for a future web standard for worldwide valid searchable metric spaces, so that these spaces can be defined by all domain name owners to all interesting topics.</p>",
+ "shortname": "numericweb",
+ "closed_date": "2016-04-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/numericweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/numericweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/numericweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/numericweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/numericweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/numericweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/numericweb"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/numericweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1997",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#numericweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1997"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1997/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1998",
+   "title": "public-numericweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-numericweb/",
+    "shortdesc": "public-numericweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1998"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1998/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1996",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/numericweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1996"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1996/groups"
+     }
+    }
+   }
+  }
+ ]
+}
