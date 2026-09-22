@@ -1,15 +1,14 @@
 {
  "id": 76935,
  "name": "Exposing IEEE LOM metadata as Linked Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-03-10",
  "description": "This community recommends an approach for exposing IEEE Learning Object Metadata (LOM), a metadata standard for educational contents, as Linked Data. It is intended as a bridge for linkage of educational metadata into Linked Open Data (LOD). This community aims to describe a mapping of IEEE LOM elements to RDF based on Linked Data principles.",
  "shortname": "lom2ld",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/lom2ld"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/lom2ld/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/lom2ld/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/lom2ld"
   }
  },
- "identifier": "cg/lom2ld"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/lom2ld",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5942",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#lom2ld",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5942"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5942/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5943",
+   "title": "public-lom2ld (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-lom2ld/",
+    "shortdesc": "public-lom2ld",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5943"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5943/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5941",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/lom2ld/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5941"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5941/groups"
+     }
+    }
+   }
+  }
+ ]
 }
