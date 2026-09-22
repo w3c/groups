@@ -1,15 +1,14 @@
 {
  "id": 102898,
  "name": "Vocabularies for big data analysis Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-10-18",
  "description": "This group discusses semantic ontologies for the Big Data space.  It is supported initially by the H2020 Big Data Europe project.  \r\nThe mission of this group is to cooperate, discuss and agree on semantic vocabularies to support applications in the domain of big data processing.  It is a conscious choice to initiate one forum to discuss and agree on various new vocabularies and/or their amendments.  With this one group we hope to reach a broader public.  The different ontologies have a common aim: describe tools such that they can be reused in semantic empowered applications for big data processing.  At launch this will include ontologies for the Docker ecosystem and for Har-files.  The former is used for setting up stacks in the Big Data Europe project, the latter for analysing HTTP requests. ",
  "shortname": "bigdata-tools",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/bigdata-tools"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/bigdata-tools/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/bigdata-tools/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bigdata-tools"
   }
  },
- "identifier": "cg/bigdata-tools"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bigdata-tools",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12223",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bigdata-tools",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12223"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12223/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12224",
+   "title": "public-bigdata-tools (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bigdata-tools/",
+    "shortdesc": "public-bigdata-tools",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12224"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12224/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12222",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bigdata-tools/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12222"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12222/groups"
+     }
+    }
+   }
+  }
+ ]
 }
