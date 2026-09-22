@@ -1,15 +1,14 @@
 {
  "id": 152802,
  "name": "Update robots.txt standards Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2024-02-02",
  "description": "Robots.txt is currently based on opting out of what you do not want your website to be a part of. \r\n\r\nThis is hard to maintain (almost a full time job right now) if you do not wish for your websites content to be applied for e.g. training AI, be a part of market research (e.g. price robots), to be a part of non-search engine databases and more.\r\n\r\nThis proposal is to update what type of instructions robots.txt should support to rather be treated as an opt-in, where you can give instructions based on intent of robots rather than a wildcard or in granular detail.\r\n\r\nExample: \r\nAgent-group: searchengines\r\n\r\nApplies to all robots that seeks to update, process or maintain websites for search engine databases. Does not grant permission to apply scraped data for AI purposes (this should have its own Agent-group).\r\n\r\nAlso, the absence of instructions should be treated as not having opted in, and for robots working on behalf of AI, there might need to be additional instructions (e.g. max-snippet and if you require a citation if your content is applied to provide an answer).",
  "shortname": "robotstxt",
+ "closed_date": "2024-12-10",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/robotstxt"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/robotstxt/"
   },
@@ -27,28 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/robotstxt/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/robotstxt"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/robotstxt",
  "services": [
   {
-   "href": "https://api.w3.org/services/43865",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/43866",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#robotstxt",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43866"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43866/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43867",
-   "title": "Mailing List"
+   "title": "public-robotstxt (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-robotstxt/",
+    "shortdesc": "public-robotstxt",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43867"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43867/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/43868",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43865",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/robotstxt/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43865"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43865/groups"
+     }
+    }
+   }
   }
  ]
 }
