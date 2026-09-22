@@ -1,0 +1,28 @@
+{
+ "id": 70637,
+ "name": "HTML Accessibility Coordination Task Force",
+ "is_closed": true,
+ "creation-date": "2014-04-01",
+ "shortname": "html-a11y-tf",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/html-a11y-tf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/html-a11y-tf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/html-a11y-tf/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/html-a11y-tf"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/html-a11y-tf",
+ "group-type": "tf",
+ "services": []
+}
