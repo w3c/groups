@@ -1,15 +1,14 @@
 {
  "id": 61718,
  "name": "Open Government Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-03-08",
  "description": "This group's mission is to discuss and prepare data and API specifications relating to open government information, which may include:\r\n\r\n* people, such as legislators \r\n* organizations, such as legislatures or committees\r\n* people's positions within organizations\r\n* areas, such as electoral districts\r\n* events, such as elections\r\n* documents, such as bills or agendas\r\n* speeches, such as those given by legislators in legislatures\r\n* votes\r\n\r\nThe group will base its work on existing standards as much as possible, and re-use existing terms (classes and properties) wherever appropriate.\r\n\r\nThe group may define various serializations of the specifications, including but not limited to RDF and JSON.\r\n\r\nThe group will seek consensus around, and support for, these specifications which may then be brought to an appropriate Working Group to advance a specification from draft to standard.\r\n\r\nThe group will coordinate as appropriate with the Web Schemas Task Force of the Semantic Web Interest Group and other relevant groups within the W3C.\r\n",
  "shortname": "opengov",
+ "closed_date": "2023-03-28",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opengov"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opengov/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opengov/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opengov"
   }
  },
- "identifier": "cg/opengov"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opengov",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1444",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opengov",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1444"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1444/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1445",
+   "title": "public-opengov (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opengov/",
+    "shortdesc": "public-opengov",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1445"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1445/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1443",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opengov/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1443"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1443/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1442",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/opengov/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1442"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1442/groups"
+     }
+    }
+   }
+  }
+ ]
 }
