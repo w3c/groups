@@ -1,0 +1,150 @@
+{
+ "id": 48506,
+ "name": "Oil, Gas and Chemicals Community Group",
+ "is_closed": true,
+ "creation-date": "2011-08-09",
+ "description": "The Oil, Gas and Chemicals Community Group is intended to study and possibly demonstrate applications of Semantic Web technology to business issues in those industries.  An example of the topics the Group could focus on is information describing the equipment used in major capital projects, with an eye to integration of that information with other major parts of the value chain such as production, maintenance and facilities engineering information systems.  Another possibility is open publishing of catalog or metadata records according to published ontologies so that the published records can be queried, aggregated and analyzed in order to improve the efficiency and intelligence of searching for relevant resources.",
+ "shortname": "oilgaschem",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/oilgaschem/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/oilgaschem/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/oilgaschem/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/oilgaschem/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/oilgaschem/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/oilgaschem/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/oilgaschem"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/oilgaschem",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/462",
+   "title": "internal-oilgaschem (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-oilgaschem/",
+    "shortdesc": "internal-oilgaschem",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/462"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/462/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/459",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#oilgaschem",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/459"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/459/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/460",
+   "title": "public-oilgaschem (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-oilgaschem/",
+    "shortdesc": "public-oilgaschem",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/460"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/460/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/458",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/oilgaschem/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/458"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/458/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/457",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/oilgaschem/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/457"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/457/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/927",
+   "title": "Internal Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/oilgaschem/internal/wiki/",
+    "shortdesc": "Internal Wiki",
+    "longdesc": "Oil, Gas and Chemicals Business Group Internal Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/927"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/927/groups"
+     }
+    }
+   }
+  }
+ ]
+}
