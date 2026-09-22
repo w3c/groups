@@ -51,5 +51,62 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/poe"
+ "identifier": "wg/poe",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7847",
+   "title": "member-poe-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-poe-wg/",
+    "shortdesc": "member-poe-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7847"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7847/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6292",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2016/poe/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6292"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6292/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6293",
+   "title": "public-poe-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-poe-wg/",
+    "shortdesc": "public-poe-wg",
+    "longdesc": "Public mailing list of the Permissions and Obligations Expression Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6293"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6293/groups"
+     }
+    }
+   }
+  }
+ ]
 }
