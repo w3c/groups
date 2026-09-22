@@ -1,15 +1,14 @@
 {
  "id": 53540,
  "name": "User Identity on the Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-03-14",
  "description": "Currently, more and more services are created on the web and require information about you, me, all of us. Therefore, users have to give away a lot of information about themselves to many different services. The point is that the users lose control of their identity on the web, by filling a lot of forms (e.g., through subscriptions).\r\n\r\nPrivacy on the Internet is extremely important and must remain. Personal information is used by services we, sometimes, don't even know about, and it is a real problem.\r\n\r\nThe aim of this group would be to think about new ways to identify individuals over the internet using trusted web based identities embedded directly into the core protocols of the web. At the same time it is important to maintain equilibrium between total privacy and providing information when needed, which means, when the user wants to.",
  "shortname": "w3id",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/w3id"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/w3id/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/w3id/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/w3id"
   }
  },
- "identifier": "cg/w3id"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/w3id",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1005",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#w3id",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1005"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1005/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1006",
+   "title": "public-w3id (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-w3id/",
+    "shortdesc": "public-w3id",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1006"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1006/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1004",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/w3id/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1004"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1004/groups"
+     }
+    }
+   }
+  }
+ ]
 }
