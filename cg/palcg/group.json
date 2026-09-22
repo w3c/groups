@@ -1,0 +1,95 @@
+{
+ "id": 96716,
+ "name": "Public Alert Community Group",
+ "is_closed": true,
+ "creation-date": "2017-02-02",
+ "description": "The Public Alert CG aims to establish specifications for a regional or global network that can send urgent information to any connected device. PALCG will improve upon US's WEA and intends to implement a similar system globally.",
+ "shortname": "palcg",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/palcg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/palcg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/palcg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/palcg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/palcg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/palcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/palcg"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/palcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6507",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#palcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6507"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6507/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6508",
+   "title": "public-palcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-palcg/",
+    "shortdesc": "public-palcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6508"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6508/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6506",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/palcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6506"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6506/groups"
+     }
+    }
+   }
+  }
+ ]
+}
