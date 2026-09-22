@@ -1,0 +1,95 @@
+{
+ "id": 103494,
+ "name": "Web Commerce Community Group",
+ "is_closed": true,
+ "creation-date": "2017-11-20",
+ "description": "The mission of the Web Commerce Community Group is to support the mission of the Web Commerce Interest Group by incubating technologies and specifications that may be transitioned to the W3C Standards Track.",
+ "shortname": "web-commerce",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/web-commerce/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/web-commerce/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/web-commerce/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/web-commerce/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/web-commerce/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/web-commerce/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-commerce"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/web-commerce",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12261",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#web-commerce",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12261"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12261/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12262",
+   "title": "public-web-commerce (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-commerce/",
+    "shortdesc": "public-web-commerce",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12262"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12262/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12260",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/web-commerce/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12260"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12260/groups"
+     }
+    }
+   }
+  }
+ ]
+}
