@@ -1,15 +1,14 @@
 {
  "id": 67885,
  "name": "SVG Streaming Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-11-15",
  "description": "This group will work on developing guidelines and possible extensions to the SVG language enabling the authoring of streamable SVG content, in particular for the creation of streamable cartoon animations, synchronized graphically-rich karaoke, or synchronized graphical overlays on top of video streams.",
  "shortname": "svgstreaming",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/svgstreaming"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/svgstreaming/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/svgstreaming/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/svgstreaming"
   }
  },
- "identifier": "cg/svgstreaming"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/svgstreaming",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1753",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#svgstreaming",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1753"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1753/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1754",
+   "title": "public-svgstreaming (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-svgstreaming/",
+    "shortdesc": "public-svgstreaming",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1754"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1754/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1752",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/svgstreaming/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1752"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1752/groups"
+     }
+    }
+   }
+  }
+ ]
 }
