@@ -1,15 +1,14 @@
 {
  "id": 143005,
  "name": "Data-Centric Digital Rights (DCDR) Framework Community Group",
- "is_closed": false,
- "description": "Data-Centric Digital Rights (DCDR), is a framework for technologists composed of Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as NextGen Rights Defenders.",
+ "is_closed": true,
+ "creation-date": "2023-03-10",
+ "description": "<p>Data-Centric Digital Rights (DCDR), is a framework for technologists composed of Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as NextGen Rights Defenders.</p>",
  "shortname": "dcdr-framework",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dcdr-framework"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dcdr-framework/"
   },
@@ -27,37 +26,43 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dcdr-framework/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dcdr-framework"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/dcdr-framework",
  "services": [
   {
-   "href": "https://api.w3.org/services/40719",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/40720",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/40721",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/40722",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40732",
+   "title": "Documentation (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://docs.theiofoundation.org/the-io-foundation/data-centric-digital-rights",
+    "shortdesc": "Documentation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40732"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40732/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40729",
-   "title": "Version Control",
+   "title": "GitHub (Version Control)",
    "details": {
-    "type": "repository",
-    "link": "https://TIOF.Click/DCDRFrameworkRepo",
-    "shortdesc": "GitHub",
-    "longdesc": "GitHub",
-    "external": true,
     "closed": false,
+    "type": "repository",
+    "link": "https://github.com/TheIOFoundation/DCDR",
+    "shortdesc": "GitHub",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/40729"
@@ -69,16 +74,58 @@
    }
   },
   {
-   "href": "https://api.w3.org/services/40730",
-   "title": "Other"
+   "href": "https://api.w3.org/services/40720",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dcdr-framework",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40720"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40720/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/40731",
-   "title": "Twitter"
+   "href": "https://api.w3.org/services/40721",
+   "title": "public-dcdr-framework (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dcdr-framework/",
+    "shortdesc": "public-dcdr-framework",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40721"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40721/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/40732",
-   "title": "Other"
+   "href": "https://api.w3.org/services/40719",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dcdr-framework/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40719"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40719/groups"
+     }
+    }
+   }
   }
  ]
 }
