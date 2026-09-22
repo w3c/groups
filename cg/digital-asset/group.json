@@ -1,15 +1,14 @@
 {
  "id": 92127,
  "name": "Blockchain Digital Assets Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-07-07",
  "description": "The group's mission is to discuss and eventually create and propose Web Specifications for creating and using Digital Assets on a Blockchain. The groups primary activities will be to start discussions with regards to use cases of digital assets on blockchains and identify the issues that we have now. Eventually, the group will publish technical thought papers on Digital Assets on Blockchains and eventually produce deliverables like sample codes, use cases, proof of concepts, etc. in order for this community group to become a W3C Working Group to propose technical specifications related to creating and using Digital Assets on Blockchains.\r\n\r\nThe ideal members that should join this group are those who has skills in Web standards and have interests in Blockchain technologies especially in the creation and using of digital assets on Blockchains.",
  "shortname": "digital-asset",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/digital-asset"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/digital-asset/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/digital-asset/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/digital-asset"
   }
  },
- "identifier": "cg/digital-asset"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/digital-asset",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6390",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#digital-asset",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6390"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6390/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6391",
+   "title": "public-digital-asset (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digital-asset/",
+    "shortdesc": "public-digital-asset",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6391"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6391/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6389",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/digital-asset/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6389"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6389/groups"
+     }
+    }
+   }
+  }
+ ]
 }
