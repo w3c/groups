@@ -1,15 +1,14 @@
 {
  "id": 61424,
  "name": "VoiceXML Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-02-27",
  "description": "The mission of this group is to bring together voice application developers interested in VoiceXML. This group will not produce specifications, but will discuss use cases that may be recommended to the VoiceXML Working Group. Of particular interest will be use of VoiceXML for mobile applications. ",
  "shortname": "vxmlcg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/vxmlcg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/vxmlcg/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/vxmlcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/vxmlcg"
   }
  },
- "identifier": "cg/vxmlcg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/vxmlcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1432",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#vxmlcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1432"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1432/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1433",
+   "title": "public-vxmlcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-vxmlcg/",
+    "shortdesc": "public-vxmlcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1433"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1433/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1431",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/vxmlcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1431"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1431/groups"
+     }
+    }
+   }
+  }
+ ]
 }
