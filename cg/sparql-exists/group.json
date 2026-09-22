@@ -1,15 +1,14 @@
 {
  "id": 91978,
  "name": "SPARQL Maintenance (EXISTS) Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-07-01",
  "description": "The \"SPARQL Maintenance (EXISTS)\" Community Group is a forum to discuss and address problems with the \"EXISTS\" feature in SPARQL 1.1.\r\n\r\nThe <a rel=\"nofollow\" href=\"https://www.w3.org/TR/sparql11-overview/\">SPARQL 1.1 suite of specifications</a> and the <a rel=\"nofollow\" href=\"https://www.w3.org/2009/sparql/docs/tests/\">SPARQL 1.1 test suite</a> are frozen. A process exists to record errata and that will be one input to any working group chartered to revise SPARQL.\r\n\r\nIn the meantime, SPARQL is being used in real-work systems in industry and public-sector. The user community expects a high degree of conformance across implementations.\r\n\r\nThe EXISTS feature has been found to be problematic. This feature is used by the <a rel=\"nofollow\" href=\"https://www.w3.org/2014/data-shapes/\">RDF Data Shapes Working Group</a>.\r\n\r\nThis community group will create CG Notes and accompanying test suites to describe one or more improvements with an emphasis on maintaining compatibility.\r\n\r\nThis group is not producing specifications.\r\n\r\nAny tests produced by the will submitted to the <a rel=\"nofollow\" href=\"https://www.w3.org/community/rdf-tests/\">RDF Test Suite Curation CG</a> for long-term stewardship.\r\n",
  "shortname": "sparql-exists",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sparql-exists"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sparql-exists/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sparql-exists/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sparql-exists"
   }
  },
- "identifier": "cg/sparql-exists"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/sparql-exists",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15492",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/sparql-exists",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15492"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15492/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6380",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sparql-exists",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6380"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6380/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6381",
+   "title": "public-sparql-exists (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sparql-exists/",
+    "shortdesc": "public-sparql-exists",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6381"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6381/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6379",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sparql-exists/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6379"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6379/groups"
+     }
+    }
+   }
+  }
+ ]
 }
