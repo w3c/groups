@@ -1,0 +1,19 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "metachromium",
+  "owner": {
+   "login": "3D-FOSS-Web-Development-Community-Group"
+  },
+  "url": "https://github.com/3D-FOSS-Web-Development-Community-Group/metachromium",
+  "description": "Chromium for WebXR AR-in-VR overlays",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/foss-3d"
+   ],
+   "exposed": true
+  }
+ }
+]
