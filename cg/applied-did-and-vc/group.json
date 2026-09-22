@@ -1,15 +1,14 @@
 {
  "id": 140390,
  "name": "Decentralized Identifier and Verifiable Credentials Applications Community Group",
- "is_closed": false,
- "description": "Decentralized Identifier and Verifiable Credentials Applications Community Group follows below charter:\r\n\r\n\r\n1. Promote open, focussed, fair, rich discussions and collaboration towards application of DIDs and VCs in global public and private domains.\r\n\r\n2. Is guided by various W3C Working and Interest Groups, and collaborates with various Industry Implementors for use of DIDs and VCs in Web, IOT, and Edge computing networks.\r\n\r\n3. Publishes unbiased best practices and reference implementations for easy standards-based adoption and application development.\r\n\r\n4. Collect Questions and Discussion Topics, conduct knowledge sharing sessions and publish reports and minutes of such sessions.",
+ "is_closed": true,
+ "creation-date": "2022-10-11",
+ "description": "<p>Decentralized Identifier and Verifiable Credentials Applications Community Group follows below charter:</p>\r\n\r\n<ol>\r\n<li> Promote open, focussed, fair, rich discussions and collaboration towards application of DIDs and VCs in global public and private domains.</li>\r\n\r\n<li>Is guided by various W3C Working and Interest Groups, and collaborates with various Industry Implementors for use of DIDs and VCs in Web, IOT, and Edge computing networks.</li>\r\n\r\n<li>Publishes unbiased best practices and reference implementations for easy standards-based adoption and application development.</li>\r\n\r\n<li>Collect Questions and Discussion Topics, conduct knowledge sharing sessions and publish reports and minutes of such sessions.</li>\r\n</ol>",
  "shortname": "applied-did-and-vc",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/applied-did-and-vc"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/applied-did-and-vc/"
   },
@@ -27,26 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/applied-did-and-vc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/applied-did-and-vc"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/applied-did-and-vc",
  "services": [
   {
-   "href": "https://api.w3.org/services/39178",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/39179",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#applied-did-and-vc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39179"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39179/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/39180",
-   "title": "Mailing List"
+   "title": "public-applied-did-and-vc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-applied-did-and-vc/",
+    "shortdesc": "public-applied-did-and-vc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39180"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39180/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/39181",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/39178",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/applied-did-and-vc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39178"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39178/groups"
+     }
+    }
+   }
   }
  ]
 }
