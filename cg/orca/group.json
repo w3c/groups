@@ -1,0 +1,113 @@
+{
+ "id": 65081,
+ "name": "ORCA - Object-RTC API Community Group",
+ "is_closed": true,
+ "creation-date": "2013-07-24",
+ "description": "See the <a href=\"https://www.w3.org/community/ortc/\">ORTC CG</a> instead.\r\n\r\nA group of like-minded individuals that are interested in the Object-RTC API model for WebRTC. It's likely these individuals or organizations are also taking part in the IETF RTCWEB and W3C WebRTC working group discussions.",
+ "shortname": "orca",
+ "closed_date": "2014-03-17",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/orca/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/orca/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/orca/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/orca/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/orca/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/orca/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/orca"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/orca",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1567",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#orca",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1567"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1567/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1568",
+   "title": "public-orca (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-orca/",
+    "shortdesc": "public-orca",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1568"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1568/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1569",
+   "title": "public-orca-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-orca-contrib/",
+    "shortdesc": "public-orca-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1569"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1569/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1566",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/orca/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1566"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1566/groups"
+     }
+    }
+   }
+  }
+ ]
+}
