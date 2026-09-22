@@ -1,15 +1,14 @@
 {
  "id": 98033,
  "name": "Physical Ledger Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-03-10",
  "description": "The initial mission of the Physical Ledger community group is to develop a Distributed Ledger Technology (DLT) that allows physical IoT devices to create, disseminate and store transactional data using the web technologies. The group develops a technical specification and produce sample codes.  The ideal members are those who has skills in Web technologies and have interests in the IoT technologies.",
  "shortname": "physical-ledger",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/physical-ledger"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/physical-ledger/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/physical-ledger/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/physical-ledger"
   }
  },
- "identifier": "cg/physical-ledger"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/physical-ledger",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6588",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#physical-ledger",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6588"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6588/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6589",
+   "title": "public-physical-ledger (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-physical-ledger/",
+    "shortdesc": "public-physical-ledger",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6589"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6589/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6587",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/physical-ledger/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6587"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6587/groups"
+     }
+    }
+   }
+  }
+ ]
 }
