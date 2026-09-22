@@ -1,15 +1,14 @@
 {
  "id": 118662,
  "name": "Business Data APIs and Interchange Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2019-10-21",
  "description": "Today, transmission of business data between software currently happens in the EDI format.  This format is confusing, unreadable, and not publicly published.  Many implementations are custom and involve high maintenance costs.  The goal of this group is to define standards for transmission of various business data in a public, extensible, and humanly readable manner. ",
  "shortname": "businessdata",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/businessdata"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/businessdata/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/businessdata/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/businessdata"
   }
  },
- "identifier": "cg/businessdata"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/businessdata",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17350",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#businessdata",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17350"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17350/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17351",
+   "title": "public-businessdata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-businessdata/",
+    "shortdesc": "public-businessdata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17351"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17351/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17349",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/businessdata/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17349"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17349/groups"
+     }
+    }
+   }
+  }
+ ]
 }
