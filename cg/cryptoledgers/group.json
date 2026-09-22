@@ -1,15 +1,14 @@
 {
  "id": 77432,
  "name": "Cryptoledgers Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-04-02",
  "description": "This group aims at creating an international and interdisciplinary network of researchers - academic and non-academic - interested in exploring the economic, legal, technical and societal challenges raised and faced by cryptoledger-based applications, such as Bitcoin or Ethereum.\r\nThe purpose of this group is to enable peer support and collaboration for researchers across institutions and disciplines to achieve a better understanding of the opportunities and risks posed by cryptocurrencies and other cryptoledger-based applications. \r\nThis group includes those doing theoretical analysis, investigating tools and applications that might hinder or support the adoption of alternative cryptocurrencies, or collaborating on the development of new tools to further promote their deployment worldwide.\r\n\r\nThis group will not publish specifications.",
  "shortname": "cryptoledgers",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cryptoledgers"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cryptoledgers/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cryptoledgers/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cryptoledgers"
   }
  },
- "identifier": "cg/cryptoledgers"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cryptoledgers",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5981",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cryptoledgers",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5981"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5981/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5982",
+   "title": "public-cryptoledgers (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cryptoledgers/",
+    "shortdesc": "public-cryptoledgers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5982"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5982/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5980",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cryptoledgers/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5980"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5980/groups"
+     }
+    }
+   }
+  }
+ ]
 }
