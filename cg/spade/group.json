@@ -1,15 +1,14 @@
 {
  "id": 51311,
  "name": "Smart Phone Application Developer Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-12-08",
  "description": "This Group will help developers create Internet based Smart Phone applications. Participants will collaborate and  code to make the web equally and easily accessible through Smart Phones. This group will document the new research papers created by group members regarding Internet based Phone applications.",
  "shortname": "spade",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/spade"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/spade/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/spade/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/spade"
   }
  },
- "identifier": "cg/spade"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/spade",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/851",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#spade",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/851"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/851/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/852",
+   "title": "public-spade (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-spade/",
+    "shortdesc": "public-spade",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/852"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/852/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/850",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/spade/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/850"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/850/groups"
+     }
+    }
+   }
+  }
+ ]
 }
