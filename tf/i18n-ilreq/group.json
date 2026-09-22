@@ -1,0 +1,51 @@
+{
+ "id": 76791,
+ "name": "India International Program Task Force",
+ "is_closed": true,
+ "creation-date": "2015-03-03",
+ "description": "This task force explored gaps in Indian language support on the Web and in eBooks, and documents requirements.",
+ "shortname": "i18n-ilreq",
+ "closed_date": "2020-06-05",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://github.com/w3c/iip/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/i18n-ilreq/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/i18n-ilreq/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/i18n-ilreq/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/i18n-ilreq"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/i18n-ilreq",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6994",
+   "title": "public-ilreq-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ilreq-admin/",
+    "shortdesc": "public-ilreq-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6994"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6994/groups"
+     }
+    }
+   }
+  }
+ ]
+}
