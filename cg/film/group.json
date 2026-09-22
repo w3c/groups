@@ -1,15 +1,14 @@
 {
  "id": 53603,
  "name": "Film Industry Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-03-15",
  "description": "The aim of the Film Industry Community Group is to explore the implementation of Open Web Platform and Semantic Web technologies within the professional world of filmmaking.",
  "shortname": "film",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/film"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/film/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/film/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/film"
   }
  },
- "identifier": "cg/film"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/film",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1020",
+   "title": "internal-film (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-film/",
+    "shortdesc": "internal-film",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1020"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1020/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1017",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#film",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1017"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1017/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1018",
+   "title": "public-film (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-film/",
+    "shortdesc": "public-film",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1018"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1018/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1016",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/film/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1016"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1016/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1015",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/film/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1015"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1015/groups"
+     }
+    }
+   }
+  }
+ ]
 }
