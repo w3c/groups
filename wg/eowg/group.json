@@ -50,5 +50,63 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/eowg"
+ "identifier": "wg/eowg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13774",
+   "title": "w3c-wai-eo (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/w3c-wai-eo/",
+    "shortdesc": "w3c-wai-eo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13774"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13774/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25882",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=35532",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25882"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25882/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6068",
+   "title": "EOWG wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/EO/wiki/Main_Page",
+    "shortdesc": "EOWG wiki",
+    "longdesc": "Working Group wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6068"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6068/groups"
+     }
+    }
+   }
+  }
+ ]
 }
