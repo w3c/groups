@@ -1,15 +1,14 @@
 {
  "id": 96813,
  "name": "Data on the Web Best Practices Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-02-06",
  "description": "This group will continue the work started by the Data on the Web Best Practices Working Group in investigating topics such as data versioning, subsetting, data access and metadata. It will promote discussions about Data on the Web challenges and best practices, evaluating its benefits and any drawbacks. In so doing, the CG will collect new evidence of the DWBP implementation around the world and  offer additional material that will help the adoption of the DWBP. Needs for further standardization will be identified.",
  "shortname": "dwbp",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dwbp"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dwbp/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dwbp/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dwbp"
   }
  },
- "identifier": "cg/dwbp"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dwbp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6529",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dwbp",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6529"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6529/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6530",
+   "title": "public-dwbp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dwbp/",
+    "shortdesc": "public-dwbp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6530"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6530/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6528",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dwbp/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6528"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6528/groups"
+     }
+    }
+   }
+  }
+ ]
 }
