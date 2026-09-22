@@ -1,15 +1,14 @@
 {
  "id": 52408,
  "name": "XML Error Recovery Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-02-12",
  "description": "This group's purpose is the discussion of applying error recovery parsing methods inspired from HTML to XML.",
  "shortname": "xml-er",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/xml-er"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/xml-er/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/xml-er/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xml-er"
   }
  },
- "identifier": "cg/xml-er"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/xml-er",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/945",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#xml-er",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/945"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/945/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/946",
+   "title": "public-xml-er (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-xml-er/",
+    "shortdesc": "public-xml-er",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/946"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/946/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/944",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/xml-er/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/944"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/944/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/943",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/xml-er/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/943"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/943/groups"
+     }
+    }
+   }
+  }
+ ]
 }
