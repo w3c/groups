@@ -1,15 +1,14 @@
 {
  "id": 122874,
  "name": "Media Delivery Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-04-23",
  "description": "The mission of this group is to define several APIs that provide a standardised method of processing, optimizing and delivering images and video over the web",
  "shortname": "mediadelivery",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mediadelivery"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mediadelivery/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mediadelivery/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mediadelivery"
   }
  },
- "identifier": "cg/mediadelivery"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mediadelivery",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25813",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mediadelivery",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25813"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25813/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25814",
+   "title": "public-mediadelivery (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mediadelivery/",
+    "shortdesc": "public-mediadelivery",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25814"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25814/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25812",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mediadelivery/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25812"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25812/groups"
+     }
+    }
+   }
+  }
+ ]
 }
