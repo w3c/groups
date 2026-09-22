@@ -1,15 +1,14 @@
 {
  "id": 71714,
  "name": "Browser Sync Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-05-25",
  "description": "The major browsers provide users with a means of synchronizing their data across browser instances, but the services behind that synchronization process are not controlled by users, and users don't have the ability to sync the data of their choice, or sync with other browsers.\r\n\r\nOur goal is to create a specification for a browser sync process that gives users more control over their data, gives developers the ability to sync specific data for their web applications, and allows for a diverse marketplace of sync backend providers.",
  "shortname": "browsersync",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/browsersync"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/browsersync/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/browsersync/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/browsersync"
   }
  },
- "identifier": "cg/browsersync"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/browsersync",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2047",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#browsersync",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2047"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2047/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2048",
+   "title": "public-browsersync (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-browsersync/",
+    "shortdesc": "public-browsersync",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2048"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2048/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2046",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/browsersync/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2046"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2046/groups"
+     }
+    }
+   }
+  }
+ ]
 }
