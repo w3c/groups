@@ -1,15 +1,14 @@
 {
  "id": 48076,
  "name": "Semantic News Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-07-08",
  "description": "The Semantic News Community Group is a forum for exploring the intersection of W3C semantic technologies and news gathering, production, distribution and consumption.\r\nIt will focus on a common representation for abstract ideas in the news domain such as a 'news event' or a domain ontology for news.  This includes the following subject areas:\r\n\r\n1. Review, test and comment on existing and proposed standards for semantic technologies in the news domain.\r\n2. Encourage the reuse of well-known datasets and ontologies and propose mappings between them as required.\r\n3. Best practices for publishing, exchanging and linking data, including use cases.\r\n4. Development of prototypes to help build the business case for this approach.\r\n5. Discuss design principles of schemas and ontologies.",
  "shortname": "semnews",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/semnews"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/semnews/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/semnews/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semnews"
   }
  },
- "identifier": "cg/semnews"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/semnews",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/396",
+   "title": "internal-semnews (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-semnews/",
+    "shortdesc": "internal-semnews",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/396"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/396/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/436",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#semnews",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/436"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/436/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/394",
+   "title": "public-semnews (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semnews/",
+    "shortdesc": "public-semnews",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/394"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/394/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/393",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/semnews/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/393"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/393/groups"
+     }
+    }
+   }
+  }
+ ]
 }
