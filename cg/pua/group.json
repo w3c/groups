@@ -1,15 +1,14 @@
 {
  "id": 57898,
  "name": "Private User Agent Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-09-23",
  "description": "The Private User Agent Community Group is chartered to improve user privacy and user control by designing the User Agent to minimize fingerprinting and to improve the control the user has over information shared over the Web and to improve the security of the User Agent in these regards.  The group seeks to standardize the designs necessary to achieve these goals, to develop extensions designed for privacy to mitigate inevitable losses of functionality, to foster consideration of privacy in the design of other Web standards, and to discuss and develop implementations and test suits.  Mechanisms for expressing user privacy preferences to servers and content provides are outside the scope of this group.\r\n\r\n",
  "shortname": "pua",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/pua"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/pua/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/pua/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/pua"
   }
  },
- "identifier": "cg/pua"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/pua",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1264",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#pua",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1264"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1264/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1265",
+   "title": "public-pua (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-pua/",
+    "shortdesc": "public-pua",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1265"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1265/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1263",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/pua/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1263"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1263/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1262",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/pua/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1262"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1262/groups"
+     }
+    }
+   }
+  }
+ ]
 }
