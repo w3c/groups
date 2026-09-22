@@ -8,9 +8,6 @@
  "closed_date": "2025-03-07",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/service-workers"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/service-workers/"
   },
@@ -43,12 +40,93 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/service-workers/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/service-workers"
   }
  },
  "type": "working group",
  "start-date": "2017-08-03",
  "end-date": "2025-01-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/service-workers"
+ "identifier": "wg/service-workers",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/26174",
+   "title": "member-serviceworkers (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-serviceworkers/",
+    "shortdesc": "member-serviceworkers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/26174"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/26174/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25890",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=101220",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25890"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25890/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33202",
+   "title": "Test Suite (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://github.com/web-platform-tests/wpt/tree/master/service-workers/service-worker",
+    "shortdesc": "Test Suite",
+    "longdesc": "Web Platform Test Suite for Service Workers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33202"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33202/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33204",
+   "title": "Test Suite Results (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://wpt.fyi/results/service-workers?label=experimental&label=master&aligned",
+    "shortdesc": "Test Suite Results",
+    "longdesc": "Web Platform Test Suite Results for Service Workers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33204"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33204/groups"
+     }
+    }
+   }
+  }
+ ]
 }
