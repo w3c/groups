@@ -1,0 +1,113 @@
+{
+ "id": 53645,
+ "name": "ActivityPub Community Group",
+ "is_closed": true,
+ "creation-date": "2012-03-16",
+ "description": "<p>This group is now closed, see also the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/activitypub/\">ActivityPub W3C Recommendation</a> and the <a rel=\"nofollow\" href=\"https://www.w3.org/community/socialcg/\">Social Web Incubator Community Group</a>.</p>\r\nA group to develop a social web API standard based on Atom Publication Protocol and ActivityStreams.",
+ "shortname": "activitypub",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/activitypub/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/activitypub/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/activitypub/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/activitypub/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/activitypub/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/activitypub/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/activitypub"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/activitypub",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1029",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#activitypub",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1029"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1029/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1030",
+   "title": "public-activitypub (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-activitypub/",
+    "shortdesc": "public-activitypub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1030"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1030/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1028",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/activitypub/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1028"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1028/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1027",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/activitypub/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1027"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1027/groups"
+     }
+    }
+   }
+  }
+ ]
+}
