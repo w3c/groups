@@ -1,15 +1,14 @@
 {
  "id": 56439,
  "name": "Development Linked Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-07-08",
  "description": "Data is commonly considered as a new kind of fuel powering economical, cultural and societal changes. From e-governance to smart cities, many examples can be found to argue for the value of open and connected data. By turning the Web into a data publishing platform Linked Data is a key enabling technology for this. \r\n\r\nIt has yet to be kept in mind that as of 2012 65% of the world does not have access to the Web and are thus deprived from Linked Data. Furthermore is this population sorely in need for the changes data-driven societies benefit from. \r\n\r\nThis community group is there to discuss some important questions such as: \r\n\r\n* How can development related data be published as Linked Data? \r\n* What kind of data is out there and what is relevant to drive societal changes in underprivileged countries? \r\n* How can those without Web access can consume open data set published as Linked Open Data? \r\n* How can the Linked Data principles be revised to be applicable in Web-less contexts?\r\n\r\nThis group will not publish Specifications.",
  "shortname": "dld",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dld"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dld/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dld/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dld"
   }
  },
- "identifier": "cg/dld"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dld",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1209",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dld",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1209"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1209/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1210",
+   "title": "public-dld (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dld/",
+    "shortdesc": "public-dld",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1210"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1210/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1208",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dld/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1208"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1208/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1207",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/dld/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1207"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1207/groups"
+     }
+    }
+   }
+  }
+ ]
 }
