@@ -1,0 +1,130 @@
+{
+ "id": 73816,
+ "name": "Web Commerce Interest Group",
+ "is_closed": true,
+ "creation-date": "2014-09-24",
+ "description": "The mission of the Web Payments Interest Group is to provide a forum for Web Payments technical discussions to identify use cases and requirements for existing and/or new specifications to ease payments on the Web for users (payers) and merchants (payees), and to establish a common ground for payment service providers on the Web Platform. The overall objective of this group is to identify and leverage the conditions for greater uptake and wider use of Web Payments through the identification of standardization needs to increase interoperability between the different stakeholders and the different payment methods.",
+ "shortname": "webcommerce",
+ "closed_date": "2019-09-11",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/WebCommerce/IG/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/charters/347"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/ig/webcommerce/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/ig/webcommerce/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/ig/webcommerce/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/webcommerce"
+  }
+ },
+ "type": "interest group",
+ "start-date": "2014-10-15",
+ "end-date": "2019-09-14",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "ig",
+ "identifier": "ig/webcommerce",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13245",
+   "title": "member-webcommerce-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-webcommerce-ig/",
+    "shortdesc": "member-webcommerce-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13245"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13245/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2279",
+   "title": "member-webpayments-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-webpayments-ig/",
+    "shortdesc": "member-webpayments-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2279"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2279/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2751",
+   "title": "public-webpayments-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webpayments-ig/",
+    "shortdesc": "public-webpayments-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2751"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2751/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13558",
+   "title": "public-webcommerce-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webcommerce-ig/",
+    "shortdesc": "public-webcommerce-ig",
+    "longdesc": "main list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13558"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13558/groups"
+     }
+    }
+   }
+  }
+ ]
+}
