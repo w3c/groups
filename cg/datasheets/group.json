@@ -1,15 +1,14 @@
 {
  "id": 84117,
  "name": "DataSheets Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-10-29",
  "description": "Decoupling content and data from HTML, by providing a DataSheet Language (CSS-like) to source, store and apply data to the HTML DOM. The browser will be able to take the responsibility of retrieving the data from a variety of sources and rendering it.\r\nThe group will outline the language and the full specifications for making this a reality.",
  "shortname": "datasheets",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/datasheets"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/datasheets/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/datasheets/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/datasheets"
   }
  },
- "identifier": "cg/datasheets"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/datasheets",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6201",
+   "title": "internal-datasheets (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-datasheets/",
+    "shortdesc": "internal-datasheets",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6201"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6201/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6198",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#datasheets",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6198"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6198/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6199",
+   "title": "public-datasheets (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-datasheets/",
+    "shortdesc": "public-datasheets",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6199"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6199/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6197",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/datasheets/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6197"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6197/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6202",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/datasheets/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6202"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6202/groups"
+     }
+    }
+   }
+  }
+ ]
 }
