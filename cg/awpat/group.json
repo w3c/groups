@@ -1,15 +1,14 @@
 {
  "id": 84066,
  "name": "Advancing Web Platform Application Testing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-10-28",
  "description": "This community develops test cases, requirements for testing and using the web platform.\r\n\r\nIt works with existing communities and to enhance them, not replace them.",
  "shortname": "awpat",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/awpat"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/awpat/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/awpat/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/awpat"
   }
  },
- "identifier": "cg/awpat"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/awpat",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6178",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#awpat",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6178"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6178/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6179",
+   "title": "public-awpat (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-awpat/",
+    "shortdesc": "public-awpat",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6179"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6179/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6177",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/awpat/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6177"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6177/groups"
+     }
+    }
+   }
+  }
+ ]
 }
