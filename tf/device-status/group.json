@@ -1,0 +1,46 @@
+{
+ "id": 49737,
+ "name": "Device Status APIs Task Force",
+ "is_closed": true,
+ "shortname": "device-status",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/device-status/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/device-status/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/device-status/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/device-status"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/device-status",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/3827",
+   "title": "public-device-status (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-device-status/",
+    "shortdesc": "public-device-status",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/3827"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/3827/groups"
+     }
+    }
+   }
+  }
+ ]
+}
