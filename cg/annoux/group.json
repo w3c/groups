@@ -1,15 +1,14 @@
 {
  "id": 77980,
  "name": "Annotation UX Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-04-26",
  "description": "This group will explore annotation user interface challenges, examples, and best practices. The group will produce an informative guide to annotation user experience.\r\n\r\nThis group will not publish specifications.",
  "shortname": "annoux",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/annoux"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/annoux/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/annoux/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/annoux"
   }
  },
- "identifier": "cg/annoux"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/annoux",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6034",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#annoux",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6034"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6034/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6035",
+   "title": "public-annoux (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-annoux/",
+    "shortdesc": "public-annoux",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6035"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6035/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6033",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/annoux/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6033"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6033/groups"
+     }
+    }
+   }
+  }
+ ]
 }
