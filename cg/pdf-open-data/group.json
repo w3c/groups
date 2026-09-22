@@ -1,15 +1,14 @@
 {
  "id": 92517,
  "name": "PDF and Open Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-07-21",
  "description": "PDF has a reputation of being bad for 'open data', but there are already features of PDF that can be used for storing and retrieving data associated with parts of a PDF file, and more features coming.\r\n\r\nA draft charter will be posted soon.",
  "shortname": "pdf-open-data",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/pdf-open-data"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/pdf-open-data/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/pdf-open-data/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/pdf-open-data"
   }
  },
- "identifier": "cg/pdf-open-data"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/pdf-open-data",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6398",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#pdf-open-data",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6398"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6398/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6399",
+   "title": "public-pdf-open-data (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-pdf-open-data/",
+    "shortdesc": "public-pdf-open-data",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6399"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6399/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6397",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/pdf-open-data/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6397"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6397/groups"
+     }
+    }
+   }
+  }
+ ]
 }
