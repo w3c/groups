@@ -1,0 +1,37 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "projects",
+  "owner": {
+   "login": "svg-cg"
+  },
+  "url": "https://github.com/svg-cg/projects",
+  "description": "Discussion of project proposals & report publication requests for the SVG community group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svgcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-cg.github.io",
+  "owner": {
+   "login": "svg-cg"
+  },
+  "url": "https://github.com/svg-cg/svg-cg.github.io",
+  "homepageUrl": "https://svg-cg.org/",
+  "description": "GitHub pages root directory & static files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svgcg"
+   ],
+   "exposed": true
+  }
+ }
+]
