@@ -1,15 +1,14 @@
 {
  "id": 59704,
  "name": "Semantic Open Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-12-10",
  "description": "This group intends to explore ways to leverage OData as a contributor to the Semantic Web vision and to help achieve a common understanding of both technologies as well as their relationship to each other.",
  "shortname": "sodata",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sodata"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sodata/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sodata/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sodata"
   }
  },
- "identifier": "cg/sodata"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/sodata",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1347",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sodata",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1347"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1347/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1348",
+   "title": "public-sodata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sodata/",
+    "shortdesc": "public-sodata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1348"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1348/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1346",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sodata/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1346"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1346/groups"
+     }
+    }
+   }
+  }
+ ]
 }
