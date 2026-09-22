@@ -1,0 +1,49 @@
+{
+ "id": 49968,
+ "name": "HTML Data Task Force",
+ "is_closed": true,
+ "shortname": "html-data-tf",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/wiki/Html-data-tf"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/html-data-tf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/html-data-tf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/html-data-tf/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/html-data-tf"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/html-data-tf",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1794",
+   "title": "public-html-data-tf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html-data-tf/",
+    "shortdesc": "public-html-data-tf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1794"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1794/groups"
+     }
+    }
+   }
+  }
+ ]
+}
