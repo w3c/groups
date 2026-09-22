@@ -1,15 +1,14 @@
 {
  "id": 91185,
  "name": "RDF and XML Interoperability Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-06-01",
  "description": "The goal of this group is to 1) identify application areas in which the combined processing of XML and RDF data and tooling is beneficial; 2) identify issues that hinder the joint usage of the two technology stacks 3) formulate best practices to resolve the issues or propose standardization topics. The goal does not only take into account the data representation formats XML and RDF, but all related technologies (e.g. for XML: XSLT, XQuery; for RDF: RDF Schema, SPARQL) and selected XML (e.g. OData) or RDF vocabularies. The group should be driven by needs of industries that already deploy one or both technology stacks. This will also cover adjacent technologies like JSON with respect to the topics covered in this group. The outcome should focus not on a big architecture of how to work with XML and RDF, but on small building blocks (as best practices or standardization topics) that can be re-used across industries and application scenarios.",
  "shortname": "rax",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/rax"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/rax/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/rax/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rax"
   }
  },
- "identifier": "cg/rax"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/rax",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6354",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#rax",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6354"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6354/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6355",
+   "title": "public-rax (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rax/",
+    "shortdesc": "public-rax",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6355"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6355/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6353",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/rax/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6353"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6353/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6427",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/rax/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6427"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6427/groups"
+     }
+    }
+   }
+  }
+ ]
 }
