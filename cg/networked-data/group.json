@@ -1,15 +1,14 @@
 {
  "id": 50069,
  "name": "Networked Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-10-12",
  "description": "The recent years have shown the need to deal with networked data in large-scale, distributed settings. Not only must the systems be scalable, elastic and performant, but also address *ability (usability, manageability, etc.). One key component is doing it the webby way. The Web is the leading concrete exemplar of RESTful design, being the result of posthumous analysis of what was already working with URIs, HTTP and HTML for a system of interlinked documents. Unfortunately the machine equivalent of HTML is still emerging. LinkedData has achieved some powerful results; automated navigation by querying the Linked Open Data cloud shows some of the potential. However many systems also need to evolve and be evolved. This can be expressed as 'service capability' and also needs to be supported with consistency. This should aim to eliminate the wide range of non-interoperable approaches muddling the current landscape of REST APIs through exploiting hypermedia concepts.\r\n\r\nThe Networked Data Community Group aims to provide a forum for collecting use cases including but not limited to the fields of science data (such as biology, astronomy, etc.), economics data (financial markets, etc.), health care, configuration and systems management, Green IT, and smart infrastructures (cities, etc.). Based on the collection of use cases the CG will derive requirements and write up best practices for dealing with the dynamics of the data.",
  "shortname": "networked-data",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/networked-data"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/networked-data/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/networked-data/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/networked-data"
   }
  },
- "identifier": "cg/networked-data"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/networked-data",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/693",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#networked-data",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/693"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/693/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/694",
+   "title": "public-networked-data (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-networked-data/",
+    "shortdesc": "public-networked-data",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/694"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/694/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/692",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/networked-data/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/692"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/692/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/691",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/networked-data/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/691"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/691/groups"
+     }
+    }
+   }
+  }
+ ]
 }
