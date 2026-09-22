@@ -1,15 +1,14 @@
 {
  "id": 58543,
  "name": "SVG Mapping Community Group",
- "is_closed": false,
- "description": "The mission of SVG Mapping Community Group (SVGMapCG) is to build\r\nrequirements for SVG based Web Mapping through a discussion of use cases\r\nregarding map services.\r\n\r\nOne of the key technologies for SVG Web Mapping is dynamic Tiling &\r\nLayering, which realizes zoom and pan display of maps in an efficient\r\nmanner. The other technologies for the mapping (e.g. Shared Path,\r\nVector Effects and etc.) are also necessary. Although these\r\nfunctionalities will be standardized as part of SVG 2 in SVG WG, the\r\nfocus of discussion is for general use and the discussion may lack\r\nparticular aspects for map services.\r\n\r\nTherefore, our main scope is to investigate whether these generic\r\nfunctions are enough or not to resolve challenges inherent in mapping,\r\nand to provide WGs (e.g. SVG and Geolocation) feedback from our\r\nobservation. Envisioned issues for Web Mapping are a common coordinate\r\nsystem for map contents and a projection.\r\nAnother issue is a relationship to other GIS communities (OpenLayers,\r\nOpen Street Map, WMS, and etc.) outside W3C. They have developed\r\nmap-related standards and frameworks, and we need to clarify our\r\ninterrelationship and consider collaboration if necessary.\r\n\r\nThis group will not create specifications.",
+ "is_closed": true,
+ "creation-date": "2012-10-18",
+ "description": "The mission of SVG Mapping Community Group (SVGMapCG) is to build\r\nrequirements for SVG based Web Mapping through a discussion of use cases\r\nregarding map services.\r\n\r\nOne of the key technologies for SVG Web Mapping is dynamic Tiling &amp;\r\nLayering, which realizes zoom and pan display of maps in an efficient\r\nmanner. The other technologies for the mapping (e.g. Shared Path,\r\nVector Effects and etc.) are also necessary. Although these\r\nfunctionalities will be standardized as part of SVG 2 in SVG WG, the\r\nfocus of discussion is for general use and the discussion may lack\r\nparticular aspects for map services.\r\n\r\nTherefore, our main scope is to investigate whether these generic\r\nfunctions are enough or not to resolve challenges inherent in mapping,\r\nand to provide WGs (e.g. SVG and Geolocation) feedback from our\r\nobservation. Envisioned issues for Web Mapping are a common coordinate\r\nsystem for map contents and a projection.\r\nAnother issue is a relationship to other GIS communities (OpenLayers,\r\nOpen Street Map, WMS, and etc.) outside W3C. They have developed\r\nmap-related standards and frameworks, and we need to clarify our\r\ninterrelationship and consider collaboration if necessary.\r\n\r\nThis group will not create specifications.",
  "shortname": "svgmap",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/svgmap"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/svgmap/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/svgmap/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/svgmap"
   }
  },
- "identifier": "cg/svgmap"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/svgmap",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1298",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#svgmap",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1298"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1298/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1299",
+   "title": "public-svgmap (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-svgmap/",
+    "shortdesc": "public-svgmap",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1299"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1299/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1297",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/svgmap/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1297"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1297/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1296",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/svgmap/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1296"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1296/groups"
+     }
+    }
+   }
+  }
+ ]
 }
