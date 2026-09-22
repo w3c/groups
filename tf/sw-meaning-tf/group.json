@@ -1,0 +1,30 @@
+{
+ "id": 35009,
+ "name": "Social Meaning of RDF and URIs Task Force",
+ "is_closed": true,
+ "shortname": "sw-meaning-tf",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "http://lists.w3.org/Archives/Public/public-sw-meaning/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/sw-meaning-tf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/sw-meaning-tf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/sw-meaning-tf/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/sw-meaning-tf"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/sw-meaning-tf",
+ "group-type": "tf",
+ "services": []
+}
