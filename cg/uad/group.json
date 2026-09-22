@@ -1,15 +1,14 @@
 {
  "id": 64471,
  "name": "Ubiquitous Application Design Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-06-26",
  "description": "People are looking to use applications and services on a ubiquitous range of devices. For developers, this raises the challenge of tailoring the user experience according to the device and context in which it is used. Application development teams involve a wide range of roles and skills: business requirements, information systems, usability and accessibility, graphical design and brand management, as well as the expertise required for specific target platforms. This Community Group seeks to bring together developers and researchers to explore and promote techniques for context aware design that separates out different aspects of design to speed development and reduce costs. We will do this through gathering and discussing techniques, together with developing open source demonstrators. ",
  "shortname": "uad",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/uad"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/uad/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/uad/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/uad"
   }
  },
- "identifier": "cg/uad"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/uad",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1543",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#uad",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1543"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1543/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1544",
+   "title": "public-uad (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-uad/",
+    "shortdesc": "public-uad",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1544"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1544/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1542",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/uad/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1542"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1542/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1541",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/uad/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1541"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1541/groups"
+     }
+    }
+   }
+  }
+ ]
 }
