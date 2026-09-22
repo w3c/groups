@@ -1,15 +1,14 @@
 {
  "id": 140848,
  "name": "Brand Identity Tokens Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-11-09",
  "description": "This Community Group will develop the Design Tokens Architecture: A methodology to collect, store and distribute design tokens systematically at scale, from simple, single brands, to widely complex, multi-brand organizations.\r\n\r\nThis group will also produce the Design Tokens Architecture Specification to define taxonomy conventions for design tokens and design token systems.\r\n\r\nThe Design Tokens Architecture Specification will also aim to extend the scope of design tokens from design-specific attributes to textual elements, utilities, code snippets, functions, and assets. And offer broader cross-platform applicability and reliability and cross-team understandability due to the addition of token clusters, token tiers, token categories, and token types.",
  "shortname": "bits",
+ "closed_date": "2023-12-07",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/bits"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/bits/"
   },
@@ -27,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/bits/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bits"
   }
  },
  "type": "community group",
- "identifier": "cg/bits"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bits",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39192",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#designtokensarch",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39192"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39192/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39193",
+   "title": "public-bits (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bits/",
+    "shortdesc": "public-bits",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39193"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39193/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39191",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bits/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39191"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39191/groups"
+     }
+    }
+   }
+  }
+ ]
 }
