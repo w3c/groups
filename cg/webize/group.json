@@ -1,15 +1,14 @@
 {
  "id": 68990,
  "name": "Webize Everything Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-01-15",
  "description": "\"The web is extended in two ways - by adding new bits of technology to the existing stuff, and by 'webizing' existing applications and systems. Webizing is really important, not only as a way of bootstrapping the web using large amount of legacy information, but because the existing systems have been researched and designed over the years and it is really important we do not lose the knowledge accrued during that process.\"\r\n\r\n--Tim Berners-Lee\r\nhttp://www.w3.org/DesignIssues/Webize.html\r\n\r\nThis Group aims to webize as many existing systems and applications as possible, and is committed to producing 5 star linked data, in line with the original vision of the web.\r\n\r\nThis group will not publish specifications.",
  "shortname": "webize",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webize"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webize/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webize/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webize"
   }
  },
- "identifier": "cg/webize"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webize",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1936",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webize",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1936"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1936/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1937",
+   "title": "public-webize (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webize/",
+    "shortdesc": "public-webize",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1937"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1937/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1935",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webize/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1935"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1935/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1934",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/webize/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1934"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1934/groups"
+     }
+    }
+   }
+  }
+ ]
 }
