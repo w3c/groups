@@ -51,5 +51,79 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/dwbp"
+ "identifier": "wg/dwbp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2679",
+   "title": "member-dwbp-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-dwbp-wg/",
+    "shortdesc": "member-dwbp-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2679"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2679/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2757",
+   "title": "public-dwbp-comments (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dwbp-comments/",
+    "shortdesc": "public-dwbp-comments",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2757"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2757/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2181",
+   "title": "public-dwbp-vocabs (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dwbp-vocabs/",
+    "shortdesc": "public-dwbp-vocabs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2181"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2181/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2573",
+   "title": "public-dwbp-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dwbp-wg/",
+    "shortdesc": "public-dwbp-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2573"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2573/groups"
+     }
+    }
+   }
+  }
+ ]
 }
