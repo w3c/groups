@@ -1,15 +1,14 @@
 {
  "id": 86999,
  "name": "Meat Products Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-01-29",
  "description": "The mission of Meat Products Community Group is to propose, discuss, create and maintain extensions to schema.org related to meat items commonly traded internationally.",
  "shortname": "meat",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/meat"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/meat/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/meat/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/meat"
   }
  },
- "identifier": "cg/meat"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/meat",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6282",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#meat",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6282"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6282/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6283",
+   "title": "public-meat (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-meat/",
+    "shortdesc": "public-meat",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6283"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6283/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6281",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/meat/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6281"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6281/groups"
+     }
+    }
+   }
+  }
+ ]
 }
