@@ -1,0 +1,95 @@
+{
+ "id": 76291,
+ "name": "Organisation Profile Documents Community Group",
+ "is_closed": true,
+ "creation-date": "2015-02-05",
+ "description": "The aim of this group is to explore and develop a set of specifications for Organisational Profile Documents (OPDs). In particular we are interested in the usefulness of a machine readable OPD for the automatic discovery of resources in UK higher education institutions.\r\n\r\nPossible outcomes of the project would be:\r\n\r\n · Produce a specification for OPD\r\n · Create the documentation/supporting materials for OPDs\r\n · Promote the OPD to new organisations\r\n\r\nThere is some support/resource from a UKHE funded project, data.ac.uk, more information on OPDs http://opd.data.ac.uk",
+ "shortname": "opd",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/opd/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/opd/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/opd/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/opd/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/opd/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/opd/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opd"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opd",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5931",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opd",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5931"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5931/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5932",
+   "title": "public-opd (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opd/",
+    "shortdesc": "public-opd",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5932"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5932/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5930",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opd/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5930"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5930/groups"
+     }
+    }
+   }
+  }
+ ]
+}
