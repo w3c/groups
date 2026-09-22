@@ -21,7 +21,28 @@
    "href": "https://api.w3.org/groups/tf/css-a11y"
   }
  },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/css-a11y",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7549",
+   "title": "public-css-a11y (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-css-a11y/",
+    "shortdesc": "public-css-a11y",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7549"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7549/groups"
+     }
+    }
+   }
+  }
+ ]
 }
