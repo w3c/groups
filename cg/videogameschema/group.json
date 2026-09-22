@@ -1,15 +1,14 @@
 {
  "id": 95154,
  "name": "Video Game Schema Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-11-17",
  "description": "The purpose of this group is to discuss extending the schema.org vocabulary for improved representation of video games in structured data.  Our goal is to create proposal(s) that will extend video game-related schemas to make them more expressive, and so enable video game publishers, video game vendors, video game streaming services and news outlets to provide data consumers with more precise information about video games than is possible with the current vocabulary.",
  "shortname": "videogameschema",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/videogameschema"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/videogameschema/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/videogameschema/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/videogameschema"
   }
  },
- "identifier": "cg/videogameschema"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/videogameschema",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6453",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#videogameschema",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6453"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6453/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6454",
+   "title": "public-videogameschema (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-videogameschema/",
+    "shortdesc": "public-videogameschema",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6454"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6454/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6452",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/videogameschema/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6452"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6452/groups"
+     }
+    }
+   }
+  }
+ ]
 }
