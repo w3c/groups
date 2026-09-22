@@ -1,15 +1,14 @@
 {
  "id": 51110,
  "name": "Mobile Web in Indian Languages Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-11-30",
  "description": "The W3C India Office is setting up this Community Group on Mobile Web in Indian Languages  with the objective of addressing the issues concerning with the enablement of mobile, smartphones and next generation wireless devices  with Indian Languages support,   seamless SMS and MMS sending and receiving in Indian Language , Uniform user experience on the mobile through using Indian Languages, and access to Indian Languages websites from mobiles.  The goal is to achieve seamless access and operation irrespective of the mobile manufacturers and service providers. This group will help in building the ecosystem for enhancing the penetration of mobiles in the country to the rural areas using the Indian Languages enablement. The Group will also explore and develop the Indian Language requirements in existing and future Mobile Communication standards.",
  "shortname": "mobindic",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mobindic"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mobindic/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mobindic/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mobindic"
   }
  },
- "identifier": "cg/mobindic"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mobindic",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/822",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mobindic",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/822"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/822/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/823",
+   "title": "public-mobindic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mobindic/",
+    "shortdesc": "public-mobindic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/823"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/823/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/821",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mobindic/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/821"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/821/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/820",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/mobindic/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/820"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/820/groups"
+     }
+    }
+   }
+  }
+ ]
 }
