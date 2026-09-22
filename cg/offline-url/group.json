@@ -1,0 +1,113 @@
+{
+ "id": 93702,
+ "name": "Offline URL Community Group",
+ "is_closed": true,
+ "creation-date": "2016-09-15",
+ "description": "Currently a file URL (file:///) is the defined way to access a local file in a browser. For various reasons (some outdated) this is not a preferred mechanism. There have been several unsuccessful attempts to create an alternative, but these were focused on application-type functionality and not content.\r\nFor content originally created in HTML, it makes the most sense to offer a mechanism to store the file locally in the same format. While, if this is desired, that process is the responsibility of the site, the browser functionality for it must be a recognized standard.\r\nThis initiative is focused on creating an offline url standard to access HTML files and containers stored locally in a compressed format, but otherwise behave as close to possible as an online site accessed via http.\r\nThe charter for this group is currently under development on <a rel=\"nofollow\" href=\"https://github.com/5DOC/offline-url-cg-charter\" name=\"GitHub\" target=\"_blank\" id=\"GitHub\">GitHub</a>. If you are interested please follow and contribute there.",
+ "shortname": "offline-url",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/offline-url/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/offline-url/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/offline-url/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/offline-url/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/offline-url/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/offline-url/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/offline-url"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/offline-url",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6428",
+   "title": "Gitter (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://gitter.im/w3c/offline",
+    "shortdesc": "Gitter",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6428"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6428/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6421",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#offline-url",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6421"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6421/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6422",
+   "title": "public-offline-url (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-offline-url/",
+    "shortdesc": "public-offline-url",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6422"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6422/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6420",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/offline-url/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6420"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6420/groups"
+     }
+    }
+   }
+  }
+ ]
+}
