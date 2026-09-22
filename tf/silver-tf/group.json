@@ -6,67 +6,8 @@
  "description": "The Silver Task Force will perform preliminary development of a new version of Accessibility Guidelines following a research-focused, user-centered design methodology to produce the most effective and flexible outcome. These guidelines will address the process of making content and functionality accessible to people with disabilities, including the roles of content authoring, user agent support, and authoring tool support. These guidelines will address current technological and cultural web accessibility requirements and provide a base for continued evolution of the guidelines. Also see the related <a href='https://www.w3.org/community/silver/'>Silver Community Group</a>.",
  "shortname": "silver-tf",
  "closed_date": "2023-09-01",
- "members": [
-  {
-   "id": 35422,
-   "name": "Accessibility Guidelines Working Group",
-   "is_closed": false,
-   "description": "The mission of the Accessibility Guidelines Working Group (AG WG) is to develop specifications to make content on the Web accessible for people with disabilities and to participate in the development and maintenance of implementation support materials for the Web Content Accessibility Guidelines.",
-   "shortname": "ag",
-   "discr": "w3cgroup",
-   "_links": {
-    "self": {
-     "href": "https://api.w3.org/groups/wg/ag"
-    },
-    "homepage": {
-     "href": "https://www.w3.org/WAI/about/groups/agwg/"
-    },
-    "users": {
-     "href": "https://api.w3.org/groups/wg/ag/users"
-    },
-    "services": {
-     "href": "https://api.w3.org/groups/wg/ag/services"
-    },
-    "specifications": {
-     "href": "https://api.w3.org/groups/wg/ag/specifications"
-    },
-    "chairs": {
-     "href": "https://api.w3.org/groups/wg/ag/chairs"
-    },
-    "team-contacts": {
-     "href": "https://api.w3.org/groups/wg/ag/teamcontacts"
-    },
-    "charters": {
-     "href": "https://api.w3.org/groups/wg/ag/charters"
-    },
-    "active-charter": {
-     "href": "https://api.w3.org/groups/wg/ag/charters/492"
-    },
-    "join": {
-     "href": "https://www.w3.org/groups/wg/ag/join"
-    },
-    "pp-status": {
-     "href": "https://www.w3.org/groups/wg/ag/ipr"
-    },
-    "participations": {
-     "href": "https://api.w3.org/groups/wg/ag/participations"
-    }
-   },
-   "type": "working group",
-   "start-date": "1997-10-06",
-   "end-date": "2026-04-30",
-   "tr-publisher": true,
-   "group-type": "wg",
-   "identifier": "wg/ag"
-  }
- ],
- "internal": false,
- "participants_list_public": true,
  "discr": "tf",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/tf/silver-tf"
-  },
   "homepage": {
    "href": "https://www.w3.org/WAI/GL/task-forces/silver/"
   },
@@ -78,9 +19,69 @@
   },
   "chairs": {
    "href": "https://api.w3.org/groups/tf/silver-tf/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/silver-tf"
   }
  },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "identifier": "tf/silver-tf",
- "group-type": "tf"
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/45910",
+   "title": "public-silver (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-silver/",
+    "shortdesc": "public-silver",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45910"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45910/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/7329",
+   "title": "public-silver-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-silver-admin/",
+    "shortdesc": "public-silver-admin",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7329"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7329/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6450",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/GL/task-forces/silver/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6450"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6450/groups"
+     }
+    }
+   }
+  }
+ ]
 }
