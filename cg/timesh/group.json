@@ -1,15 +1,14 @@
 {
  "id": 135900,
  "name": "Federated Timesheets Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-01-21",
  "description": "Each project has a timesheet system to track billable hours. Workers often spend time manually filling in this data multiple times.\r\n\r\nInstead, we’ll make time tracker apps (locally or on a self-hosted server) expose machine-readable timesheet data through a query endpoint (reader pull) or through a webhook (writer push).\r\n\r\nTimesheet data is relatively simple in terms of data format, data replication only flows in one direction, and there are not too many identities involved in the authentication / authorization of the data source connections.\r\n\r\nThis simplicity makes the “Federated Timesheets” project an ideal case study for Federated Bookkeeping in general. We want to show case how our vision of Federated Bookkeeping can make internet users “connected but sovereign”.",
  "shortname": "timesh",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/timesh"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/timesh/"
   },
@@ -27,8 +26,196 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/timesh/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/timesh"
   }
  },
  "type": "community group",
- "identifier": "cg/timesh"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/timesh",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40712",
+   "title": "GitHub CYB (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/pondersource/CYB",
+    "shortdesc": "GitHub CYB",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40712"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40712/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40711",
+   "title": "GitHub Prejournal (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/pondersource/prejournal",
+    "shortdesc": "GitHub Prejournal",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40711"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40711/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40713",
+   "title": "GitHub Tests (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/muze-nl/federated-timesheets-tests",
+    "shortdesc": "GitHub Tests",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40713"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40713/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40714",
+   "title": "GitHub TimeId (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/m-ld/timeld",
+    "shortdesc": "GitHub TimeId",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40714"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40714/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40708",
+   "title": "Gitter community (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://app.gitter.im/#/room/#federatedbookkeeping_community:gitter.im",
+    "shortdesc": "Gitter community",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40708"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40708/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33335",
+   "title": "Gitter task-tracking (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://app.gitter.im/#/room/#federatedbookkeeping_task-tracking:gitter.im",
+    "shortdesc": "Gitter task-tracking",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33335"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33335/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40707",
+   "title": "Gitter timesheets (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://app.gitter.im/#/room/#federatedbookkeeping_timesheets:gitter.im",
+    "shortdesc": "Gitter timesheets",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40707"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40707/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33336",
+   "title": "public-timesh (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-timesh/",
+    "shortdesc": "public-timesh",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33336"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33336/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33334",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/timesh/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33334"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33334/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40710",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://github.com/federatedbookkeeping/timesheets/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40710"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40710/groups"
+     }
+    }
+   }
+  }
+ ]
 }
