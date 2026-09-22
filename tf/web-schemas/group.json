@@ -1,0 +1,49 @@
+{
+ "id": 49967,
+ "name": "Web Schemas Task Force",
+ "is_closed": true,
+ "shortname": "web-schemas",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2001/sw/interest/webschema.html"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/web-schemas/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/web-schemas/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/web-schemas/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/web-schemas"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/web-schemas",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1900",
+   "title": "public-vocabs (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-vocabs/",
+    "shortdesc": "public-vocabs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1900"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1900/groups"
+     }
+    }
+   }
+  }
+ ]
+}
