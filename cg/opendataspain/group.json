@@ -1,15 +1,14 @@
 {
  "id": 59705,
  "name": "Open Data Spain Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-12-10",
  "description": "Forum where Spanish public bodies, citizens and industry involved in Open Data and PSI reuse are gathered together to discuss and seize synergies among them. This Group is an evolution of the \"Grupo Zaragoza\", a non-profit community, composed of all-governmental-level administrations and key players in PSI reuse, which has boosted the Open Data in Spain. Future and ongoing Open Data initiatives may reuse this group's work in terms of technology, formats, ontologies, tools, guidelines, etc. \r\n\r\nThis group will not create specifications.",
  "shortname": "opendataspain",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opendataspain"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opendataspain/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opendataspain/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opendataspain"
   }
  },
- "identifier": "cg/opendataspain"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opendataspain",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1357",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opendataspaina",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1357"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1357/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1353",
+   "title": "public-opendataspain (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opendataspain/",
+    "shortdesc": "public-opendataspain",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1353"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1353/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1356",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opendataspain/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1356"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1356/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1352",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/opendataspain/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1352"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1352/groups"
+     }
+    }
+   }
+  }
+ ]
 }
