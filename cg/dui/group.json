@@ -1,15 +1,14 @@
 {
  "id": 97084,
  "name": "Distributed User Interfaces Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-02-09",
  "description": "Current technology and ICT models generate configurations where the same user interface can be offered through different interactions. These new technological ecosystems appear as a result of the existence of many heterogeneous devices and interaction mechanisms. Consequently, new conditions and possibilities arise which not only affects the distribution of the user interfaces but also the distribution of the involved users’ interactions. Thus, we move the focus from addressing the distribution of user interfaces to the distribution of the users’ interactions which poses new challenges that deserve to be explored. In this context Web engineering appears as a fundamental research field since it helps to develop device-independent Web applications with user interfaces capable of being distributed and accessed through different interaction modes. This fact makes Web environments to be especially interesting within the scope of this community group. The main goal is to join people working on Distributed Interactions and share their knowledge in aspects related to new interaction paradigms and the way we can manage them in a distributed setting on the World Wide Web.",
  "shortname": "dui",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dui"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dui/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dui/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dui"
   }
  },
- "identifier": "cg/dui"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dui",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6544",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dui",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6544"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6544/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6545",
+   "title": "public-dui (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dui/",
+    "shortdesc": "public-dui",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6545"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6545/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6543",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dui/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6543"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6543/groups"
+     }
+    }
+   }
+  }
+ ]
 }
