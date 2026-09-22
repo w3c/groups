@@ -1,15 +1,14 @@
 {
  "id": 94549,
  "name": "Declarative WebVR Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-10-22",
  "description": "Our mission is to define and describe a declarative method for developing VR content.  \r\n\r\nThe hope is to define a new set of HTML tags and CSS properties that will allow web developers across the globe to write VR content for display in modern browsers",
  "shortname": "decwebvr",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/decwebvr"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/decwebvr/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/decwebvr/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decwebvr"
   }
  },
- "identifier": "cg/decwebvr"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/decwebvr",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6440",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#decwebvr",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6440"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6440/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6441",
+   "title": "public-decwebvr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-decwebvr/",
+    "shortdesc": "public-decwebvr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6441"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6441/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6439",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/decwebvr/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6439"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6439/groups"
+     }
+    }
+   }
+  }
+ ]
 }
