@@ -1,0 +1,95 @@
+{
+ "id": 67175,
+ "name": "Follow Public Money all the Way Vocabulary Community Group",
+ "is_closed": true,
+ "creation-date": "2013-10-17",
+ "description": "Recently, a series of important, and often overlapping, initiatives has emerged in the domains of opening and linking government data. A part of this data is related to economic data such as public budgets and spending, calls for tenders, business registries, prices and financial statements (refer for example to publicspending.net, opencorporates.com,openspending.org, open-contracting.org, sunlightfoundation.com/clearspending,  internationalbudget.org).\r\n\r\nThe challenge is to find ways to ask useful and real-life questions in these datasets with minimum effort. We address this issue by proposing a vocabulary to interlink open data with regards to public budgeting and spending, e-procurement and business information.\r\n\r\nThe proposed Follow Public Money All the Way Vocabulary is based on the efforts of several Semantic Web communities (e.g. Organization Ontology, Registered Organization Vocabulary and Public Contracts Ontology) and will try to incorporate existing practices, principles and standards on the related domains (e.g. IATI standard on aid, open contracting global principles and procurement open data guidelines).  \r\n\r\nThe potential usages of the vocabulary ranges from crowdsourced monitoring and risk assessment of public finance to real-time integration of public budget, tendering and spending information in Business Intelligence systems for stimulating more efficient resource allocation.",
+ "shortname": "fpmvocab",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/fpmvocab/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/fpmvocab/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/fpmvocab/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/fpmvocab/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/fpmvocab/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/fpmvocab/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/fpmvocab"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/fpmvocab",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1703",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#fpmvocab",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1703"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1703/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1704",
+   "title": "public-fpmvocab (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-fpmvocab/",
+    "shortdesc": "public-fpmvocab",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1704"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1704/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1702",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/fpmvocab/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1702"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1702/groups"
+     }
+    }
+   }
+  }
+ ]
+}
