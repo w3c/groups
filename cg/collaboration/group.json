@@ -1,15 +1,14 @@
 {
  "id": 70223,
  "name": "Collaborative Software Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-03-14",
  "description": "The mission of the Collaborative Software Community Group is to provide a forum for experts in collaborative software and groupware for technical discussions, gathering use cases and requirements to align the existing formats, software, platforms, systems and technologies (e.g. wiki technology) with those used by the Open Web Platform. The goal is to ensure that the requirements of collaborative technology and groupware can be answered, when in scope, by the Recommendations published by W3C.  \r\n\r\nThis group is chartered to publish documents when doing so can enhance collaborative technology and groupware.  The goal is to cooperate with relevant groups and to publish documents to ensure that the requirements of the collaborative software and groupware community are met.",
  "shortname": "collaboration",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/collaboration"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/collaboration/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/collaboration/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/collaboration"
   }
  },
- "identifier": "cg/collaboration"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/collaboration",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1986",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#collaboration",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1986"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1986/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1987",
+   "title": "public-collaboration (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-collaboration/",
+    "shortdesc": "public-collaboration",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1987"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1987/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1988",
+   "title": "public-collaboration-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-collaboration-contrib/",
+    "shortdesc": "public-collaboration-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1988"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1988/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1985",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/collaboration/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1985"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1985/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1984",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/collaboration/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1984"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1984/groups"
+     }
+    }
+   }
+  }
+ ]
 }
