@@ -1,15 +1,14 @@
 {
  "id": 75857,
  "name": "HTML Tidy Advocacy Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-01-15",
  "description": "The HTML Tidy Advocacy Community Group (\"HTACG\") is dedicated to the continued support, development, and evolution of the HTML Tidy command line application and library.\r\n\r\nThe Community in cooperation with the W3C aims to become the canonical release group for HTML Tidy, which has been without a stable, public release since 2008. The Community aspires to achieve the agreement and support of the original and current developers to this end.\r\n\r\nThe Community will continue to develop HTML Tidy to adapt it to modern standards; to implement testing systems; and to implement robust build systems. The Community will also promote the continued relevance of HTML Tidy in modern software systems.\r\n\r\nThis group will not publish Specifications.",
  "shortname": "htacg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/htacg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/htacg/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/htacg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/htacg"
   }
  },
- "identifier": "cg/htacg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/htacg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5919",
+   "title": "internal-htacg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-htacg/",
+    "shortdesc": "internal-htacg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5919"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5919/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5916",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#htacg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5916"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5916/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5917",
+   "title": "public-htacg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-htacg/",
+    "shortdesc": "public-htacg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5917"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5917/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5918",
+   "title": "public-htacg-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-htacg-contrib/",
+    "shortdesc": "public-htacg-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5918"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5918/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5915",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/htacg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5915"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5915/groups"
+     }
+    }
+   }
+  }
+ ]
 }
