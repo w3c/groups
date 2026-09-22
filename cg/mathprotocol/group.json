@@ -1,0 +1,95 @@
+{
+ "id": 77888,
+ "name": "Math Protocol Handler Community Group",
+ "is_closed": true,
+ "creation-date": "2015-04-22",
+ "description": "This group's aim is to discuss and agree on the use of a custom protocol handler (math:) and standard parameters for enabling the export of mathematical expressions in MathML to other applications, such as assistive technologies, graphing calculators, math notebooks and other mathematics oriented applications, such as IPython and MATLAB.\r\n\r\nFor more information, see https://wiki.benetech.org/display/MATH/Protocol+Handlers+for+External+Applications+to+Process+MathML",
+ "shortname": "mathprotocol",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/mathprotocol/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/mathprotocol/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/mathprotocol/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/mathprotocol/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/mathprotocol/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/mathprotocol/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mathprotocol"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mathprotocol",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6009",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mathprotocol",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6009"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6009/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6010",
+   "title": "public-mathprotocol (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mathprotocol/",
+    "shortdesc": "public-mathprotocol",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6010"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6010/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6008",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mathprotocol/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6008"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6008/groups"
+     }
+    }
+   }
+  }
+ ]
+}
