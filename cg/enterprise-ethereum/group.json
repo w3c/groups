@@ -1,15 +1,14 @@
 {
  "id": 96377,
  "name": "Enterprise Ethereum Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-01-18",
  "description": "The mission of Enterprise Ethereum is building and advancing Ethereum to enterprise grade technology.  The group will build, promote and broadly support Ethereum-based technology best practices, standards and reference architectures.",
  "shortname": "enterprise-ethereum",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/enterprise-ethereum"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/enterprise-ethereum/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/enterprise-ethereum/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/enterprise-ethereum"
   }
  },
- "identifier": "cg/enterprise-ethereum"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/enterprise-ethereum",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6490",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#enterprise-ethereum",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6490"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6490/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6491",
+   "title": "public-enterprise-ethereum (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-enterprise-ethereum/",
+    "shortdesc": "public-enterprise-ethereum",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6491"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6491/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6489",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/enterprise-ethereum/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6489"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6489/groups"
+     }
+    }
+   }
+  }
+ ]
 }
