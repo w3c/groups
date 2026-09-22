@@ -1,15 +1,14 @@
 {
  "id": 136751,
  "name": "Low Vision Community Group",
- "is_closed": false,
- "description": "The mission of the Low Vision Community Group is to work with and support the Low Vision Task Force of the Accessibility Guidelines Working Group to improve web accessibility for people with low vision.",
+ "is_closed": true,
+ "creation-date": "2022-03-11",
+ "description": "<p>The mission of the Low Vision Community Group is to work with and support the Low Vision Task Force of the Accessibility Guidelines Working Group to improve web accessibility for people with low vision.</p>",
  "shortname": "low-vision",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/low-vision"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/low-vision/"
   },
@@ -27,26 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/low-vision/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/low-vision"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/low-vision",
  "services": [
   {
-   "href": "https://api.w3.org/services/33357",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/33358",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#low-vision",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33358"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33358/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/33359",
-   "title": "Mailing List"
+   "title": "public-low-vision (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-low-vision/",
+    "shortdesc": "public-low-vision",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33359"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33359/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/33360",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/33357",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/low-vision/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33357"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33357/groups"
+     }
+    }
+   }
   }
  ]
 }
