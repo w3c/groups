@@ -1,0 +1,98 @@
+{
+ "id": 103229,
+ "name": "Web5G Based Communications Accessibility Business Group",
+ "is_closed": true,
+ "creation-date": "2017-11-07",
+ "description": "Discussion communications accessibility based on Web5G and AI.The purpose of this group was to collect information on accessibility issues and implement the communications accessibility between normal people and disabled people, natives and foreigners, people and robots.",
+ "shortname": "acweb",
+ "closed_date": "2020-12-02",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/acweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/acweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/acweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/acweb/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/acweb/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/acweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/acweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/bg/acweb"
+  }
+ },
+ "type": "business group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "bg",
+ "identifier": "bg/acweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12245",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#acweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12245"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12245/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12246",
+   "title": "public-acweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-acweb/",
+    "shortdesc": "public-acweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12246"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12246/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12244",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/acweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12244"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12244/groups"
+     }
+    }
+   }
+  }
+ ]
+}
