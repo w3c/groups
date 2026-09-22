@@ -1,0 +1,20 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Linked-Data-Templates",
+  "owner": {
+   "login": "AtomGraph"
+  },
+  "url": "https://github.com/AtomGraph/Linked-Data-Templates",
+  "homepageUrl": "https://atomgraph.github.io/Linked-Data-Templates/",
+  "description": "LDT specification draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/declarative-apps"
+   ],
+   "exposed": true
+  }
+ }
+]
