@@ -1,0 +1,36 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "compat-tables",
+  "owner": {
+   "login": "W3CGHtmail"
+  },
+  "url": "https://github.com/W3CGHtmail/compat-tables",
+  "description": "Tables to compare different email clients and things they support or don't...",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/htmail"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "html-email-spec",
+  "owner": {
+   "login": "W3CGHtmail"
+  },
+  "url": "https://github.com/W3CGHtmail/html-email-spec",
+  "description": "Home for the HTML for Email Community Group Specification Proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/htmail"
+   ],
+   "exposed": true
+  }
+ }
+]
