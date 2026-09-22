@@ -1,15 +1,14 @@
 {
  "id": 50071,
  "name": "CSS Accessibility Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-10-12",
  "description": "Document and describe how browsers and assistive technology currently implement CSS in regards to accessibility and guidance on how they should. The documentation and guidance will be directed at both CSS implementers and developers who use CSS.",
  "shortname": "cssacc",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cssacc"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cssacc/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cssacc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cssacc"
   }
  },
- "identifier": "cg/cssacc"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cssacc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/701",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cssacc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/701"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/701/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/702",
+   "title": "public-cssacc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cssacc/",
+    "shortdesc": "public-cssacc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/702"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/702/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/700",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cssacc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/700"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/700/groups"
+     }
+    }
+   }
+  }
+ ]
 }
