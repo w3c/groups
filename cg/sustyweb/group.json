@@ -35,5 +35,115 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/sustyweb"
+ "identifier": "cg/sustyweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39167",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/sustyweb",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39167"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39167/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1477",
+   "title": "internal-sustyweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-sustyweb/",
+    "shortdesc": "internal-sustyweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1477"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1477/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1475",
+   "title": "public-sustyweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sustyweb/",
+    "shortdesc": "public-sustyweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1475"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1475/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1473",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sustyweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1473"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1473/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39166",
+   "title": "Slack (Slack)",
+   "details": {
+    "closed": false,
+    "type": "slack",
+    "link": "https://w3ccommunity.slack.com/archives/C02JETQAQG4",
+    "shortdesc": "Slack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39166"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39166/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1472",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/sustyweb/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1472"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1472/groups"
+     }
+    }
+   }
+  }
+ ]
 }
