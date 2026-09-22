@@ -1,15 +1,14 @@
 {
  "id": 62132,
  "name": "Open Linked Education Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-03-21",
  "description": "As a burgeoning and emerging area, open linked data for education is currently experiencing momentum across several initiatives and organisations including Open Education, LinkedUp, LinkedUniversities or LinkedEducation., and the Open Knowledge Foundation, to name just a few.  \r\n\r\nWe believe that we are now at a time when these efforts should converge, with this group representing a focus point for the community to collect, capture and adopt the practices that are going to be the foundation of the web of educational data. We therefore set the following set of goals for this group:\r\n\r\n1. To collect from existing initiatives the practices currently used to share education-related data on the web. This includes the vocabularies that are employed as well as the ways in which common aspects of the data are being modelled with these vocabularies (e.g.course catalogues, resources, university facilities, research results). Further statistical analysis can provide sound guidance on vocabulary usage within the educational Web of data.\r\n\r\n2. To identify common, best practices amongst those and document them (including concrete examples).\r\n\r\n3. To facilitate the adoption of these common best practices, through direct interaction with community stakeholders, as well as through showing the benefits of the reuse of data modelling practices in application developments.\r\n\r\nWhile this has some similarities with the idea of “creating an ontology of education”, it is not what we are aiming to achieve. Education is very broad, and our goal is therefore rather to provide common “patterns” that use existing vocabularies for the representation of common education-related data. We do expect this to create resources of interest whenever our efforts will contribute to filling a gap, and to refer to other of such resources (such as LRMI for learning resources) in other cases.\r\n\r\nThis group will not publish specifications.",
  "shortname": "opened",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opened"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opened/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opened/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opened"
   }
  },
- "identifier": "cg/opened"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opened",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1462",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opened",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1462"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1462/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1463",
+   "title": "public-opened (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opened/",
+    "shortdesc": "public-opened",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1463"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1463/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1461",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opened/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1461"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1461/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1460",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/opened/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1460"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1460/groups"
+     }
+    }
+   }
+  }
+ ]
 }
