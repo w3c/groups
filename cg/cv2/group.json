@@ -1,0 +1,77 @@
+{
+ "id": 81881,
+ "name": "CV 2.0 - Global Resume Community Group",
+ "is_closed": true,
+ "creation-date": "2015-08-06",
+ "description": "<p>The purpose of the CV 2.0 - Global Resume group is to move the current textual data and partly chaotic graphical resumes to a well-structured and accessible CV 2.0 that supports applicants as well as recruiters.</p>\r\n<p>The group will publish and update:</p>\r\n<ol>\r\n<li>specifications on the creation and usage of a CV 2.0,</li>\r\n<li>guidance on the implementation of new systems using the CV 2.0 and integration into existing professional networks or resume filtering software,</li>\r\n<li>templates, styleguides, and more.</li>\r\n</ol>\r\n<p>See the <a rel=\"nofollow\" href=\"https://www.w3.org/community/cv2/charter/\">charter</a> for more detailed information.</p>",
+ "shortname": "cv2",
+ "closed_date": "2017-10-24",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/cv2/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/cv2/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/cv2/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/cv2/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/cv2/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/cv2/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cv2"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cv2",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6144",
+   "title": "internal-cv2 (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-cv2/",
+    "shortdesc": "internal-cv2",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6144"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6144/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6142",
+   "title": "public-cv2 (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cv2/",
+    "shortdesc": "public-cv2",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6142"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6142/groups"
+     }
+    }
+   }
+  }
+ ]
+}
