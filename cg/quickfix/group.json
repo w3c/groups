@@ -1,15 +1,14 @@
 {
  "id": 69802,
  "name": "Quick-fix support for XML Community Group",
- "is_closed": false,
- "description": "Sometimes an error reported against an XML document can be fixed automatically, for example if the error refers to an unexpected attribute then an automatic fix will be to delete that unexpected attribute. \r\nWe want to explore the issues related to applying quick fixes (like preserving DOCTYPE declarations, entities, etc.) and determine what actions will be needed be able to apply quick fixes on a document as well as a representation language to describe these actions.\r\n\r\nQuick fixes are especially interesting when we use Schematron for XML validation, as in this case the quick-fix should be specified by the schema author, so we have user-defined quick fixes. Imagine for example a business rule implemented in Schematron that says that a list should contain between 4 and 8 items. If we determine that there are two items then a quick fix will propose to add automatically two more items to the list or if the list has 10 items then a quick fix may propose to delete two items or to split the list in two lists, etc.\r\n\r\n",
+ "is_closed": true,
+ "creation-date": "2014-02-20",
+ "description": "Sometimes an error reported against an XML document can be fixed automatically, for example if the error refers to an unexpected attribute then an automatic fix will be to delete that unexpected attribute. \r\nWe want to explore the issues related to applying quick fixes (like preserving DOCTYPE declarations, entities, etc.) and determine what actions will be needed be able to apply quick fixes on a document as well as a representation language to describe these actions.\r\n\r\nQuick fixes are especially interesting when we use Schematron for XML validation, as in this case the quick-fix should be specified by the schema author, so we have user-defined quick fixes. Imagine for example a business rule implemented in Schematron that says that a list should contain between 4 and 8 items. If we determine that there are two items then a quick fix will propose to add automatically two more items to the list or if the list has 10 items then a quick fix may propose to delete two items or to split the list in two lists, etc.",
  "shortname": "quickfix",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/quickfix"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/quickfix/"
   },
@@ -27,43 +26,85 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/quickfix/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/quickfix"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/quickfix",
  "services": [
   {
-   "href": "https://api.w3.org/services/1967",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/1968",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/1969",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/1971",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/15515",
-   "title": "Version Control",
+   "title": "GitHub repositories (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/schematron-quickfix",
     "shortdesc": "GitHub repositories",
-    "longdesc": "GitHub repositories",
-    "external": true,
-    "closed": false,
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/15515"
      },
      "groups": {
       "href": "https://api.w3.org/services/15515/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1968",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#quickfix",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1968"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1968/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1969",
+   "title": "public-quickfix (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-quickfix/",
+    "shortdesc": "public-quickfix",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1969"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1969/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1967",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/quickfix/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1967"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1967/groups"
      }
     }
    }
