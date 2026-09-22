@@ -1,15 +1,14 @@
 {
  "id": 91249,
  "name": "Accessible Playlist Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-06-02",
  "description": "The mission of this group is to develop a media playlist format, or an extension to an existing format such as <a rel=\"nofollow\" href=\"http://www.xspf.org/\">XSPF</a>, in order to ensure playlists support all resources necessary to deliver accessible HTML5 media (e.g., media files in multiple formats, captions, subtitles, descriptions, chapters, metadata, and sign language).    ",
  "shortname": "playlist-a11y",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/playlist-a11y"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/playlist-a11y/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/playlist-a11y/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/playlist-a11y"
   }
  },
- "identifier": "cg/playlist-a11y"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/playlist-a11y",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6360",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#playlist-a11y",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6360"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6360/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6361",
+   "title": "public-playlist-a11y (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-playlist-a11y/",
+    "shortdesc": "public-playlist-a11y",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6361"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6361/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6359",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/playlist-a11y/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6359"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6359/groups"
+     }
+    }
+   }
+  }
+ ]
 }
