@@ -1,22 +1,70 @@
 [
  {
-  "name": "mathml.old",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "discussion-papers",
   "owner": {
-   "login": "w3c"
+   "login": "mathml-refresh"
   },
-  "description": "MathML editors' draft",
-  "isArchived": true,
+  "url": "https://github.com/mathml-refresh/discussion-papers",
+  "description": "informal unofficial documents for discussion",
+  "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/mathml4"
    ],
-   "contacts": [
-    "bert-github"
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ink-metrics",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/ink-metrics",
+  "description": "Test for ink metrics",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
    ],
-   "policy": "open",
-   "repo-type": [
-    "cg-report"
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mathml-css-proposals",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/mathml-css-proposals",
+  "homepageUrl": "https://mathml-refresh.github.io/mathml-css-proposals/",
+  "description": "Draft for CSS proposals ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mathml-refresh.github.io",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/mathml-refresh.github.io",
+  "homepageUrl": "https://mathml-refresh.github.io",
+  "description": "gh-pages site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
    ],
    "exposed": true
   }
