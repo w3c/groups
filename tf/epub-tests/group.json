@@ -1,67 +1,13 @@
 {
  "id": 133547,
  "name": "EPUB Testing",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2021-09-09",
  "description": "Task force managing the test suite and reporting for the EPUB WG",
  "shortname": "epub-tests",
- "members": [
-  {
-   "id": 125377,
-   "name": "EPUB 3 Working Group",
-   "is_closed": false,
-   "description": "The mission of the EPUB 3 Working Group is to maintain and develop the EPUB 3 family of specifications, to represent the EPUB community in the W3C, and to support EPUB 3 content creators and consumers by further advancing, refining, and clarifying the current EPUB 3 specification.",
-   "shortname": "epub",
-   "discr": "w3cgroup",
-   "type": "working group",
-   "start-date": "2020-08-14",
-   "end-date": "2023-08-31",
-   "_links": {
-    "self": {
-     "href": "https://api.w3.org/groups/wg/epub"
-    },
-    "homepage": {
-     "href": "https://www.w3.org/publishing/groups/epub-wg/"
-    },
-    "users": {
-     "href": "https://api.w3.org/groups/wg/epub/users"
-    },
-    "services": {
-     "href": "https://api.w3.org/groups/wg/epub/services"
-    },
-    "specifications": {
-     "href": "https://api.w3.org/groups/wg/epub/specifications"
-    },
-    "chairs": {
-     "href": "https://api.w3.org/groups/wg/epub/chairs"
-    },
-    "team-contacts": {
-     "href": "https://api.w3.org/groups/wg/epub/teamcontacts"
-    },
-    "charters": {
-     "href": "https://api.w3.org/groups/wg/epub/charters"
-    },
-    "active-charter": {
-     "href": "https://api.w3.org/groups/wg/epub/charters/416"
-    },
-    "join": {
-     "href": "https://www.w3.org/groups/wg/epub/join"
-    },
-    "pp-status": {
-     "href": "https://www.w3.org/groups/wg/epub/ipr"
-    },
-    "participations": {
-     "href": "https://api.w3.org/groups/wg/epub/participations"
-    }
-   }
-  }
- ],
- "internal": false,
- "participants_list_public": true,
+ "closed_date": "2023-06-20",
  "discr": "tf",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/tf/epub-tests"
-  },
   "homepage": {
    "href": "https://github.com/w3c/epub-tests"
   },
@@ -73,7 +19,33 @@
   },
   "chairs": {
    "href": "https://api.w3.org/groups/tf/epub-tests/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/epub-tests"
   }
  },
- "identifier": "tf/epub-tests"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/epub-tests",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/34031",
+   "title": "group-epub-testing (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-epub-testing/",
+    "shortdesc": "group-epub-testing",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34031"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34031/groups"
+     }
+    }
+   }
+  }
+ ]
 }
