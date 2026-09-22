@@ -1,15 +1,14 @@
 {
  "id": 50431,
  "name": "Do-Not-Track Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-10-28",
  "description": "This community group, started by Lee Tien of the Electronic Frontier Foundation, is intended as a companion to the Tracking Protection Working Group with the goal of enabling consumer and privacy groups to participate meaningfully in the WG even if they do not participate in WG conference calls, mailing lists, or in-person workshops.  In the short term, this community group's major goal will be to analyze and respond to the First Public Working Draft, which is expected soon.",
  "shortname": "dntrack",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dntrack"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dntrack/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dntrack/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dntrack"
   }
  },
- "identifier": "cg/dntrack"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dntrack",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/744",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dntrack",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/744"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/744/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/745",
+   "title": "public-dntrack (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dntrack/",
+    "shortdesc": "public-dntrack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/745"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/745/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/746",
+   "title": "public-dntrack-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dntrack-contrib/",
+    "shortdesc": "public-dntrack-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/746"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/746/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/743",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dntrack/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/743"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/743/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/742",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/dntrack/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/742"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/742/groups"
+     }
+    }
+   }
+  }
+ ]
 }
