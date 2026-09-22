@@ -1,0 +1,95 @@
+{
+ "id": 49219,
+ "name": "Electrophysiology of Vision Markup Language Community Group",
+ "is_closed": true,
+ "creation-date": "2011-09-02",
+ "description": "Exchange of electrophysiological data for post-processing including in clinical trials is gaining increasing importance. Although manufacturers of electrophysiological devices usually provide means for exporting data, these are often restricted to either proprietary or ASCII-based formats which do not provide access to raw data or protocol details. With the need for central reading in multi-centre trials this becomes a major problem. The reading process usually requires all details of a measurement, to allow for properly monitoring compliance with study protocols. Standards for exchanging data have already been approved for other applications of electrmophysiology including EEG or ECG. However, these standards are usually focused on their specific field of application. Common standards are also available, like GDF (General Data Format for Biosignals), EDF (European Data Format), or HL7 and DICOM; however, these standards either do not match the specific requirements of ophthalmic electrophysiology or the efforts to adapt them are very high. Therefore we are proposing an open standard for the exchange of data for electrophysiology of vision based on the Extensible Markup Language (XML).",
+ "shortname": "elvisml",
+ "closed_date": "2013-03-12",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/elvisml/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/elvisml/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/elvisml/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/elvisml/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/elvisml/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/elvisml/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/elvisml"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/elvisml",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/563",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#elvisml",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/563"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/563/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/564",
+   "title": "public-elvisml (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-elvisml/",
+    "shortdesc": "public-elvisml",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/564"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/564/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/562",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/elvisml/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/562"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/562/groups"
+     }
+    }
+   }
+  }
+ ]
+}
