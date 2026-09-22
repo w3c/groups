@@ -1,15 +1,14 @@
 {
  "id": 51258,
  "name": "Accessible Infographics Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-12-06",
  "description": "The goal of the Accessible Infographics CG is to make information graphics, like bar charts and maps, as accessible as possible to all.  The plan is to bring together experts and pioneers in the fields of data visualization and accessibility, to create use cases and requirements in a systematic manner, to devise and propose additions to SVG that improve accessible options for data in that and other graphics formats, and to document best practices and tutorials for making infographics accessible.",
  "shortname": "infographics",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/infographics"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/infographics/"
   },
@@ -27,7 +26,124 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/infographics/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/infographics"
   }
  },
- "identifier": "cg/infographics"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/infographics",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/840",
+   "title": "internal-infographics (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-infographics/",
+    "shortdesc": "internal-infographics",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/840"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/840/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/837",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#infographics",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/837"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/837/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/838",
+   "title": "public-infographics (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-infographics/",
+    "shortdesc": "public-infographics",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/838"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/838/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/839",
+   "title": "public-infographics-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-infographics-contrib/",
+    "shortdesc": "public-infographics-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/839"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/839/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/836",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/infographics/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/836"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/836/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/835",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/infographics/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/835"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/835/groups"
+     }
+    }
+   }
+  }
+ ]
 }
