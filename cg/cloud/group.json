@@ -1,15 +1,14 @@
 {
  "id": 50517,
  "name": "Cloud Computing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-11-03",
  "description": "The group will examine and create specifications related to distributed computation and storage, with an XML network transport layer and possible mapping to RDF.",
  "shortname": "cloud",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cloud"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cloud/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cloud/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cloud"
   }
  },
- "identifier": "cg/cloud"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cloud",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/776",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cloud",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/776"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/776/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/777",
+   "title": "public-cloud (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cloud/",
+    "shortdesc": "public-cloud",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/777"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/777/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/775",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cloud/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/775"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/775/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/774",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/cloud/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/774"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/774/groups"
+     }
+    }
+   }
+  }
+ ]
 }
