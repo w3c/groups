@@ -1,15 +1,14 @@
 {
  "id": 68845,
  "name": "Chinese Digital Publishing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-01-09",
  "description": "Chinese Digital Publishing Community Group aims to provide a platform for the Chinese digital publishing industry to share perspectives on Chinese text layout, copyrights and other occupational standards. Also we hope to help build network of contacts within the Chinese digital publishing companies and the publishing industry. \r\n\r\nThis group will not publish specifications.",
  "shortname": "cndpubcg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cndpubcg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cndpubcg/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cndpubcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cndpubcg"
   }
  },
- "identifier": "cg/cndpubcg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cndpubcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1929",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cndpubcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1929"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1929/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1930",
+   "title": "public-cndpubcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cndpubcg/",
+    "shortdesc": "public-cndpubcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1930"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1930/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1928",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cndpubcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1928"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1928/groups"
+     }
+    }
+   }
+  }
+ ]
 }
