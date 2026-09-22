@@ -1,0 +1,95 @@
+{
+ "id": 104761,
+ "name": "Process Ontology Community Group",
+ "is_closed": true,
+ "creation-date": "2018-01-19",
+ "description": "The goal of this group is to provide a process ontology that can be used for workflow logging applications as well as for workflow execution applications. Operational semantics will be defined outside of the OWL ontology language, while the ontological commitment aims to be aligned with other W3C ontologies such as the PROV and Time Ontology. A mapping from/to established workflow languages/models such as BPMN is intended.",
+ "shortname": "pronto",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/pronto/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/pronto/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/pronto/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/pronto/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/pronto/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/pronto/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/pronto"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/pronto",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12280",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#pronto",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12280"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12280/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12281",
+   "title": "public-pronto (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-pronto/",
+    "shortdesc": "public-pronto",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12281"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12281/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12279",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/pronto/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12279"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12279/groups"
+     }
+    }
+   }
+  }
+ ]
+}
