@@ -1,0 +1,113 @@
+{
+ "id": 72851,
+ "name": "Open and Transparent W3C Community Group",
+ "is_closed": true,
+ "creation-date": "2014-08-04",
+ "description": "Although the World Wide Web (WWW) is an open and free information system, participation in the member-based World Wide Web Consortium (W3C) typically requires paying a membership fee to participate in the Consortium's standards setting groups. As such, the W3C is often criticized as a closed organization by those that are not members of the Consortium. This group aspires to help provide non Members with simple mechanisms to provide feedback to the Consortium (the Consortium's Members and the Consortium's Staff) on topics such as (but not limited to): areas where new Web standards are needed (e.g. to help address some interoperability pain point), Consortium priorities, the evolution of the Web, aligning Consortium's activities with the Web, collaboration with other organizations, etc.\r\n\r\nAnyone - including non-Members - is welcome and encouraged to join this group. Participants include technical contributors to Web standards, Web standards Editors and group Chairs. The group also includes participants from the Consortium's \"Advisory Committee\" and at least one member of the Consortium's elected Advisory Board. Additionally, the group welcomes members of the Consortium's staff.\r\n\r\nIf someone wants to communicate with this group but does not want to formally join it, that's OK; just send an email to the group's mail list: public-openw3c@w3.org (see  for the list archive and RSS feed information). \r\n\r\nThis group will not publish specifications.",
+ "shortname": "openw3c",
+ "closed_date": "2017-03-16",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/openw3c/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/openw3c/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/openw3c/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/openw3c/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/openw3c/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/openw3c/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/openw3c"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/openw3c",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2070",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#openw3c",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2070"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2070/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2071",
+   "title": "public-openw3c (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-openw3c/",
+    "shortdesc": "public-openw3c",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2071"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2071/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2069",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/openw3c/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2069"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2069/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2080",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/wiki/OpenAndTransparentW3C",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2080"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2080/groups"
+     }
+    }
+   }
+  }
+ ]
+}
