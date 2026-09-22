@@ -1,15 +1,14 @@
 {
  "id": 59879,
  "name": "Geospatial Semantic Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-12-19",
  "description": "GeoKnow addresses a bold challenge in the area of intelligent information management: the exploitation of the Web as a platform for geospatial knowledge integration as well as for exploration of geographic information. This group will bring together scientists, GIS users, linked Data users, data consumers and providers,  interested in the exploitation of linked geospatial data. \r\n\r\nThis group will not produce specifications.",
  "shortname": "geosemweb",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/geosemweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/geosemweb/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/geosemweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/geosemweb"
   }
  },
- "identifier": "cg/geosemweb"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/geosemweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1366",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#geosemweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1366"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1366/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1367",
+   "title": "public-geosemweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-geosemweb/",
+    "shortdesc": "public-geosemweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1367"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1367/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1365",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/geosemweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1365"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1365/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1364",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/geosemweb/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1364"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1364/groups"
+     }
+    }
+   }
+  }
+ ]
 }
