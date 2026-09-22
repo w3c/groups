@@ -1,0 +1,49 @@
+{
+ "id": 41565,
+ "name": "Forms Task Force",
+ "is_closed": true,
+ "shortname": "formstf",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2007/10/forms-tf/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/formstf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/formstf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/formstf/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/formstf"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/formstf",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/3404",
+   "title": "public-forms-tf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-forms-tf/",
+    "shortdesc": "public-forms-tf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/3404"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/3404/groups"
+     }
+    }
+   }
+  }
+ ]
+}
