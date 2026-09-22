@@ -32,7 +32,82 @@
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/did-kr"
+ "identifier": "cg/did-kr",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25772",
+   "title": "internal-did-kr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-did-kr/",
+    "shortdesc": "internal-did-kr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25772"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25772/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25770",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#did-kr",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25770"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25770/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25771",
+   "title": "public-did-kr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-did-kr/",
+    "shortdesc": "public-did-kr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25771"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25771/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25769",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/did-kr/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25769"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25769/groups"
+     }
+    }
+   }
+  }
+ ]
 }
