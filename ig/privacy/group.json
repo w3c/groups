@@ -50,5 +50,157 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
- "identifier": "ig/privacy"
+ "identifier": "ig/privacy",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/43839",
+   "title": "Privacy charters review requests (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/strategy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Horizontal+review+requested%22+-label%3A%22Privacy+review+completed%22",
+    "shortdesc": "Privacy charters review requests",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43839"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43839/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43840",
+   "title": "Privacy specifications review requests (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3cping/privacy-request/issues",
+    "shortdesc": "Privacy specifications review requests",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43840"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43840/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25910",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=ig/privacy",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25910"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25910/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40765",
+   "title": "Past meetings minutes (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/Privacy/IG/meetings.html",
+    "shortdesc": "Past meetings minutes",
+    "longdesc": "Minutes from past Privacy Interest Group Meetings",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40765"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40765/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40764",
+   "title": "Horizontal issues (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/horizontal/?repo=w3cping/tracking-issues",
+    "shortdesc": "Horizontal issues",
+    "longdesc": "PING review comment tracker",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40764"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40764/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13779",
+   "title": "public-privacy (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-privacy",
+    "shortdesc": "public-privacy",
+    "longdesc": "Public mailing list for the Privacy Interest Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13779"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13779/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17285",
+   "title": "Slack (Slack)",
+   "details": {
+    "closed": false,
+    "type": "slack",
+    "link": "https://w3ccommunity.slack.com/",
+    "shortdesc": "Slack",
+    "longdesc": "W3C Community slack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17285"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17285/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17286",
+   "title": "w3cping GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3cping/",
+    "shortdesc": "w3cping GitHub",
+    "longdesc": "w3cping GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17286"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17286/groups"
+     }
+    }
+   }
+  }
+ ]
 }
