@@ -51,5 +51,157 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/publishing"
+ "identifier": "wg/publishing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/10740",
+   "title": "member-publ-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-publ-wg/",
+    "shortdesc": "member-publ-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/10740"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/10740/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9651",
+   "title": "public-publ-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-publ-wg/",
+    "shortdesc": "public-publ-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9651"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9651/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17265",
+   "title": "Blog (Blog)",
+   "details": {
+    "closed": false,
+    "type": "blog",
+    "link": "https://www.w3.org/blog/dpub/",
+    "shortdesc": "Blog",
+    "longdesc": "Activity blog",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17265"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17265/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17279",
+   "title": "cg (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/community/publishingcg/",
+    "shortdesc": "cg",
+    "longdesc": "Community Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17279"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17279/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17268",
+   "title": "Meetings (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/publishing/groups/publ-wg/Meetings/",
+    "shortdesc": "Meetings",
+    "longdesc": "Information on Meetings",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17268"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17268/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25888",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=100074",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25888"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25888/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17267",
+   "title": "minutes (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/",
+    "shortdesc": "minutes",
+    "longdesc": "Meeting minutes",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17267"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17267/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17266",
+   "title": "Group wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://github.com/w3c/publ-wg/wiki",
+    "shortdesc": "Group wiki",
+    "longdesc": "Working Group wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17266"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17266/groups"
+     }
+    }
+   }
+  }
+ ]
 }
