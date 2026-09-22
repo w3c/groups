@@ -1,15 +1,14 @@
 {
  "id": 75796,
  "name": "HTML5 Japanese Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-01-14",
  "description": "The mission of the HTML5 Japanese Community Group includes the following:\r\n\r\n* to facilitate focused discussion in Japanese of the HTML5 specification and of related specifications\r\n* to gather comments and questions in Japanese about those specifications\r\n* to collect information about specific use cases in Japan for technologies defined in those specifications\r\n* to report the results of its activities as a group back to the HTML Working Group and to the W3C membership and community\r\n\r\nThis Community Group is the successor of the HTML5 Japanese Interest Group. This group will not publish Specifications.",
  "shortname": "html5jp",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/html5jp"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/html5jp/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/html5jp/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/html5jp"
   }
  },
- "identifier": "cg/html5jp"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/html5jp",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5905",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#html5jp",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5905"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5905/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5906",
+   "title": "public-html5jp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html5jp/",
+    "shortdesc": "public-html5jp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5906"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5906/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5904",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/html5jp/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5904"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5904/groups"
+     }
+    }
+   }
+  }
+ ]
 }
