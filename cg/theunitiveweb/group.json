@@ -1,15 +1,14 @@
 {
  "id": 121203,
  "name": "The Unitive Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-02-14",
  "description": "Currently, there is a growing movement from the independence of the web, towards dominant companies. These companies offer organized information, but this comes at a price. We lose our independence more and more. The Unitive Web is a proposal to have both organized information and independence. It offers one generic approach closely compatible with the current web, which makes it possible to create a global open virtual space of information which is responsive and reliable. It offers open customization of user interaction, open bottom-up schema mapping, integration of (AI) algorithms, and facilitates in the protection of privacy.\r\n\r\nThe aim of this group is to discuss any aspect of it and share specifications.\r\n\r\nFor more information, see this <a rel=\"nofollow\" href=\"https://youtu.be/lzXON9Eigtg\">video about Unitive Web</a>.",
  "shortname": "theunitiveweb",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/theunitiveweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/theunitiveweb/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/theunitiveweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/theunitiveweb"
   }
  },
- "identifier": "cg/theunitiveweb"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/theunitiveweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25755",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#theunitiveweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25755"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25755/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25756",
+   "title": "public-theunitiveweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-theunitiveweb/",
+    "shortdesc": "public-theunitiveweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25756"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25756/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25754",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/theunitiveweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25754"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25754/groups"
+     }
+    }
+   }
+  }
+ ]
 }
