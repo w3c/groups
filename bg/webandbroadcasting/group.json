@@ -1,0 +1,134 @@
+{
+ "id": 53909,
+ "name": "Web and Broadcasting Business Group",
+ "is_closed": true,
+ "creation-date": "2012-03-26",
+ "description": "The aim of the Web and Broadcasting Business Group was to study and clarify the influence of Open Web Platform on the professional world of broadcasting, and to help stakeholders within the broadcasting industry to build good and practical understanding on the standardization processes in W3C with the chair-to-chair communication mechanism built into business groups. ",
+ "shortname": "webandbroadcasting",
+ "closed_date": "2020-12-03",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webandbroadcasting/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/webandbroadcasting/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/webandbroadcasting/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/webandbroadcasting/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/webandbroadcasting/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webandbroadcasting/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/webandbroadcasting/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/bg/webandbroadcasting"
+  }
+ },
+ "type": "business group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "bg",
+ "identifier": "bg/webandbroadcasting",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1056",
+   "title": "internal-webandbroadcasting (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-webandbroadcasting/",
+    "shortdesc": "internal-webandbroadcasting",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1056"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1056/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1053",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webandbroadcasting",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1053"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1053/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1054",
+   "title": "public-webandbroadcasting (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webandbroadcasting/",
+    "shortdesc": "public-webandbroadcasting",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1054"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1054/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1052",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webandbroadcasting/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1052"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1052/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1051",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/webandbroadcasting/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1051"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1051/groups"
+     }
+    }
+   }
+  }
+ ]
+}
