@@ -1,1 +1,19 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "DCDR",
+  "owner": {
+   "login": "TheIOFoundation"
+  },
+  "url": "https://github.com/TheIOFoundation/DCDR",
+  "description": "The Data-Centric Digital Rights (DCDR) Framewoek, is composed of Principles, Taxonomies and other technical tools for technologists. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as NextGen Rights Defenders.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dcdr-framework"
+   ],
+   "exposed": true
+  }
+ }
+]
