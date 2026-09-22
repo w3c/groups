@@ -1,15 +1,14 @@
 {
  "id": 142387,
  "name": "Service Discovery Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2023-02-09",
  "description": "The internet has several service discovery mechanisms, such as SRV records and mDNS which are not exposed to web clients.\r\n\r\nThe purpose of this CG will be to define a browser API allowing service discovery via these and other relevant mechanisms.",
  "shortname": "service-disco",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/service-disco"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/service-disco/"
   },
@@ -27,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/service-disco/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/service-disco"
   }
  },
  "type": "community group",
- "identifier": "cg/service-disco"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/service-disco",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40696",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#service-disco",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40696"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40696/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40697",
+   "title": "public-service-disco (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-service-disco/",
+    "shortdesc": "public-service-disco",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40697"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40697/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40695",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/service-disco/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40695"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40695/groups"
+     }
+    }
+   }
+  }
+ ]
 }
