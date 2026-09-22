@@ -1,15 +1,14 @@
 {
  "id": 49161,
  "name": "Community I/O Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-09-01",
  "description": "This group will focus on applying current information technologies to create a foundation of infrastructure for organizing the flow of resources and support with services within human community.\r\nAll peers (individuals or projects) can state their needs (input) and offers (output).\r\nUsing Semantic Web, Federated Social Web and other related technologies people can develop various approaches of connecting those needs and offers. Including variants with and without use of currencies.",
  "shortname": "community-io",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/community-io"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/community-io/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/community-io/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/community-io"
   }
  },
- "identifier": "cg/community-io"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/community-io",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/546",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#community-io",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/546"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/546/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/547",
+   "title": "public-community-io (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-community-io/",
+    "shortdesc": "public-community-io",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/547"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/547/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/545",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/community-io/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/545"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/545/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/544",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/community-io/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/544"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/544/groups"
+     }
+    }
+   }
+  }
+ ]
 }
