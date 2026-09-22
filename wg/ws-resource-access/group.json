@@ -1,0 +1,92 @@
+{
+ "id": 43088,
+ "name": "Web Services Resource Access Working Group",
+ "is_closed": true,
+ "shortname": "ws-resource-access",
+ "closed_date": "2013-09-13",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2002/ws/ra/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/charters/267"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/ws-resource-access/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/ws-resource-access/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/ws-resource-access"
+  }
+ },
+ "type": "working group",
+ "start-date": "2008-11-07",
+ "end-date": "2013-09-13",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/ws-resource-access",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1860",
+   "title": "member-ws-resource-access (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-ws-resource-access/",
+    "shortdesc": "member-ws-resource-access",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1860"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1860/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/177",
+   "title": "wsra (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2002/ws/ra/wiki",
+    "shortdesc": "wsra",
+    "longdesc": "Web Services Resource Access Working Group Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/177"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/177/groups"
+     }
+    }
+   }
+  }
+ ]
+}
