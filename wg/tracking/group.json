@@ -50,5 +50,61 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/tracking"
+ "identifier": "wg/tracking",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1869",
+   "title": "member-tracking (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-tracking/",
+    "shortdesc": "member-tracking",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1869"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1869/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1835",
+   "title": "public-tracking (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tracking/",
+    "shortdesc": "public-tracking",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1835"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1835/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1456",
+   "title": "public-tracking-announce (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tracking-announce/",
+    "shortdesc": "public-tracking-announce",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1456"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1456/groups"
+     }
+    }
+   }
+  }
+ ]
 }
