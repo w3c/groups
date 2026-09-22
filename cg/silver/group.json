@@ -1,15 +1,14 @@
 {
  "id": 97795,
  "name": "Silver Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-03-02",
  "description": "The mission of this group was to support the research and prototyping of the next major version of Web Content Accessibility Guidelines (WCAG).",
  "shortname": "silver",
+ "closed_date": "2025-06-24",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/silver"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/silver/"
   },
@@ -27,45 +26,121 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/silver/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/silver"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/silver",
  "services": [
   {
-   "href": "https://api.w3.org/services/6576",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6577",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6578",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/13791",
-   "title": "Wiki"
-  },
-  {
    "href": "https://api.w3.org/services/15472",
-   "title": "Version Control",
+   "title": "GitHub repository (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/w3c/silver/",
-    "shortdesc": "Github repository",
-    "longdesc": "Github repository",
-    "external": true,
-    "closed": false,
+    "shortdesc": "GitHub repository",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/15472"
      },
      "groups": {
       "href": "https://api.w3.org/services/15472/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6580",
+   "title": "internal-silver (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-silver/",
+    "shortdesc": "internal-silver",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6580"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6580/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6577",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#silver",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6577"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6577/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6578",
+   "title": "public-silver (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-silver/",
+    "shortdesc": "public-silver",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6578"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6578/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6576",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/silver/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6576"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6576/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13791",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/GL/task-forces/silver/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13791"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13791/groups"
      }
     }
    }
