@@ -1,15 +1,14 @@
 {
  "id": 152176,
  "name": "JSX as markup language Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2024-01-16",
  "description": "The proposal is that jsx be implemented as a dynamic markup language for the web since just HTML + DOM are still not enough to create applications like the ones we currently build using frameworks.\r\n\r\nWith JSX updating conventional HTML ideas to create better-designed static websites and using dynamic data structures, with repetition loops and adding event hooks more easily, the group's idea would be to bring together people who share the same idea so that together we can do tests in different scenarios and create polyfills if necessary",
  "shortname": "jsxml",
+ "closed_date": "2024-12-10",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/jsxml"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/jsxml/"
   },
@@ -27,28 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/jsxml/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/jsxml"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/jsxml",
  "services": [
   {
-   "href": "https://api.w3.org/services/43856",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/43857",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#jsxml",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43857"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43857/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43858",
-   "title": "Mailing List"
+   "title": "public-jsxml (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-jsxml/",
+    "shortdesc": "public-jsxml",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43858"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43858/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/43859",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43856",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/jsxml/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43856"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43856/groups"
+     }
+    }
+   }
   }
  ]
 }
