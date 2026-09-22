@@ -1,15 +1,14 @@
 {
  "id": 67216,
  "name": "Open and Interactive Widgets for STEM Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-10-18",
  "description": "The goal of this group is to create a library of open source JavaScript interactive widgets commonly used in STEM educational resources.  The widgets will conform to WCAG guidelines and will provide interfaces to various educational technology APIs, such as Tin Can.  Examples of commonly used widgets are interactive number lines used in assessments and EPUB 3 eTextbooks, physics simulations, interactive software code editors or graphing calculators that support sonification.",
  "shortname": "stemwidgets",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/stemwidgets"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/stemwidgets/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/stemwidgets/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/stemwidgets"
   }
  },
- "identifier": "cg/stemwidgets"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/stemwidgets",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1709",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#stemwidgets",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1709"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1709/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1710",
+   "title": "public-stemwidgets (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-stemwidgets/",
+    "shortdesc": "public-stemwidgets",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1710"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1710/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1708",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/stemwidgets/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1708"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1708/groups"
+     }
+    }
+   }
+  }
+ ]
 }
