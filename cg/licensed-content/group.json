@@ -1,0 +1,95 @@
+{
+ "id": 97756,
+ "name": "Licensed Content Community Group",
+ "is_closed": true,
+ "creation-date": "2017-03-01",
+ "description": "Group to discuss how to handle licensed content that is published on the web.\r\n\r\nPropose an efficient way forward for all stakeholders.\r\n\r\nContent involved:\r\n- (stock) photos\r\n- song lyrics\r\n- video\r\n\r\nCurrently majority of enforcement relies on identifying unlicensed content, contact publisher or hoster, followed up by DMCA's or proof of ownership/licensing.",
+ "shortname": "licensed-content",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/licensed-content/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/licensed-content/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/licensed-content/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/licensed-content/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/licensed-content/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/licensed-content/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/licensed-content"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/licensed-content",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6567",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#licensed-content",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6567"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6567/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6568",
+   "title": "public-licensed-content (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-licensed-content/",
+    "shortdesc": "public-licensed-content",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6568"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6568/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6566",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/licensed-content/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6566"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6566/groups"
+     }
+    }
+   }
+  }
+ ]
+}
