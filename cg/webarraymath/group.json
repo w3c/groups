@@ -1,0 +1,95 @@
+{
+ "id": 67869,
+ "name": "Web Array Math Community Group",
+ "is_closed": true,
+ "creation-date": "2013-11-14",
+ "description": "<p><strong>See the <a rel=\"nofollow\" href=\"https://www.w3.org/community/webassembly/\">Web Assembly Community Group</a> instead.</strong></p>\r\n\r\n<p>The purpose of this group is to develop a specification for high performance, low latency typed array processing for the Web.</p>\r\n\r\n<p>The basic idea is to create an API that makes it possible to utilize hardware level parallelism, such as SIMD instructions, by providing methods that operate on whole arrays rather than single elements at a time.</p>",
+ "shortname": "webarraymath",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webarraymath/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webarraymath/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webarraymath/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webarraymath/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webarraymath/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webarraymath/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webarraymath"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webarraymath",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1747",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webarraymath",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1747"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1747/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1748",
+   "title": "public-webarraymath (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webarraymath/",
+    "shortdesc": "public-webarraymath",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1748"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1748/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1746",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webarraymath/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1746"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1746/groups"
+     }
+    }
+   }
+  }
+ ]
+}
