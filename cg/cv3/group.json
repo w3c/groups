@@ -1,15 +1,14 @@
 {
  "id": 142919,
  "name": "CV 3.0 - Global Resume Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2023-03-06",
  "description": "Move the current textual and graphical resume to a structured, accessible, privacy-respecting resume format that benefits both applicants and recruiters while giving applicants ultimate control of their data.",
  "shortname": "cv3",
+ "closed_date": "2023-12-07",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cv3"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cv3/"
   },
@@ -27,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cv3/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cv3"
   }
  },
  "type": "community group",
- "identifier": "cg/cv3"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cv3",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40704",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cv3",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40704"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40704/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40705",
+   "title": "public-cv3 (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cv3/",
+    "shortdesc": "public-cv3",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40705"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40705/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40703",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cv3/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40703"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40703/groups"
+     }
+    }
+   }
+  }
+ ]
 }
