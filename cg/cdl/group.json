@@ -1,15 +1,14 @@
 {
  "id": 73097,
  "name": "Character Description Language Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-08-15",
  "description": "This group will develop Character Description Language (CDL), an XML application for stroke-based representation of any CJK character.\r\n\r\nFor more information about this technology, see:\r\n\r\n* Character Description Language (CDL) draft specification: http://www.wenlin.com/cdl/\r\n\r\n* Appendix F: “CJK Strokes Documentation” (Unicode 6.1):\thttp://www.unicode.org/versions/Unicode6.1.0/appF.pdf",
  "shortname": "cdl",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cdl"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cdl/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cdl/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cdl"
   }
  },
- "identifier": "cg/cdl"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/cdl",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2082",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cdl",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2082"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2082/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2083",
+   "title": "public-cdl (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cdl/",
+    "shortdesc": "public-cdl",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2083"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2083/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2081",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cdl/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2081"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2081/groups"
+     }
+    }
+   }
+  }
+ ]
 }
