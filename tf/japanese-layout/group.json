@@ -1,0 +1,49 @@
+{
+ "id": 41762,
+ "name": "Japanese Layout Multi-Group Task Force",
+ "is_closed": true,
+ "shortname": "japanese-layout",
+ "closed_date": "2020-03-09",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2007/02/japanese-layout/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/japanese-layout/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/japanese-layout/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/japanese-layout/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/japanese-layout"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/japanese-layout",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1841",
+   "title": "member-japanese-layout-en (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-japanese-layout-en/",
+    "shortdesc": "member-japanese-layout-en",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1841"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1841/groups"
+     }
+    }
+   }
+  }
+ ]
+}
