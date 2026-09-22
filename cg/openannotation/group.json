@@ -1,15 +1,14 @@
 {
  "id": 51318,
  "name": "Open Annotation Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-12-08",
  "description": "The purpose of the Open Annotation Community Group is to work towards a common, RDF-based, specification for annotating digital resources. The effort will start by working towards a reconciliation of two proposals that have emerged over the past two years: the Annotation Ontology [1] and the Open Annotation Model [2]. Initially, editors of these proposals will closely collaborate to devise a common draft specification that addresses requirements and use cases that were identified in the course of their respective efforts. The goal is to make this draft available for public feedback and experimentation in the second quarter of 2012. The final deliverable of the Open Annotation Community Group will be a specification, published under an appropriate open license, that is informed by the existing proposals, the common draft specification, and the community feedback.\r\n\r\n[1] http://code.google.com/p/annotation-ontology/\r\n[2] http://www.openannotation.org/spec/beta/",
  "shortname": "openannotation",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/openannotation"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/openannotation/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/openannotation/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/openannotation"
   }
  },
- "identifier": "cg/openannotation"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/openannotation",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/865",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#openannotation",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/865"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/865/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/866",
+   "title": "public-openannotation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-openannotation/",
+    "shortdesc": "public-openannotation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/866"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/866/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/864",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/openannotation/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/864"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/864/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/863",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/openannotation/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/863"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/863/groups"
+     }
+    }
+   }
+  }
+ ]
 }
