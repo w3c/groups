@@ -1,15 +1,14 @@
 {
  "id": 97739,
  "name": "Open Science Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-03-01",
  "description": "Open Science has considered as a alternative of the entire research cycle to improve sustainable value of science. This group's goal is to develop various resource including documents and sources based on an existing knowledge (e.g. open access, open data, open source, etc.) for motivating and smooth landing on doing the open science. As a alternative of a existing scientific paradigm, this group is to introduce a general and standard filed guide for Open Science Research Cycle, to generate a logical alternative for conflict concern for open science, to provide a framework(or IDE) to implement the open science paradigm, and to develop meta data using existing knowledge (e.g. ontology, semantic web, machine learning)",
  "shortname": "opensci",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opensci"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opensci/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opensci/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opensci"
   }
  },
- "identifier": "cg/opensci"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opensci",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6562",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opensci",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6562"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6562/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6563",
+   "title": "public-opensci (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opensci/",
+    "shortdesc": "public-opensci",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6563"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6563/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6561",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opensci/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6561"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6561/groups"
+     }
+    }
+   }
+  }
+ ]
 }
