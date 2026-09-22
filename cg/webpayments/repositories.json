@@ -1,0 +1,141 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "flex-ledger",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/flex-ledger",
+  "homepageUrl": "https://web-payments.github.io/flex-ledger/",
+  "description": "A flexible format and protocol for decentralized Ledgers on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "fund",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/fund",
+  "description": "Command-line tools to fund to software development.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "minutes",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/minutes",
+  "homepageUrl": "http://www.w3.org/community/webpayments/",
+  "description": "Meeting minutes for the Web Payments work",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "spectrum.payswarm.com",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/spectrum.payswarm.com",
+  "description": "Demonstrating of spectrum trading using PaySwarm.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-commerce-api",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-commerce-api",
+  "description": "A specification for initiating payments in the browser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-payments-messaging",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-payments-messaging",
+  "description": "The Web Payments Messaging specification proposal by the Web Payments CG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-payments-vocab",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-payments-vocab",
+  "description": "Web Payments Vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-payments.org",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-payments.org",
+  "homepageUrl": "https://web-payments.org/",
+  "description": "Web Payments website and core specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ }
+]
