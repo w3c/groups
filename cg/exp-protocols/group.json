@@ -1,15 +1,14 @@
 {
  "id": 92074,
  "name": "experimental protocols Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-07-05",
  "description": "The mission for this group is to propose a unified, consensual  structure for representing experimental protocols in the biomedical domain. This group will start by publishing use cases, discussions on published use cases, evaluations of existing reporting structures, ontologies, minimal amounts of informations, etc applicable to the problem of representing and reporting experimental protocols. This group will address semantic and syntactic issues. ",
  "shortname": "exp-protocols",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/exp-protocols"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/exp-protocols/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/exp-protocols/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/exp-protocols"
   }
  },
- "identifier": "cg/exp-protocols"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/exp-protocols",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6385",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#exp-protocols",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6385"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6385/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6386",
+   "title": "public-exp-protocols (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-exp-protocols/",
+    "shortdesc": "public-exp-protocols",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6386"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6386/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6384",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/exp-protocols/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6384"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6384/groups"
+     }
+    }
+   }
+  }
+ ]
 }
