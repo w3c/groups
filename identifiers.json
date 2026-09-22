@@ -1,5 +1,13 @@
 [
  {
+  "id": 42538,
+  "identifier": "wg/webapps-old"
+ },
+ {
+  "id": 125720,
+  "identifier": "cg/foss-3d"
+ },
+ {
   "id": 152309,
   "identifier": "tf/ab-liaisons-to-bod"
  },
@@ -68,6 +76,14 @@
   "identifier": "cg/a11y-discov-vocab"
  },
  {
+  "id": 35532,
+  "identifier": "wg/eowg"
+ },
+ {
+  "id": 131822,
+  "identifier": "cg/a11yfeat"
+ },
+ {
   "id": 35422,
   "identifier": "wg/ag"
  },
@@ -84,16 +100,48 @@
   "identifier": "cg/a11yedge"
  },
  {
+  "id": 119612,
+  "identifier": "cg/accessibility4children"
+ },
+ {
+  "id": 61068,
+  "identifier": "cg/accessibilityinindia"
+ },
+ {
+  "id": 51258,
+  "identifier": "cg/infographics"
+ },
+ {
+  "id": 77612,
+  "identifier": "cg/accesslearn"
+ },
+ {
   "id": 83907,
   "identifier": "wg/apa"
+ },
+ {
+  "id": 91249,
+  "identifier": "cg/playlist-a11y"
  },
  {
   "id": 83726,
   "identifier": "wg/aria"
  },
  {
+  "id": 64927,
+  "identifier": "cg/svga11y"
+ },
+ {
   "id": 177547,
   "identifier": "cg/accessible-syncmedia-pub"
+ },
+ {
+  "id": 53645,
+  "identifier": "cg/activitypub"
+ },
+ {
+  "id": 55133,
+  "identifier": "cg/adopsdnt"
  },
  {
   "id": 175829,
@@ -108,6 +156,10 @@
   "identifier": "cg/adorai"
  },
  {
+  "id": 84066,
+  "identifier": "cg/awpat"
+ },
+ {
   "id": 7756,
   "identifier": "other/ab"
  },
@@ -120,8 +172,16 @@
   "identifier": "other/ac"
  },
  {
+  "id": 54381,
+  "identifier": "cg/coders4africa"
+ },
+ {
   "id": 113779,
   "identifier": "tf/i18n-afrlreq"
+ },
+ {
+  "id": 65880,
+  "identifier": "cg/agelabels"
  },
  {
   "id": 179420,
@@ -152,12 +212,44 @@
   "identifier": "cg/aivs"
  },
  {
+  "id": 74226,
+  "identifier": "cg/agri"
+ },
+ {
+  "id": 63549,
+  "identifier": "cg/model"
+ },
+ {
+  "id": 77980,
+  "identifier": "cg/annoux"
+ },
+ {
   "id": 134685,
   "identifier": "cg/antifraud"
  },
  {
+  "id": 106722,
+  "identifier": "cg/appsdesignlab"
+ },
+ {
   "id": 81089,
   "identifier": "tf/i18n-alreq"
+ },
+ {
+  "id": 63952,
+  "identifier": "cg/argmntreprsnt"
+ },
+ {
+  "id": 55430,
+  "identifier": "cg/argumentation"
+ },
+ {
+  "id": 103425,
+  "identifier": "cg/art"
+ },
+ {
+  "id": 125854,
+  "identifier": "cg/atomic-data"
  },
  {
   "id": 110716,
@@ -172,12 +264,36 @@
   "identifier": "wg/audio"
  },
  {
+  "id": 100074,
+  "identifier": "wg/publishing"
+ },
+ {
+  "id": 139357,
+  "identifier": "cg/av4browsers"
+ },
+ {
+  "id": 48785,
+  "identifier": "cg/ar"
+ },
+ {
   "id": 170714,
   "identifier": "cg/atag"
  },
  {
+  "id": 35520,
+  "identifier": "wg/atag"
+ },
+ {
   "id": 172648,
   "identifier": "cg/autofill"
+ },
+ {
+  "id": 141004,
+  "identifier": "cg/planning"
+ },
+ {
+  "id": 71470,
+  "identifier": "cg/auto-wcag"
  },
  {
   "id": 78250,
@@ -188,8 +304,60 @@
   "identifier": "tf/automotive-pay"
  },
  {
+  "id": 151951,
+  "identifier": "cg/autoprivacy"
+ },
+ {
+  "id": 78932,
+  "identifier": "tf/auto-privacy-security"
+ },
+ {
+  "id": 76043,
+  "identifier": "wg/auto"
+ },
+ {
+  "id": 61259,
+  "identifier": "bg/autowebplatform"
+ },
+ {
   "id": 143201,
   "identifier": "cg/webagents"
+ },
+ {
+  "id": 110778,
+  "identifier": "cg/bdcomacg"
+ },
+ {
+  "id": 77891,
+  "identifier": "cg/bde-climate"
+ },
+ {
+  "id": 77892,
+  "identifier": "cg/bde-societies"
+ },
+ {
+  "id": 77887,
+  "identifier": "cg/bde-food"
+ },
+ {
+  "id": 77795,
+  "identifier": "cg/bde-health"
+ },
+ {
+  "id": 77893,
+  "identifier": "cg/bde-secure-societies"
+ },
+ {
+  "id": 78008,
+  "identifier": "cg/bde-energy"
+ },
+ {
+  "id": 78009,
+  "identifier": "cg/bde-transport"
+ },
+ {
+  "id": 75369,
+  "identifier": "cg/benchweb"
  },
  {
   "id": 62563,
@@ -200,12 +368,52 @@
   "identifier": "cg/bibframe2schema"
  },
  {
+  "id": 90503,
+  "identifier": "cg/bibperik"
+ },
+ {
+  "id": 54399,
+  "identifier": "cg/bigdata"
+ },
+ {
+  "id": 89749,
+  "identifier": "cg/bde"
+ },
+ {
   "id": 166893,
   "identifier": "cg/boost-01"
  },
  {
   "id": 97665,
   "identifier": "cg/bioschemas"
+ },
+ {
+  "id": 117993,
+  "identifier": "cg/bitcoin"
+ },
+ {
+  "id": 88235,
+  "identifier": "cg/blockchain"
+ },
+ {
+  "id": 92127,
+  "identifier": "cg/digital-asset"
+ },
+ {
+  "id": 142288,
+  "identifier": "cg/blockchain-names"
+ },
+ {
+  "id": 134437,
+  "identifier": "cg/blockchainplatform"
+ },
+ {
+  "id": 104762,
+  "identifier": "cg/dapps"
+ },
+ {
+  "id": 160407,
+  "identifier": "cg/bc2"
  },
  {
   "id": 149084,
@@ -248,28 +456,124 @@
   "identifier": "other/board"
  },
  {
+  "id": 140848,
+  "identifier": "cg/bits"
+ },
+ {
+  "id": 100555,
+  "identifier": "cg/brazilpub"
+ },
+ {
+  "id": 120835,
+  "identifier": "cg/graphql-rdf"
+ },
+ {
   "id": 179747,
   "identifier": "cg/browdatport"
+ },
+ {
+  "id": 78237,
+  "identifier": "cg/browserext"
+ },
+ {
+  "id": 71714,
+  "identifier": "cg/browsersync"
  },
  {
   "id": 49799,
   "identifier": "wg/browser-tools-testing"
  },
  {
+  "id": 74380,
+  "identifier": "cg/browserobo"
+ },
+ {
   "id": 120533,
   "identifier": "cg/bdns"
+ },
+ {
+  "id": 118137,
+  "identifier": "cg/bullet-chatting"
+ },
+ {
+  "id": 118662,
+  "identifier": "cg/businessdata"
+ },
+ {
+  "id": 32054,
+  "identifier": "wg/ccpp"
+ },
+ {
+  "id": 161175,
+  "identifier": "cg/crdt4rdf"
+ },
+ {
+  "id": 50071,
+  "identifier": "cg/cssacc"
+ },
+ {
+  "id": 94039,
+  "identifier": "tf/css-a11y"
+ },
+ {
+  "id": 121175,
+  "identifier": "cg/cssprint"
+ },
+ {
+  "id": 52358,
+  "identifier": "cg/css-rates"
+ },
+ {
+  "id": 53128,
+  "identifier": "cg/cssselfrags"
+ },
+ {
+  "id": 44516,
+  "identifier": "tf/css-svg"
  },
  {
   "id": 121427,
   "identifier": "cg/css4"
  },
  {
+  "id": 85874,
+  "identifier": "cg/csvw"
+ },
+ {
+  "id": 68238,
+  "identifier": "wg/csv"
+ },
+ {
+  "id": 81881,
+  "identifier": "cg/cv2"
+ },
+ {
+  "id": 142919,
+  "identifier": "cg/cv3"
+ },
+ {
   "id": 178682,
   "identifier": "tf/capability-based-storage"
  },
  {
+  "id": 58904,
+  "identifier": "cg/carto"
+ },
+ {
   "id": 32061,
   "identifier": "wg/css"
+ },
+ {
+  "id": 93667,
+  "identifier": "cg/chainpoint"
+ },
+ {
+  "id": 58869,
+  "identifier": "cg/change"
+ },
+ {
+  "id": 73097,
+  "identifier": "cg/cdl"
  },
  {
   "id": 114998,
@@ -280,8 +584,16 @@
   "identifier": "cg/cndid"
  },
  {
+  "id": 68845,
+  "identifier": "cg/cndpubcg"
+ },
+ {
   "id": 76983,
   "identifier": "tf/i18n-clreq"
+ },
+ {
+  "id": 66256,
+  "identifier": "cg/cnwa"
  },
  {
   "id": 109611,
@@ -296,6 +608,22 @@
   "identifier": "cg/civics"
  },
  {
+  "id": 55181,
+  "identifier": "cg/jseverywhere"
+ },
+ {
+  "id": 50517,
+  "identifier": "cg/cloud"
+ },
+ {
+  "id": 162208,
+  "identifier": "cg/cloud-edge-client"
+ },
+ {
+  "id": 121905,
+  "identifier": "cg/covid-19"
+ },
+ {
   "id": 119681,
   "identifier": "cg/cogai"
  },
@@ -308,16 +636,72 @@
   "identifier": "tf/cognitive-a11y-tf"
  },
  {
+  "id": 70315,
+  "identifier": "cg/colwebitmc"
+ },
+ {
+  "id": 70223,
+  "identifier": "cg/collaboration"
+ },
+ {
+  "id": 48366,
+  "identifier": "cg/colloquial"
+ },
+ {
   "id": 96574,
   "identifier": "cg/colorweb"
+ },
+ {
+  "id": 75075,
+  "identifier": "cg/colourblindness"
  },
  {
   "id": 49289,
   "identifier": "cg/council"
  },
  {
+  "id": 49161,
+  "identifier": "cg/community-io"
+ },
+ {
+  "id": 36702,
+  "identifier": "wg/cdf"
+ },
+ {
+  "id": 148595,
+  "identifier": "cg/computationalicg"
+ },
+ {
+  "id": 112121,
+  "identifier": "cg/clads"
+ },
+ {
+  "id": 127555,
+  "identifier": "cg/consent"
+ },
+ {
+  "id": 135891,
+  "identifier": "cg/cns"
+ },
+ {
+  "id": 126066,
+  "identifier": "cg/webconsent"
+ },
+ {
+  "id": 118199,
+  "identifier": "cg/abcg"
+ },
+ {
   "id": 174925,
   "identifier": "cg/context-graph"
+ },
+ {
+  "id": 113314,
+  "identifier": "cg/conv"
+ },
+ {
+  "id": 52857,
+  "identifier": "cg/coremob"
  },
  {
   "id": 72898,
@@ -326,6 +710,22 @@
  {
   "id": 103073,
   "identifier": "cg/credibility"
+ },
+ {
+  "id": 100369,
+  "identifier": "cg/w3cdevhr"
+ },
+ {
+  "id": 77432,
+  "identifier": "cg/cryptoledgers"
+ },
+ {
+  "id": 58983,
+  "identifier": "cg/custexpdata"
+ },
+ {
+  "id": 123147,
+  "identifier": "cg/cco"
  },
  {
   "id": 171912,
@@ -344,12 +744,20 @@
   "identifier": "cg/datadoc"
  },
  {
+  "id": 50607,
+  "identifier": "cg/data-driven-standards"
+ },
+ {
   "id": 171262,
   "identifier": "cg/facade-x"
  },
  {
   "id": 172308,
   "identifier": "cg/dia"
+ },
+ {
+  "id": 87321,
+  "identifier": "cg/datapipelining"
  },
  {
   "id": 107442,
@@ -360,6 +768,26 @@
   "identifier": "wg/data-shapes"
  },
  {
+  "id": 75457,
+  "identifier": "cg/datavis"
+ },
+ {
+  "id": 96813,
+  "identifier": "cg/dwbp"
+ },
+ {
+  "id": 68239,
+  "identifier": "wg/dwbp"
+ },
+ {
+  "id": 143005,
+  "identifier": "cg/dcdr-framework"
+ },
+ {
+  "id": 84117,
+  "identifier": "cg/datasheets"
+ },
+ {
   "id": 99375,
   "identifier": "wg/dx"
  },
@@ -368,8 +796,52 @@
   "identifier": "cg/dataspaces"
  },
  {
+  "id": 98447,
+  "identifier": "cg/decentralizdcomm"
+ },
+ {
+  "id": 163513,
+  "identifier": "cg/defacto"
+ },
+ {
   "id": 117488,
   "identifier": "wg/did"
+ },
+ {
+  "id": 140390,
+  "identifier": "cg/applied-did-and-vc"
+ },
+ {
+  "id": 121672,
+  "identifier": "cg/did-kr"
+ },
+ {
+  "id": 77570,
+  "identifier": "cg/decsharing"
+ },
+ {
+  "id": 52113,
+  "identifier": "cg/decisionml"
+ },
+ {
+  "id": 47948,
+  "identifier": "cg/declarative3d"
+ },
+ {
+  "id": 143377,
+  "identifier": "cg/html-dynamic-extensions"
+ },
+ {
+  "id": 69757,
+  "identifier": "cg/declarative-apps"
+ },
+ {
+  "id": 94549,
+  "identifier": "cg/decwebvr"
+ },
+ {
+  "id": 57081,
+  "identifier": "cg/decodersbrasil"
  },
  {
   "id": 178687,
@@ -380,16 +852,108 @@
   "identifier": "cg/design-tokens"
  },
  {
+  "id": 56439,
+  "identifier": "cg/dld"
+ },
+ {
+  "id": 32080,
+  "identifier": "wg/di"
+ },
+ {
+  "id": 49737,
+  "identifier": "tf/device-status"
+ },
+ {
   "id": 43696,
   "identifier": "wg/das"
+ },
+ {
+  "id": 101721,
+  "identifier": "cg/digitalassetmanagement"
+ },
+ {
+  "id": 115901,
+  "identifier": "cg/dic"
+ },
+ {
+  "id": 94248,
+  "identifier": "cg/digitaloffers"
+ },
+ {
+  "id": 53844,
+  "identifier": "cg/digipub"
+ },
+ {
+  "id": 64149,
+  "identifier": "ig/publishing"
+ },
+ {
+  "id": 94559,
+  "identifier": "cg/digital-verification"
+ },
+ {
+  "id": 125019,
+  "identifier": "cg/dascg-dfi168"
+ },
+ {
+  "id": 104819,
+  "identifier": "cg/distributed-compute"
+ },
+ {
+  "id": 51225,
+  "identifier": "cg/d-tasks"
+ },
+ {
+  "id": 104066,
+  "identifier": "cg/trace-context"
  },
  {
   "id": 108594,
   "identifier": "wg/distributed-tracing"
  },
  {
+  "id": 97084,
+  "identifier": "cg/dui"
+ },
+ {
+  "id": 50431,
+  "identifier": "cg/dntrack"
+ },
+ {
+  "id": 157284,
+  "identifier": "ig/dom"
+ },
+ {
+  "id": 19478,
+  "identifier": "wg/dom"
+ },
+ {
+  "id": 129525,
+  "identifier": "cg/services"
+ },
+ {
   "id": 166442,
   "identifier": "cg/docs-cg"
+ },
+ {
+  "id": 62370,
+  "identifier": "cg/downloads"
+ },
+ {
+  "id": 170068,
+  "identifier": "cg/dcm"
+ },
+ {
+  "id": 51310,
+  "identifier": "cg/learnonline"
+ },
+ {
+  "id": 96810,
+  "identifier": "cg/epub3"
+ },
+ {
+  "id": 125377,
+  "identifier": "wg/epub"
  },
  {
   "id": 165773,
@@ -400,16 +964,56 @@
   "identifier": "tf/pm-mo"
  },
  {
+  "id": 133547,
+  "identifier": "tf/epub-tests"
+ },
+ {
+  "id": 66346,
+  "identifier": "cg/etlml"
+ },
+ {
   "id": 54697,
   "identifier": "cg/expath"
+ },
+ {
+  "id": 108411,
+  "identifier": "cg/exercises-and-activities"
  },
  {
   "id": 103139,
   "identifier": "cg/eocred-schema"
  },
  {
+  "id": 38502,
+  "identifier": "wg/exi"
+ },
+ {
+  "id": 108609,
+  "identifier": "cg/exi-next"
+ },
+ {
+  "id": 159826,
+  "identifier": "ig/ecommerce"
+ },
+ {
+  "id": 65404,
+  "identifier": "cg/egovernance"
+ },
+ {
+  "id": 49219,
+  "identifier": "cg/elvisml"
+ },
+ {
   "id": 177865,
   "identifier": "cg/embedded-web-engines"
+ },
+ {
+  "id": 61356,
+  "identifier": "cg/emergency"
+ },
+ {
+  "id": 96377,
+  "identifier": "cg/enterprise-ethereum"
  },
  {
   "id": 115641,
@@ -436,12 +1040,48 @@
   "identifier": "tf/i18n-eurlreq"
  },
  {
+  "id": 32094,
+  "identifier": "wg/ertwg"
+ },
+ {
+  "id": 80970,
+  "identifier": "cg/xapivocabulary"
+ },
+ {
   "id": 166440,
   "identifier": "ig/exploration"
  },
  {
+  "id": 74381,
+  "identifier": "cg/exploresemdata"
+ },
+ {
+  "id": 76935,
+  "identifier": "cg/lom2ld"
+ },
+ {
+  "id": 78975,
+  "identifier": "cg/linkedculture"
+ },
+ {
+  "id": 76940,
+  "identifier": "cg/xdmdl"
+ },
+ {
+  "id": 59110,
+  "identifier": "cg/nextweb"
+ },
+ {
   "id": 167586,
   "identifier": "cg/fdp"
+ },
+ {
+  "id": 125883,
+  "identifier": "cg/federated-commerce"
+ },
+ {
+  "id": 66053,
+  "identifier": "cg/fedid"
  },
  {
   "id": 132274,
@@ -452,12 +1092,60 @@
   "identifier": "wg/fedid"
  },
  {
+  "id": 77431,
+  "identifier": "cg/omn"
+ },
+ {
+  "id": 134965,
+  "identifier": "cg/federated-learning"
+ },
+ {
+  "id": 51813,
+  "identifier": "cg/fedsocweb"
+ },
+ {
+  "id": 135900,
+  "identifier": "cg/timesh"
+ },
+ {
+  "id": 53603,
+  "identifier": "cg/film"
+ },
+ {
   "id": 84521,
   "identifier": "cg/fibo"
  },
  {
+  "id": 50579,
+  "identifier": "cg/fixing-appcache"
+ },
+ {
+  "id": 67175,
+  "identifier": "cg/fpmvocab"
+ },
+ {
+  "id": 125655,
+  "identifier": "cg/font-text"
+ },
+ {
+  "id": 41565,
+  "identifier": "tf/formstf"
+ },
+ {
+  "id": 32219,
+  "identifier": "wg/forms"
+ },
+ {
   "id": 144058,
   "identifier": "tf/fast"
+ },
+ {
+  "id": 114397,
+  "identifier": "cg/fkg"
+ },
+ {
+  "id": 56155,
+  "identifier": "cg/futurepay"
  },
  {
   "id": 96877,
@@ -468,16 +1156,128 @@
   "identifier": "wg/gpu"
  },
  {
+  "id": 39407,
+  "identifier": "wg/grddl"
+ },
+ {
+  "id": 135981,
+  "identifier": "cg/gxymet"
+ },
+ {
   "id": 49726,
   "identifier": "cg/games"
+ },
+ {
+  "id": 148246,
+  "identifier": "cg/gai"
  },
  {
   "id": 174368,
   "identifier": "cg/gen-ui"
  },
  {
+  "id": 42891,
+  "identifier": "wg/geo"
+ },
+ {
+  "id": 64420,
+  "identifier": "cg/geometryapi"
+ },
+ {
+  "id": 59879,
+  "identifier": "cg/geosemweb"
+ },
+ {
+  "id": 89907,
+  "identifier": "cg/mathonwebpages"
+ },
+ {
+  "id": 47663,
+  "identifier": "wg/linkeddata"
+ },
+ {
+  "id": 115310,
+  "identifier": "bg/graph-standardization"
+ },
+ {
+  "id": 127522,
+  "identifier": "cg/hfvrp"
+ },
+ {
+  "id": 70637,
+  "identifier": "tf/html-a11y-tf"
+ },
+ {
+  "id": 44061,
+  "identifier": "tf/htmla11n"
+ },
+ {
+  "id": 49968,
+  "identifier": "tf/html-data-tf"
+ },
+ {
+  "id": 48608,
+  "identifier": "cg/editing"
+ },
+ {
+  "id": 40318,
+  "identifier": "wg/html"
+ },
+ {
+  "id": 55870,
+  "identifier": "tf/html-media"
+ },
+ {
+  "id": 75857,
+  "identifier": "cg/htacg"
+ },
+ {
   "id": 115520,
   "identifier": "wg/htmlwg"
+ },
+ {
+  "id": 69290,
+  "identifier": "cg/htmail"
+ },
+ {
+  "id": 46593,
+  "identifier": "ig/html-zh"
+ },
+ {
+  "id": 75796,
+  "identifier": "cg/html5jp"
+ },
+ {
+  "id": 44158,
+  "identifier": "ig/html-jp"
+ },
+ {
+  "id": 77051,
+  "identifier": "cg/html5kr"
+ },
+ {
+  "id": 72664,
+  "identifier": "ig/html-ko"
+ },
+ {
+  "id": 52443,
+  "identifier": "cg/html5spec"
+ },
+ {
+  "id": 96773,
+  "identifier": "cg/httpslocal"
+ },
+ {
+  "id": 127946,
+  "identifier": "cg/hns"
+ },
+ {
+  "id": 61210,
+  "identifier": "cg/webhaptics"
+ },
+ {
+  "id": 89635,
+  "identifier": "cg/hb-secure-services"
  },
  {
   "id": 78701,
@@ -492,8 +1292,28 @@
   "identifier": "cg/high-perf-baseline"
  },
  {
+  "id": 49290,
+  "identifier": "cg/hpcweb"
+ },
+ {
   "id": 177348,
   "identifier": "cg/holon"
+ },
+ {
+  "id": 143541,
+  "identifier": "cg/humancentricai"
+ },
+ {
+  "id": 71940,
+  "identifier": "cg/humanservices"
+ },
+ {
+  "id": 64267,
+  "identifier": "cg/hydra"
+ },
+ {
+  "id": 66728,
+  "identifier": "cg/haml"
  },
  {
   "id": 117874,
@@ -512,12 +1332,36 @@
   "identifier": "cg/web-adv"
  },
  {
+  "id": 104908,
+  "identifier": "cg/idcg"
+ },
+ {
+  "id": 121145,
+  "identifier": "cg/idiw"
+ },
+ {
+  "id": 54953,
+  "identifier": "wg/indie-ui"
+ },
+ {
+  "id": 54997,
+  "identifier": "tf/indie-ui-tf"
+ },
+ {
   "id": 173846,
   "identifier": "cg/idaan"
  },
  {
+  "id": 163512,
+  "identifier": "cg/idai"
+ },
+ {
   "id": 104979,
   "identifier": "tf/iip"
+ },
+ {
+  "id": 76791,
+  "identifier": "tf/i18n-ilreq"
  },
  {
   "id": 172410,
@@ -532,12 +1376,64 @@
   "identifier": "cg/icn"
  },
  {
+  "id": 55904,
+  "identifier": "cg/iss-im"
+ },
+ {
+  "id": 143566,
+  "identifier": "cg/inter-cc"
+ },
+ {
+  "id": 61397,
+  "identifier": "cg/interative-apis"
+ },
+ {
+  "id": 136071,
+  "identifier": "cg/interactive-media"
+ },
+ {
+  "id": 83380,
+  "identifier": "cg/interledger"
+ },
+ {
+  "id": 109182,
+  "identifier": "cg/itlcg"
+ },
+ {
+  "id": 40226,
+  "identifier": "wg/i18n-arch"
+ },
+ {
+  "id": 37138,
+  "identifier": "wg/i18n-geo"
+ },
+ {
   "id": 72665,
   "identifier": "ig/i18n"
  },
  {
+  "id": 72668,
+  "identifier": "ig/i18n-its"
+ },
+ {
+  "id": 37139,
+  "identifier": "wg/i18n-its"
+ },
+ {
   "id": 32113,
   "identifier": "wg/i18n-core"
+ },
+ {
+  "id": 76491,
+  "identifier": "cg/ipid"
+ },
+ {
+  "id": 90106,
+  "identifier": "cg/iok-se"
+ },
+ {
+  "id": 134937,
+  "identifier": "cg/interop-remedies"
  },
  {
   "id": 179035,
@@ -560,44 +1456,156 @@
   "identifier": "wg/json-ld"
  },
  {
+  "id": 152176,
+  "identifier": "cg/jsxml"
+ },
+ {
+  "id": 41762,
+  "identifier": "tf/japanese-layout"
+ },
+ {
   "id": 109193,
   "identifier": "tf/i18n-jlreq"
+ },
+ {
+  "id": 43393,
+  "identifier": "tf/svg-jp"
+ },
+ {
+  "id": 139732,
+  "identifier": "cg/jswebfig"
+ },
+ {
+  "id": 112987,
+  "identifier": "cg/knowledge-domain"
  },
  {
   "id": 112120,
   "identifier": "cg/kg-construct"
  },
  {
+  "id": 80928,
+  "identifier": "cg/ldpnext"
+ },
+ {
+  "id": 57019,
+  "identifier": "cg/law"
+ },
+ {
+  "id": 97756,
+  "identifier": "cg/licensed-content"
+ },
+ {
   "id": 72291,
   "identifier": "cg/lbd"
+ },
+ {
+  "id": 68812,
+  "identifier": "cg/sentiment"
+ },
+ {
+  "id": 55082,
+  "identifier": "wg/ldp"
+ },
+ {
+  "id": 75011,
+  "identifier": "cg/ldql"
+ },
+ {
+  "id": 122317,
+  "identifier": "cg/lda"
+ },
+ {
+  "id": 68293,
+  "identifier": "cg/ld4lt"
  },
  {
   "id": 159634,
   "identifier": "wg/lws"
  },
  {
+  "id": 61452,
+  "identifier": "cg/livestockdata"
+ },
+ {
   "id": 168436,
   "identifier": "cg/loading-control-games"
+ },
+ {
+  "id": 56976,
+  "identifier": "cg/locadd"
  },
  {
   "id": 81151,
   "identifier": "tf/low-vision-a11y-tf"
  },
  {
+  "id": 136751,
+  "identifier": "cg/low-vision"
+ },
+ {
+  "id": 120907,
+  "identifier": "cg/mfxmedia"
+ },
+ {
+  "id": 83156,
+  "identifier": "cg/ml-schema"
+ },
+ {
+  "id": 145679,
+  "identifier": "cg/managed-components"
+ },
+ {
   "id": 70543,
   "identifier": "cg/maps4html"
+ },
+ {
+  "id": 58744,
+  "identifier": "cg/markdown"
+ },
+ {
+  "id": 77888,
+  "identifier": "cg/mathprotocol"
  },
  {
   "id": 35549,
   "identifier": "wg/math"
  },
  {
+  "id": 112607,
+  "identifier": "cg/mathml4"
+ },
+ {
   "id": 141517,
   "identifier": "tf/maturity"
  },
  {
+  "id": 86999,
+  "identifier": "cg/meat"
+ },
+ {
+  "id": 42786,
+  "identifier": "wg/media-annotation"
+ },
+ {
+  "id": 54943,
+  "identifier": "tf/media-capture"
+ },
+ {
   "id": 156178,
   "identifier": "cg/mcm-jp"
+ },
+ {
+  "id": 122874,
+  "identifier": "cg/mediadelivery"
+ },
+ {
+  "id": 42785,
+  "identifier": "wg/media-fragment"
+ },
+ {
+  "id": 67359,
+  "identifier": "cg/inbandtracks"
  },
  {
   "id": 115198,
@@ -608,6 +1616,14 @@
   "identifier": "ig/me"
  },
  {
+  "id": 125898,
+  "identifier": "cg/merchant"
+ },
+ {
+  "id": 103273,
+  "identifier": "cg/mwma"
+ },
+ {
   "id": 171210,
   "identifier": "cg/meta-layer"
  },
@@ -616,20 +1632,104 @@
   "identifier": "cg/metaverse-interop"
  },
  {
+  "id": 70386,
+  "identifier": "cg/numericweb"
+ },
+ {
+  "id": 56585,
+  "identifier": "cg/microxml"
+ },
+ {
+  "id": 159824,
+  "identifier": "wg/micro-api"
+ },
+ {
+  "id": 159823,
+  "identifier": "wg/micro-markup"
+ },
+ {
+  "id": 54696,
+  "identifier": "cg/microposts"
+ },
+ {
   "id": 117923,
   "identifier": "cg/miniapps"
+ },
+ {
+  "id": 128558,
+  "identifier": "wg/miniapps"
+ },
+ {
+  "id": 98377,
+  "identifier": "cg/mixedreality"
+ },
+ {
+  "id": 56701,
+  "identifier": "cg/mobileacc"
  },
  {
   "id": 66524,
   "identifier": "tf/mobile-a11y-tf"
  },
  {
+  "id": 37584,
+  "identifier": "wg/bp"
+ },
+ {
+  "id": 42462,
+  "identifier": "ig/mw4d"
+ },
+ {
+  "id": 37583,
+  "identifier": "wg/dd"
+ },
+ {
+  "id": 40010,
+  "identifier": "wg/mwts"
+ },
+ {
+  "id": 51110,
+  "identifier": "cg/mobindic"
+ },
+ {
+  "id": 50171,
+  "identifier": "wg/mbuiwg"
+ },
+ {
   "id": 109474,
   "identifier": "tf/i18n-mlreq"
  },
  {
+  "id": 65547,
+  "identifier": "cg/mmarkup"
+ },
+ {
+  "id": 76245,
+  "identifier": "cg/webtiming"
+ },
+ {
+  "id": 66119,
+  "identifier": "cg/multi-pos"
+ },
+ {
+  "id": 131839,
+  "identifier": "cg/multicast"
+ },
+ {
   "id": 100410,
   "identifier": "cg/mqmcg"
+ },
+ {
+  "id": 53711,
+  "identifier": "cg/mws"
+ },
+ {
+  "id": 53116,
+  "identifier": "wg/multilingualweb-lt"
+ },
+ {
+  "id": 34607,
+  "identifier": "wg/mmi"
  },
  {
   "id": 81249,
@@ -642,6 +1742,30 @@
  {
   "id": 171843,
   "identifier": "cg/nlweb"
+ },
+ {
+  "id": 48774,
+  "identifier": "cg/native-web-apps"
+ },
+ {
+  "id": 84622,
+  "identifier": "cg/nli"
+ },
+ {
+  "id": 58584,
+  "identifier": "wg/nfc"
+ },
+ {
+  "id": 122081,
+  "identifier": "cg/net-maint"
+ },
+ {
+  "id": 50917,
+  "identifier": "cg/networkfriendly"
+ },
+ {
+  "id": 50069,
+  "identifier": "cg/networked-data"
  },
  {
   "id": 178502,
@@ -660,12 +1784,48 @@
   "identifier": "cg/smartcity-nordic"
  },
  {
+  "id": 137192,
+  "identifier": "cg/nordic-data"
+ },
+ {
   "id": 111290,
   "identifier": "cg/n3-dev"
  },
  {
   "id": 47956,
   "identifier": "cg/odrl"
+ },
+ {
+  "id": 65815,
+  "identifier": "cg/offx"
+ },
+ {
+  "id": 65081,
+  "identifier": "cg/orca"
+ },
+ {
+  "id": 70061,
+  "identifier": "cg/ortc"
+ },
+ {
+  "id": 51796,
+  "identifier": "cg/ostatus"
+ },
+ {
+  "id": 41712,
+  "identifier": "wg/owl"
+ },
+ {
+  "id": 55682,
+  "identifier": "cg/owled"
+ },
+ {
+  "id": 93702,
+  "identifier": "cg/offline-url"
+ },
+ {
+  "id": 48506,
+  "identifier": "cg/oilgaschem"
  },
  {
   "id": 176603,
@@ -684,8 +1844,60 @@
   "identifier": "cg/ontolex"
  },
  {
+  "id": 51318,
+  "identifier": "cg/openannotation"
+ },
+ {
+  "id": 148948,
+  "identifier": "cg/ocm"
+ },
+ {
+  "id": 64441,
+  "identifier": "cg/opendatadir"
+ },
+ {
+  "id": 105439,
+  "identifier": "cg/opendatanepal"
+ },
+ {
+  "id": 59705,
+  "identifier": "cg/opendataspain"
+ },
+ {
+  "id": 91636,
+  "identifier": "cg/oerschema"
+ },
+ {
+  "id": 61718,
+  "identifier": "cg/opengov"
+ },
+ {
+  "id": 62132,
+  "identifier": "cg/opened"
+ },
+ {
+  "id": 97739,
+  "identifier": "cg/opensci"
+ },
+ {
+  "id": 51609,
+  "identifier": "cg/simplyseo"
+ },
+ {
   "id": 122250,
   "identifier": "cg/open-ui"
+ },
+ {
+  "id": 67216,
+  "identifier": "cg/stemwidgets"
+ },
+ {
+  "id": 72851,
+  "identifier": "cg/openw3c"
+ },
+ {
+  "id": 84628,
+  "identifier": "cg/kiss"
  },
  {
   "id": 89827,
@@ -696,12 +1908,32 @@
   "identifier": "cg/opentrack"
  },
  {
+  "id": 76291,
+  "identifier": "cg/opd"
+ },
+ {
+  "id": 72673,
+  "identifier": "wg/p3p-policy-outreach"
+ },
+ {
+  "id": 36654,
+  "identifier": "wg/p3p"
+ },
+ {
   "id": 159734,
   "identifier": "tf/pdf-aam"
  },
  {
+  "id": 92517,
+  "identifier": "cg/pdf-open-data"
+ },
+ {
   "id": 179133,
   "identifier": "cg/passkey-signing"
+ },
+ {
+  "id": 19502,
+  "identifier": "wg/patent"
  },
  {
   "id": 42434,
@@ -712,16 +1944,48 @@
   "identifier": "cg/eudi-4-payments"
  },
  {
+  "id": 125912,
+  "identifier": "cg/pair-cg"
+ },
+ {
   "id": 61141,
   "identifier": "cg/perma-id"
+ },
+ {
+  "id": 87755,
+  "identifier": "wg/poe"
+ },
+ {
+  "id": 54519,
+  "identifier": "cg/philoweb"
+ },
+ {
+  "id": 98033,
+  "identifier": "cg/physical-ledger"
+ },
+ {
+  "id": 58235,
+  "identifier": "cg/places"
  },
  {
   "id": 59096,
   "identifier": "wg/pointer-events"
  },
  {
+  "id": 45386,
+  "identifier": "wg/poi"
+ },
+ {
+  "id": 41811,
+  "identifier": "ig/policy-languages"
+ },
+ {
   "id": 133210,
   "identifier": "wg/png"
+ },
+ {
+  "id": 131891,
+  "identifier": "cg/prtbl-prsnl-prefs"
  },
  {
   "id": 177533,
@@ -732,8 +1996,16 @@
   "identifier": "cg/pwe"
  },
  {
+  "id": 53305,
+  "identifier": "cg/ppl"
+ },
+ {
   "id": 120428,
   "identifier": "cg/privacycg"
+ },
+ {
+  "id": 52497,
+  "identifier": "ig/privacy"
  },
  {
   "id": 144308,
@@ -752,12 +2024,52 @@
   "identifier": "wg/pat"
  },
  {
+  "id": 57898,
+  "identifier": "cg/pua"
+ },
+ {
   "id": 174898,
   "identifier": "cg/pm-kr"
  },
  {
+  "id": 104761,
+  "identifier": "cg/pronto"
+ },
+ {
+  "id": 126817,
+  "identifier": "cg/ptbcg"
+ },
+ {
   "id": 178232,
   "identifier": "tf/dx-tf-prof"
+ },
+ {
+  "id": 66476,
+  "identifier": "cg/propertygraphs"
+ },
+ {
+  "id": 40243,
+  "identifier": "wg/powder"
+ },
+ {
+  "id": 32212,
+  "identifier": "wg/pf"
+ },
+ {
+  "id": 46974,
+  "identifier": "wg/prov"
+ },
+ {
+  "id": 51795,
+  "identifier": "cg/pubsub"
+ },
+ {
+  "id": 96716,
+  "identifier": "cg/palcg"
+ },
+ {
+  "id": 84102,
+  "identifier": "cg/pom"
  },
  {
   "id": 166312,
@@ -788,8 +2100,28 @@
   "identifier": "tf/dx-tf-qb"
  },
  {
+  "id": 72674,
+  "identifier": "ig/qa"
+ },
+ {
+  "id": 34282,
+  "identifier": "wg/qa"
+ },
+ {
+  "id": 69802,
+  "identifier": "cg/quickfix"
+ },
+ {
+  "id": 43889,
+  "identifier": "wg/rdb2rdf"
+ },
+ {
   "id": 139681,
   "identifier": "wg/rdf-star"
+ },
+ {
+  "id": 27979,
+  "identifier": "wg/rdfcore"
  },
  {
   "id": 138751,
@@ -800,6 +2132,10 @@
   "identifier": "cg/rdfjs"
  },
  {
+  "id": 163514,
+  "identifier": "cg/rdf-maintenance"
+ },
+ {
   "id": 157420,
   "identifier": "cg/r2c2"
  },
@@ -808,8 +2144,20 @@
   "identifier": "cg/rsp"
  },
  {
+  "id": 141415,
+  "identifier": "cg/rdfsurfaces"
+ },
+ {
   "id": 82552,
   "identifier": "cg/rdf-tests"
+ },
+ {
+  "id": 46168,
+  "identifier": "wg/rdf"
+ },
+ {
+  "id": 91185,
+  "identifier": "cg/rax"
  },
  {
   "id": 110458,
@@ -828,20 +2176,92 @@
   "identifier": "tf/rdf-star-ucr"
  },
  {
+  "id": 44350,
+  "identifier": "wg/rdfa"
+ },
+ {
+  "id": 100367,
+  "identifier": "cg/rsocket"
+ },
+ {
   "id": 160471,
   "identifier": "cg/rumcg"
+ },
+ {
+  "id": 48594,
+  "identifier": "cg/rww"
+ },
+ {
+  "id": 156502,
+  "identifier": "cg/realestate"
+ },
+ {
+  "id": 140743,
+  "identifier": "cg/rtie"
+ },
+ {
+  "id": 127870,
+  "identifier": "cg/rebase"
  },
  {
   "id": 178354,
   "identifier": "cg/recordweb"
  },
  {
+  "id": 65912,
+  "identifier": "cg/remotedom"
+ },
+ {
+  "id": 62545,
+  "identifier": "cg/rosc"
+ },
+ {
   "id": 91497,
   "identifier": "tf/rqtf"
  },
  {
+  "id": 47076,
+  "identifier": "wg/wai-rd"
+ },
+ {
+  "id": 67257,
+  "identifier": "cg/resilientweb"
+ },
+ {
+  "id": 85094,
+  "identifier": "cg/rtos"
+ },
+ {
+  "id": 52578,
+  "identifier": "cg/respimg"
+ },
+ {
+  "id": 78037,
+  "identifier": "cg/restonto"
+ },
+ {
+  "id": 61868,
+  "identifier": "cg/restrictedmedia"
+ },
+ {
   "id": 121942,
   "identifier": "cg/md-odrl-profile"
+ },
+ {
+  "id": 71608,
+  "identifier": "cg/irobar"
+ },
+ {
+  "id": 38457,
+  "identifier": "wg/rif"
+ },
+ {
+  "id": 58283,
+  "identifier": "cg/sdshare"
+ },
+ {
+  "id": 100368,
+  "identifier": "cg/shacl"
  },
  {
   "id": 170097,
@@ -856,8 +2276,28 @@
   "identifier": "tf/shacl-ui"
  },
  {
+  "id": 95478,
+  "identifier": "cg/skosowlinterop"
+ },
+ {
+  "id": 42357,
+  "identifier": "wg/soap-jms"
+ },
+ {
+  "id": 91978,
+  "identifier": "cg/sparql-exists"
+ },
+ {
   "id": 167128,
   "identifier": "tf/rdf-star-sparql"
+ },
+ {
+  "id": 35463,
+  "identifier": "wg/sparql"
+ },
+ {
+  "id": 130727,
+  "identifier": "cg/sparql-ml"
  },
  {
   "id": 114009,
@@ -868,8 +2308,36 @@
   "identifier": "tf/svg-a11y"
  },
  {
+  "id": 70780,
+  "identifier": "cg/svgadvgrad"
+ },
+ {
+  "id": 112986,
+  "identifier": "cg/svgcg"
+ },
+ {
+  "id": 42368,
+  "identifier": "ig/svg"
+ },
+ {
+  "id": 58543,
+  "identifier": "cg/svgmap"
+ },
+ {
+  "id": 67885,
+  "identifier": "cg/svgstreaming"
+ },
+ {
   "id": 19480,
   "identifier": "wg/svg"
+ },
+ {
+  "id": 50418,
+  "identifier": "cg/svgopentype"
+ },
+ {
+  "id": 35663,
+  "identifier": "wg/symm"
  },
  {
   "id": 80620,
@@ -888,6 +2356,10 @@
   "identifier": "cg/iotschema"
  },
  {
+  "id": 96976,
+  "identifier": "cg/schema-gen"
+ },
+ {
   "id": 77375,
   "identifier": "cg/schemaorg"
  },
@@ -896,8 +2368,16 @@
   "identifier": "cg/schemaorg4datasets"
  },
  {
+  "id": 84855,
+  "identifier": "cg/scholarlyhtml"
+ },
+ {
   "id": 141487,
   "identifier": "cg/sccg"
+ },
+ {
+  "id": 50500,
+  "identifier": "cg/scriptlib"
  },
  {
   "id": 67710,
@@ -924,20 +2404,140 @@
   "identifier": "cg/s-agent-comm"
  },
  {
+  "id": 39001,
+  "identifier": "wg/sawsdl"
+ },
+ {
+  "id": 108447,
+  "identifier": "cg/smarg"
+ },
+ {
+  "id": 168235,
+  "identifier": "cg/semantic-construction"
+ },
+ {
   "id": 138327,
   "identifier": "cg/htmlvoc"
+ },
+ {
+  "id": 115642,
+  "identifier": "cg/semind"
+ },
+ {
+  "id": 48076,
+  "identifier": "cg/semnews"
+ },
+ {
+  "id": 59704,
+  "identifier": "cg/sodata"
+ },
+ {
+  "id": 52722,
+  "identifier": "cg/ssn-cg"
+ },
+ {
+  "id": 68482,
+  "identifier": "cg/semstats"
+ },
+ {
+  "id": 70186,
+  "identifier": "cg/swim"
+ },
+ {
+  "id": 35495,
+  "identifier": "wg/sw-bpd"
+ },
+ {
+  "id": 39408,
+  "identifier": "wg/swd"
+ },
+ {
+  "id": 39572,
+  "identifier": "ig/sweo"
+ },
+ {
+  "id": 38539,
+  "identifier": "ig/hcls"
+ },
+ {
+  "id": 66594,
+  "identifier": "ig/semweb"
+ },
+ {
+  "id": 58393,
+  "identifier": "cg/swisig"
+ },
+ {
+  "id": 50516,
+  "identifier": "cg/semwebprog"
+ },
+ {
+  "id": 72677,
+  "identifier": "ig/sws"
  },
  {
   "id": 92610,
   "identifier": "cg/hclscg"
  },
  {
+  "id": 101264,
+  "identifier": "cg/base"
+ },
+ {
   "id": 177174,
   "identifier": "cg/sstim"
  },
  {
+  "id": 142387,
+  "identifier": "cg/service-disco"
+ },
+ {
+  "id": 41079,
+  "identifier": "wg/sml"
+ },
+ {
+  "id": 101220,
+  "identifier": "wg/service-workers"
+ },
+ {
+  "id": 67671,
+  "identifier": "cg/sesmanbro"
+ },
+ {
   "id": 95701,
   "identifier": "cg/shex"
+ },
+ {
+  "id": 97795,
+  "identifier": "cg/silver"
+ },
+ {
+  "id": 94845,
+  "identifier": "tf/silver-tf"
+ },
+ {
+  "id": 107547,
+  "identifier": "cg/smartcontracts"
+ },
+ {
+  "id": 91428,
+  "identifier": "cg/smartmfg"
+ },
+ {
+  "id": 51311,
+  "identifier": "cg/spade"
+ },
+ {
+  "id": 82719,
+  "identifier": "cg/economy"
+ },
+ {
+  "id": 72532,
+  "identifier": "ig/social"
+ },
+ {
+  "id": 35009,
+  "identifier": "tf/sw-meaning-tf"
  },
  {
   "id": 95188,
@@ -956,12 +2556,24 @@
   "identifier": "tf/i18n-sealreq"
  },
  {
+  "id": 102593,
+  "identifier": "ig/sdw"
+ },
+ {
   "id": 75471,
   "identifier": "wg/sdw"
  },
  {
+  "id": 75010,
+  "identifier": "cg/spec-annotation"
+ },
+ {
   "id": 130562,
   "identifier": "cg/speced-cg"
+ },
+ {
+  "id": 54172,
+  "identifier": "cg/speech-api"
  },
  {
   "id": 110437,
@@ -972,8 +2584,24 @@
   "identifier": "cg/sport-schema"
  },
  {
+  "id": 137010,
+  "identifier": "cg/stellarturrets"
+ },
+ {
+  "id": 66944,
+  "identifier": "cg/stereoweb"
+ },
+ {
+  "id": 79043,
+  "identifier": "cg/stroke-fonts"
+ },
+ {
   "id": 137496,
   "identifier": "cg/sustainability"
+ },
+ {
+  "id": 62441,
+  "identifier": "cg/sustyweb"
  },
  {
   "id": 161076,
@@ -984,28 +2612,76 @@
   "identifier": "cg/sync-on-the-web"
  },
  {
+  "id": 104525,
+  "identifier": "cg/sync-media-pub"
+ },
+ {
+  "id": 121612,
+  "identifier": "cg/synthetic-media"
+ },
+ {
+  "id": 58119,
+  "identifier": "wg/sysapps"
+ },
+ {
   "id": 165434,
   "identifier": "tf/tag-associates"
+ },
+ {
+  "id": 122465,
+  "identifier": "cg/tnsblockchain"
+ },
+ {
+  "id": 137283,
+  "identifier": "cg/ucid"
  },
  {
   "id": 143412,
   "identifier": "cg/treecg"
  },
  {
+  "id": 71107,
+  "identifier": "cg/tvapi"
+ },
+ {
+  "id": 90021,
+  "identifier": "wg/tvcontrol"
+ },
+ {
   "id": 112823,
   "identifier": "cg/talent-signal"
+ },
+ {
+  "id": 54712,
+  "identifier": "cg/opentag"
  },
  {
   "id": 34270,
   "identifier": "other/tag"
  },
  {
+  "id": 84086,
+  "identifier": "cg/semtechdoc"
+ },
+ {
   "id": 128834,
   "identifier": "cg/tdmrep"
  },
  {
+  "id": 81019,
+  "identifier": "cg/extended-web"
+ },
+ {
+  "id": 80526,
+  "identifier": "cg/hardware-pixels"
+ },
+ {
   "id": 85190,
   "identifier": "cg/tourismdata"
+ },
+ {
+  "id": 121203,
+  "identifier": "cg/theunitiveweb"
  },
  {
   "id": 157595,
@@ -1020,12 +2696,64 @@
   "identifier": "tf/i18n-tlreq"
  },
  {
+  "id": 50119,
+  "identifier": "cg/timed-text"
+ },
+ {
   "id": 34314,
   "identifier": "wg/timed-text"
  },
  {
+  "id": 67497,
+  "identifier": "cg/touchevents"
+ },
+ {
+  "id": 49311,
+  "identifier": "wg/tracking"
+ },
+ {
+  "id": 66775,
+  "identifier": "cg/traffic"
+ },
+ {
+  "id": 121208,
+  "identifier": "tf/transportation-ont-cc"
+ },
+ {
+  "id": 75856,
+  "identifier": "cg/trustperms"
+ },
+ {
+  "id": 135726,
+  "identifier": "cg/tai"
+ },
+ {
+  "id": 169926,
+  "identifier": "cg/uispec"
+ },
+ {
+  "id": 157287,
+  "identifier": "ig/uri"
+ },
+ {
+  "id": 73620,
+  "identifier": "cg/urispec"
+ },
+ {
   "id": 177517,
   "identifier": "cg/uw2i"
+ },
+ {
+  "id": 64471,
+  "identifier": "cg/uad"
+ },
+ {
+  "id": 40755,
+  "identifier": "wg/uwa"
+ },
+ {
+  "id": 48702,
+  "identifier": "cg/unctsw"
  },
  {
   "id": 49276,
@@ -1042,6 +2770,34 @@
  {
   "id": 174170,
   "identifier": "cg/uhds"
+ },
+ {
+  "id": 85405,
+  "identifier": "cg/universalimages"
+ },
+ {
+  "id": 174911,
+  "identifier": "cg/uora"
+ },
+ {
+  "id": 130677,
+  "identifier": "cg/olsn"
+ },
+ {
+  "id": 152802,
+  "identifier": "cg/robotstxt"
+ },
+ {
+  "id": 36791,
+  "identifier": "wg/uaag"
+ },
+ {
+  "id": 53540,
+  "identifier": "cg/w3id"
+ },
+ {
+  "id": 49717,
+  "identifier": "cg/userix"
  },
  {
   "id": 174140,
@@ -1072,8 +2828,16 @@
   "identifier": "tf/vc-rem"
  },
  {
+  "id": 49353,
+  "identifier": "cg/vivo"
+ },
+ {
   "id": 178233,
   "identifier": "tf/dx-tf-vvd"
+ },
+ {
+  "id": 104984,
+  "identifier": "cg/veres-one"
  },
  {
   "id": 98922,
@@ -1084,16 +2848,68 @@
   "identifier": "cg/vsc"
  },
  {
+  "id": 95154,
+  "identifier": "cg/videogameschema"
+ },
+ {
+  "id": 84588,
+  "identifier": "cg/vrwebmetaverse"
+ },
+ {
   "id": 144306,
   "identifier": "tf/vision"
+ },
+ {
+  "id": 102898,
+  "identifier": "cg/bigdata-tools"
+ },
+ {
+  "id": 108997,
+  "identifier": "cg/voice-assistant"
+ },
+ {
+  "id": 34665,
+  "identifier": "wg/voice"
  },
  {
   "id": 91376,
   "identifier": "cg/voiceinteraction"
  },
  {
+  "id": 61424,
+  "identifier": "cg/vxmlcg"
+ },
+ {
+  "id": 108838,
+  "identifier": "cg/volunteering-ontology"
+ },
+ {
+  "id": 111285,
+  "identifier": "cg/voter-decision-support"
+ },
+ {
+  "id": 71367,
+  "identifier": "cg/voting"
+ },
+ {
+  "id": 41915,
+  "identifier": "tf/semwebarchtf"
+ },
+ {
+  "id": 137670,
+  "identifier": "tf/bylaws"
+ },
+ {
+  "id": 53791,
+  "identifier": "cg/devrel"
+ },
+ {
   "id": 50503,
   "identifier": "cg/w3process"
+ },
+ {
+  "id": 69285,
+  "identifier": "cg/w3qc"
  },
  {
   "id": 101569,
@@ -1102,6 +2918,18 @@
  {
   "id": 72669,
   "identifier": "ig/wai"
+ },
+ {
+  "id": 37208,
+  "identifier": "ig/wai-rd"
+ },
+ {
+  "id": 54291,
+  "identifier": "cg/wai-engage"
+ },
+ {
+  "id": 48225,
+  "identifier": "tf/wai-evaltf"
  },
  {
   "id": 150942,
@@ -1120,24 +2948,84 @@
   "identifier": "tf/wcag2ict"
  },
  {
+  "id": 77929,
+  "identifier": "cg/wearableweb"
+ },
+ {
   "id": 172982,
   "identifier": "ig/webai"
+ },
+ {
+  "id": 115035,
+  "identifier": "ig/web-networks"
+ },
+ {
+  "id": 167533,
+  "identifier": "cg/waits"
+ },
+ {
+  "id": 38482,
+  "identifier": "wg/webapi"
+ },
+ {
+  "id": 73180,
+  "identifier": "wg/annotation"
+ },
+ {
+  "id": 63978,
+  "identifier": "cg/webappscp"
+ },
+ {
+  "id": 38483,
+  "identifier": "wg/appformats"
  },
  {
   "id": 49309,
   "identifier": "wg/webappsec"
  },
  {
+  "id": 54070,
+  "identifier": "cg/webappstore"
+ },
+ {
   "id": 114929,
   "identifier": "wg/webapps"
+ },
+ {
+  "id": 84116,
+  "identifier": "cg/webarchivability"
+ },
+ {
+  "id": 67869,
+  "identifier": "cg/webarraymath"
+ },
+ {
+  "id": 60958,
+  "identifier": "cg/audio-dev"
  },
  {
   "id": 87227,
   "identifier": "wg/webauthn"
  },
  {
+  "id": 77179,
+  "identifier": "cg/bgsync"
+ },
+ {
   "id": 72794,
   "identifier": "cg/web-bluetooth"
+ },
+ {
+  "id": 117426,
+  "identifier": "cg/web-cert-api"
+ },
+ {
+  "id": 103494,
+  "identifier": "cg/web-commerce"
+ },
+ {
+  "id": 73816,
+  "identifier": "ig/webcommerce"
  },
  {
   "id": 127974,
@@ -1148,12 +3036,44 @@
   "identifier": "cg/web-content-browser-ai"
  },
  {
+  "id": 66948,
+  "identifier": "cg/web-copyright"
+ },
+ {
+  "id": 49133,
+  "identifier": "cg/webcryptoapi"
+ },
+ {
+  "id": 54174,
+  "identifier": "wg/webcrypto"
+ },
+ {
+  "id": 69018,
+  "identifier": "cg/webcurrencies"
+ },
+ {
+  "id": 59183,
+  "identifier": "cg/webdevdata"
+ },
+ {
+  "id": 130130,
+  "identifier": "cg/webeco"
+ },
+ {
   "id": 177733,
   "identifier": "cg/web-editing-cg"
  },
  {
   "id": 131776,
   "identifier": "wg/webediting"
+ },
+ {
+  "id": 47988,
+  "identifier": "cg/webed"
+ },
+ {
+  "id": 45559,
+  "identifier": "wg/webevents"
  },
  {
   "id": 44556,
@@ -1172,8 +3092,20 @@
   "identifier": "cg/webhistory"
  },
  {
+  "id": 54683,
+  "identifier": "cg/whatwg"
+ },
+ {
   "id": 170693,
   "identifier": "cg/wica"
+ },
+ {
+  "id": 50861,
+  "identifier": "tf/web-intents"
+ },
+ {
+  "id": 62455,
+  "identifier": "cg/webmidi"
  },
  {
   "id": 110166,
@@ -1196,28 +3128,136 @@
   "identifier": "cg/web-nfc"
  },
  {
+  "id": 45313,
+  "identifier": "wg/web-notification"
+ },
+ {
+  "id": 53631,
+  "identifier": "cg/webobservatory"
+ },
+ {
+  "id": 30310,
+  "identifier": "wg/webont"
+ },
+ {
   "id": 113649,
   "identifier": "ig/securepay"
+ },
+ {
+  "id": 71337,
+  "identifier": "cg/webpaymentsigcharter"
+ },
+ {
+  "id": 47952,
+  "identifier": "cg/webpayments"
  },
  {
   "id": 83744,
   "identifier": "wg/payments"
  },
  {
+  "id": 99502,
+  "identifier": "cg/payments-commerce-a11y"
+ },
+ {
+  "id": 58490,
+  "identifier": "cg/webperfs"
+ },
+ {
+  "id": 46342,
+  "identifier": "ig/webperf"
+ },
+ {
   "id": 45211,
   "identifier": "wg/webperf"
+ },
+ {
+  "id": 97786,
+  "identifier": "cg/webplatzh"
  },
  {
   "id": 80485,
   "identifier": "cg/wicg"
  },
  {
+  "id": 83482,
+  "identifier": "wg/webplatform"
+ },
+ {
+  "id": 56154,
+  "identifier": "cg/webprotoenergy"
+ },
+ {
   "id": 47318,
   "identifier": "wg/webrtc"
  },
  {
+  "id": 49967,
+  "identifier": "tf/web-schemas"
+ },
+ {
+  "id": 39814,
+  "identifier": "wg/wsc"
+ },
+ {
+  "id": 36696,
+  "identifier": "wg/ws-addressing"
+ },
+ {
+  "id": 34341,
+  "identifier": "wg/ws-arch"
+ },
+ {
+  "id": 34340,
+  "identifier": "wg/ws-chor"
+ },
+ {
+  "id": 34041,
+  "identifier": "wg/ws-desc"
+ },
+ {
+  "id": 39293,
+  "identifier": "wg/ws-policy"
+ },
+ {
+  "id": 43088,
+  "identifier": "wg/ws-resource-access"
+ },
+ {
+  "id": 48598,
+  "identifier": "cg/webskillprofiles"
+ },
+ {
+  "id": 51312,
+  "identifier": "cg/autowebtest"
+ },
+ {
+  "id": 49797,
+  "identifier": "ig/testing"
+ },
+ {
   "id": 117875,
   "identifier": "cg/web-thing-protocol"
+ },
+ {
+  "id": 86794,
+  "identifier": "cg/wwca"
+ },
+ {
+  "id": 53909,
+  "identifier": "bg/webandbroadcasting"
+ },
+ {
+  "id": 65406,
+  "identifier": "ig/webmobile"
+ },
+ {
+  "id": 122566,
+  "identifier": "cg/web-vs-covid19"
+ },
+ {
+  "id": 52409,
+  "identifier": "cg/sensorweb"
  },
  {
   "id": 63991,
@@ -1236,8 +3276,32 @@
   "identifier": "wg/wot"
  },
  {
+  "id": 128506,
+  "identifier": "cg/web-native"
+ },
+ {
   "id": 158420,
   "identifier": "ig/smart-cities"
+ },
+ {
+  "id": 54505,
+  "identifier": "bg/websignage"
+ },
+ {
+  "id": 137557,
+  "identifier": "cg/wintercg"
+ },
+ {
+  "id": 103229,
+  "identifier": "bg/acweb"
+ },
+ {
+  "id": 95726,
+  "identifier": "cg/web-api-discovery"
+ },
+ {
+  "id": 53987,
+  "identifier": "cg/webapps-ui"
  },
  {
   "id": 78073,
@@ -1246,6 +3310,14 @@
  {
   "id": 101196,
   "identifier": "wg/wasm"
+ },
+ {
+  "id": 122873,
+  "identifier": "cg/webauthn-adoption"
+ },
+ {
+  "id": 39256,
+  "identifier": "wg/webcgm"
  },
  {
   "id": 140537,
@@ -1260,6 +3332,10 @@
   "identifier": "wg/webextensions"
  },
  {
+  "id": 51933,
+  "identifier": "cg/webid"
+ },
+ {
   "id": 125908,
   "identifier": "wg/webtransport"
  },
@@ -1268,8 +3344,100 @@
   "identifier": "cg/webview"
  },
  {
+  "id": 68990,
+  "identifier": "cg/webize"
+ },
+ {
+  "id": 156245,
+  "identifier": "cg/webtoon-meta"
+ },
+ {
+  "id": 86793,
+  "identifier": "cg/wasarchives"
+ },
+ {
   "id": 53549,
   "identifier": "cg/xformsusers"
+ },
+ {
+  "id": 32107,
+  "identifier": "wg/xhtml2"
+ },
+ {
+  "id": 35519,
+  "identifier": "wg/xml-binary"
+ },
+ {
+  "id": 18796,
+  "identifier": "wg/xml-core"
+ },
+ {
+  "id": 52408,
+  "identifier": "cg/xml-er"
+ },
+ {
+  "id": 19475,
+  "identifier": "wg/xml-fragment"
+ },
+ {
+  "id": 56559,
+  "identifier": "cg/xmlhypermedia"
+ },
+ {
+  "id": 157288,
+  "identifier": "wg/xkms"
+ },
+ {
+  "id": 18798,
+  "identifier": "wg/xml-linking"
+ },
+ {
+  "id": 47953,
+  "identifier": "cg/xmlperf"
+ },
+ {
+  "id": 72675,
+  "identifier": "ig/xml-plenary"
+ },
+ {
+  "id": 47107,
+  "identifier": "wg/xppl"
+ },
+ {
+  "id": 38398,
+  "identifier": "wg/xml-processing"
+ },
+ {
+  "id": 32157,
+  "identifier": "wg/xml-protocol"
+ },
+ {
+  "id": 18797,
+  "identifier": "wg/xml-query"
+ },
+ {
+  "id": 72676,
+  "identifier": "ig/xml-schema"
+ },
+ {
+  "id": 38435,
+  "identifier": "wg/xsd-databinding"
+ },
+ {
+  "id": 19482,
+  "identifier": "wg/schema"
+ },
+ {
+  "id": 40279,
+  "identifier": "wg/xmlsec-maint"
+ },
+ {
+  "id": 42458,
+  "identifier": "wg/xmlsec"
+ },
+ {
+  "id": 98025,
+  "identifier": "cg/xpath-next"
  },
  {
   "id": 101103,
@@ -1280,131 +3448,43 @@
   "identifier": "cg/xslt-40"
  },
  {
-  "id": 144015,
-  "identifier": "cg/nostr"
- },
- {
-  "id": 40318,
-  "identifier": "wg/html"
- },
- {
-  "id": 18797,
-  "identifier": "wg/xml-query"
+  "id": 35694,
+  "identifier": "tf/xslfo"
  },
  {
   "id": 19552,
   "identifier": "wg/xslt"
  },
  {
-  "id": 151951,
-  "identifier": "cg/autoprivacy"
+  "id": 66776,
+  "identifier": "cg/webzakim"
  },
  {
-  "id": 100368,
-  "identifier": "cg/shacl"
+  "id": 112122,
+  "identifier": "cg/ceddl-webspec"
  },
  {
-  "id": 127555,
-  "identifier": "cg/consent"
+  "id": 42481,
+  "identifier": "ig/egov"
  },
  {
-  "id": 141004,
-  "identifier": "cg/planning"
+  "id": 92074,
+  "identifier": "cg/exp-protocols"
  },
  {
-  "id": 48594,
-  "identifier": "cg/rww"
+  "id": 144015,
+  "identifier": "cg/nostr"
  },
  {
-  "id": 174911,
-  "identifier": "cg/uora"
+  "id": 123162,
+  "identifier": "cg/svg-zh"
  },
  {
-  "id": 83482,
-  "identifier": "wg/webplatform"
+  "id": 101087,
+  "identifier": "cg/syndicatedmedia"
  },
  {
-  "id": 36791,
-  "identifier": "wg/uaag"
- },
- {
-  "id": 100074,
-  "identifier": "wg/publishing"
- },
- {
-  "id": 76043,
-  "identifier": "wg/auto"
- },
- {
-  "id": 49311,
-  "identifier": "wg/tracking"
- },
- {
-  "id": 64149,
-  "identifier": "ig/publishing"
- },
- {
-  "id": 68239,
-  "identifier": "wg/dwbp"
- },
- {
-  "id": 34607,
-  "identifier": "wg/mmi"
- },
- {
-  "id": 125377,
-  "identifier": "wg/epub"
- },
- {
-  "id": 38502,
-  "identifier": "wg/exi"
- },
- {
-  "id": 73180,
-  "identifier": "wg/annotation"
- },
- {
-  "id": 72668,
-  "identifier": "ig/i18n-its"
- },
- {
-  "id": 52497,
-  "identifier": "ig/privacy"
- },
- {
-  "id": 87755,
-  "identifier": "wg/poe"
- },
- {
-  "id": 46974,
-  "identifier": "wg/prov"
- },
- {
-  "id": 34665,
-  "identifier": "wg/voice"
- },
- {
-  "id": 66594,
-  "identifier": "ig/semweb"
- },
- {
-  "id": 90021,
-  "identifier": "wg/tvcontrol"
- },
- {
-  "id": 35532,
-  "identifier": "wg/eowg"
- },
- {
-  "id": 54505,
-  "identifier": "bg/websignage"
- },
- {
-  "id": 18796,
-  "identifier": "wg/xml-core"
- },
- {
-  "id": 19482,
-  "identifier": "wg/schema"
+  "id": 116117,
+  "identifier": "cg/zot"
  }
 ]
