@@ -50,5 +50,26 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
- "identifier": "ig/i18n-its"
+ "identifier": "ig/i18n-its",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13777",
+   "title": "public-i18n-its-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-i18n-its-ig/",
+    "shortdesc": "public-i18n-its-ig",
+    "longdesc": "Public mailing list for the Internationalization Tag Set (ITS) Interest Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13777"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13777/groups"
+     }
+    }
+   }
+  }
+ ]
 }
