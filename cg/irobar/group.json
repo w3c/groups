@@ -1,15 +1,14 @@
 {
  "id": 71608,
  "name": "Robustness and Archiving Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-05-19",
  "description": "The goal of this community is to design web architecture and specifications to mitigate problems such as link rot, content drift, Internet censorship, and denial-of-service attacks. If, after following a hyperlink, the content is missing or not what you expected, we want it to be easier to find what you were looking for.",
  "shortname": "irobar",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/irobar"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/irobar/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/irobar/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/irobar"
   }
  },
- "identifier": "cg/irobar"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/irobar",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2042",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#irobar",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2042"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2042/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2043",
+   "title": "public-irobar (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-irobar/",
+    "shortdesc": "public-irobar",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2043"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2043/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2044",
+   "title": "public-irobar-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-irobar-contrib/",
+    "shortdesc": "public-irobar-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2044"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2044/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2041",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/irobar/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2041"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2041/groups"
+     }
+    }
+   }
+  }
+ ]
 }
