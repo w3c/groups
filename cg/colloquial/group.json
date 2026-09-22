@@ -1,0 +1,131 @@
+{
+ "id": 48366,
+ "name": "Colloquial Web Community Group",
+ "is_closed": true,
+ "creation-date": "2011-07-27",
+ "description": "Status: This group closed due to lack of agreement on shared goals.\r\n\r\nThe Colloquial Web group evaluates existing practices amongst core web technologies such as HTML, CSS, and JavaScript. It aims to give users and vendors clear reports on deployment and innovation for web applications. Example problem domains include continued use of deprecated constructs, the rise in external services for hosting solutions such as Google Web Fonts or MathJax, and comparing attitudes to RDFa and Microdata. The group researches the relationship between emerging social practices as regards existing technologies and their standards. A central research goal is to study and contribute to changing perceptions of conformance. Though broadly speaking the group has a bias towards empirical and descriptivist methods, it is not constrained to these approaches. It will not for example produce languages, but may create profiles of weighted technique matrices.",
+ "shortname": "colloquial",
+ "closed_date": "2011-12-11",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/colloquial/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/colloquial/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/colloquial/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/colloquial/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/colloquial/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/colloquial/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/colloquial"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/colloquial",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/404",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#colloquial",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/404"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/404/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/405",
+   "title": "public-colloquial (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-colloquial/",
+    "shortdesc": "public-colloquial",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/405"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/405/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/406",
+   "title": "public-colloquial-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-colloquial-contrib/",
+    "shortdesc": "public-colloquial-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/406"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/406/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/403",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/colloquial/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/403"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/403/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/402",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/colloquial/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/402"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/402/groups"
+     }
+    }
+   }
+  }
+ ]
+}
