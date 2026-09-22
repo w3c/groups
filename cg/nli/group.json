@@ -1,0 +1,132 @@
+{
+ "id": 84622,
+ "name": "Natural Language Interfaces for the Web of Data Community Group",
+ "is_closed": true,
+ "creation-date": "2015-11-17",
+ "description": "The Natural Language Interfaces for the Web of Data Community Group aims at analyzing, modelling, unifying and enhancing natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems and to increase their quality and performance. The group will develop diverse modules as well as an unified data vocabulary and ontology to foster a growing interface landscape. This includes question answering, information retrieval, keyword search, answer verbalisation and so on. Furthermore, the Natural-Language Interfaces for the Web of Data CG will incubate a wide and collaborative environment for researchers, industrials and practitioners. We hope, that research as well as industry projects will support and benefit of this community group’s activity.",
+ "shortname": "nli",
+ "closed_date": "2019-08-19",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/nli/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/nli/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/nli/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/nli/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/nli/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/nli/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/nli"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/nli",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6218",
+   "title": "internal-nli (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-nli/",
+    "shortdesc": "internal-nli",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6218"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6218/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6215",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#nli",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6215"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6215/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6216",
+   "title": "public-nli (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-nli/",
+    "shortdesc": "public-nli",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6216"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6216/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6214",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/nli/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6214"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6214/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6291",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/Natural-Language-Interfaces-CG/charter",
+    "shortdesc": "GitHub",
+    "longdesc": "Natural Language Interfaces CG charter",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6291"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6291/groups"
+     }
+    }
+   }
+  }
+ ]
+}
