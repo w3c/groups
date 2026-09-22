@@ -1,0 +1,95 @@
+{
+ "id": 80526,
+ "name": "The Hardware Pixel Community Group",
+ "is_closed": true,
+ "creation-date": "2015-07-03",
+ "description": "A group for people who love pixels!\r\n\r\nThis group is in support of exposing device pixel densities to web developers and letting web developers have the ability to use 'hardware pixels' instead of 'CSS pixels' on demand. Native developers have this affordance, why can't we? Hardware pixels! We want hardware pixels!\r\n\r\n## What we want ##\r\n\r\nWe want metrics! The hardware pixel density of a screen can live in the window.screen object as window.screen.pixelDensity, for example. The value would be the average of the vertical pixel density and the horizontal pixel density of the screen (in hardware pixels per unit).  Vertical and horizontal pixel densities of the screen can be exposed in window.screen.verticalPixelDensity and window.screen.horizontalPixelDensity. Yes, the vertical and horizontal values don't always have a ratio of 1 across devices. Pixel Aspect Ratios are important for developers and designers that truly care about device-independence.\r\n\r\n## How can it be done? ##\r\n\r\nEasy. The EDID data in modern screens tells us the width and height of a display in millimeters, the native resolution of the screen, and other interesting information. This info allows us to calculate a screen's hardware pixel density in pixels per millimeter with floating point precision. Exposing these values in window.screen is even more trivial.\r\n\r\n## Why do we want these values? ##\r\n\r\nIn this modern day, developers are moving towards device-independent development more than ever before. By exposing physical characteristics of a screen (when supported by the screen (just like how OpenGL is exposed through WebGL when supported by a device)) web developers will be able to make device-independent decisions on their development process. \r\n\r\nCurrently, the lack of these metrics means that a web app can only look *almost* the same across devices, but not necessarily *exactly* as intended. We're engineers; *almost* is not enough. For example, suppose I want to make a push menu that is *always* 1 physical inch wide. This is currently not possible because inches in the web are \"CSS inches\", not physical inches. CSS units like centimeters, millimeters, and inches are currently unreliable across devices.\r\n\r\nYou might think \"why not just create a div element that is 1 cm wide, then get it's width in pixels and that's how many pixels per cm you have\". Sure, that works, but those are *CSS* pixels per *CSS* centimeter. On top of that, not all operating systems operate at the same dpi, and to make matters worse not all devices have a devicePixelRatio of 1 (mines 2 by default in Mac OS X Yosemite). So the value that you'll get from this technique, if you adopt it right now, vary a *whole lot* across devices. We can't say with any confidence that something being displayed on various screens on multiple devices is 1 physical inch wide.\r\n\r\nGiving us these screen metrics will not only help us, it will help the future generation of developers because not only will exposing these screen metrics based on EDID info (when supported by the screen) get us closer to device-independent development more often, it will also promote the use of the EDID standard by screen manufacturers so that the next generation can benefit even more from the exposed screen metrics.\r\n\r\n## Pixel Freedom for All! May the pixel be with you! ##",
+ "shortname": "hardware-pixels",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/hardware-pixels/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/hardware-pixels/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/hardware-pixels/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/hardware-pixels/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/hardware-pixels/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/hardware-pixels/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/hardware-pixels"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/hardware-pixels",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6106",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#hardware-pixels",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6106"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6106/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6107",
+   "title": "public-hardware-pixels (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-hardware-pixels/",
+    "shortdesc": "public-hardware-pixels",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6107"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6107/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6105",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/hardware-pixels/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6105"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6105/groups"
+     }
+    }
+   }
+  }
+ ]
+}
