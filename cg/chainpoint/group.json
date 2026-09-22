@@ -1,15 +1,14 @@
 {
  "id": 93667,
  "name": "Chainpoint Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-09-14",
  "description": "<p>The mission of this group is to establish a standard for creating a universally verifiable proof of any data, file, or series of events, by anchoring data to the blockchain and other sources. This allows anyone to prove the data existed at a point in time and has not been modified.</p>\r\n\r\n<p>The group will publish and formalize the <a rel=\"nofollow\" href=\"http://www.chainpoint.org/\">Chainpoint specification</a> as a stable reference, maintain a test suite, and take feedback and use cases for the future evolution for the specification.</p>\r\n\r\n<p>The Chainpoint Community Group will coordinate with the <a rel=\"nofollow\" href=\"https://www.w3.org/community/blockchain/\">Blockchain Community Group</a> for general standardization of blockchain-related technology, and will operate according to the <a rel=\"nofollow\" href=\"http://www.chainpoint.org/w3c_chainpoint_charter.html\">Chainpoint CG charter</a>. You can read more about Chainpoint, its history, and goals, on our <a rel=\"nofollow\" href=\"https://medium.com/@WayneVaughan/chainpoint-a-standard-blockchain-proof-protocol-79def1c37189#.ayikplbdw\">recent blog post announcing Chainpoint 2.0</a>.</p>\r\n\r\n<p>This group invites participants who are actively developing and deploying proof-of-existence, timestamping, and data integrity solutions, who are skilled in blockchain technologies, and who can work on use cases for Chainpoint and related technologies.</p>",
  "shortname": "chainpoint",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/chainpoint"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/chainpoint/"
   },
@@ -27,7 +26,107 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/chainpoint/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/chainpoint"
   }
  },
- "identifier": "cg/chainpoint"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/chainpoint",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15502",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/chainpoint",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15502"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15502/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6416",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#chainpoint",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6416"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6416/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6417",
+   "title": "public-chainpoint (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-chainpoint/",
+    "shortdesc": "public-chainpoint",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6417"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6417/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6415",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/chainpoint/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6415"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6415/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15503",
+   "title": "X (X)",
+   "details": {
+    "closed": false,
+    "type": "x",
+    "link": "https://x.com/chainpnt",
+    "shortdesc": "X",
+    "longdesc": "X @chainpnt",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15503"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15503/groups"
+     }
+    }
+   }
+  }
+ ]
 }
