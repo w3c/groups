@@ -1,15 +1,14 @@
 {
  "id": 65547,
  "name": "Multi Markup Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-08-13",
  "description": "Web Service specifications and vocabularies are faced with the challenge of providing dual (or more) normative (or alternative) markups for their specifications or vocabularies.  For example it is becoming common to require both an XML and JSON normative markup for documents and messages.\r\n\r\nThis group will discuss options and propose practices for authoring and maintaining specifications and vocabularies in multiple markups.   This may include, but not limited to, authoring in a 'meta markup' or automatic translation between markup formats.",
  "shortname": "mmarkup",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mmarkup"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mmarkup/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mmarkup/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mmarkup"
   }
  },
- "identifier": "cg/mmarkup"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mmarkup",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1589",
+   "title": "internal-mmarkup (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-mmarkup/",
+    "shortdesc": "internal-mmarkup",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1589"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1589/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1586",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mmarkup",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1586"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1586/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1587",
+   "title": "public-mmarkup (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mmarkup/",
+    "shortdesc": "public-mmarkup",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1587"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1587/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1585",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mmarkup/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1585"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1585/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1584",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/mmarkup/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1584"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1584/groups"
+     }
+    }
+   }
+  }
+ ]
 }
