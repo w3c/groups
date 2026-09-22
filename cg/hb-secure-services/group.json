@@ -1,15 +1,14 @@
 {
  "id": 89635,
  "name": "Hardware Based Secure Services Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-04-05",
  "description": "Hardware token are offering secure services in the field of cryptographic operation, citizen identity and payment to native applications. This community group will analyze use cases where browser (and web application developers) could benefit from those secure services. The expected deliverables of this community group are (1) documented use cases, (2) technical requirements for implementing those secure services in user agents, (3) draft APIs, (4) group charter - integrating suggested improvements received during the W3C Hardware Security WG charter proposal review. \r\nNote : by hardware tokens, we mean technologies such as secure chips or secure elements, trusted execution environment, TPM....",
  "shortname": "hb-secure-services",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/hb-secure-services"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/hb-secure-services/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/hb-secure-services/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/hb-secure-services"
   }
  },
- "identifier": "cg/hb-secure-services"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/hb-secure-services",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6307",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#hb-secure-services",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6307"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6307/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6308",
+   "title": "public-hb-secure-services (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-hb-secure-services/",
+    "shortdesc": "public-hb-secure-services",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6308"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6308/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6306",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/hb-secure-services/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6306"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6306/groups"
+     }
+    }
+   }
+  }
+ ]
 }
