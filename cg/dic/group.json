@@ -1,15 +1,14 @@
 {
  "id": 115901,
  "name": "Digital Identity Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2019-06-20",
  "description": "The mission of the W3C Digital Identity Community Group is to  identify and resolve real world identity issues, to explore and build a more secure trusted digital identity ecosystem on internet for people, organizations and things fully controlling, protecting and expressing their identity. Our work focuses on the ecosystem's scalability, interoperability, mobility, security and privacy. We intend to integrate interoperable identity solutions, systems and networks in our ecosystem.",
  "shortname": "dic",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dic"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dic/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dic/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dic"
   }
  },
- "identifier": "cg/dic"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dic",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17298",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dic",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17298"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17298/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17299",
+   "title": "public-dic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dic/",
+    "shortdesc": "public-dic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17299"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17299/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17297",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dic/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17297"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17297/groups"
+     }
+    }
+   }
+  }
+ ]
 }
