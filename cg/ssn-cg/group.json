@@ -1,15 +1,14 @@
 {
  "id": 52722,
  "name": "Semantic Sensor Networks Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-02-22",
  "description": "To continue the work of the Semantic Sensor Networks Incubator Group (the SSN-XG) in defining and using ontologies and mappings for querying, managing and understanding sensors, sensor networks and observations.  This community group will also serve as a community and access point for ontologies (such as the group's SSN ontology) and technologies developed for semantic sensor networks.",
  "shortname": "ssn-cg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/ssn-cg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/ssn-cg/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/ssn-cg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ssn-cg"
   }
  },
- "identifier": "cg/ssn-cg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ssn-cg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/975",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ssn-cg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/975"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/975/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/976",
+   "title": "public-ssn-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ssn-cg/",
+    "shortdesc": "public-ssn-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/976"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/976/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/974",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ssn-cg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/974"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/974/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/973",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/ssn-cg/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/973"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/973/groups"
+     }
+    }
+   }
+  }
+ ]
 }
