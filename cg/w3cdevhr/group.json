@@ -1,15 +1,14 @@
 {
  "id": 100369,
  "name": "Croatian Web Developers Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-06-20",
  "description": "The mission of this group is to create and support a community of competent, internationally certified IT professionals focused on developing the IT Web and mobile based tools for Croatian Agriculture, Business, Education, Health Care, Government and general Social needs.",
  "shortname": "w3cdevhr",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/w3cdevhr"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/w3cdevhr/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/w3cdevhr/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/w3cdevhr"
   }
  },
- "identifier": "cg/w3cdevhr"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/w3cdevhr",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/9377",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#w3cdevhr",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9377"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9377/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9378",
+   "title": "public-w3cdevhr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-w3cdevhr/",
+    "shortdesc": "public-w3cdevhr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9378"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9378/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9376",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/w3cdevhr/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9376"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9376/groups"
+     }
+    }
+   }
+  }
+ ]
 }
