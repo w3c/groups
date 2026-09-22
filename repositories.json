@@ -1,6 +1,41 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "metachromium",
+  "owner": {
+   "login": "3D-FOSS-Web-Development-Community-Group"
+  },
+  "url": "https://github.com/3D-FOSS-Web-Development-Community-Group/metachromium",
+  "description": "Chromium for WebXR AR-in-VR overlays",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/foss-3d"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Linked-Data-Templates",
+  "owner": {
+   "login": "AtomGraph"
+  },
+  "url": "https://github.com/AtomGraph/Linked-Data-Templates",
+  "homepageUrl": "https://atomgraph.github.io/Linked-Data-Templates/",
+  "description": "LDT specification draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/declarative-apps"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "BOOST",
   "owner": {
    "login": "BOOST-Working-Group"
@@ -432,6 +467,130 @@
   "w3cjson": {
    "group": [
     "cg/css4"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Specifications",
+  "owner": {
+   "login": "HydraCG"
+  },
+  "url": "https://github.com/HydraCG/Specifications",
+  "description": "Specifications created by the Hydra W3C Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/hydra"
+   ],
+   "contacts": [
+    "lanthaler"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "birthday",
+  "owner": {
+   "login": "KNowledgeOnWebScale"
+  },
+  "url": "https://github.com/KNowledgeOnWebScale/birthday",
+  "description": "A deontic reasoner for team policies (trying to solve the birthday use-case)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "n3s-policy-consistency-checker",
+  "owner": {
+   "login": "KNowledgeOnWebScale"
+  },
+  "url": "https://github.com/KNowledgeOnWebScale/n3s-policy-consistency-checker",
+  "homepageUrl": "https://knowledgeonwebscale.github.io/n3s-policy-consistency-checker/",
+  "description": "A policy consistency checker implemented witn N3 and RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "core",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/core",
+  "homepageUrl": "http://purl.org/mls",
+  "description": "📚 CORE ontology of ML-Schema and mapping to other machine learning vocabularies and ontologies (DMOP, Exposé, OntoDM, and MEX)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "documentation",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/documentation",
+  "description": "Documentation of the CORE ontology of ML-Schema schema (An upper-level ontology for representing Data Mining and Machine Learning processes)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mex",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/mex",
+  "description": "MEX Vocabulary (a vocabulary part of the ML-Schema working group)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "openml-rdf",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/openml-rdf",
+  "description": "Integrating OpenML with Linked Data.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
    ],
    "exposed": true
   }
@@ -1009,6 +1168,22 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "charter",
+  "owner": {
+   "login": "Natural-Language-Interfaces-CG"
+  },
+  "url": "https://github.com/Natural-Language-Interfaces-CG/charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nli"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "Nordic-Accessibility-Community-Group"
@@ -1060,6 +1235,1146 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "2021-packaging-research-artefacts-with-ro-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/2021-packaging-research-artefacts-with-ro-crate",
+  "homepageUrl": "https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ResearchObject.github.io",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ResearchObject.github.io",
+  "homepageUrl": "http://www.researchobject.org/",
+  "description": "Redirects",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bagit-ro",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/bagit-ro",
+  "description": "Research Object BagIt archive",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bh2022-ro-crate-galaxy-dsw",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/bh2022-ro-crate-galaxy-dsw",
+  "description": "Biohackrxiv paper for ELIXIR Biohackathon 2022 project 10 \"Enhance RDM in Galaxy and DSW by utilising RO-Crates\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bh2023-enabling-fair-digital-objects",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/bh2023-enabling-fair-digital-objects",
+  "homepageUrl": "https://doi.org/10.37044/osf.io/gmk2h",
+  "description": "Preprint for Biohackathon 2023 project 15 \"Enabling FAIR Digital Objects with RO-Crates, Signposting and Bioschemas\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "example-ro-sample-image-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/example-ro-sample-image-crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "galaxy",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/galaxy",
+  "homepageUrl": "https://galaxyproject.org",
+  "description": "Data intensive science for everyone.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "galaxy-training-material",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/galaxy-training-material",
+  "homepageUrl": "https://training.galaxyproject.org",
+  "description": "A collection of Galaxy-related training material",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "gh-ro-profiles-action",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/gh-ro-profiles-action",
+  "description": "GitHub action for updating ro-profiles registry",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "governance",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/governance",
+  "description": "Governance and steering committee for RO-Crate community",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "just-the-docs",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/just-the-docs",
+  "homepageUrl": "https://pdmosses.github.io/just-the-docs/",
+  "description": "A modern, high customizable, responsive Jekyll theme for documention with built-in search. (Linked website published from branch combination-rec-nav.)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mim-vocabulary",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/mim-vocabulary",
+  "description": "Minimum Information Model vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "packaging_data_with_ro-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/packaging_data_with_ro-crate",
+  "homepageUrl": "https://www.researchobject.org/packaging_data_with_ro-crate/",
+  "description": "Carpentries style lesson for packaging research data using RO-crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "principles",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/principles",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "research-object-composer",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/research-object-composer",
+  "description": "Research Object Composer, an API for incremental building and depositing research objects",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "researchobject.org",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/researchobject.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate",
+  "homepageUrl": "https://w3id.org/ro/crate/",
+  "description": "Research Object Crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-gh-template",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-gh-template",
+  "homepageUrl": "https://www.researchobject.org/ro-crate-gh-template/",
+  "description": "Template for an RO-Crate that is published to GitHub Pages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-inveniordm",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-inveniordm",
+  "description": "RO-Crate uploader for InvenioRDM",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-preview-action",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-preview-action",
+  "homepageUrl": "https://github.com/marketplace/actions/ro-crate-preview",
+  "description": "A GitHub action to build an html preview from an RO Crate and publish to the gh-pages branch",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-py",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-py",
+  "homepageUrl": "https://pypi.org/project/rocrate/",
+  "description": "Python library for RO-Crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-r",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-r",
+  "description": "RO-Crate library for R",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-ruby",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-ruby",
+  "description": "A Ruby gem for creating, manipulating and reading RO-Crates.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-test-suites",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-test-suites",
+  "description": "(eventually) a set of test suites for valid/invalid RO-Crates",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-validator-py",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-validator-py",
+  "description": "Python-based RO-Crate validator (alpha)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-zenodo",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-zenodo",
+  "description": "RO-Crate uploader for Zenodo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-curate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-curate",
+  "homepageUrl": "https://researchobject.github.io/ro-curate",
+  "description": "Validation of research object using SHACL",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-profiles",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-profiles",
+  "description": "Registry of profiles for Research Objects incl. RO-Crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-python",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-python",
+  "description": "Research Object Libraries and Tooling ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-show",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-show",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-terms",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-terms",
+  "description": "Repository for creating new terms for Research Objects",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-tutorials",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-tutorials",
+  "description": "Developer tutorial for Research Object",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro2019",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro2019",
+  "homepageUrl": "http://www.researchobject.org/ro2019/",
+  "description": "Workshop on Research Objects 2019",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "runcrate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/runcrate",
+  "description": "http://www.researchobject.org/runcrate/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "software-profiles",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/software-profiles",
+  "description": "Generic software source code RO-Crate profiles based on Codemeta. This is based on the approach taken for the workflow-run <https://github.com/ResearchObject/workflow-run-crate> family of profiles but is designed to be more general.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "specifications",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/specifications",
+  "homepageUrl": "http://researchobject.github.io/specifications",
+  "description": "Research Object Specifications ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "workflow-run-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/workflow-run-crate",
+  "homepageUrl": "https://www.researchobject.org/workflow-run-crate/",
+  "description": "Workflow Run RO-Crate profile",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "workflow-run-crate-paper",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/workflow-run-crate-paper",
+  "description": "In preparation for PLOS One",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ALA-Whitworth-Demo",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ALA-Whitworth-Demo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "RICG.io",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/RICG.io",
+  "description": "Nothin’ to see here.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Respond",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/Respond",
+  "description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Sizer-Soze-frontend",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/Sizer-Soze-frontend",
+  "description": "A web-based Sizer Soze.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Status.IE",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/Status.IE",
+  "homepageUrl": "http://status.modern.ie",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WebFundamentals",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/WebFundamentals",
+  "homepageUrl": "http://developers.google.com/web/fundamentals",
+  "description": "A handbook for multi-device web best practices",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WordPress",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/WordPress",
+  "homepageUrl": "http://wordpress.org/",
+  "description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to http://core.trac.wordpress.org/ instead.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bikeshed",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/bikeshed",
+  "description": "A preprocessor for the CSSWG that converts source files into actual specs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "caniuse",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/caniuse",
+  "homepageUrl": "http://caniuse.com",
+  "description": "Raw browser/feature support data from caniuse.com",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cq-demos",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/cq-demos",
+  "description": "Demonstrations of Element queries",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "demos",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/demos",
+  "description": "Demos and tests to show off how picture works. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "element-query",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/element-query",
+  "description": "JS Polyfill for \"element queries\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "experiments",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/experiments",
+  "description": "The repository contains various test cases & experiments (Not tests of the various other repos)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "meta",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/meta",
+  "description": "Repository for media, tools, etc. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "newsletters",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/newsletters",
+  "description": "RICG newsletter ideas, copy, etc.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "paris-meetup",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/paris-meetup",
+  "description": "Logisitcs information about Paris meetup on the 10th of Sept.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "parse-css",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/parse-css",
+  "description": "Standards-based CSS Parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "picture-element",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/picture-element",
+  "homepageUrl": "http://picture.responsiveimages.org",
+  "description": "This is the <picture> element specification. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "shortName": "picture-element",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "picture-refimp",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/picture-refimp",
+  "description": "DON'T USE THIS .... A reference implementation in javascript, based on true story (picturefill).",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "picturefill-builder",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/picturefill-builder",
+  "description": "A build generating front-end for the newly modularized Picturefill 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "responsiveimages.org",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/responsiveimages.org",
+  "description": "Landing page for our specs, info, demos, etc. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ri-defer-usecases",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ri-defer-usecases",
+  "description": "Use Cases and Requirements for a deferred image loading feature.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ri-polyfilling",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ri-polyfilling",
+  "description": "Think “Use Cases and Requirements” doc, but with polyfilling advice.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ri-usecases",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ri-usecases",
+  "homepageUrl": "http://usecases.responsiveimages.org",
+  "description": "The use cases and requirements document for Responsive Images",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-platform-tests",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/web-platform-tests",
+  "description": "Test Suites for Web Platform specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wp-respimg",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/wp-respimg",
+  "description": "Responsive images for Wordpress.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wp-tevko-responsive-images",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images",
+  "description": "Fully responsive image plugin for wordpress",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "x-picture",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/x-picture",
+  "description": "A Polymer implementation of the proposed picture element utilizing florians compromise",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "bibframe2schema",
   "owner": {
    "login": "RichardWallis"
@@ -1071,6 +2386,90 @@
   "w3cjson": {
    "group": [
     "cg/bibframe2schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Specification",
+  "owner": {
+   "login": "SDShare"
+  },
+  "url": "https://github.com/SDShare/Specification",
+  "description": "SDShare - Protocol for the syndication and synchronisation of RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/sdshare"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "new-note-draft",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/new-note-draft",
+  "description": "A scratch space for something to replace the now rather venerable W3C note from 2000 on Accessibility Features in SVG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-a11y-tests",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/svg-a11y-tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-tests",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/svg-tests",
+  "description": "Tests for SVG support in browsers and screenreaders",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "use-case-examples",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/use-case-examples",
+  "description": "SVG documents for messing around with. The primary purpose of these is to figure out the relevant use cases, and how to meet them or what is lacking in SVG at the moment.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
    ],
    "exposed": true
   }
@@ -1554,6 +2953,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "DCDR",
+  "owner": {
+   "login": "TheIOFoundation"
+  },
+  "url": "https://github.com/TheIOFoundation/DCDR",
+  "description": "The Data-Centric Digital Rights (DCDR) Framewoek, is composed of Principles, Taxonomies and other technical tools for technologists. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as NextGen Rights Defenders.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/dcdr-framework"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "w3c-ddi",
   "owner": {
    "login": "W3C-HCLS"
@@ -1566,6 +2982,57 @@
   "w3cjson": {
    "group": [
     "cg/hclscg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "guia-epub",
+  "owner": {
+   "login": "W3CBrasil"
+  },
+  "url": "https://github.com/W3CBrasil/guia-epub",
+  "description": "Repositório para a elaboração do \"Guia de Boas Práticas em Publicações Digitais\" do Brazilian Publishing Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/brazilpub"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "compat-tables",
+  "owner": {
+   "login": "W3CGHtmail"
+  },
+  "url": "https://github.com/W3CGHtmail/compat-tables",
+  "description": "Tables to compare different email clients and things they support or don't...",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/htmail"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "html-email-spec",
+  "owner": {
+   "login": "W3CGHtmail"
+  },
+  "url": "https://github.com/W3CGHtmail/html-email-spec",
+  "description": "Home for the HTML for Email Community Group Specification Proposal",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/htmail"
    ],
    "exposed": true
   }
@@ -6583,6 +8050,124 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "fetcher",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/fetcher",
+  "description": "Tool to download website data. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "prototypes",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/prototypes",
+  "description": "Prototypes crawlers and other crazy experiments",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "query",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/query",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "research",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/research",
+  "description": "Research and other evidence related to web dev",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webdevdata-reports",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/webdevdata-reports",
+  "description": "Scripts to generate reports from webdevdata.org crawled sites",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webdevdata-tools",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/webdevdata-tools",
+  "description": "Command line tools to assist exploring data from webdevdata.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webdevdata.org",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/webdevdata.org",
+  "description": "Website for reports, etc.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "capabilities",
   "owner": {
    "login": "a11yedge"
@@ -6838,6 +8423,24 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "xapi-profiles",
+  "owner": {
+   "login": "adlnet"
+  },
+  "url": "https://github.com/adlnet/xapi-profiles",
+  "homepageUrl": "https://adlnet.gov/projects/xapi/",
+  "description": "A set of documents addressing the structure of and supporting services for xAPI Profiles.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/xapivocabulary"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "ai-visibility-lifecycle-cg",
   "owner": {
    "login": "ai-visibility-architects"
@@ -7028,6 +8631,24 @@
     "others"
    ],
    "policy": "open",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "atomic-data-docs",
+  "owner": {
+   "login": "atomicdata-dev"
+  },
+  "url": "https://github.com/atomicdata-dev/atomic-data-docs",
+  "homepageUrl": "https://docs.atomicdata.dev",
+  "description": "Atomic Data is a specification to make it easier to exchange data.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/atomic-data"
+   ],
    "exposed": true
   }
  },
@@ -7295,6 +8916,1031 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WebGPIO",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/WebGPIO",
+  "homepageUrl": "http://browserobo.github.io/WebGPIO/",
+  "description": "WebGPIO spec draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WebI2C",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/WebI2C",
+  "homepageUrl": "http://browserobo.github.io/WebI2C/",
+  "description": "Web I2C spec draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "browserobo.github.io",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/browserobo.github.io",
+  "description": "GitHub Pages for the organization (https://browserobo.github.io)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "docs",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/docs",
+  "description": "documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "hackathon2017",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/hackathon2017",
+  "homepageUrl": "https://browserobo.github.io/hackathon2017/",
+  "description": "Web x IoT メイカーズハッカソン Web Site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-aditional-inputs",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-aditional-inputs",
+  "homepageUrl": "https://www.ceddlbyexample.com/",
+  "description": "Aditional inputs for ceddl. If the core polyfill does not have what you are looking for.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-polyfill",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-polyfill",
+  "homepageUrl": "https://www.ceddlbyexample.com/",
+  "description": " Customer experience digital data layer polyfill. Bridging the gap between the ceddl spec's and the browsers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-website-and-spec",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-website-and-spec",
+  "description": "ceddl polyfill comunity website, specs and blog",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-with-angular",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-with-angular",
+  "description": "This is a TodoMVC Implementation example of ceddl-polyfill with angular. It demonstrates how you could use templating and ceddl data model to create a web frontend datalayer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-with-react",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-with-react",
+  "description": "This is a TodoMVC Implementation example of ceddl-polyfill with react. It demonstrates how you could use templating and ceddl data model to create a web frontend datalayer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-with-vue",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-with-vue",
+  "description": "This is a TodoMVC Implementation example of ceddl-polyfill with Vue. It demonstrates how you could use templating and ceddl data model to create a web frontend datalayer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bitcoin-header-node",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/bitcoin-header-node",
+  "description": "A lightweight node for syncing only bitcoin block headers from a specific height",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint",
+  "description": "A meta repository with info about Chainpoint and pointers to related technology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-binary",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-binary",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "A Javascript library for converting between Chainpoint JSON-LD and binary proof formats",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-cli",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-cli",
+  "homepageUrl": "https://chainpoint.org/",
+  "description": "A Command Line Interface (CLI) for creating and verifying Chainpoint proofs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-client-web",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-client-web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-connector",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-connector",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-core",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-core",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-drand",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-drand",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-gateway",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-gateway",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "Chainpoint Gateway",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-go",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-go",
+  "description": "Chainpoint client in go, courtesy of @boki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-influx",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-influx",
+  "description": "A Node.js utility wrapper around the officially supported InfluxDB package. Supports batching, suppression of captured events to enable/disable writing to InfluxDB.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-js",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-js",
+  "description": "A javascript client to create and verify Chainpoint proofs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-node-cli",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-node-cli",
+  "description": "Chainpoint Node configuration and setup tool",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-ntpd",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-ntpd",
+  "description": "A Docker container running Alpine Linux and OpenNTPD",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-org",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-org",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "The chainpoint.org public website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-parse",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-parse",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "A Javascript library for parsing Chainpoint proofs and calculating expected hashes and anchors.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-proof-json-schema",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-proof-json-schema",
+  "description": "A Javascript NPM package to validate Chainpoint v4 Proofs with a formal JSON Schema (Draft 04) validator",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-roughtime",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-roughtime",
+  "description": "A Docker image for the roughenough Roughtime implementation used to host roughtime.chainpoint.org:2002",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-start",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-start",
+  "description": "Start here to learn about the Chainpoint Network.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-validate-js",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-validate-js",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "A Node.js module for validating Chainpoint v2 blockchain receipts",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ethers.js",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/ethers.js",
+  "homepageUrl": "https://docs.ethers.io/ethers.js/html/",
+  "description": "Complete Ethereum wallet implementation and library in JavaScript.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "feesim",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/feesim",
+  "homepageUrl": "https://bitcoinfees.github.io",
+  "description": "Model-based Bitcoin fee estimation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "go-nist-beacon",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/go-nist-beacon",
+  "description": "NIST Randomness Beacon (https://beacon.nist.gov/home) api wrapper",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "homebrew-taps",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/homebrew-taps",
+  "description": "A repository of Chainpoint Homebrew formulas",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "js-macaroon",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/js-macaroon",
+  "description": "Javascript implementation of macaroons",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "leader-election",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/leader-election",
+  "description": "Elect a leader from a list of peers, given identical sources of entropy for all peers. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "level-rocksdb",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/level-rocksdb",
+  "description": "  Fast & simple storage - a Node.js-style RocksDB wrapper (a convenience package bundling LevelUP & rocksdb)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "lightning-go",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/lightning-go",
+  "description": "Lightning (lnd) grpc client in golang",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "merkletools-go",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/merkletools-go",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "nist-randomness-beacon",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/nist-randomness-beacon",
+  "description": "A Javascript wrapper for the NIST Randomness Beacon API v2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tendermint",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/tendermint",
+  "homepageUrl": "https://tendermint.com/",
+  "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "w3id.org",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/w3id.org",
+  "description": "Website source code for w3id.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "whitepaper",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/whitepaper",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "act",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/act",
+  "homepageUrl": "https://conversational-interfaces.github.io/act/",
+  "description": "Behavior definition language for conversational interfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "conversational-interfaces.github.io",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/conversational-interfaces.github.io",
+  "homepageUrl": "https://conversational-interfaces.github.io/",
+  "description": "W3C Conversational Interfaces Community Group Page",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dms-compiler",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/dms-compiler",
+  "homepageUrl": "https://w3c.github.io/dms/",
+  "description": "Compiles DM Script to DMPL JSON",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dms-scratchpad",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/dms-scratchpad",
+  "homepageUrl": "https://conversational-interfaces.github.io/dms-scratchpad",
+  "description": "Try DM Script & DMPL in your browser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "pum",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/pum",
+  "homepageUrl": "https://conversational-interfaces.github.io/pum/",
+  "description": "Personal Utility Model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "contacts": [
+    "binroot"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "COREMOB-1-REQ",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/COREMOB-1-REQ",
+  "description": "[STALE] Requirements for the Coremob Level 1 spec.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "camera",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/camera",
+  "description": "An open-source camera application built using Web technology.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "camera.coremob.org",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/camera.coremob.org",
+  "description": "Home of the Coremob Camera project",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-2012",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-2012",
+  "description": "Core mobile Web Platform 2012",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-test-approach",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-test-approach",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-tests",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-tests",
+  "homepageUrl": "http://coremob.org",
+  "description": "[STALE] Tests for the coremob specs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-ucr",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-ucr",
+  "description": "[STALE] This document describes basic use cases and requirements for mobile Web application development.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "level-0",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/level-0",
+  "homepageUrl": "http://coremob.org/",
+  "description": "[STALE] Core Mobile Web Plaform — Level 0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "level-1",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/level-1",
+  "homepageUrl": "http://coremob.org/",
+  "description": "[STALE] This repository has moved to https://github.com/coremob/coremob-2012.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "OCM-API",
+  "owner": {
+   "login": "cs3org"
+  },
+  "url": "https://github.com/cs3org/OCM-API",
+  "homepageUrl": "https://cs3org.github.io/OCM-API",
+  "description": "OpenCloudMesh API ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ocm"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cacg",
   "owner": {
    "login": "daiyak"
@@ -7442,6 +10088,74 @@
   "w3cjson": {
    "group": [
     "cg/expath"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "manifesto",
+  "owner": {
+   "login": "extensibleweb"
+  },
+  "url": "https://github.com/extensibleweb/manifesto",
+  "homepageUrl": "https://extensiblewebmanifesto.org/",
+  "description": "The Extensible Web Manifesto",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nextweb"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "prollyfill.org",
+  "owner": {
+   "login": "extensibleweb"
+  },
+  "url": "https://github.com/extensibleweb/prollyfill.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nextweb"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webidl.js",
+  "owner": {
+   "login": "extensibleweb"
+  },
+  "url": "https://github.com/extensibleweb/webidl.js",
+  "description": "An implementation of WebIDL in ECMAScript",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nextweb"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rdfsurfaces-tests",
+  "owner": {
+   "login": "eyereasoner"
+  },
+  "url": "https://github.com/eyereasoner/rdfsurfaces-tests",
+  "description": "A test kit for RDF Surfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rdfsurfaces"
    ],
    "exposed": true
   }
@@ -7848,6 +10562,74 @@
   "w3cjson": {
    "group": [
     "cg/gpu"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cg-charter",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/cg-charter",
+  "description": "CG Charter Draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "group",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/group",
+  "description": "General information and issues on HTTPS in Local Network Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "proposals",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/proposals",
+  "description": "Concrete proposals on HTTPS for local servers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "usecases",
+  "owner": {
+   "login": "httpslocal"
+  },
+  "url": "https://github.com/httpslocal/usecases",
+  "description": "discussion about use cases",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/httpslocal"
    ],
    "exposed": true
   }
@@ -8830,6 +11612,24 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rfcs",
+  "owner": {
+   "login": "interledger"
+  },
+  "url": "https://github.com/interledger/rfcs",
+  "homepageUrl": "https://interledger.org",
+  "description": "Specifications for Interledger and related protocols",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/interledger"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dashboard",
   "owner": {
    "login": "invisibleXML"
@@ -9672,6 +12472,194 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Business-use-cases-for-the-use-of-Linguistic-Linked-Data",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "url": "https://github.com/ld4lt/Business-use-cases-for-the-use-of-Linguistic-Linked-Data",
+  "description": "Business use cases for the use of Linguistic Linked Data in content analytics processes - Phase II",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "annotation-demos",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "url": "https://github.com/ld4lt/annotation-demos",
+  "description": "Samples and demos for challenges and approaches to linguistic annotation in RDF",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ld4lt-www",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "url": "https://github.com/ld4lt/ld4lt-www",
+  "description": "archived LD4LT wiki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "linguistic-annotation",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "url": "https://github.com/ld4lt/linguistic-annotation",
+  "description": "Towards a consolidated LOD vocabulary for linguistic annotations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "metashare",
+  "owner": {
+   "login": "ld4lt"
+  },
+  "url": "https://github.com/ld4lt/metashare",
+  "description": "The Metashare Ontology as Created by the LD4LT Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ld4lt"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "timeld",
+  "owner": {
+   "login": "m-ld"
+  },
+  "url": "https://github.com/m-ld/timeld",
+  "description": "Live shared timesheets",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "discussion-papers",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/discussion-papers",
+  "description": "informal unofficial documents for discussion",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ink-metrics",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/ink-metrics",
+  "description": "Test for ink metrics",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mathml-css-proposals",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/mathml-css-proposals",
+  "homepageUrl": "https://mathml-refresh.github.io/mathml-css-proposals/",
+  "description": "Draft for CSS proposals ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mathml-refresh.github.io",
+  "owner": {
+   "login": "mathml-refresh"
+  },
+  "url": "https://github.com/mathml-refresh/mathml-refresh.github.io",
+  "homepageUrl": "https://mathml-refresh.github.io",
+  "description": "gh-pages site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/mathml4"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "federated-timesheets-tests",
+  "owner": {
+   "login": "muze-nl"
+  },
+  "url": "https://github.com/muze-nl/federated-timesheets-tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "NLWeb",
   "owner": {
    "login": "nlweb-ai"
@@ -9790,6 +12778,24 @@
   "w3cjson": {
    "group": [
     "cg/nostr"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "oerschema",
+  "owner": {
+   "login": "open-curriculum"
+  },
+  "url": "https://github.com/open-curriculum/oerschema",
+  "homepageUrl": "https://oerschema.org",
+  "description": "A RDF vocabulary for OER content on the web.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/oerschema"
    ],
    "exposed": true
   }
@@ -11274,6 +14280,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "milopa",
+  "owner": {
+   "login": "pair-cg"
+  },
+  "url": "https://github.com/pair-cg/milopa",
+  "description": "Repository for the milopa ontology.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/pair-cg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "admin",
   "owner": {
    "login": "patcg"
@@ -11470,6 +14493,59 @@
   "w3cjson": {
    "group": [
     "cg/perma-id"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "CYB",
+  "owner": {
+   "login": "pondersource"
+  },
+  "url": "https://github.com/pondersource/CYB",
+  "description": "PHP code to Connect Your Books",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "prejournal",
+  "owner": {
+   "login": "pondersource"
+  },
+  "url": "https://github.com/pondersource/prejournal",
+  "homepageUrl": "https://pondersource.github.io/prejournal/",
+  "description": "An experimental bookkeeping tool that sits between source documents and journals",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "XSLTExtensions",
+  "owner": {
+   "login": "pplcg"
+  },
+  "url": "https://github.com/pplcg/XSLTExtensions",
+  "homepageUrl": "https://www.w3.org/community/ppl/wiki/XSLTExtensions",
+  "description": "XSLT Extensions - Getting the area tree from an XSL formatter within an XSLT transformation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ppl"
    ],
    "exposed": true
   }
@@ -11895,6 +14971,23 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cns-commons",
+  "owner": {
+   "login": "privacycoop"
+  },
+  "url": "https://github.com/privacycoop/cns-commons",
+  "description": "Consent Name System (CNS)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/cns"
    ],
    "exposed": true
   }
@@ -12497,6 +15590,40 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "escali-package",
+  "owner": {
+   "login": "schematron-quickfix"
+  },
+  "url": "https://github.com/schematron-quickfix/escali-package",
+  "description": "Escali Package",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/quickfix"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "sqf",
+  "owner": {
+   "login": "schematron-quickfix"
+  },
+  "url": "https://github.com/schematron-quickfix/sqf",
+  "description": "Schematron Quick Fixes",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/quickfix"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "capture-all-screens",
   "owner": {
    "login": "screen-share"
@@ -12628,6 +15755,23 @@
   "w3cjson": {
    "group": [
     "cg/sccg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "semtechdoc",
+  "owner": {
+   "login": "semtechdoc"
+  },
+  "url": "https://github.com/semtechdoc/semtechdoc",
+  "description": "Technical Documentation for the Semantic Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/semtechdoc"
    ],
    "exposed": true
   }
@@ -13247,6 +16391,41 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "projects",
+  "owner": {
+   "login": "svg-cg"
+  },
+  "url": "https://github.com/svg-cg/projects",
+  "description": "Discussion of project proposals & report publication requests for the SVG community group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svgcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-cg.github.io",
+  "owner": {
+   "login": "svg-cg"
+  },
+  "url": "https://github.com/svg-cg/svg-cg.github.io",
+  "homepageUrl": "https://svg-cg.org/",
+  "description": "GitHub pages root directory & static files",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svgcg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "swicg"
@@ -13755,6 +16934,41 @@
   "w3cjson": {
    "group": [
     "cg/schemed"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rmd",
+  "owner": {
+   "login": "universalimages"
+  },
+  "url": "https://github.com/universalimages/rmd",
+  "homepageUrl": "https://www.w3.org/community/universalimages/",
+  "description": "An XMP schema for responsive metadata",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/universalimages"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rmd-extension",
+  "owner": {
+   "login": "universalimages"
+  },
+  "url": "https://github.com/universalimages/rmd-extension",
+  "description": "This XMP plugin for Adobe products allows editing the responsive metadata using the 'File info' dialog in Adobe Photoshop.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/universalimages"
    ],
    "exposed": true
   }
@@ -18025,6 +21239,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "HTMLSourcingInbandTracks",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/HTMLSourcingInbandTracks",
+  "description": "Specification for sourcing inband tracks into HTML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/inbandtracks"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "IFT",
   "owner": {
    "login": "w3c"
@@ -20216,7 +23447,7 @@
   },
   "url": "https://github.com/w3c/did-rubric",
   "homepageUrl": "https://w3c.github.io/did-rubric/",
-  "description": "W3C Decentralized Characteristics Rubric v1.0",
+  "description": "W3C Decentralized Characteristics Rubric v2.0",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -29405,6 +32636,24 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-ledger",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/web-ledger",
+  "homepageUrl": "https://w3c.github.io/web-ledger/",
+  "description": "A format and protocol for decentralized Ledgers on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/blockchain"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-locks",
   "owner": {
    "login": "w3c"
@@ -32449,6 +35698,145 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "flex-ledger",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/flex-ledger",
+  "homepageUrl": "https://web-payments.github.io/flex-ledger/",
+  "description": "A flexible format and protocol for decentralized Ledgers on the Web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "fund",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/fund",
+  "description": "Command-line tools to fund to software development.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "minutes",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/minutes",
+  "homepageUrl": "http://www.w3.org/community/webpayments/",
+  "description": "Meeting minutes for the Web Payments work",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "spectrum.payswarm.com",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/spectrum.payswarm.com",
+  "description": "Demonstrating of spectrum trading using PaySwarm.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-commerce-api",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-commerce-api",
+  "description": "A specification for initiating payments in the browser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-payments-messaging",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-payments-messaging",
+  "description": "The Web Payments Messaging specification proposal by the Web Payments CG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-payments-vocab",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-payments-vocab",
+  "description": "Web Payments Vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-payments.org",
+  "owner": {
+   "login": "web-payments"
+  },
+  "url": "https://github.com/web-payments/web-payments.org",
+  "homepageUrl": "https://web-payments.org/",
+  "description": "Web Payments website and core specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webpayments"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "web-platform-dx"
@@ -32647,6 +36035,24 @@
   "w3cjson": {
    "group": [
     "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rfcs",
+  "owner": {
+   "login": "webapi-discovery"
+  },
+  "url": "https://github.com/webapi-discovery/rfcs",
+  "homepageUrl": "https://webapi-discovery.github.io/rfcs",
+  "description": "w3c WebAPI Discovery Community Group - Request For Comments",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-api-discovery"
    ],
    "exposed": true
   }
@@ -33383,6 +36789,90 @@
   "w3cjson": {
    "group": [
     "cg/webscreens"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mediasync",
+  "owner": {
+   "login": "webtiming"
+  },
+  "url": "https://github.com/webtiming/mediasync",
+  "description": "MediaSync is a JavaScrpt library implementing timed playback of HTML5 audio/video, based on the TimingObject ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "sequencer",
+  "owner": {
+   "login": "webtiming"
+  },
+  "url": "https://github.com/webtiming/sequencer",
+  "description": "A generic JavaScript Sequencer for precisely timed presentation of timed data, using HTMLTimingObject/SharedMotion as timing source. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "timingobject",
+  "owner": {
+   "login": "webtiming"
+  },
+  "url": "https://github.com/webtiming/timingobject",
+  "description": "Defines the HTML5 Timing object at the basis of multi-device synchronization matters",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "timingsrc",
+  "owner": {
+   "login": "webtiming"
+  },
+  "url": "https://github.com/webtiming/timingsrc",
+  "description": "Source code for timing related libraries managed by webtiming (multi-device timing CG)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webtiming.github.io",
+  "owner": {
+   "login": "webtiming"
+  },
+  "url": "https://github.com/webtiming/webtiming.github.io",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webtiming"
    ],
    "exposed": true
   }
