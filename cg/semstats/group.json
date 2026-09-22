@@ -1,15 +1,14 @@
 {
  "id": 68482,
  "name": "Semantic Statistics Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-12-18",
  "description": "This community group aims to be a forum for the statistics community and the Linked Data community to examine issues arising from applying semantic technologies in the statistical production process and to report on best practises in the use of statistics on the Web of data. In particular the group will discuss use cases of the application of the Data Cube vocabulary in the production of official statistics and establish if there is a need for more standardisation of vocabularies to ensure comparability of statistics data on the Web of Data.\r\n\r\nPotential participants in this group are members of official statistics agencies and other government bodies that produce data (e.g. administrative, geospatial, government funded research results), statisticians, researchers and anyone in the Web of Data community who is interested in the publication of statistical data that can lead to statistical analysis of the maximum rigour.\r\n\r\nThe group will coordinate as appropriate with the Government Linked Data WG and other relevant groups within the W3C Data Activity Coordination Group.\r\n\r\nThis group will not publish specifications.",
  "shortname": "semstats",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/semstats"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/semstats/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/semstats/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semstats"
   }
  },
- "identifier": "cg/semstats"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/semstats",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1917",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#semstats",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1917"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1917/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1918",
+   "title": "public-semstats (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semstats/",
+    "shortdesc": "public-semstats",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1918"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1918/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1916",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/semstats/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1916"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1916/groups"
+     }
+    }
+   }
+  }
+ ]
 }
