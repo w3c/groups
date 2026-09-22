@@ -50,5 +50,63 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/voice"
+ "identifier": "wg/voice",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1854",
+   "title": "w3c-voice-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-voice-wg/",
+    "shortdesc": "w3c-voice-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1854"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1854/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/151",
+   "title": "voice (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/Voice/wiki",
+    "shortdesc": "voice",
+    "longdesc": "Voice Browser Working Group Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/151"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/151/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/152",
+   "title": "voicegroup (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/Voice/Group/wiki",
+    "shortdesc": "voicegroup",
+    "longdesc": "Voice Browser Working Group Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/152"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/152/groups"
+     }
+    }
+   }
+  }
+ ]
 }
