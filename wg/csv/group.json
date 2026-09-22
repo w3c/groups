@@ -51,5 +51,43 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/csv"
+ "identifier": "wg/csv",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2195",
+   "title": "public-csv-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-csv-wg/",
+    "shortdesc": "public-csv-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2195"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2195/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2782",
+   "title": "public-csv-wg-comments (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-csv-wg-comments/",
+    "shortdesc": "public-csv-wg-comments",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2782"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2782/groups"
+     }
+    }
+   }
+  }
+ ]
 }
