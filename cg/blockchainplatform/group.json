@@ -1,15 +1,14 @@
 {
  "id": 134437,
  "name": "Blockchain Wallet & Exchange Platform Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2021-10-23",
  "description": "The purpose of this community group is to establish and explore the technology challenges for blockchain wallet and exchange platforms. \r\nWorking to define the current process and help to explore the options to establish a more secure and cost effective process for all blockchain applications online.\r\nWe invite all interested parties to join in our community group.",
  "shortname": "blockchainplatform",
+ "closed_date": "2023-02-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/blockchainplatform"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/blockchainplatform/"
   },
@@ -27,7 +26,52 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/blockchainplatform/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/blockchainplatform"
   }
  },
- "identifier": "cg/blockchainplatform"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/blockchainplatform",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33280",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#blockchainplatform",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33280"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33280/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33279",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/blockchainplatform/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33279"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33279/groups"
+     }
+    }
+   }
+  }
+ ]
 }
