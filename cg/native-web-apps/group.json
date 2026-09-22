@@ -1,15 +1,14 @@
 {
  "id": 48774,
  "name": "Native Web Apps Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-08-19",
  "description": "A community driven take on the concepts driving the Widgets and Device APIs. Collectively understood these technologies form the basis for installable web apps. Living in a secured context these applications give the web access to traditionally native capabilities. ",
  "shortname": "native-web-apps",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/native-web-apps"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/native-web-apps/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/native-web-apps/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/native-web-apps"
   }
  },
- "identifier": "cg/native-web-apps"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/native-web-apps",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/503",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#native-web-apps",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/503"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/503/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/504",
+   "title": "public-native-web-apps (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-native-web-apps/",
+    "shortdesc": "public-native-web-apps",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/504"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/504/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/502",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/native-web-apps/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/502"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/502/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/501",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/native-web-apps/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/501"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/501/groups"
+     }
+    }
+   }
+  }
+ ]
 }
