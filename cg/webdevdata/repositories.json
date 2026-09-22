@@ -1,0 +1,120 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "fetcher",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/fetcher",
+  "description": "Tool to download website data. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "prototypes",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/prototypes",
+  "description": "Prototypes crawlers and other crazy experiments",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "query",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/query",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "research",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/research",
+  "description": "Research and other evidence related to web dev",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webdevdata-reports",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/webdevdata-reports",
+  "description": "Scripts to generate reports from webdevdata.org crawled sites",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webdevdata-tools",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/webdevdata-tools",
+  "description": "Command line tools to assist exploring data from webdevdata.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "webdevdata.org",
+  "owner": {
+   "login": "Webdevdata"
+  },
+  "url": "https://github.com/Webdevdata/webdevdata.org",
+  "description": "Website for reports, etc.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdevdata"
+   ],
+   "exposed": true
+  }
+ }
+]
