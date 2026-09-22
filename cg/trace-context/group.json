@@ -1,0 +1,113 @@
+{
+ "id": 104066,
+ "name": "Distributed Trace Context Community Group",
+ "is_closed": true,
+ "creation-date": "2017-12-13",
+ "description": "<p><strong>This group has completed its work. People interested in this topic should join the <a href=\"https://www.w3.org/groups/wg/distributed-tracing/\">Distributed Tracing Working Group</a>.</strong></p>\r\n\r\n<p>The mission of this group was to define the standard for distributed trace context propagation. Distributed trace context is used to enable monitoring and diagnostics scenarios in micro-services environment. It consists of request identifiers and key properties that needs to be propagated from one micro-service to another. These identifiers and properties are used to analyze an end-to-end distributed traces.</p>\r\n\r\n<p>The group primary objective was to publish a specification for the protocols to use for distributed trace context propagation. Protocol includes wire format and recommended scenarios to use these protocols in applications, web servers, libraries, and platforms. The group also targetted to produce reference implementation for some languages.</p>\r\n\r\n<p>Standardized and universally used trace context propagation protocols enable monitoring and diagnostics scenarios that are hard to achieve otherwise. Authors of libraries, web servers, and application performance management (APM) vendors interested to improve micro-services monitoring and diagnostics story were encouraged to participate in this group.</p>",
+ "shortname": "trace-context",
+ "closed_date": "2018-08-24",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/trace-context/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/trace-context/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/trace-context/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/trace-context/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/trace-context/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/trace-context/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/trace-context"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/trace-context",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12271",
+   "title": "GitHub (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://github.com/w3c/distributed-tracing",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12271"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12271/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12272",
+   "title": "Gitter (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://gitter.im/TraceContext/Lobby",
+    "shortdesc": "Gitter",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12272"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12272/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12269",
+   "title": "internal-trace-context (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-trace-context/",
+    "shortdesc": "internal-trace-context",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12269"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12269/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12265",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/trace-context/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12265"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12265/groups"
+     }
+    }
+   }
+  }
+ ]
+}
