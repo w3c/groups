@@ -1,15 +1,14 @@
 {
  "id": 49133,
  "name": "Web Crypto API Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-08-31",
  "description": "This group discusses Web Crypto APIs for signing the message by the user certificate issuing from the certificate authority for SSL communications. It is based on http://html5.creation.net/webcrypto-api/",
  "shortname": "webcryptoapi",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webcryptoapi"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webcryptoapi/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webcryptoapi/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webcryptoapi"
   }
  },
- "identifier": "cg/webcryptoapi"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webcryptoapi",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/529",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webcryptoapi",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/529"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/529/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/530",
+   "title": "public-webcryptoapi (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webcryptoapi/",
+    "shortdesc": "public-webcryptoapi",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/530"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/530/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/528",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webcryptoapi/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/528"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/528/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/527",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/webcryptoapi/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/527"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/527/groups"
+     }
+    }
+   }
+  }
+ ]
 }
