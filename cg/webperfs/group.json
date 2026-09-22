@@ -1,15 +1,14 @@
 {
  "id": 58490,
  "name": "Web Performance Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-10-16",
  "description": "The goal of the Web Performance is to produce a general guideline to help people who work in the web field increasing their websites' performances. From the server abilities and rapidity to the analysis of the website's code (whatever would the markup language be), we try to help web designers making faster websites.",
  "shortname": "webperfs",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webperfs"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webperfs/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webperfs/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webperfs"
   }
  },
- "identifier": "cg/webperfs"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webperfs",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1291",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webperfs",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1291"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1291/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1292",
+   "title": "public-webperfs (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webperfs/",
+    "shortdesc": "public-webperfs",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1292"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1292/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1290",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webperfs/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1290"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1290/groups"
+     }
+    }
+   }
+  }
+ ]
 }
