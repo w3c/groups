@@ -1,0 +1,19 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "guia-epub",
+  "owner": {
+   "login": "W3CBrasil"
+  },
+  "url": "https://github.com/W3CBrasil/guia-epub",
+  "description": "Repositório para a elaboração do \"Guia de Boas Práticas em Publicações Digitais\" do Brazilian Publishing Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/brazilpub"
+   ],
+   "exposed": true
+  }
+ }
+]
