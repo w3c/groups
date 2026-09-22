@@ -51,5 +51,64 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/epub"
+ "identifier": "wg/epub",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25979",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=125377",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25979"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25979/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25927",
+   "title": "member-epub-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-epub-wg/",
+    "shortdesc": "member-epub-wg",
+    "longdesc": "Member mailing list for the EPUB 3 Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25927"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25927/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25929",
+   "title": "public-epub-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-epub-wg/",
+    "shortdesc": "public-epub-wg",
+    "longdesc": "Public mailing list for the EPUB 3 Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25929"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25929/groups"
+     }
+    }
+   }
+  }
+ ]
 }
