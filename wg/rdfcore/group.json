@@ -1,0 +1,68 @@
+{
+ "id": 27979,
+ "name": "RDF Core Working Group",
+ "is_closed": true,
+ "shortname": "rdfcore",
+ "closed_date": "2004-07-01",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2001/sw/RDFCore/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/charters"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/rdfcore/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/rdfcore/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/rdfcore/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/rdfcore"
+  }
+ },
+ "type": "working group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/rdfcore",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/3226",
+   "title": "w3c-rdfcore-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/w3c-rdfcore-wg/",
+    "shortdesc": "w3c-rdfcore-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/3226"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/3226/groups"
+     }
+    }
+   }
+  }
+ ]
+}
