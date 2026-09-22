@@ -1,15 +1,14 @@
 {
  "id": 75369,
  "name": "Benchmarking for the Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-12-17",
  "description": "As web \"applications\" become more complex, it is felt that not only conformance but also performance of software is at issue.  This is especially true for those on embedded systems such as mobile terminals. This CG will discuss how to assess performance characteristics of web browsers and web applications and how to provide a method of comparing the performance of various subsystems across different web systems.  The group will deliver guidelines on these issues.",
  "shortname": "benchweb",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/benchweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/benchweb/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/benchweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/benchweb"
   }
  },
- "identifier": "cg/benchweb"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/benchweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5893",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#benchweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5893"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5893/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5894",
+   "title": "public-benchweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-benchweb/",
+    "shortdesc": "public-benchweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5894"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5894/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5892",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/benchweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5892"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5892/groups"
+     }
+    }
+   }
+  }
+ ]
 }
