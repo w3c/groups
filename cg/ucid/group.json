@@ -1,15 +1,14 @@
 {
  "id": 137283,
  "name": "TNS UCID Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-04-11",
  "description": "The Universal Communication Identifier is the world's first blockchain-enabled service for supply chain security, device management, software licensing, and equipment tracking.",
  "shortname": "ucid",
+ "closed_date": "2023-02-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/ucid"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/ucid/"
   },
@@ -27,7 +26,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/ucid/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ucid"
   }
  },
- "identifier": "cg/ucid"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ucid",
+ "services": []
 }
