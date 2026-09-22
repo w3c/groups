@@ -1,12 +1,85 @@
 [
  {
-  "name": "dms",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "act",
   "owner": {
-   "login": "w3c"
+   "login": "conversational-interfaces"
   },
-  "url": "https://github.com/w3c/dms",
+  "url": "https://github.com/conversational-interfaces/act",
+  "homepageUrl": "https://conversational-interfaces.github.io/act/",
+  "description": "Behavior definition language for conversational interfaces",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "conversational-interfaces.github.io",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/conversational-interfaces.github.io",
+  "homepageUrl": "https://conversational-interfaces.github.io/",
+  "description": "W3C Conversational Interfaces Community Group Page",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dms-compiler",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/dms-compiler",
   "homepageUrl": "https://w3c.github.io/dms/",
-  "description": "Dialogue Manager Script - programming language for autonomous interactive systems",
+  "description": "Compiles DM Script to DMPL JSON",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dms-scratchpad",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/dms-scratchpad",
+  "homepageUrl": "https://conversational-interfaces.github.io/dms-scratchpad",
+  "description": "Try DM Script & DMPL in your browser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/conv"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "pum",
+  "owner": {
+   "login": "conversational-interfaces"
+  },
+  "url": "https://github.com/conversational-interfaces/pum",
+  "homepageUrl": "https://conversational-interfaces.github.io/pum/",
+  "description": "Personal Utility Model",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
