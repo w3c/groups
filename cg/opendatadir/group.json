@@ -1,15 +1,14 @@
 {
  "id": 64441,
  "name": "Open Data Directory Community Group",
- "is_closed": false,
- "description": "The Open Data Directory lists products, services and research projects that leverage Linked Data. Currently, the Directory serves as an aggregator of use cases and web sites using Linked Data and is expected to evolve over time in response user requirements.  The Directory is a community service project to foster ease-of-use and awareness of Open Data on the Web.\r\n\r\nThe Directory has an easy to use Web interface enabling users to list:\r\n- Organization name\r\n- Contact name\r\n- Product(s)\r\n- Service(s)  \r\n- Projects & Use Cases\r\n\r\nThe Open Data Directory periodically gathers Linked Data from designated sites and compiles it into a summarized view of the community.  It is a purely Linked Data application and not another \"walled garden.\"  Organizations are responsible for publishing their own Linked Data for the Directory to consume.\r\n\r\nThe Open Data Directory includes some basic visualizations that are expected to expand over time.  The site is built on open Web standards and an Open Source data platform hosted on the cloud.   All of the data is freely available for download as RDF.  The Open Data Directory is open and does not require W3C affiliation.  ",
+ "is_closed": true,
+ "creation-date": "2013-06-25",
+ "description": "The Open Data Directory lists products, services and research projects that leverage Linked Data. Currently, the Directory serves as an aggregator of use cases and web sites using Linked Data and is expected to evolve over time in response user requirements.  The Directory is a community service project to foster ease-of-use and awareness of Open Data on the Web.\r\n\r\nThe Directory has an easy to use Web interface enabling users to list:\r\n- Organization name\r\n- Contact name\r\n- Product(s)\r\n- Service(s)  \r\n- Projects &amp; Use Cases\r\n\r\nThe Open Data Directory periodically gathers Linked Data from designated sites and compiles it into a summarized view of the community.  It is a purely Linked Data application and not another \"walled garden.\"  Organizations are responsible for publishing their own Linked Data for the Directory to consume.\r\n\r\nThe Open Data Directory includes some basic visualizations that are expected to expand over time.  The site is built on open Web standards and an Open Source data platform hosted on the cloud.   All of the data is freely available for download as RDF.  The Open Data Directory is open and does not require W3C affiliation.  ",
  "shortname": "opendatadir",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opendatadir"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opendatadir/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opendatadir/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opendatadir"
   }
  },
- "identifier": "cg/opendatadir"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opendatadir",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1540",
+   "title": "internal-opendatadir (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-opendatadir/",
+    "shortdesc": "internal-opendatadir",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1540"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1540/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1537",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opendatadir",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1537"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1537/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1538",
+   "title": "public-opendatadir (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opendatadir/",
+    "shortdesc": "public-opendatadir",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1538"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1538/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1536",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opendatadir/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1536"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1536/groups"
+     }
+    }
+   }
+  }
+ ]
 }
