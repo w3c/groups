@@ -1,0 +1,69 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "new-note-draft",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/new-note-draft",
+  "description": "A scratch space for something to replace the now rather venerable W3C note from 2000 on Accessibility Features in SVG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-a11y-tests",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/svg-a11y-tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "svg-tests",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/svg-tests",
+  "description": "Tests for SVG support in browsers and screenreaders",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "use-case-examples",
+  "owner": {
+   "login": "SVG-access-W3CG"
+  },
+  "url": "https://github.com/SVG-access-W3CG/use-case-examples",
+  "description": "SVG documents for messing around with. The primary purpose of these is to figure out the relevant use cases, and how to meet them or what is lacking in SVG at the moment.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/svga11y"
+   ],
+   "exposed": true
+  }
+ }
+]
