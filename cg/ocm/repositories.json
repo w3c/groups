@@ -1,9 +1,11 @@
 [
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "OCM-API",
   "owner": {
    "login": "cs3org"
   },
+  "url": "https://github.com/cs3org/OCM-API",
   "homepageUrl": "https://cs3org.github.io/OCM-API",
   "description": "OpenCloudMesh API ",
   "isArchived": false,
@@ -11,7 +13,8 @@
   "w3cjson": {
    "group": [
     "cg/ocm"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
