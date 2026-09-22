@@ -1,0 +1,95 @@
+{
+ "id": 78008,
+ "name": "BDE-Secure, clean and efficient energy Community Group",
+ "is_closed": true,
+ "creation-date": "2015-04-27",
+ "description": "<p>This group is now closed; its work has moved to the <a rel=\"nofollow\" href=\"http://www.w3.org/community/bde/\">Big Data Europe Community Group</a>.</p>\r\n<p>This is one of 7 Community Groups established under the <a rel=\"nofollow\" href=\"http://www.big-data-europe.eu/\">BigDataEurope Project</a>, a Coordination and Support Action under the European Union’s Horizon 2020 Programme, each one tailored to a specific <a rel=\"nofollow\" href=\"http://ec.europa.eu/programmes/horizon2020/en/h2020-section/societal-challenges\">Societal Challenge</a>. The discussions in this group will be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation.</p>\r\n<p>This Community Group is specifically interested in the challenge related to secure, clean and efficient energy and is led by the <a rel=\"nofollow\" href=\"http://www.cres.gr/\">Centre for Renewable Energy Sources and Saving (CRES)</a>.</p>\r\n<p>This group will not publish specifications.</p>",
+ "shortname": "bde-energy",
+ "closed_date": "2016-04-08",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/bde-energy/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bde-energy/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bde-energy/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bde-energy/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bde-energy/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bde-energy/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bde-energy"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bde-energy",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6039",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bde-energy",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6039"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6039/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6040",
+   "title": "public-bde-energy (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bde-energy/",
+    "shortdesc": "public-bde-energy",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6040"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6040/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6038",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bde-energy/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6038"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6038/groups"
+     }
+    }
+   }
+  }
+ ]
+}
