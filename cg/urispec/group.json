@@ -1,0 +1,95 @@
+{
+ "id": 73620,
+ "name": "URI Specification Community Group",
+ "is_closed": true,
+ "creation-date": "2014-09-12",
+ "description": "The URI Specification Community Group endeavors to produce a set of coherent, maintainable artifacts for use by implementors, developers, authors, and everyday users. We will achieve this by creating a formal\r\nspecification of the ad hoc URI/URL standard described by RFC 3986/3987 and the WHATWG URL Living Standard. \r\n\r\nThe deliverable is a single formal specification source document in Lem (http://www.cl.cam.ac.uk/~pes20/lem/) from which a typical standards document can be generated as well as a set of theorems over the concepts described and an executable test oracle for each specified\r\nfunction. Depending on community support and development of test generation tools, a test suite with proven specification coverage may also be delivered. If you think URI should work predictably and correctly and be able to be understood clearly, please join this group\r\nand give us your perspective!",
+ "shortname": "urispec",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/urispec/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/urispec/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/urispec/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/urispec/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/urispec/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/urispec/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/urispec"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/urispec",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2089",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#urispec",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2089"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2089/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2090",
+   "title": "public-urispec (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-urispec/",
+    "shortdesc": "public-urispec",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2090"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2090/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2088",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/urispec/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2088"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2088/groups"
+     }
+    }
+   }
+  }
+ ]
+}
