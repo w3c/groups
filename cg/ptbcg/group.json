@@ -1,15 +1,14 @@
 {
  "id": 126817,
  "name": "Product Tracing & Blockchain Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-10-13",
  "description": "WEB OF PRODUCT TRACEABILITY\r\n\r\nThis is the landing page for Web of Product Traceability Community Group.\r\nIn the modern commercial society, product traceability is an important technical system to support the business credit of enterprises.Product traceability is also widely used in product quality supervision, modern logistics, financing Mortgage, commercial consumption and other fields. Therefore, many countries and organizations attach great importance to the development of Traceability Technology. Many independent traceability systems have been built by different countries and organizations. Uniform standards will help to improve the interconnection between them. With the development of technology, two-dimensional code has gradually replaced the commodity bar code, and the data contained in the RFID tag can reach 64K bytes, or even more.The article code based on URL is compatible with traditional GS. 1 commodity code and other coding systems.Therefore, an open product traceability network can be established from bottom to top based on WWW technology. Master data, transaction data and event data can be described by XML / JSON technology. Technologies such as Internet of things and blockchain will also play an important role in the network.The web of product traceability community is aims to build an open traceability network that can run on the public Internet.The original closed traceback network will not disappear, they can access to the open network as an autonomous domain.In the field of product traceability, there are also problems of data mining and information security. The community is aims to build various application models and interfaces to mine the value of traceability data.In order to ensure that the traceability data is not leaked, the community also needs to formulate corresponding information security standards to strictly control the access rights of traceability data.\r\nThis will be a very promising and exciting work. We expect more enterprises and experts to join in and build an open traceability network.\r\n",
  "shortname": "ptbcg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/ptbcg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/ptbcg/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/ptbcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ptbcg"
   }
  },
- "identifier": "cg/ptbcg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ptbcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25985",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ptbcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25985"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25985/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25986",
+   "title": "public-ptbcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ptbcg/",
+    "shortdesc": "public-ptbcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25986"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25986/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25984",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ptbcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25984"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25984/groups"
+     }
+    }
+   }
+  }
+ ]
 }
