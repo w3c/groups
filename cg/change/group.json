@@ -1,15 +1,14 @@
 {
  "id": 58869,
  "name": "Change Tracking Markup Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-10-31",
  "description": "The mission of this group is to develop a proto-spec for marking up changes to documents.",
  "shortname": "change",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/change"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/change/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/change/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/change"
   }
  },
- "identifier": "cg/change"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/change",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1314",
+   "title": "internal-change (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-change/",
+    "shortdesc": "internal-change",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1314"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1314/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1311",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#change",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1311"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1311/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1312",
+   "title": "public-change (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-change/",
+    "shortdesc": "public-change",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1312"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1312/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1310",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/change/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1310"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1310/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1309",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/change/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1309"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1309/groups"
+     }
+    }
+   }
+  }
+ ]
 }
