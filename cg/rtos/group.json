@@ -1,0 +1,95 @@
+{
+ "id": 85094,
+ "name": "Respectful Terms of Service Community Group",
+ "is_closed": true,
+ "creation-date": "2015-12-03",
+ "description": "This group is emerging from a breakout session at an indiewebcamp on 3 December 2015.\r\n\r\nShort description for now: some people/organizations want to host other people's data without infringing on their privacy or freedom, and they want to set a clear bar for this kind of TOS.",
+ "shortname": "rtos",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/rtos/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/rtos/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/rtos/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/rtos/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/rtos/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/rtos/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rtos"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/rtos",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6233",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#rtos",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6233"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6233/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6234",
+   "title": "public-rtos (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rtos/",
+    "shortdesc": "public-rtos",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6234"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6234/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6232",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/rtos/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6232"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6232/groups"
+     }
+    }
+   }
+  }
+ ]
+}
