@@ -1,15 +1,14 @@
 {
  "id": 96976,
  "name": "Schema Generator Community Group",
- "is_closed": false,
- "description": "<p>The mission of the Schema Generator Community Group  is to improve the availability, discovery and innovation of RDFa, Microdata, JSON-LD and other structured data related tooling. Schema generation tools pertaining to this group aim to ensure output can be validated with the W3C Schema validator or similar tools. </p>\r\n<p>The group will assist others with discovering existing tools, updating online materials to find tools and supporting the development of new tools. The goal of this group is to foster the development of the ‘web of data’ through developer support, community engagement and advocacy. The Schema Generator Community Group will also assist by incubating support for works that include, but are not limited to, new RDF-related tools.</p>",
+ "is_closed": true,
+ "creation-date": "2017-02-08",
+ "description": "The mission of the Schema Generator Community Group  is to improve the availability, discovery and innovation of RDFa, Microdata, JSON-LD and other structured data related tooling. Schema generation tools pertaining to this group aim to ensure output can be validated with the W3C Schema validator or similar tools.\r\n\r\nThe group will assist others with discovering existing tools, updating online materials to find tools and supporting the development of new tools. The goal of this group is to foster the development of the ‘web of data’ through developer support, community engagement and advocacy. The Schema Generator Community Group will also assist by incubating support for works that include, but are not limited to, new RDF-related tools.",
  "shortname": "schema-gen",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/schema-gen"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/schema-gen/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/schema-gen/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/schema-gen"
   }
  },
- "identifier": "cg/schema-gen"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/schema-gen",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15506",
+   "title": "Gitter (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://gitter.im/w3cg-schema-gen/Lobby",
+    "shortdesc": "Gitter",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15506"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15506/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6540",
+   "title": "public-schema-gen (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-schema-gen/",
+    "shortdesc": "public-schema-gen",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6540"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6540/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6538",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/schema-gen/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6538"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6538/groups"
+     }
+    }
+   }
+  }
+ ]
 }
