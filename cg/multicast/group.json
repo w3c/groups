@@ -9,9 +9,6 @@
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/multicast"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/multicast/"
   },
@@ -29,10 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/multicast/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/multicast"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/multicast"
+ "identifier": "cg/multicast",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33218",
+   "title": "internal-multicast (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-multicast/",
+    "shortdesc": "internal-multicast",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33218"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33218/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33216",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#multicast",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33216"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33216/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33217",
+   "title": "public-multicast (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-multicast/",
+    "shortdesc": "public-multicast",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33217"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33217/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33215",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/multicast/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33215"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33215/groups"
+     }
+    }
+   }
+  }
+ ]
 }
