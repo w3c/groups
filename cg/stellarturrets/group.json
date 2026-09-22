@@ -1,15 +1,14 @@
 {
  "id": 137010,
  "name": "Stellar Turrets Protocol Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-03-24",
  "description": "This group is to work towards defining a specification for the stellar turrets reference protocol which enables the execution of smart contracts.",
  "shortname": "stellarturrets",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/stellarturrets"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/stellarturrets/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/stellarturrets/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/stellarturrets"
   }
  },
- "identifier": "cg/stellarturrets"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/stellarturrets",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33367",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#stellarturrets",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33367"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33367/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33368",
+   "title": "public-stellarturrets (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-stellarturrets/",
+    "shortdesc": "public-stellarturrets",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33368"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33368/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33366",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/stellarturrets/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33366"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33366/groups"
+     }
+    }
+   }
+  }
+ ]
 }
