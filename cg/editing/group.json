@@ -1,15 +1,14 @@
 {
  "id": 48608,
  "name": "HTML Editing APIs Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-08-16",
  "description": "A group to work on APIs and other functionality related to rich-text HTML editing, such as (1) the contenteditable and designMode attributes (2)The execCommand(), queryCommandEnabled(), queryCommandIndeterm(), queryCommandState(), queryCommandSupported(), and queryCommandValue() methods on the Document interface (3) what exact effect user actions (such as typing text or hitting Enter) should have on rich-text editable regions (4)  the Selection interface (5)  spellcheck for rich-text editable regions, and (6) other functionality related to the foregoing. The group is expected to work on writing high-quality, detailed technical specifications suited for implementation by major browsers.  It will start work with the preliminary specification hosted at http://aryeh.name/spec/editing/editing.html, and later add the Selection part of http://html5.org/specs/dom-range.html, both of which are currently developed entirely outside the W3C and are not close to interoperable implementation.  The group's deliverables are expected to be submitted to the Recommendation track in the WebApps WG after they mature sufficiently.",
  "shortname": "editing",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/editing"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/editing/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/editing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/editing"
   }
  },
- "identifier": "cg/editing"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/editing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/487",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.freenode.net/whatwg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/487"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/487/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/26432",
+   "title": "public-editing (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-editing/",
+    "shortdesc": "public-editing",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/26432"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/26432/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/486",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/editing/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/486"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/486/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/485",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/editing/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/485"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/485/groups"
+     }
+    }
+   }
+  }
+ ]
 }
