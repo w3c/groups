@@ -49,5 +49,6 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/schema"
+ "identifier": "wg/schema",
+ "services": []
 }
