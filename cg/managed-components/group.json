@@ -1,15 +1,14 @@
 {
  "id": 145679,
  "name": "Managed Components Community Group",
- "is_closed": false,
- "description": "The Managed Component Community Group aims to standardize the specifications and usage of Managed Components, an open format for loading third-party tools on the Web. Managed Components use a sandboxed server-side environment to run, making them more secure, private and performant than more traditional methods of loading third-party tools online. The group also aims to potentially pursue changes to browser and runtime APIs that will better support the integration of Managed Components.",
+ "is_closed": true,
+ "creation-date": "2023-07-05",
+ "description": "<p>The Managed Component Community Group aims to standardize the specifications and usage of Managed Components, an open format for loading third-party tools on the Web. Managed Components use a sandboxed server-side environment to run, making them more secure, private and performant than more traditional methods of loading third-party tools online. The group also aims to potentially pursue changes to browser and runtime APIs that will better support the integration of Managed Components.</p>",
  "shortname": "managed-components",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/managed-components"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/managed-components/"
   },
@@ -27,26 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/managed-components/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/managed-components"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/managed-components",
  "services": [
   {
-   "href": "https://api.w3.org/services/40777",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/40778",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#managed-components",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40778"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40778/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40779",
-   "title": "Mailing List"
+   "title": "public-managed-components (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-managed-components/",
+    "shortdesc": "public-managed-components",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40779"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40779/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/40780",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40777",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/managed-components/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40777"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40777/groups"
+     }
+    }
+   }
   }
  ]
 }
