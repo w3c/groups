@@ -1,0 +1,95 @@
+{
+ "id": 76491,
+ "name": "Internet Protocol Identity Community Group",
+ "is_closed": true,
+ "creation-date": "2015-02-15",
+ "description": "This group is for the discussion of assigning an IPv6 address for every person on Earth, so everyone has a digital identity.\r\n\r\nEach individual could use this to proxy or alias other identifiers, permanent or temporary, over different spans of their lifetime. Thus, a person they can manage their domain names, physical or email addresses, phone numbers, WebRTC address, and other contact info as they wish, flexibly maintaining an identity in a decentralized way not controlled by third-party commercial interests or even governments.\r\n\r\nThis system could also be used for organizations, businesses, animals, or any other entity that needs an identity.\r\n\r\nThis group may produce specifications.",
+ "shortname": "ipid",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ipid/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ipid/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ipid/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ipid/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ipid/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ipid/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ipid"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ipid",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5937",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ipid",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5937"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5937/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5938",
+   "title": "public-ipid (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ipid/",
+    "shortdesc": "public-ipid",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5938"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5938/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5936",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ipid/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5936"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5936/groups"
+     }
+    }
+   }
+  }
+ ]
+}
