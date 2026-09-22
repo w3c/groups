@@ -1,15 +1,14 @@
 {
  "id": 53631,
  "name": "Web Observatory Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-03-16",
  "description": "The sister organisation of W3C, the Web Science Trust (www.webscience.org) proposes to create a global \"Web Observatory\". The Open Data movement and the Transparency Agenda are successfully advocating the release of very large institutional and commercial data sets describing social phenomena, economic indicators and geographic trends. This proliferation of data represents great opportunity for researchers and industry but this data abundance also threatens to make it ever more difficult to locate, analyse, compare and interpret useful information in a consistent and reliable way; a situation which can only get worse unless we can help stakeholders perform useful analysis rather than drowning in a sea of data. The Web Observatory will offer an institutional framework to promote the use of W3C and other standards in the development of; Semantic Catalogues to globally locate existing data sets, Collection Systems to gather new global data sets, and Analytics Tools and methodologies to analyse these data sets. This community group seeks to articulate the business and technical requirements for the Web Observatory.",
  "shortname": "webobservatory",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webobservatory"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webobservatory/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webobservatory/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webobservatory"
   }
  },
- "identifier": "cg/webobservatory"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webobservatory",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1023",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webobservatory",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1023"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1023/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1024",
+   "title": "public-webobservatory (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webobservatory/",
+    "shortdesc": "public-webobservatory",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1024"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1024/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1022",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webobservatory/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1022"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1022/groups"
+     }
+    }
+   }
+  }
+ ]
 }
