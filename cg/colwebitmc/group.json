@@ -1,0 +1,77 @@
+{
+ "id": 70315,
+ "name": "Collaboration on Web MCKVIEIT Community Group",
+ "is_closed": true,
+ "creation-date": "2014-03-18",
+ "description": "The primary focus of this group is to promote regional awareness regarding web standards (W3C) and provide a platform for discussions.\r\nWe may also showcase collaborative research on the Web among faculty members as well as students of engineering institutions in and around West Bengal state of India. ",
+ "shortname": "colwebitmc",
+ "closed_date": "2015-04-16",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/colwebitmc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/colwebitmc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/colwebitmc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/colwebitmc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/colwebitmc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/colwebitmc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/colwebitmc"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/colwebitmc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1992",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#colwebitmc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1992"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1992/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1991",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/colwebitmc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1991"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1991/groups"
+     }
+    }
+   }
+  }
+ ]
+}
