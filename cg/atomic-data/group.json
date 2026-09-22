@@ -1,15 +1,14 @@
 {
  "id": 125854,
  "name": "Atomic Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-09-01",
  "description": "Develop a standard for exchanging type-safe data on the web.\r\n\r\nhttps://docs.atomicdata.dev",
  "shortname": "atomic-data",
+ "closed_date": "2023-12-06",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/atomic-data"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/atomic-data/"
   },
@@ -27,8 +26,89 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/atomic-data/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/atomic-data"
   }
  },
  "type": "community group",
- "identifier": "cg/atomic-data"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/atomic-data",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25950",
+   "title": "Discord (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://discord.gg/a72Rv2P",
+    "shortdesc": "Discord",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25950"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25950/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25951",
+   "title": "public-atomic-data (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-atomic-data/",
+    "shortdesc": "public-atomic-data",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25951"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25951/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25949",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/atomic-data/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25949"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25949/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43848",
+   "title": "GitHub  (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/atomicdata-dev/atomic-data-docs",
+    "shortdesc": "GitHub ",
+    "longdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43848"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43848/groups"
+     }
+    }
+   }
+  }
+ ]
 }
