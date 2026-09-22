@@ -1,15 +1,14 @@
 {
  "id": 78037,
  "name": "Restaurant Ontology Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-04-28",
  "description": "The mission of this group is to create a new ontology to describe restaurants, and reservations to those restaurants. The ontology will support queries such as:\r\n<ul>\r\n<li>Find an Asian restaurant for a business meal, near my job place.</li>\r\n<li>Schedule a meal with friends, and add it to my calendar.</li>\r\n<li>Find a restaurant with good reviews of people I trust.</li>\r\n<li>Find a cheap restaurant near a cinema where I can see the last movie of my favorite director (yes, we need an ontology for cinemas too!)</li>\r\n</ul>",
  "shortname": "restonto",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/restonto"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/restonto/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/restonto/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/restonto"
   }
  },
- "identifier": "cg/restonto"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/restonto",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6049",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#restonto",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6049"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6049/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6050",
+   "title": "public-restonto (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-restonto/",
+    "shortdesc": "public-restonto",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6050"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6050/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6048",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/restonto/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6048"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6048/groups"
+     }
+    }
+   }
+  }
+ ]
 }
