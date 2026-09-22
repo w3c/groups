@@ -1,15 +1,14 @@
 {
  "id": 98447,
  "name": "Decentralized Communications Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-03-24",
  "description": "The mission of this group is to specify and build a reference implementation of Decentralized Communications. Decentralized Communications enables natively inter-operable communication services that are able to trustfully use peer to peer connections without having to use central authorities or services. Decentralized Comms are inherently inter-operable without using standard protocols by using the Protocol on-the-fly concept, where the most appropriate protocol stack to be used, is selected and instantiated at run-time.",
  "shortname": "decentralizdcomm",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/decentralizdcomm"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/decentralizdcomm/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/decentralizdcomm/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decentralizdcomm"
   }
  },
- "identifier": "cg/decentralizdcomm"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/decentralizdcomm",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6598",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#decentralizdcomm",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6598"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6598/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6599",
+   "title": "public-decentralizdcomm (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-decentralizdcomm/",
+    "shortdesc": "public-decentralizdcomm",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6599"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6599/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6597",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/decentralizdcomm/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6597"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6597/groups"
+     }
+    }
+   }
+  }
+ ]
 }
