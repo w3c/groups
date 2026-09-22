@@ -1,15 +1,14 @@
 {
  "id": 91428,
  "name": "Smart Manufacturing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-06-08",
  "description": "The mission of this community group is to extend schema.org vocabulary through introducing the necessary classes and properties for semantic description of the manufacturing capabilities of Small-to-medium sized manufacturing companies. The group members come from a variety of backgrounds from the government, academia, and industry. ",
  "shortname": "smartmfg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/smartmfg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/smartmfg/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/smartmfg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/smartmfg"
   }
  },
- "identifier": "cg/smartmfg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/smartmfg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6370",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#smartmfg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6370"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6370/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6371",
+   "title": "public-smartmfg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-smartmfg/",
+    "shortdesc": "public-smartmfg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6371"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6371/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6369",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/smartmfg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6369"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6369/groups"
+     }
+    }
+   }
+  }
+ ]
 }
