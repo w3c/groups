@@ -1,15 +1,14 @@
 {
  "id": 122317,
  "name": "Linked Data for Accessibility Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-03-31",
  "description": "The Linked Data for Accessibility Community Group’s mission is to make accessibility information about buildings, services and routes easier to find — everywhere where people need it. This is done (1) by creating a common and open standard vocabulary for accessibility and (2) by providing a central place for the web community to discuss issues around physical accessibility data. (3) This group may publish Specifications based on the outcome of (1) and (2).\r\n",
  "shortname": "lda",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/lda"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/lda/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/lda/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/lda"
   }
  },
- "identifier": "cg/lda"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/lda",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25795",
+   "title": "internal-lda (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-lda/",
+    "shortdesc": "internal-lda",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25795"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25795/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25793",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#lda",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25793"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25793/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25794",
+   "title": "public-lda (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-lda/",
+    "shortdesc": "public-lda",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25794"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25794/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25792",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/lda/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25792"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25792/groups"
+     }
+    }
+   }
+  }
+ ]
 }
