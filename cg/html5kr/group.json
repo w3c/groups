@@ -1,15 +1,14 @@
 {
  "id": 77051,
  "name": "HTML5 Korean Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-03-16",
  "description": "<p>The mission of the HTML5 Korean Community Group includes the following:</p>\r\n<ul>\r\n<li>to facilitate focused discussion in Korean of the HTML5 specification and of related specifications</li>\r\n<li>to gather comments and questions in Korean about those specifications</li>\r\n<li>to collect information about specific use cases in Korea for technologies defined in those specifications</li>\r\n<li>to report the results of its activities as a group back to the HTML Working Group and to the W3C membership and community</li>\r\n<li> to share an experience of HTML5 best practice in the aspect of web app developer</li>\r\n<li> to share up to date information for HTML5 industry including browser tech, web service, hybrid apps and extra.</li>\r\n</ul>\r\n\r\n<p>This Community Group is the successor of the HTML5 Korean Interest Group. This group will not publish Specifications.</p>",
  "shortname": "html5kr",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/html5kr"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/html5kr/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/html5kr/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/html5kr"
   }
  },
- "identifier": "cg/html5kr"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/html5kr",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5957",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#html5kr",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5957"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5957/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5958",
+   "title": "public-html5kr (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html5kr/",
+    "shortdesc": "public-html5kr",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5958"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5958/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5956",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/html5kr/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5956"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5956/groups"
+     }
+    }
+   }
+  }
+ ]
 }
