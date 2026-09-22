@@ -1,0 +1,132 @@
+{
+ "id": 58393,
+ "name": "Semantic Web Interfaces Community Group",
+ "is_closed": true,
+ "creation-date": "2012-10-12",
+ "description": "Although Interface and Interaction design typically pertain to the disciplinary domain of HCI, which can be considered a neighboring discipline to the semantic web, with this proposal we aim to bring the relevant aspects of HCI to address core technological, socio-technical and fundamental challenges for Semantic Web  (and Web Science) research. Read more: https://docs.google.com/document/d/1z-WtxO67ndfgLVmnZAld-7XA5P-CAg7XgMDZ4mbXgqs/edit",
+ "shortname": "swisig",
+ "closed_date": "2017-10-17",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/swisig/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/swisig/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/swisig/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/swisig/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/swisig/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/swisig/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/swisig"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/swisig",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1285",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#swisig",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1285"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1285/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1286",
+   "title": "public-swisig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-swisig/",
+    "shortdesc": "public-swisig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1286"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1286/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1284",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/swisig/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1284"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1284/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1283",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/swisig/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1283"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1283/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1959",
+   "title": "public-swisig-viso (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-swisig-viso/",
+    "shortdesc": "public-swisig-viso",
+    "longdesc": "public-swisig-viso - Viso Task Force",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1959"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1959/groups"
+     }
+    }
+   }
+  }
+ ]
+}
