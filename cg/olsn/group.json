@@ -1,15 +1,14 @@
 {
  "id": 130677,
  "name": "Universal Safety Net for Online Learning Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2021-04-15",
  "description": "Learning to make the case for a new kind of user-learner help becoming common to the basic UI of browsers. One aspect: every html rendered word an invisible button that opens a help system able to provide anything any learner might need to recognize-read and/or understand the word (eventually) regardless of language, reading skill, vocabulary, background knowledge, or age. \r\n\r\nExample:  https://learningstewards.org/io-pq-pop-up/\r\n\r\nOnline Learning Safety Net (OLSN)",
  "shortname": "olsn",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/olsn"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/olsn/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/olsn/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/olsn"
   }
  },
- "identifier": "cg/olsn"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/olsn",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33185",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#olsn",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33185"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33185/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33186",
+   "title": "public-olsn (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-olsn/",
+    "shortdesc": "public-olsn",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33186"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33186/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33184",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/olsn/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33184"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33184/groups"
+     }
+    }
+   }
+  }
+ ]
 }
