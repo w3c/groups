@@ -35,7 +35,101 @@
   }
  },
  "type": "business group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "bg",
- "identifier": "bg/autowebplatform"
+ "identifier": "bg/autowebplatform",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1416",
+   "title": "internal-autowebplatform (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-autowebplatform/",
+    "shortdesc": "internal-autowebplatform",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1416"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1416/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1414",
+   "title": "public-autowebplatform (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-autowebplatform/",
+    "shortdesc": "public-autowebplatform",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1414"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1414/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1415",
+   "title": "public-autowebplatform-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-autowebplatform-contrib/",
+    "shortdesc": "public-autowebplatform-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1415"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1415/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1411",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/autowebplatform/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1411"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1411/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25913",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=61259",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25913"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25913/groups"
+     }
+    }
+   }
+  }
+ ]
 }
