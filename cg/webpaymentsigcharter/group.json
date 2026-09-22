@@ -1,0 +1,113 @@
+{
+ "id": 71337,
+ "name": "Web Payments Charter Development Community Group",
+ "is_closed": true,
+ "creation-date": "2014-05-05",
+ "description": "See the Web Payments Interest Group http://www.w3.org/Payments/IG/\r\n\r\nThis group was set up as a follow-up on the W3C Web Payments Workshop that took place 23-24 March 2014. The workshop participants advocated W3C to launch a dedicated steering group (W3C Interest Group) to engage further in the development of core standard technologies to better support payments on the Web. \r\nThis community group is a first step in that direction, and will host the discussions around the future charter of the interest group. The objective is to ensure that all stakeholders are able to provide inputs on the role and actions of the future group, and to ensure that a critical mass of representatives from the different stakeholder groups are ready to engage in this work. \r\n\r\nThis group will not publish specifications.",
+ "shortname": "webpaymentsigcharter",
+ "closed_date": "2014-10-30",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webpaymentsigcharter/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webpaymentsigcharter/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webpaymentsigcharter/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webpaymentsigcharter/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webpaymentsigcharter/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webpaymentsigcharter/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webpaymentsigcharter"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webpaymentsigcharter",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2023",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webpaymentsigcharter",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2023"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2023/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2024",
+   "title": "public-webpaymentsigcharter (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webpaymentsigcharter/",
+    "shortdesc": "public-webpaymentsigcharter",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2024"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2024/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2022",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webpaymentsigcharter/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2022"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2022/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2027",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/webpaymentsigcharter/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2027"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2027/groups"
+     }
+    }
+   }
+  }
+ ]
+}
