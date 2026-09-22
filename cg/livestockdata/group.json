@@ -1,0 +1,113 @@
+{
+ "id": 61452,
+ "name": "Livestock Data Interchange Standards Community Group",
+ "is_closed": true,
+ "creation-date": "2013-02-28",
+ "description": "A group of dairy and sheep/beef organisations in New Zealand have agreed to collaborate on standardising the interchange of data about farm animals (livestock) and the management, health, and production information that is recorded for these animals.\r\n\r\nThere are reasons why it is timely for the New Zealand dairy industry in particular to work on these problems, but we intend the work to support multiple species and to draw on previous international work and be relevant for use internationally.",
+ "shortname": "livestockdata",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/livestockdata/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/livestockdata/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/livestockdata/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/livestockdata/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/livestockdata/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/livestockdata/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/livestockdata"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/livestockdata",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1438",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#livestockdata",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1438"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1438/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1439",
+   "title": "public-livestockdata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-livestockdata/",
+    "shortdesc": "public-livestockdata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1439"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1439/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1437",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/livestockdata/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1437"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1437/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1436",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/livestockdata/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1436"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1436/groups"
+     }
+    }
+   }
+  }
+ ]
+}
