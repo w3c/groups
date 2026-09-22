@@ -1,0 +1,95 @@
+{
+ "id": 50516,
+ "name": "Semantic Web Programming Languages Community Group",
+ "is_closed": true,
+ "creation-date": "2011-11-03",
+ "description": "See also the <a rel=\"nofollow\" href=\"https://www.w3.org/community/rdf-dev/\">RDF-DEV Community Group</a>.\r\nA community focused on the adoption of Semantic Web concepts within contemporary and new programming languages. These will incorporate W3C Semantic Web standards for Ontology, Linked data and representations as integral parts of the development tool chains.  Particularly  the group will aim to 1. Develop new semantically-aware programming languages, 2. Modify existing languages to be semantically-aware 3. Develop design patterns for semantically-aware programming. 4. Develop Ontologies  for computer programming concepts to allow inter-lingual sharing of basic and domain-specific algorithms.",
+ "shortname": "semwebprog",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/semwebprog/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/semwebprog/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/semwebprog/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/semwebprog/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/semwebprog/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/semwebprog/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semwebprog"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/semwebprog",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/768",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#semwebprog",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/768"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/768/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/769",
+   "title": "public-semwebprog (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semwebprog/",
+    "shortdesc": "public-semwebprog",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/769"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/769/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/767",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/semwebprog/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/767"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/767/groups"
+     }
+    }
+   }
+  }
+ ]
+}
