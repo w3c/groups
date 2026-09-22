@@ -50,5 +50,26 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/uaag"
+ "identifier": "wg/uaag",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/170",
+   "title": "waiua (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/UA/work/wiki",
+    "shortdesc": "waiua",
+    "longdesc": "WAI UA Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/170"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/170/groups"
+     }
+    }
+   }
+  }
+ ]
 }
