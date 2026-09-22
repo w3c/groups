@@ -1,15 +1,14 @@
 {
  "id": 111285,
  "name": "Voter Decision Support Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-11-27",
  "description": "This community group discusses voter decision support systems and related topics. This community group shall advance the theory and practice of decision-making software and decision support systems for use by citizens during voting-related and civic participation activities. This community group shall advance the theory and practice of voter-centric design, empowering and equipping citizens. This community group may draft suggestions and best practices and may coordinate with other groups to support pertinent standards.\r\n",
  "shortname": "voter-decision-support",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/voter-decision-support"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/voter-decision-support/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/voter-decision-support/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/voter-decision-support"
   }
  },
- "identifier": "cg/voter-decision-support"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/voter-decision-support",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15433",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#voter-decision-support",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15433"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15433/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15434",
+   "title": "public-voter-decision-support (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-voter-decision-support/",
+    "shortdesc": "public-voter-decision-support",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15434"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15434/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15432",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/voter-decision-support/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15432"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15432/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15442",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/voter-decision-support/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15442"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15442/groups"
+     }
+    }
+   }
+  }
+ ]
 }
