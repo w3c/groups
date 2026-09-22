@@ -1,15 +1,14 @@
 {
  "id": 116117,
  "name": "zot protocol Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2019-06-27",
  "description": "To standardize the Zot protocol currently used in Hubzilla and Zap, and to push its adoption for social web.",
  "shortname": "zot",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/zot"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/zot/"
   },
@@ -27,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/zot/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/zot"
   }
  },
  "type": "community group",
- "identifier": "cg/zot"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/zot",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17303",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#zot",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17303"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17303/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17304",
+   "title": "public-zot (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-zot/",
+    "shortdesc": "public-zot",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17304"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17304/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17302",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/zot/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17302"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17302/groups"
+     }
+    }
+   }
+  }
+ ]
 }
