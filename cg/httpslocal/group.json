@@ -1,15 +1,14 @@
 {
  "id": 96773,
  "name": "HTTPS in Local Network Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-02-06",
  "description": "The HTTPS in Local Network Community Group (CG) explores the manner of secure communication between browsers and server-capable devices in local network such as set-top boxes, network attached storages, etc. We propose that this Community Group clarify requirements for browsers and devices in issuing valid certificates and establishment of HTTPS and WebSocket connections over TLS and incubate relevant specifications of APIs and/or network protocols.\r\n\r\nThis work has four primary purposes:\r\n\r\n<ul>\r\n<li>Improve security and privacy of communication between browsers and server-capable devices.</li>\r\n<li>Enable web applications in secure contexts to communicate with server-capable devices in local network via XMLHttpRequest, Fetch API, and WebSocket.</li>\r\n<li>Enable service discovery mechanisms to advertise existence of TLS-enabled server-capable devices.</li>\r\n<li>Encourage adoption and implementation of the specification by browser vendors and device manufacturers.</li>\r\n</ul>\r\n\r\nGiven wider support and adequate stability, we plan to migrate the proposals\r\ngenerated in this Community Group to an appropriate standards track, for\r\nexample the IETF Standards Track or a W3C Working Group, for further\r\ncontributions and formal standardization.",
  "shortname": "httpslocal",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/httpslocal"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/httpslocal/"
   },
@@ -27,7 +26,89 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/httpslocal/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/httpslocal"
   }
  },
- "identifier": "cg/httpslocal"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/httpslocal",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6512",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#httpslocal",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6512"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6512/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6513",
+   "title": "public-httpslocal (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-httpslocal/",
+    "shortdesc": "public-httpslocal",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6513"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6513/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6511",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/httpslocal/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6511"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6511/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13769",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/httpslocal",
+    "shortdesc": "GitHub",
+    "longdesc": "GitHub Repo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13769"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13769/groups"
+     }
+    }
+   }
+  }
+ ]
 }
