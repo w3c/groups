@@ -1,15 +1,14 @@
 {
  "id": 54381,
  "name": "African Developers Taking on the Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-04-11",
  "description": "The mission of this group is to create and support a Pan-African community of competent, internationally certified IT professionals focused on developing the IT Web and mobile based tools for African Agriculture, Business, Education, Health Care, Government and general Social needs.",
  "shortname": "coders4africa",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/coders4africa"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/coders4africa/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/coders4africa/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/coders4africa"
   }
  },
- "identifier": "cg/coders4africa"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/coders4africa",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1092",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#coders4africa",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1092"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1092/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1093",
+   "title": "public-coders4africa (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-coders4africa/",
+    "shortdesc": "public-coders4africa",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1093"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1093/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1091",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/coders4africa/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1091"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1091/groups"
+     }
+    }
+   }
+  }
+ ]
 }
