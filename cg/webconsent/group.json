@@ -1,0 +1,77 @@
+{
+ "id": 126066,
+ "name": "Consent on the Web Community Group",
+ "is_closed": true,
+ "creation-date": "2020-09-11",
+ "description": "The mission of this group is to improve the experience of consent on the web while ensuring it remains adherent to relevant standards and laws. For this, the group will: (i) provide a space for people and stakeholders to come together (ii) highlight and analyse issues and problems about consent on the web (iii) propose and develop solutions.\r\n\r\nSome concrete areas for the working of this group are: (a)  developing solutions using legal, or technical, or a combination of both; (b) documenting and achieving legal compliance; (c)  improving the user experience; and (d) utilising existing and developing new web standards for consent.",
+ "shortname": "webconsent",
+ "closed_date": "2020-10-30",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webconsent/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webconsent/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webconsent/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webconsent/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webconsent/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webconsent/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webconsent"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webconsent",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25970",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webconsent",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25970"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25970/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25969",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webconsent/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25969"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25969/groups"
+     }
+    }
+   }
+  }
+ ]
+}
