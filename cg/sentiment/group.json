@@ -1,15 +1,14 @@
 {
  "id": 68812,
  "name": "Linked Data Models for Emotion and Sentiment Analysis Community Group",
- "is_closed": false,
- "description": "The Sentiment Analysis Community Group is a forum to promote sentiment analysis research. Topics addressed are:\r\n\r\n-Definition of a Linked Data based vocabulary for emotion and sentiment analysis.\r\n\r\n-Requirements beyond text-based analysis, i.e. emotion/sentiment analysis from images, video, social network analysis, etc.\r\n\r\n-Clarifying requirements and the need for consensus as e.g. systems currently use widely varying features for describing polarity values (1-5, -2/-1/0/1/2, positive/neutral/negative, good/very good etc.).\r\n\r\n-Marl and Onyx are vocabularies for emotion and sentiment analysis that can be taken as a starting point for discussion in the CG.\r\n\r\nThis group will not publish specifications.",
+ "is_closed": true,
+ "creation-date": "2014-01-07",
+ "description": "<p>The Sentiment Analysis Community Group is a forum to promote sentiment analysis research. Topics addressed are:</p>\r\n<ul>\r\n<li>Definition of a Linked Data based vocabulary for emotion and sentiment analysis.</li>\r\n\r\n<li>Requirements beyond text-based analysis, i.e. emotion/sentiment analysis from images, video, social network analysis, etc.</li>\r\n\r\n<li>Clarifying requirements and the need for consensus as e.g. systems currently use widely varying features for describing polarity values (1-5, -2/-1/0/1/2, positive/neutral/negative, good/very good etc.).</li>\r\n\r\n<li>Marl and Onyx are vocabularies for emotion and sentiment analysis that can be taken as a starting point for discussion in the CG.</li>\r\n\r\n\r\n     </ul>",
  "shortname": "sentiment",
+ "closed_date": "2024-06-17",
  "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sentiment"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sentiment/"
   },
@@ -27,30 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sentiment/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sentiment"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/sentiment",
  "services": [
   {
-   "href": "https://api.w3.org/services/1921",
-   "title": "Wiki"
-  },
-  {
-   "href": "https://api.w3.org/services/1922",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/1923",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sentiment",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1923"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1923/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/1924",
-   "title": "Mailing List"
+   "title": "public-sentiment (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sentiment/",
+    "shortdesc": "public-sentiment",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1924"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1924/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/1926",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/1922",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sentiment/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1922"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1922/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1921",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/sentiment/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1921"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1921/groups"
+     }
+    }
+   }
   }
  ]
 }
