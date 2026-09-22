@@ -1,15 +1,14 @@
 {
  "id": 50500,
  "name": "Script Library Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-11-02",
  "description": "A forum for improved communication between script library authors and users, and W3C working groups working on relevant specifications.",
  "shortname": "scriptlib",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/scriptlib"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/scriptlib/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/scriptlib/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/scriptlib"
   }
  },
- "identifier": "cg/scriptlib"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/scriptlib",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/752",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#scriptlib",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/752"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/752/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/753",
+   "title": "public-scriptlib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-scriptlib/",
+    "shortdesc": "public-scriptlib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/753"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/753/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/751",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/scriptlib/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/751"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/751/groups"
+     }
+    }
+   }
+  }
+ ]
 }
