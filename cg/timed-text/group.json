@@ -1,15 +1,14 @@
 {
  "id": 50119,
  "name": "Timed Text Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-10-14",
  "description": "A number of organisations are now working with the TTML specification, and a degree of parallel discussion is happening. Some of that discussion is behind closed doors. There is a need to cross fertilize such groups so that the standard does not diverge, in addition new features and errata are being developed. This group is established to act as a forum for individuals, companies and consortia that are working with the TTML specification to address such issues.\r\n\r\nThe core activities of the group will be as follows:\r\n\r\n- To act as a central forum for technical questions and answers on TTML\r\n\r\n- To act as a point of coordination for extensions and features being created in other organizations.\r\n\r\n- To identify issues, gaps and errata in the specification for future standardization.\r\n\r\n- Support the Timed Text Working Group (TTWG)) to develop a community standard which updates TTML 1.0 to address issues, gaps, and errata. \r\n\r\n- To develop and document tutorials, examples and best practice workflows\r\n\r\n- To host example code, templates, test data, and implementation code",
  "shortname": "timed-text",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/timed-text"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/timed-text/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/timed-text/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/timed-text"
   }
  },
- "identifier": "cg/timed-text"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/timed-text",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/708",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#timed-text",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/708"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/708/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/709",
+   "title": "public-timed-text (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-timed-text/",
+    "shortdesc": "public-timed-text",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/709"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/709/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/707",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/timed-text/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/707"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/707/groups"
+     }
+    }
+   }
+  }
+ ]
 }
