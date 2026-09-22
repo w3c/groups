@@ -1,15 +1,14 @@
 {
  "id": 74380,
  "name": "Browsers and Robotics Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-10-22",
  "description": "<p>This community group will discuss the applications of web browsers as the computer for controlling robots (robotics, in other words). And it will be also intended to feedback knowledge obtained from this discussion to standardization activity about Web of Things.</p>\r\n<p>What kinds of values are contained in using a Web browser not only in drawing graphical user interface but also in controlling and manipulating robots, and what kinds of difficulties and problems are there in that case? To search their answers may become the driving force of this activity.</p>\r\n<p>As an example, there may be the following questions in the discussion:</p>\r\n<ul>\r\n<li>Is a case applying a Web browser as a simple controller of the robots which does not have UI such as screens or the pointing devices still meaningful? For example, connectivity with web services and interlocking operation between robots (Swarm Robotics via web) may be one of its values.</li>\r\n<li>Is it possible to relate a graphical user interface of HTML to interactive and physical user interface of the robots? Is it meaningful? As an example, a relation between a physical push button and 'input' type=\"button\" element in the HTML may deserve considering.</li>\r\n<li>Are cases using relatively low-level interface used in many robots such as PWM of the motor, digital or analog signal interfaces, I2C, SPI, UART and GPIOs by the application on the web browsers meaningful?</li>\r\n<li>Is real-time computing at the same level as RTOS feasible on the web browser-based general-purpose computing environments?</li>\r\n</ul>\r\n<p>An initial related activity is the Mozilla Factory Open Hardware Project.</p>\r\n\r\n<p>Furthermore, this group may publish specifications based on those knowledge such as webGPIO, webI2C API and so on.</p>",
  "shortname": "browserobo",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/browserobo"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/browserobo/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/browserobo/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/browserobo"
   }
  },
- "identifier": "cg/browserobo"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/browserobo",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15514",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/browserobo/",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15514"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15514/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2104",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#browserobo",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2104"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2104/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2105",
+   "title": "public-browserobo (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-browserobo/",
+    "shortdesc": "public-browserobo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2105"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2105/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2103",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/browserobo/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2103"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2103/groups"
+     }
+    }
+   }
+  }
+ ]
 }
