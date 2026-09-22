@@ -1,0 +1,113 @@
+{
+ "id": 62455,
+ "name": "Web MIDI Community Group",
+ "is_closed": true,
+ "creation-date": "2013-04-04",
+ "description": "See the <a rel=\"nofollow\" href=\"https://www.w3.org/2011/audio/\">Audio Working Group</a> or the <a rel=\"nofollow\" href=\"https://www.w3.org/community/audio-comgp/\">Audio Community Group</a> instead.\r\nThe Web MIDI Community Group brings together folks interested in enabling MIDI (Musical Instrument Digital Interface) devices on the Web.\r\n\r\nSome example applications include dynamically generated music for games, alternative input devices, and controlling music instruments and lighting systems.  \r\n\r\nThis group will not create specifications.",
+ "shortname": "webmidi",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webmidi/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webmidi/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webmidi/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webmidi/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webmidi/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webmidi/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webmidi"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webmidi",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1483",
+   "title": "internal-webmidi (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-webmidi/",
+    "shortdesc": "internal-webmidi",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1483"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1483/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1480",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webmidi",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1480"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1480/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1481",
+   "title": "public-webmidi (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webmidi/",
+    "shortdesc": "public-webmidi",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1481"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1481/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1479",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webmidi/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1479"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1479/groups"
+     }
+    }
+   }
+  }
+ ]
+}
