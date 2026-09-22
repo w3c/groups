@@ -1,0 +1,95 @@
+{
+ "id": 51312,
+ "name": "Web Test Automation Community Group",
+ "is_closed": true,
+ "creation-date": "2011-12-08",
+ "description": "See also the <a rel=\"nofollow\" href=\"https://www.w3.org/testing/browser/\">Browser Testing and Tools Working Group</a>.\r\nThis group aims at developing common tools, technologies, frameworks and platforms for automating tests in Web applications.",
+ "shortname": "autowebtest",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/autowebtest/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/autowebtest/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/autowebtest/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/autowebtest/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/autowebtest/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/autowebtest/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/autowebtest"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/autowebtest",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/858",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#autowebtest",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/858"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/858/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/859",
+   "title": "public-autowebtest (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-autowebtest/",
+    "shortdesc": "public-autowebtest",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/859"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/859/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/857",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/autowebtest/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/857"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/857/groups"
+     }
+    }
+   }
+  }
+ ]
+}
