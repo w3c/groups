@@ -1,15 +1,14 @@
 {
  "id": 104819,
  "name": "Distributed Compute Protocol Community Group",
- "is_closed": false,
- "description": "This working group is for the discussion and design of the specification of a protocol for standardized distributed ECMAScript and WebGL applications.\r\n\r\nDistributed Compute Protocol (DCP) will become the standard for distributed computing by seamlessly integrating with the internet protocol suite. DCP will be introduced on top of HTTPs/TCP/IP to transmit JSON package files for execution, transforming computational power into a public utility. The Compute Resource Allocation algorithm (CRAa) matches demand for suppliers by efficiently comparing a variety of requirements. DCP is a foundational building block for web 3.0 and is an enabler of technology including, but not limited to, allowing other distributed applications and blockchains to move to the world wide web.\r\n",
+ "is_closed": true,
+ "creation-date": "2018-01-22",
+ "description": "This group is for the discussion and design of the specification of a protocol for standardized distributed ECMAScript and WebGL applications.\r\n\r\nDistributed Compute Protocol (DCP) will become the standard for distributed computing by seamlessly integrating with the internet protocol suite. DCP will be introduced on top of HTTPs/TCP/IP to transmit JSON package files for execution, transforming computational power into a public utility. The Compute Resource Allocation algorithm (CRAa) matches demand for suppliers by efficiently comparing a variety of requirements. DCP is a foundational building block for web 3.0 and is an enabler of technology including, but not limited to, allowing other distributed applications and blockchains to move to the world wide web.",
  "shortname": "distributed-compute",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/distributed-compute"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/distributed-compute/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/distributed-compute/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/distributed-compute"
   }
  },
- "identifier": "cg/distributed-compute"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/distributed-compute",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13744",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#distributed-compute",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13744"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13744/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13745",
+   "title": "public-distributed-compute (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-distributed-compute/",
+    "shortdesc": "public-distributed-compute",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13745"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13745/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13743",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/distributed-compute/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13743"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13743/groups"
+     }
+    }
+   }
+  }
+ ]
 }
