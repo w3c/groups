@@ -1,15 +1,14 @@
 {
  "id": 135891,
  "name": "Consent Name System Community Group",
- "is_closed": false,
- "description": "Our mission: design and build the 3rd generation of the CNS to be deployed globally as a free commons, a sibling to the DNS.\r\nOur scope: a hyper-cube bitmap that contains 1's and 0's for ALL GLEIF (businesses/agencies), Jurisdictions, and Legal Uses of Data, set initially by jurisdictions, then businesses/agencies, and finally by data subjects.\r\nOur deliverables: essential documents and code to stand-up a working CNS as an open source server. Gen 2 docs and video: https://bit.ly/FalconCNS ",
+ "is_closed": true,
+ "creation-date": "2022-01-21",
+ "description": "Our mission: design and build the 3rd generation of the CNS to be deployed globally as a free commons, a sibling to the DNS.\r\nOur scope: a hyper-cube bitmap that contains 1's and 0's for ALL GLEIF (businesses/agencies), Jurisdictions, and Legal Uses of Data, set initially by jurisdictions, then businesses/agencies, and finally by data subjects.\r\nOur deliverables: essential documents and code to stand-up a working CNS as an open source server. Gen 2 docs and video: https://bit.ly/FalconCNS",
  "shortname": "cns",
+ "closed_date": "2024-12-10",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/cns"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/cns/"
   },
@@ -27,45 +26,85 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/cns/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/cns"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/cns",
  "services": [
   {
-   "href": "https://api.w3.org/services/33330",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/33331",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/33332",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/33333",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/43851",
-   "title": "Version Control",
+   "title": "CNS GitHub Repo (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/privacycoop/cns-commons",
     "shortdesc": "CNS GitHub Repo",
-    "longdesc": "CNS GitHub Repo",
-    "external": true,
-    "closed": false,
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/43851"
      },
      "groups": {
       "href": "https://api.w3.org/services/43851/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33331",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#cns",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33331"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33331/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33332",
+   "title": "public-cns (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-cns/",
+    "shortdesc": "public-cns",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33332"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33332/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33330",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/cns/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33330"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33330/groups"
      }
     }
    }
