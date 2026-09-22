@@ -1,15 +1,14 @@
 {
  "id": 51225,
  "name": "Distributed Tasks Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-12-04",
  "description": "Common ground for people developing various collaboration software with notion of \"tasks.\" Aiming for increasing interoperability across all such software and improving experience of a person contributing to big number of projects. Emphasis on interoperability, portability and extensibility!",
  "shortname": "d-tasks",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/d-tasks"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/d-tasks/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/d-tasks/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/d-tasks"
   }
  },
- "identifier": "cg/d-tasks"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/d-tasks",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/829",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#d-tasks",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/829"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/829/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/830",
+   "title": "public-d-tasks (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-d-tasks/",
+    "shortdesc": "public-d-tasks",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/830"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/830/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/828",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/d-tasks/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/828"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/828/groups"
+     }
+    }
+   }
+  }
+ ]
 }
