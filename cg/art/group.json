@@ -1,15 +1,14 @@
 {
  "id": 103425,
  "name": "Art & Culture (Museums) On The Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-11-17",
  "description": "The Art &amp; Culture (Museums) On The Web Community Group is an open forum for collaborative discussions about making the Web a better place for the artifacts and other objects of artistic, cultural, historical, or scientific importance in the museums worldwide. Use cases and requirements collection, gap analysis, standardization ideas incubation and technical proposal might be included in the work scale of this group. ",
  "shortname": "art",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/art"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/art/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/art/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/art"
   }
  },
- "identifier": "cg/art"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/art",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12256",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#art",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12256"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12256/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12257",
+   "title": "public-art (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-art/",
+    "shortdesc": "public-art",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12257"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12257/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12255",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/art/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12255"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12255/groups"
+     }
+    }
+   }
+  }
+ ]
 }
