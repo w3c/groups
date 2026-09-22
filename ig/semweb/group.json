@@ -50,5 +50,26 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
- "identifier": "ig/semweb"
+ "identifier": "ig/semweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2096",
+   "title": "public-semweb-lifesci (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semweb-lifesci/",
+    "shortdesc": "public-semweb-lifesci",
+    "longdesc": "W3C Semantic Web Health Care and Life Sciences Interest Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2096"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2096/groups"
+     }
+    }
+   }
+  }
+ ]
 }
