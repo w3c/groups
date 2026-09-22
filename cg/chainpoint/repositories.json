@@ -1,0 +1,566 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bitcoin-header-node",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/bitcoin-header-node",
+  "description": "A lightweight node for syncing only bitcoin block headers from a specific height",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint",
+  "description": "A meta repository with info about Chainpoint and pointers to related technology",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-binary",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-binary",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "A Javascript library for converting between Chainpoint JSON-LD and binary proof formats",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-cli",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-cli",
+  "homepageUrl": "https://chainpoint.org/",
+  "description": "A Command Line Interface (CLI) for creating and verifying Chainpoint proofs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-client-web",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-client-web",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-connector",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-connector",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-core",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-core",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-drand",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-drand",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-gateway",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-gateway",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "Chainpoint Gateway",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-go",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-go",
+  "description": "Chainpoint client in go, courtesy of @boki",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-influx",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-influx",
+  "description": "A Node.js utility wrapper around the officially supported InfluxDB package. Supports batching, suppression of captured events to enable/disable writing to InfluxDB.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-js",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-js",
+  "description": "A javascript client to create and verify Chainpoint proofs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-node-cli",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-node-cli",
+  "description": "Chainpoint Node configuration and setup tool",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-ntpd",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-ntpd",
+  "description": "A Docker container running Alpine Linux and OpenNTPD",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-org",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-org",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "The chainpoint.org public website",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-parse",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-parse",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "A Javascript library for parsing Chainpoint proofs and calculating expected hashes and anchors.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-proof-json-schema",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-proof-json-schema",
+  "description": "A Javascript NPM package to validate Chainpoint v4 Proofs with a formal JSON Schema (Draft 04) validator",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-roughtime",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-roughtime",
+  "description": "A Docker image for the roughenough Roughtime implementation used to host roughtime.chainpoint.org:2002",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-start",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-start",
+  "description": "Start here to learn about the Chainpoint Network.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "chainpoint-validate-js",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/chainpoint-validate-js",
+  "homepageUrl": "https://chainpoint.org",
+  "description": "A Node.js module for validating Chainpoint v2 blockchain receipts",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ethers.js",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/ethers.js",
+  "homepageUrl": "https://docs.ethers.io/ethers.js/html/",
+  "description": "Complete Ethereum wallet implementation and library in JavaScript.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "feesim",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/feesim",
+  "homepageUrl": "https://bitcoinfees.github.io",
+  "description": "Model-based Bitcoin fee estimation",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "go-nist-beacon",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/go-nist-beacon",
+  "description": "NIST Randomness Beacon (https://beacon.nist.gov/home) api wrapper",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "homebrew-taps",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/homebrew-taps",
+  "description": "A repository of Chainpoint Homebrew formulas",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "js-macaroon",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/js-macaroon",
+  "description": "Javascript implementation of macaroons",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "leader-election",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/leader-election",
+  "description": "Elect a leader from a list of peers, given identical sources of entropy for all peers. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "level-rocksdb",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/level-rocksdb",
+  "description": "  Fast & simple storage - a Node.js-style RocksDB wrapper (a convenience package bundling LevelUP & rocksdb)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "lightning-go",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/lightning-go",
+  "description": "Lightning (lnd) grpc client in golang",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "merkletools-go",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/merkletools-go",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "nist-randomness-beacon",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/nist-randomness-beacon",
+  "description": "A Javascript wrapper for the NIST Randomness Beacon API v2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tendermint",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/tendermint",
+  "homepageUrl": "https://tendermint.com/",
+  "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "w3id.org",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/w3id.org",
+  "description": "Website source code for w3id.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "whitepaper",
+  "owner": {
+   "login": "chainpoint"
+  },
+  "url": "https://github.com/chainpoint/whitepaper",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/chainpoint"
+   ],
+   "exposed": true
+  }
+ }
+]
