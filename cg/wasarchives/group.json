@@ -1,0 +1,95 @@
+{
+ "id": 86793,
+ "name": "World Archives of Sciences Community Group",
+ "is_closed": true,
+ "creation-date": "2016-01-22",
+ "description": "The internet has been considerable development in the world has led to an exponential growth in the number of online documents by scientists. In this sector, the current trend seems to be to digitize all funds scientific libraries and sample Museums and this internationally. Many of these documents: articles, monographs, academic work, digitized specimens and videos are now available online, but remained scattered on the canvas. They do not allow quick consultations and consolidation of information.\r\nThe new generation of scientists studying species biodiversity, taxonomy, protection, conservation and many other natural sciences, wants more access and use these documents remotely and for free. They suffer, however, that some problem: too wide dissemination of data and information.\r\n\r\nTo meet this expectation, we collect (for 10 years) and archive it all these documents in a single point:\r\nWAS World Archives of Sciences: WAS-Archives.org : Biodiversity, Zoology, Botany, Taxonomy, Entomology, Paleontology, Geology, Natural History\r\nWAS contributes to the development of Knowledge and World Heritage. It allows the recognition of scientific organizations (Museums, Universities...). He participated in an ambitious scientific archiving, Museums becoming true mine of information as well as the Libraries or Documentation Centers. In addition to the departments of Natural History: Zoology, Botany, Taxonomy, Entomology, Paleontology, Geology and Natural History, WAS also archive the academic work of Administrations, Professional Associations, Commercial Societies, Non-Profit Foundations and Universities that become our natural partners and complete the panorama of available public sources of sciences.",
+ "shortname": "wasarchives",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/wasarchives/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/wasarchives/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/wasarchives/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/wasarchives/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/wasarchives/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/wasarchives/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wasarchives"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/wasarchives",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6271",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#wasarchives",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6271"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6271/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6272",
+   "title": "public-wasarchives (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wasarchives/",
+    "shortdesc": "public-wasarchives",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6272"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6272/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6270",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/wasarchives/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6270"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6270/groups"
+     }
+    }
+   }
+  }
+ ]
+}
