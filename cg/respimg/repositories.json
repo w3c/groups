@@ -1,0 +1,486 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ALA-Whitworth-Demo",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ALA-Whitworth-Demo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "RICG.io",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/RICG.io",
+  "description": "Nothin’ to see here.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Respond",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/Respond",
+  "description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Sizer-Soze-frontend",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/Sizer-Soze-frontend",
+  "description": "A web-based Sizer Soze.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Status.IE",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/Status.IE",
+  "homepageUrl": "http://status.modern.ie",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WebFundamentals",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/WebFundamentals",
+  "homepageUrl": "http://developers.google.com/web/fundamentals",
+  "description": "A handbook for multi-device web best practices",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WordPress",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/WordPress",
+  "homepageUrl": "http://wordpress.org/",
+  "description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to http://core.trac.wordpress.org/ instead.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bikeshed",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/bikeshed",
+  "description": "A preprocessor for the CSSWG that converts source files into actual specs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "caniuse",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/caniuse",
+  "homepageUrl": "http://caniuse.com",
+  "description": "Raw browser/feature support data from caniuse.com",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cq-demos",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/cq-demos",
+  "description": "Demonstrations of Element queries",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "demos",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/demos",
+  "description": "Demos and tests to show off how picture works. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "element-query",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/element-query",
+  "description": "JS Polyfill for \"element queries\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "experiments",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/experiments",
+  "description": "The repository contains various test cases & experiments (Not tests of the various other repos)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "meta",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/meta",
+  "description": "Repository for media, tools, etc. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "newsletters",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/newsletters",
+  "description": "RICG newsletter ideas, copy, etc.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "paris-meetup",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/paris-meetup",
+  "description": "Logisitcs information about Paris meetup on the 10th of Sept.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "parse-css",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/parse-css",
+  "description": "Standards-based CSS Parser",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "picture-element",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/picture-element",
+  "homepageUrl": "http://picture.responsiveimages.org",
+  "description": "This is the <picture> element specification. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "shortName": "picture-element",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "picture-refimp",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/picture-refimp",
+  "description": "DON'T USE THIS .... A reference implementation in javascript, based on true story (picturefill).",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "picturefill-builder",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/picturefill-builder",
+  "description": "A build generating front-end for the newly modularized Picturefill 2.0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "responsiveimages.org",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/responsiveimages.org",
+  "description": "Landing page for our specs, info, demos, etc. ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ri-defer-usecases",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ri-defer-usecases",
+  "description": "Use Cases and Requirements for a deferred image loading feature.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ri-polyfilling",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ri-polyfilling",
+  "description": "Think “Use Cases and Requirements” doc, but with polyfilling advice.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ri-usecases",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/ri-usecases",
+  "homepageUrl": "http://usecases.responsiveimages.org",
+  "description": "The use cases and requirements document for Responsive Images",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-platform-tests",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/web-platform-tests",
+  "description": "Test Suites for Web Platform specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wp-respimg",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/wp-respimg",
+  "description": "Responsive images for Wordpress.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wp-tevko-responsive-images",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images",
+  "description": "Fully responsive image plugin for wordpress",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "x-picture",
+  "owner": {
+   "login": "ResponsiveImagesCG"
+  },
+  "url": "https://github.com/ResponsiveImagesCG/x-picture",
+  "description": "A Polymer implementation of the proposed picture element utilizing florians compromise",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/respimg"
+   ],
+   "exposed": true
+  }
+ }
+]
