@@ -1,15 +1,14 @@
 {
  "id": 49717,
  "name": "User Interaction and Experience Community Group",
- "is_closed": false,
- "description": "As the number of Web applications is exponential, the capability to link user activity from application to another is also growing. However, these connections are more or less relying on specific models and APIs and set-up of a new connected application needs a tons of one-to-one configuration. This group will try to gather from these experience in order to build a more coherent model for sharing - semantically enabled & privacy safe - interaction data in order to provide better user experience among web applications.",
+ "is_closed": true,
+ "creation-date": "2011-09-26",
+ "description": "As the number of Web applications is exponential, the capability to link user activity from application to another is also growing. However, these connections are more or less relying on specific models and APIs and set-up of a new connected application needs a tons of one-to-one configuration. This group will try to gather from these experience in order to build a more coherent model for sharing - semantically enabled &amp; privacy safe - interaction data in order to provide better user experience among web applications.",
  "shortname": "userix",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/userix"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/userix/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/userix/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/userix"
   }
  },
- "identifier": "cg/userix"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/userix",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/663",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#userix",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/663"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/663/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/664",
+   "title": "public-userix (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-userix/",
+    "shortdesc": "public-userix",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/664"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/664/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/662",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/userix/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/662"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/662/groups"
+     }
+    }
+   }
+  }
+ ]
 }
