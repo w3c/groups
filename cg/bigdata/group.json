@@ -1,15 +1,14 @@
 {
  "id": 54399,
  "name": "Big Data Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-04-12",
  "description": "This group will explore emerging BIG DATA pipelines and discuss the potential for developing standard architectures, Application Programming Interfaces (APIs), and languages that will improve interoperability, enable security, and lower the overall cost of BIG DATA solutions.  \r\n\r\nThe BIG DATA community group will also develop tools and methods that will enable: a) trust in BIG DATA solutions; b) standard techniques for operating on BIG DATA, and c) increased education and awareness of accuracy and uncertainties associated with applying emerging techniques to BIG DATA.   ",
  "shortname": "bigdata",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/bigdata"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/bigdata/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/bigdata/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bigdata"
   }
  },
- "identifier": "cg/bigdata"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bigdata",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1098",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bigdata",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1098"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1098/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1099",
+   "title": "public-bigdata (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bigdata/",
+    "shortdesc": "public-bigdata",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1099"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1099/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1097",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bigdata/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1097"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1097/groups"
+     }
+    }
+   }
+  }
+ ]
 }
