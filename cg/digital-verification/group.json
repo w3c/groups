@@ -1,0 +1,95 @@
+{
+ "id": 94559,
+ "name": "Digital Verification Community Group",
+ "is_closed": true,
+ "creation-date": "2016-10-24",
+ "description": "<p><strong>This group is closed; see the <a href=\"https://www.w3.org/community/credentials/\">Credentials Community Group</a> instead.</strong></p>\r\nThe mission of the Digital Verification Community Group is to study, design, promote, and deploy systems that increase trust on the Web. These systems include, but are not limited to signature systems, data normalization algorithms, and computational proof systems.",
+ "shortname": "digital-verification",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/digital-verification/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/digital-verification/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/digital-verification/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/digital-verification/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/digital-verification/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/digital-verification/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/digital-verification"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/digital-verification",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6445",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#digital-verification",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6445"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6445/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6446",
+   "title": "public-digital-verification (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digital-verification/",
+    "shortdesc": "public-digital-verification",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6446"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6446/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6444",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/digital-verification/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6444"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6444/groups"
+     }
+    }
+   }
+  }
+ ]
+}
