@@ -1,15 +1,14 @@
 {
  "id": 66948,
  "name": "Web Copyright Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-10-08",
  "description": "Irrespective of whether we like it or not, of whether W3C or other SDOs eventually accept it or not, DRM seems slated to come to the Web platform. We are looking at video today, but books, apps, and therefore relatively arbitrary Web documents could easily be next.\r\n\r\nThe business pressure to do so is such that there is little in the way that technology can do to stop this process. Our communities may produce everything from learned recantations to bitter rants, words will not suffice to address the problem.\r\n\r\nThe only way in which we can decisively put a stop to DRM is by changing the legal system which can make it seem desirable to some. The goal of this group is to produce a set of realistic proposals for Web-compatible copyright legislation. Its focus is very much pragmatic, the idea being not to produce an idealistic laundry list for some free content utopia, but rather actionable proposals that stand a chance of passing into law.\r\n\r\nThis group will not produce specifications.",
  "shortname": "web-copyright",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/web-copyright"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/web-copyright/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/web-copyright/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-copyright"
   }
  },
- "identifier": "cg/web-copyright"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/web-copyright",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1696",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#web-copyright",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1696"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1696/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1697",
+   "title": "public-web-copyright (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-copyright/",
+    "shortdesc": "public-web-copyright",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1697"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1697/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1695",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/web-copyright/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1695"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1695/groups"
+     }
+    }
+   }
+  }
+ ]
 }
