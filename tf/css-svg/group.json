@@ -1,0 +1,27 @@
+{
+ "id": 44516,
+ "name": "CSS-SVG Task Force",
+ "is_closed": true,
+ "shortname": "css-svg",
+ "closed_date": "2021-08-02",
+ "discr": "tf",
+ "_links": {
+  "users": {
+   "href": "https://api.w3.org/groups/tf/css-svg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/css-svg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/css-svg/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/css-svg"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/css-svg",
+ "group-type": "tf",
+ "services": []
+}
