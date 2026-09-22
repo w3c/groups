@@ -1,0 +1,80 @@
+{
+ "id": 115310,
+ "name": "Graph Standardization Business Group",
+ "is_closed": true,
+ "creation-date": "2019-05-27",
+ "description": "The Graph Standardization Business Group sought to take output from the  <a rel=\"nofollow\" href=\"https://www.w3.org/Data/events/data-ws-2019/\">2019 W3C Graph Data Workshop</a> and develop a strategy for how the work should move ahead.  Topics in scope were:\r\n<ul>\r\n<li>What Use Cases are organizations trying to solve?  What are the business needs that need to be addressed?</li>\r\n<li>What are the possible areas of technical work that needs to be done in W3C and what organizations will support it?</li>\r\n<li>Which other organizations does W3C need to work with to insure interoperability?</li>\r\n</ul>\r\n",
+ "shortname": "graph-standardization",
+ "closed_date": "2020-12-02",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/graph-standardization/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/bg/graph-standardization/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/bg/graph-standardization/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/bg/graph-standardization/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/bg/graph-standardization/teamcontacts"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/graph-standardization/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/bg/graph-standardization/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/bg/graph-standardization"
+  }
+ },
+ "type": "business group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "bg",
+ "identifier": "bg/graph-standardization",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15627",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#graph-standardization",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15627"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15627/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15626",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/graph-standardization/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15626"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15626/groups"
+     }
+    }
+   }
+  }
+ ]
+}
