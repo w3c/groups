@@ -1,15 +1,14 @@
 {
  "id": 65880,
  "name": "Age Labels Data Model Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-08-26",
  "description": "The objective of the community group is to propose a technology-neutral data model for electronic content labels, i.e. age labels or content descriptors. The data model will include agreed categories and fields that may contain content-specific information. The proposal is planned to include a documentation, code snippet examples and probable queries to support implementing the data model in existing age classification contexts. \r\n\r\nThe data model proposal and the documentation  are planned to serve as guidelines for either existing players to implement the data model in their existing schemes (and thus providing users additional information in an interoperable way) or for new players that plan to label online content and thus reduce the risk of sunk costs.",
  "shortname": "agelabels",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/agelabels"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/agelabels/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/agelabels/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agelabels"
   }
  },
- "identifier": "cg/agelabels"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/agelabels",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1599",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#agelabels",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1599"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1599/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1600",
+   "title": "public-agelabels (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-agelabels/",
+    "shortdesc": "public-agelabels",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1600"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1600/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1598",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/agelabels/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1598"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1598/groups"
+     }
+    }
+   }
+  }
+ ]
 }
