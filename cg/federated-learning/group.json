@@ -1,15 +1,14 @@
 {
  "id": 134965,
  "name": "Federated Learning Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2021-11-22",
  "description": "The purpose of this community group was to establish and explore the necessary standards related with the Web for federated learning via the analysis of current implementations related with federated learning such as TensorFlow Federated.\r\nThe main idea of federated learning is to build machine learning models based on data sets that are distributed across multiple clients (e.g. mobile devices or whole organizations) while preventing data leakage. Therefore, federated learning can give benefits like mitigation of privacy risks and costs.",
  "shortname": "federated-learning",
+ "closed_date": "2025-06-25",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/federated-learning"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/federated-learning/"
   },
@@ -27,45 +26,67 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/federated-learning/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/federated-learning"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/federated-learning",
  "services": [
   {
-   "href": "https://api.w3.org/services/33302",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/33303",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/33304",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/33305",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/33356",
-   "title": "Version Control",
+   "title": "GitHub repository (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/w3c/federated-learning-cg",
     "shortdesc": "GitHub repository",
-    "longdesc": "GitHub repository",
-    "external": true,
-    "closed": false,
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/33356"
      },
      "groups": {
       "href": "https://api.w3.org/services/33356/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33304",
+   "title": "public-federated-learning (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-federated-learning/",
+    "shortdesc": "public-federated-learning",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33304"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33304/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33302",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/federated-learning/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33302"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33302/groups"
      }
     }
    }
