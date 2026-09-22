@@ -1,0 +1,113 @@
+{
+ "id": 51796,
+ "name": "OStatus Community Group",
+ "is_closed": true,
+ "creation-date": "2012-01-11",
+ "description": "See the <a rel=\"nofollow\" href=\"https://www.w3.org/community/socialcg/\">Social Web Incubator Community Group</a> instead.\r\n\r\nOStatus is a suite of protocols that lets people on different social networks interact. This group will develop the next version of the protocol.",
+ "shortname": "ostatus",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ostatus/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ostatus/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ostatus/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ostatus/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ostatus/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ostatus/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ostatus"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ostatus",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/896",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ostatus",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/896"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/896/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/897",
+   "title": "public-ostatus (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ostatus/",
+    "shortdesc": "public-ostatus",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/897"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/897/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/895",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ostatus/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/895"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/895/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/894",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/ostatus/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/894"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/894/groups"
+     }
+    }
+   }
+  }
+ ]
+}
