@@ -1,15 +1,14 @@
 {
  "id": 109182,
  "name": "Interlinear Text Layout Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-08-21",
  "description": "The mission of the Interlinear Text Layout Community Group is to: (1) Document use cases and requirements for interlinear text practices. (2) Develop models for the representation of interlinear text. (3) Develop recommendations for other communities  working on standards that could support interlinear text presentation requirements (e.g. HTML, CSS, etc.).\r\n\r\nThe Interlinear Text Layout Community Group aims to serve a broad range of users engaging in manuscript digitization activities, linguistic annotation, multilingual annotation and related where representing interlinear text in web, ebook and related formats is either limited or not currently possible.",
  "shortname": "itlcg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/itlcg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/itlcg/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/itlcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/itlcg"
   }
  },
- "identifier": "cg/itlcg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/itlcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13847",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#itlcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13847"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13847/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13848",
+   "title": "public-itlcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-itlcg/",
+    "shortdesc": "public-itlcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13848"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13848/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13846",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/itlcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13846"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13846/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15399",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/itlcg/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15399"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15399/groups"
+     }
+    }
+   }
+  }
+ ]
 }
