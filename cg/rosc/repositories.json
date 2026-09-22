@@ -1,0 +1,658 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "2021-packaging-research-artefacts-with-ro-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/2021-packaging-research-artefacts-with-ro-crate",
+  "homepageUrl": "https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ResearchObject.github.io",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ResearchObject.github.io",
+  "homepageUrl": "http://www.researchobject.org/",
+  "description": "Redirects",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bagit-ro",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/bagit-ro",
+  "description": "Research Object BagIt archive",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bh2022-ro-crate-galaxy-dsw",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/bh2022-ro-crate-galaxy-dsw",
+  "description": "Biohackrxiv paper for ELIXIR Biohackathon 2022 project 10 \"Enhance RDM in Galaxy and DSW by utilising RO-Crates\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bh2023-enabling-fair-digital-objects",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/bh2023-enabling-fair-digital-objects",
+  "homepageUrl": "https://doi.org/10.37044/osf.io/gmk2h",
+  "description": "Preprint for Biohackathon 2023 project 15 \"Enabling FAIR Digital Objects with RO-Crates, Signposting and Bioschemas\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "example-ro-sample-image-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/example-ro-sample-image-crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "galaxy",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/galaxy",
+  "homepageUrl": "https://galaxyproject.org",
+  "description": "Data intensive science for everyone.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "galaxy-training-material",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/galaxy-training-material",
+  "homepageUrl": "https://training.galaxyproject.org",
+  "description": "A collection of Galaxy-related training material",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "gh-ro-profiles-action",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/gh-ro-profiles-action",
+  "description": "GitHub action for updating ro-profiles registry",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "governance",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/governance",
+  "description": "Governance and steering committee for RO-Crate community",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "just-the-docs",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/just-the-docs",
+  "homepageUrl": "https://pdmosses.github.io/just-the-docs/",
+  "description": "A modern, high customizable, responsive Jekyll theme for documention with built-in search. (Linked website published from branch combination-rec-nav.)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mim-vocabulary",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/mim-vocabulary",
+  "description": "Minimum Information Model vocabulary",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "packaging_data_with_ro-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/packaging_data_with_ro-crate",
+  "homepageUrl": "https://www.researchobject.org/packaging_data_with_ro-crate/",
+  "description": "Carpentries style lesson for packaging research data using RO-crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "principles",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/principles",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "research-object-composer",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/research-object-composer",
+  "description": "Research Object Composer, an API for incremental building and depositing research objects",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "researchobject.org",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/researchobject.org",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate",
+  "homepageUrl": "https://w3id.org/ro/crate/",
+  "description": "Research Object Crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-gh-template",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-gh-template",
+  "homepageUrl": "https://www.researchobject.org/ro-crate-gh-template/",
+  "description": "Template for an RO-Crate that is published to GitHub Pages",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-inveniordm",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-inveniordm",
+  "description": "RO-Crate uploader for InvenioRDM",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-preview-action",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-preview-action",
+  "homepageUrl": "https://github.com/marketplace/actions/ro-crate-preview",
+  "description": "A GitHub action to build an html preview from an RO Crate and publish to the gh-pages branch",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-py",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-py",
+  "homepageUrl": "https://pypi.org/project/rocrate/",
+  "description": "Python library for RO-Crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-r",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-r",
+  "description": "RO-Crate library for R",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-ruby",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-ruby",
+  "description": "A Ruby gem for creating, manipulating and reading RO-Crates.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-test-suites",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-test-suites",
+  "description": "(eventually) a set of test suites for valid/invalid RO-Crates",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-validator-py",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-validator-py",
+  "description": "Python-based RO-Crate validator (alpha)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-crate-zenodo",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-crate-zenodo",
+  "description": "RO-Crate uploader for Zenodo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-curate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-curate",
+  "homepageUrl": "https://researchobject.github.io/ro-curate",
+  "description": "Validation of research object using SHACL",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-profiles",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-profiles",
+  "description": "Registry of profiles for Research Objects incl. RO-Crate",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-python",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-python",
+  "description": "Research Object Libraries and Tooling ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-show",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-show",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-terms",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-terms",
+  "description": "Repository for creating new terms for Research Objects",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro-tutorials",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro-tutorials",
+  "description": "Developer tutorial for Research Object",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ro2019",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/ro2019",
+  "homepageUrl": "http://www.researchobject.org/ro2019/",
+  "description": "Workshop on Research Objects 2019",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "runcrate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/runcrate",
+  "description": "http://www.researchobject.org/runcrate/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "software-profiles",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/software-profiles",
+  "description": "Generic software source code RO-Crate profiles based on Codemeta. This is based on the approach taken for the workflow-run <https://github.com/ResearchObject/workflow-run-crate> family of profiles but is designed to be more general.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "specifications",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/specifications",
+  "homepageUrl": "http://researchobject.github.io/specifications",
+  "description": "Research Object Specifications ",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "workflow-run-crate",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/workflow-run-crate",
+  "homepageUrl": "https://www.researchobject.org/workflow-run-crate/",
+  "description": "Workflow Run RO-Crate profile",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "workflow-run-crate-paper",
+  "owner": {
+   "login": "ResearchObject"
+  },
+  "url": "https://github.com/ResearchObject/workflow-run-crate-paper",
+  "description": "In preparation for PLOS One",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/rosc"
+   ],
+   "exposed": true
+  }
+ }
+]
