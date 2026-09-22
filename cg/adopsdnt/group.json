@@ -1,0 +1,95 @@
+{
+ "id": 55133,
+ "name": "Ad Ops Speaks on DNT Community Group",
+ "is_closed": true,
+ "creation-date": "2012-05-10",
+ "description": "Representatives from various publishers and advertising technology firms in ad operations roles discuss W3C's Tracking Protection Working Group's draft papers on Tracking Preference Expression and Tracking Compliance and Scope, and possibly propose alterations and amendments.",
+ "shortname": "adopsdnt",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/adopsdnt/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/adopsdnt/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/adopsdnt/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/adopsdnt/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/adopsdnt/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/adopsdnt/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/adopsdnt"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/adopsdnt",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1144",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#adopsdnt",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1144"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1144/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1145",
+   "title": "public-adopsdnt (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-adopsdnt/",
+    "shortdesc": "public-adopsdnt",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1145"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1145/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1143",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/adopsdnt/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1143"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1143/groups"
+     }
+    }
+   }
+  }
+ ]
+}
