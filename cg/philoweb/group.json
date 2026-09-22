@@ -1,14 +1,14 @@
 {
  "id": 54519,
  "name": "Philosophy of the Web Community Group",
- "is_closed": false,
- "description": "Many philosophical issues have arisen in the technical design of Web standards over the years. Philosophical conundrums sometimes seem out of context in the light of seemingly more pressing technical problems. Yet, the very fact that these philosophical problems are constantly raised indicates that they are not easily dispensed with, but should instead be the focus of serious and ongoing long-term discussions.\r\n\r\nThis is why this CG aims at undertaking such discussions, even outsourcing them to alleviate the task of other groups. To clarify the goal of this CG: it should not be a place to do unconstrained philosophical research but rather a forum to examine issues arising from the W3C technical community. Open discussion and precise descriptions of the minutiae of the Web will help guide the work in the CG, which should output short guides on precise topics to help case progress and discussions in other groups. The PhiloWeb Community group aims to undertake such discussions by bringing together experts from the web and the philosophical community to help the task of \"philosophical engineering\", a term coined by Tim Berners-Lee.\r\n",
+ "is_closed": true,
+ "creation-date": "2012-04-17",
+ "description": "Many philosophical issues have arisen in the technical design of Web standards over the years. Philosophical conundrums sometimes seem out of context in the light of seemingly more pressing technical problems. Yet, the very fact that these philosophical problems are constantly raised indicates that they are not easily dispensed with, but should instead be the focus of serious and ongoing long-term discussions.\r\n\r\nThis is why this CG aims at undertaking such discussions, even outsourcing them to alleviate the task of other groups. To clarify the goal of this CG: it should not be a place to do unconstrained philosophical research but rather a forum to examine issues arising from the W3C technical community. Open discussion and precise descriptions of the minutiae of the Web will help guide the work in the CG, which should output short guides on precise topics to help case progress and discussions in other groups. The PhiloWeb Community group aims to undertake such discussions by bringing together experts from the web and the philosophical community to help the task of \"philosophical engineering\", a term coined by Tim Berners-Lee.",
  "shortname": "philoweb",
+ "closed_date": "2023-10-11",
+ "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/philoweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/philoweb/"
   },
@@ -26,8 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/philoweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/philoweb"
   }
  },
  "type": "community group",
- "identifier": "cg/philoweb"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/philoweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1110",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#philoweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1110"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1110/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1111",
+   "title": "public-philoweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-philoweb/",
+    "shortdesc": "public-philoweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1111"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1111/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1109",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/philoweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1109"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1109/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1108",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/philoweb/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1108"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1108/groups"
+     }
+    }
+   }
+  }
+ ]
 }
