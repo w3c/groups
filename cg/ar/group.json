@@ -1,15 +1,14 @@
 {
  "id": 48785,
  "name": "Augmented Reality Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-08-19",
  "description": "<p>The W3C Augmented Reality Community Group is an open forum for collaborative discussions about the intersection of Augmented Reality and the Web, or more simply the Augmented Web. This forum welcomes discussions about related standards, the standardisation process, related market developments and the broader social implications of this new generation of the web.</p>\r\n\r\n<p>We believe that the Augmented Web brings a unique perspective that pushes standards, APIs, hardware technologies and the broader web platform to the edge of their performance limits. The Augmented Web embraces the changes brought about by HTML5 and other related standards  including Geolocation, DeviceOrientation, DeviceMotion, WebGL, Web Audio, Media Capture &amp; Streams and WebRTC. The Augmented Web integrates all of these disparate technologies into an integrated new vision of the web.</p>\r\n\r\n<p>This group will not produce specifications. </p>\r\n\r\n<p>Instead it aims to build an integrated community voice that reaches out to all of the other relevant working groups and standards bodies to ensure that the Augmented Web perspective is clearly represented and considered. Our goal is to help ensure that the disparate standards and APIs being planned and implemented by these other groups can be seamlessly integrated into this new vision for the Augmented Web. </p>\r\n\r\n<p>Read more about goals and operating guidelines in the Charter: http://www.w3.org/community/ar/wiki/Charter</p>\r\n",
  "shortname": "ar",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/ar"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/ar/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/ar/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ar"
   }
  },
- "identifier": "cg/ar"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ar",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/514",
+   "title": "internal-ar (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-ar/",
+    "shortdesc": "internal-ar",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/514"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/514/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/511",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ar",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/511"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/511/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/512",
+   "title": "public-ar (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ar/",
+    "shortdesc": "public-ar",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/512"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/512/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/510",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ar/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/510"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/510/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/509",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/ar/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/509"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/509/groups"
+     }
+    }
+   }
+  }
+ ]
 }
