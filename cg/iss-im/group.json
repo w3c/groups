@@ -1,0 +1,95 @@
+{
+ "id": 55904,
+ "name": "Instant Syndicating Standards Community Group",
+ "is_closed": true,
+ "creation-date": "2012-06-07",
+ "description": "Note: Work has moved to the Read Write Web Community Group.\r\n\r\nISS/IM is an open set of standards that empowers individuals to discover and syndicate information through the help of their own personal social network. As of today, there is no existing technology that allows individuals to share information in a bottom-up manner on a global scale. ISS/IM is a proposal to create just that: a distributed worldwide recommender system perfectly tuned to output a very personalized stream of information for each individual, where information flows from the personal social network towards the whole wide world.",
+ "shortname": "iss-im",
+ "closed_date": "2013-03-05",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/iss-im/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/iss-im/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/iss-im/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/iss-im/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/iss-im/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/iss-im/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/iss-im"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/iss-im",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1185",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#iss-im",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1185"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1185/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1186",
+   "title": "public-iss-im (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-iss-im/",
+    "shortdesc": "public-iss-im",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1186"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1186/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1184",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/iss-im/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1184"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1184/groups"
+     }
+    }
+   }
+  }
+ ]
+}
