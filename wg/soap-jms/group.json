@@ -1,0 +1,92 @@
+{
+ "id": 42357,
+ "name": "SOAP-JMS Binding Working Group",
+ "is_closed": true,
+ "shortname": "soap-jms",
+ "closed_date": "2013-09-13",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2002/ws/soapjms/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/charters/256"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/soap-jms/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/soap-jms/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/soap-jms/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/soap-jms"
+  }
+ },
+ "type": "working group",
+ "start-date": "2008-04-11",
+ "end-date": "2013-09-13",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/soap-jms",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1803",
+   "title": "member-soap-jms (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-soap-jms/",
+    "shortdesc": "member-soap-jms",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1803"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1803/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/140",
+   "title": "soapjms (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2002/ws/soapjms/wiki",
+    "shortdesc": "soapjms",
+    "longdesc": "SOAP-JMS Binding Working Group Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/140"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/140/groups"
+     }
+    }
+   }
+  }
+ ]
+}
