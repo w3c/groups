@@ -1,15 +1,14 @@
 {
  "id": 60958,
  "name": "Web Audio Developers Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-02-09",
  "description": "The Web Audio Developers Community Group brings together hackers and developers interested in using the emerging Web Audio API. By providing community support on using the API and surfacing issues with the draft standard, it complements the work of the W3C Audio Working Group where the specification is being developed.\r\n\r\nThis group will not create specifications.",
  "shortname": "audio-dev",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/audio-dev"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/audio-dev/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/audio-dev/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/audio-dev"
   }
  },
- "identifier": "cg/audio-dev"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/audio-dev",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1385",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#audio-dev",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1385"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1385/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1386",
+   "title": "public-audio-dev (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-audio-dev/",
+    "shortdesc": "public-audio-dev",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1386"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1386/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1384",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/audio-dev/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1384"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1384/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1383",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/audio-dev/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1383"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1383/groups"
+     }
+    }
+   }
+  }
+ ]
 }
