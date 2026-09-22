@@ -1,0 +1,113 @@
+{
+ "id": 69018,
+ "name": "Web Currencies Community Group",
+ "is_closed": true,
+ "creation-date": "2014-01-16",
+ "description": "Web Currencies group focuses on researching and recommending technologies to enable use of currencies which embrace Architecture of World Wide Web. It complements other efforts like Web Payments, with focus on WHAT we use in transactions rather than HOW we do transactions and transfers. Staying not opinionated about economic applicability and of particular currencies we work on technological aspects of web currencies design.",
+ "shortname": "webcurrencies",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webcurrencies/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webcurrencies/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webcurrencies/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webcurrencies/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webcurrencies/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webcurrencies/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webcurrencies"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webcurrencies",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1942",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webcurrencies",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1942"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1942/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1943",
+   "title": "public-webcurrencies (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webcurrencies/",
+    "shortdesc": "public-webcurrencies",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1943"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1943/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1941",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webcurrencies/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1941"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1941/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1940",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/webcurrencies/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1940"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1940/groups"
+     }
+    }
+   }
+  }
+ ]
+}
