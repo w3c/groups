@@ -1,15 +1,14 @@
 {
  "id": 49353,
  "name": "VIVO Open Research Networking Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-09-09",
  "description": "VIVO (http://vivoweb.org, http://vivo.sourceforge.net) is an open source semantic web platform and ontology for representing researchers and their associated training, background, activities, organizations, and outputs including publications and research resources. VIVO publishes linked open data integrated from a variety of authoritative sources as well as from direct user input. This group will bring together developers, ontologists, adopters, outreach and policy strategists, end users, and members of closely related communities (e.g., http://orcid.org, https://www.eagle-i.org/home/) for discussion on the use of semantic data for research representation and networking, related tools, and opportunities for collaboration and synergy.",
  "shortname": "vivo",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/vivo"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/vivo/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/vivo/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/vivo"
   }
  },
- "identifier": "cg/vivo"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/vivo",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/597",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#vivo",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/597"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/597/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/598",
+   "title": "public-vivo (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-vivo/",
+    "shortdesc": "public-vivo",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/598"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/598/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/596",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/vivo/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/596"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/596/groups"
+     }
+    }
+   }
+  }
+ ]
 }
