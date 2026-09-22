@@ -49,5 +49,62 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/prov"
+ "identifier": "wg/prov",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/197",
+   "title": "public-prov-comments (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-prov-comments/",
+    "shortdesc": "public-prov-comments",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/197"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/197/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/246",
+   "title": "public-prov-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-prov-wg/",
+    "shortdesc": "public-prov-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/246"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/246/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/133",
+   "title": "provwg (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2011/prov/wiki",
+    "shortdesc": "provwg",
+    "longdesc": "Provenance WG Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/133"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/133/groups"
+     }
+    }
+   }
+  }
+ ]
 }
