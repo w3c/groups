@@ -1,15 +1,14 @@
 {
  "id": 105439,
  "name": "Open Data Nepal Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-02-19",
  "description": "A forum for the open network of open data enthusiasts, government officers, students, researchers, and a non-profit leader who are working to improve the condition of open data in Nepal. This space will help individual volunteers, groups, students to collaborate and discuss how one can help to boost the open data momentum in Nepal. This group will not have any criteria and specification, anyone can join and may reuse the group works.\r\n\r\nThis group will not publish Specifications.",
  "shortname": "opendatanepal",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opendatanepal"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opendatanepal/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opendatanepal/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opendatanepal"
   }
  },
- "identifier": "cg/opendatanepal"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opendatanepal",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13764",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opendatanepal",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13764"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13764/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13765",
+   "title": "public-opendatanepal (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opendatanepal/",
+    "shortdesc": "public-opendatanepal",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13765"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13765/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13763",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opendatanepal/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13763"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13763/groups"
+     }
+    }
+   }
+  }
+ ]
 }
