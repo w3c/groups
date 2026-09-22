@@ -1,15 +1,14 @@
 {
  "id": 134937,
  "name": "Interoperability Remedies Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2021-11-19",
  "description": "<p>The mission of this group is to help legal regulators understand and apply Internet and Web architectural principles -- like privacy, security, internationalisation, and accessibility -- when requiring 'big tech' companies to implement technical specifications.</p>\r\n\r\n<p>See the <a rel=\"nofollow\" href=\"https://interop-remedies-cg.github.io/\">CG GitHub page</a> for more information, including a full charter.</p>\r\n\r\n<p>This group does not publish Specifications.</p>",
  "shortname": "interop-remedies",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/interop-remedies"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/interop-remedies/"
   },
@@ -27,7 +26,89 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/interop-remedies/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/interop-remedies"
   }
  },
- "identifier": "cg/interop-remedies"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/interop-remedies",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33298",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#interop-remedies",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33298"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33298/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33299",
+   "title": "public-interop-remedies (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-interop-remedies/",
+    "shortdesc": "public-interop-remedies",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33299"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33299/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33297",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/interop-remedies/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33297"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33297/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33306",
+   "title": "GitHub org (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/interop-remedies-cg",
+    "shortdesc": "GitHub org",
+    "longdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33306"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33306/groups"
+     }
+    }
+   }
+  }
+ ]
 }
