@@ -1,15 +1,14 @@
 {
  "id": 61068,
  "name": "Accessibility in India Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-02-13",
  "description": "This group focuses on accessibility awareness in India. With India, being an IT, it is important to look at accessibility and build awareness on the web and mobile and ebooks.\r\n\r\nThis group will not publish specifications.",
  "shortname": "accessibilityinindia",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/accessibilityinindia"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/accessibilityinindia/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/accessibilityinindia/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/accessibilityinindia"
   }
  },
- "identifier": "cg/accessibilityinindia"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/accessibilityinindia",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1391",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#accessibilityinindia",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1391"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1391/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1392",
+   "title": "public-accessibilityinindia (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-accessibilityinindia/",
+    "shortdesc": "public-accessibilityinindia",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1392"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1392/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1390",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/accessibilityinindia/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1390"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1390/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1389",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/accessibilityinindia/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1389"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1389/groups"
+     }
+    }
+   }
+  }
+ ]
 }
