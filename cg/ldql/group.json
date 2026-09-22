@@ -1,0 +1,95 @@
+{
+ "id": 75011,
+ "name": "Linked Data Query Language Community Group",
+ "is_closed": true,
+ "creation-date": "2014-11-24",
+ "description": "<p>This group will specify a Query Language for the Linked Data Platform 1.0.</p>\r\n\r\n<p>eLDQL will make it possible to query LDP Containers to retrieve their members. It will feature simple/limited filtering capabilities, ordering, aggregation, built-in paging, and resource inlining.</p>",
+ "shortname": "ldql",
+ "closed_date": "2016-04-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/ldql/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/ldql/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/ldql/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/ldql/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/ldql/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/ldql/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ldql"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/ldql",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2122",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#ldql",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2122"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2122/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2123",
+   "title": "public-ldql (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-ldql/",
+    "shortdesc": "public-ldql",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2123"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2123/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2121",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/ldql/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2121"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2121/groups"
+     }
+    }
+   }
+  }
+ ]
+}
