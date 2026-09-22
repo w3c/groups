@@ -1,15 +1,14 @@
 {
  "id": 63952,
  "name": "Argument Representation Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-06-04",
  "description": "Argument-Representation's mission is to recommend a standardized representation for formal argument.  It is not intended to augment XML in any other way.\r\n\r\nThe group does not necessarily commit to creating a novel representation.  For instance, after due consideration it could endorse an existing one or recommend accepting an existing one with minor changes.\r\n\r\nFormal argument means a formalizable set of connected statements or statement-like objects intended to establish a proposition.\r\n",
  "shortname": "argmntreprsnt",
+ "closed_date": "2023-04-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/argmntreprsnt"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/argmntreprsnt/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/argmntreprsnt/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/argmntreprsnt"
   }
  },
- "identifier": "cg/argmntreprsnt"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/argmntreprsnt",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1505",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#argmntreprsnt",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1505"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1505/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1506",
+   "title": "public-argmntreprsnt (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-argmntreprsnt/",
+    "shortdesc": "public-argmntreprsnt",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1506"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1506/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1504",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/argmntreprsnt/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1504"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1504/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1503",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/argmntreprsnt/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1503"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1503/groups"
+     }
+    }
+   }
+  }
+ ]
 }
