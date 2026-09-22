@@ -1,0 +1,95 @@
+{
+ "id": 99502,
+ "name": "Web Payments and Commerce Accessibility Community Group",
+ "is_closed": true,
+ "creation-date": "2017-05-10",
+ "description": "What follows is the original mission statement.\r\nThe mission of the Web Payments and Commerce Accessibility Community Group \r\n(Payments A11Y CG) is to provide an ongoing forum for the evaluation and articulation of comprehensive support for accessibility to people with disabilities in W3C web payments and commerce-related specifications and technical documents. These specifications are generally developed by the <a rel=\"nofollow\" href=\"https://www.w3.org/Payments/WG/\">Web Payments Working Group</a>.\r\n\r\nThe Payments and Commerce A11Y CG will track developments in, and work collaboratively with the various groups in W3C's <a rel=\"nofollow\" href=\"http://www.w3.org/Payments/\">Web Payments Activity</a>, and most particularly with the <a rel=\"nofollow\" href=\"http://www.w3.org/Payments/IG/\">Web Payments Interest Group</a>\r\n \r\nThe Payments and Commerce A11Y CG will develop and document use cases and requirements to support accessibility in web payments and web commerce across all known scenarios that encompass the widely varying technologies and human abilities utilized by persons living with physical, cognitive, and sensory disabilities to be submitted to the Accessible Platform Architectures (APA) Working Group for consideration as a potential W3C Note,\r\n\"Payments Accessibility User Requirements (PAUR)\", as well as other relevant web commerce considerations where persons with disabilities could be impacted.\r\n\r\nThe Payments and Commerce A11Y CG shall additionally advise APA on payments-related specifications and technical documents being developed by W3C groups to assist APA in its chartered horizontal review responsibility.",
+ "shortname": "payments-commerce-a11y",
+ "closed_date": "2020-12-18",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/payments-commerce-a11y/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/payments-commerce-a11y/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/payments-commerce-a11y/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/payments-commerce-a11y/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/payments-commerce-a11y/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/payments-commerce-a11y/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/payments-commerce-a11y"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/payments-commerce-a11y",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7980",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#payments-commerce-a11y",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7980"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7980/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/7981",
+   "title": "public-payments-commerce-a11y (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-payments-commerce-a11y/",
+    "shortdesc": "public-payments-commerce-a11y",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7981"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7981/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/7979",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/payments-commerce-a11y/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7979"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7979/groups"
+     }
+    }
+   }
+  }
+ ]
+}
