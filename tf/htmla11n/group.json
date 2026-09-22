@@ -1,0 +1,68 @@
+{
+ "id": 44061,
+ "name": "HTML Accessibility Task Force",
+ "is_closed": true,
+ "shortname": "htmla11n",
+ "closed_date": "2019-04-05",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/WAI/PF/html-task-force"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/htmla11n/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/htmla11n/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/htmla11n/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/htmla11n"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/htmla11n",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/289",
+   "title": "public-html-a11y (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html-a11y/",
+    "shortdesc": "public-html-a11y",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/289"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/289/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/107",
+   "title": "htmlatf (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/WAI/PF/HTML/wiki",
+    "shortdesc": "htmlatf",
+    "longdesc": "HTML accessibility task force Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/107"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/107/groups"
+     }
+    }
+   }
+  }
+ ]
+}
