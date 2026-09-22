@@ -1,15 +1,14 @@
 {
  "id": 108609,
  "name": "Efficient Extensible Interchange Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-07-24",
  "description": "To complete EXI WG's EXI4JSON (EXI for JSON) work on efficient data encoding for JSON. We will also investigate compression, performance and power-reduction techniques using a variety of data representations.",
  "shortname": "exi-next",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/exi-next"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/exi-next/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/exi-next/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/exi-next"
   }
  },
- "identifier": "cg/exi-next"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/exi-next",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13830",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#exi-next",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13830"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13830/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13831",
+   "title": "public-exi-next (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-exi-next/",
+    "shortdesc": "public-exi-next",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13831"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13831/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13829",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/exi-next/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13829"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13829/groups"
+     }
+    }
+   }
+  }
+ ]
 }
