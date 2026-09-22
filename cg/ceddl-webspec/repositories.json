@@ -1,21 +1,106 @@
 [
  {
-  "name": "analytics-personalization-datalayer",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-aditional-inputs",
   "owner": {
-   "login": "w3c"
+   "login": "ceddl"
   },
+  "url": "https://github.com/ceddl/ceddl-aditional-inputs",
+  "homepageUrl": "https://www.ceddlbyexample.com/",
+  "description": "Aditional inputs for ceddl. If the core polyfill does not have what you are looking for.",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/ceddl-webspec"
    ],
-   "contacts": [
-    "ianbjacobs"
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-polyfill",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-polyfill",
+  "homepageUrl": "https://www.ceddlbyexample.com/",
+  "description": " Customer experience digital data layer polyfill. Bridging the gap between the ceddl spec's and the browsers",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
    ],
-   "repo-type": [
-    "cg-report"
-   ]
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-website-and-spec",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-website-and-spec",
+  "description": "ceddl polyfill comunity website, specs and blog",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-with-angular",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-with-angular",
+  "description": "This is a TodoMVC Implementation example of ceddl-polyfill with angular. It demonstrates how you could use templating and ceddl data model to create a web frontend datalayer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-with-react",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-with-react",
+  "description": "This is a TodoMVC Implementation example of ceddl-polyfill with react. It demonstrates how you could use templating and ceddl data model to create a web frontend datalayer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ceddl-with-vue",
+  "owner": {
+   "login": "ceddl"
+  },
+  "url": "https://github.com/ceddl/ceddl-with-vue",
+  "description": "This is a TodoMVC Implementation example of ceddl-polyfill with Vue. It demonstrates how you could use templating and ceddl data model to create a web frontend datalayer.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ceddl-webspec"
+   ],
+   "exposed": true
   }
  }
 ]
