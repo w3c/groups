@@ -1,15 +1,14 @@
 {
  "id": 77612,
  "name": "Accessible Online Learning Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-04-10",
  "description": "<p>Accessibility is often provided through accommodations. Schools are legally obligated to provide accommodations to enrolled students with identified disabilities, based on their needs—sign language interpreters in lectures for deaf students, digital copies of textbooks for students who are blind or have reading difficulties, extended time on exams for students who need more time due to cognitive or physical disabilities.</p>\r\n\r\n<p>With online learning, the obligations are less clear—for example, with MOOCs, where students around the world are taking courses but are not enrolled at the sponsoring school or organization. Also, accommodations are not well established—sign language interpreters and note takers are typically accommodations for the physical classroom. How does an organization ensure they are meeting obligations and giving online students the support they need participate fully and to be successful?</p>\r\n\r\n<p>Providers of online learning are best off delivering courses that are accessible out-of-the-box, without the need for special accommodations. And many of the features that provide an accessible experience for people with disabilities benefit all learners. For example, lecture transcripts are an excellent tool for study and review. However, without deliberate attention to the technologies, standards, and guidelines that comprise the Web Platform, accessibility may be difficult to achieve, and learners with disabilities may be left behind.</p>\r\n\r\n<p>The activities of the Accessible Online Learning W3C Community Group take place at the intersection of accessibility and online learning. We focus on reviewing current W3C resources and technologies to ensure the requirements for accessible online learning experiences are considered. We also identify areas where additional resources and technologies are needed to ensure full participation of people with disabilities in online learning experiences.</p>\r\n\r\n<p>This group will not publish Specifications.</p>",
  "shortname": "accesslearn",
+ "closed_date": "2023-12-06",
  "spec-publisher": false,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/accesslearn"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/accesslearn/"
   },
@@ -27,8 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/accesslearn/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/accesslearn"
   }
  },
  "type": "community group",
- "identifier": "cg/accesslearn"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/accesslearn",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5997",
+   "title": "internal-accesslearn (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-accesslearn/",
+    "shortdesc": "internal-accesslearn",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5997"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5997/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5994",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#accesslearn",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5994"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5994/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5995",
+   "title": "public-accesslearn (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-accesslearn/",
+    "shortdesc": "public-accesslearn",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5995"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5995/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5993",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/accesslearn/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5993"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5993/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6154",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/accesslearn/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6154"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6154/groups"
+     }
+    }
+   }
+  }
+ ]
 }
