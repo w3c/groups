@@ -1,15 +1,14 @@
 {
  "id": 55682,
  "name": "OWL: Experiences and Directions Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-05-29",
  "description": "Everything related to the Web Ontology Language.",
  "shortname": "owled",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/owled"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/owled/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/owled/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/owled"
   }
  },
- "identifier": "cg/owled"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/owled",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1175",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#owled",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1175"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1175/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1176",
+   "title": "public-owled (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-owled/",
+    "shortdesc": "public-owled",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1176"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1176/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1174",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/owled/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1174"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1174/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1173",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/owled/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1173"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1173/groups"
+     }
+    }
+   }
+  }
+ ]
 }
