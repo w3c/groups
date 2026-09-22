@@ -1,0 +1,95 @@
+{
+ "id": 66776,
+ "name": "Zakim on Web Community Group",
+ "is_closed": true,
+ "creation-date": "2013-10-02",
+ "description": "The goal of this group is to bring the functionalities of W3C Zakim Teleconference Bridge to web browsers. This group will focus on requirements and issues of open teleconference systems which contain voice communications between web browsers. We will also focus on integrating IRC service for it. This group will not create specifications but may provide feedback to relevant working groups, if necesssary.",
+ "shortname": "webzakim",
+ "closed_date": "2019-08-13",
+ "spec-publisher": false,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webzakim/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webzakim/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webzakim/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webzakim/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webzakim/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webzakim/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webzakim"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webzakim",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1684",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webzakim",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1684"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1684/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1685",
+   "title": "public-webzakim (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webzakim/",
+    "shortdesc": "public-webzakim",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1685"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1685/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1683",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webzakim/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1683"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1683/groups"
+     }
+    }
+   }
+  }
+ ]
+}
