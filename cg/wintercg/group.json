@@ -1,15 +1,14 @@
 {
  "id": 137557,
  "name": "Web-interoperable Runtimes Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-04-26",
  "description": "The work of this group has been transferred to ECMA for standardization; see the <a href=\"https://www.w3.org/blog/2025/collaborating-across-w3c-and-ecma-for-web-interoperable-server-runtimes-through-wintertc/\">blog post on the transfer</a>.\r\n\r\nThe Web-interoperable Runtimes Community Group (wintercg) was launched to augment the work of other existing community and working groups focusing on the development of Web Platform features and APIs by focusing directly on the specific needs of non-Web Browser based implementations. Whereas existing community groups such as the Web Incubator Community Group (WICG) and the Web Hypertext Application Technology Working Group (WHATWG) are each explicitly scoped to features \"that would be implemented in a browser or similar user agent\", it was the goal of the wintercg to focus on implementation of those same features in environments such as backend servers, serverless compute, IoT, command-line tools, and so forth -- essentially, everything that is not a browser.",
  "shortname": "wintercg",
+ "closed_date": "2025-04-03",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/wintercg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/wintercg/"
   },
@@ -27,39 +26,25 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/wintercg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/wintercg"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/wintercg",
  "services": [
   {
-   "href": "https://api.w3.org/services/34813",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/34814",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/34815",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/34816",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/34818",
-   "title": "Version Control",
+   "title": "GitHub (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/wintercg",
     "shortdesc": "GitHub",
-    "longdesc": "GitHub",
-    "external": true,
-    "closed": false,
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/34818"
@@ -71,8 +56,94 @@
    }
   },
   {
+   "href": "https://api.w3.org/services/34816",
+   "title": "internal-wintercg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-wintercg/",
+    "shortdesc": "internal-wintercg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34816"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34816/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/34814",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#wintercg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34814"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34814/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/34815",
+   "title": "public-wintercg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-wintercg/",
+    "shortdesc": "public-wintercg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34815"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34815/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/34813",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/wintercg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34813"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34813/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/34819",
-   "title": "Other"
+   "title": "Web (Other)",
+   "details": {
+    "closed": false,
+    "type": "other",
+    "link": "https://wintercg.org",
+    "shortdesc": "Web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/34819"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/34819/groups"
+     }
+    }
+   }
   }
  ]
 }
