@@ -1,0 +1,95 @@
+{
+ "id": 90503,
+ "name": "Bible Perikopes Community Group",
+ "is_closed": true,
+ "creation-date": "2016-05-05",
+ "description": "The bible - both as a literary work and as a religious work - has a very typical structure that doesn't always align with regular book structures. The intention of the group is to create a microdata format to allow to specify biblical passages, including perikopes built up from books, chapters, verses and occasionally subverses. There are also different possible translations of the bible.",
+ "shortname": "bibperik",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/bibperik/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bibperik/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bibperik/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bibperik/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bibperik/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bibperik/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bibperik"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bibperik",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6346",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bibperik",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6346"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6346/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6347",
+   "title": "public-bibperik (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bibperik/",
+    "shortdesc": "public-bibperik",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6347"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6347/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6345",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bibperik/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6345"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6345/groups"
+     }
+    }
+   }
+  }
+ ]
+}
