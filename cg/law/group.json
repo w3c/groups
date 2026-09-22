@@ -1,15 +1,14 @@
 {
  "id": 57019,
  "name": "Law and Technology Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-08-07",
  "description": "The mission of the Law and Technology Community Group is to serve as a place for legal professionals and those interested in the law to share information on how current laws affect the implementation of new web technologies as well as how those new technologies can affect the law.",
  "shortname": "law",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/law"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/law/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/law/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/law"
   }
  },
- "identifier": "cg/law"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/law",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1242",
+   "title": "internal-law (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-law/",
+    "shortdesc": "internal-law",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1242"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1242/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1239",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#law",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1239"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1239/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1240",
+   "title": "public-law (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-law/",
+    "shortdesc": "public-law",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1240"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1240/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1238",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/law/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1238"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1238/groups"
+     }
+    }
+   }
+  }
+ ]
 }
