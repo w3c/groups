@@ -1,0 +1,95 @@
+{
+ "id": 77179,
+ "name": "Web Background Sync Community Group",
+ "is_closed": true,
+ "creation-date": "2015-03-20",
+ "description": "This group is developing a specification to allow web apps to run tasks in the background. This includes running after the user has navigated away from the page, closed the browser, or the device has fallen asleep. We focus on preserving user privacy and resources while providing a useful and expressive API.",
+ "shortname": "bgsync",
+ "closed_date": "2016-04-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/bgsync/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/bgsync/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/bgsync/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/bgsync/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/bgsync/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/bgsync/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bgsync"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bgsync",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5964",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bgsync",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5964"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5964/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5965",
+   "title": "public-bgsync (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bgsync/",
+    "shortdesc": "public-bgsync",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5965"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5965/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5963",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bgsync/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5963"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5963/groups"
+     }
+    }
+   }
+  }
+ ]
+}
