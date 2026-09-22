@@ -1,15 +1,14 @@
 {
  "id": 120907,
  "name": "MFX Media Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-02-04",
  "description": "The exploration and development of media containers that protect and serve the growing needs of the content creator. A media container with global tracking and accountability will ensure the upmost transparency and data management. The world needs a new media file that can meet the modern technological needs.",
  "shortname": "mfxmedia",
+ "closed_date": "2023-02-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mfxmedia"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mfxmedia/"
   },
@@ -27,7 +26,52 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mfxmedia/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mfxmedia"
   }
  },
- "identifier": "cg/mfxmedia"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mfxmedia",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/19047",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mfxmedia",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/19047"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/19047/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/19046",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mfxmedia/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/19046"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/19046/groups"
+     }
+    }
+   }
+  }
+ ]
 }
