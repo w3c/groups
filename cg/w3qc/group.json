@@ -1,0 +1,95 @@
+{
+ "id": 69285,
+ "name": "W3Québec Community Group",
+ "is_closed": true,
+ "creation-date": "2014-01-29",
+ "description": "La volonté du W3Québec est de promouvoir les normes, standards ouverts et bonnes pratiques du Web et du multimédia au Québec.\r\n\r\nThis group will not develop specifications.",
+ "shortname": "w3qc",
+ "closed_date": "2015-06-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/w3qc/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/w3qc/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/w3qc/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/w3qc/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/w3qc/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/w3qc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/w3qc"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/w3qc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1948",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#w3qc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1948"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1948/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1949",
+   "title": "public-w3qc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-w3qc/",
+    "shortdesc": "public-w3qc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1949"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1949/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1947",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/w3qc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1947"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1947/groups"
+     }
+    }
+   }
+  }
+ ]
+}
