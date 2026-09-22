@@ -18820,6 +18820,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "ask-i18n",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/ask-i18n",
+  "homepageUrl": "https://i18n-drafts-assistant.onrender.com/",
+  "description": "AI assistant for W3C Internationalization guidance",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/i18n-core"
+   ],
+   "contacts": [
+    "xfq"
+   ],
+   "repo-type": [
+    "tool"
+   ],
+   "policy": "restricted",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "at-driver",
   "owner": {
    "login": "w3c"
