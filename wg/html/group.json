@@ -50,5 +50,63 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/html"
+ "identifier": "wg/html",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/232",
+   "title": "public-html-media (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html-media/",
+    "shortdesc": "public-html-media",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/232"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/232/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6173",
+   "title": "public-html-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html-admin/",
+    "shortdesc": "public-html-admin",
+    "longdesc": "Administrativia mailing list ",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6173"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6173/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/105",
+   "title": "htmlwg (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/html/wg/wiki",
+    "shortdesc": "htmlwg",
+    "longdesc": "HTML WG Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/105"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/105/groups"
+     }
+    }
+   }
+  }
+ ]
 }
