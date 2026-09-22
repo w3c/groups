@@ -1,0 +1,157 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "COREMOB-1-REQ",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/COREMOB-1-REQ",
+  "description": "[STALE] Requirements for the Coremob Level 1 spec.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "camera",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/camera",
+  "description": "An open-source camera application built using Web technology.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "camera.coremob.org",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/camera.coremob.org",
+  "description": "Home of the Coremob Camera project",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-2012",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-2012",
+  "description": "Core mobile Web Platform 2012",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-test-approach",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-test-approach",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-tests",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-tests",
+  "homepageUrl": "http://coremob.org",
+  "description": "[STALE] Tests for the coremob specs.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "coremob-ucr",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/coremob-ucr",
+  "description": "[STALE] This document describes basic use cases and requirements for mobile Web application development.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "level-0",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/level-0",
+  "homepageUrl": "http://coremob.org/",
+  "description": "[STALE] Core Mobile Web Plaform — Level 0",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "level-1",
+  "owner": {
+   "login": "coremob"
+  },
+  "url": "https://github.com/coremob/level-1",
+  "homepageUrl": "http://coremob.org/",
+  "description": "[STALE] This repository has moved to https://github.com/coremob/coremob-2012.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/coremob"
+   ],
+   "exposed": true
+  }
+ }
+]
