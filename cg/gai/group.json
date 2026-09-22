@@ -1,15 +1,14 @@
 {
  "id": 148246,
  "name": "Generative AI Community Group",
- "is_closed": false,
- "description": "This group will explore issues surrounding Generative AI risks, benefits, and best practices. We will document guidelines and potentially begin work on a technical proposal. Charter to come.",
+ "is_closed": true,
+ "creation-date": "2023-09-15",
+ "description": "<p>This group will explore issues surrounding Generative AI risks, benefits, and best practices. We will document guidelines and potentially begin work on a technical proposal. Charter to come.</p>",
  "shortname": "gai",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/gai"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/gai/"
   },
@@ -27,26 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/gai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/gai"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/gai",
  "services": [
   {
-   "href": "https://api.w3.org/services/43826",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/43827",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#gai",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43827"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43827/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/43828",
-   "title": "Mailing List"
+   "title": "public-gai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-gai/",
+    "shortdesc": "public-gai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43828"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43828/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/43829",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/43826",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/gai/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43826"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43826/groups"
+     }
+    }
+   }
   }
  ]
 }
