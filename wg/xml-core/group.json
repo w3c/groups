@@ -50,5 +50,25 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/xml-core"
+ "identifier": "wg/xml-core",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/231",
+   "title": "public-xml-core-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-xml-core-wg/",
+    "shortdesc": "public-xml-core-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/231"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/231/groups"
+     }
+    }
+   }
+  }
+ ]
 }
