@@ -1,15 +1,14 @@
 {
  "id": 61356,
  "name": "Emergency Information Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-02-25",
  "description": "The aim of the Emergency Information Community Group is to support the development of semantic vocabularies and common frameworks for information interoperability to ensure the meaningful sharing and aggregation of information to assist in emergency, crisis, and humanitarian functions. This Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements, and the development of community specifications to drive future formal standardisation.",
  "shortname": "emergency",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/emergency"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/emergency/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/emergency/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/emergency"
   }
  },
- "identifier": "cg/emergency"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/emergency",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1419",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#emergency",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1419"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1419/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1420",
+   "title": "public-emergency (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-emergency/",
+    "shortdesc": "public-emergency",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1420"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1420/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1418",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/emergency/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1418"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1418/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1417",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/emergency/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1417"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1417/groups"
+     }
+    }
+   }
+  }
+ ]
 }
