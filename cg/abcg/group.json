@@ -1,15 +1,14 @@
 {
  "id": 118199,
  "name": "Content Blocking Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2019-09-29",
  "description": "The mission of this group is to improve web standards by conveying to Working Groups use cases from a content blocking perspective (for example web technologies used in areas related to ad blocking, anti-tracking or even accessibility).\r\n\r\n<p>Note: The original name for this group was the Ad Blocker Community Group.</p>",
  "shortname": "abcg",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/abcg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/abcg/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/abcg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/abcg"
   }
  },
- "identifier": "cg/abcg"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/abcg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/17344",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#abcg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17344"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17344/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17345",
+   "title": "public-abcg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-abcg/",
+    "shortdesc": "public-abcg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17345"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17345/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/17343",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/abcg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/17343"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/17343/groups"
+     }
+    }
+   }
+  }
+ ]
 }
