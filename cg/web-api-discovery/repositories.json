@@ -1,0 +1,20 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "rfcs",
+  "owner": {
+   "login": "webapi-discovery"
+  },
+  "url": "https://github.com/webapi-discovery/rfcs",
+  "homepageUrl": "https://webapi-discovery.github.io/rfcs",
+  "description": "w3c WebAPI Discovery Community Group - Request For Comments",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/web-api-discovery"
+   ],
+   "exposed": true
+  }
+ }
+]
