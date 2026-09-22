@@ -1,15 +1,14 @@
 {
  "id": 61868,
  "name": "Restricted Media Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-03-12",
  "description": "The Restricted Media CG will discuss and analyze methods of restricting access to or use of Web media, and their implementation on the open Web. \r\n\r\nThis group will not publish specifications.",
  "shortname": "restrictedmedia",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/restrictedmedia"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/restrictedmedia/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/restrictedmedia/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/restrictedmedia"
   }
  },
- "identifier": "cg/restrictedmedia"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/restrictedmedia",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1450",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#restrictedmedia",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1450"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1450/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1451",
+   "title": "public-restrictedmedia (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-restrictedmedia/",
+    "shortdesc": "public-restrictedmedia",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1451"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1451/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1449",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/restrictedmedia/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1449"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1449/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1448",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/restrictedmedia/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1448"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1448/groups"
+     }
+    }
+   }
+  }
+ ]
 }
