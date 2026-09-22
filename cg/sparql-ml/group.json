@@ -1,15 +1,14 @@
 {
  "id": 130727,
  "name": "SPARQL-ML Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2021-04-19",
  "description": "The technological advancement in computational power and the significant increase in data generation allowed the successful implementation and application of many machine learning methods that were not possible before. On the one hand side, those methods need a lot of data to succeed. On the other hand side, the Semantic Web community has successfully published a large amount of machine-readable data on the Web. RDF data is often accessible over not machine-learning-ready protocols. The purpose of this community is to discuss how to leverage machine learning methods in RDF data through the SPARQL query language and protocol.",
  "shortname": "sparql-ml",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sparql-ml"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sparql-ml/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sparql-ml/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sparql-ml"
   }
  },
- "identifier": "cg/sparql-ml"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/sparql-ml",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33190",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sparql-ml",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33190"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33190/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33191",
+   "title": "public-sparql-ml (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sparql-ml/",
+    "shortdesc": "public-sparql-ml",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33191"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33191/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33189",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sparql-ml/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33189"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33189/groups"
+     }
+    }
+   }
+  }
+ ]
 }
