@@ -1,15 +1,14 @@
 {
  "id": 108838,
  "name": "Volunteering Ontology Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-08-02",
  "description": "The Volunteering Ontology group seeks to provide the volunteering community with a shared vocabulary for the open exchange of data relating to volunteering.\r\n\r\nEntities of interest include volunteering opportunities, the organizations hosting those opportunities, and the volunteers themselves.",
  "shortname": "volunteering-ontology",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/volunteering-ontology"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/volunteering-ontology/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/volunteering-ontology/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/volunteering-ontology"
   }
  },
- "identifier": "cg/volunteering-ontology"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/volunteering-ontology",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13836",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#volunteering-ontology",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13836"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13836/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13837",
+   "title": "public-volunteering-ontology (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-volunteering-ontology/",
+    "shortdesc": "public-volunteering-ontology",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13837"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13837/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13835",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/volunteering-ontology/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13835"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13835/groups"
+     }
+    }
+   }
+  }
+ ]
 }
