@@ -1,15 +1,14 @@
 {
  "id": 96810,
  "name": "EPUB 3 Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2017-02-06",
  "description": "The EPUB 3 Community Group was a forum for the technical development of EPUB 3 and related extension specifications and ancillary deliverables. That work has been transferred to the  \r\n<a href=\"https://www.w3.org/groups/wg/pm/\">Publishing Maintenance Working Group</a> for standardization (see the <a href=\"https://github.com/w3c/epub-specs/\">GitHub Repository for EPUB 3</a>). For other technical discussions, please join the <a href=\"https://www.w3.org/community/publishingcg/\">Publishing Community Group</a>.\r\n\r\nThe <a rel=\"nofollow\" href=\"http://www.w3.org/2017/02/EPUB3CGcharter\">EPUB 3 Community Group charter</a> contains details about this CG's original scope.",
  "shortname": "epub3",
+ "closed_date": "2025-03-19",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/epub3"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/epub3/"
   },
@@ -27,45 +26,103 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/epub3/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/epub3"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/epub3",
  "services": [
   {
-   "href": "https://api.w3.org/services/6523",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/6524",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/6525",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/6527",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/7984",
-   "title": "Version Control",
+   "title": "EPUB 3 Community Group Work Repository (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/w3c/publ-cg/",
     "shortdesc": "EPUB 3 Community Group Work Repository",
-    "longdesc": "EPUB 3 Community Group Work Repository",
-    "external": true,
-    "closed": false,
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/7984"
      },
      "groups": {
       "href": "https://api.w3.org/services/7984/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6527",
+   "title": "internal-epub3 (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-epub3/",
+    "shortdesc": "internal-epub3",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6527"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6527/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6524",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#epub3",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6524"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6524/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6525",
+   "title": "public-epub3 (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-epub3/",
+    "shortdesc": "public-epub3",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6525"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6525/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6523",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/epub3/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6523"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6523/groups"
      }
     }
    }
