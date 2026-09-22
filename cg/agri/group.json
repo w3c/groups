@@ -1,15 +1,14 @@
 {
  "id": 74226,
  "name": "Agriculture Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-10-15",
  "description": "The initial mission of the Agriculture Community Group is to gather and categorise existing user scenarios, which use Web APIs and services, in the agriculture industry from around the world, and to serve as a portal which helps both web developers and agricultural stakeholders create smarter devices, Web applications &amp; services, and to provide bird's eye view map of this domain which enables W3C and other SDOs to find overlaps and gaps of user scenarios and the Open Web Platform.\r\n\r\nWe'll try to collect facts and knowledge from around the world through crowd-sourcing, while, at the same time, build a scaffold for it by quickly gathering key topics from Japanese agricultural stakeholders. Smart Platform Forum supports this early stages by connecting relevant stakeholders in Japan and organising face-to-face meetings if needed to proceed faster.\r\n\r\nThis group will not publish specifications.",
  "shortname": "agri",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/agri"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/agri/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/agri/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agri"
   }
  },
- "identifier": "cg/agri"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/agri",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2102",
+   "title": "internal-agri (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-agri/",
+    "shortdesc": "internal-agri",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2102"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2102/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2099",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#agri",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2099"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2099/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2100",
+   "title": "public-agri (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-agri/",
+    "shortdesc": "public-agri",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2100"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2100/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2098",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/agri/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2098"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2098/groups"
+     }
+    }
+   }
+  }
+ ]
 }
