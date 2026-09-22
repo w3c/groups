@@ -51,5 +51,79 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "ig",
- "identifier": "ig/publishing"
+ "identifier": "ig/publishing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1768",
+   "title": "member-digipub-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-digipub-ig/",
+    "shortdesc": "member-digipub-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1768"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1768/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45900",
+   "title": "public-digipub (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digipub/",
+    "shortdesc": "public-digipub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45900"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45900/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1763",
+   "title": "public-digipub-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digipub-ig/",
+    "shortdesc": "public-digipub-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1763"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1763/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1759",
+   "title": "public-digipub-ig-comment (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digipub-ig-comment/",
+    "shortdesc": "public-digipub-ig-comment",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1759"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1759/groups"
+     }
+    }
+   }
+  }
+ ]
 }
