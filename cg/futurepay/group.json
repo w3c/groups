@@ -1,0 +1,95 @@
+{
+ "id": 56155,
+ "name": "Future of e-payments Community Group",
+ "is_closed": true,
+ "creation-date": "2012-06-20",
+ "description": "This group was created to invent and support new and more secure methods for payments over the internet. Using one's credit card is insecure while using online pay through a third party is tedious, costly and not without legal issues. There is a huge demand for secure online paying. It is time to give the people what they want. It is time to turn the browser into a e-wallet.",
+ "shortname": "futurepay",
+ "closed_date": "2012-08-01",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/futurepay/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/futurepay/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/futurepay/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/futurepay/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/futurepay/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/futurepay/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/futurepay"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/futurepay",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1199",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#futurepay",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1199"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1199/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1200",
+   "title": "public-futurepay (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-futurepay/",
+    "shortdesc": "public-futurepay",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1200"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1200/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1198",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/futurepay/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1198"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1198/groups"
+     }
+    }
+   }
+  }
+ ]
+}
