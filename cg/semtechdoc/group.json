@@ -1,15 +1,14 @@
 {
  "id": 84086,
  "name": "Technical Documentation in the Semantic Web Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-10-28",
  "description": "The complexity of machines and software has grown dramatically in the past years. The technical documentation became a fundamental source for service technicians and professionals in their daily work. Fast and focused access methods are necessary to handle massive volumes of technical documents. Semantic technologies have proven their ability to improve accessibility of information (see Linked Open Data). However, existing corpora of technical documents are usually not semantically prepared. This group shall focus on applying semantic technologies to technical documentation. All peers (individuals or projects) can state their needs (input) and offers (output).",
  "shortname": "semtechdoc",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/semtechdoc"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/semtechdoc/"
   },
@@ -27,7 +26,124 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/semtechdoc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/semtechdoc"
   }
  },
- "identifier": "cg/semtechdoc"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/semtechdoc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6220",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/semtechdoc/semtechdoc",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6220"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6220/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15504",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/semtechdoc",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15504"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15504/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6183",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#semtechdoc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6183"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6183/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6184",
+   "title": "public-semtechdoc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-semtechdoc/",
+    "shortdesc": "public-semtechdoc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6184"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6184/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6182",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/semtechdoc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6182"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6182/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6219",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/semtechdoc/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6219"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6219/groups"
+     }
+    }
+   }
+  }
+ ]
 }
