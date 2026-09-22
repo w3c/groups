@@ -1,15 +1,14 @@
 {
  "id": 47948,
  "name": "Declarative 3D for the Web Architecture Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-06-29",
  "description": "The mission of the Declarative 3D for the Web Architecture Community Group is to determine the requirements, options, and use cases for an integration of interactive 3D graphics capabilities into the W3C technology stack. This group is aimed to extract core features out of the requirements as foundation to propose feasible technical solutions. These should cover the majority of 3D use cases for the Web - but not necessarily all of them. There are upcoming open (e.g., WebGL) and proprietary (e.g., Adobe) proposals for imperative graphics APIs in the Web context but we are missing an easy way to add interactive high-level declarative 3D objects to the HTML-DOM to allow anyone to easily create, share, and experience interactive 3D graphics - with possibly wide ranging effects similar to those caused by the broad availability of video on the Web. The goal of this CG is to evaluate the necessary requirements for a successful standardization of a declarative approach to interactive 3D graphics as part of HTML documents.",
  "shortname": "declarative3d",
+ "closed_date": "2024-12-10",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/declarative3d"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/declarative3d/"
   },
@@ -27,40 +26,124 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/declarative3d/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/declarative3d"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/declarative3d",
  "services": [
   {
-   "href": "https://api.w3.org/services/335",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/339",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/341",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/342",
-   "title": "Wiki"
+   "href": "https://api.w3.org/services/1891",
+   "title": "internal-declarative3d (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-declarative3d/",
+    "shortdesc": "internal-declarative3d",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1891"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1891/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/410",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#declarative3d",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/410"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/410/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/1890",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/335",
+   "title": "public-declarative3d (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-declarative3d/",
+    "shortdesc": "public-declarative3d",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/335"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/335/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/1891",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/339",
+   "title": "public-declarative3d-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-declarative3d-contrib/",
+    "shortdesc": "public-declarative3d-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/339"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/339/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/341",
+   "title": "RSS Feed (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/declarative3d/feed/",
+    "shortdesc": "RSS Feed",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/341"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/341/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/342",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/declarative3d/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/342"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/342/groups"
+     }
+    }
+   }
   }
  ]
 }
