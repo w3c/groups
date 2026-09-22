@@ -1,15 +1,14 @@
 {
  "id": 75075,
  "name": "Colour blindness accessibility Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-11-27",
  "description": "The aim of our project is to build new HTML5 specifications that can be used later by developers who wish to create more accessible websites for colour-blind people. The goal is that the specifications, that we are going to suggest, will one day become a standard of HTML5.\r\n \r\nAccording to WHO, 246 million people worldwide, whilst not being blind, suffer from moderate or severe visual impairment. This includes various forms of colour blindness and other visual deficiencies such as glaucoma and cataract. Just like everyone else, colour-blind people use the Internet for professional and private purposes. However, they often encounter accessibility problems. Our challenge is to improve their situation by providing easy-to-use HTML5 specifications to developers.\r\n\r\nTo understand, define and bring solutions to colour-blind people who interact with web interfaces, we are going to conduct user tests with them based on the eye tracking technology. This will allow us to define a corpus of usability rules, according to the level of deficiency of the colour-blind persons. These rules will help us to develop solutions, validate them with other user tests and later develop HTML5 specifications that can be used in CSS.\r\n\r\nThe challenge is not only helping developers with easy-to-use HTML5 markups, but also make them aware of the situation and together build a better Internet with more accessible websites.\r\n\r\nFeel free to join this group if you:\r\n\r\n* are suffering from colour-blindness\r\n* or have field experience developing accessibility solutions for the colour-blind or other visual impairment\r\n* or have experience working with a previous submission to the W3C.",
  "shortname": "colourblindness",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/colourblindness"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/colourblindness/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/colourblindness/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/colourblindness"
   }
  },
- "identifier": "cg/colourblindness"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/colourblindness",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2129",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#colourblindness",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2129"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2129/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2130",
+   "title": "public-colourblindness (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-colourblindness/",
+    "shortdesc": "public-colourblindness",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2130"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2130/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2128",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/colourblindness/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2128"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2128/groups"
+     }
+    }
+   }
+  }
+ ]
 }
