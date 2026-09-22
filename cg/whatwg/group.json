@@ -1,0 +1,150 @@
+{
+ "id": 54683,
+ "name": "Web Hypertext Application Technology Community Group",
+ "is_closed": true,
+ "creation-date": "2012-04-23",
+ "description": "See the <a rel=\"nofollow\" href=\"https://whatwg.org/\">WHATWG</a> and the <a rel=\"nofollow\" href=\"https://www.w3.org/2019/04/WHATWG-W3C-MOU.html\">Memorandum of Understanding Between W3C and WHATWG</a>.\r\nCommunity group around the HTML living specification and its related Web Application technology specifications.",
+ "shortname": "whatwg",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/whatwg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/whatwg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/whatwg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/whatwg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/whatwg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/whatwg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/whatwg"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/whatwg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/45897",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.freenode.net/whatwg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45897"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45897/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1853",
+   "title": "public-whatwg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-whatwg/",
+    "shortdesc": "public-whatwg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1853"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1853/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1119",
+   "title": "public-whatwg-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-whatwg-contrib/",
+    "shortdesc": "public-whatwg-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1119"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1119/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1116",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/whatwg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1116"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1116/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1115",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://wiki.whatwg.org/wiki/Main_Page",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1115"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1115/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1118",
+   "title": "whatwg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.whatwg.org/pipermail/whatwg-whatwg.org/",
+    "shortdesc": "whatwg",
+    "longdesc": "whatwg@whatwg.org mailing list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1118"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1118/groups"
+     }
+    }
+   }
+  }
+ ]
+}
