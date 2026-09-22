@@ -1,15 +1,14 @@
 {
  "id": 49290,
  "name": "High-Performance Computing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-09-06",
  "description": "This community group is focused on bringing high performance computing (HPC) to the web. In particular, we're interested in making the computing and data resources that underlie simulation science, scientific computing, and data-centric science easily accessible through web browsers. Our members are working on APIs that expose HPC resources via the web, as well as gateways and web applications that take advantage of these APIs. The major goal of this community is to accelerate the pace of development of web-based HPC applications. Recognizing that we can build on each other's work, and that a consistent approach to developing such tools can enable features that require communication across multiple computing centers, we are interested in sharing technologies and ideas.",
  "shortname": "hpcweb",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/hpcweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/hpcweb/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/hpcweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/hpcweb"
   }
  },
- "identifier": "cg/hpcweb"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/hpcweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/589",
+   "title": "internal-hpcweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-hpcweb/",
+    "shortdesc": "internal-hpcweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/589"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/589/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/586",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#hpcweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/586"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/586/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/587",
+   "title": "public-hpcweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-hpcweb/",
+    "shortdesc": "public-hpcweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/587"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/587/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/585",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/hpcweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/585"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/585/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/584",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/hpcweb/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/584"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/584/groups"
+     }
+    }
+   }
+  }
+ ]
 }
