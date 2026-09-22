@@ -1,15 +1,14 @@
 {
  "id": 104525,
  "name": "Synchronized Multimedia for Publications Community Group",
- "is_closed": false,
- "description": "This community group's goal is to propose a way to synchronize audio or video with Web Publications and other document formats being developed by the Publishing Working Group, in order to make the publications accessible to people with different types of reading requirements. The CG may recommend the best way to integrate an existing technology, or it may provide an outline for developing a new format.",
+ "is_closed": true,
+ "creation-date": "2018-01-08",
+ "description": "This community group's goal was to propose a way to synchronize audio or video with Web Publications and other document formats being developed by the Publishing Working Group, in order to make the publications accessible to people with different types of reading requirements. The CG may recommend the best way to integrate an existing technology, or it may provide an outline for developing a new format.",
  "shortname": "sync-media-pub",
+ "closed_date": "2024-12-10",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sync-media-pub"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sync-media-pub/"
   },
@@ -27,45 +26,85 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sync-media-pub/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sync-media-pub"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/sync-media-pub",
  "services": [
   {
-   "href": "https://api.w3.org/services/12273",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/12274",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/12275",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/12277",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/15476",
-   "title": "Version Control",
+   "title": "GitHub repository (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/w3c/sync-media-pub",
-    "shortdesc": "Github repository",
-    "longdesc": "Github repository",
-    "external": true,
-    "closed": false,
+    "shortdesc": "GitHub repository",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/15476"
      },
      "groups": {
       "href": "https://api.w3.org/services/15476/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12274",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sync-media-pub",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12274"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12274/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12275",
+   "title": "public-sync-media-pub (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sync-media-pub/",
+    "shortdesc": "public-sync-media-pub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12275"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12275/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12273",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sync-media-pub/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12273"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12273/groups"
      }
     }
    }
