@@ -1,16 +1,19 @@
 [
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cns-commons",
   "owner": {
    "login": "privacycoop"
   },
+  "url": "https://github.com/privacycoop/cns-commons",
   "description": "Consent Name System (CNS)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/cns"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
