@@ -35,5 +35,97 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/uora"
+ "identifier": "cg/uora",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46166",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/uora",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46166"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46166/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46089",
+   "title": "internal-uora (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-uora/",
+    "shortdesc": "internal-uora",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46089"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46089/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46087",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#uora",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46087"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46087/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46088",
+   "title": "public-uora (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-uora/",
+    "shortdesc": "public-uora",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46088"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46088/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46086",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/uora/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46086"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46086/groups"
+     }
+    }
+   }
+  }
+ ]
 }
