@@ -1,15 +1,14 @@
 {
  "id": 104984,
  "name": "Veres One Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-01-29",
  "description": "The mission of the Veres One Project is to facilitate the creation of open standards, software, and provide the governance to enable anyone in the world to create and manage their own decentralized identifiers.",
  "shortname": "veres-one",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/veres-one"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/veres-one/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/veres-one/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/veres-one"
   }
  },
- "identifier": "cg/veres-one"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/veres-one",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13759",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#veres-one",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13759"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13759/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13760",
+   "title": "public-veres-one (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-veres-one/",
+    "shortdesc": "public-veres-one",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13760"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13760/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13758",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/veres-one/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13758"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13758/groups"
+     }
+    }
+   }
+  }
+ ]
 }
