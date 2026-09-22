@@ -1,0 +1,113 @@
+{
+ "id": 94248,
+ "name": "Digital Offers Community Group",
+ "is_closed": true,
+ "creation-date": "2016-10-10",
+ "description": "The mission of the Digital Offers Community Group was to improve E-Commerce on the Web by making it easier and more secure for all actors in the ecosystem to manage, distribute, use, and settle digital offers, including coupons, vouchers, rewards, and loyalty programs.",
+ "shortname": "digitaloffers",
+ "closed_date": "2019-12-16",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/digitaloffers/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/digitaloffers/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/digitaloffers/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/digitaloffers/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/digitaloffers/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/digitaloffers/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/digitaloffers"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/digitaloffers",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6435",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#digitaloffers",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6435"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6435/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6436",
+   "title": "public-digitaloffers (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digitaloffers/",
+    "shortdesc": "public-digitaloffers",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6436"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6436/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6434",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/digitaloffers/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6434"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6434/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6488",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/digitaloffers/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6488"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6488/groups"
+     }
+    }
+   }
+  }
+ ]
+}
