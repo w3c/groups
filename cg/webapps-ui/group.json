@@ -1,15 +1,14 @@
 {
  "id": 53987,
  "name": "WebApps UI Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-03-28",
  "description": "Web applications employ a range of UI methods from CSS, SVG, HTML Forms, Canvas and ARIA. Our focus is to ensure that UI methods are accessible, maintainable and of high quality across vendors and specifications. We use WCAG and ATAG to examine cross-specification techniques and identify issues with implementations and associated specifications.",
  "shortname": "webapps-ui",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webapps-ui"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webapps-ui/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webapps-ui/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webapps-ui"
   }
  },
- "identifier": "cg/webapps-ui"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webapps-ui",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1066",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webapps-ui",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1066"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1066/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1067",
+   "title": "public-webapps-ui (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webapps-ui/",
+    "shortdesc": "public-webapps-ui",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1067"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1067/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1065",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webapps-ui/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1065"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1065/groups"
+     }
+    }
+   }
+  }
+ ]
 }
