@@ -1,15 +1,14 @@
 {
  "id": 55430,
  "name": "Argumentation Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-05-19",
  "description": "The Argumentation Community Group will facilitate and promote the use of the Web for all forms of argumentation.  The group will discuss and design both argumentation representation formats and systems.",
  "shortname": "argumentation",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/argumentation"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/argumentation/"
   },
@@ -27,8 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/argumentation/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/argumentation"
   }
  },
  "type": "community group",
- "identifier": "cg/argumentation"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/argumentation",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1159",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#argumentation",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1159"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1159/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1160",
+   "title": "public-argumentation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-argumentation/",
+    "shortdesc": "public-argumentation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1160"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1160/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1161",
+   "title": "public-argumentation-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-argumentation-contrib/",
+    "shortdesc": "public-argumentation-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1161"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1161/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1158",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/argumentation/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1158"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1158/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1157",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/argumentation/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1157"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1157/groups"
+     }
+    }
+   }
+  }
+ ]
 }
