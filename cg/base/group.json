@@ -1,0 +1,95 @@
+{
+ "id": 101264,
+ "name": "Semantic building data Community Group",
+ "is_closed": true,
+ "creation-date": "2017-08-03",
+ "description": "See also the <a rel=\"nofollow\" href=\"https://www.w3.org/community/lbd/\">Linked Building Data Community Group</a>.\r\nThis group works on creating and defining a semantic, web-author-friendly representation of building data.\r\nIt will deliver a specification and tooling to work with declarative, semantic building information.\r\n \r\nBesides a specification for the data format, we plan on delivering libraries and plugins for existing software, such as A-Frame.\r\nWe want to work with existing communities, such as the Linked Building Data and Declarative 3D and Declarative WebVR groups.",
+ "shortname": "base",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/base/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/base/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/base/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/base/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/base/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/base/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/base"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/base",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12205",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#base",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12205"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12205/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12206",
+   "title": "public-base (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-base/",
+    "shortdesc": "public-base",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12206"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12206/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12204",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/base/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12204"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12204/groups"
+     }
+    }
+   }
+  }
+ ]
+}
