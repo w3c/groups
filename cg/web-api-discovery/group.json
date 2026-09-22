@@ -1,15 +1,14 @@
 {
  "id": 95726,
  "name": "WebAPI Discovery Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-12-13",
  "description": "A group to develop a mechanism for the automatic discovery of WebAPIs, by\r\nextending the schema.org vocabulary.\r\n\r\nIncreasingly, large online platforms and services provide one or more Web\r\nAPIs for third-party developers. Moreover, many companies build WebAPIs as\r\ntheir primary product (Email API, SMS API, etc.). This has resulted in an\r\nexplosion of the number of WebAPIs in recent years. Developers spend a\r\nsignificant amount of time searching for suitable WebAPIs to meet their\r\nneeds.\r\n\r\nOur intention is to work closely with Schema.org to define a\r\nWebAPI-specific extension and promote usage of this extension among API\r\nowners. In the long run, our aim is to contribute this extension into the\r\ncore Schema.org vocabulary.\r\n\r\nTo achieve these goals we are seeking feedback and collaboration from API\r\nowners, DX specialists, API description language experts and maintainers of\r\nvarious API catalogs.\r\n",
  "shortname": "web-api-discovery",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/web-api-discovery"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/web-api-discovery/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/web-api-discovery/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/web-api-discovery"
   }
  },
- "identifier": "cg/web-api-discovery"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/web-api-discovery",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15516",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/webapi-discovery/",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15516"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15516/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6483",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#web-api-discovery",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6483"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6483/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6484",
+   "title": "public-web-api-discovery (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-api-discovery/",
+    "shortdesc": "public-web-api-discovery",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6484"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6484/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6482",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/web-api-discovery/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6482"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6482/groups"
+     }
+    }
+   }
+  }
+ ]
 }
