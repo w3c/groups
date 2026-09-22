@@ -1,0 +1,70 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "timeld",
+  "owner": {
+   "login": "m-ld"
+  },
+  "url": "https://github.com/m-ld/timeld",
+  "description": "Live shared timesheets",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "federated-timesheets-tests",
+  "owner": {
+   "login": "muze-nl"
+  },
+  "url": "https://github.com/muze-nl/federated-timesheets-tests",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "CYB",
+  "owner": {
+   "login": "pondersource"
+  },
+  "url": "https://github.com/pondersource/CYB",
+  "description": "PHP code to Connect Your Books",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "prejournal",
+  "owner": {
+   "login": "pondersource"
+  },
+  "url": "https://github.com/pondersource/prejournal",
+  "homepageUrl": "https://pondersource.github.io/prejournal/",
+  "description": "An experimental bookkeeping tool that sits between source documents and journals",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/timesh"
+   ],
+   "exposed": true
+  }
+ }
+]
