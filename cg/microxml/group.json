@@ -1,15 +1,14 @@
 {
  "id": 56585,
  "name": "MicroXML Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-07-16",
  "description": "MicroXML is a subset of XML intended for use in contexts where full XML is, or is perceived to be, too large and complex. MicroXML provides a set of rules for defining markup languages intended for use in encoding data objects, and specifies behavior for certain software modules that access them.\r\n",
  "shortname": "microxml",
+ "closed_date": "2023-03-28",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/microxml"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/microxml/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/microxml/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/microxml"
   }
  },
- "identifier": "cg/microxml"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/microxml",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1221",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#microxml",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1221"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1221/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1222",
+   "title": "public-microxml (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-microxml/",
+    "shortdesc": "public-microxml",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1222"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1222/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1220",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/microxml/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1220"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1220/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1219",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/microxml/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1219"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1219/groups"
+     }
+    }
+   }
+  }
+ ]
 }
