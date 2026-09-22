@@ -1,15 +1,14 @@
 {
  "id": 127870,
  "name": "Rebase Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2020-12-01",
  "description": "The goal of this community group is to establish reliable Public Key Infrastructure on the Internet in a privacy-preserving way by allowing people and organizations to link their various public and semi-public accounts to cryptographic key materials at their own will.",
  "shortname": "rebase",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/rebase"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/rebase/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/rebase/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rebase"
   }
  },
- "identifier": "cg/rebase"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/rebase",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/25997",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#rebase",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25997"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25997/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25998",
+   "title": "public-rebase (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rebase/",
+    "shortdesc": "public-rebase",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25998"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25998/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25996",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/rebase/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25996"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25996/groups"
+     }
+    }
+   }
+  }
+ ]
 }
