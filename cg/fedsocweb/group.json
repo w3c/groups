@@ -1,0 +1,113 @@
+{
+ "id": 51813,
+ "name": "Federated Social Web Community Group",
+ "is_closed": true,
+ "creation-date": "2012-01-12",
+ "description": "<p>This group is closed; see also the <a rel=\"nofollow\" href=\"https://www.w3.org/community/socialcg/\">Social Web Incubator Community Group</a>.</p>\r\n\r\nThis group continues the work of the <a href=\"http://www.w3.org/2005/Incubator/federatedsocialweb/\">W3C Federated Social Web Incubator Group</a>.",
+ "shortname": "fedsocweb",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/fedsocweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/fedsocweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/fedsocweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/fedsocweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/fedsocweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/fedsocweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/fedsocweb"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/fedsocweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/902",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#fedsocweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/902"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/902/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/903",
+   "title": "public-fedsocweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-fedsocweb/",
+    "shortdesc": "public-fedsocweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/903"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/903/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/901",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/fedsocweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/901"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/901/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/900",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2005/Incubator/federatedsocialweb/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/900"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/900/groups"
+     }
+    }
+   }
+  }
+ ]
+}
