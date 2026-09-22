@@ -1,0 +1,73 @@
+{
+ "id": 34340,
+ "name": "Web Services Choreography Working Group",
+ "is_closed": true,
+ "shortname": "ws-chor",
+ "closed_date": "2009-07-10",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2002/ws/chor/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/charters/396"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/wg/ws-chor/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/wg/ws-chor/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/wg/ws-chor/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/ws-chor"
+  }
+ },
+ "type": "working group",
+ "start-date": "2003-01-14",
+ "end-date": "2007-12-31",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "wg",
+ "identifier": "wg/ws-chor",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1801",
+   "title": "member-ws-chor (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-ws-chor/",
+    "shortdesc": "member-ws-chor",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1801"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1801/groups"
+     }
+    }
+   }
+  }
+ ]
+}
