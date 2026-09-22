@@ -1,15 +1,14 @@
 {
  "id": 101721,
  "name": "Digital Asset Management Industry Business Ontology Community Group",
- "is_closed": false,
- "description": "The mission of Digital Asset Management Business Ontology Community Group is to propose, discuss, create and maintain extensions to schema.org related to the Digital Asset Management Industry. ",
+ "is_closed": true,
+ "creation-date": "2017-08-22",
+ "description": "The mission of Digital Asset Management Business Ontology Community Group is to propose, discuss, create and maintain extensions to schema.org related to the Digital Asset Management Industry.",
  "shortname": "digitalassetmanagement",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/digitalassetmanagement"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/digitalassetmanagement/"
   },
@@ -27,8 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/digitalassetmanagement/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/digitalassetmanagement"
   }
  },
  "type": "community group",
- "identifier": "cg/digitalassetmanagement"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/digitalassetmanagement",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12220",
+   "title": "internal-digitalassetmanagement (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-digitalassetmanagement/",
+    "shortdesc": "internal-digitalassetmanagement",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12220"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12220/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12217",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#digitalassetmanagement",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12217"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12217/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12218",
+   "title": "public-digitalassetmanagement (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digitalassetmanagement/",
+    "shortdesc": "public-digitalassetmanagement",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12218"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12218/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12216",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/digitalassetmanagement/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12216"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12216/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12227",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/digitalassetmanagement/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12227"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12227/groups"
+     }
+    }
+   }
+  }
+ ]
 }
