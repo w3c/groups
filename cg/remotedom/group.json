@@ -1,0 +1,113 @@
+{
+ "id": 65912,
+ "name": "Remote DOM Community Group",
+ "is_closed": true,
+ "creation-date": "2013-08-27",
+ "description": "See the <a rel=\"nofollow\" href=\"https://www.w3.org/community/webscreens\">Web Screens Community Group</a> and the <a rel=\"nofollow\" href=\"https://www.w3.org/2014/secondscreen/\">Second Screen Working Group</a> instead.\r\n\r\nSimilarly to how the Shadow DOM paved the way for custom elements using web technologies, a \"Remote DOM\" could allow display of portions of the web app to be displayed on \"remote\" (i.e. \"external\") devices, such as screens, Smart TVs, etc.\r\n\r\nThis brings interesting capabilities to web apps, such as leveraging external screens for presentation, supplemental content or second screen experiences.",
+ "shortname": "remotedom",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/remotedom/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/remotedom/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/remotedom/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/remotedom/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/remotedom/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/remotedom/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/remotedom"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/remotedom",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1605",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#remotedom",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1605"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1605/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1606",
+   "title": "public-remotedom (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-remotedom/",
+    "shortdesc": "public-remotedom",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1606"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1606/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1604",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/remotedom/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1604"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1604/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1603",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/remotedom/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1603"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1603/groups"
+     }
+    }
+   }
+  }
+ ]
+}
