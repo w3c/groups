@@ -1,0 +1,95 @@
+{
+ "id": 112121,
+ "name": "Computational Legal Decision Support Community Group",
+ "is_closed": true,
+ "creation-date": "2019-01-08",
+ "description": "Open access of citizens to public information is fundamental for the effective functioning of (democratic) systems.  Within the judicial branch this is often guarded both at local as well as at national level.\r\n\r\nThe Computational Legal Decision Support community group (CLaDS) considers: the data sources for the system, i.e., documents describing proceedings of lawsuits; scalability of a prototype, i.e., how the data is to be meaningfully represented within the system; distinctions in regard to (semantic) judicial vocabularies; applications outside the legal domain.\r\n\r\nThe group is in incipient phase and contributions are welcome. Our current focus is:\r\na) the exploration of availability of formal litigations\r\nb) specification of the formal means of representation of lawsuit proceedings / legal knowledge.\r\n\r\nA extensive proposal is available at ssrn.com/abstract=2938453 .",
+ "shortname": "clads",
+ "closed_date": "2019-06-01",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/clads/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/clads/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/clads/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/clads/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/clads/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/clads/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/clads"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/clads",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15532",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#clads",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15532"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15532/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15533",
+   "title": "public-clads (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-clads/",
+    "shortdesc": "public-clads",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15533"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15533/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15531",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/clads/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15531"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15531/groups"
+     }
+    }
+   }
+  }
+ ]
+}
