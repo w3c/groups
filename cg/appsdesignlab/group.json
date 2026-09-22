@@ -1,15 +1,14 @@
 {
  "id": 106722,
  "name": "AppsDesignLab Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-04-19",
  "description": "Our mission is to design &amp; prototype ideas for mobile platforms and web apps.",
  "shortname": "appsdesignlab",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/appsdesignlab"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/appsdesignlab/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/appsdesignlab/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/appsdesignlab"
   }
  },
- "identifier": "cg/appsdesignlab"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/appsdesignlab",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/13787",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#appsdesignlab",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13787"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13787/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13788",
+   "title": "public-appsdesignlab (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-appsdesignlab/",
+    "shortdesc": "public-appsdesignlab",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13788"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13788/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/13786",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/appsdesignlab/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/13786"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/13786/groups"
+     }
+    }
+   }
+  }
+ ]
 }
