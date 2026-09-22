@@ -1,0 +1,95 @@
+{
+ "id": 57081,
+ "name": "Decoders W3C Brasil Community Group",
+ "is_closed": true,
+ "creation-date": "2012-08-09",
+ "description": "Este grupo pretende reunir discussões sobre os resultados dos eventos de desenvolvimento realizados pelo W3C Brasil e seus produtos resultantes, bem como incentivar reflexões sobre como melhorar, evoluir e manter os aplicativos feitos em atividades como hackdays e hackatons.\r\n\r\nThis group aims to bring together the discussion on development events conducted by the W3C Brazil and its resulting products, as well as encouraging thoughts on how to improve, evolve and maintain applications made in activities like Hackdays and Hackatons.",
+ "shortname": "decodersbrasil",
+ "closed_date": "2015-06-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/decodersbrasil/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/decodersbrasil/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/decodersbrasil/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/decodersbrasil/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/decodersbrasil/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/decodersbrasil/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decodersbrasil"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/decodersbrasil",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1247",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#decodersbrasil",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1247"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1247/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1248",
+   "title": "public-decodersbrasil (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-decodersbrasil/",
+    "shortdesc": "public-decodersbrasil",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1248"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1248/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1246",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/decodersbrasil/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1246"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1246/groups"
+     }
+    }
+   }
+  }
+ ]
+}
