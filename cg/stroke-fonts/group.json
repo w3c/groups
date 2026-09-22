@@ -1,15 +1,14 @@
 {
  "id": 79043,
  "name": "Stroke Fonts Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-06-05",
  "description": "<h3>An attempt to find ways of using stroke fonts in design workflows</h3>\r\n\r\nA stroked font is based on the idea of describing a collection of glyphs by their center line or the movement of a pen rather than their outlines. The center line, or skeleton, would then be styled either from inside the font, either from any software that acts downstream on the text, according to parameters that are yet to be defined. But might be based on the concept of an object following a path.\r\n\r\nThis could be a very different approach than those embedded in the font formats currently in wide use. There will be a lot of issues to address for this to move forward. Drawing letters from their skeleton allow users for other styling options, but also allows the computer for a larger understanding of a glyphs shape as a whole or it's important features, regions, parts. Based on this understanding it woud be easier to algorithmically alter these glyphs' shapes -- while composing texts for example.\r\n\r\nIt would enlarge the scope of what this group aims to do. Going towards a parametric approach of designing fonts, and considering the resulting transformation of the composition process. From fonts to lettering, from typography to writing.\r\n\r\nWe aim to discover, adapt or develop a way to make these fonts usable and stylable in a variety of scenarios, such as web pages, canvas based design tools, as well as pen plotters, CNC, PCP and cartography design environments.",
  "shortname": "stroke-fonts",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/stroke-fonts"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/stroke-fonts/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/stroke-fonts/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/stroke-fonts"
   }
  },
- "identifier": "cg/stroke-fonts"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/stroke-fonts",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6088",
+   "title": "internal-stroke-fonts (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-stroke-fonts/",
+    "shortdesc": "internal-stroke-fonts",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6088"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6088/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6085",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#stroke-fonts",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6085"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6085/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6086",
+   "title": "public-stroke-fonts (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-stroke-fonts/",
+    "shortdesc": "public-stroke-fonts",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6086"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6086/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6084",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/stroke-fonts/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6084"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6084/groups"
+     }
+    }
+   }
+  }
+ ]
 }
