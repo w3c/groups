@@ -1,0 +1,132 @@
+{
+ "id": 71470,
+ "name": "Automated WCAG Monitoring Community Group",
+ "is_closed": true,
+ "creation-date": "2014-05-12",
+ "description": "<p><strong>This group has been replaced by the <a href=\"https://www.w3.org/community/act-r/\">ACT Rules Community Group</a>.</strong></p>\r\n\r\nCreating (semi-)automated tests for WCAG is key to affordable, large scale research. The tests are designed in a way that they are useable by people with a variety of skills. The results too should be informative, not just to developers, but to website managers, policy makers and disability advocates and others.\r\n\r\nThe objective of this community is to create and maintain tests that can be implemented in large scale monitoring tools for web accessibility. These tests will be either automated, or semi-automated, in which tools assist non-expert users to evaluate web accessibility. By comparing the test results with results from expert accessibility evaluators, we aim to track the accuracy of the tests we've developed. This allows for an iterative improvement and adjustment of the tests as web development practices change and evolve. It also provides the statistical bases on which large scale accessibility monitoring and benchmarking can be built.\r\n\r\nThis group will not publish specifications.",
+ "shortname": "auto-wcag",
+ "closed_date": "2020-02-03",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/auto-wcag/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/auto-wcag/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/auto-wcag/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/auto-wcag/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/auto-wcag/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/auto-wcag/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/auto-wcag"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/auto-wcag",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2036",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#auto-wcag",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2036"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2036/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2037",
+   "title": "public-auto-wcag (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-auto-wcag/",
+    "shortdesc": "public-auto-wcag",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2037"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2037/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2035",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/auto-wcag/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2035"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2035/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2040",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/auto-wcag/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2040"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2040/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5890",
+   "title": "X (X)",
+   "details": {
+    "closed": false,
+    "type": "x",
+    "link": "https://x.com/autowcag",
+    "shortdesc": "X",
+    "longdesc": "Automated WCAG Monitoring Community Group on X",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5890"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5890/groups"
+     }
+    }
+   }
+  }
+ ]
+}
