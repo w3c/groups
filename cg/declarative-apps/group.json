@@ -1,15 +1,14 @@
 {
  "id": 69757,
  "name": "Declarative Linked Data Apps Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2014-02-18",
  "description": "The mission of this group is to produce a specification that describes how Web and Linked Data applications can be built using declarative technologies only, minimizing the need for source code.\r\n\r\nCurrent software development models involve writing source code (mostly in imperative languages) and building programs from it. Source code is prone to bugs, and managing it requires developers. The declarative approach is instead to push as much application logic from source code to data, so that the application can be managed and reused as data itself, while the software become generic and application-independent.\r\n\r\nThis approach is related to functional languages and to processing pipelines. The generic software works as a processor: it takes the incoming request and the declarative application description and runs it through a pipeline, first retrieving the state of the requested resource (or changing it) and then rendering it into the requested format, such as a Web page. This is similar to an XSLT processor transforming XML documents.\r\n\r\nGraphity is a production-level platform for declarative end-user Linked Data applications with an RDF triplestore backend. It processes ontologies describing application structure, which seemlesly combine multiple declarative technolgies: URI templates, SPIN SPARQL templates, XSLT stylesheets (both server- and client-side), and RDF/POST encoding.\r\n\r\nPlease join this group if you're interested in any practical or theoretical aspects of Linked Data, declarative technologies, or Graphity software.",
  "shortname": "declarative-apps",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/declarative-apps"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/declarative-apps/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/declarative-apps/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/declarative-apps"
   }
  },
- "identifier": "cg/declarative-apps"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/declarative-apps",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15498",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/AtomGraph/Linked-Data-Templates",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15498"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15498/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1962",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#declarative-apps",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1962"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1962/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1963",
+   "title": "public-declarative-apps (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-declarative-apps/",
+    "shortdesc": "public-declarative-apps",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1963"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1963/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1961",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/declarative-apps/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1961"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1961/groups"
+     }
+    }
+   }
+  }
+ ]
 }
