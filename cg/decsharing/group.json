@@ -1,15 +1,14 @@
 {
  "id": 77570,
  "name": "Decentralized Sharing Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2015-04-08",
  "description": "The goal is to work on interoperable sharing between decentralized platforms. The idea is not to design the perfect protocol but find a consensus that would lead to an interoperable data exchange with sync capabilities, access control, discovery, etc.",
  "shortname": "decsharing",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/decsharing"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/decsharing/"
   },
@@ -27,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/decsharing/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/decsharing"
   }
  },
  "type": "community group",
- "identifier": "cg/decsharing"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/decsharing",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/5989",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#decsharing",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5989"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5989/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5990",
+   "title": "public-decsharing (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-decsharing/",
+    "shortdesc": "public-decsharing",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5990"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5990/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/5988",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/decsharing/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/5988"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/5988/groups"
+     }
+    }
+   }
+  }
+ ]
 }
