@@ -1,0 +1,49 @@
+{
+ "id": 50861,
+ "name": "Web Intents Task Force",
+ "is_closed": true,
+ "shortname": "web-intents",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/wiki/WebIntents"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/web-intents/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/web-intents/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/web-intents/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/web-intents"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/web-intents",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1797",
+   "title": "public-web-intents (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-intents/",
+    "shortdesc": "public-web-intents",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1797"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1797/groups"
+     }
+    }
+   }
+  }
+ ]
+}
