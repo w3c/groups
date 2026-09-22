@@ -1,0 +1,113 @@
+{
+ "id": 67257,
+ "name": "Resilient Web Community Group",
+ "is_closed": true,
+ "creation-date": "2013-10-21",
+ "description": "Situations of interrupted work caused by accidental loss of connectivity or by intentional offline work are very frequent. Concerned by the negative effects of interruptions in users’ activities, we are investigating a new approach for the design and development of Web applications resilient to interruptions. In order to help users to recover from interruptions whilst navigating Web sites we propose a model-based approach. With this model we are able to design web interaction and to make decisions about how web sites are going to behave when they are interrupted due to a lack of connectivity.\r\n\r\nThe aim of this group is not to create a way to make offline applications over the web, but we use the features provided by the HTML standard to make user interaction with web sites \"interruption resilient”. We’ll work in defining the elements for making users interaction with the web resilient to interruptions.",
+ "shortname": "resilientweb",
+ "closed_date": "2015-06-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/resilientweb/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/resilientweb/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/resilientweb/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/resilientweb/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/resilientweb/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/resilientweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/resilientweb"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/resilientweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1715",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#resilientweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1715"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1715/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1716",
+   "title": "public-resilientweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-resilientweb/",
+    "shortdesc": "public-resilientweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1716"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1716/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1714",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/resilientweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1714"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1714/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1713",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/resilientweb/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1713"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1713/groups"
+     }
+    }
+   }
+  }
+ ]
+}
