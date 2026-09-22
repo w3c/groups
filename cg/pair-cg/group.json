@@ -1,15 +1,14 @@
 {
  "id": 125912,
  "name": "Performing Arts Information Representation Community Group",
- "is_closed": false,
- "description": "Performing Arts Information Representation (PAIR) is a community group dedicated to advancing the use of shared conceptual models for better data interoperability in the performing arts domain. This domain stands to gain tremendous benefit from using Semantic Web technologies as it relies on the interoperability of information across many fields such as event publishing and discovery, digital archiving, and research (to name a few).  \r\n\r\nThe group’s mission is to support the development and use of semantic vocabularies and common representational frameworks to ensure the meaningful sharing and aggregation of information related to the performing arts. \r\n\r\nThis Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements while bringing together key stakeholders. The group will act as an advocate for representational standardization in the performing arts sector. \r\n\r\nPAIR will strive to develop mutually beneficial collaborations with groups and organizations that are actively working on relevant standards and/or implementations. In particular, the group will work to develop extensions to existing representational standards such as Schema.org and Wikidata so that Performing Arts information can be better understood by search engines and other web applications. \r\n\r\nWhile designing, maintaining and revising vocabularies and foundational specifications for the performing arts, the group will make efforts to involve the performing arts community at large through solicitation of requests, comments and suggestions from non PAIR members. This may take the form of symposiums, workshops, events or community curated open resources. \r\n",
+ "is_closed": true,
+ "creation-date": "2020-09-03",
+ "description": "Performing Arts Information Representation (PAIR) is a community group dedicated to advancing the use of shared conceptual models for better data interoperability in the performing arts domain. This domain stands to gain tremendous benefit from using Semantic Web technologies as it relies on the interoperability of information across many fields such as event publishing and discovery, digital archiving, and research (to name a few). \r\n\r\nThe group’s mission is to support the development and use of semantic vocabularies and common representational frameworks to ensure the meaningful sharing and aggregation of information related to the performing arts. \r\n\r\nThis Community Group provides a forum for the exchange of ideas and experiences, scenarios and requirements while bringing together key stakeholders. The group will act as an advocate for representational standardization in the performing arts sector. \r\n\r\nPAIR will strive to develop mutually beneficial collaborations with groups and organizations that are actively working on relevant standards and/or implementations. In particular, the group will work to develop extensions to existing representational standards such as Schema.org and Wikidata so that Performing Arts information can be better understood by search engines and other web applications.\r\n\r\nWhile designing, maintaining and revising vocabularies and foundational specifications for the performing arts, the group will make efforts to involve the performing arts community at large through solicitation of requests, comments and suggestions from non PAIR members. This may take the form of symposiums, workshops, events or community curated open resources.",
  "shortname": "pair-cg",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/pair-cg"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/pair-cg/"
   },
@@ -27,43 +26,103 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/pair-cg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/pair-cg"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/pair-cg",
  "services": [
   {
-   "href": "https://api.w3.org/services/25962",
-   "title": "RSS"
-  },
-  {
-   "href": "https://api.w3.org/services/25963",
-   "title": "Chat"
-  },
-  {
-   "href": "https://api.w3.org/services/25964",
-   "title": "Mailing List"
-  },
-  {
-   "href": "https://api.w3.org/services/25965",
-   "title": "Mailing List"
-  },
-  {
    "href": "https://api.w3.org/services/43843",
-   "title": "Version Control",
+   "title": "GitHub (Version Control)",
    "details": {
+    "closed": false,
     "type": "repository",
     "link": "https://github.com/pair-cg/milopa",
     "shortdesc": "GitHub",
-    "longdesc": "GitHub",
-    "external": true,
-    "closed": false,
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/43843"
      },
      "groups": {
       "href": "https://api.w3.org/services/43843/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25965",
+   "title": "internal-pair-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-pair-cg/",
+    "shortdesc": "internal-pair-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25965"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25965/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25963",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#pair-cg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25963"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25963/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25964",
+   "title": "public-pair-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-pair-cg/",
+    "shortdesc": "public-pair-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25964"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25964/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25962",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/pair-cg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25962"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25962/groups"
      }
     }
    }
