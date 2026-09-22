@@ -1,15 +1,14 @@
 {
  "id": 52409,
  "name": "Web of Sensors Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-02-12",
  "description": "This group explores how the Web platform could interact with sensors around us. For instance, how do we hook up an Arduino and interact with it through the Web platform? \r\n\r\nThe scope is to explore we can safely expose sensor data to the Web platform in way that protects user's privacy and meets the needs of developers. ",
  "shortname": "sensorweb",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/sensorweb"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/sensorweb/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/sensorweb/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sensorweb"
   }
  },
- "identifier": "cg/sensorweb"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/sensorweb",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/951",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sensorweb",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/951"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/951/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/952",
+   "title": "public-sensorweb (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sensorweb/",
+    "shortdesc": "public-sensorweb",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/952"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/952/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/950",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sensorweb/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/950"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/950/groups"
+     }
+    }
+   }
+  }
+ ]
 }
