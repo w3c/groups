@@ -1,0 +1,95 @@
+{
+ "id": 66728,
+ "name": "Hyper Application Markup Language Community Group",
+ "is_closed": true,
+ "creation-date": "2013-09-30",
+ "description": "Hyper Application Markup Language (HAML) will describe a structure of a web application in a similar way like HTML describe a structure of a single page. If HTML standard allows to create World Wide Web of hyperlinked documents, HAML will allow to create a World Wide Application a Web of hyperlinked reusable micro applications.",
+ "shortname": "haml",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/haml/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/haml/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/haml/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/haml/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/haml/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/haml/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/haml"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/haml",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1666",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#haml",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1666"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1666/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1667",
+   "title": "public-haml (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-haml/",
+    "shortdesc": "public-haml",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1667"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1667/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1665",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/haml/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1665"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1665/groups"
+     }
+    }
+   }
+  }
+ ]
+}
