@@ -1,0 +1,30 @@
+{
+ "id": 54943,
+ "name": "Media Capture Task Force",
+ "is_closed": true,
+ "shortname": "media-capture",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/wiki/Media_Capture"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/media-capture/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/media-capture/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/media-capture/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/media-capture"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/media-capture",
+ "group-type": "tf",
+ "services": []
+}
