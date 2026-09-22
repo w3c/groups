@@ -1,0 +1,113 @@
+{
+ "id": 53844,
+ "name": "Digital Publication Community Group",
+ "is_closed": true,
+ "creation-date": "2012-03-23",
+ "description": "This group is closed; For discussion on this topic, please refer to the Digital Publishing Interest Group: http://www.w3.org/dpub/IG/\r\n\r\nThe growth of the tablet and eReader market, and changes in scholarly publishing, have shown the accelerating impact of the Open Web Platform on digital publishing. For example, ePUB 3.0 no longer subsets W3C standards like HTML5, CSS, SVG, MathML, and Javascript APIs, but uses them in full. It also extends them to cover the various needs of digital publishing. These extensions, and continuing fragmentation among devices, formats, publishers, and distribution networks, suggest an opportunity for W3C to address publishing industry use cases, from novels and prose through to scientific and scholarly publishing, medical and legal publishing, interactive children's books, magazines and more.\r\n\r\nThe initial aim of the Digital Publication Community Group will be to determine if W3C should invest more heavily in digital publication, and if so, what role it should play.  The CG will establish and strengthen active liaisons with existing digital publishing fora, such as the International Digital Publishing Forum (IDPF) which oversees the ePUB specification, as well as digital publishers and distributors of all types.\r\n\r\nThe Digital Publication Community Group will also explore the idea of one or more workshop on the topic, and provide a forum for open discussions on the future of digital publishing, specifically:\r\n\r\n* reducing market fragmentation\r\n* describing traditional and emerging publishing workflows, from the technology perspective\r\n* creating scenarios and requirements to drive future standardization in W3C Working Groups, including layout, internationalization, security, accessibility, content protection, metadata, and vocabularies.\r\n\r\nThis group will not publish Specifications.",
+ "shortname": "digipub",
+ "closed_date": "2013-12-05",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/digipub/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/digipub/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/digipub/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/digipub/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/digipub/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/digipub/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/digipub"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/digipub",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1047",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#digipub",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1047"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1047/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1048",
+   "title": "public-digipub (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-digipub/",
+    "shortdesc": "public-digipub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1048"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1048/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1046",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/digipub/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1046"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1046/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1045",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/digipub/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1045"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1045/groups"
+     }
+    }
+   }
+  }
+ ]
+}
