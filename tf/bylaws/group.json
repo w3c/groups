@@ -1,28 +1,28 @@
 {
  "id": 137670,
  "name": "W3C Bylaws Task Force",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-05-03",
  "shortname": "bylaws",
- "members": [],
- "internal": false,
- "participants_list_public": false,
+ "closed_date": "2022-11-30",
  "discr": "tf",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/tf/bylaws"
-  },
   "homepage": {
    "href": "https://www.w3.org/Member/wiki/Governance-tf/bylaws"
-  },
-  "users": {
-   "href": "https://api.w3.org/groups/tf/bylaws/users"
   },
   "services": {
    "href": "https://api.w3.org/groups/tf/bylaws/services"
   },
   "chairs": {
    "href": "https://api.w3.org/groups/tf/bylaws/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/bylaws"
   }
  },
- "identifier": "tf/bylaws"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/bylaws",
+ "group-type": "tf",
+ "services": []
 }
