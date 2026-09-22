@@ -1,15 +1,14 @@
 {
  "id": 142288,
  "name": "Blockchain Naming System Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2023-02-04",
  "description": "Explore blockchain based naming system used to name wallets and other objects stored in blockchains, such as non-fungible tokens.\r\n\r\nBlockchain elements are referred to by a long hexadecimal string. Just like IPv6 addresses, those are hard to remember. Creating human-friendly names that resolve to those strings was deemed an important step for the early adoption of blockchain technologies. Early blockchain developers did not develop DNS extensions for that purpose. They created entirely new alternative naming systems based on the particular blockchain they were working on. \r\nWe are exploring all options for a unified web based solution to the problem.",
  "shortname": "blockchain-names",
+ "closed_date": "2023-02-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/blockchain-names"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/blockchain-names/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/blockchain-names/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/blockchain-names"
   }
  },
- "identifier": "cg/blockchain-names"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/blockchain-names",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/40692",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#blockchain-names",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40692"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40692/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40693",
+   "title": "public-blockchain-names (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-blockchain-names/",
+    "shortdesc": "public-blockchain-names",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40693"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40693/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/40691",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/blockchain-names/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40691"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40691/groups"
+     }
+    }
+   }
+  }
+ ]
 }
