@@ -1,0 +1,113 @@
+{
+ "id": 75010,
+ "name": "Spec Annotation Community Group",
+ "is_closed": true,
+ "creation-date": "2014-11-24",
+ "description": "The current W3C process for commenting on specifications is complicated and discouraging to users. Discovering previous comments is also challenging, and leads to lost time. It's also difficult for spec editors to matching out-of-band comments sent through email or issue-trackers to the spec itself. Having an annotation sidebar that lets users create, review, and resolve spec comments would make the workflow much easier.\r\n\r\nFor the past several months, the WebPlatform.org team has been working to integrate the Annotator project to allow spec annotations, and it is ready for experimental use for W3C working groups. The Spec Annotation Community Group will collect use cases and requirements, feature requests, and bug reports, and will help coordinate feature implementation and bug fixes as well as integration with other open annotation systems.\r\n\r\nThis group will not publish specifications.",
+ "shortname": "spec-annotation",
+ "closed_date": "2016-04-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/spec-annotation/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/spec-annotation/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/spec-annotation/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/spec-annotation/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/spec-annotation/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/spec-annotation/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/spec-annotation"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/spec-annotation",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2117",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#spec-annotation",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2117"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2117/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2118",
+   "title": "public-spec-annotation (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-spec-annotation/",
+    "shortdesc": "public-spec-annotation",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2118"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2118/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2116",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/spec-annotation/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2116"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2116/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2126",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/spec-annotation/wiki",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2126"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2126/groups"
+     }
+    }
+   }
+  }
+ ]
+}
