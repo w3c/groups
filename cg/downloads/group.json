@@ -1,0 +1,95 @@
+{
+ "id": 62370,
+ "name": "Downloads Enhanced Community Group",
+ "is_closed": true,
+ "creation-date": "2013-04-02",
+ "description": "The purpose of this group is to enhance the download process via advanced features such as integrity, error correction, improved user experience, fault tolerance (usage of mirrors or a CDN), peer-to-peer integration, and others that are useful.",
+ "shortname": "downloads",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/downloads/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/downloads/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/downloads/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/downloads/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/downloads/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/downloads/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/downloads"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/downloads",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1468",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#downloads",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1468"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1468/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1469",
+   "title": "public-downloads (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-downloads/",
+    "shortdesc": "public-downloads",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1469"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1469/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1467",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/downloads/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1467"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1467/groups"
+     }
+    }
+   }
+  }
+ ]
+}
