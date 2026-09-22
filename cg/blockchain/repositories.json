@@ -1,18 +1,18 @@
 [
  {
-  "name": "blockchain",
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-ledger",
   "owner": {
    "login": "w3c"
   },
-  "description": "Discussion of blockchains for the Blockchain Community Group and workshops",
-  "isArchived": true,
+  "url": "https://github.com/w3c/web-ledger",
+  "homepageUrl": "https://w3c.github.io/web-ledger/",
+  "description": "A format and protocol for decentralized Ledgers on the Web",
+  "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/blockchain"
-   ],
-   "repo-type": [
-    "cg-report"
    ],
    "exposed": true
   }
