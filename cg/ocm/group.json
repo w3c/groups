@@ -1,15 +1,14 @@
 {
  "id": 148948,
  "name": "Open Cloud Mesh Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2023-10-05",
  "description": "Open Cloud Mesh (OCM) is a server federation protocol used to notify a Receiving Party that they have been granted access to some Resource. A core use case of OCM is when a user (e.g., Alice on System A) wishes to share a resource (e.g., a file) with another user (e.g., Bob on System B) without transferring the resource itself or requiring Bob to log in to System A.\r\n\r\nThis Community Group hosted the OCM collaboration and protocol specification effort, which is being developed by the <a href=\"https://www.cs3community.org\">CS3 Community</a>.\r\n\r\nIn July 2025, work in this group was transferred to the IETF with the objective to initiate their Standardization Process. OCM discussions now take place on an <a href=\"https://mailman3.ietf.org/mailman3/lists/ocm.ietf.org/\">IETF Mailing list</a> with the expectation to form a Working Group.",
  "shortname": "ocm",
+ "closed_date": "2025-08-27",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/ocm"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/ocm/"
   },
@@ -27,9 +26,13 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/ocm/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/ocm"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
  "identifier": "cg/ocm",
