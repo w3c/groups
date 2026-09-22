@@ -1,15 +1,14 @@
 {
  "id": 47953,
  "name": "XML Performance Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-06-29",
  "description": "The Mission of the XML Performance Community Group is to determine the requirements, use cases to get performance measurements of the whole XML technology stack.\r\nOne of the goal is to be able to understand how XML (versus other technologies) could be used as ground to make efficient processing and identifies bottlenecks and features of this XML stack. One later goal will be to compare XML implementations among them. To do so, we might give hint on defining Efficient Profiles of existing Specifications.",
  "shortname": "xmlperf",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/xmlperf"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/xmlperf/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/xmlperf/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/xmlperf"
   }
  },
- "identifier": "cg/xmlperf"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/xmlperf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/354",
+   "title": "public-xmlperf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-xmlperf/",
+    "shortdesc": "public-xmlperf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/354"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/354/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/346",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/xmlperf/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/346"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/346/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/345",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/xmlperf/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/345"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/345/groups"
+     }
+    }
+   }
+  }
+ ]
 }
