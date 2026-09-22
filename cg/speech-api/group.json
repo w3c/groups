@@ -1,15 +1,14 @@
 {
  "id": 54172,
  "name": "Speech API Community Group",
- "is_closed": false,
- "description": "The goal and scope of this Community Group is to produce a JavaScript Speech API that supports the majority of use-cases in the the Speech Incubator Group's Final Report [1], but is a simplified subset API, such as this proposal [2]. For this initial specification, we believe that a simplified subset API will accelerate implementation, interoperability testing, standardization and ultimately developer adoption. This JavaScript Speech API will enable web developers to incorporate scripts into their web pages that can generate text-to-speech output and can use speech recognition as an input for forms, continuous dictation and control. Specification of HTML markup and a network speech protocol are out-of-scope of this Community Group.\r\n\r\n[1] http://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech/\r\n[2] http://lists.w3.org/Archives/Public/public-webapps/2011OctDec/att-1696/speechapi.html",
+ "is_closed": true,
+ "creation-date": "2012-04-03",
+ "description": "The goal and scope of this Community Group is to produce a JavaScript Speech API that supports the majority of use-cases in <a href=\"http://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech/\">the Speech Incubator Group's Final Report</a>, but is a simplified subset API, such as <a href=\"http://lists.w3.org/Archives/Public/public-webapps/2011OctDec/att-1696/speechapi.html\">this proposal</a>. For this initial specification, we believe that a simplified subset API will accelerate implementation, interoperability testing, standardization and ultimately developer adoption. This JavaScript Speech API will enable web developers to incorporate scripts into their web pages that can generate text-to-speech output and can use speech recognition as an input for forms, continuous dictation and control. Specification of HTML markup and a network speech protocol are out-of-scope of this Community Group.",
  "shortname": "speech-api",
+ "closed_date": "2023-03-27",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/speech-api"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/speech-api/"
   },
@@ -27,7 +26,106 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/speech-api/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/speech-api"
   }
  },
- "identifier": "cg/speech-api"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/speech-api",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15483",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/speech-api/",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15483"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15483/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1078",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#speech-api",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1078"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1078/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1079",
+   "title": "public-speech-api (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-speech-api/",
+    "shortdesc": "public-speech-api",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1079"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1079/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1080",
+   "title": "public-speech-api-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-speech-api-contrib/",
+    "shortdesc": "public-speech-api-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1080"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1080/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1077",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/speech-api/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1077"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1077/groups"
+     }
+    }
+   }
+  }
+ ]
 }
