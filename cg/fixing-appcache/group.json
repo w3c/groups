@@ -1,0 +1,113 @@
+{
+ "id": 50579,
+ "name": "Fixing Application Cache Community Group",
+ "is_closed": true,
+ "creation-date": "2011-11-06",
+ "description": "This is a group for coordination between developers in the broader community, browser vendors, and specification writers about addressing the existing issues with Application Cache.\r\n\r\nThis group is now closed; see http://lists.w3.org/Archives/Public/public-fixing-appcache/2013Feb/0005.html",
+ "shortname": "fixing-appcache",
+ "closed_date": "2013-02-15",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/fixing-appcache/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/fixing-appcache/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/fixing-appcache/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/fixing-appcache/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/fixing-appcache/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/fixing-appcache/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/fixing-appcache"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/fixing-appcache",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/789",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#fixing-appcache",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/789"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/789/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/790",
+   "title": "public-fixing-appcache (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-fixing-appcache/",
+    "shortdesc": "public-fixing-appcache",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/790"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/790/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/788",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/fixing-appcache/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/788"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/788/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/787",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/fixing-appcache/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/787"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/787/groups"
+     }
+    }
+   }
+  }
+ ]
+}
