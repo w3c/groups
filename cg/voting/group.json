@@ -1,0 +1,95 @@
+{
+ "id": 71367,
+ "name": "Voting system Community Group",
+ "is_closed": true,
+ "creation-date": "2014-05-06",
+ "description": "There has been lengthy and recurrent discussions about reforming the voting system for AB/TAG elections. \r\n\r\nThe current system is allegedly broken as it is stated by various members, but the AC is not willing to work on this unless someone comes up with a comprehensive explanation and proposal.\r\n\r\nThere are many alternatives:\r\n* pick up one alternative voting system\r\n* work on a tool to create simulation\r\n* use this tool for **non official** ballot at the same time as an official ballot (which would be used with the current systen)\r\n\r\nAll of these items have been proposed in various email threads in w3c-ac-forum and public-w3process list, not repeating the links here for the sake of conciseness.\r\n\r\nThis group will not publish specifications.",
+ "shortname": "voting",
+ "closed_date": "2015-06-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/voting/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/voting/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/voting/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/voting/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/voting/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/voting/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/voting"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/voting",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2029",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#voting",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2029"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2029/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2030",
+   "title": "public-voting (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-voting/",
+    "shortdesc": "public-voting",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2030"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2030/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2028",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/voting/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2028"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2028/groups"
+     }
+    }
+   }
+  }
+ ]
+}
