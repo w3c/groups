@@ -1,15 +1,14 @@
 {
  "id": 47988,
  "name": "Web Education Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-06-29",
  "description": "The Web Education Community Group (CG) aims to evolve the Web and improve the overall skill set of the web industry by improving the quality of available web education resources and courses around the world. To do this, we are engaging in several activities, which are the responsibilities of different projects inside the CG:\r\n\r\n1. Learning material: Creating a comprehensive series of tutorial articles to teach all the W3C technologies, which will constantly be updated so that it remains current and best practice. The main basis of this is currently the Web standards curriculum. \r\n\r\n2. Curriculum: Creating a series of structured courses based on the learning material, which educators from around the world can use to teach web design and development in a consistent, effective way.\r\n\r\n3. Outreach: Contacting educators, companies and trainers and getting them to adopt our learning material and curricula. \r\n\r\n4. Training and certification: Training the trainers to help them teach web design and development more effectively, and formulating a plan to, and researching the feasibility of, partnering with them to provide W3C endorsed qualifications. \r\n\r\n5. Membership and policy: Dealing with issues of membership and policy. \r\n\r\n6. International Education: Different groups responsible for outreach and translations into specific languages to serve groups for whom English is not the primary language. \r\n\r\nFor more information, follow the relevant links in the Pages list.\r\n\r\nPlease note that the Web Education Community Group will not be developing any specifications. \r\n",
  "shortname": "webed",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webed"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webed/"
   },
@@ -27,7 +26,125 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webed/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webed"
   }
  },
- "identifier": "cg/webed"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webed",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/456",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webed",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/456"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/456/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/374",
+   "title": "public-webed (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webed/",
+    "shortdesc": "public-webed",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/374"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/374/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/375",
+   "title": "public-webed-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webed-contrib/",
+    "shortdesc": "public-webed-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/375"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/375/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/716",
+   "title": "public-webed-jp (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webed-jp/",
+    "shortdesc": "public-webed-jp",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/716"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/716/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/373",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webed/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/373"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/373/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/881",
+   "title": "public-webed-tk (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webed-tk/",
+    "shortdesc": "public-webed-tk",
+    "longdesc": "Turkish discussion list about Web Education",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/881"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/881/groups"
+     }
+    }
+   }
+  }
+ ]
 }
