@@ -1,15 +1,14 @@
 {
  "id": 58904,
  "name": "Cartography Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-11-01",
  "description": "The mission of this group is to explore how open data and metadata may be realised through animated maps and games that facilitate forecasting and understanding of risk across knowledge domains. And to help create the necessary tools that are easy to use and produce multimodal accessible resources that engage.\r\n",
  "shortname": "carto",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/carto"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/carto/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/carto/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/carto"
   }
  },
- "identifier": "cg/carto"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/carto",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1317",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#carto",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1317"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1317/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1318",
+   "title": "public-carto (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-carto/",
+    "shortdesc": "public-carto",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1318"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1318/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1316",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/carto/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1316"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1316/groups"
+     }
+    }
+   }
+  }
+ ]
 }
