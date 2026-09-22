@@ -1,15 +1,14 @@
 {
  "id": 135726,
  "name": "Trustworthy AI Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-01-11",
  "description": "The purpose of this community group is to establish and explore the necessary standards, requirements, metrics, and methodologies related to understanding, building, and ensuring trustworthy AI systems.",
  "shortname": "tai",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/tai"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/tai/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/tai/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/tai"
   }
  },
- "identifier": "cg/tai"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/tai",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33309",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#tai",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33309"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33309/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33310",
+   "title": "public-tai (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tai/",
+    "shortdesc": "public-tai",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33310"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33310/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33308",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/tai/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33308"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33308/groups"
+     }
+    }
+   }
+  }
+ ]
 }
