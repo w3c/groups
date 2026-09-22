@@ -1,15 +1,14 @@
 {
  "id": 135981,
  "name": "Galaxy Metaverse Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-01-26",
  "description": "Galaxy Metaverse is a virtual space that will include a real estate, communication such as a use of virtual cell phone, fashion, and entertainment which includes games and money in the metaverse.\r\n",
  "shortname": "gxymet",
+ "closed_date": "2023-02-18",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/gxymet"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/gxymet/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/gxymet/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/gxymet"
   }
  },
- "identifier": "cg/gxymet"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/gxymet",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/33340",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#gxymet",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33340"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33340/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33341",
+   "title": "public-gxymet (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-gxymet/",
+    "shortdesc": "public-gxymet",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33341"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33341/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/33339",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/gxymet/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/33339"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/33339/groups"
+     }
+    }
+   }
+  }
+ ]
 }
