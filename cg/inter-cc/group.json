@@ -1,15 +1,14 @@
 {
  "id": 143566,
  "name": "Inter-Platform Validation for Confidential Computing Community Group",
- "is_closed": false,
- "description": "The mission of this group is to discuss and ultimately formalise a communication framework to enable mutual validation and attestation of workloads performed in distinct confidential computing environments. The goal is to empower developers to leverage seamlessly the developing ecosystem of confidential computing solutions agnostically across vendors and opensource. It is not the motivation of this group to publish reports but rather work on testable deliveries, example implementation, user-stories. This group may publish Specifications. Individuals and organisations with intimate knowledge of the confidential computing world and adjacent topics such as cryptography and privacy are most welcome to participate.",
+ "is_closed": true,
+ "creation-date": "2023-04-05",
+ "description": "<p>The mission of this group is to discuss and ultimately formalise a communication framework to enable mutual validation and attestation of workloads performed in distinct confidential computing environments. The goal is to empower developers to leverage seamlessly the developing ecosystem of confidential computing solutions agnostically across vendors and opensource. It is not the motivation of this group to publish reports but rather work on testable deliveries, example implementation, user-stories. This group may publish Specifications. Individuals and organisations with intimate knowledge of the confidential computing world and adjacent topics such as cryptography and privacy are most welcome to participate.</p>",
  "shortname": "inter-cc",
+ "closed_date": "2024-06-17",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/inter-cc"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/inter-cc/"
   },
@@ -27,26 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/inter-cc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/inter-cc"
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
  "identifier": "cg/inter-cc",
  "services": [
   {
-   "href": "https://api.w3.org/services/40748",
-   "title": "RSS"
-  },
-  {
    "href": "https://api.w3.org/services/40749",
-   "title": "Chat"
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#inter-cc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40749"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40749/groups"
+     }
+    }
+   }
   },
   {
    "href": "https://api.w3.org/services/40750",
-   "title": "Mailing List"
+   "title": "public-inter-cc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-inter-cc/",
+    "shortdesc": "public-inter-cc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40750"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40750/groups"
+     }
+    }
+   }
   },
   {
-   "href": "https://api.w3.org/services/40751",
-   "title": "Mailing List"
+   "href": "https://api.w3.org/services/40748",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/inter-cc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/40748"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/40748/groups"
+     }
+    }
+   }
   }
  ]
 }
