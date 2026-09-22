@@ -38,5 +38,115 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "bg",
- "identifier": "bg/websignage"
+ "identifier": "bg/websignage",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15574",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/web-based-signage-bg",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15574"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15574/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1107",
+   "title": "internal-websignage (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-websignage/",
+    "shortdesc": "internal-websignage",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1107"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1107/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1104",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#websignage",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1104"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1104/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1105",
+   "title": "public-websignage (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-websignage/",
+    "shortdesc": "public-websignage",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1105"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1105/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1103",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/websignage/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1103"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1103/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1102",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/websignage/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1102"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1102/groups"
+     }
+    }
+   }
+  }
+ ]
 }
