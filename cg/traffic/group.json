@@ -1,15 +1,14 @@
 {
  "id": 66775,
  "name": "Traffic Event Ontology Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-10-02",
  "description": "The mission of this group is to design a set of vocabularies and ontologies used to represent road/traffic event and accident data, i.e. involving Event, Vehicle, Juridiction, Accident, Persons, Environment, etc. We plan to re-use existing schema when possible.",
  "shortname": "traffic",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/traffic"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/traffic/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/traffic/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/traffic"
   }
  },
- "identifier": "cg/traffic"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/traffic",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1678",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#traffic",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1678"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1678/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1679",
+   "title": "public-traffic (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-traffic/",
+    "shortdesc": "public-traffic",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1679"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1679/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1677",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/traffic/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1677"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1677/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1676",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/traffic/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1676"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1676/groups"
+     }
+    }
+   }
+  }
+ ]
 }
