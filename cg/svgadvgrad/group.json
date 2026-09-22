@@ -1,0 +1,95 @@
+{
+ "id": 70780,
+ "name": "SVG Advanced Gradients Community Group",
+ "is_closed": true,
+ "creation-date": "2014-04-09",
+ "description": "SVG 2 will include Coon's patch mesh gradients. This group will explore other forms of advanced gradient for inclusion in SVG. Primarily the focus will be on diffusion curves and mesh gradients.\r\n\r\nUltimately, the goal of the group will be to prepare a proposal for consideration by the SVG working group. This community group will work closely with the SVG working group and will report progress regularly.",
+ "shortname": "svgadvgrad",
+ "closed_date": "2015-06-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/svgadvgrad/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/svgadvgrad/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/svgadvgrad/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/svgadvgrad/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/svgadvgrad/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/svgadvgrad/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/svgadvgrad"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/svgadvgrad",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/2012",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#svgadvgrad",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2012"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2012/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2013",
+   "title": "public-svgadvgrad (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-svgadvgrad/",
+    "shortdesc": "public-svgadvgrad",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2013"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2013/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/2011",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/svgadvgrad/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/2011"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/2011/groups"
+     }
+    }
+   }
+  }
+ ]
+}
