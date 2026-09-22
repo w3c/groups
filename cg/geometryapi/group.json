@@ -1,0 +1,113 @@
+{
+ "id": 64420,
+ "name": "Geometry API Community Group",
+ "is_closed": true,
+ "creation-date": "2013-06-24",
+ "description": "<p>This group is closed - see also the <a rel=\"nofollow\" href=\"https://www.w3.org/TR/geometry-1/\">W3C CSS Working Group Geometry API</a>.</p>\r\nThis group is to explore options and features around a native geometry API for operations on points, vectors, matrices, and so forth. Some features would include finding intersection points, centroids, shape area, and other common use cases, as well as specialized case for mapping.",
+ "shortname": "geometryapi",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/geometryapi/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/geometryapi/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/geometryapi/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/geometryapi/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/geometryapi/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/geometryapi/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/geometryapi"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/geometryapi",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1531",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#geometryapi",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1531"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1531/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1532",
+   "title": "public-geometryapi (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-geometryapi/",
+    "shortdesc": "public-geometryapi",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1532"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1532/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1530",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/geometryapi/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1530"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1530/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1529",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/geometryapi/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1529"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1529/groups"
+     }
+    }
+   }
+  }
+ ]
+}
