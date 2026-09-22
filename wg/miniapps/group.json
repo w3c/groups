@@ -1,15 +1,13 @@
 {
  "id": 128558,
  "name": "MiniApps Working Group",
- "is_closed": false,
+ "is_closed": true,
  "creation-date": "2021-01-08",
  "description": "The mission of the MiniApps Working Group is to produce specifications that facilitate the development of interoperable and robust MiniApps.",
  "shortname": "miniapps",
+ "closed_date": "2026-08-26",
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/wg/miniapps"
-  },
   "homepage": {
    "href": "https://www.w3.org/groups/wg/miniapps/"
   },
@@ -42,11 +40,15 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/wg/miniapps/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/wg/miniapps"
   }
  },
  "type": "working group",
  "start-date": "2021-01-19",
  "end-date": "2026-04-12",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
  "identifier": "wg/miniapps",
