@@ -1,0 +1,19 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "HTMLSourcingInbandTracks",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/HTMLSourcingInbandTracks",
+  "description": "Specification for sourcing inband tracks into HTML",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/inbandtracks"
+   ],
+   "exposed": true
+  }
+ }
+]
