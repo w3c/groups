@@ -1,0 +1,73 @@
+{
+ "id": 46342,
+ "name": "Web Performance Interest Group",
+ "is_closed": true,
+ "shortname": "webperf",
+ "closed_date": "2012-08-08",
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/2010/webperf/ig/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/ig/webperf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/ig/webperf/services"
+  },
+  "specifications": {
+   "href": "https://api.w3.org/groups/ig/webperf/specifications"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/ig/webperf/chairs"
+  },
+  "team-contacts": {
+   "href": "https://api.w3.org/groups/ig/webperf/teamcontacts"
+  },
+  "charters": {
+   "href": "https://api.w3.org/groups/ig/webperf/charters"
+  },
+  "active-charter": {
+   "href": "https://api.w3.org/groups/ig/webperf/charters/286"
+  },
+  "join": {
+   "href": "https://www.w3.org/groups/ig/webperf/join"
+  },
+  "pp-status": {
+   "href": "https://www.w3.org/groups/ig/webperf/ipr"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/ig/webperf/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/ig/webperf"
+  }
+ },
+ "type": "interest group",
+ "start-date": "2011-02-08",
+ "end-date": "2012-08-08",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": true,
+ "group-type": "ig",
+ "identifier": "ig/webperf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/203",
+   "title": "public-web-perf-ig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-web-perf-ig/",
+    "shortdesc": "public-web-perf-ig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/203"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/203/groups"
+     }
+    }
+   }
+  }
+ ]
+}
