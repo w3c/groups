@@ -1,14 +1,14 @@
 {
  "id": 54712,
  "name": "Technical Architecture Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-04-24",
  "description": "This group is an open forum for discussing Web architecture, such as that discussed by the W3C Technical Architecture Group (TAG). Web architecture refers to the underlying principles that should be adhered to by Web components (APIs/Markup), whether developed inside or outside W3C. The architecture captures principles that affect such things as understandability, interoperability, scalability, accessibility, and internationalization. We expect to have a strong working relationship with the W3C TAG.",
  "shortname": "opentag",
+ "closed_date": "2023-10-16",
+ "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/opentag"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/opentag/"
   },
@@ -26,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/opentag/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/opentag"
   }
  },
  "type": "community group",
- "identifier": "cg/opentag"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/opentag",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1135",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#opentag",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1135"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1135/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1136",
+   "title": "public-opentag (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-opentag/",
+    "shortdesc": "public-opentag",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1136"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1136/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1134",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/opentag/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1134"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1134/groups"
+     }
+    }
+   }
+  }
+ ]
 }
