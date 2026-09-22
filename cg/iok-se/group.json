@@ -1,0 +1,95 @@
+{
+ "id": 90106,
+ "name": "Internet of Kendo Secure Equipment Community Group",
+ "is_closed": true,
+ "creation-date": "2016-04-20",
+ "description": "Modern Kendo Equipment has been produced based on various standards by\r\nmachines or craftsmen. In the era of Internet of Things, we think\r\nInternational specifications of Kendo Equipment can be organized and\r\ncontrolled by Web technology with security and safety for usage as well as with respect to the original.",
+ "shortname": "iok-se",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/iok-se/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/iok-se/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/iok-se/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/iok-se/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/iok-se/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/iok-se/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/iok-se"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/iok-se",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6332",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#iok-se",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6332"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6332/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6333",
+   "title": "public-iok-se (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-iok-se/",
+    "shortdesc": "public-iok-se",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6333"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6333/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6331",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/iok-se/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6331"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6331/groups"
+     }
+    }
+   }
+  }
+ ]
+}
