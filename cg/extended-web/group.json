@@ -1,0 +1,95 @@
+{
+ "id": 81019,
+ "name": "The Extended Web Community Group",
+ "is_closed": true,
+ "creation-date": "2015-07-20",
+ "description": "The CG would deal with extensions allowing web-pages to communicate with local software as well as with devices connected with NFC/BLE.",
+ "shortname": "extended-web",
+ "closed_date": "2016-04-29",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/extended-web/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/extended-web/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/extended-web/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/extended-web/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/extended-web/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/extended-web/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/extended-web"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/extended-web",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6128",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#extended-web",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6128"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6128/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6129",
+   "title": "public-extended-web (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-extended-web/",
+    "shortdesc": "public-extended-web",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6129"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6129/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6127",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/extended-web/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6127"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6127/groups"
+     }
+    }
+   }
+  }
+ ]
+}
