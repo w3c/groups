@@ -1,0 +1,71 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "core",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/core",
+  "homepageUrl": "http://purl.org/mls",
+  "description": "📚 CORE ontology of ML-Schema and mapping to other machine learning vocabularies and ontologies (DMOP, Exposé, OntoDM, and MEX)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "documentation",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/documentation",
+  "description": "Documentation of the CORE ontology of ML-Schema schema (An upper-level ontology for representing Data Mining and Machine Learning processes)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mex",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/mex",
+  "description": "MEX Vocabulary (a vocabulary part of the ML-Schema working group)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "openml-rdf",
+  "owner": {
+   "login": "ML-Schema"
+  },
+  "url": "https://github.com/ML-Schema/openml-rdf",
+  "description": "Integrating OpenML with Linked Data.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/ml-schema"
+   ],
+   "exposed": true
+  }
+ }
+]
