@@ -51,5 +51,82 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/webplatform"
+ "identifier": "wg/webplatform",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1834",
+   "title": "member-webapps (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-webapps/",
+    "shortdesc": "member-webapps",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1834"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1834/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45906",
+   "title": "public-html-admin (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html-admin/",
+    "shortdesc": "public-html-admin",
+    "longdesc": "Administrativia mailing list ",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45906"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45906/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/25911",
+   "title": "Dashboard (Issue Tracking)",
+   "details": {
+    "closed": false,
+    "type": "tracker",
+    "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83482",
+    "shortdesc": "Dashboard",
+    "longdesc": "Issue Dashboard",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/25911"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/25911/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45898",
+   "title": "public-webapps (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webapps/",
+    "shortdesc": "public-webapps",
+    "longdesc": "main list",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45898"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45898/groups"
+     }
+    }
+   }
+  }
+ ]
 }
