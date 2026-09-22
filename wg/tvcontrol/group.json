@@ -51,5 +51,25 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/tvcontrol"
+ "identifier": "wg/tvcontrol",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/7790",
+   "title": "public-tvcontrol (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-tvcontrol/",
+    "shortdesc": "public-tvcontrol",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/7790"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/7790/groups"
+     }
+    }
+   }
+  }
+ ]
 }
