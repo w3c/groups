@@ -32,7 +32,118 @@
   }
  },
  "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/conv"
+ "identifier": "cg/conv",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15573",
+   "title": "GitHub repositories (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/conversational-interfaces",
+    "shortdesc": "GitHub repositories",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15573"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15573/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15576",
+   "title": "GitHub repository for DMPL (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/dmpl",
+    "shortdesc": "GitHub repository for DMPL",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15576"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15576/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15570",
+   "title": "internal-conv (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-conv/",
+    "shortdesc": "internal-conv",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15570"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15570/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15568",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#conv",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15568"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15568/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15569",
+   "title": "public-conv (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-conv/",
+    "shortdesc": "public-conv",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15569"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15569/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15567",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/conv/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15567"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15567/groups"
+     }
+    }
+   }
+  }
+ ]
 }
