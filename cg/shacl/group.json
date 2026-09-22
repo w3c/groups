@@ -35,5 +35,80 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": false,
  "group-type": "cg",
- "identifier": "cg/shacl"
+ "identifier": "cg/shacl",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/9372",
+   "title": "Discord (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://discord.gg/5RXBKuyxAN",
+    "shortdesc": "Discord",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9372"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9372/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15487",
+   "title": "GitHub repository (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c/shacl/",
+    "shortdesc": "GitHub repository",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15487"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15487/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9371",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/shacl/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9371"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9371/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/43931",
+   "title": "GitHub Shapes (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/awesome-semantic-shapes",
+    "shortdesc": "GitHub Shapes",
+    "longdesc": "GitHub Awesome Semantic Shapes",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/43931"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/43931/groups"
+     }
+    }
+   }
+  }
+ ]
 }
