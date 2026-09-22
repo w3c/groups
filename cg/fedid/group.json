@@ -2,15 +2,13 @@
  "id": 66053,
  "name": "Federated Identities for the Open Web Community Group",
  "is_closed": true,
+ "creation-date": "2013-09-02",
  "description": "The mission of this group is to propose new APIs that allow for secure identity federation across domains on the open web.",
  "shortname": "fedid",
  "closed_date": "2023-04-07",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/fedid"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/fedid/"
   },
@@ -28,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/fedid/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/fedid"
   }
  },
  "type": "community group",
- "identifier": "cg/fedid"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/fedid",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1612",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#fedid",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1612"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1612/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1613",
+   "title": "public-fedid (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-fedid/",
+    "shortdesc": "public-fedid",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1613"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1613/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1611",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/fedid/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1611"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1611/groups"
+     }
+    }
+   }
+  }
+ ]
 }
