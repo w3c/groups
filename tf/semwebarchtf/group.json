@@ -1,0 +1,49 @@
+{
+ "id": 41915,
+ "name": "W3C Architecture of The World Wide Semantic Web Task Force",
+ "is_closed": true,
+ "shortname": "semwebarchtf",
+ "closed_date": "2020-04-16",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "http://lists.w3.org/Archives/Public/public-awwsw/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/semwebarchtf/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/semwebarchtf/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/semwebarchtf/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/semwebarchtf"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/semwebarchtf",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/244",
+   "title": "public-awwsw (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-awwsw/",
+    "shortdesc": "public-awwsw",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/244"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/244/groups"
+     }
+    }
+   }
+  }
+ ]
+}
