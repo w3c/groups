@@ -1,15 +1,14 @@
 {
  "id": 48598,
  "name": "Web Skill Profiles Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2011-08-16",
  "description": "This group has the mission to extend the discussion and development of the Web Skill Profiles originally developed by IWA/HWG (http://www.skillprofiles.eu) based on the EU Framework for education and outreach.",
  "shortname": "webskillprofiles",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/webskillprofiles"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/webskillprofiles/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/webskillprofiles/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webskillprofiles"
   }
  },
- "identifier": "cg/webskillprofiles"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webskillprofiles",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/479",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webskillprofiles",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/479"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/479/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/480",
+   "title": "public-webskillprofiles (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webskillprofiles/",
+    "shortdesc": "public-webskillprofiles",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/480"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/480/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/478",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webskillprofiles/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/478"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/478/groups"
+     }
+    }
+   }
+  }
+ ]
 }
