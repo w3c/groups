@@ -1,0 +1,95 @@
+{
+ "id": 56154,
+ "name": "Web Protocols and Energy Utilization Community Group",
+ "is_closed": true,
+ "creation-date": "2012-06-20",
+ "description": "The mission of this group is to refactor Web Protocols in order to make them less energy utilizing for those who are concerned of that aspect. Make it possible to get immediate feedback to the end user how much each dialogue step did caused in resource utilization and ensure a smooth transition. Enable a smooth transition. Mix of old and new must cooperate.",
+ "shortname": "webprotoenergy",
+ "closed_date": "2014-07-10",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/webprotoenergy/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/webprotoenergy/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/webprotoenergy/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/webprotoenergy/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/webprotoenergy/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/webprotoenergy/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/webprotoenergy"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/webprotoenergy",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1193",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#webprotoenergy",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1193"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1193/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1194",
+   "title": "public-webprotoenergy (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-webprotoenergy/",
+    "shortdesc": "public-webprotoenergy",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1194"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1194/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1192",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/webprotoenergy/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1192"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1192/groups"
+     }
+    }
+   }
+  }
+ ]
+}
