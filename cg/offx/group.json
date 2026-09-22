@@ -1,15 +1,14 @@
 {
  "id": 65815,
  "name": "OFF/X Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-08-23",
  "description": "[Web] Open Font Format for Exchange -- developing a list of recommendations and best practices in font development for best compatibility with web browsers",
  "shortname": "offx",
+ "closed_date": "2023-03-28",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/offx"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/offx/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/offx/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/offx"
   }
  },
- "identifier": "cg/offx"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/offx",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1592",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#offx",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1592"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1592/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1593",
+   "title": "public-offx (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-offx/",
+    "shortdesc": "public-offx",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1593"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1593/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1591",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/offx/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1591"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1591/groups"
+     }
+    }
+   }
+  }
+ ]
 }
