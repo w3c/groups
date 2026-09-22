@@ -1,15 +1,14 @@
 {
  "id": 56701,
  "name": "Mobile Accessibility Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-07-20",
  "description": "The mission of this group is the discussion and investigation of the intersection of mobile and accessibility. A place to discuss emerging efforts, document needs and requirements and investigate emergent techniques and best practices.\r\n\r\nThis group will not be developing any specifications. ",
  "shortname": "mobileacc",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mobileacc"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mobileacc/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mobileacc/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mobileacc"
   }
  },
- "identifier": "cg/mobileacc"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mobileacc",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1230",
+   "title": "internal-mobileacc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-mobileacc/",
+    "shortdesc": "internal-mobileacc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1230"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1230/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1227",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mobileacc",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1227"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1227/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1228",
+   "title": "public-mobileacc (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mobileacc/",
+    "shortdesc": "public-mobileacc",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1228"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1228/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1226",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mobileacc/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1226"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1226/groups"
+     }
+    }
+   }
+  }
+ ]
 }
