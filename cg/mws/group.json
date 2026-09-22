@@ -1,15 +1,14 @@
 {
  "id": 53711,
  "name": "Multilingual Web Sites Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-03-19",
  "description": "The objective is to produce specifications to facilitate the use and creation of multilingual web sites.",
  "shortname": "mws",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/mws"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/mws/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/mws/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/mws"
   }
  },
- "identifier": "cg/mws"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/mws",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1038",
+   "title": "internal-mws (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-mws/",
+    "shortdesc": "internal-mws",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1038"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1038/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1035",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#mws",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1035"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1035/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1036",
+   "title": "public-mws (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-mws/",
+    "shortdesc": "public-mws",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1036"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1036/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1034",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/mws/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1034"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1034/groups"
+     }
+    }
+   }
+  }
+ ]
 }
