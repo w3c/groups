@@ -50,5 +50,79 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/xml-query"
+ "identifier": "wg/xml-query",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1882",
+   "title": "member-xsl-query-commit (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-xsl-query-commit/",
+    "shortdesc": "member-xsl-query-commit",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1882"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1882/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/45911",
+   "title": "public-xsl-query (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-xsl-query/",
+    "shortdesc": "public-xsl-query",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/45911"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/45911/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1830",
+   "title": "w3c-xml-query-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-xml-query-wg/",
+    "shortdesc": "w3c-xml-query-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1830"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1830/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1898",
+   "title": "w3c-xsl-query (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-xsl-query/",
+    "shortdesc": "w3c-xsl-query",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1898"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1898/groups"
+     }
+    }
+   }
+  }
+ ]
 }
