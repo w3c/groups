@@ -1,15 +1,14 @@
 {
  "id": 89749,
  "name": "Big Data Europe Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2016-04-08",
  "description": "The group to discuss technical issues arising from the Big Data Europe Project.",
  "shortname": "bde",
+ "closed_date": "2023-04-07",
+ "spec-publisher": false,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/bde"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/bde/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/bde/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/bde"
   }
  },
- "identifier": "cg/bde"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/bde",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/6312",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#bde",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6312"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6312/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6313",
+   "title": "public-bde (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-bde/",
+    "shortdesc": "public-bde",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6313"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6313/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/6311",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/bde/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/6311"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/6311/groups"
+     }
+    }
+   }
+  }
+ ]
 }
