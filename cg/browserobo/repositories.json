@@ -1,0 +1,90 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WebGPIO",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/WebGPIO",
+  "homepageUrl": "http://browserobo.github.io/WebGPIO/",
+  "description": "WebGPIO spec draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "WebI2C",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/WebI2C",
+  "homepageUrl": "http://browserobo.github.io/WebI2C/",
+  "description": "Web I2C spec draft",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "browserobo.github.io",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/browserobo.github.io",
+  "description": "GitHub Pages for the organization (https://browserobo.github.io)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "docs",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/docs",
+  "description": "documents",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "hackathon2017",
+  "owner": {
+   "login": "browserobo"
+  },
+  "url": "https://github.com/browserobo/hackathon2017",
+  "homepageUrl": "https://browserobo.github.io/hackathon2017/",
+  "description": "Web x IoT メイカーズハッカソン Web Site",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/browserobo"
+   ],
+   "exposed": true
+  }
+ }
+]
