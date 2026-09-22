@@ -1,0 +1,20 @@
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "atomic-data-docs",
+  "owner": {
+   "login": "atomicdata-dev"
+  },
+  "url": "https://github.com/atomicdata-dev/atomic-data-docs",
+  "homepageUrl": "https://docs.atomicdata.dev",
+  "description": "Atomic Data is a specification to make it easier to exchange data.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/atomic-data"
+   ],
+   "exposed": true
+  }
+ }
+]
