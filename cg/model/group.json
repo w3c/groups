@@ -1,15 +1,14 @@
 {
  "id": 63549,
  "name": "Algorithmic Modelling Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-05-21",
  "description": "The mission of this group is to propose foundational specifications relating to \"algorithmic modelling\": a \"model\", in this context, being a description of the composition and relative dynamic behaviour of the  sub-parts of a system, as exemplified by the Object Management Group's Model Driven Architecture.  The output of this group may then act as a reference point for groups requiring the use of specific types of models, conceptual and computational being two such.",
  "shortname": "model",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/model"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/model/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/model/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/model"
   }
  },
- "identifier": "cg/model"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/model",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1498",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#model",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1498"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1498/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1499",
+   "title": "public-model (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-model/",
+    "shortdesc": "public-model",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1499"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1499/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1497",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/model/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1497"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1497/groups"
+     }
+    }
+   }
+  }
+ ]
 }
