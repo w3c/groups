@@ -1,0 +1,113 @@
+{
+ "id": 67671,
+ "name": "Session management functionality exposed to the browser Community Group",
+ "is_closed": true,
+ "creation-date": "2013-11-05",
+ "description": "The mission of this group is to define a standard way to manage web sessions directly from the web browser. The web sites must expose a set of functionalities in every page served in order to make easy to browser plugins (and the browser itself) to manage the user session.",
+ "shortname": "sesmanbro",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/sesmanbro/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/sesmanbro/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/sesmanbro/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/sesmanbro/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/sesmanbro/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/sesmanbro/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/sesmanbro"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/sesmanbro",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1735",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#sesmanbro",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1735"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1735/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1736",
+   "title": "public-sesmanbro (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-sesmanbro/",
+    "shortdesc": "public-sesmanbro",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1736"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1736/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1734",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/sesmanbro/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1734"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1734/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1733",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/sesmanbro/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1733"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1733/groups"
+     }
+    }
+   }
+  }
+ ]
+}
