@@ -1,71 +1,86 @@
 [
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "mediasync",
   "owner": {
    "login": "webtiming"
   },
+  "url": "https://github.com/webtiming/mediasync",
   "description": "MediaSync is a JavaScrpt library implementing timed playback of HTML5 audio/video, based on the TimingObject ",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webtiming"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "sequencer",
   "owner": {
    "login": "webtiming"
   },
+  "url": "https://github.com/webtiming/sequencer",
   "description": "A generic JavaScript Sequencer for precisely timed presentation of timed data, using HTMLTimingObject/SharedMotion as timing source. ",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webtiming"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "timingobject",
   "owner": {
    "login": "webtiming"
   },
+  "url": "https://github.com/webtiming/timingobject",
   "description": "Defines the HTML5 Timing object at the basis of multi-device synchronization matters",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webtiming"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "timingsrc",
   "owner": {
    "login": "webtiming"
   },
+  "url": "https://github.com/webtiming/timingsrc",
   "description": "Source code for timing related libraries managed by webtiming (multi-device timing CG)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webtiming"
-   ]
+   ],
+   "exposed": true
   }
  },
  {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "webtiming.github.io",
   "owner": {
    "login": "webtiming"
   },
+  "url": "https://github.com/webtiming/webtiming.github.io",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
    "group": [
     "cg/webtiming"
-   ]
+   ],
+   "exposed": true
   }
  }
 ]
