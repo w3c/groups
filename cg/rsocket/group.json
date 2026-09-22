@@ -1,0 +1,95 @@
+{
+ "id": 100367,
+ "name": "RSocket Protocol Specification Community Group",
+ "is_closed": true,
+ "creation-date": "2017-06-20",
+ "description": "Define a binary protocol that supports streams and channels with application-level message-oriented credit-based flow control and can be used over multiple transports.\r\n\r\nThe specification should allow implementations in multiple languages with a Technical Compliance Kit (TCK) asserting compliance. It should allow layering at a minimum on top of HTTP/2, QUIC, and TCP as transports.",
+ "shortname": "rsocket",
+ "closed_date": "2019-08-13",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/rsocket/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/rsocket/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/rsocket/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/rsocket/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/rsocket/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/rsocket/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rsocket"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/rsocket",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/9367",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#rsocket",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9367"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9367/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9368",
+   "title": "public-rsocket (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rsocket/",
+    "shortdesc": "public-rsocket",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9368"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9368/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/9366",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/rsocket/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/9366"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/9366/groups"
+     }
+    }
+   }
+  }
+ ]
+}
