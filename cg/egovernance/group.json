@@ -1,15 +1,14 @@
 {
  "id": 65404,
  "name": "Electronic Governance (eGov) Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-08-07",
  "description": "The mission of the Electronic Governance Community Group (formerly W3C e-Government Interest Group) is to build and strengthen the community of people who actively develop, use or promote the use of W3C technologies to improve the working of government (Electronic Government) and its interactions with citizens, businesses, civil society and other arms of government (Electronic Governance). \r\n\r\nAs a part of its activities, the Group will identify and discuss essential areas of technology, organizational and social change, and related policy issues. Such areas include but are not limited to: access and accessibility; cloud computing; data licensing; education and outreach; government as a platform; interoperability; information sharing; innovation and innovation transfer; impact, public value and economic evaluation; knowledge management; mobile government; open government; privacy, security and sensitive data; standardization versus adaptation; transparency and accountability; whole-of-government; and others. The discussions will occur, among other places, on the Group's mailing list, in teleconference seminars, and at face-to-face gatherings. On the topics with sufficient interest and motivated participants, the group will form task forces to produce technical documents and policy recommendations, reach out to relevant communities, and even encourage the formation of specialized EGOV-related community groups.",
  "shortname": "egovernance",
+ "closed_date": "2023-03-28",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/egovernance"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/egovernance/"
   },
@@ -27,7 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/egovernance/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/egovernance"
   }
  },
- "identifier": "cg/egovernance"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/egovernance",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1580",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#egovernance",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1580"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1580/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1581",
+   "title": "public-egovernance (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-egovernance/",
+    "shortdesc": "public-egovernance",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1581"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1581/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1582",
+   "title": "public-egovernance-contrib (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-egovernance-contrib/",
+    "shortdesc": "public-egovernance-contrib",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1582"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1582/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1579",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/egovernance/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1579"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1579/groups"
+     }
+    }
+   }
+  }
+ ]
 }
