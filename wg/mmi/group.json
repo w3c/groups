@@ -50,5 +50,44 @@
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
- "identifier": "wg/mmi"
+ "identifier": "wg/mmi",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1848",
+   "title": "w3c-mmi-wg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/w3c-mmi-wg/",
+    "shortdesc": "w3c-mmi-wg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1848"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1848/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/157",
+   "title": "mmi (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/2002/mmi/Group/wiki",
+    "shortdesc": "mmi",
+    "longdesc": "W3C Multimodal Interaction Working Group",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/157"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/157/groups"
+     }
+    }
+   }
+  }
+ ]
 }
