@@ -1,15 +1,14 @@
 {
  "id": 139732,
  "name": "JavaScript Web Framework Interoperability Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2022-08-31",
  "description": "The JavaScript Web Framework Interoperability Group (The JW FIG) aims to advance the JS ecosystem and promote good standards by bringing projects and people together to collaborate. It develops and disseminates specifications, informed by real-world experience as well as research and experimentation and others, to form JavaScript Web Standard Recommendations (JWSRs), JavaScript Web Evolutionary Recommendations (JWERs), and Auxiliary Resources (ARs) that best leverage what each framework offers.",
  "shortname": "jswebfig",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/jswebfig"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/jswebfig/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/jswebfig/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/jswebfig"
   }
  },
- "identifier": "cg/jswebfig"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/jswebfig",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39171",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#jswebfig",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39171"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39171/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39172",
+   "title": "public-jswebfig (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-jswebfig/",
+    "shortdesc": "public-jswebfig",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39172"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39172/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39170",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/jswebfig/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39170"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39170/groups"
+     }
+    }
+   }
+  }
+ ]
 }
