@@ -1,15 +1,14 @@
 {
  "id": 52443,
  "name": "HTML5 Specifications Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2012-02-14",
  "description": "A group addresses and discusses proposed ideas for HTML5 specifications.",
  "shortname": "html5spec",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/html5spec"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/html5spec/"
   },
@@ -27,8 +26,88 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/html5spec/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/html5spec"
   }
  },
  "type": "community group",
- "identifier": "cg/html5spec"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/html5spec",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/957",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#html5spec",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/957"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/957/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/958",
+   "title": "public-html5spec (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-html5spec/",
+    "shortdesc": "public-html5spec",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/958"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/958/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/956",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/html5spec/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/956"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/956/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/955",
+   "title": "Wiki (Wiki)",
+   "details": {
+    "closed": false,
+    "type": "wiki",
+    "link": "https://www.w3.org/community/html5spec/wiki/",
+    "shortdesc": "Wiki",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/955"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/955/groups"
+     }
+    }
+   }
+  }
+ ]
 }
