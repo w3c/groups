@@ -1,15 +1,14 @@
 {
  "id": 112987,
  "name": "Knowledge Domain Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2019-02-13",
  "description": "<p>Exploring effective architectural and best practices support for\r\npublishing content on, and author content for the web effectively\r\nexpressing knowledge domain specific content according to standard\r\npractices in that knowledge domain discipline. By knowledge domain we mean such human disciplines as mathematics, physics, chemistry and other STEM disciplines. We also include disciplines such as music, economics, history and linguistics. We are particularly interested in disciplines that convey knowledge using discipline specific symbology which cannot currently gain effective communication through HTML. We further include domain specific markup systems as well as graphical representation such as SVG rendering.</p>\r\n\r\n<p>This group may publish Specifications.</p>",
  "shortname": "knowledge-domain",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/knowledge-domain"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/knowledge-domain/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/knowledge-domain/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/knowledge-domain"
   }
  },
- "identifier": "cg/knowledge-domain"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/knowledge-domain",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/15563",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#knowledge-domain",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15563"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15563/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15564",
+   "title": "public-knowledge-domain (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-knowledge-domain/",
+    "shortdesc": "public-knowledge-domain",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15564"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15564/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/15562",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/knowledge-domain/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/15562"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/15562/groups"
+     }
+    }
+   }
+  }
+ ]
 }
