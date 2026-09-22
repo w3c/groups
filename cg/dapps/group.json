@@ -1,15 +1,14 @@
 {
  "id": 104762,
  "name": "Blockchain and Decentralized Apps Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2018-01-19",
  "description": "The group's mission is to discuss and eventually create and propose Web Specifications for creating and using Decentralized app (Dapp) on a Blockchain.  \r\n\r\nThe groups primary activities will be to start discussions with regards to use cases of Dapps on blockchains and identify the issues that we have now. Eventually, the group will publish technical thought papers on Dapps and eventually produce deliverables like sample codes, use cases, proof of concepts, etc. in order for this community group to become a W3C Working Group to propose technical specifications related to creating and using Dapps on Blockchains. The ideal members that should join this group are those who has skills in Web standards and have interests in Blockchain technologies especially in the creation Dapps on Blockchains.",
  "shortname": "dapps",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/dapps"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/dapps/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/dapps/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/dapps"
   }
  },
- "identifier": "cg/dapps"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/dapps",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/12285",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#dapps",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12285"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12285/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12286",
+   "title": "public-dapps (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-dapps/",
+    "shortdesc": "public-dapps",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12286"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12286/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/12284",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/dapps/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/12284"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/12284/groups"
+     }
+    }
+   }
+  }
+ ]
 }
