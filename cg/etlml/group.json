@@ -1,15 +1,14 @@
 {
  "id": 66346,
  "name": "ETL Markup Language Community Group",
- "is_closed": false,
+ "is_closed": true,
+ "creation-date": "2013-09-14",
  "description": "This group is to discuss requirements for an open standard for describing ETL projects, including project structure, sequencing, data flow transformations, data source connectors, for the purpose of transporting ETL projects between commercial and open source ETL tools.",
  "shortname": "etlml",
+ "closed_date": "2023-04-07",
+ "spec-publisher": true,
  "discr": "w3cgroup",
- "type": "community group",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/etlml"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/etlml/"
   },
@@ -27,7 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/etlml/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/etlml"
   }
  },
- "identifier": "cg/etlml"
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/etlml",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/1630",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#etlml",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1630"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1630/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1631",
+   "title": "public-etlml (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-etlml/",
+    "shortdesc": "public-etlml",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1631"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1631/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/1629",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/etlml/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/1629"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/1629/groups"
+     }
+    }
+   }
+  }
+ ]
 }
