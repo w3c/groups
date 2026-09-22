@@ -1,15 +1,14 @@
 {
  "id": 140743,
  "name": "Real Time Interaction Ecosystem Community Group",
- "is_closed": false,
- "description": "The Real Time Interaction Ecosystem Community Group provides a forum for global community to discuss, incubate and propose Real Time Interaction related use cases and proposals with the goal to bring more interoperability and robustness to Real Time Interaction ecosystem on the Web. ",
+ "is_closed": true,
+ "creation-date": "2022-11-03",
+ "description": "The Real Time Interaction Ecosystem Community Group provides a forum for global community to discuss, incubate and propose Real Time Interaction related use cases and proposals with the goal to bring more interoperability and robustness to Real Time Interaction ecosystem on the Web.",
  "shortname": "rtie",
+ "closed_date": "2023-12-11",
  "spec-publisher": true,
  "discr": "w3cgroup",
  "_links": {
-  "self": {
-   "href": "https://api.w3.org/groups/cg/rtie"
-  },
   "homepage": {
    "href": "https://www.w3.org/community/rtie/"
   },
@@ -27,8 +26,70 @@
   },
   "participations": {
    "href": "https://api.w3.org/groups/cg/rtie/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/rtie"
   }
  },
  "type": "community group",
- "identifier": "cg/rtie"
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/rtie",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/39188",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#rtie",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39188"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39188/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39189",
+   "title": "public-rtie (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-rtie/",
+    "shortdesc": "public-rtie",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39189"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39189/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/39187",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/rtie/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/39187"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/39187/groups"
+     }
+    }
+   }
+  }
+ ]
 }
