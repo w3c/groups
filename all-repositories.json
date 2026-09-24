@@ -24988,29 +24988,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "did-resolution-threat-model",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/did-resolution-threat-model",
-  "homepageUrl": "https://w3c.github.io/did-resolution-threat-model/",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    117488
-   ],
-   "contacts": [
-    "pchampin"
-   ],
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "did-rubric",
   "owner": {
    "login": "w3c"
@@ -25056,6 +25033,29 @@
     "note"
    ],
    "shortName": "did-test-suite",
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "did-threat-model",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/did-threat-model",
+  "homepageUrl": "https://w3c.github.io/did-threat-model/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    117488
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "note"
+   ],
    "exposed": true
   }
  },
@@ -40017,7 +40017,19 @@
   "url": "https://github.com/w3c/wot-resources",
   "description": "Repository for the resources like ontologies for WoT specifications",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/wot"
+   ],
+   "contacts": [
+    "egekorkan"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
