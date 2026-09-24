@@ -150,6 +150,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wot-resources",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/wot-resources",
+  "description": "Repository for the resources like ontologies for WoT specifications",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/wot"
+   ],
+   "contacts": [
+    "egekorkan"
+   ],
+   "repo-type": [
+    "others"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "wot-scripting-api",
   "owner": {
    "login": "w3c"
