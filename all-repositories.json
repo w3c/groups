@@ -16580,6 +16580,27 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "mdn-spec-links",
+  "owner": {
+   "login": "speced"
+  },
+  "url": "https://github.com/speced/mdn-spec-links",
+  "homepageUrl": "https://speced.github.io/mdn-spec-links/",
+  "description": "MDN Spec Links – Linking specs to MDN and browser-support data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "contacts": [
+    "sideshowbarker"
+   ],
+   "repo-type": [
+    "project"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "respec",
   "owner": {
    "login": "speced"
@@ -29065,27 +29086,6 @@
   "url": "https://github.com/w3c/mdn-content",
   "isArchived": false,
   "isPrivate": false
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "mdn-spec-links",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/mdn-spec-links",
-  "homepageUrl": "https://w3c.github.io/mdn-spec-links/",
-  "description": "MDN Spec Links – Linking specs to MDN and browser-support data",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "contacts": [
-    "sideshowbarker"
-   ],
-   "repo-type": [
-    "project"
-   ],
-   "exposed": true
-  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
