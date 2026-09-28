@@ -2970,6 +2970,291 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Applied-Knowledge",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Applied-Knowledge",
+  "description": "The Context Graph Group is primarily concerned with identifying and filling in knowledge gaps between sender, system, and receiver. The Applied Knowledge Committee is responsible for measures of accuracy, reliability, consistency, and robustness of that process.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Charter",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Charter",
+  "description": "W3C Context Graph CG Charter",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Decision-Interface",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Decision-Interface",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Group",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Group",
+  "description": "The Main Page for the W3C Context Graph Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Math-Committee",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Math-Committee",
+  "description": "For Mathematicians and discussions of formalizing our efforts into proofs when possible",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Semantic-Alignment",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Semantic-Alignment",
+  "description": " Ensures that organizations with existing ontologies, knowledge graphs, and constraint languages can express their definitions as inputs to the meaning facet without translation loss",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Specification-02-Requirements",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Specification-02-Requirements",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "Syntax-and-Serialization",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/Syntax-and-Serialization",
+  "description": " Owns the Intent Map specification and all format-level concerns: how coherence requirements, resolution states, and traces are expressed in concrete serializations (JSON, YAML, and other formats). Ensures the specifications are implementable by developers working in mainstream toolchains without requiring adoption of any single data model.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "active-inference",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/active-inference",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "bellman",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/bellman",
+  "description": "Bellman - Express Node.js application",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "dark_fraction",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/dark_fraction",
+  "description": "Dark Fraction δ — Boundary coherence calculator",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "demo",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/demo",
+  "description": "Interactive demo and spec pages for the Context Graph Protocol",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "intents",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/intents",
+  "description": "Covers intent mapping",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "liquid-coherence-protocol",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/liquid-coherence-protocol",
+  "description": "Before Shannon, \"information\" was in the same position — an intuitive concept everyone used and nobody could quantify. Shannon gave it a formal definition: the reduction of uncertainty, measured in bits. After that, you could build communication systems with provable guarantees. Coherence gives a mathematical understanding of evaluating \"Context\"",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "log",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/log",
+  "description": "Protocol boundary logs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "protocol",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/protocol",
+  "description": "This repository is intended for testing scripts and content",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "r_and_d_assets",
+  "owner": {
+   "login": "W3C-Context-Graph-Community-Group"
+  },
+  "url": "https://github.com/W3C-Context-Graph-Community-Group/r_and_d_assets",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/context-graph"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "w3c-ddi",
   "owner": {
    "login": "W3C-HCLS"
