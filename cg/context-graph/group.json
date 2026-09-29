@@ -37,6 +37,24 @@
  "identifier": "cg/context-graph",
  "services": [
   {
+   "href": "https://api.w3.org/services/46315",
+   "title": "GitHub Organization (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/typed-context-protocol",
+    "shortdesc": "GitHub Organization",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46315"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46315/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46093",
    "title": "internal-context-graph (Mailing List)",
    "details": {
