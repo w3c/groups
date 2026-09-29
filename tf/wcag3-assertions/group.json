@@ -23,5 +23,24 @@
  "tr-publisher": false,
  "identifier": "tf/wcag3-assertions",
  "group-type": "tf",
- "services": []
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46317",
+   "title": "group-wcag3-assertions (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Group/group-wcag3-assertions/",
+    "shortdesc": "group-wcag3-assertions",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46317"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46317/groups"
+     }
+    }
+   }
+  }
+ ]
 }
