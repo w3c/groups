@@ -37,6 +37,24 @@
  "identifier": "cg/ai-computed-provenance",
  "services": [
   {
+   "href": "https://api.w3.org/services/46321",
+   "title": "Discord (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://discord.gg/eWhnZ2CKH",
+    "shortdesc": "Discord",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46321"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46321/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/46286",
    "title": "GitHub (Version Control)",
    "details": {
@@ -68,24 +86,6 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/46285/groups"
-     }
-    }
-   }
-  },
-  {
-   "href": "https://api.w3.org/services/46283",
-   "title": "IRC (Chat)",
-   "details": {
-    "closed": false,
-    "type": "chat",
-    "link": "irc://irc.w3.org/#ai-computed-provenance",
-    "shortdesc": "IRC",
-    "_links": {
-     "self": {
-      "href": "https://api.w3.org/services/46283"
-     },
-     "groups": {
-      "href": "https://api.w3.org/services/46283/groups"
      }
     }
    }
