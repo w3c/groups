@@ -53,6 +53,24 @@
  "identifier": "wg/wasm",
  "services": [
   {
+   "href": "https://api.w3.org/services/46318",
+   "title": "Discord chat (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "https://discord.gg/jwCC7jS",
+    "shortdesc": "Discord chat",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46318"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46318/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/45905",
    "title": "public-webassembly (Mailing List)",
    "details": {
@@ -66,6 +84,42 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/45905/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46319",
+   "title": "Reddit: r/WebAssembly (Discussion Forum)",
+   "details": {
+    "closed": false,
+    "type": "forum",
+    "link": "https://www.reddit.com/r/WebAssembly/",
+    "shortdesc": "Reddit: r/WebAssembly",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46319"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46319/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46320",
+   "title": "webassembly.org: News (Blog)",
+   "details": {
+    "closed": false,
+    "type": "blog",
+    "link": "https://webassembly.org/news/",
+    "shortdesc": "webassembly.org: News",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46320"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46320/groups"
      }
     }
    }
