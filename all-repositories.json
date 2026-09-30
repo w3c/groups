@@ -34547,6 +34547,18 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "threat-model-webmcp",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/threat-model-webmcp",
+  "homepageUrl": "https://w3c.github.io/threat-model-webmcp/",
+  "description": "Threat Model for WebMCP",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "threat-modeling-guide",
   "owner": {
    "login": "w3c"
