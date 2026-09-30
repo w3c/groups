@@ -26781,6 +26781,17 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "hackathon-tpac-2026",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/hackathon-tpac-2026",
+  "description": "W3C Hackathon TPAC 2026: Dublin Edition",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "hanuman",
   "owner": {
    "login": "w3c"
