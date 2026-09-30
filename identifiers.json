@@ -692,10 +692,6 @@
   "identifier": "cg/abcg"
  },
  {
-  "id": 174925,
-  "identifier": "cg/context-graph"
- },
- {
   "id": 113314,
   "identifier": "cg/conv"
  },
@@ -2726,6 +2722,10 @@
  {
   "id": 135726,
   "identifier": "cg/tai"
+ },
+ {
+  "id": 174925,
+  "identifier": "cg/typed-context-protocol"
  },
  {
   "id": 169926,
