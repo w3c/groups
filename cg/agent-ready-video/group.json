@@ -1,0 +1,112 @@
+{
+ "id": 180116,
+ "name": "Agent-Ready Video Community Group",
+ "is_closed": false,
+ "creation-date": "2026-10-01",
+ "description": "<p>Agents are helping Web users find useful video, but more can be done to improve agent responses. For example, if a user asks an agent a detailed question about a car repair, instead of merely pointing the user at a full video, an agent could more usefully find the most relevant 40 seconds of video and play that moment inline in the chat or agent interface with proper credit to the creator. In addition, the agent could provide the creator of the video with a record to facilitate compliance with terms and conditions for use.</p>\n\n<p>The mission of this group is to make it easier for agents to find, cite and play relevant video on the Web, and to play it with the same moment, rights, and credit at each step.</p>\n\n<p>AgentCDN has done previous work on this topic: the Agent-Ready Video (ARV) specification. ARV reuses schema.org VideoObject and Clip, W3C Media Fragments, video sitemaps, RSL, the IETF AIPREF vocabulary, the Model Context Protocol, WebMCP, NLWeb and A2A as they are. It adds only what video needs and no other specification defines: range-addressed moments, per-moment rights, typed evidence, player-neutral playback descriptors, and signed usage receipts. AgentCDN intends to contribute this prior work to the Community Group for further development and change management by the group.</p>\n\n<p>In addition to the specification, the group expects to publish JSON Schemas, a conformance validator with three levels, a reference producer, and an open evaluation method and benchmark for moment quality.</p>\n\n<p>The group will not work on ranking, retrieval or video understanding systems. If the group determines that changes to relied upon technologies would be useful, the group may submit proposals to the entities responsible for those technologies.</p>",
+ "shortname": "agent-ready-video",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/agent-ready-video/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/agent-ready-video/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/agent-ready-video/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/agent-ready-video/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/agent-ready-video/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/agent-ready-video/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/agent-ready-video"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/agent-ready-video",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46325",
+   "title": "internal-agent-ready-video (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-agent-ready-video/",
+    "shortdesc": "internal-agent-ready-video",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46325"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46325/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46323",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#agent-ready-video",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46323"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46323/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46324",
+   "title": "public-agent-ready-video (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-agent-ready-video/",
+    "shortdesc": "public-agent-ready-video",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46324"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46324/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46322",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/agent-ready-video/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46322"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46322/groups"
+     }
+    }
+   }
+  }
+ ]
+}
