@@ -19871,11 +19871,11 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "jim-graphics",
+  "name": "jim-annotations",
   "owner": {
    "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c-cg/jim-graphics",
+  "url": "https://github.com/w3c-cg/jim-annotations",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -19893,12 +19893,12 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "json-image-metadata",
+  "name": "jim-graphics",
   "owner": {
    "login": "w3c-cg"
   },
-  "url": "https://github.com/w3c-cg/json-image-metadata",
-  "homepageUrl": "https://w3c-cg.github.io/json-image-metadata/",
+  "url": "https://github.com/w3c-cg/jim-graphics",
+  "homepageUrl": "https://w3c-cg.github.io/jim-graphics/",
   "description": "A specifiction for expressing technical image metadata, with an emphasis on accessibility of data visualizations",
   "isArchived": false,
   "isPrivate": false,
