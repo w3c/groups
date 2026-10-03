@@ -17221,6 +17221,40 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": ".github",
+  "owner": {
+   "login": "typed-context-protocol"
+  },
+  "url": "https://github.com/typed-context-protocol/.github",
+  "description": "Typed ConteXt Protocol tcxp://",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/typed-context-protocol"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "charter",
+  "owner": {
+   "login": "typed-context-protocol"
+  },
+  "url": "https://github.com/typed-context-protocol/charter",
+  "description": "Contains our Charter, as W3C Typed Context Protocol associated repo",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/typed-context-protocol"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "rmd",
   "owner": {
    "login": "universalimages"
