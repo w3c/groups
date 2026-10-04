@@ -49,5 +49,22 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "tcxp-simulator-web",
+  "owner": {
+   "login": "typed-context-protocol"
+  },
+  "url": "https://github.com/typed-context-protocol/tcxp-simulator-web",
+  "description": "tcxp (Typed Context Protocol) v0.1 workbench, engine, tests and Lean proofs",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/typed-context-protocol"
+   ],
+   "exposed": true
+  }
  }
 ]
