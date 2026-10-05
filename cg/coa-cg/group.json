@@ -1,0 +1,112 @@
+{
+ "id": 180188,
+ "name": "Content and Originator Authenticity Community Group",
+ "is_closed": false,
+ "creation-date": "2026-10-05",
+ "description": "<p>The mission of this group is to serve as a vendor-neutral hub for a generalized authenticity architecture for web content: technologies to signal and verify the origin and integrity of the content and identity of its originators, through third-party attestations.</p>\n\n<p>The group seeks to bring together participants from existing means such as C2PA Content Credentials, Originator Profile, W3C Verifiable Credentials and the web platform's own integrity mechanisms to share knowledge, discuss gaps and overlaps, and explore how different technologies can work together on the web. The group will focus on how authenticity and provenance metadata is associated with web resources, how originator identity attributes are mapped and verified interoperably, and how user agents can present these signals to end users effectively, safely and with user privacy preserved.</p>\n\n<p>Deliverables are primarily non-normative reports (landscape and gap analysis, use cases and requirements, web integration report). The group may additionally incubate specifications intended to be proposed as input to W3C Working Groups or other appropriate venues for further technical development; any such specifications will be developed under the W3C Community Contributor License Agreement (CLA).</p>\n\n<p>The group does not aim to assess the truthfulness of the content, and does not duplicate work at other venues. We invite content publishers, browser vendors and other implementers, platform providers, attestation and certification bodies, researchers, and participants in C2PA, CAWG and related participants.</p>",
+ "shortname": "coa-cg",
+ "spec-publisher": true,
+ "discr": "w3cgroup",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/community/coa-cg/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/cg/coa-cg/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/cg/coa-cg/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/cg/coa-cg/chairs"
+  },
+  "join": {
+   "href": "https://www.w3.org/community/coa-cg/join"
+  },
+  "participations": {
+   "href": "https://api.w3.org/groups/cg/coa-cg/participations"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/cg/coa-cg"
+  }
+ },
+ "type": "community group",
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "group-type": "cg",
+ "identifier": "cg/coa-cg",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46329",
+   "title": "internal-coa-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/internal-coa-cg/",
+    "shortdesc": "internal-coa-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46329"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46329/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46327",
+   "title": "IRC (Chat)",
+   "details": {
+    "closed": false,
+    "type": "chat",
+    "link": "irc://irc.w3.org/#coa-cg",
+    "shortdesc": "IRC",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46327"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46327/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46328",
+   "title": "public-coa-cg (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Public/public-coa-cg/",
+    "shortdesc": "public-coa-cg",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46328"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46328/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46326",
+   "title": "RSS (RSS)",
+   "details": {
+    "closed": false,
+    "type": "rss",
+    "link": "https://www.w3.org/community/coa-cg/feed/",
+    "shortdesc": "RSS",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46326"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46326/groups"
+     }
+    }
+   }
+  }
+ ]
+}
