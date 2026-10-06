@@ -91796,6 +91796,24 @@
   "identifier": "cg/xproc-next",
   "services": [
    {
+    "href": "https://api.w3.org/services/46330",
+    "title": "Codeberg.org (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://codeberg.org/XProc/",
+     "shortdesc": "Codeberg.org",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46330"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46330/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/15482",
     "title": "GitHub repositories (Version Control)",
     "details": {
