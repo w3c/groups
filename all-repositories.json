@@ -41951,6 +41951,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "baseline-availability",
+  "owner": {
+   "login": "web-platform-dx"
+  },
+  "url": "https://github.com/web-platform-dx/baseline-availability",
+  "description": "A data source and dashboard that uses Cloudflare's public RUM data to give weekly statistics on the availability of different Baseline targets.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webdx"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "baseline-browser-mapping",
   "owner": {
    "login": "web-platform-dx"
