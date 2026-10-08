@@ -40922,6 +40922,27 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "agentic-browsing-finding",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "url": "https://github.com/w3ctag/agentic-browsing-finding",
+  "description": "Draft finding on Agentic Browsing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "policy": "open",
+   "repo-type": [
+    "note"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "bfcache-guide",
   "owner": {
    "login": "w3ctag"
