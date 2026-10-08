@@ -465,30 +465,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "container-timing",
-  "owner": {
-   "login": "WICG"
-  },
-  "url": "https://github.com/WICG/container-timing",
-  "homepageUrl": "https://wicg.github.io/container-timing/",
-  "description": "Container Timing",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/wicg"
-   ],
-   "contacts": [
-    "yoavweiss"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "content-index",
   "owner": {
    "login": "WICG"
@@ -2870,6 +2846,30 @@
    ],
    "contacts": [
     "travisleithead"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "container-timing",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/container-timing",
+  "homepageUrl": "https://w3c.github.io/container-timing/",
+  "description": "Container Timing",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "yoavweiss"
    ],
    "repo-type": [
     "cg-report"
