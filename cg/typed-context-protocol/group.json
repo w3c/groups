@@ -56,12 +56,12 @@
   },
   {
    "href": "https://api.w3.org/services/46093",
-   "title": "internal-context-graph (Mailing List)",
+   "title": "internal-typed-context-protocol (Mailing List)",
    "details": {
     "closed": false,
     "type": "lists",
-    "link": "https://lists.w3.org/Archives/Member/internal-context-graph/",
-    "shortdesc": "internal-context-graph",
+    "link": "https://lists.w3.org/Archives/Member/internal-typed-context-protocol/",
+    "shortdesc": "internal-typed-context-protocol",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/46093"
@@ -92,12 +92,12 @@
   },
   {
    "href": "https://api.w3.org/services/46092",
-   "title": "public-context-graph (Mailing List)",
+   "title": "public-typed-context-protocol (Mailing List)",
    "details": {
     "closed": false,
     "type": "lists",
-    "link": "https://lists.w3.org/Archives/Public/public-context-graph/",
-    "shortdesc": "public-context-graph",
+    "link": "https://lists.w3.org/Archives/Public/public-typed-context-protocol/",
+    "shortdesc": "public-typed-context-protocol",
     "_links": {
      "self": {
       "href": "https://api.w3.org/services/46092"
