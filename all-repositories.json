@@ -29949,6 +29949,16 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "message-resources",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/message-resources",
+  "isArchived": false,
+  "isPrivate": false
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "microdata",
   "owner": {
    "login": "w3c"
