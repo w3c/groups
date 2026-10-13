@@ -37,6 +37,24 @@
  "identifier": "cg/dia",
  "services": [
   {
+   "href": "https://api.w3.org/services/46332",
+   "title": "GitHub (Version Control)",
+   "details": {
+    "closed": false,
+    "type": "repository",
+    "link": "https://github.com/w3c-cg/dia",
+    "shortdesc": "GitHub",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46332"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46332/groups"
+     }
+    }
+   }
+  },
+  {
    "href": "https://api.w3.org/services/45988",
    "title": "internal-dia (Mailing List)",
    "details": {
