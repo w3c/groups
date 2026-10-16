@@ -11083,7 +11083,7 @@
   },
   "url": "https://github.com/immersive-web/model-element",
   "homepageUrl": "https://immersive-web.github.io/model-element/",
-  "description": "Repository for the <model> tag. Feature leads: Brandel Zachernuk and Laszlo Gombos",
+  "description": "Repository for the <model> tag. Feature leads: Brandel Zachernuk, Rik Cabanier and Laszlo Gombos",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -19499,6 +19499,28 @@
   "w3cjson": {
    "group": [
     "cg/mcm-jp"
+   ],
+   "contacts": [
+    "ij@w3.org"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "meta-layer-infra",
+  "owner": {
+   "login": "w3c-cg"
+  },
+  "url": "https://github.com/w3c-cg/meta-layer-infra",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/meta-layer"
    ],
    "contacts": [
     "ij@w3.org"
