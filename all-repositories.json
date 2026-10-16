@@ -11,6 +11,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/foss-3d",
     "cg/foss-3d"
    ],
    "exposed": true
@@ -29,6 +30,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/declarative-apps",
     "cg/declarative-apps"
    ],
    "exposed": true
@@ -47,6 +49,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -65,6 +68,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -82,6 +86,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -99,6 +104,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -116,6 +122,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -133,6 +140,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -150,6 +158,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -167,6 +176,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -184,6 +194,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -201,6 +212,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -218,6 +230,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -235,6 +248,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -252,6 +266,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -269,6 +284,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -286,6 +302,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -304,6 +321,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -321,6 +339,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -338,6 +357,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -355,6 +375,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -373,6 +394,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -391,6 +413,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -409,6 +432,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bioschemas",
     "cg/bioschemas"
    ],
    "exposed": true
@@ -450,6 +474,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/css4",
     "cg/css4"
    ],
    "exposed": true
@@ -466,6 +491,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/css4",
     "cg/css4"
    ],
    "exposed": true
@@ -503,6 +529,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfsurfaces",
     "cg/rdfsurfaces"
    ],
    "exposed": true
@@ -521,6 +548,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfsurfaces",
     "cg/rdfsurfaces"
    ],
    "exposed": true
@@ -539,6 +567,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ml-schema",
     "cg/ml-schema"
    ],
    "exposed": true
@@ -556,6 +585,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ml-schema",
     "cg/ml-schema"
    ],
    "exposed": true
@@ -573,6 +603,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ml-schema",
     "cg/ml-schema"
    ],
    "exposed": true
@@ -590,6 +621,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ml-schema",
     "cg/ml-schema"
    ],
    "exposed": true
@@ -608,6 +640,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -651,6 +684,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -739,6 +773,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -830,6 +865,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -871,6 +907,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -889,6 +926,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -907,6 +945,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -925,6 +964,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -943,6 +983,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -961,6 +1002,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -979,6 +1021,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1020,6 +1063,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1038,6 +1082,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1056,6 +1101,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1074,6 +1120,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1091,6 +1138,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1109,6 +1157,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1126,6 +1175,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1143,6 +1193,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1161,6 +1212,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/maps4html",
     "cg/maps4html"
    ],
    "exposed": true
@@ -1177,6 +1229,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nli",
     "cg/nli"
    ],
    "exposed": true
@@ -1194,6 +1247,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nordic-accessibility",
     "cg/nordic-accessibility"
    ],
    "exposed": true
@@ -1211,6 +1265,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nordic-accessibility",
     "cg/nordic-accessibility"
    ],
    "exposed": true
@@ -1228,6 +1283,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nordic-accessibility",
     "cg/nordic-accessibility"
    ],
    "exposed": true
@@ -1245,6 +1301,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1263,6 +1320,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1280,6 +1338,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1297,6 +1356,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1315,6 +1375,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1331,6 +1392,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1349,6 +1411,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1367,6 +1430,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1384,6 +1448,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1401,6 +1466,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1419,6 +1485,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1436,6 +1503,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1454,6 +1522,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1470,6 +1539,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1487,6 +1557,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1503,6 +1574,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1521,6 +1593,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1539,6 +1612,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1556,6 +1630,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1574,6 +1649,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1592,6 +1668,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1609,6 +1686,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1626,6 +1704,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1643,6 +1722,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1660,6 +1740,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1677,6 +1758,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1695,6 +1777,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1712,6 +1795,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1729,6 +1813,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1745,6 +1830,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1762,6 +1848,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1779,6 +1866,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1797,6 +1885,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1814,6 +1903,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1831,6 +1921,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1849,6 +1940,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1867,6 +1959,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1884,6 +1977,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rosc",
     "cg/rosc"
    ],
    "exposed": true
@@ -1900,6 +1994,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -1917,6 +2012,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -1934,6 +2030,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -1951,6 +2048,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -1968,6 +2066,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -1986,6 +2085,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2004,6 +2104,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2021,6 +2122,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2039,6 +2141,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2056,6 +2159,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2073,6 +2177,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2090,6 +2195,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2107,6 +2213,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2124,6 +2231,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2141,6 +2249,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2158,6 +2267,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2175,6 +2285,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2214,6 +2325,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2231,6 +2343,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2248,6 +2361,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2265,6 +2379,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2282,6 +2397,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2300,6 +2416,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2317,6 +2434,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2334,6 +2452,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2351,6 +2470,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2368,6 +2488,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/respimg",
     "cg/respimg"
    ],
    "exposed": true
@@ -2385,6 +2506,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bibframe2schema",
     "cg/bibframe2schema"
    ],
    "exposed": true
@@ -2402,6 +2524,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/sdshare",
     "cg/sdshare"
    ],
    "exposed": true
@@ -2419,6 +2542,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/svga11y",
     "cg/svga11y"
    ],
    "exposed": true
@@ -2435,6 +2559,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/svga11y",
     "cg/svga11y"
    ],
    "exposed": true
@@ -2452,6 +2577,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/svga11y",
     "cg/svga11y"
    ],
    "exposed": true
@@ -2469,6 +2595,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/svga11y",
     "cg/svga11y"
    ],
    "exposed": true
@@ -2485,6 +2612,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2502,6 +2630,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2518,6 +2647,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2535,6 +2665,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2552,6 +2683,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2568,6 +2700,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2586,6 +2719,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2602,6 +2736,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2620,6 +2755,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2637,6 +2773,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2654,6 +2791,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2671,6 +2809,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2687,6 +2826,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2705,6 +2845,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2722,6 +2863,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2740,6 +2882,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2756,6 +2899,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2773,6 +2917,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2791,6 +2936,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2809,6 +2955,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2827,6 +2974,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2843,6 +2991,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2860,6 +3009,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2877,6 +3027,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2895,6 +3046,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2912,6 +3064,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2929,6 +3082,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2946,6 +3100,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/treecg",
     "cg/treecg"
    ],
    "exposed": true
@@ -2963,6 +3118,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/dcdr-framework",
     "cg/dcdr-framework"
    ],
    "exposed": true
@@ -2981,6 +3137,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/hclscg",
     "cg/hclscg"
    ],
    "exposed": true
@@ -2998,6 +3155,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/brazilpub",
     "cg/brazilpub"
    ],
    "exposed": true
@@ -3015,6 +3173,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/htmail",
     "cg/htmail"
    ],
    "exposed": true
@@ -3032,6 +3191,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/htmail",
     "cg/htmail"
    ],
    "exposed": true
@@ -3862,6 +4022,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/wicg",
     "cg/wicg"
    ],
    "exposed": true
@@ -5165,6 +5326,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/wicg",
     "cg/wicg"
    ],
    "exposed": true
@@ -5970,6 +6132,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -5987,6 +6150,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6026,6 +6190,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6043,6 +6208,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6106,6 +6272,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6169,6 +6336,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6185,6 +6353,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6201,6 +6370,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6308,6 +6478,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6326,6 +6497,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6644,6 +6816,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6775,6 +6948,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6974,6 +7148,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -6991,6 +7166,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7032,6 +7208,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7049,6 +7226,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7065,6 +7243,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7081,6 +7260,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7097,6 +7277,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7114,6 +7295,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7130,6 +7312,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7147,6 +7330,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7163,6 +7347,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7180,6 +7365,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7196,6 +7382,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7214,6 +7401,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7231,6 +7419,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7248,6 +7437,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7265,6 +7455,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7282,6 +7473,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7299,6 +7491,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7316,6 +7509,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7332,6 +7526,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7349,6 +7544,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7366,6 +7562,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7383,6 +7580,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7399,6 +7597,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7415,6 +7614,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7432,6 +7632,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7448,6 +7649,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7465,6 +7667,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7481,6 +7684,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7497,6 +7701,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7513,6 +7718,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7530,6 +7736,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7547,6 +7754,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7588,6 +7796,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7605,6 +7814,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7623,6 +7833,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7640,6 +7851,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7680,6 +7892,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webassembly",
     "cg/webassembly"
    ],
    "exposed": true
@@ -7816,6 +8029,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7833,6 +8047,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7849,6 +8064,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7866,6 +8082,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7883,6 +8100,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7901,6 +8119,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7919,6 +8138,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7936,6 +8156,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7953,6 +8174,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -7971,6 +8193,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8011,6 +8234,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8051,6 +8275,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8067,6 +8292,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8085,6 +8311,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8102,6 +8329,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8118,6 +8346,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webview",
     "cg/webview"
    ],
    "exposed": true
@@ -8135,6 +8364,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8152,6 +8382,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8168,6 +8399,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8185,6 +8417,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8202,6 +8435,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8219,6 +8453,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8236,6 +8471,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdevdata",
     "cg/webdevdata"
    ],
    "exposed": true
@@ -8253,6 +8489,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/a11yedge",
     "cg/a11yedge"
    ],
    "exposed": true
@@ -8270,6 +8507,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/a11yedge",
     "cg/a11yedge"
    ],
    "exposed": true
@@ -8310,6 +8548,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8328,6 +8567,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8344,6 +8584,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8360,6 +8601,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8377,6 +8619,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8394,6 +8637,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8411,6 +8655,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8428,6 +8673,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8446,6 +8692,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8464,6 +8711,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8480,6 +8728,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8497,6 +8746,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8514,6 +8764,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/act-r",
     "cg/act-r"
    ],
    "exposed": true
@@ -8532,6 +8783,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xapivocabulary",
     "cg/xapivocabulary"
    ],
    "exposed": true
@@ -8549,6 +8801,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ai-web-visibility",
     "cg/ai-web-visibility"
    ],
    "exposed": true
@@ -8566,6 +8819,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/antifraud",
     "cg/antifraud"
    ],
    "exposed": true
@@ -8654,6 +8908,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/antifraud",
     "cg/antifraud"
    ],
    "exposed": true
@@ -8745,6 +9000,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/atomic-data",
     "cg/atomic-data"
    ],
    "exposed": true
@@ -8762,6 +9018,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8778,6 +9035,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8795,6 +9053,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8811,6 +9070,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8827,6 +9087,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8843,6 +9104,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8859,6 +9121,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8875,6 +9138,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8891,6 +9155,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8907,6 +9172,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8923,6 +9189,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8940,6 +9207,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8956,6 +9224,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8973,6 +9242,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -8990,6 +9260,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -9007,6 +9278,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bpmlod",
     "cg/bpmlod"
    ],
    "exposed": true
@@ -9025,6 +9297,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/browserobo",
     "cg/browserobo"
    ],
    "exposed": true
@@ -9043,6 +9316,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/browserobo",
     "cg/browserobo"
    ],
    "exposed": true
@@ -9060,6 +9334,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/browserobo",
     "cg/browserobo"
    ],
    "exposed": true
@@ -9077,6 +9352,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/browserobo",
     "cg/browserobo"
    ],
    "exposed": true
@@ -9095,6 +9371,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/browserobo",
     "cg/browserobo"
    ],
    "exposed": true
@@ -9113,6 +9390,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ceddl-webspec",
     "cg/ceddl-webspec"
    ],
    "exposed": true
@@ -9131,6 +9409,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ceddl-webspec",
     "cg/ceddl-webspec"
    ],
    "exposed": true
@@ -9148,6 +9427,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ceddl-webspec",
     "cg/ceddl-webspec"
    ],
    "exposed": true
@@ -9165,6 +9445,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ceddl-webspec",
     "cg/ceddl-webspec"
    ],
    "exposed": true
@@ -9182,6 +9463,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ceddl-webspec",
     "cg/ceddl-webspec"
    ],
    "exposed": true
@@ -9199,6 +9481,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ceddl-webspec",
     "cg/ceddl-webspec"
    ],
    "exposed": true
@@ -9216,6 +9499,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9233,6 +9517,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9251,6 +9536,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9269,6 +9555,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9285,6 +9572,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9301,6 +9589,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9317,6 +9606,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9333,6 +9623,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9351,6 +9642,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9368,6 +9660,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9385,6 +9678,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9402,6 +9696,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9419,6 +9714,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9436,6 +9732,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9454,6 +9751,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9472,6 +9770,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9489,6 +9788,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9506,6 +9806,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9523,6 +9824,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9541,6 +9843,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9559,6 +9862,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9577,6 +9881,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9594,6 +9899,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9611,6 +9917,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9628,6 +9935,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9645,6 +9953,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9662,6 +9971,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9679,6 +9989,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9695,6 +10006,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9712,6 +10024,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9730,6 +10043,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9747,6 +10061,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9763,6 +10078,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/chainpoint",
     "cg/chainpoint"
    ],
    "exposed": true
@@ -9781,6 +10097,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/conv",
     "cg/conv"
    ],
    "exposed": true
@@ -9820,6 +10137,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/conv",
     "cg/conv"
    ],
    "exposed": true
@@ -9838,6 +10156,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/conv",
     "cg/conv"
    ],
    "exposed": true
@@ -9856,6 +10175,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/conv",
     "cg/conv"
    ],
    "exposed": true
@@ -9897,6 +10217,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -9914,6 +10235,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -9931,6 +10253,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -9948,6 +10271,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -9964,6 +10288,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -9982,6 +10307,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -9999,6 +10325,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -10017,6 +10344,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -10035,6 +10363,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/coremob",
     "cg/coremob"
    ],
    "exposed": true
@@ -10053,6 +10382,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ocm",
     "cg/ocm"
    ],
    "exposed": true
@@ -10095,6 +10425,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/dds",
     "cg/dds"
    ],
    "exposed": true
@@ -10137,6 +10468,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/dds",
     "cg/dds"
    ],
    "exposed": true
@@ -10155,6 +10487,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/design-tokens",
     "cg/design-tokens"
    ],
    "exposed": true
@@ -10171,6 +10504,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/oasis",
     "cg/oasis"
    ],
    "exposed": true
@@ -10189,6 +10523,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/wica",
     "cg/wica"
    ],
    "exposed": true
@@ -10206,6 +10541,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/expath",
     "cg/expath"
    ],
    "exposed": true
@@ -10224,6 +10560,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nextweb",
     "cg/nextweb"
    ],
    "exposed": true
@@ -10240,6 +10577,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nextweb",
     "cg/nextweb"
    ],
    "exposed": true
@@ -10257,6 +10595,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nextweb",
     "cg/nextweb"
    ],
    "exposed": true
@@ -10274,6 +10613,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfsurfaces",
     "cg/rdfsurfaces"
    ],
    "exposed": true
@@ -10291,6 +10631,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fdp",
     "cg/fdp"
    ],
    "exposed": true
@@ -10308,6 +10649,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10325,6 +10667,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10341,6 +10684,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10359,6 +10703,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10375,6 +10720,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10391,6 +10737,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10431,6 +10778,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10448,6 +10796,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10465,6 +10814,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10482,6 +10832,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10498,6 +10849,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/fed-id",
     "cg/fed-id"
    ],
    "exposed": true
@@ -10539,6 +10891,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/gpu",
     "cg/gpu"
    ],
    "exposed": true
@@ -10610,6 +10963,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/gpu",
     "cg/gpu"
    ],
    "exposed": true
@@ -10628,6 +10982,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/gpu",
     "cg/gpu"
    ],
    "exposed": true
@@ -10646,6 +11001,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/gpu",
     "cg/gpu"
    ],
    "exposed": true
@@ -10662,6 +11018,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/gpu",
     "cg/gpu"
    ],
    "exposed": true
@@ -10680,6 +11037,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/gpu",
     "cg/gpu"
    ],
    "exposed": true
@@ -10720,6 +11078,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/httpslocal",
     "cg/httpslocal"
    ],
    "exposed": true
@@ -10737,6 +11096,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/httpslocal",
     "cg/httpslocal"
    ],
    "exposed": true
@@ -10754,6 +11114,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/httpslocal",
     "cg/httpslocal"
    ],
    "exposed": true
@@ -10771,6 +11132,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/httpslocal",
     "cg/httpslocal"
    ],
    "exposed": true
@@ -11460,6 +11822,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/immersive-web",
     "cg/immersive-web"
    ],
    "exposed": true
@@ -11574,6 +11937,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/immersive-web",
     "cg/immersive-web"
    ],
    "exposed": true
@@ -11788,6 +12152,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/interledger",
     "cg/interledger"
    ],
    "exposed": true
@@ -11805,6 +12170,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ixml",
     "cg/ixml"
    ],
    "exposed": true
@@ -11822,6 +12188,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ixml",
     "cg/ixml"
    ],
    "exposed": true
@@ -11839,6 +12206,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -11857,6 +12225,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -11896,6 +12265,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -11913,6 +12283,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -11955,6 +12326,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -11973,6 +12345,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -11990,6 +12363,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -12055,6 +12429,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -12072,6 +12447,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -12090,6 +12466,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/json-ld",
     "cg/json-ld"
    ],
    "exposed": true
@@ -12128,6 +12505,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12146,6 +12524,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12164,6 +12543,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12181,6 +12561,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12197,6 +12578,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12215,6 +12597,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12231,6 +12614,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12248,6 +12632,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12265,6 +12650,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12282,6 +12668,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12299,6 +12686,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12316,6 +12704,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12333,6 +12722,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12351,6 +12741,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12369,6 +12760,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12387,6 +12779,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12405,6 +12798,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12423,6 +12817,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12441,6 +12836,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12458,6 +12854,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12476,6 +12873,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12494,6 +12892,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12511,6 +12910,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12529,6 +12929,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12547,6 +12948,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12564,6 +12966,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12581,6 +12984,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12598,6 +13002,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12616,6 +13021,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12634,6 +13040,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12652,6 +13059,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/kg-construct",
     "cg/kg-construct"
    ],
    "exposed": true
@@ -12669,6 +13077,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ld4lt",
     "cg/ld4lt"
    ],
    "exposed": true
@@ -12686,6 +13095,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ld4lt",
     "cg/ld4lt"
    ],
    "exposed": true
@@ -12703,6 +13113,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ld4lt",
     "cg/ld4lt"
    ],
    "exposed": true
@@ -12720,6 +13131,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ld4lt",
     "cg/ld4lt"
    ],
    "exposed": true
@@ -12737,6 +13149,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ld4lt",
     "cg/ld4lt"
    ],
    "exposed": true
@@ -12754,6 +13167,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/timesh",
     "cg/timesh"
    ],
    "exposed": true
@@ -12796,6 +13210,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/mathml4",
     "cg/mathml4"
    ],
    "exposed": true
@@ -12813,6 +13228,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/mathml4",
     "cg/mathml4"
    ],
    "exposed": true
@@ -12831,6 +13247,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/mathml4",
     "cg/mathml4"
    ],
    "exposed": true
@@ -12849,6 +13266,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/mathml4",
     "cg/mathml4"
    ],
    "exposed": true
@@ -12865,6 +13283,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/timesh",
     "cg/timesh"
    ],
    "exposed": true
@@ -12882,6 +13301,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nlweb",
     "cg/nlweb"
    ],
    "exposed": true
@@ -12899,6 +13319,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nostr",
     "cg/nostr"
    ],
    "exposed": true
@@ -12917,6 +13338,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nostr",
     "cg/nostr"
    ],
    "exposed": true
@@ -12935,6 +13357,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nostr",
     "cg/nostr"
    ],
    "exposed": true
@@ -12953,6 +13376,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nostr",
     "cg/nostr"
    ],
    "exposed": true
@@ -12971,6 +13395,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nostr",
     "cg/nostr"
    ],
    "exposed": true
@@ -12989,6 +13414,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/nostr",
     "cg/nostr"
    ],
    "exposed": true
@@ -13030,6 +13456,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/oerschema",
     "cg/oerschema"
    ],
    "exposed": true
@@ -13047,6 +13474,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13064,6 +13492,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13081,6 +13510,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13098,6 +13528,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13115,6 +13546,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13132,6 +13564,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13149,6 +13582,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13166,6 +13600,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13183,6 +13618,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13200,6 +13636,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13217,6 +13654,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13234,6 +13672,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13251,6 +13690,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13268,6 +13708,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13285,6 +13726,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13302,6 +13744,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13319,6 +13762,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13336,6 +13780,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13353,6 +13798,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13370,6 +13816,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13388,6 +13835,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13405,6 +13853,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13422,6 +13871,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13439,6 +13889,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13456,6 +13907,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13473,6 +13925,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13490,6 +13943,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13507,6 +13961,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13525,6 +13980,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13541,6 +13997,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13558,6 +14015,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13575,6 +14033,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13592,6 +14051,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13609,6 +14069,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13626,6 +14087,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13643,6 +14105,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13660,6 +14123,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13677,6 +14141,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13694,6 +14159,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13712,6 +14178,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13729,6 +14196,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13746,6 +14214,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13764,6 +14233,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13781,6 +14251,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13798,6 +14269,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13815,6 +14287,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13832,6 +14305,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13849,6 +14323,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13866,6 +14341,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13883,6 +14359,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13900,6 +14377,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13917,6 +14395,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13934,6 +14413,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13952,6 +14432,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13968,6 +14449,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -13984,6 +14466,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14001,6 +14484,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14018,6 +14502,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14035,6 +14520,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14052,6 +14538,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14069,6 +14556,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14086,6 +14574,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14103,6 +14592,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14121,6 +14611,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14138,6 +14629,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14156,6 +14648,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14173,6 +14666,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14191,6 +14685,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14209,6 +14704,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14226,6 +14722,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14243,6 +14740,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14260,6 +14758,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14277,6 +14776,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14295,6 +14795,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14313,6 +14814,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14330,6 +14832,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14347,6 +14850,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14364,6 +14868,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14381,6 +14886,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14398,6 +14904,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14416,6 +14923,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14433,6 +14941,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14450,6 +14959,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/openactive",
     "cg/openactive"
    ],
    "exposed": true
@@ -14466,6 +14976,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/open-ui",
     "cg/open-ui"
    ],
    "exposed": true
@@ -14508,6 +15019,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ujg",
     "cg/ujg"
    ],
    "exposed": true
@@ -14525,6 +15037,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/pair-cg",
     "cg/pair-cg"
    ],
    "exposed": true
@@ -14727,6 +15240,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/perma-id",
     "cg/perma-id"
    ],
    "exposed": true
@@ -14744,6 +15258,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/timesh",
     "cg/timesh"
    ],
    "exposed": true
@@ -14762,6 +15277,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/timesh",
     "cg/timesh"
    ],
    "exposed": true
@@ -14780,6 +15296,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/ppl",
     "cg/ppl"
    ],
    "exposed": true
@@ -14797,6 +15314,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/privacycg",
     "cg/privacycg"
    ],
    "exposed": true
@@ -15222,6 +15740,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/cns",
     "cg/cns"
    ],
    "exposed": true
@@ -15239,6 +15758,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xslt-40",
     "cg/xslt-40"
    ],
    "exposed": true
@@ -15283,6 +15803,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xslt-40",
     "cg/xslt-40"
    ],
    "exposed": true
@@ -15326,6 +15847,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15344,6 +15866,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15361,6 +15884,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15378,6 +15902,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15395,6 +15920,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15413,6 +15939,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15431,6 +15958,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15448,6 +15976,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15466,6 +15995,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15484,6 +16014,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15502,6 +16033,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15520,6 +16052,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15537,6 +16070,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15555,6 +16089,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdfjs",
     "cg/rdfjs"
    ],
    "exposed": true
@@ -15573,6 +16108,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/reconciliation",
     "cg/reconciliation"
    ],
    "exposed": true
@@ -15591,6 +16127,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/reconciliation",
     "cg/reconciliation"
    ],
    "exposed": true
@@ -15608,6 +16145,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/reconciliation",
     "cg/reconciliation"
    ],
    "exposed": true
@@ -15626,6 +16164,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/reconciliation",
     "cg/reconciliation"
    ],
    "exposed": true
@@ -15644,6 +16183,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/reconciliation",
     "cg/reconciliation"
    ],
    "exposed": true
@@ -15662,6 +16202,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/unhosted",
     "cg/unhosted"
    ],
    "exposed": true
@@ -15678,6 +16219,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15696,6 +16238,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15713,6 +16256,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15730,6 +16274,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15748,6 +16293,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15766,6 +16312,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15783,6 +16330,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15801,6 +16349,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15818,6 +16367,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemaorg",
     "cg/schemaorg"
    ],
    "exposed": true
@@ -15835,6 +16385,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/quickfix",
     "cg/quickfix"
    ],
    "exposed": true
@@ -15852,6 +16403,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/quickfix",
     "cg/quickfix"
    ],
    "exposed": true
@@ -15915,6 +16467,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/sccg",
     "cg/sccg"
    ],
    "exposed": true
@@ -15956,6 +16509,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/sccg",
     "cg/sccg"
    ],
    "exposed": true
@@ -15972,6 +16526,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/sccg",
     "cg/sccg"
    ],
    "exposed": true
@@ -15989,6 +16544,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/sccg",
     "cg/sccg"
    ],
    "exposed": true
@@ -16006,6 +16562,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/semtechdoc",
     "cg/semtechdoc"
    ],
    "exposed": true
@@ -16023,6 +16580,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16040,6 +16598,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16057,6 +16616,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16074,6 +16634,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16091,6 +16652,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16109,6 +16671,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16126,6 +16689,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16143,6 +16707,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16161,6 +16726,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16178,6 +16744,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16195,6 +16762,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16212,6 +16780,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16229,6 +16798,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16246,6 +16816,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16263,6 +16834,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16280,6 +16852,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16297,6 +16870,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16334,6 +16908,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16351,6 +16926,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16369,6 +16945,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16386,6 +16963,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16403,6 +16981,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16461,6 +17040,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16478,6 +17058,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/shex",
     "cg/shex"
    ],
    "exposed": true
@@ -16496,6 +17077,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/solid",
     "cg/solid"
    ],
    "exposed": true
@@ -16514,6 +17096,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16531,6 +17114,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16548,6 +17132,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16587,6 +17172,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16605,6 +17191,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16622,6 +17209,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16640,6 +17228,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/speced-cg",
     "cg/speced-cg"
    ],
    "exposed": true
@@ -16657,6 +17246,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/svgcg",
     "cg/svgcg"
    ],
    "exposed": true
@@ -16675,6 +17265,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/svgcg",
     "cg/svgcg"
    ],
    "exposed": true
@@ -16692,6 +17283,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16709,6 +17301,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16725,6 +17318,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16742,6 +17336,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16760,6 +17355,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16777,6 +17373,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16794,6 +17391,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16810,6 +17408,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16828,6 +17427,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16845,6 +17445,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16863,6 +17464,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16881,6 +17483,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16898,6 +17501,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16915,6 +17519,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16932,6 +17537,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16950,6 +17556,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16966,6 +17573,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -16983,6 +17591,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17001,6 +17610,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17018,6 +17628,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17035,6 +17646,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17052,6 +17664,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17069,6 +17682,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17086,6 +17700,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17102,6 +17717,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17119,6 +17735,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17136,6 +17753,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17154,6 +17772,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/socialcg",
     "cg/socialcg"
    ],
    "exposed": true
@@ -17172,6 +17791,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/bdns",
     "cg/bdns"
    ],
    "exposed": true
@@ -17189,6 +17809,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/schemed",
     "cg/schemed"
    ],
    "exposed": true
@@ -17206,6 +17827,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/typed-context-protocol",
     "cg/typed-context-protocol"
    ],
    "exposed": true
@@ -17223,6 +17845,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/typed-context-protocol",
     "cg/typed-context-protocol"
    ],
    "exposed": true
@@ -17240,6 +17863,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/typed-context-protocol",
     "cg/typed-context-protocol"
    ],
    "exposed": true
@@ -17257,6 +17881,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/typed-context-protocol",
     "cg/typed-context-protocol"
    ],
    "exposed": true
@@ -17275,6 +17900,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/universalimages",
     "cg/universalimages"
    ],
    "exposed": true
@@ -17292,6 +17918,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/universalimages",
     "cg/universalimages"
    ],
    "exposed": true
@@ -17309,6 +17936,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17327,6 +17955,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17344,6 +17973,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17361,6 +17991,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17378,6 +18009,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17396,6 +18028,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17413,6 +18046,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17431,6 +18065,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17449,6 +18084,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17466,6 +18102,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17483,6 +18120,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17500,6 +18138,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17518,6 +18157,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17535,6 +18175,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17552,6 +18193,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17592,6 +18234,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17610,6 +18253,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17627,6 +18271,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17644,6 +18289,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17662,6 +18308,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17679,6 +18326,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17696,6 +18344,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17714,6 +18363,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17730,6 +18380,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17748,6 +18399,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17765,6 +18417,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17783,6 +18436,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17801,6 +18455,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17819,6 +18474,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17837,6 +18493,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17855,6 +18512,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17872,6 +18530,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17890,6 +18549,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17908,6 +18568,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17925,6 +18586,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17943,6 +18605,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17961,6 +18624,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17979,6 +18643,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -17997,6 +18662,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18014,6 +18680,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18031,6 +18698,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18049,6 +18717,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18067,6 +18736,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18085,6 +18755,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18102,6 +18773,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18140,6 +18812,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18158,6 +18831,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18176,6 +18850,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18193,6 +18868,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18211,6 +18887,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18229,6 +18906,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18247,6 +18925,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18265,6 +18944,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18283,6 +18963,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18301,6 +18982,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18319,6 +19001,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18337,6 +19020,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18354,6 +19038,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18371,6 +19056,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18389,6 +19075,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18407,6 +19094,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18445,6 +19133,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18462,6 +19151,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18480,6 +19170,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18498,6 +19189,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18516,6 +19208,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18534,6 +19227,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18570,6 +19264,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18588,6 +19283,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18631,6 +19327,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18669,6 +19366,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18686,6 +19384,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18703,6 +19402,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18721,6 +19421,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18802,6 +19503,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18841,6 +19543,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18858,6 +19561,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18876,6 +19580,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18893,6 +19598,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18911,6 +19617,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18944,6 +19651,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18960,6 +19668,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18978,6 +19687,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -18996,6 +19706,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -19014,6 +19725,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -19031,6 +19743,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -19049,6 +19762,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -19067,6 +19781,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -19108,6 +19823,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -19126,6 +19842,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/credentials",
     "cg/credentials"
    ],
    "exposed": true
@@ -20263,6 +20980,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/music-notation",
     "cg/music-notation"
    ],
    "exposed": true
@@ -21676,6 +22394,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21694,6 +22413,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21712,6 +22432,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21729,6 +22450,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21746,6 +22468,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21763,6 +22486,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21780,6 +22504,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21797,6 +22522,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -21814,6 +22540,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/lbd",
     "cg/lbd"
    ],
    "exposed": true
@@ -22043,6 +22770,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/rdf-dev",
     "cg/rdf-dev"
    ],
    "exposed": true
@@ -22117,6 +22845,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/inbandtracks",
     "cg/inbandtracks"
    ],
    "exposed": true
@@ -30709,6 +31438,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/odrl",
     "cg/odrl"
    ],
    "exposed": true
@@ -38212,6 +38942,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/blockchain",
     "cg/blockchain"
    ],
    "exposed": true
@@ -40961,6 +41692,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -40977,6 +41709,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -40995,6 +41728,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41034,6 +41768,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41074,6 +41809,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41092,6 +41828,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41110,6 +41847,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41152,6 +41890,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41169,6 +41908,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41187,6 +41927,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41205,6 +41946,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41223,6 +41965,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41239,6 +41982,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41257,6 +42001,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41274,6 +42019,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41313,6 +42059,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41330,6 +42077,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41347,6 +42095,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41365,6 +42114,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41381,6 +42131,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41424,6 +42175,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41442,6 +42194,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41460,6 +42213,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41476,6 +42230,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41494,6 +42249,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41511,6 +42267,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41529,6 +42286,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41567,6 +42325,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41584,6 +42343,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41625,6 +42385,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41643,6 +42404,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41660,6 +42422,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41678,6 +42441,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41696,6 +42460,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41712,6 +42477,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41730,6 +42496,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41770,6 +42537,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41788,6 +42556,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41806,6 +42575,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41824,6 +42594,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41841,6 +42612,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41858,6 +42630,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "other/tag",
     "other/tag"
    ],
    "exposed": true
@@ -41875,6 +42648,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/wfcg",
     "cg/wfcg"
    ],
    "exposed": true
@@ -41893,6 +42667,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -41910,6 +42685,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -41928,6 +42704,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -41945,6 +42722,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -41962,6 +42740,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -41979,6 +42758,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -41996,6 +42776,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -42014,6 +42795,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webpayments",
     "cg/webpayments"
    ],
    "exposed": true
@@ -42030,6 +42812,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42047,6 +42830,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42064,6 +42848,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42081,6 +42866,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42098,6 +42884,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42114,6 +42901,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42130,6 +42918,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42147,6 +42936,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42164,6 +42954,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42182,6 +42973,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42200,6 +42992,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42217,6 +43010,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42235,6 +43029,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webdx",
     "cg/webdx"
    ],
    "exposed": true
@@ -42253,6 +43048,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/web-api-discovery",
     "cg/web-api-discovery"
    ],
    "exposed": true
@@ -42269,6 +43065,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webcomponents",
     "cg/webcomponents"
    ],
    "exposed": true
@@ -42286,6 +43083,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webcomponents",
     "cg/webcomponents"
    ],
    "exposed": true
@@ -42304,6 +43102,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webcomponents",
     "cg/webcomponents"
    ],
    "exposed": true
@@ -42321,6 +43120,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42338,6 +43138,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42355,6 +43156,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42373,6 +43175,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42390,6 +43193,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42407,6 +43211,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42424,6 +43229,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42442,6 +43248,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42484,6 +43291,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42501,6 +43309,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42518,6 +43327,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42584,6 +43394,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42625,6 +43436,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42643,6 +43455,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42684,6 +43497,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42702,6 +43516,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42719,6 +43534,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42737,6 +43553,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42754,6 +43571,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42771,6 +43589,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webmachinelearning",
     "cg/webmachinelearning"
    ],
    "exposed": true
@@ -42813,6 +43632,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42831,6 +43651,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42849,6 +43670,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42866,6 +43688,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42884,6 +43707,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42902,6 +43726,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42920,6 +43745,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42937,6 +43763,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42955,6 +43782,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42972,6 +43800,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -42989,6 +43818,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webscreens",
     "cg/webscreens"
    ],
    "exposed": true
@@ -43006,6 +43836,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webtiming",
     "cg/webtiming"
    ],
    "exposed": true
@@ -43023,6 +43854,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webtiming",
     "cg/webtiming"
    ],
    "exposed": true
@@ -43040,6 +43872,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webtiming",
     "cg/webtiming"
    ],
    "exposed": true
@@ -43057,6 +43890,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webtiming",
     "cg/webtiming"
    ],
    "exposed": true
@@ -43073,6 +43907,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/webtiming",
     "cg/webtiming"
    ],
    "exposed": true
@@ -43115,6 +43950,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43132,6 +43968,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43149,6 +43986,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43166,6 +44004,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43184,6 +44023,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43201,6 +44041,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43219,6 +44060,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43236,6 +44078,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43253,6 +44096,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43270,6 +44114,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43287,6 +44132,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43304,6 +44150,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43321,6 +44168,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43338,6 +44186,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43355,6 +44204,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43372,6 +44222,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43389,6 +44240,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43406,6 +44258,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43423,6 +44276,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43441,6 +44295,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43458,6 +44313,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43475,6 +44331,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43492,6 +44349,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43508,6 +44366,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43525,6 +44384,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43542,6 +44402,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43559,6 +44420,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43576,6 +44438,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
@@ -43593,6 +44456,7 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
+    "cg/xproc-next",
     "cg/xproc-next"
    ],
    "exposed": true
