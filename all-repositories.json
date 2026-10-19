@@ -1235,6 +1235,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "github-training",
+  "owner": {
+   "login": "Nordic-Accessibility-Community-Group"
+  },
+  "url": "https://github.com/Nordic-Accessibility-Community-Group/github-training",
+  "description": "Browser-based GitHub practice for the Nordic Accessibility Community Group",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/nordic-accessibility"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "2021-packaging-research-artefacts-with-ro-crate",
   "owner": {
    "login": "ResearchObject"
@@ -34327,6 +34344,17 @@
    ],
    "exposed": true
   }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "style-guide",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/style-guide",
+  "homepageUrl": "https://w3c.github.io/style-guide/",
+  "isArchived": false,
+  "isPrivate": false
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
