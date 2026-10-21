@@ -6353,6 +6353,30 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "fp16",
+  "owner": {
+   "login": "WebAssembly"
+  },
+  "url": "https://github.com/WebAssembly/fp16",
+  "homepageUrl": "https://webassembly.github.io/fp16/",
+  "description": "Proposal to introduce half precision operations",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/webassembly"
+   ],
+   "contacts": [
+    "ericprud"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "frozen-values",
   "owner": {
    "login": "WebAssembly"
@@ -6381,29 +6405,6 @@
    "login": "WebAssembly"
   },
   "url": "https://github.com/WebAssembly/gc-js-customization",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/webassembly"
-   ],
-   "contacts": [
-    "ericprud"
-   ],
-   "repo-type": [
-    "cg-report"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "half-precision",
-  "owner": {
-   "login": "WebAssembly"
-  },
-  "url": "https://github.com/WebAssembly/half-precision",
-  "description": "Proposal to introduce half precision operations",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -35771,7 +35772,7 @@
   },
   "url": "https://github.com/w3ctag/user-agents",
   "homepageUrl": "https://w3ctag.github.io/user-agents/",
-  "description": "A Draft Finding on User Agents",
+  "description": "A Note on User Agents",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
