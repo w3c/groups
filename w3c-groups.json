@@ -12885,7 +12885,7 @@
     "href": "https://api.w3.org/groups/wg/browser-tools-testing/charters"
    },
    "active-charter": {
-    "href": "https://api.w3.org/groups/wg/browser-tools-testing/charters/506"
+    "href": "https://api.w3.org/groups/wg/browser-tools-testing/charters/564"
    },
    "join": {
     "href": "https://www.w3.org/groups/wg/browser-tools-testing/join"
@@ -12902,7 +12902,7 @@
   },
   "type": "working group",
   "start-date": "2011-10-12",
-  "end-date": "2026-10-23",
+  "end-date": "2028-10-20",
   "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
   "tr-publisher": true,
   "group-type": "wg",
@@ -77756,6 +77756,136 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/1039/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 180536,
+  "name": "W3C Open Source Program Community Group",
+  "is_closed": false,
+  "creation-date": "2026-10-21",
+  "description": "<p>In September 2026, W3C <a href=\"https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/\">announced</a> a first pilot project for a new Open Source Program. </p>\n\n<p>The mission of the W3C Open Source Program Community Group is to manage the next phase of growth of a W3C Open Source Program.\nThis Community Group will study what is needed to create a scalable W3C Open Source Program, focusing on program governance, operations, and liaisons, and developing a clear project lifecycle description. </p>\n\n<p>The group has a goal for W3C to launch a full Open Source Program by mid-2028, after which the expectation is that this Community Group would be replaced by a governing body (and therefore archived).</p>\n\n<p>This group will not publish Specifications.</p>",
+  "shortname": "w3c-open-source-program",
+  "spec-publisher": false,
+  "discr": "w3cgroup",
+  "_links": {
+   "homepage": {
+    "href": "https://www.w3.org/community/w3c-open-source-program/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/w3c-open-source-program/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/w3c-open-source-program/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/w3c-open-source-program/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/w3c-open-source-program/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/w3c-open-source-program/participations"
+   },
+   "self": {
+    "href": "https://api.w3.org/groups/cg/w3c-open-source-program"
+   }
+  },
+  "type": "community group",
+  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/w3c-open-source-program",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46338",
+    "title": "GitHub (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-oss/open-source-program",
+     "shortdesc": "GitHub",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46338"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46338/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46337",
+    "title": "internal-w3c-open-source-program (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-w3c-open-source-program/",
+     "shortdesc": "internal-w3c-open-source-program",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46337"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46337/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46335",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#w3c-open-source-program",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46335"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46335/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46336",
+    "title": "public-w3c-open-source-program (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-w3c-open-source-program/",
+     "shortdesc": "public-w3c-open-source-program",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46336"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46336/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46334",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/w3c-open-source-program/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46334"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46334/groups"
       }
      }
     }
