@@ -21880,6 +21880,23 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "open-source-program",
+  "owner": {
+   "login": "w3c-oss"
+  },
+  "url": "https://github.com/w3c-oss/open-source-program",
+  "description": "Home on GitHub of a W3C Open Source Program (in development)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/w3c-open-source-program"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": ".github",
   "owner": {
    "login": "w3c"
