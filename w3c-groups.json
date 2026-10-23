@@ -38770,13 +38770,31 @@
   "identifier": "cg/jim-graphics",
   "services": [
    {
-    "href": "https://api.w3.org/services/46314",
+    "href": "https://api.w3.org/services/46339",
     "title": "GitHub - jim-annotations (Version Control)",
     "details": {
      "closed": false,
      "type": "repository",
-     "link": "https://github.com/w3c-cg/jim-annotations/",
+     "link": "https://github.com/w3c-cg/jim-annotations",
      "shortdesc": "GitHub - jim-annotations",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46339"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46339/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46314",
+    "title": "GitHub - jim-graphics (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/jim-graphics",
+     "shortdesc": "GitHub - jim-graphics",
      "_links": {
       "self": {
        "href": "https://api.w3.org/services/46314"
