@@ -18487,6 +18487,24 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "portable-web-spaces-spec",
+  "owner": {
+   "login": "w3c-ccg"
+  },
+  "url": "https://github.com/w3c-ccg/portable-web-spaces-spec",
+  "homepageUrl": "https://w3c-ccg.github.io/portable-web-spaces-spec/",
+  "description": "Portable Web Spaces (PWS) specification, formerly: Wallet Attached Storage. (ReSpec format)",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/credentials"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "registries-process",
   "owner": {
    "login": "w3c-ccg"
@@ -19112,8 +19130,6 @@
    "login": "w3c-ccg"
   },
   "url": "https://github.com/w3c-ccg/wallet-attached-storage-spec",
-  "homepageUrl": "https://w3c-ccg.github.io/wallet-attached-storage-spec/",
-  "description": "Wallet Attached Storage specification (ReSpec format)",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
@@ -41317,23 +41333,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "gaps",
-  "owner": {
-   "login": "w3ctag"
-  },
-  "url": "https://github.com/w3ctag/gaps",
-  "description": "What are the big unmet user needs of the web platform?",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/tag"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "install-finding",
   "owner": {
    "login": "w3ctag"
@@ -41887,6 +41886,23 @@
   },
   "url": "https://github.com/w3ctag/wiki",
   "description": "wiki for non-specific stuff",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wishlist",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "url": "https://github.com/w3ctag/wishlist",
+  "description": "What are the big unmet user needs of the web platform?",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
