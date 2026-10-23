@@ -314,23 +314,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "gaps",
-  "owner": {
-   "login": "w3ctag"
-  },
-  "url": "https://github.com/w3ctag/gaps",
-  "description": "What are the big unmet user needs of the web platform?",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "other/tag"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "install-finding",
   "owner": {
    "login": "w3ctag"
@@ -860,6 +843,23 @@
   },
   "url": "https://github.com/w3ctag/wiki",
   "description": "wiki for non-specific stuff",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "other/tag"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "wishlist",
+  "owner": {
+   "login": "w3ctag"
+  },
+  "url": "https://github.com/w3ctag/wishlist",
+  "description": "What are the big unmet user needs of the web platform?",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
