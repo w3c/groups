@@ -11823,23 +11823,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "ixml",
-  "owner": {
-   "login": "invisibleXML"
-  },
-  "url": "https://github.com/invisibleXML/ixml",
-  "description": "Invisible XML",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "cg/ixml"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "awesome-json-ld",
   "owner": {
    "login": "json-ld"
@@ -31884,6 +31867,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/publ-a11y-extended-desc",
+  "homepageUrl": "https://w3c.github.io/publ-a11y-extended-desc/",
   "description": "Documenting a11y extended descriptions, with an emphasis on digital publishing",
   "isArchived": false,
   "isPrivate": false,
