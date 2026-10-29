@@ -14814,11 +14814,29 @@
   "identifier": "wg/css",
   "services": [
    {
-    "href": "https://api.w3.org/services/46250",
-    "title": "CSSWG Wiki (Discussion Forum)",
+    "href": "https://api.w3.org/services/46340",
+    "title": "CSS IRC room (Chat)",
     "details": {
      "closed": false,
-     "type": "forum",
+     "type": "chat",
+     "link": "https://irc.w3.org/?channels=#css",
+     "shortdesc": "CSS IRC room",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46340"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46340/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46250",
+    "title": "CSSWG Wiki (Wiki)",
+    "details": {
+     "closed": false,
+     "type": "wiki",
      "link": "https://wiki.csswg.org/",
      "shortdesc": "CSSWG Wiki",
      "_links": {
