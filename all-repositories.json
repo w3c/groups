@@ -34531,7 +34531,19 @@
   "url": "https://github.com/w3c/svg-playground",
   "description": "SVG Playground repo",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    19480
+   ],
+   "contacts": [
+    "caribouW3"
+   ],
+   "repo-type": [
+    "tool"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
