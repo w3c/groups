@@ -3802,6 +3802,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "device-memory",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/device-memory",
+  "homepageUrl": "https://wicg.github.io/device-memory/",
+  "description": "Device Memory",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    45211
+   ],
+   "contacts": [
+    "plehegar"
+   ],
+   "shortName": "device-memory",
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "digital-goods",
   "owner": {
    "login": "WICG"
@@ -4605,6 +4630,31 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "longtasks",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/longtasks",
+  "homepageUrl": "https://wicg.github.io/longtasks/",
+  "description": "Long Task API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    45211
+   ],
+   "contacts": [
+    "carine"
+   ],
+   "shortName": "longtasks",
+   "repo-type": [
+    "rec-track"
    ],
    "exposed": true
   }
@@ -25042,31 +25092,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "device-memory",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/device-memory",
-  "homepageUrl": "https://w3c.github.io/device-memory/",
-  "description": "Device Memory",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    45211
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "shortName": "device-memory",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "device-posture",
   "owner": {
    "login": "w3c"
@@ -28759,31 +28784,6 @@
     "carine"
    ],
    "shortName": "long-animation-frames",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "longtasks",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/longtasks",
-  "homepageUrl": "https://w3c.github.io/longtasks/",
-  "description": "Long Task API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    45211
-   ],
-   "contacts": [
-    "carine"
-   ],
-   "shortName": "longtasks",
    "repo-type": [
     "rec-track"
    ],
