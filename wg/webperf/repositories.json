@@ -52,31 +52,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "device-memory",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/device-memory",
-  "homepageUrl": "https://w3c.github.io/device-memory/",
-  "description": "Device Memory",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webperf"
-   ],
-   "contacts": [
-    "plehegar"
-   ],
-   "shortName": "device-memory",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "element-timing",
   "owner": {
    "login": "w3c"
@@ -192,31 +167,6 @@
     "carine"
    ],
    "shortName": "long-animation-frames",
-   "repo-type": [
-    "rec-track"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "longtasks",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/longtasks",
-  "homepageUrl": "https://w3c.github.io/longtasks/",
-  "description": "Long Task API",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webperf"
-   ],
-   "contacts": [
-    "carine"
-   ],
-   "shortName": "longtasks",
    "repo-type": [
     "rec-track"
    ],
