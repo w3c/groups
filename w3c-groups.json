@@ -43839,6 +43839,24 @@
   "identifier": "cg/metaverse-interop",
   "services": [
    {
+    "href": "https://api.w3.org/services/46341",
+    "title": "Discord (Discussion Forum)",
+    "details": {
+     "closed": false,
+     "type": "forum",
+     "link": "https://discord.gg/2wKccgNNuJ",
+     "shortdesc": "Discord",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46341"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46341/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/33199",
     "title": "GitHub (Version Control)",
     "details": {
