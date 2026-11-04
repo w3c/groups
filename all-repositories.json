@@ -23900,29 +23900,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "cg-assets",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/cg-assets",
-  "description": "Assets for Community Groups",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    122803
-   ],
-   "contacts": [
-    "deniak"
-   ],
-   "repo-type": [
-    "tool"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "cg-charter",
   "owner": {
    "login": "w3c"
@@ -24003,6 +23980,29 @@
    ],
    "repo-type": [
     "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "cg-spec-assets",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/cg-spec-assets",
+  "description": "Assets for Community Groups",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    122803
+   ],
+   "contacts": [
+    "deniak"
+   ],
+   "repo-type": [
+    "tool"
    ],
    "exposed": true
   }
