@@ -28,7 +28,7 @@
    "href": "https://api.w3.org/groups/wg/svg/charters"
   },
   "active-charter": {
-   "href": "https://api.w3.org/groups/wg/svg/charters/505"
+   "href": "https://api.w3.org/groups/wg/svg/charters/566"
   },
   "join": {
    "href": "https://www.w3.org/groups/wg/svg/join"
@@ -45,7 +45,7 @@
  },
  "type": "working group",
  "start-date": "1998-07-24",
- "end-date": "2026-11-30",
+ "end-date": "2028-11-04",
  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
  "tr-publisher": true,
  "group-type": "wg",
