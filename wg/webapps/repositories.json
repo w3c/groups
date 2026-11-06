@@ -378,32 +378,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "using-aria",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/using-aria",
-  "homepageUrl": "https://w3c.github.io/using-aria/",
-  "description": "Using ARIA",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    "wg/webapps"
-   ],
-   "contacts": [
-    "siusin"
-   ],
-   "shortName": "using-aria",
-   "policy": "open",
-   "repo-type": [
-    "note"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-locks",
   "owner": {
    "login": "w3c"
