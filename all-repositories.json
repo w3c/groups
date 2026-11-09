@@ -25035,30 +25035,6 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "design",
-  "owner": {
-   "login": "w3c"
-  },
-  "url": "https://github.com/w3c/design",
-  "homepageUrl": "https://w3c.github.io/design/",
-  "description": "Templates, mock-ups, proposals and design-related materials at W3C",
-  "isArchived": false,
-  "isPrivate": false,
-  "w3cjson": {
-   "group": [
-    36332
-   ],
-   "contacts": [
-    "koalie"
-   ],
-   "repo-type": [
-    "article"
-   ],
-   "exposed": true
-  }
- },
- {
-  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "dev-support",
   "owner": {
    "login": "w3c"
