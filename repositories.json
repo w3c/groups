@@ -30250,6 +30250,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "sparql-threat-model",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/sparql-threat-model",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/rdf-star"
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "sparql-update",
   "owner": {
    "login": "w3c"
