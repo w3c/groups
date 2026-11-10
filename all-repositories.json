@@ -10995,7 +10995,6 @@
     109735
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
@@ -11188,7 +11187,6 @@
     87846
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
@@ -11453,7 +11451,6 @@
     87846
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
@@ -11521,7 +11518,13 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    "cg/immersive-web"
+    87846
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "cg-report"
    ],
    "exposed": true
   }
@@ -11541,7 +11544,6 @@
     87846
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
    "repo-type": [
@@ -11614,10 +11616,8 @@
     109735
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
-   "shortName": "webxr-ar-module",
    "repo-type": [
     "rec-track"
    ],
@@ -11656,10 +11656,8 @@
     109735
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
-   "shortName": "webxr-gamepads-module",
    "repo-type": [
     "rec-track"
    ],
@@ -11682,10 +11680,8 @@
     109735
    ],
    "contacts": [
-    "dontcallmedom",
     "himorin"
    ],
-   "shortName": "webxr-hand-input",
    "repo-type": [
     "rec-track"
    ],
@@ -33999,6 +33995,28 @@
   },
   "url": "https://github.com/w3c/sparql-service-description",
   "homepageUrl": "https://w3c.github.io/sparql-service-description/",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    139681
+   ],
+   "contacts": [
+    "pchampin"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "sparql-threat-model",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/sparql-threat-model",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
