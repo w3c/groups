@@ -3813,14 +3813,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    45211
+    "cg/wicg"
    ],
    "contacts": [
-    "plehegar"
+    "tunetheweb",
+    "guohuideng2024"
    ],
-   "shortName": "device-memory",
    "repo-type": [
-    "rec-track"
+    "cg-report"
    ],
    "exposed": true
   }
