@@ -34425,6 +34425,136 @@
   ]
  },
  {
+  "id": 181065,
+  "name": "High Assurance Profile for W3C VCDM 2.0 Community Group",
+  "is_closed": false,
+  "creation-date": "2026-11-12",
+  "description": "<p>Increasingly, regulations require verifiable credentials for high-assurance use cases. For example, the EU Artificial Intelligence Act requires data governance and record-keeping for high-risk systems (Art. 10 and 12), and the EU Machinery Regulation covers self-learning safety functions. The <a href=\"https://www.w3.org/TR/vc-data-model-2.0/\">W3C Verifiable Credentials Data Model (VCDM)</a> can express linked, open-world evidence, but a verifier can rely on it only if contexts are pinned, securing mechanisms are fixed, and status is checkable.</p>\n\n<p>The mission of this group is to develop a High Assurance Profile (HAIP) for the W3C Verifiable Credentials Data Model (VCDM) to create a verifiable evidence layer that agents, industrial AI, and robots can trust, anchored in the eIDAS trust framework (and similar frameworks).</p>",
+  "shortname": "vc-haip",
+  "spec-publisher": true,
+  "discr": "w3cgroup",
+  "_links": {
+   "homepage": {
+    "href": "https://www.w3.org/community/vc-haip/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/cg/vc-haip/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/cg/vc-haip/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/cg/vc-haip/chairs"
+   },
+   "join": {
+    "href": "https://www.w3.org/community/vc-haip/join"
+   },
+   "participations": {
+    "href": "https://api.w3.org/groups/cg/vc-haip/participations"
+   },
+   "self": {
+    "href": "https://api.w3.org/groups/cg/vc-haip"
+   }
+  },
+  "type": "community group",
+  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+  "tr-publisher": false,
+  "group-type": "cg",
+  "identifier": "cg/vc-haip",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46350",
+    "title": "GitHub (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/vc-haip",
+     "shortdesc": "GitHub",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46350"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46350/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46349",
+    "title": "internal-vc-haip (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/internal-vc-haip/",
+     "shortdesc": "internal-vc-haip",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46349"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46349/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46347",
+    "title": "IRC (Chat)",
+    "details": {
+     "closed": false,
+     "type": "chat",
+     "link": "irc://irc.w3.org/#vc-haip",
+     "shortdesc": "IRC",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46347"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46347/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46348",
+    "title": "public-vc-haip (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Public/public-vc-haip/",
+     "shortdesc": "public-vc-haip",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46348"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46348/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46346",
+    "title": "RSS (RSS)",
+    "details": {
+     "closed": false,
+     "type": "rss",
+     "link": "https://www.w3.org/community/vc-haip/feed/",
+     "shortdesc": "RSS",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46346"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46346/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
   "id": 163544,
   "name": "High-Performance Baseline for Web Apps Community Group",
   "is_closed": false,
@@ -43402,6 +43532,56 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/178/groups"
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 181066,
+  "name": "Membership Task Force",
+  "is_closed": false,
+  "creation-date": "2026-11-12",
+  "description": "<p>The mission of the Membership Task Force is to strengthen engagement within W3C membership and to ensure a healthy and diverse membership. To do so it draws from insights gained from members and the community.</p>\n\n<p>Objectives:</p>\n<ul>\n<li>Establish measures and proxy measures to understand our impact through a survey and interviews as deliverables.</li>\n<li>Recommend methods for W3C members to fully enjoy the membership experience at W3C.</li>\n<ul>\n\n<p>This group operates in Member-only space.</p>",
+  "shortname": "membership",
+  "discr": "tf",
+  "_links": {
+   "homepage": {
+    "href": "https://www.w3.org/groups/tf/membership/"
+   },
+   "users": {
+    "href": "https://api.w3.org/groups/tf/membership/users"
+   },
+   "services": {
+    "href": "https://api.w3.org/groups/tf/membership/services"
+   },
+   "chairs": {
+    "href": "https://api.w3.org/groups/tf/membership/chairs"
+   },
+   "self": {
+    "href": "https://api.w3.org/groups/tf/membership"
+   }
+  },
+  "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+  "tr-publisher": false,
+  "identifier": "tf/membership",
+  "group-type": "tf",
+  "services": [
+   {
+    "href": "https://api.w3.org/services/46351",
+    "title": "member-tf (Mailing List)",
+    "details": {
+     "closed": false,
+     "type": "lists",
+     "link": "https://lists.w3.org/Archives/Member/member-tf/",
+     "shortdesc": "member-tf",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46351"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46351/groups"
       }
      }
     }
