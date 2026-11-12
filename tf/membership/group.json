@@ -1,0 +1,50 @@
+{
+ "id": 181066,
+ "name": "Membership Task Force",
+ "is_closed": false,
+ "creation-date": "2026-11-12",
+ "description": "<p>The mission of the Membership Task Force is to strengthen engagement within W3C membership and to ensure a healthy and diverse membership. To do so it draws from insights gained from members and the community.</p>\n\n<p>Objectives:</p>\n<ul>\n<li>Establish measures and proxy measures to understand our impact through a survey and interviews as deliverables.</li>\n<li>Recommend methods for W3C members to fully enjoy the membership experience at W3C.</li>\n<ul>\n\n<p>This group operates in Member-only space.</p>",
+ "shortname": "membership",
+ "discr": "tf",
+ "_links": {
+  "homepage": {
+   "href": "https://www.w3.org/groups/tf/membership/"
+  },
+  "users": {
+   "href": "https://api.w3.org/groups/tf/membership/users"
+  },
+  "services": {
+   "href": "https://api.w3.org/groups/tf/membership/services"
+  },
+  "chairs": {
+   "href": "https://api.w3.org/groups/tf/membership/chairs"
+  },
+  "self": {
+   "href": "https://api.w3.org/groups/tf/membership"
+  }
+ },
+ "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
+ "tr-publisher": false,
+ "identifier": "tf/membership",
+ "group-type": "tf",
+ "services": [
+  {
+   "href": "https://api.w3.org/services/46351",
+   "title": "member-tf (Mailing List)",
+   "details": {
+    "closed": false,
+    "type": "lists",
+    "link": "https://lists.w3.org/Archives/Member/member-tf/",
+    "shortdesc": "member-tf",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46351"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46351/groups"
+     }
+    }
+   }
+  }
+ ]
+}
