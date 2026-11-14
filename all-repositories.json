@@ -36868,6 +36868,28 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "vc-recognized-entities-test-suite",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/vc-recognized-entities-test-suite",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    98922
+   ],
+   "contacts": [
+    "iherman"
+   ],
+   "repo-type": [
+    "tests"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "vc-render-method",
   "owner": {
    "login": "w3c"
