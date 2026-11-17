@@ -3195,6 +3195,22 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "agentic-webdriver-bidi",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/agentic-webdriver-bidi",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "anonymous-iframe",
   "owner": {
    "login": "WICG"
@@ -25392,7 +25408,19 @@
   "url": "https://github.com/w3c/didm",
   "description": "Administrivia repository for DID Methods WG",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    180882
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "process"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
@@ -25403,7 +25431,19 @@
   "url": "https://github.com/w3c/didm-meetings",
   "description": "Meeting information for DID Methods WG",
   "isArchived": false,
-  "isPrivate": false
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    180882
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "process"
+   ],
+   "exposed": true
+  }
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
