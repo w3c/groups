@@ -1,1 +1,48 @@
-[]
+[
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "didm",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/didm",
+  "description": "Administrivia repository for DID Methods WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/didm"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "process"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "didm-meetings",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/didm-meetings",
+  "description": "Meeting information for DID Methods WG",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/didm"
+   ],
+   "contacts": [
+    "himorin"
+   ],
+   "repo-type": [
+    "process"
+   ],
+   "exposed": true
+  }
+ }
+]
