@@ -7410,7 +7410,7 @@
   },
   "type": "working group",
   "start-date": "2011-03-25",
-  "end-date": "2026-11-08",
+  "end-date": "2027-02-08",
   "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
   "tr-publisher": true,
   "group-type": "wg",
@@ -84877,6 +84877,24 @@
       },
       "groups": {
        "href": "https://api.w3.org/services/25741/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46352",
+    "title": "Digital Credential Payment Method Repo (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c/digital-credential-payment-method",
+     "shortdesc": "Digital Credential Payment Method Repo",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46352"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46352/groups"
       }
      }
     }
