@@ -1,6 +1,28 @@
 [
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "digital-credential-payment-method",
+  "owner": {
+   "login": "w3c"
+  },
+  "url": "https://github.com/w3c/digital-credential-payment-method",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "wg/payments"
+   ],
+   "contacts": [
+    "ianbjacobs"
+   ],
+   "repo-type": [
+    "rec-track"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "payment-method-id",
   "owner": {
    "login": "w3c"
