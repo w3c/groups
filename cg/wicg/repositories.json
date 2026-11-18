@@ -2711,6 +2711,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "web-share-target",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/web-share-target",
+  "homepageUrl": "https://wicg.github.io/web-share-target/",
+  "description": "Web API proposal for receiving shared data",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "marcoscaceres"
+   ],
+   "shortName": "web-share-target",
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "web-smart-card",
   "owner": {
    "login": "WICG"
