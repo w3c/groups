@@ -6,6 +6,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/digital-credential-payment-method",
+  "description": "A payment method for requesting digital payment credentials through Payment Request API by connecting it to the Digital Credentials API",
   "isArchived": false,
   "isPrivate": false,
   "w3cjson": {
