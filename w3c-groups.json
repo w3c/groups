@@ -2400,6 +2400,42 @@
   "identifier": "cg/global-inclusion",
   "services": [
    {
+    "href": "https://api.w3.org/services/46354",
+    "title": "a11y-req-deva repo (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/a11y-req-deva",
+     "shortdesc": "a11y-req-deva repo",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46354"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46354/groups"
+      }
+     }
+    }
+   },
+   {
+    "href": "https://api.w3.org/services/46353",
+    "title": "a11y-req-ja repo (Version Control)",
+    "details": {
+     "closed": false,
+     "type": "repository",
+     "link": "https://github.com/w3c-cg/a11y-req-ja",
+     "shortdesc": "a11y-req-ja repo",
+     "_links": {
+      "self": {
+       "href": "https://api.w3.org/services/46353"
+      },
+      "groups": {
+       "href": "https://api.w3.org/services/46353/groups"
+      }
+     }
+    }
+   },
+   {
     "href": "https://api.w3.org/services/43873",
     "title": "internal-global-inclusion (Mailing List)",
     "details": {
@@ -79973,7 +80009,7 @@
   },
   "type": "working group",
   "start-date": "2011-09-07",
-  "end-date": "2026-10-30",
+  "end-date": "2027-01-30",
   "@context": "https://w3c.github.io/groups/contexts/group.jsonld",
   "tr-publisher": true,
   "group-type": "wg",
