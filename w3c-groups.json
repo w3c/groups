@@ -65019,7 +65019,7 @@
   "name": "Security Web Application Guidelines Community Group",
   "is_closed": false,
   "creation-date": "2024-06-18",
-  "description": "The mission of this Community Group is to increase the overall security of web application development, thereby making the web a more secure platform for web users. It will accomplish this by writing web developers security best practices and providing a platform for stakeholder collaboration.\r\n\r\nThis group will not publish Specifications.",
+  "description": "The <a href=\"/community/swag/\">Security Web Application Guidelines Community Group</a> was created in 2024, and worked for 2 years on both the <a href=\"https://www.w3.org/community/reports/swag/CG-FINAL-secure-webapp-guidelines-20261005/\">Secure Web Application Guidelines</a> document (our final report), and on helping shape PRs into <a href=\"https://developer.mozilla.org/en-US/docs/Web/Security\">MDN content related to security</a>. The group has published its final report and is now in <strong>maintenance mode</strong>.",
   "shortname": "swag",
   "spec-publisher": false,
   "discr": "w3cgroup",
