@@ -4663,14 +4663,14 @@
   "isPrivate": false,
   "w3cjson": {
    "group": [
-    45211
+    80485
    ],
    "contacts": [
     "carine"
    ],
    "shortName": "longtasks",
    "repo-type": [
-    "rec-track"
+    "cg-report"
    ],
    "exposed": true
   }
@@ -35589,7 +35589,7 @@
    "login": "w3c"
   },
   "url": "https://github.com/w3c/translation-management",
-  "homepageUrl": "https://www.w3.org/Consortium/Translation/",
+  "homepageUrl": "https://www.w3.org/standards/translation/",
   "description": "Workflow to manage volunteer translations of W3C documents",
   "isArchived": false,
   "isPrivate": false,
