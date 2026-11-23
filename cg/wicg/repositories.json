@@ -1597,6 +1597,31 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "longtasks",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/longtasks",
+  "homepageUrl": "https://wicg.github.io/longtasks/",
+  "description": "Long Task API",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    "cg/wicg"
+   ],
+   "contacts": [
+    "carine"
+   ],
+   "shortName": "longtasks",
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "manifest-incubations",
   "owner": {
    "login": "WICG"
