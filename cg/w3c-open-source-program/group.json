@@ -3,7 +3,7 @@
  "name": "W3C Open Source Program Community Group",
  "is_closed": false,
  "creation-date": "2026-10-21",
- "description": "<p>In September 2026, W3C <a href=\"https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/\">announced</a> a first pilot project for a new Open Source Program. </p>\n\n<p>The mission of the W3C Open Source Program Community Group is to manage the next phase of growth of a W3C Open Source Program.\nThis Community Group will study what is needed to create a scalable W3C Open Source Program, focusing on program governance, operations, and liaisons, and developing a clear project lifecycle description. </p>\n\n<p>The group has a goal for W3C to launch a full Open Source Program by mid-2028, after which the expectation is that this Community Group would be replaced by a governing body (and therefore archived).</p>\n\n<p>This group will not publish Specifications.</p>",
+ "description": "<p>In September 2026, W3C <a href=\"https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/\">announced</a> a first pilot project for a new Open Source Program. </p>\n\n<p>The mission of the W3C Open Source Program Community Group is to manage the next phase of growth of a W3C Open Source Program.\nThis Community Group will study what is needed to create a scalable W3C Open Source Program, focusing on program governance, operations, and liaisons, and developing a clear project lifecycle description. </p>\n\n<p>The group has a goal for W3C to launch a full Open Source Program by mid-2028, after which the expectation is that this Community Group would be replaced by a governing body (and therefore archived).</p>\n\n<p>See the <a href=\"https://github.com/w3c-oss/open-source-program/blob/main/cg/charter.md\">Community Group charter</a> for more information. This group will not publish Specifications.</p>",
  "shortname": "w3c-open-source-program",
  "spec-publisher": false,
  "discr": "w3cgroup",
@@ -122,6 +122,24 @@
      },
      "groups": {
       "href": "https://api.w3.org/services/46334/groups"
+     }
+    }
+   }
+  },
+  {
+   "href": "https://api.w3.org/services/46356",
+   "title": "W3C Open Source Program on Slack (Slack)",
+   "details": {
+    "closed": false,
+    "type": "slack",
+    "link": "https://w3ccommunity.slack.com/archives/C0CLK8U5H5Y",
+    "shortdesc": "W3C Open Source Program on Slack",
+    "_links": {
+     "self": {
+      "href": "https://api.w3.org/services/46356"
+     },
+     "groups": {
+      "href": "https://api.w3.org/services/46356/groups"
      }
     }
    }
