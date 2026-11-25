@@ -3195,6 +3195,29 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
+  "name": "agent-interaction-measurement",
+  "owner": {
+   "login": "WICG"
+  },
+  "url": "https://github.com/WICG/agent-interaction-measurement",
+  "description": "Explainer for measuring agent-mediated web experiences: tool calls, interactions, and optional outcomes.",
+  "isArchived": false,
+  "isPrivate": false,
+  "w3cjson": {
+   "group": [
+    80485
+   ],
+   "contacts": [
+    "yoavweiss"
+   ],
+   "repo-type": [
+    "cg-report"
+   ],
+   "exposed": true
+  }
+ },
+ {
+  "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
   "name": "agentic-webdriver-bidi",
   "owner": {
    "login": "WICG"
