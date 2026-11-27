@@ -40713,11 +40713,12 @@
  },
  {
   "@context": "https://w3c.github.io/groups/contexts/repository.jsonld",
-  "name": "wot-thing-description-toolchain-tmp",
+  "name": "wot-thing-description-toolchain",
   "owner": {
    "login": "w3c"
   },
-  "url": "https://github.com/w3c/wot-thing-description-toolchain-tmp",
+  "url": "https://github.com/w3c/wot-thing-description-toolchain",
+  "homepageUrl": "https://w3c.github.io/wot-thing-description-toolchain/",
   "description": "work area for WoT Thing Description toolchain",
   "isArchived": false,
   "isPrivate": false
